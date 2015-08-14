@@ -1,0 +1,19 @@
+# Site settings
+title: CU Resistance
+url: "http://CURes.blue" # the base hostname & protocol for your site
+navigation:
+ - title: Home
+   url: /index.html
+ - title: Hit list
+   url: /hitlist
+ - title: Protect list
+   url: /protect
+ - title: Field list
+   url: /field
+ - title: AP list
+   url: /ap
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+exclude: [node_modules/, src/, jekyll/, CNAME, .gitignore, package.json, gulpfile.js]

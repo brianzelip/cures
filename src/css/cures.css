@@ -1,0 +1,329 @@
+@charset "UTF-8";
+
+/********************************************
+ *       Custom styles for CURes.blue       *
+ *       built on top of Basscss            *
+ *       by @bzelip                         *
+ ********************************************/
+
+/*
+ *  Contents:
+ *  1. Base element reset styles
+ *  2. Custom component classes
+ *  3. Utilities (single class immutable styles)  
+ */
+
+
+/* Base
+ ================================================== */
+
+/* base reset */
+html { font-size: 16px; }
+
+@media (--breakpoint-md) {
+  html { font-size: 18px; }
+}
+
+@media (--breakpoint-lg) {
+  html { font-size: 20px; }
+}
+
+html,
+body { min-height: 100vh; }
+
+
+
+
+/* base typography */
+@media (--breakpoint-sm) {
+  .sm-h3 { font-size: var(--h3) }
+  
+  .sm-h4 { font-size: var(--h4) }
+}
+
+
+
+/* Custom components
+ ================================================== */
+
+.h00 {
+  font-size: 3.6rem;
+}
+
+.h0 {
+  font-size: 3rem;
+}
+
+@media (min-width: 52em) {
+  .h00-responsive {
+    font-size: 8vw;
+  }
+
+  .h0-responsive {
+    font-size: 6vw;
+  }
+
+  .h1-responsive {
+    font-size: 4vw;
+  }
+}
+
+@media (min-width: 96em) {
+  .h00-responsive {
+    font-size: 7.68rem;
+  }
+
+  .h0-responsive {
+    font-size: 5.76rem;
+  }
+
+  .h1-responsive {
+    font-size: 3.84rem;
+  }
+}
+
+.landscape {
+  height: 75px;
+  width: auto;
+  height: auto;
+  width: 75px;  
+}
+
+.portrait {
+  height: auto;
+  width: 75px;
+  height: 75px;
+  width: auto;
+}
+@media (--breakpoint-sm) {
+  .landscape {
+    height: 150px;
+    width: auto;
+    height: auto;
+    width: 150px;  
+  }
+
+  .portrait {
+    height: auto;
+    width: 150px;
+    height: 150px;
+    width: auto;
+  }
+}
+@media (--breakpoint-md) {
+  .landscape {
+    height: 200px;
+    width: auto;
+    height: auto;
+    width: 200px;  
+  }
+
+  .portrait {
+    height: auto;
+    width: 200px;
+    height: 200px;
+    width: auto;
+  }
+}
+
+@media (--breakpoint-lg) {
+  .landscape {
+    height: 300px;
+    width: auto;
+    height: auto;
+    width: 300px;  
+  }
+
+  .portrait {
+    height: auto;
+    width: 300px;
+    height: 300px;
+    width: auto;
+  }
+}
+
+.hr-block {
+  height: .2rem;
+  border: 0px none;
+}
+
+.list-container {
+  max-width: 50rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (--breakpoint-sm) {
+  .resp-nav--go-to:before {
+    content: "Go to ";
+  }
+}
+
+@media (--breakpoint-sm) {
+  .resp-nav--list:after {
+    content: " List";
+  }
+}
+
+.jumbo { font-size: 6rem; }
+
+
+/*****************************
+  Utilities
+ *****************************/
+
+.ingress { font-family: "ingress"; }
+
+.vh100 { min-height: 100vh; }
+
+.mln3 { margin-left: -2rem; }
+
+.mln4 { margin-left: -3rem; }
+
+@media (--breakpoint-md) {
+  .md-mln3 { margin-left: -2rem; }
+}
+
+@media (--breakpoint-lg) {
+  .lg-mln4 { margin-left: -3rem; }
+}
+
+.blackest { color: var(--blackest); }
+
+.bg-blackest { background-color: var(--blackest); }
+
+.res-blue { color: var(--res-blue); }
+
+.bg-res-blue { background-color: var(--res-blue); }
+
+.enl-green { color: var(--enl-green); }
+
+.bg-enl-green { background-color: var(--enl-green); }
+
+.flex-row { flex-direction: row; }
+
+@media (--breakpoint-md) {
+  .md-flex-row { flex-direction: row; }
+}
+
+@media (--breakpoint-md) {
+  .md-left-align { text-align: left; }
+}
+
+.pt3 { padding-top: 2rem; }
+
+@media (--breakpoint-sm) {
+  .sm-py0 {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
+
+@media (--breakpoint-sm) {
+  .sm-overflow-visible { overflow: visible; }
+}
+
+
+.flex-grow-1 { flex-grow: 1; }
+
+.flex > * {
+  box-sizing: border-box;
+}
+
+
+.portalHitlist { counter-reset: portalHitlistCounter; }
+
+.portalProfile:before {
+  content: counter(portalHitlistCounter);
+  counter-increment: portalHitlistCounter;
+  padding-top: 1rem;
+  font: bold 4rem/1 sans-serif;
+}
+
+.portalHitlist2 { counter-reset: portalHitlistCounter2; }
+
+.priorityNumber:before {
+  content: counter(portalHitlistCounter2);
+  counter-increment: portalHitlistCounter2;
+  font: bold 2rem/1 sans-serif;
+}
+
+@media (--breakpoint-md) {
+  .priorityNumber:before { font: bold 4rem/1 sans-serif; }
+}
+
+.align-self-center { align-self: center; }
+
+.justify-content-space-around { justify-content: space-around; }
+
+.justify-content-space-between { justify-content: space-between; }
+
+.container-max50 {
+  max-width: 50rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+.px15 {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.portalHitlist2 li:nth-child(even) {
+  background-color: var(--darken-1);
+}
+
+.portalHitlist2 li:last-child {
+  margin-bottom: 0;
+}
+
+@media (--breakpoint-sm) {
+  .sm-bold { font-weight: bold; }
+}
+
+@media (--breakpoint-sm) {
+  .sm-h0 { font-size: var(--h0); }
+}
+
+@media (--breakpoint-sm) {
+  .sm-block { display: block; }
+}
+
+
+.flip-horizontal { transform: scaleX(-1); }
+
+@media (--breakpoint-sm) {
+  .sm-mr1 { margin-right: .5rem; }
+}
+
+@media (--breakpoint-sm) {
+  .sm-mr2 { margin-right: 1rem; }
+}
+
+@media (--breakpoint-sm) {
+  .sm-px2 {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+}
+
+@media (--breakpoint-sm) {
+  .sm-flex-row { flex-direction: row; }
+}
+
+.lh1 { line-height: 1; }
+
+.pb1 { padding-bottom: .5rem; }
+
+.pb2 { padding-bottom: 1rem; }
+
+@media (--breakpoint-sm) {
+  .sm-pb2 { padding-bottom: 1rem; }
+}
+
+.asterisk:before { content: "* "; }
+
+@media (--breakpoint-sm) {
+  .sm-left { text-align: left; }
+}

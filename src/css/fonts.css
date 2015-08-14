@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'ingress';
+  src: url('../fonts/ingress02-webfont.eot');
+  src: url('../fonts/ingress02-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/ingress02-webfont.woff2') format('woff2'),
+       url('../fonts/ingress02-webfont.woff') format('woff'),
+       url('../fonts/ingress02-webfont.ttf') format('truetype'),
+       url('../fonts/ingress02-webfont.svg#ingressregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

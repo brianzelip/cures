@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+  {% include head.html %}
+
+  <body>
+
+    <header class="px2">
+      <div class="list-container mt2 sm-mt3">
+        <div class="flex flex-center">
+
+          <div class="sm-show sm-mr2 flex-auto col-4">
+            <svg version="1.1" id="ingress" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 2048 2048" enable-background="new 0 0 2048 2048" xml:space="preserve">
+              <g>
+                <polygon fill="#231F20" points="1024,2039.5 144.6,1531.8 144.6,516.3 1024,8.5 1903.4,516.3 1903.4,1531.7"/>
+              </g>
+              <g>
+                <g>
+                  <path fill="#00C2FF" d="M1024,200.5L310.8,612.2v823.5l713.2,411.8l713.2-411.8V612.2L1024,200.5z M1637.2,1378L1024,1732 l-613.2-354V670L1024,316l613.2,354V1378z"/>
+                </g>
+              </g>
+              <path fill="#00C2FF" d="M1542.4,724.7h-469.2V525.1h-100v199.6H505.6L738.4,1128l-172.8,99.8l50,86.6l172.8-99.8l235.6,408 l235.7-408.2l173.2,100l50-86.6l-173.2-100L1542.4,724.7z M978,1359L710.9,896.3L978,1050.6V1359z M756.9,816.7h534.2L1024,970.9 L756.9,816.7z M1070,1050.6l267.1-154.2L1070,1359V1050.6z"/>
+            </svg>
+          </div>
+
+          <div class="flex-auto sm-col-8 sm-pb2">
+            <h1 class="m0 sm-h0">CU Resistance Intel</h1>
+            <h2 class="mt0 sm-h3">Data on valuable portals around town.</h2>
+            {% for entry in site.data.FieldingListMeta %}
+            <p>Last updated at {{ entry.time }}.</p>
+            {% endfor %}
+            {% include nav-list.html %}
+          </div>
+
+        </div>
+      </div>
+    </header>
+
+    <hr class="hr-block bg-black">
+
+    <main class="px2">
+      <div class="list-container">
+        <div class="clearfix flex flex-wrap mxn2">
+          <div class="col-12 px2">
+
+            <section id="AP">
+              <div class="mb2">
+                <div class="overflow-hidden bg-white border rounded">
+                  <div class="p2 bg-darken-1">
+                    <h1 class="h2 m0">AP List</h1>
+                  </div>
+                  <div class="p2">
+                    <ul class="list-reset mb0">
+                      <li class="mb0 asterisk h5">Organizes frog portals by their AP value.</li>
+                      <li class="mb0 asterisk h5">Useful for maximizing your increase in AP.</li>
+                      <li class="mb0 asterisk h5">AP values listed below assume capturing and fully deploying on the portal.</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <ol class="list-reset m0 portalHitlist2">
+                {% for portal in site.data.APList %}
+                <li class="flex flex-center mb3 p2">
+                  <div class="mr2 priorityNumber"></div>
+                  <img src="{{ portal.img }}" alt="" class="mr2 portal-pic">
+                  <div>
+                    <p class="h4 sm-h3 m0 overflow-hidden sm-overflow-visible bold">{{ portal.name }}</p>
+                    <p class="h5 sm-h4 m0 sm-bold"><span class="portalLevel">Level {{ portal.level }}</span> | <span class="portalAP">{{ portal.ap }} AP</span></p>
+                    <a href="https://www.ingress.com/intel?pll={{ portal.lat }},{{ portal.lon }}&z=18" class="sm-block h5 sm-h4">Intel map</a>
+                    <span class="sm-hide"> | </span>
+                    <a href="https://maps.google.com/?q={{ portal.lat }},{{ portal.lon }}" class="sm-block h5 sm-h4">Google map</a>
+                  </div>
+                </li>
+                {% endfor %}
+              </ol>
+            </section>
+
+            <section id="Hit">
+              <div class="mb2">
+                <div class="overflow-hidden bg-white border rounded">
+                  <div class="p2 bg-darken-1">
+                    <h1 class="h2 m0">Hit List</h1>
+                  </div>
+                  <div class="p2">
+                    <ul class="list-reset mb0">
+                      <li class="mb0 asterisk h5">Organizes frog portals by the MU value of the field(s) they anchor.</li>
+                      <li class="mb0 asterisk h5">Useful for decreasing their regional score.</li>
+                      <li class="mb0 asterisk h5">Fields are represented here by their most valuable anchor, not every portal that anchors the field.</li>
+                      <li class="mb0 asterisk h5">Rural MU calculations are likely exaggerated, still a work in progress.</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <ol class="list-reset m0 portalHitlist2">
+                {% for portal in site.data.HitList %}
+                <li class="flex flex-center mb3 p2">
+                  <div class="mr2 priorityNumber"></div>
+                  <img src="{{ portal.img }}" alt="" class="mr2 portal-pic">
+                  <div>
+                    <p class="h4 sm-h3 m0 overflow-hidden sm-overflow-visible bold">{{ portal.name }}</p>
+                    <p class="h5 sm-h4 m0 sm-bold"><span class="portalLevel">Level {{ portal.level }}</span> | <span class="portalFieldsNum">{{ portal.fields }} fields</span> | <span class="portalMU">{{ portal.mus }} MUs</span></p>
+                    <a href="https://www.ingress.com/intel?pll={{ portal.lat }},{{ portal.lon }}&z=18" class="sm-block h5 sm-h4">Intel map</a>
+                    <span class="sm-hide"> | </span>
+                    <a href="https://maps.google.com/?q={{ portal.lat }},{{ portal.lon }}" class="sm-block h5 sm-h4">Google map</a>
+                  </div>
+                </li>
+                {% endfor %}
+              </ol>
+            </section>
+
+            <section id="Fielding">
+              <div class="mb2">
+                <div class="overflow-hidden bg-white border rounded">
+                  <div class="p2 bg-darken-1">
+                    <h1 class="h2 m0">Fielding List</h1>
+                  </div>
+                  <div class="p2">
+                    <ul class="list-reset mb0">
+                      <li class="mb0 asterisk h5">Identifies easy blue fields to make that only need 1 more link.</li>
+                      <li class="mb0 asterisk h5">Portal names link to portal locations on a Google map.</li>
+                      <li class="mb0 asterisk h5">View the intel links in the vanilla Intel map (not IITC) to see a drawn line between the pair of portals.</li>
+                      <li class="mb0 asterisk h5">Some green links may have to be cleared to create fields (look at the intel link to make sure).</li>
+                      <li class="mb0 asterisk h5">No Jarvising (killing blue links) should be necessary.</li>
+                      <li class="mb0 asterisk h5">Make sure to click the intel links, as there are still bugs with this code for rural fields.</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <ol class="list-reset m0 portalHitlist2">
+                {% for pair in site.data.FieldingList %}
+                <li class="flex flex-column sm-flex-row flex-center mb3 p2">
+
+                  <div class="sm-mr2 priorityNumber"></div>
+
+                  <!-- the following node is the top or left portal profile -->
+                  <div class="flex flex-column flex-center flex-auto mb2 sm-m0 sm-col-5">
+                    <a href="https://maps.google.com/?q={{ pair.lat1 }},{{ pair.lon1 }}" class="h4 sm-h3 m0 overflow-hidden sm-overflow-visible bold center">{{ pair.name1 }}</a>
+                    <p class="mb1 h5 sm-h4 sm-bold">
+                      <span class="portalLevel">Level {{ pair.level1 }}</span> | 
+                      <span class="portalResoState">
+                      {% if pair.resos1 == 8 %}
+                        Fully deployed
+                      {% elsif pair.resos1 == "?" %}
+                        Not sure if fully deployed
+                      {% elsif pair.resos1 == 7 %}
+                        Needs a resonator
+                      {% else %}
+                        Needs resonators
+                      {% endif %}
+                      </span>
+                    </p>
+                    <img src="{{ pair.img1 }}" alt="" class="portal-pic">
+                  </div>
+
+                  <!-- the following node is & between portal profiles on smallest devices -->
+                  <div class="sm-hide center">
+                    <p class="h3">&amp;</p>
+                  </div>
+
+                  <!-- the following node is the MU count & intel link on larger devices -->
+                  <div class="flex flex-column sm-col-2 px1 flex-auto center sm-show">
+                    <p class="jumbo lh1">⇄</p>
+                    <div>
+                      <p class="h5 sm-h4 m0 sm-bold">Link for ~{{ pair.mus }} MUs!</p>
+                      <a href="{{ pair.intel }}" class="sm-block h5 sm-h4">See link on Intel map</a>
+                    </div>
+                  </div>
+
+                  <!-- the following node is the bottom or right portal profile -->
+                  <div class="flex flex-column flex-center flex-auto mb2 sm-m0 sm-col-5">
+                    <a href="https://maps.google.com/?q={{ pair.lat2 }},{{ pair.lon2 }}" class="h4 sm-h3 m0 overflow-hidden sm-overflow-visible bold center">{{ pair.name2 }}</a>
+                    <p class="mb1 h5 sm-h4 sm-bold">
+                      <span class="portalLevel">Level {{ pair.level2 }}</span> | 
+                      <span class="portalResoState">
+                      {% if pair.resos2 == 8 %}
+                        Fully deployed
+                      {% elsif pair.resos2 == "?" %}
+                        Not sure if fully deployed
+                      {% elsif pair.resos2 == 7 %}
+                        Needs a resonator
+                      {% else %}
+                        Needs resonators
+                      {% endif %}
+                      </span>
+                    </p>
+                    <img src="{{ pair.img2 }}" alt="" class="portal-pic">
+                  </div>
+
+                  <!-- the following node is the MU count & intel link on smallest devices -->
+                  <div class="sm-hide center">
+                    <p class="m0 h4 bold">Link for ~{{ pair.mus }} MUs!</p>
+                    <a href="{{ pair.intel }}" class="sm-block h5 sm-h4">See link on Intel map</a>
+                  </div>
+
+                </li>
+                {% endfor %}
+              </ol>
+            </section>
+
+            <section id="Protect">
+              <div class="mb2">
+                <div class="overflow-hidden bg-white border rounded">
+                  <div class="p2 bg-darken-1">
+                    <h1 class="h2 m0">Protect List</h1>
+                  </div>
+                  <div class="p2">
+                    <ul class="list-reset mb0">
+                      <li class="mb0 asterisk h5">Organizes our most valuable portals by the MU value of the field(s) they anchor.</li>
+                      <li class="mb0 asterisk h5">Useful for maintaining our regional score.</li>
+                      <li class="mb0 asterisk h5">Every portal that anchors a field is listed here.</li>
+                      <li class="mb0 asterisk h5">Rural MU calculations are likely exaggerated, still a work in progress.</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <ol class="list-reset m0 portalHitlist2">
+                {% for portal in site.data.ProtectList %}
+                <li class="flex flex-center mb3 p2">
+                  <div class="mr2 priorityNumber"></div>
+                  <img src="{{ portal.img }}" alt="" class="mr2 portal-pic">
+                  <div>
+                    <p class="h4 sm-h3 m0 overflow-hidden sm-overflow-visible bold">{{ portal.name }}</p>
+                    <p class="h5 sm-h4 m0 sm-bold"><span class="portalLevel">Level {{ portal.level }}</span> | <span class="portalFieldsNum">{{ portal.fields }} fields</span> | <span class="portalMU">{{ portal.mus }} MUs</span></p>
+                    <a href="https://www.ingress.com/intel?pll={{ portal.lat }},{{ portal.lon }}&z=18" class="sm-block h5 sm-h4">Intel map</a>
+                    <span class="sm-hide"> | </span>
+                    <a href="https://maps.google.com/?q={{ portal.lat }},{{ portal.lon }}" class="sm-block h5 sm-h4">Google map</a>
+                  </div>
+                </li>
+                {% endfor %}
+              </ol>
+            </section>
+
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <hr class="hr-block bg-black">
+
+    <footer class="mb3 px2 py2">
+      <div class="list-container">
+        <p class="m0">Made by agents WeaselFork and bzelip for a bluer Champaign-Urbana</p>
+      </div>
+    </footer>
+
+    <script src="//cdn.jsdelivr.net/jquery/2.1.0/jquery.min.js"></script>
+    <script>
+      // jQuery tabs tutorial by Jack Moore, http://www.jacklmoore.com/notes/jquery-tabs/
+      $('#nav-tabs').each(function(){
+        // For each set of tabs, we want to keep track of
+        // which tab is active and it's associated content
+        var $active, $content, $links = $(this).find('a');
+
+        // If the location.hash matches one of the links, use that as the active tab.
+        // If no match is found, use the first link as the initial active tab.
+        $active = $($links.filter('[href="'+location.hash+'"]')[0] || $links[0]);
+        $active.addClass('is-active');
+
+        $content = $($active[0].hash);
+
+        // Hide the remaining content
+        $links.not($active).each(function () {
+          $(this.hash).hide();
+        });
+
+        // Bind the click event handler
+        $(this).on('click', 'a', function(e){
+          // Make the old tab inactive.
+          $active.removeClass('is-active');
+          $content.hide();
+
+          // Update the variables with the new link and content
+          $active = $(this);
+          $content = $(this.hash);
+
+          // Make the tab active.
+          $active.addClass('is-active');
+          $content.show();
+
+          // Prevent the anchor's default click action
+          e.preventDefault();
+        });
+      });
+    </script>
+
+    <script>
+      //apply landscape or portrait classes to portal pics based on their orientation
+      var portalPics = document.getElementsByClassName("portal-pic");
+      for (var i = 0; i < portalPics.length; i++) {
+        if (portalPics[i].naturalWidth > portalPics[i].naturalHeight) {
+          portalPics[i].className += " landscape";
+        } else {
+          portalPics[i].className += " portrait";
+        }
+      }
+    </script>
+
+  </body>
+
+</html>
