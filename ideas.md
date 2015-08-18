@@ -24,3 +24,7 @@ Devs < > Private remote
 Questions for Weaselfork:
 - can the python scripts do their thing on the same digital ocean machine that serves the site?
 - It seems to me the digital ocean machine needs to replace the data engine that is Weasel's old linux box.
+
+Answers from Weaselfork:
+ - yes, as long as python, python-yaml, at, and curl are installed.
+ - My old linux box is, as of August 2015, no longer doing the calculations. Everything on the backend has been migrated to a virtual server administered by Warquel
