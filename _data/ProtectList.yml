@@ -204,7 +204,7 @@
 - fields: 2
   img:  'http://lh3.ggpht.com/Or_i3A5Lpw1MTemWGpqYDcp3d75CQeZ5SKOxpDiq5sqqAYEgpA2oj3z4w1k4IuUnXvSjSHET1wuLB0Vrb77S'
   lat: 40.112555
-  level: 5
+  level: 6
   lon: -88.273762
   mus: 268
   name:  'Pias Sports Bar and Grill'
@@ -225,7 +225,7 @@
 - fields: 1
   img:  'http://lh5.ggpht.com/lVPluMTxywLzssk6h2IM1KNaZqmdJZwSaOjsQTU-NXL2-__Ve9Ur36H1oaIXABV4-52NcqTaSO7DglgO7vNb'
   lat: 40.105698
-  level: 6
+  level: 7
   lon: -88.202624
   mus: 215
   name:  'Roger Ebert Plaque'
@@ -733,6 +733,13 @@
   lon: -88.243473
   mus: 14
   name:  'Savoy Rotary Club Dedication'
+- fields: 2
+  img:  'http://lh5.ggpht.com/sIbYMQQ_Zap8IM-0OSNfDcmhqlGrLw12pnC_OdD-CIksN6uBVuBi0m-ZNPiXF3Eijc8dtCbZLYdv_yX_qGKR'
+  lat: 40.114982
+  level: 6
+  lon: -88.223894
+  mus: 13
+  name:  'Campbell Hall'
 - fields: 5
   img:  'http://lh4.ggpht.com/m41WytddHvUQZQvwN8vv-Mf6LHne1_3LkN4y39ZCxrwY2v0-Q7lDbE63wlDSkhpMjG7OxDM0LO5Sh9DNyjo4lbZBu-mAykPo3qPOd6orSfwlfucL'
   lat: 40.099946
@@ -818,19 +825,26 @@
   mus: 8
   name:  'U.S. Representative Memorial'
 - fields: 1
-  img:  'http://lh5.ggpht.com/sIbYMQQ_Zap8IM-0OSNfDcmhqlGrLw12pnC_OdD-CIksN6uBVuBi0m-ZNPiXF3Eijc8dtCbZLYdv_yX_qGKR'
-  lat: 40.114982
-  level: 6
-  lon: -88.223894
-  mus: 7
-  name:  'Campbell Hall'
-- fields: 1
   img:  'http://lh4.ggpht.com/Mr8XeGiDafWk47NSkxDW3WManlpDnqzQWOT1VE2j0f0jFdh3tCvvntj45n1BJEnHylldZRnpPEOJ8OLeFZI'
   lat: 40.114405
   level: 5
   lon: -88.224198
   mus: 7
   name:  'Siebel Center for Computer Science'
+- fields: 1
+  img:  'http://lh5.ggpht.com/cHXnlWuRvdsWlYl544dN4Z4dFmU3Wzw1BEovUj84953CC59BdwR-5pDK8MUkpnAECo3RjUVQMAS0elR08dvD'
+  lat: 40.115302
+  level: 7
+  lon: -88.224932
+  mus: 6
+  name:  'National Center for Supercomputing Applications'
+- fields: 1
+  img:  'http://lh5.ggpht.com/f710C9AvOEB7ieCI4f382wWUP4OgDxiqPzbxqxct6Ugf2PWBfyXyDpG_JcRQ6PaZ_jS0jpXXBhNSt_u9rFA'
+  lat: 40.113864
+  level: 5
+  lon: -88.224839
+  mus: 6
+  name:  'Plato: A Social Networking Revolution Begins'
 - fields: 3
   img:  'http://lh5.ggpht.com/JYa2EcB80aD_CCPuNsi1Cr8jZelGO3dzHiaM1-hyKs9hP9fwRE_tjXpST4GuLdh9P-y_ZSrJFLgP8Fa1n_8'
   lat: 40.084326
@@ -1097,6 +1111,27 @@
   lon: -88.188527
   mus: 1
   name:  'Brookens Administrative Center'
+- fields: 1
+  img:  'http://lh4.ggpht.com/2JNDO54Hu2KzjIaEeCIFVgD7gEa5VXNBsIemFYp6cgiTUbsSpOwLTc-HqZb__uut24jHpVnQVokRVtL00ozu'
+  lat: 40.132056
+  level: 5
+  lon: -88.292671
+  mus: 1
+  name:  'Campus Solar System - Mercury'
+- fields: 1
+  img:  'http://lh5.ggpht.com/_Tp5JJFIIlt0iHHyC_A_gnEm1sxUEKDHmQr0oby74HL0rnFZ5JrnuvOTPk6_vulsU_GJue_7RAAX2Y7I2Wxw4A'
+  lat: 40.132354
+  level: 5
+  lon: -88.292578
+  mus: 1
+  name:  'Campus Solar System - Venus'
+- fields: 1
+  img:  'http://lh4.ggpht.com/GcCZ7JTzkEHTZnUWfpUgibDh2Wa4nzGM9-k13AG4I2RwFiPa6exz1vCzj7Hwvf_oPwJvYJt0xoRE6GZXmCMX'
+  lat: 40.132625
+  level: 5
+  lon: -88.292636
+  mus: 1
+  name:  'Campus Solar System - Earth'
 - fields: 1
   img:  'http://lh3.ggpht.com/vwkjqzBAGzhh9MKrOhJM4_fcgyf640zFaFWImj5Z8f0F81aTEM5JBT9qJCf35zG7yz6kVX_mZsXa6Ici-MIw'
   lat: 40.09428
