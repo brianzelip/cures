@@ -1,9 +1,9 @@
-- fields: 4+
+- fields: 3+
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.200642
   level: '?'
   lon: -88.296708
-  mus: 87949
+  mus: 50084
   name:  'Mt. Vernon United Methodist Church'
 - fields: 4
   img:  'http://lh4.ggpht.com/JHX_SjLotbx-SvlPdUyqqVRu9l-KTQ6UmgkW6CA8_Dd-BOjXrziu5dAUaFeNFGUU_Ys9eW8urHjAlxr2aw'
@@ -12,13 +12,6 @@
   lon: -88.262892
   mus: 1985
   name:  'New Life of Champaign United Pentecostal Church'
-- fields: 2+
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.152342
-  level: '?'
-  lon: -88.252345
-  mus: 864
-  name:  'Toalson Park Basketball Hoop'
 - fields: 4
   img:  'http://lh5.ggpht.com/vYay8RKsCV_BP_MkeFm7se0VZoYthm-1pThiATAADleBlTsPowobgZyUoU7DUto6p5cpg9adpCcTgNR6iop0Jw'
   lat: 40.120121
@@ -40,13 +33,13 @@
   lon: -88.234788
   mus: 171
   name:  'Pi Kappa Phi Fraternity'
-- fields: 1
-  img:  'http://lh4.ggpht.com/yi9OPnLGsLTvtOMNuOUfed6edO9tB6h0QmSHJaKKaiMyEXC8Aj2hz9hIvgh8C2DY76mVgNHw4S0gsYpkPpkt'
-  lat: 40.148692
+- fields: 2
+  img:  'http://lh6.ggpht.com/WA_L9RXB_ZwCyxpgQ7Lyjp1-4xTl5O-BQohOBQcoEMnP7-wKp--MGUdnY_DPuCGZ78-x0LtEWc8FT2n9QMPS'
+  lat: 40.148879
   level: 7
-  lon: -88.248724
-  mus: 135
-  name:  'Fountain Town Center'
+  lon: -88.258423
+  mus: 139
+  name:  'War Veteran Memorial'
 - fields: 4
   img:  'http://lh6.ggpht.com/Nv0tMktEkkuoGtg1QEPS1N2nTcBPg8ipu31i72XPDTGQ4HQI5oL58Ig8kofXUH_aCC2aaJ-NylWKPkC3hIBS'
   lat: 40.116218
@@ -54,12 +47,12 @@
   lon: -88.228757
   mus: 118
   name:  'The Presidents'' Walk'
-- fields: 6
+- fields: 7
   img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
   lat: 40.108066
   level: 7
   lon: -88.230687
-  mus: 100
+  mus: 116
   name:  'Community United Church of Christ'
 - fields: 3
   img:  'http://lh3.googleusercontent.com/8-4OkyRuEuagHGkNAbCDDtz9k34_nWE1lFlUqdqVSLAtsWkVNv5G84IpnbtVcup3-x3u4q6_AJ0OxQdkdt1-'
@@ -138,6 +131,13 @@
   lon: -88.282524
   mus: 15
   name:  'Rotary Shelter'
+- fields: 1
+  img:  'http://lh4.ggpht.com/maBwz4G9LJZ5aVuX_WF1Z73xSbqoFsm3l6oyrNQ16LkJMvaEbFa-amdfCpKDVDe7NzjReNu8IGnn7BAI8yef'
+  lat: 40.103534
+  level: 7
+  lon: -88.243478
+  mus: 15
+  name:  'McCollum Park'
 - fields: 7
   img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
   lat: 40.099737
@@ -180,6 +180,13 @@
   lon: -88.290672
   mus: 10
   name:  'Kaufman Lake'
+- fields: 2
+  img:  'http://lh4.ggpht.com/OFVPvdgB3GVpaQknHdnt2okgP3xcQksAH3wvOGYVuP85MMlxo3bQ2SRpBb0hzNfjQoC_5LlRqaE6jLB-h9Gr'
+  lat: 40.108092
+  level: 5
+  lon: -88.234589
+  mus: 10
+  name:  'Koinonia Plaque'
 - fields: 3
   img:  'http://lh4.ggpht.com/DKqCX7ekIzT953BiW_t-Oe0jBg-GV5rCptYhvQqlLpQdaRpMxnNfMXekcxHT3XIhqCgskbqRwa-YofxMh71Q'
   lat: 40.090655
@@ -334,13 +341,6 @@
   lon: -88.30035
   mus: 1
   name:  'Barb Babb Memorial Plaque'
-- fields: 1
-  img:  'http://lh6.ggpht.com/nbUJivBo0zF8f8aBbk1GwakUpPbLUVOoEovTTETYwJvfNIHXwG9XUbwoV0x-ly4ZO5Hsyv5KPo3c9cE6Nh8'
-  lat: 40.118832
-  level: 5
-  lon: -88.243643
-  mus: 1
-  name:  'Tesla Ball'
 - fields: 1
   img:  'http://lh6.ggpht.com/hDt2TaWr_3Rxg4Ot6z4G0vCecWeK9M0gY7k4xNvazhxurVNbzjJQyYJcGFV025KR_YQ7X9F_9jS0q1-I_dtH'
   lat: 40.091552
