@@ -1,10 +1,3 @@
-- fields: 2+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.306644
-  level: '?'
-  lon: -88.020622
-  mus: 3060061
-  name:  'Gifford Water Tower'
 - fields: 5
   img:  'http://lh4.ggpht.com/T04oZ0k13H90w4QZ7f_QTFH-yrHJNyKsJ-hRWmNk2YnqBSy8KwGZrO0fb-YN5RhCi3vg_903yE64_J-JZu4Z'
   lat: 40.092883
@@ -126,18 +119,18 @@
   name:  'Savoy Post Office'
 - fields: 2+
   img: http://i.imgur.com/LujBo5P.png
-  lat: 40.205921
-  level: '?'
-  lon: -88.384473
-  mus: 157
-  name:  '3d4786d723ee4c38a1e26c9603f9bf85.16'
-- fields: 2+
-  img: http://i.imgur.com/LujBo5P.png
   lat: 40.199222
   level: '?'
   lon: -88.382509
   mus: 157
   name:  'baa170273cd749acb5338139770e8f70.16'
+- fields: 2+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.205921
+  level: '?'
+  lon: -88.384473
+  mus: 157
+  name:  '3d4786d723ee4c38a1e26c9603f9bf85.16'
 - fields: 3
   img:  'http://lh3.googleusercontent.com/NfuReRkyOBC6TpPTQQuLpJGD0EXaLbvSJP45Seaf0Vqc8oZ93XZFHQiMEcbBC8vAZxWX_WA3_WBC2zxcvIs'
   lat: 40.065881
@@ -208,6 +201,13 @@
   lon: -88.252978
   mus: 112
   name:  'Skateland'
+- fields: 4
+  img:  'http://lh6.ggpht.com/LlpW022wV7lzYKZ3vPdegSJ5yfDa992j4CfqoWqSCvuvGoH_oQgMdheMd5Ug4DZabZO-WsZ8FO_bbsKKFp4'
+  lat: 40.100992
+  level: 6
+  lon: -88.200602
+  mus: 108
+  name:  'Pennsylvania Avenue Baptist Church'
 - fields: 3
   img:  'http://lh3.googleusercontent.com/ehDcIFPGimXzEpSpqydgEInzS_LCx7xdxdANoVH3o2WnEnCyvgjWqV1F-DbvHnpuMsAkbUqetYiu0sPiWwE'
   lat: 40.12025
@@ -215,12 +215,12 @@
   lon: -88.268125
   mus: 98
   name:  'Gazebo At Washington Retention Park'
-- fields: 3
+- fields: 4
   img:  'http://lh4.ggpht.com/6MEoCJZd9Ta_ZsMWkU32I0UbkFxnZs1vAg1mWkxFqHFEO4yp6zDb6Mcahj1ThpCEoN5PrLBvf1X87Cs09tw'
   lat: 40.09841
-  level: 5
+  level: 6
   lon: -88.205103
-  mus: 73
+  mus: 95
   name:  'J C Blair Monument '
 - fields: 8
   img:  'http://lh4.ggpht.com/vLN74xdc8Mdgab4UjP1QUbyX42bkPBXnIqzYzkmRDi4naHiBk2kM1wUA7Mx3Pxl1dpPoMBAg9pV956MqTDk'
@@ -243,13 +243,6 @@
   lon: -88.199811
   mus: 64
   name:  'Trinity Lutheran Church'
-- fields: 1
-  img:  'http://lh6.ggpht.com/LlpW022wV7lzYKZ3vPdegSJ5yfDa992j4CfqoWqSCvuvGoH_oQgMdheMd5Ug4DZabZO-WsZ8FO_bbsKKFp4'
-  lat: 40.100992
-  level: 6
-  lon: -88.200602
-  mus: 64
-  name:  'Pennsylvania Avenue Baptist Church'
 - fields: 2
   img:  'http://lh4.ggpht.com/TBdQ8fwHzTxOelVmzeofa-exhQ8cwbOVHb8bVga_MzTz3hC44VOzElIptwaKQuDBdLnDhL-NUEjLnOKO7HnjWw'
   lat: 40.078503
@@ -285,6 +278,13 @@
   lon: -88.239758
   mus: 52
   name:  'Lake Park Prairie Restoration'
+- fields: 4
+  img:  'http://lh3.ggpht.com/-HtfCPsl6TBR07OSYeO879iOvq7SdMYFxEnoERPL5FVgGJEwLdiysHzEBNfVhjVLVD6bohjNTro7bbSOwgvj'
+  lat: 40.094638
+  level: 7
+  lon: -88.241532
+  mus: 49
+  name:  'National Petascale Computing Facility'
 - fields: 1
   img:  'http://lh4.ggpht.com/N6E1iW7R1Dt6SCyd1q4Ym_HeSnFZ2mHHlXE-jkX1_YLy9BgSRPcDZK8ri2PWx6-sV1IEsClFGgMgpdI2Bgg'
   lat: 40.069187
@@ -320,6 +320,13 @@
   lon: -88.240341
   mus: 40
   name:  'Buffalo Billiam'
+- fields: 6
+  img:  'http://lh5.ggpht.com/_7T_9npLcYDGVQxXhXrsFORj35gQQEYqiUxwW949h0mVOq-jNHvpY7g9JscyWOIX-Km5HQ4RLRKtUI2nR7Nw'
+  lat: 40.099589
+  level: 6
+  lon: -88.205137
+  mus: 40
+  name:  'Blair Park'
 - fields: 4
   img:  'http://lh6.ggpht.com/68dvh0QMefXWoOEuzYL9ly2rpD9TpVh9F2kj89k41eGqxXdpLX0ldTrsAsaenN5iOWGwkJ0HA3gYAVWoOqQ'
   lat: 40.102036
@@ -327,13 +334,6 @@
   lon: -88.226601
   mus: 39
   name:  'Agricultural Engineering Sciences Sculpture'
-- fields: 3
-  img:  'http://lh3.ggpht.com/-HtfCPsl6TBR07OSYeO879iOvq7SdMYFxEnoERPL5FVgGJEwLdiysHzEBNfVhjVLVD6bohjNTro7bbSOwgvj'
-  lat: 40.094638
-  level: 7
-  lon: -88.241532
-  mus: 38
-  name:  'National Petascale Computing Facility'
 - fields: 2
   img:  'http://lh5.ggpht.com/hS-w1IhJBc5jsu2bxPBbJDDYx2fAnVCTn05rr0Mm27Ai6g3fIip7ivl-BcdPkb9_SUxV4eenI_4ZcgsiKAE'
   lat: 40.063509
@@ -362,6 +362,13 @@
   lon: -88.224055
   mus: 34
   name:  'The Etc'
+- fields: 2
+  img:  'http://lh5.ggpht.com/A4UxP6gQ9YAF5Z_VBcZdiGBLKP0JXFuX04xGfPB2jbHdrsk5ewYmNLutfrmKv8-MPAUO2Uf05aE0vBYczFBH3A'
+  lat: 40.094316
+  level: 6
+  lon: -88.244047
+  mus: 34
+  name:  'Saint Mary''s Cemetery'
 - fields: 1
   img:  'http://lh4.ggpht.com/53avgB1jGEftJ9eyV5l3nee16yHgYDAXkZoonzyXO3mwPLijOgz1uOtcxfKdCaRzaBqW-BQ4ft-Od3uZnja8'
   lat: 40.118436
@@ -425,13 +432,6 @@
   lon: -88.211743
   mus: 23
   name:  'Alice Mimi Muller Dedication Plaque'
-- fields: 1
-  img:  'http://lh5.ggpht.com/A4UxP6gQ9YAF5Z_VBcZdiGBLKP0JXFuX04xGfPB2jbHdrsk5ewYmNLutfrmKv8-MPAUO2Uf05aE0vBYczFBH3A'
-  lat: 40.094316
-  level: 6
-  lon: -88.244047
-  mus: 22
-  name:  'Saint Mary''s Cemetery'
 - fields: 4
   img:  'http://lh5.ggpht.com/66S0h0KtQgEkBk3cEFIwsuX-gQRN4MlpAiUVMDd1Wu9p_OVTUxuDF6WcaoAwETeEQka1hyd6WhQ-qndZlg5Sng'
   lat: 40.091249
@@ -537,6 +537,13 @@
   lon: -88.216599
   mus: 16
   name:  'Frank Kari Memorial Bench'
+- fields: 4
+  img:  'http://lh6.ggpht.com/SOEkawCv91wHrlqOJdkbN9KzhF3V8Uc1_VE_5V-PUNZhbJ9jXtSHQLjSEP4PGO091UFjUtYxX4Ikg7x6rE0LNawabllL4qbEUfQY-thKMrIXW2E'
+  lat: 40.100186
+  level: 5
+  lon: -88.205286
+  mus: 16
+  name:  'Blair Park Viewing Pavillion'
 - fields: 3
   img:  'http://lh3.googleusercontent.com/zjmctc4mmgtJyGd4P22h-pDkPcOT1caYXx00Qz9rn9Qly9ddCiToX2o5rVVwkq3udrnNq6UMraWUeIaP3AI'
   lat: 40.090708
@@ -747,13 +754,6 @@
   lon: -88.219838
   mus: 7
   name:  'Hallene Gateway'
-- fields: 4
-  img:  'http://lh5.ggpht.com/_7T_9npLcYDGVQxXhXrsFORj35gQQEYqiUxwW949h0mVOq-jNHvpY7g9JscyWOIX-Km5HQ4RLRKtUI2nR7Nw'
-  lat: 40.099589
-  level: 5
-  lon: -88.205137
-  mus: 7
-  name:  'Blair Park'
 - fields: 2
   img:  'http://lh4.ggpht.com/EveE1r4LU3oEoTrxc2hAzywPFArsSkIcAydfuBtNSmnwv76V6mqWgNEpe7srr7g3ZAOILSYHsfCdLLlwzU-9VA'
   lat: 40.110716
@@ -894,13 +894,6 @@
   lon: -88.222743
   mus: 4
   name:  'Fire Station'
-- fields: 3
-  img:  'http://lh6.ggpht.com/SOEkawCv91wHrlqOJdkbN9KzhF3V8Uc1_VE_5V-PUNZhbJ9jXtSHQLjSEP4PGO091UFjUtYxX4Ikg7x6rE0LNawabllL4qbEUfQY-thKMrIXW2E'
-  lat: 40.100186
-  level: 5
-  lon: -88.205286
-  mus: 4
-  name:  'Blair Park Viewing Pavillion'
 - fields: 2
   img:  'http://lh5.ggpht.com/sIbYMQQ_Zap8IM-0OSNfDcmhqlGrLw12pnC_OdD-CIksN6uBVuBi0m-ZNPiXF3Eijc8dtCbZLYdv_yX_qGKR'
   lat: 40.114982
