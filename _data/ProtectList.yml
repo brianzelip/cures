@@ -1,23 +1,23 @@
-- fields: 3
+- fields: 4
   img:  'http://lh3.googleusercontent.com/ISU_lWpNBBV9hLGQ1_u3V1kCcZNpsZV5oaHA3k4KFjp73Dva6xyaNLMhBU2b38Cccfs_OIJ9UrmejhQfEagFfA'
   lat: 40.117638
   level: 7
   lon: -88.227214
-  mus: 3733
+  mus: 3746
   name:  'Under the Sea Mural at Presence Covenant'
-- fields: 3+
+- fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.205921
   level: '?'
   lon: -88.384473
-  mus: 3710
+  mus: 3581
   name:  '3d4786d723ee4c38a1e26c9603f9bf85.16'
-- fields: 3+
+- fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.199222
   level: '?'
   lon: -88.382509
-  mus: 3710
+  mus: 3581
   name:  'baa170273cd749acb5338139770e8f70.16'
 - fields: 4+
   img: http://i.imgur.com/LujBo5P.png
@@ -208,13 +208,6 @@
   lon: -88.240115
   mus: 150
   name:  'Beardsley Park South Entrance'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.203752
-  level: '?'
-  lon: -88.38859
-  mus: 129
-  name:  'Covered Bridge Bike Trail Entrance'
 - fields: 3
   img:  'http://lh3.googleusercontent.com/klY7LlKB5LBTfRC8P4oBlzzOKMP_YM_h2twKQVnFocg0IyQsM140Vz0T7KED59pIwOKy1Xze-Q7u8w9cvqug'
   lat: 40.065936
@@ -372,10 +365,17 @@
 - fields: 4
   img:  'http://lh4.ggpht.com/D5cENdXJQaqvWwCSoOanItF0e3p53vn8qA2cAruOQSuYuD9XmC4q26pJQI7yjA9-6yDTJH0KYTQQwYdcwoTxOA'
   lat: 40.068447
-  level: 7
+  level: 8
   lon: -88.241045
   mus: 45
   name:  'In Memory of E. Lynn Meisenfelter'
+- fields: 2
+  img:  'http://lh6.ggpht.com/o2VurlR2tYmjBqeWvy5vP3SJrV3BzcB4ykC1ZJswZX-Ayk5UGKvyekuWJPOzxgUest3mjDDMXCaxmttCN8Qw'
+  lat: 40.117523
+  level: 5
+  lon: -88.229504
+  mus: 44
+  name:  'St. Mary''s Catholic Church'
 - fields: 5
   img:  'http://lh5.ggpht.com/sNSUXW7rqg-Qb6dc2gyeAXcXM3VjBpmyYlgK8btL73fYOjsS67hh6b6LfmCRE6_ItufIvb_4YKG10bc3E1am'
   lat: 40.110969
@@ -467,13 +467,6 @@
   lon: -88.235253
   mus: 32
   name:  'Deliverance Temple Apostolic Church'
-- fields: 1
-  img:  'http://lh6.ggpht.com/o2VurlR2tYmjBqeWvy5vP3SJrV3BzcB4ykC1ZJswZX-Ayk5UGKvyekuWJPOzxgUest3mjDDMXCaxmttCN8Qw'
-  lat: 40.117523
-  level: 5
-  lon: -88.229504
-  mus: 32
-  name:  'St. Mary''s Catholic Church'
 - fields: 6
   img:  'http://lh5.ggpht.com/cHXnlWuRvdsWlYl544dN4Z4dFmU3Wzw1BEovUj84953CC59BdwR-5pDK8MUkpnAECo3RjUVQMAS0elR08dvD'
   lat: 40.115302
@@ -705,6 +698,13 @@
   lon: -88.243473
   mus: 14
   name:  'Savoy Rotary Club Dedication'
+- fields: 1
+  img:  'http://lh6.ggpht.com/Nv0tMktEkkuoGtg1QEPS1N2nTcBPg8ipu31i72XPDTGQ4HQI5oL58Ig8kofXUH_aCC2aaJ-NylWKPkC3hIBS'
+  lat: 40.116218
+  level: 5
+  lon: -88.228757
+  mus: 13
+  name:  'The Presidents'' Walk'
 - fields: 1
   img:  'http://lh3.ggpht.com/nHykU-r6nAcUQliLD4vcs6UTayaoX6Aay87D-bgyrRjGaqMQQYuxIbHuVKSTH0vbqNO9g2sBdp_ZBWLM3LDYeQ'
   lat: 40.103044
@@ -999,13 +999,6 @@
   lon: -88.224982
   mus: 3
   name:  'John J. Morris Jr. Memorial'
-- fields: 2
-  img:  'http://lh4.ggpht.com/IAi2A1ukQunZaoCY1OUJnvZC_MAEjnYzlg7vcsIuPQyLIB710_5ueVQ3El8Pok0aNvlB18-Tdo1euhYbaf0'
-  lat: 40.115224
-  level: 6
-  lon: -88.24957
-  mus: 3
-  name:  'Linda M. Wesolowski Memorial Sign'
 - fields: 1
   img:  'http://lh6.ggpht.com/z-rN7V9azKlrBiQyHrvOp3PTu3nhMGzTUfdYLK_BUobDrl_-Ju4DX9nOO8TdIRRFz5lcPVF9n15VyvlHhKEk'
   lat: 40.122406
@@ -1049,6 +1042,13 @@
   mus: 3
   name:  'Weighted'
 - fields: 1
+  img:  'http://lh4.ggpht.com/IAi2A1ukQunZaoCY1OUJnvZC_MAEjnYzlg7vcsIuPQyLIB710_5ueVQ3El8Pok0aNvlB18-Tdo1euhYbaf0'
+  lat: 40.115224
+  level: 4
+  lon: -88.24957
+  mus: 3
+  name:  'Linda M. Wesolowski Memorial Sign'
+- fields: 1
   img:  'http://lh6.ggpht.com/uAhsK1gCBrCPvIEZ8lZRhDGbO9Q75uu9su3qhSkktViExCuvIvXGCLwZXT-_riPd4rI3tTvsLqqn6XO3msF4'
   lat: 40.116558
   level: 2
@@ -1076,20 +1076,6 @@
   lon: -88.21821
   mus: 2
   name:  'University Of Illinois Arboretum Hosta Garden Plaque'
-- fields: 2
-  img:  'http://lh4.ggpht.com/9jXAzAxn0JZrLkU9VK9p-mNzjw3x_6QqwMAn4CAEBAHp_lo2iDZeV_y-hoUzP5CYwm8kOMyrTToZQOWJBRnw'
-  lat: 40.115095
-  level: 5
-  lon: -88.249052
-  mus: 2
-  name:  'Bayne & Schumacher Fountain'
-- fields: 2
-  img:  'http://lh6.ggpht.com/ZQaguxPyiC-6DeFDFa2niVKJz3ySxwxYaFCv8PRdNuoMYUfP-Xtirg-8pXCTdBCyH1BruprOVmqf3D1kdp7o'
-  lat: 40.115225
-  level: 5
-  lon: -88.248866
-  mus: 2
-  name:  'Holy Cross Catholic Church'
 - fields: 3
   img:  'http://lh6.ggpht.com/EiNXerTyRNFVC9pti48SExCtqR9p6t3-Xne_jw2YB90-VjUeJ3KGX8Se436SNVkFb5wOw0N7CKCz9brOeVg6WQ'
   lat: 40.117802
@@ -1132,13 +1118,6 @@
   lon: -88.250259
   mus: 2
   name:  'Heath & Vaughn Funeral Home'
-- fields: 1
-  img:  'http://lh3.ggpht.com/IKYzmqr6aeIX2d99jn1dQHjjq0-h7glRdyPEPoTdQnggoAgc8uutzh3X4OYjcCllXVp5r9rYyYnVPwNALI8B'
-  lat: 40.115178
-  level: 4
-  lon: -88.246191
-  mus: 2
-  name:  'Clark Bar'
 - fields: 2
   img:  'http://lh3.ggpht.com/pSjbhtlYxUKJ7DAhIfw-L5rTjo3YJd0aVDlQWVWf1Nhpy75H-xsx_e3pykgTmN7RJ7s9PPBglL3WEexII2zoIXi3iSI5j1ht573t3HM_y3ZlIMKy'
   lat: 40.111715
