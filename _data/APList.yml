@@ -101,12 +101,6 @@
   lon: -88.249879
   name:  'Hessel Park'
 - ap: 7972
-  img:  'http://lh3.ggpht.com/lzCSS0_tjwUV7JQ2fgLI0e05IrzPxlVUs-6aEPOwUv67IanQJSTi71gkw0SGm8asmoE_r3Xoh048Fd9xRpE'
-  lat: 40.099169
-  level: 8
-  lon: -88.251419
-  name:  'Lyman Larson Memorial'
-- ap: 7972
   img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
   lat: 40.099852
   level: 8
@@ -118,6 +112,12 @@
   level: 7
   lon: -88.25063
   name:  '"New Holland Yellow Dinosaurs" at Hessel Park'
+- ap: 7972
+  img:  'http://lh3.ggpht.com/lzCSS0_tjwUV7JQ2fgLI0e05IrzPxlVUs-6aEPOwUv67IanQJSTi71gkw0SGm8asmoE_r3Xoh048Fd9xRpE'
+  lat: 40.099169
+  level: 8
+  lon: -88.251419
+  name:  'Lyman Larson Memorial'
 - ap: 7972
   img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
   lat: 40.098959
@@ -203,12 +203,6 @@
   lon: -88.26247
   name:  'Clark Park South Entrance'
 - ap: 7035
-  img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
-  lat: 40.099737
-  level: 7
-  lon: -88.251157
-  name:  'Tyler Van Atkins Memorial'
-- ap: 7035
   img:  'http://lh4.ggpht.com/B_I1b0Jy3vW41RX8jjCNPP68AULplU0Pf8ddolyKmpEWCfBVShQkmjF1HfTPzDjmBBQGgOs0jHW-rUR0mv8BkA'
   lat: 40.098789
   level: 8
@@ -233,11 +227,23 @@
   lon: -88.250855
   name:  'Donald F. Bresnan Memorial'
 - ap: 7035
+  img:  'http://lh6.ggpht.com/3o0ObAARFV_8mBVCC_QD0iLOPVzNkakXybhLnSVEuXIJfDLKMxeYj-EkWIw9NPoZIVRf5Dkrid2yf_NEQ-iE'
+  lat: 40.100347
+  level: 7
+  lon: -88.249385
+  name:  'Travis Marmion Memorial'
+- ap: 7035
   img:  'http://lh3.ggpht.com/G1CvGhpethi5UmprDWxZN9rTblHa3anSsQz1UPgJtkREkfN7lDFoxFObst0609Cg5mofuZxJKr0ddNKhY4VL'
   lat: 40.098464
   level: 7
   lon: -88.251426
   name:  'Ruth Haasis Memorial'
+- ap: 7035
+  img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
+  lat: 40.099737
+  level: 7
+  lon: -88.251157
+  name:  'Tyler Van Atkins Memorial'
 - ap: 7035
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
@@ -256,12 +262,6 @@
   level: 7
   lon: -88.251337
   name:  'In Loving Memory of Zeus'
-- ap: 7035
-  img:  'http://lh6.ggpht.com/3o0ObAARFV_8mBVCC_QD0iLOPVzNkakXybhLnSVEuXIJfDLKMxeYj-EkWIw9NPoZIVRf5Dkrid2yf_NEQ-iE'
-  lat: 40.100347
-  level: 7
-  lon: -88.249385
-  name:  'Travis Marmion Memorial'
 - ap: 7035
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.204412
@@ -773,17 +773,17 @@
   lon: -88.251811
   name:  'A Flagstone Garden in Mattis Park'
 - ap: 4598
-  img:  'http://lh4.ggpht.com/0j8eeTKJgjnYhHpf4qH_70CZHLbujC5v-XP_ndcqh1xIR-5V2K_CGdjIe1ZfMbwvSyISxxYKoZynw1DaQcj8'
-  lat: 40.105874
-  level: 6
-  lon: -88.230562
-  name:  'St. John''s Rectory'
-- ap: 4598
   img:  'http://lh3.ggpht.com/hFkwytijOefeZugpAO9nX8xe0Zazpem9zJKa7S-WYlccBZVMWRqZYIj-iWKNXi5TUWEXjk4HQbKAvCW_3WdE'
   lat: 40.104287
   level: 8
   lon: -88.229415
   name:  'The Pioneers'
+- ap: 4598
+  img:  'http://lh4.ggpht.com/0j8eeTKJgjnYhHpf4qH_70CZHLbujC5v-XP_ndcqh1xIR-5V2K_CGdjIe1ZfMbwvSyISxxYKoZynw1DaQcj8'
+  lat: 40.105874
+  level: 6
+  lon: -88.230562
+  name:  'St. John''s Rectory'
 - ap: 4598
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.203752
@@ -881,17 +881,17 @@
   lon: -88.282846
   name:  'Sholem Aquatic Center '
 - ap: 3848
-  img:  'http://lh4.ggpht.com/ik1uVZ-KWyRH4dh51LJI7gFmnM7bmfSZ-1YqfELbVQEvuo-gEx2QpG6jQpFPeAlFPi2rVPAuzRmXMD0Whsm2HA'
-  lat: 40.122038
-  level: 7
-  lon: -88.245318
-  name:  'The Old Residential Block'
-- ap: 3848
   img:  'http://lh3.ggpht.com/1G0o5RjtXyfAjbI-E2honhhelnuiq4lIkpHmB44e-AwSBuIxVOdLPVYjImbTMS8kyBdZuKuiMQHciUIdAWg'
   lat: 40.118368
   level: 5
   lon: -88.243737
   name:  'Frank Robeson Memorial'
+- ap: 3848
+  img:  'http://lh4.ggpht.com/ik1uVZ-KWyRH4dh51LJI7gFmnM7bmfSZ-1YqfELbVQEvuo-gEx2QpG6jQpFPeAlFPi2rVPAuzRmXMD0Whsm2HA'
+  lat: 40.122038
+  level: 7
+  lon: -88.245318
+  name:  'The Old Residential Block'
 - ap: 3848
   img:  'http://lh3.googleusercontent.com/ZEt3dzGoBmn_BW1MwPTE7MY4Jcoj66UkwEA7wA7H40hbb-SwJheC1V67Dh89eAbpG6H_SeWDV3E0X5lRAkQ'
   lat: 40.111342
@@ -1307,11 +1307,11 @@
   lon: -88.224083
   name:  'The Landing'
 - ap: 2724
-  img:  'http://lh4.ggpht.com/pWMrJGcrxdHbkyzK9GJLFBQdvgWtZzdJOIMHr66tCffHpsZd5e8NTrSPkYm0T9i4vtEVhARdLo6tZ7xLadU'
-  lat: 40.108294
-  level: 5
-  lon: -88.224348
-  name:  'Bird Of Prey Statue'
+  img:  'http://lh3.ggpht.com/A87H2Ev-nSq_HCpnUCxDLdRG04MKhj9Uap_0Ii4kdUx_db5SwcKhAAOey5ls43XiDLYaw7uYymdNMcsAXfNo'
+  lat: 40.106182
+  level: 7
+  lon: -88.235521
+  name:  'Evans Scholars'
 - ap: 2724
   img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
   lat: 40.107751
@@ -1325,11 +1325,11 @@
   lon: -88.225268
   name:  'Institute of Genomic Biology Gateway'
 - ap: 2724
-  img:  'http://lh3.ggpht.com/A87H2Ev-nSq_HCpnUCxDLdRG04MKhj9Uap_0Ii4kdUx_db5SwcKhAAOey5ls43XiDLYaw7uYymdNMcsAXfNo'
-  lat: 40.106182
-  level: 7
-  lon: -88.235521
-  name:  'Evans Scholars'
+  img:  'http://lh4.ggpht.com/pWMrJGcrxdHbkyzK9GJLFBQdvgWtZzdJOIMHr66tCffHpsZd5e8NTrSPkYm0T9i4vtEVhARdLo6tZ7xLadU'
+  lat: 40.108294
+  level: 5
+  lon: -88.224348
+  name:  'Bird Of Prey Statue'
 - ap: 2724
   img:  'http://lh6.ggpht.com/hPutcAvS7zQN-tagfEY-fvkvdlgj7j5sZwUSLY883Twc7tHyslIAp7lzWYciJmCytDfsbFQtavAlzqGwCgFZkw'
   lat: 40.105562
@@ -1463,12 +1463,6 @@
   lon: -88.251369
   name:  'Mattis Park'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/_MJDV4NA2u24dbhr1ulyabSdnTuUBUv1xFpOPKbit_dHtoaRkFxqDHaRZBZ196LNyiSHUE5lNT4MCbhqCrzh'
-  lat: 40.098459
-  level: 7
-  lon: -88.282083
-  name:  'Flower Island'
-- ap: 2537
   img:  'http://lh5.ggpht.com/uICg1AgxErKugaXSVrAGclLigtqDUyOsaOIldV_S086SuGvckMN90PIxdZehZMktOsdxW3Ok9k7Hcx5UJSd9ZA'
   lat: 40.102217
   level: 7
@@ -1480,6 +1474,12 @@
   level: 5
   lon: -88.282612
   name:  'Winifred Nielubowski Memorial Plaque'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/_MJDV4NA2u24dbhr1ulyabSdnTuUBUv1xFpOPKbit_dHtoaRkFxqDHaRZBZ196LNyiSHUE5lNT4MCbhqCrzh'
+  lat: 40.098459
+  level: 7
+  lon: -88.282083
+  name:  'Flower Island'
 - ap: 2537
   img:  'http://lh4.ggpht.com/BB4y2ChVuPpmuGW8VPeiAPKr-vWwYdihWvrH0i_WALxPd8wX3j2no0JFEMNK8ndCvXwQzLLabPyRoAfsz5g'
   lat: 40.101584
@@ -1636,12 +1636,6 @@
   level: 4
   lon: -88.230025
   name:  'Pillars at Wohlers Hall'
-- ap: 2312
-  img:  'http://lh4.ggpht.com/p1kbhH-3K08NNqTt_6-223uI0PurGUV2HeAWGYPRx3OnNYMY-kARoW1zZ2pZBHthAYRZbIgf6ioRawHi0BmUx786y5ffm0kmZsskaOiluDUhSIiI'
-  lat: 40.106173
-  level: 3
-  lon: -88.22719
-  name:  'Foellinger Auditorium'
 - ap: 2537
   img:  'http://lh4.ggpht.com/PmGpygZ2fBs43twk2Y44XZbgGcHWv0YimAq7Fp3vlIRRqUyLpSmDmFwcn1ucfmJarcQrAAXJjYAXAhNyxSrz'
   lat: 40.110049
@@ -1655,11 +1649,11 @@
   lon: -88.229031
   name:  'Illini Hall'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/gSjoDo9KYu-lgQFkD5uUnj4HXGc1BOihKfh-rNeZu_Q3hHyEkaBoalqYiV46QcvH9y4o8cPkHP_cmo_LxCyo4Q'
-  lat: 40.10214
-  level: 6
-  lon: -88.218932
-  name:  'Twin City Bible Church'
+  img:  'http://lh4.ggpht.com/1LUozaukItxu6cHk_7wORzYYNvskCHi_wUxbNOAcIXNbgLuYn7VElFG0tzY02e6pY-AEL8nNHAL6ewLCaLMH'
+  lat: 40.10567
+  level: 4
+  lon: -88.228634
+  name:  'Public Broadcasting Plaque'
 - ap: 2537
   img:  'http://lh5.ggpht.com/fGRHfMAqdWrUnPE8GStKSdMkgQmu9qvuxAC4VzcU1v2KyxQu2BeuJKhvhefSeFNTkgFh6YdR-F4P6plMbh0'
   lat: 40.110194
@@ -1667,17 +1661,29 @@
   lon: -88.231488
   name:  'Fighting Illini Memorial'
 - ap: 2537
+  img:  'http://lh3.ggpht.com/gSjoDo9KYu-lgQFkD5uUnj4HXGc1BOihKfh-rNeZu_Q3hHyEkaBoalqYiV46QcvH9y4o8cPkHP_cmo_LxCyo4Q'
+  lat: 40.10214
+  level: 6
+  lon: -88.218932
+  name:  'Twin City Bible Church'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/odcfQItYKliXhc8F3FWOrLnmg-zhEAu2r9ziX_Nrdoo6xlkKh8Bx5AwWN3MVh3JU9eo46dBMe1QuXGs6Yl-2'
+  lat: 40.107087
+  level: 6
+  lon: -88.227801
+  name:  'Class of 1912 Pillar'
+- ap: 2387
+  img:  'http://lh4.ggpht.com/WF3_fc0ms0XOrJBrSwqEEdmtfNLcSKu4S_zvn_t6zYNYwxsZY4UrAV04cTmXoYt3dRTr5wyRBPZVKsMAoSbZ'
+  lat: 40.105315
+  level: 4
+  lon: -88.226125
+  name:  'U of I Observatory'
+- ap: 2537
   img:  'http://lh3.ggpht.com/wOZOXhKOnhbKEPMQke-zGIG_vheDkHM8q19B1n_is5H7t1whBcQxBIGZI6VIPNw8mdCNXG6EUZeSjd1YLdngdg'
   lat: 40.108965
   level: 2
   lon: -88.227184
   name:  'U of I Mother''s Association Plaque'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/1LUozaukItxu6cHk_7wORzYYNvskCHi_wUxbNOAcIXNbgLuYn7VElFG0tzY02e6pY-AEL8nNHAL6ewLCaLMH'
-  lat: 40.10567
-  level: 4
-  lon: -88.228634
-  name:  'Public Broadcasting Plaque'
 - ap: 2537
   img:  'http://lh6.ggpht.com/c2I39IJvSBKmCLonmhP_RN1vLEpYY1recBXFm8xpGHxES4bAN2kvAcda8ZzvT75uq0yWQCv7N_dzP6ce5-Tu'
   lat: 40.108043
@@ -1690,30 +1696,24 @@
   level: 2
   lon: -88.226388
   name:  'Illinois State Water Survey Plaque'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/odcfQItYKliXhc8F3FWOrLnmg-zhEAu2r9ziX_Nrdoo6xlkKh8Bx5AwWN3MVh3JU9eo46dBMe1QuXGs6Yl-2'
-  lat: 40.107087
-  level: 6
-  lon: -88.227801
-  name:  'Class of 1912 Pillar'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/gS3gT_deXzbDvejCL-5ygs31dw9bLQqYr2nDcLPZiv6nQzahJl12awG1a2pwKbFuoTlsHQYxQ2O7HDXL4-8'
-  lat: 40.110358
-  level: 7
-  lon: -88.230181
-  name:  'Murphy''s Pub '
+- ap: 2312
+  img:  'http://lh4.ggpht.com/p1kbhH-3K08NNqTt_6-223uI0PurGUV2HeAWGYPRx3OnNYMY-kARoW1zZ2pZBHthAYRZbIgf6ioRawHi0BmUx786y5ffm0kmZsskaOiluDUhSIiI'
+  lat: 40.106173
+  level: 3
+  lon: -88.22719
+  name:  'Foellinger Auditorium'
 - ap: 2537
   img:  'http://lh6.ggpht.com/y10QgRCNt0Bsefqp3olKgJp98whQkS0-vWqPskj3421hcSq96BG-b_KROqsO1mBEcNiYtAKhXuXG0EV0eaUW'
   lat: 40.107152
   level: 7
   lon: -88.235244
   name:  'Bromley Hall'
-- ap: 2387
-  img:  'http://lh4.ggpht.com/WF3_fc0ms0XOrJBrSwqEEdmtfNLcSKu4S_zvn_t6zYNYwxsZY4UrAV04cTmXoYt3dRTr5wyRBPZVKsMAoSbZ'
-  lat: 40.105315
-  level: 4
-  lon: -88.226125
-  name:  'U of I Observatory'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/gS3gT_deXzbDvejCL-5ygs31dw9bLQqYr2nDcLPZiv6nQzahJl12awG1a2pwKbFuoTlsHQYxQ2O7HDXL4-8'
+  lat: 40.110358
+  level: 7
+  lon: -88.230181
+  name:  'Murphy''s Pub '
 - ap: 2537
   img:  'http://lh5.ggpht.com/VYMooLhz51W3fCgti3L9LEQNMJjmFeW30saxIYK34yGEReG1naEKEd3eW1uyFgSlzpu-P5KertNDe4Z6qu8'
   lat: 40.109913
@@ -1750,10 +1750,10 @@
   level: 2
   lon: -88.220991
   name:  '"Prairie Fire" Sculpture'
-- ap: 2537
+- ap: 2387
   img:  'http://lh6.ggpht.com/453A5_wF0LdRJVZ1XnGIiUxghQgaxxiiv105HgvefLvU1eXqU6MLfIs0sLt0LGyVMugGuMvm0AKXq91t2sxZGEV2kNlMux2B3vOeFxvmUX2SQLUm'
   lat: 40.100927
-  level: 4
+  level: 3
   lon: -88.220124
   name:  'Illini Grove Shelter House'
 - ap: 2537
