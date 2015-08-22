@@ -281,17 +281,17 @@
   lon: -88.284367
   name:  'Dodds Park Softball Complex'
 - ap: 6846
-  img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
-  lat: 40.106921
-  level: 8
-  lon: -88.230145
-  name:  'University Lutheran Church'
-- ap: 6846
   img:  'http://lh5.ggpht.com/oCw3ZC6UKF3aiK6dkbz72dhzUsJNhOmfVjVsXJET_YP5e1p53pLTa8Dep24gLqeY9FghWE0kaAB64vvn7nq0'
   lat: 40.105008
   level: 8
   lon: -88.243265
   name:  'McCollum Park Peacock'
+- ap: 6846
+  img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
+  lat: 40.106921
+  level: 8
+  lon: -88.230145
+  name:  'University Lutheran Church'
 - ap: 6659
   img:  'http://lh6.ggpht.com/WVVbmiu2GGTnPTszcnYYILHKlkZDoxB-QY6Yv7YPoUfdVn92jYnKjpVKNkfWdFrPjq-BaFeKGJWLZlE-bbA'
   lat: 40.120467
@@ -1073,6 +1073,24 @@
   lon: -88.244374
   name:  'Shatterglass Studios Mural'
 - ap: 3474
+  img:  'http://lh5.ggpht.com/KadNuhjGK6FUXezGHW1W1kfPOQV5l7gJP594EQm5nPZFLTgcTsjl4ixa-j7XitgtyJyou3q0pTfMr4i2E_avIA'
+  lat: 40.118013
+  level: 1
+  lon: -88.243445
+  name:  'Clock at Neil and Main'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
+  lat: 40.11784
+  level: 2
+  lon: -88.24286
+  name:  'Kaufman Memorial'
+- ap: 3474
+  img:  'http://lh5.ggpht.com/KYppjeOoIlb4lbowRrrC5qRdYW7_KU8rzjtDMpvhh-Q_c6VZOTtVmOqmmxChJA2hjlpS5dJ1JnhUQcKUAXDWHA'
+  lat: 40.117976
+  level: 2
+  lon: -88.242642
+  name:  'Stevick Building'
+- ap: 3474
   img:  'http://lh3.ggpht.com/EGYOVzf1FmU6Mz8ck5GAJFFgeuTA6oTO3IOT84oXeO7EDtQ1lVD7VMiAxfWmaaW4Tg0x8IJ3GJnW-66LEgTN'
   lat: 40.107237
   level: 5
@@ -1135,7 +1153,7 @@
 - ap: 3474
   img:  'http://lh5.ggpht.com/1yq3oFq9p_Yl5cUf5h7IEfZPAbae2MT7lA0DFo1DHwPWPZJJ-Ez-2AE2oTzHEHWsEJQVUcUwh3j_d3kOYgDS'
   lat: 40.110095
-  level: 6
+  level: 7
   lon: -88.22862
   name:  'Alma Mater Plaza'
 - ap: 3399
@@ -1349,11 +1367,17 @@
   lon: -88.572156
   name:  'Bryant Cottage'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/ZpJuVeWuDsVo9oPzh9mGzFjeTz2FQluKlriJijNL29HFEEWmMBqok5fCxVis8MpHqJYCBQUhRLNU9yuE7luP'
-  lat: 40.129233
-  level: 6
-  lon: -88.238696
-  name:  'Bristol Park'
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.419337
+  level: '?'
+  lon: -88.766333
+  name:  '3ecfdcb85aff46958565089bec8689b3.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.021083
+  level: '?'
+  lon: -87.73164
+  name:  '9d279ed96cef4c29bbd549a689956180.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.299575
@@ -1380,28 +1404,34 @@
   name:  'Grandview Memorial Gardens'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 43.69659
+  level: '?'
+  lon: -87.70663
+  name:  'd9dd7d2ca2f74c37939cc9f8e8e42543.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.9686
+  level: '?'
+  lon: -87.630978
+  name:  '47ea0a512aca4efc981ddb89e220e8b4.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.39473
   level: '?'
   lon: -88.872321
   name:  'c89035b00e8f49cd9942782aefaa86de.16'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/ZpJuVeWuDsVo9oPzh9mGzFjeTz2FQluKlriJijNL29HFEEWmMBqok5fCxVis8MpHqJYCBQUhRLNU9yuE7luP'
+  lat: 40.129233
+  level: 6
+  lon: -88.238696
+  name:  'Bristol Park'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.795015
   level: '?'
   lon: -86.744547
   name:  'aaeb2654deff48c0beaadeede8d1424b.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.419337
-  level: '?'
-  lon: -88.766333
-  name:  '3ecfdcb85aff46958565089bec8689b3.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.021083
-  level: '?'
-  lon: -87.73164
-  name:  '9d279ed96cef4c29bbd549a689956180.16'
 - ap: 2537
   img:  'http://lh5.ggpht.com/8EXhrgcMBH0nDBQWTAlAwNIhxzaY7maIjYjg3fJnzGIp6_FNs98dPrYY4mtl4vhkPI5WQ1Xp8_V4vj2hAb9a'
   lat: 40.112026
@@ -1529,6 +1559,18 @@
   lon: -88.257966
   name:  'Grace Lutheran Church'
 - ap: 2537
+  img:  'http://lh3.ggpht.com/Vcus4uEIgRrZOTuMTz10IGc3qhU5MdpmGnEzN_IiBQrVm1M6Q26geFSgc4VIbgx12Utl9V52J1Y4g35V3MneDg'
+  lat: 40.117215
+  level: 1
+  lon: -88.245551
+  name:  'The Virginia Theater'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/2jocF-ooKfacyT7HSwrwNcZTSN02yFkcmXBkPx777CYuD5O6sHPHwyUabblNOl_37YOxba1Gjid-TOwLVBlJ8g'
+  lat: 40.116448
+  level: 2
+  lon: -88.248459
+  name:  'Uppercutted Sculpture'
+- ap: 2537
   img:  'http://lh6.ggpht.com/BANSBFfuZ3_0ya-JodV7jEB1a-DwSOyegBwPKAODSUFHLmvI7b8zwSiLUAvvqIAYjpU6S_Lm8XRBJ30KDGCIEg'
   lat: 40.116917
   level: 6
@@ -1577,18 +1619,6 @@
   lon: -88.241616
   name:  'Lincoln Building'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/KYppjeOoIlb4lbowRrrC5qRdYW7_KU8rzjtDMpvhh-Q_c6VZOTtVmOqmmxChJA2hjlpS5dJ1JnhUQcKUAXDWHA'
-  lat: 40.117976
-  level: 2
-  lon: -88.242642
-  name:  'Stevick Building'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
-  lat: 40.11784
-  level: 2
-  lon: -88.24286
-  name:  'Kaufman Memorial'
-- ap: 2537
   img:  'http://lh6.ggpht.com/yQPHFh4brRKGyXx9PtGN3hQza65T2PIyjArUf9NgW5fqFvx9m22oY2acMcEwFcVRNh0MTfGqc0WfMJFOt1io'
   lat: 40.10725
   level: 7
@@ -1606,10 +1636,10 @@
   level: 5
   lon: -88.237188
   name:  'Boneyard Creek Second Street  Basin'
-- ap: 2387
+- ap: 2537
   img:  'http://lh3.ggpht.com/LR76HrJqriPFUoc2XSs7jb2SotnStZv20kI7rgUx8B5HqhmetnTW4MA1tCp1ws4g5gw0sf9g7M3Lwq4VwfpD'
   lat: 40.111687
-  level: 4
+  level: 6
   lon: -88.225353
   name:  'Transportation Building - University Of Illinois'
 - ap: 2537
