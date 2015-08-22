@@ -702,16 +702,16 @@
   name:  'c3ef5a564286419fb438f3d1b199239c.16'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.987482
-  level: '?'
-  lon: -88.269801
-  name:  'df77244c1c974712aa97b436f767a677.16'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 39.986869
   level: '?'
   lon: -88.266876
   name:  'c0c561eb8ffb4ac380cc6b9b8cdafde8.16'
+- ap: 4411
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.987482
+  level: '?'
+  lon: -88.269801
+  name:  'df77244c1c974712aa97b436f767a677.16'
 - ap: 4261
   img:  'http://lh6.ggpht.com/D-AymiJdf5gt94o_wgUJbOD9Fpl4V7PijJOjkztpP0_J2k82i1TBLDAaqcH_SUTUFe9VlllfQCsXFg_J0uAPeA'
   lat: 40.11569
@@ -1181,6 +1181,12 @@
   lon: -88.233095
   name:  'Huff Hall'
 - ap: 2724
+  img:  'http://lh3.ggpht.com/psgrRGIt786cUSq8EV7SBSDsS-aptrUKjaCXWv864H7OaJL2K71qJpxU9Iw-acwFMi52ZN2qpEmicGmlmhJq'
+  lat: 40.121061
+  level: 5
+  lon: -88.250227
+  name:  'Curtis F. Columbia Legacy Plaque'
+- ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.454401
   level: '?'
@@ -1192,12 +1198,6 @@
   level: 7
   lon: -88.239027
   name:  'Human Kinetics Park'
-- ap: 2724
-  img:  'http://lh3.ggpht.com/psgrRGIt786cUSq8EV7SBSDsS-aptrUKjaCXWv864H7OaJL2K71qJpxU9Iw-acwFMi52ZN2qpEmicGmlmhJq'
-  lat: 40.121061
-  level: 5
-  lon: -88.250227
-  name:  'Curtis F. Columbia Legacy Plaque'
 - ap: 2724
   img:  'http://lh5.ggpht.com/j6Gqd19ib1ziWv7UKoq4_fMXeXtxxdV85TchQ49_mIgeJYs7oUWOj860aB2Ok8NGNY5wNfMqDn7zeSKOgpxEzQ'
   lat: 40.108781
@@ -1282,18 +1282,18 @@
   level: 6
   lon: -88.225268
   name:  'Institute of Genomic Biology Gateway'
-- ap: 2649
-  img:  'http://lh3.ggpht.com/jnMeoF6SBZ0Iinf5GnB2N90IMGTEQdGggLITfjWcIY6d5yipHaBN52a1NPxmn-VFwc_G1cHiMmyEDGg5nkwo'
-  lat: 40.101623
-  level: 5
-  lon: -88.231761
-  name:  'Metal Spire'
 - ap: 2724
   img:  'http://lh4.ggpht.com/pWMrJGcrxdHbkyzK9GJLFBQdvgWtZzdJOIMHr66tCffHpsZd5e8NTrSPkYm0T9i4vtEVhARdLo6tZ7xLadU'
   lat: 40.108294
   level: 6
   lon: -88.224348
   name:  'Bird Of Prey Statue'
+- ap: 2649
+  img:  'http://lh3.ggpht.com/jnMeoF6SBZ0Iinf5GnB2N90IMGTEQdGggLITfjWcIY6d5yipHaBN52a1NPxmn-VFwc_G1cHiMmyEDGg5nkwo'
+  lat: 40.101623
+  level: 5
+  lon: -88.231761
+  name:  'Metal Spire'
 - ap: 2724
   img:  'http://lh6.ggpht.com/hPutcAvS7zQN-tagfEY-fvkvdlgj7j5sZwUSLY883Twc7tHyslIAp7lzWYciJmCytDfsbFQtavAlzqGwCgFZkw'
   lat: 40.105562
@@ -1450,18 +1450,6 @@
   level: 3
   lon: -88.287351
   name:  'Parkland College Prairie Restoration Reserve'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/fucvhGlnRoH9QYMkBK1r2Qy9oOUZI9LZdwLXsHqHS7XxfmsgA664AxnJIiuZbPqBqjL4bEh26NiX3a3QfkoIY--DKozCDKry192H0Pl_l_XL4Mk'
-  lat: 40.118481
-  level: 5
-  lon: -88.268463
-  name:  'Huber''s Antique Street'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/rbEeQxbZyvrUu5nCQma0PzHtlA4cmaa9jItLke0b5KBmVlYP0q0d9OYg0_jrSi-8RiYOSdJklSevnYpoyjBWgA'
-  lat: 40.118265
-  level: 5
-  lon: -88.268383
-  name:  'Hays Recreation Center'
 - ap: 2537
   img:  'http://lh4.ggpht.com/PfcTU4XsA06ThtmCWydIWhTsN3gR4jrqnrKxu0O5lhyibhRdKMEaf3jM8VNhViF8qLf13b01E71wr_ajxn0'
   lat: 40.118465
@@ -1709,6 +1697,12 @@
   lon: -88.233133
   name:  'Sunken Cube at Art and Design Building'
 - ap: 2537
+  img:  'http://lh4.ggpht.com/bYrhTw8QophdiqDG-upqJ6JX2g2tZYX4N1jC4d_cciIj4ep8oQvIgjJlfge2VCmzSZe9irj-BTpbj9Jcv7U'
+  lat: 40.103009
+  level: 6
+  lon: -88.233215
+  name:  'Mac and Diana Garret Memorial Tree'
+- ap: 2537
   img:  'http://lh3.googleusercontent.com/XQb7KWjSJlhbfrYsW2727_AeRoEQ5BbG0fRTTY5js_4zRdArbiRhCRkXunVa81rQpk9yX4RB6x1dV97DnYN7'
   lat: 40.104722
   level: 6
@@ -1720,12 +1714,6 @@
   level: 6
   lon: -88.230986
   name:  'Alpha Phi Sorority'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/bYrhTw8QophdiqDG-upqJ6JX2g2tZYX4N1jC4d_cciIj4ep8oQvIgjJlfge2VCmzSZe9irj-BTpbj9Jcv7U'
-  lat: 40.103009
-  level: 6
-  lon: -88.233215
-  name:  'Mac and Diana Garret Memorial Tree'
 - ap: 2237
   img:  'http://lh6.ggpht.com/yE7aPklOUj6Y4vlNLUrqm7uJbj0TAVjhl_vSEgy7CHGlkTo5yyJGeTCUnRsHYe2UAZq2h_Y3AD_m3y3i2B8'
   lat: 40.106876
