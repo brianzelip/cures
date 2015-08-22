@@ -33,12 +33,12 @@
   lon: -88.238808
   mus: 443
   name:  'Alpha Gamma Rho'
-- fields: 3
+- fields: 2
   img:  'http://lh6.ggpht.com/yoGdHEqpRRqOE5pA5wHdi_ismU_TrB-kTiqVV63EO630KsU608TIfjLijcqJ38At7MyyrE2urWFMPY1Sops'
   lat: 40.118121
   level: 7
   lon: -88.258039
-  mus: 336
+  mus: 280
   name:  'Mini Park V'
 - fields: 5
   img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
@@ -83,26 +83,12 @@
   mus: 64
   name:  'University Lutheran Church'
 - fields: 3
-  img:  'http://lh5.ggpht.com/vYay8RKsCV_BP_MkeFm7se0VZoYthm-1pThiATAADleBlTsPowobgZyUoU7DUto6p5cpg9adpCcTgNR6iop0Jw'
-  lat: 40.120121
-  level: 5
-  lon: -88.251967
-  mus: 49
-  name:  'Sesquicentennial Neighborhood Sign'
-- fields: 3
   img:  'http://lh4.ggpht.com/Oy0NzvODUpd5270gnNUQqxf4w1YUNzMwDdncW6PvKUb3y_ptImObTW3rbbHp_OYEUKTR37L61q3yuYr1GRSV'
   lat: 40.090259
   level: 6
   lon: -88.295024
   mus: 35
   name:  'Robeson Park'
-- fields: 4+
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.203973
-  level: '?'
-  lon: -88.393369
-  mus: 30
-  name:  'Mabery Gelvin Botanical Garden'
 - fields: 4
   img:  'http://lh4.ggpht.com/8Yhp3k9rCZps2AgalC_ip3F4DfS_sWuoDsILaXrP4RmZLhthvaiibjiEOn68zQ_QZyQu1Jyj8yb2lmNUNmrR'
   lat: 40.101186
@@ -124,13 +110,6 @@
   lon: -88.230687
   mus: 15
   name:  'Community United Church of Christ'
-- fields: 3+
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.203562
-  level: '?'
-  lon: -88.395264
-  mus: 12
-  name:  'Blue Star Memorial By-Way'
 - fields: 7
   img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
   lat: 40.099737
@@ -145,6 +124,13 @@
   lon: -88.26247
   mus: 10
   name:  'Clark Park South Entrance'
+- fields: 2+
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.203562
+  level: '?'
+  lon: -88.395264
+  mus: 10
+  name:  'Blue Star Memorial By-Way'
 - fields: 3
   img:  'http://lh4.ggpht.com/DKqCX7ekIzT953BiW_t-Oe0jBg-GV5rCptYhvQqlLpQdaRpMxnNfMXekcxHT3XIhqCgskbqRwa-YofxMh71Q'
   lat: 40.090655
@@ -236,10 +222,17 @@
   lon: -88.250855
   mus: 3
   name:  'Donald F. Bresnan Memorial'
+- fields: 3+
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.203703
+  level: '?'
+  lon: -88.394049
+  mus: 3
+  name:  '1ab1edcdd05447019675c2b4b0d30cbb.16'
 - fields: 3
   img:  'http://lh5.ggpht.com/0m1i3CJSj3bKhLj5BgXi8SFpgoihNsBoN6fpccgDU2tjtPcA5BqB1IxvR0yAX9FWkgt3_Q8gbAyGfdJDliGP'
   lat: 40.115142
-  level: 5
+  level: 6
   lon: -88.238658
   mus: 3
   name:  'First Street Antiques'
@@ -257,6 +250,13 @@
   lon: -88.244122
   mus: 2
   name:  'Artistic Graffiti at MCS'
+- fields: 4
+  img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
+  lat: 40.099353
+  level: 5
+  lon: -88.251876
+  mus: 2
+  name:  'Raymond B. Cattell Memorial'
 - fields: 2+
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.152342
@@ -271,6 +271,13 @@
   lon: -88.281531
   mus: 2
   name:  'Terry M. Warmbier Memorial'
+- fields: 1
+  img:  'http://lh5.ggpht.com/vYay8RKsCV_BP_MkeFm7se0VZoYthm-1pThiATAADleBlTsPowobgZyUoU7DUto6p5cpg9adpCcTgNR6iop0Jw'
+  lat: 40.120121
+  level: 5
+  lon: -88.251967
+  mus: 2
+  name:  'Sesquicentennial Neighborhood Sign'
 - fields: 2
   img:  'http://lh6.ggpht.com/YVbqGVTjJuDMDdj71CP2mWvnUIdgO25PgoDdJwEGnEE_M9I1aDgKyjSr9JOZVU6UQTZQtfUo9RAWyz92n3jtCQ'
   lat: 40.098475
@@ -278,13 +285,6 @@
   lon: -88.249208
   mus: 2
   name:  'In Fond Memory of William Moore Jr'
-- fields: 3
-  img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
-  lat: 40.099353
-  level: 5
-  lon: -88.251876
-  mus: 2
-  name:  'Raymond B. Cattell Memorial'
 - fields: 1
   img:  'http://lh3.ggpht.com/R9_j6Ix3G4wIobXVuK6nhjPbwc4K59mAiAEYBNzlpbhK11ILWcjzXIpL90el567VJkxLA0oHXb244mi3pMUk'
   lat: 40.106459
@@ -327,20 +327,6 @@
   lon: -88.24332
   mus: 1
   name:  'Wayland Smith Estate Garden'
-- fields: 1
-  img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
-  lat: 40.11784
-  level: 5
-  lon: -88.24286
-  mus: 1
-  name:  'Kaufman Memorial'
-- fields: 2+
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.203703
-  level: '?'
-  lon: -88.394049
-  mus: 1
-  name:  '1ab1edcdd05447019675c2b4b0d30cbb.16'
 - fields: 1
   img:  'http://lh5.ggpht.com/1yq3oFq9p_Yl5cUf5h7IEfZPAbae2MT7lA0DFo1DHwPWPZJJ-Ez-2AE2oTzHEHWsEJQVUcUwh3j_d3kOYgDS'
   lat: 40.110095
