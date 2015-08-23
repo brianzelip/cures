@@ -1,4 +1,4 @@
-- ap: 12281
+- ap: 12468
   img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
   lat: 40.097979
   level: 8
@@ -233,17 +233,17 @@
   lon: -88.249899
   name:  'Benjamin Biddle Memorial Plaque'
 - ap: 7035
-  img:  'http://lh3.ggpht.com/VLipBehsKPCp8ewQnBV1ZCz7uE75zcY46iGDyFfFHgX1o55t3DONb3wcBcL5RMYSqABRK0TgIW3DluNy8y6WaA'
-  lat: 40.101131
-  level: 7
-  lon: -88.250539
-  name:  'Hessel Park'
-- ap: 7035
   img:  'http://lh5.ggpht.com/8zq5tMevCiipZK8N9-8SZw3vdsA2HwH0E02ormQshGxHVZrB2WPK7OPC8zt6pjLlgpXVuEYHVA_08_Q8fPw-'
   lat: 40.099647
   level: 6
   lon: -88.249648
   name:  'Max Overmyer Memorial Playground'
+- ap: 7035
+  img:  'http://lh3.ggpht.com/VLipBehsKPCp8ewQnBV1ZCz7uE75zcY46iGDyFfFHgX1o55t3DONb3wcBcL5RMYSqABRK0TgIW3DluNy8y6WaA'
+  lat: 40.101131
+  level: 7
+  lon: -88.250539
+  name:  'Hessel Park'
 - ap: 7035
   img:  'http://lh3.ggpht.com/lzCSS0_tjwUV7JQ2fgLI0e05IrzPxlVUs-6aEPOwUv67IanQJSTi71gkw0SGm8asmoE_r3Xoh048Fd9xRpE'
   lat: 40.099169
@@ -275,6 +275,12 @@
   lon: -88.230188
   name:  'Color Glass Windows at the Newman Center'
 - ap: 6846
+  img:  'http://lh5.ggpht.com/H3lz_PbTP4RFYuRMUyZuMouxslODKZQ3RjFiZrITFZcpj2FuEb1K2VVlveQtOyUHG2rYZ114AGuGqK4rATI5jg'
+  lat: 40.097868
+  level: 6
+  lon: -88.242344
+  name:  'Campus Information Booth '
+- ap: 6846
   img:  'http://lh4.ggpht.com/0j8eeTKJgjnYhHpf4qH_70CZHLbujC5v-XP_ndcqh1xIR-5V2K_CGdjIe1ZfMbwvSyISxxYKoZynw1DaQcj8'
   lat: 40.105874
   level: 7
@@ -286,12 +292,6 @@
   level: '?'
   lon: -88.253532
   name:  'Toalson Park'
-- ap: 6659
-  img:  'http://lh5.ggpht.com/H3lz_PbTP4RFYuRMUyZuMouxslODKZQ3RjFiZrITFZcpj2FuEb1K2VVlveQtOyUHG2rYZ114AGuGqK4rATI5jg'
-  lat: 40.097868
-  level: 6
-  lon: -88.242344
-  name:  'Campus Information Booth '
 - ap: 6659
   img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
   lat: 40.107753
@@ -707,6 +707,12 @@
   lon: -88.282707
   name:  'Champaign Cycle'
 - ap: 3848
+  img:  'http://lh3.ggpht.com/ZOALJqKi7gNpN7e2IXnkcpGhKdME-MIGNVz09KJfsruk0ix30Xa_lWaNAMj06IpkfgGbmbNvDXRdDkLgGGA9'
+  lat: 40.090629
+  level: 6
+  lon: -88.29504
+  name:  'Roby Recreation Trail'
+- ap: 3848
   img:  'http://lh6.ggpht.com/wk0l8Qe7j_Ph_LhyPvdNO6g8nwrxpswodrbNuOzLa3K1QNBrIVidi9iztmDXu3HtCWo5TpqDDjPsEbSl2aWUKg'
   lat: 40.144554
   level: 6
@@ -742,12 +748,6 @@
   level: 5
   lon: -88.206203
   name:  'Zeb'
-- ap: 3661
-  img:  'http://lh3.ggpht.com/ZOALJqKi7gNpN7e2IXnkcpGhKdME-MIGNVz09KJfsruk0ix30Xa_lWaNAMj06IpkfgGbmbNvDXRdDkLgGGA9'
-  lat: 40.090629
-  level: 6
-  lon: -88.29504
-  name:  'Roby Recreation Trail'
 - ap: 3661
   img:  'http://lh4.ggpht.com/Oy0NzvODUpd5270gnNUQqxf4w1YUNzMwDdncW6PvKUb3y_ptImObTW3rbbHp_OYEUKTR37L61q3yuYr1GRSV'
   lat: 40.090259
@@ -852,16 +852,16 @@
   name:  'd642f015efd04fc7a35f14dfc2c894d0.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.966649
-  level: '?'
-  lon: -88.345263
-  name:  'f91d12c0ef074e13a5978fa658722945.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 39.986869
   level: '?'
   lon: -88.266876
   name:  'c0c561eb8ffb4ac380cc6b9b8cdafde8.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.966649
+  level: '?'
+  lon: -88.345263
+  name:  'f91d12c0ef074e13a5978fa658722945.16'
 - ap: 3174
   img:  'http://lh3.ggpht.com/ROImDYnOqzAZ2JsC6d1BbHEDHBXtQwcT1EblsUkMVTN5M_E6B0WeKd76CdFWHsT-I6vOqYd46_0mo3qWslBI'
   lat: 40.09118
@@ -989,6 +989,12 @@
   lon: -88.382509
   name:  'baa170273cd749acb5338139770e8f70.16'
 - ap: 3098
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.026865
+  level: '?'
+  lon: -88.535309
+  name:  '978bef9392354bf895fe9c00c1cf2a7f.16'
+- ap: 3098
   img:  'http://lh3.ggpht.com/K-b9T4FjMxrtkS2Awkze3fELfwY2Va92gMQloHtHf4bfeKPPRzOUJxaSYYi6-OHHQbpDVY3ONWwPgIa78fBX'
   lat: 40.118332
   level: 5
@@ -1001,6 +1007,12 @@
   lon: -88.229095
   name:  'University Place Christian Church'
 - ap: 2911
+  img:  'http://lh3.ggpht.com/NN6RkPjzu0pZ6JauW9eKN-KWuNlwHaRQ0_uMQvlrQTjZZ87KcW1-QHyqEy7ECKLDIzzsRcmsrDfbmDALT5e6'
+  lat: 40.083988
+  level: 7
+  lon: -88.287936
+  name:  'Flower Island'
+- ap: 2911
   img:  'http://lh5.ggpht.com/pSVHjk6puyYdv3ztHlpJGnbkZyGsGsirMnxkDhlt8UMko4AhtTQbrzwInBCu5lK4Ttf7furE5pNW2AZh8HuSZQ'
   lat: 40.138109
   level: 6
@@ -1012,18 +1024,6 @@
   level: 5
   lon: -88.250227
   name:  'Curtis F. Columbia Legacy Plaque'
-- ap: 2911
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.026865
-  level: '?'
-  lon: -88.535309
-  name:  '978bef9392354bf895fe9c00c1cf2a7f.16'
-- ap: 2911
-  img:  'http://lh3.ggpht.com/NN6RkPjzu0pZ6JauW9eKN-KWuNlwHaRQ0_uMQvlrQTjZZ87KcW1-QHyqEy7ECKLDIzzsRcmsrDfbmDALT5e6'
-  lat: 40.083988
-  level: 7
-  lon: -88.287936
-  name:  'Flower Island'
 - ap: 2911
   img:  'http://lh5.ggpht.com/Tn5ARN-X6VTc2q6atZ2WYq3c2g3gbSGXu6_vXf1MDwHfLpdTtnQ-CilBAVGvL6R-SHhq3fJ4WZI-yiJKmIId'
   lat: 40.110398
@@ -1186,6 +1186,12 @@
   level: '?'
   lon: -88.387753
   name:  'Covered Bridge'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.39473
+  level: '?'
+  lon: -88.872321
+  name:  'c89035b00e8f49cd9942782aefaa86de.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.160669
@@ -1576,12 +1582,6 @@
   level: 2
   lon: -88.206724
   name:  'Urbana''s Lincoln'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.39473
-  level: '?'
-  lon: -88.872321
-  name:  'c89035b00e8f49cd9942782aefaa86de.16'
 - ap: 2537
   img:  'http://lh5.ggpht.com/snSXlo68vFp7EOytyhI8zy8PbfwsZfFHRMNYCJ-JhFU9iMUCrtZtkttGM-OCUaRrii_tc-QAVgJCvD7gDv8'
   lat: 40.20083
