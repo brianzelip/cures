@@ -52,10 +52,10 @@
   level: 7
   lon: -88.251947
   name:  'Our Friend Tim Palmer'
-- ap: 9395
+- ap: 9470
   img:  'http://lh5.ggpht.com/VYMooLhz51W3fCgti3L9LEQNMJjmFeW30saxIYK34yGEReG1naEKEd3eW1uyFgSlzpu-P5KertNDe4Z6qu8'
   lat: 40.109913
-  level: 5
+  level: 6
   lon: -88.228393
   name:  'Alma Mater Statue'
 - ap: 8909
@@ -112,6 +112,12 @@
   level: 6
   lon: -88.25376
   name:  'Hessel Park Christian Reformed Church'
+- ap: 8157
+  img:  'http://lh4.ggpht.com/vbIH-PkUCBuwDTIRXA4p5jtGQ86SqYlc1e-g3Y9Ef2zaSb0ozkDD41Iq51orLhtPyShj4UzC6CPn0Unt8SY'
+  lat: 40.145108
+  level: 7
+  lon: -88.260083
+  name:  'Historic Interpretive Map of Champaign'
 - ap: 8157
   img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
   lat: 40.108066
@@ -172,12 +178,6 @@
   level: 8
   lon: -88.242233
   name:  'Dohme Park'
-- ap: 7970
-  img:  'http://lh4.ggpht.com/vbIH-PkUCBuwDTIRXA4p5jtGQ86SqYlc1e-g3Y9Ef2zaSb0ozkDD41Iq51orLhtPyShj4UzC6CPn0Unt8SY'
-  lat: 40.145108
-  level: 7
-  lon: -88.260083
-  name:  'Historic Interpretive Map of Champaign'
 - ap: 7785
   img:  'http://lh3.ggpht.com/G1CvGhpethi5UmprDWxZN9rTblHa3anSsQz1UPgJtkREkfN7lDFoxFObst0609Cg5mofuZxJKr0ddNKhY4VL'
   lat: 40.098464
@@ -401,17 +401,17 @@
   lon: -88.296708
   name:  'Mt. Vernon United Methodist Church'
 - ap: 6096
-  img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
-  lat: 40.106706
-  level: 7
-  lon: -88.232116
-  name:  'Illini Tower'
-- ap: 5909
   img:  'http://lh6.ggpht.com/JgD9-vk2pVIQENqssLAn_4Smd4aFydCLSHsQWVF4D4gn8xxgO5PTgDfjr0DKtVdau2_ZQc7RR-gYrOaMwStSRg'
   lat: 40.143345
   level: 6
   lon: -88.256693
   name:  'Captain Morgan Statue'
+- ap: 6096
+  img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
+  lat: 40.106706
+  level: 7
+  lon: -88.232116
+  name:  'Illini Tower'
 - ap: 5909
   img:  'http://lh5.ggpht.com/vYay8RKsCV_BP_MkeFm7se0VZoYthm-1pThiATAADleBlTsPowobgZyUoU7DUto6p5cpg9adpCcTgNR6iop0Jw'
   lat: 40.120121
@@ -478,10 +478,10 @@
   level: 7
   lon: -88.241338
   name:  'Illinois Terminal'
-- ap: 5348
+- ap: 5123
   img:  'http://lh6.ggpht.com/2lDM_Uj6QcUJmWkmPhNWg-vfkJbBQAo6zb7eXC5qDTaJ5xAsoU7jPPqYmLo7zztC2Za1oH3QVrHQ78-XabqR'
   lat: 40.116398
-  level: 5
+  level: 4
   lon: -88.242485
   name:  'Champaign Servicemen and Women Memorial'
 - ap: 5348
@@ -646,7 +646,7 @@
   level: 4
   lon: -88.240009
   name:  'VW Bug On The Roof'
-- ap: 4598
+- ap: 4523
   img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
   lat: 40.116553
   level: 2
@@ -754,10 +754,10 @@
   level: 7
   lon: -88.232251
   name:  'McKinley Church'
-- ap: 4261
+- ap: 4411
   img:  'http://lh4.ggpht.com/2tHD_AHYQu0kWuwLX2HMYWBG4txVkuWsBEfzWLL39npWp8kMSHiUKxSJM1E7yhimuMVUJ-RIlSSKsgjETvtr'
   lat: 40.110524
-  level: 4
+  level: 6
   lon: -88.228706
   name:  'Leo Roy Tehon Memorial'
 - ap: 4036
@@ -1138,7 +1138,7 @@
   level: 4
   lon: -88.243087
   name:  'Sholem Building'
-- ap: 3474
+- ap: 3399
   img:  'http://lh6.ggpht.com/cZVUlNaHjfsB6Lu5hnj8JjUk4lvsgOV7DFz4Nl47-RaQObW1VPRpos6hTDD6WgYrNxCh9UKfn5DFU-K7lRe9pQ'
   lat: 40.1164
   level: 4
@@ -1666,10 +1666,10 @@
   level: 6
   lon: -88.243729
   name:  'The Phoenix'
-- ap: 2537
+- ap: 2312
   img:  'http://lh5.ggpht.com/dRrlHXlT2nMNgZNHiYo52ha9L-Xay9DyOJR2Cpqs74hgAJ09abn9OTAtMzRVedt1_R9ObZllLO98vRhNMfgTgVsJCk1S-HJwX_XgiGpG4lz3a328'
   lat: 40.11671
-  level: 5
+  level: 3
   lon: -88.24263
   name:  'Cafe Kopi'
 - ap: 2537
@@ -1846,10 +1846,10 @@
   level: 5
   lon: -88.229415
   name:  'The Pioneers'
-- ap: 2312
+- ap: 2387
   img:  'http://lh6.ggpht.com/TXVMllOHjnPSJgg_7oE4ZuY82xJs56TE9AbaxAFxXWiD5yKwlOZUHfx74BaxCzczl9hTtaKqkaDsA4LeZ94'
   lat: 40.110617
-  level: 3
+  level: 4
   lon: -88.228248
   name:  'Everitt Lab'
 - ap: 2537
