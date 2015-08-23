@@ -761,6 +761,12 @@
   lon: -88.28239
   name:  'Eddie Albert Gardens'
 - ap: 3661
+  img:  'http://www.panoramio.com/photos/small/52867363.jpg'
+  lat: 40.101676
+  level: 6
+  lon: -88.231098
+  name:  'Sculpture, Krannert Art Museum'
+- ap: 3661
   img:  'http://lh6.ggpht.com/yQPHFh4brRKGyXx9PtGN3hQza65T2PIyjArUf9NgW5fqFvx9m22oY2acMcEwFcVRNh0MTfGqc0WfMJFOt1io'
   lat: 40.10725
   level: 7
@@ -772,12 +778,6 @@
   level: 7
   lon: -88.244964
   name:  'Fellowship Circle'
-- ap: 3661
-  img:  'http://www.panoramio.com/photos/small/52867363.jpg'
-  lat: 40.101676
-  level: 6
-  lon: -88.231098
-  name:  'Sculpture, Krannert Art Museum'
 - ap: 3661
   img:  'http://lh5.ggpht.com/9VuH5-qaoobAtdEZFkn2uoAcJS5Luq9QLXRevRpv9WAzkjoAB_9hftbELGCCm8M4rxAJ5xTfJWd6E6kb0Or7'
   lat: 40.102016
@@ -852,16 +852,16 @@
   name:  'd642f015efd04fc7a35f14dfc2c894d0.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.986869
-  level: '?'
-  lon: -88.266876
-  name:  'c0c561eb8ffb4ac380cc6b9b8cdafde8.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 39.966649
   level: '?'
   lon: -88.345263
   name:  'f91d12c0ef074e13a5978fa658722945.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.986869
+  level: '?'
+  lon: -88.266876
+  name:  'c0c561eb8ffb4ac380cc6b9b8cdafde8.16'
 - ap: 3174
   img:  'http://lh3.ggpht.com/ROImDYnOqzAZ2JsC6d1BbHEDHBXtQwcT1EblsUkMVTN5M_E6B0WeKd76CdFWHsT-I6vOqYd46_0mo3qWslBI'
   lat: 40.09118
@@ -905,12 +905,6 @@
   lon: -88.25077
   name:  'Fox Development Corporation'
 - ap: 3474
-  img:  'http://lh5.ggpht.com/3RfiPeOzF67ubNX-vkwUJ6-EYld6BKuoBernq0_9kOjlIsSPr3saR9FIQzN7uiw7ouF0CpNflOnL0mUj9zbqdQ'
-  lat: 40.109452
-  level: 5
-  lon: -88.229031
-  name:  'Illini Hall'
-- ap: 3474
   img:  'http://lh5.ggpht.com/szWXjFVU67N6nJHeZbrcsC2b8J7kXF7nBh_RooZZ5-ezcJsxWUvA7NZrGjJxfwTzVkc2HYMYLwh19UaYEbm3-Vmu4ZAG8959ZOG44cpeeyoUHtkD'
   lat: 40.108422
   level: 4
@@ -928,6 +922,12 @@
   level: 2
   lon: -88.228125
   name:  'Class of 1902 Memorial'
+- ap: 3474
+  img:  'http://lh5.ggpht.com/3RfiPeOzF67ubNX-vkwUJ6-EYld6BKuoBernq0_9kOjlIsSPr3saR9FIQzN7uiw7ouF0CpNflOnL0mUj9zbqdQ'
+  lat: 40.109452
+  level: 5
+  lon: -88.229031
+  name:  'Illini Hall'
 - ap: 3474
   img:  'http://lh5.ggpht.com/1yq3oFq9p_Yl5cUf5h7IEfZPAbae2MT7lA0DFo1DHwPWPZJJ-Ez-2AE2oTzHEHWsEJQVUcUwh3j_d3kOYgDS'
   lat: 40.110095
@@ -1108,24 +1108,6 @@
   level: 7
   lon: -88.235521
   name:  'Evans Scholars'
-- ap: 2649
-  img:  'http://lh3.ggpht.com/jnMeoF6SBZ0Iinf5GnB2N90IMGTEQdGggLITfjWcIY6d5yipHaBN52a1NPxmn-VFwc_G1cHiMmyEDGg5nkwo'
-  lat: 40.101623
-  level: 5
-  lon: -88.231761
-  name:  'Metal Spire'
-- ap: 2724
-  img:  'http://lh5.ggpht.com/fGRHfMAqdWrUnPE8GStKSdMkgQmu9qvuxAC4VzcU1v2KyxQu2BeuJKhvhefSeFNTkgFh6YdR-F4P6plMbh0'
-  lat: 40.110194
-  level: 5
-  lon: -88.231488
-  name:  'Fighting Illini Memorial'
-- ap: 2724
-  img:  'http://lh6.ggpht.com/hPutcAvS7zQN-tagfEY-fvkvdlgj7j5sZwUSLY883Twc7tHyslIAp7lzWYciJmCytDfsbFQtavAlzqGwCgFZkw'
-  lat: 40.105562
-  level: 7
-  lon: -88.234991
-  name:  'Acacia House'
 - ap: 2724
   img:  'http://lh6.ggpht.com/yYW6Egg1lWn6UqqLzlgqwCQhtbuxiZSW4TmvI1XBPs33OTTJ0oh51XZXOIILxGI2juoO-E_YfG5UHmeb34rSOw'
   lat: 40.109165
@@ -1133,11 +1115,29 @@
   lon: -88.230269
   name:  'John Street Plaque'
 - ap: 2724
+  img:  'http://lh5.ggpht.com/fGRHfMAqdWrUnPE8GStKSdMkgQmu9qvuxAC4VzcU1v2KyxQu2BeuJKhvhefSeFNTkgFh6YdR-F4P6plMbh0'
+  lat: 40.110194
+  level: 5
+  lon: -88.231488
+  name:  'Fighting Illini Memorial'
+- ap: 2649
+  img:  'http://lh3.ggpht.com/jnMeoF6SBZ0Iinf5GnB2N90IMGTEQdGggLITfjWcIY6d5yipHaBN52a1NPxmn-VFwc_G1cHiMmyEDGg5nkwo'
+  lat: 40.101623
+  level: 5
+  lon: -88.231761
+  name:  'Metal Spire'
+- ap: 2724
   img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
   lat: 40.107751
   level: 7
   lon: -88.231532
   name:  'Graduate School of Library and Information Science'
+- ap: 2724
+  img:  'http://lh6.ggpht.com/hPutcAvS7zQN-tagfEY-fvkvdlgj7j5sZwUSLY883Twc7tHyslIAp7lzWYciJmCytDfsbFQtavAlzqGwCgFZkw'
+  lat: 40.105562
+  level: 7
+  lon: -88.234991
+  name:  'Acacia House'
 - ap: 2724
   img:  'http://lh3.ggpht.com/gS3gT_deXzbDvejCL-5ygs31dw9bLQqYr2nDcLPZiv6nQzahJl12awG1a2pwKbFuoTlsHQYxQ2O7HDXL4-8'
   lat: 40.110358
@@ -1170,12 +1170,6 @@
   name:  'Covered Bridge'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.793359
-  level: '?'
-  lon: -86.743359
-  name:  '2e0e01fd74be47beb0e95386d18b204d.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.160669
   level: '?'
   lon: -88.314706
@@ -1186,6 +1180,12 @@
   level: '?'
   lon: -86.744547
   name:  'aaeb2654deff48c0beaadeede8d1424b.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.793359
+  level: '?'
+  lon: -86.743359
+  name:  '2e0e01fd74be47beb0e95386d18b204d.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.026865
@@ -1240,12 +1240,6 @@
   level: 3
   lon: -88.287351
   name:  'Parkland College Prairie Restoration Reserve'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/1yyUr0xGwID_g1F_OYHLjASRJrvJLD7e8r6IER_B6CliwGRrCH6cDWRVgtfWqJ0wHhNyjId_FX6mEVecAviV'
-  lat: 40.11946
-  level: 5
-  lon: -88.276623
-  name:  'Glenn Park'
 - ap: 2162
   img:  'http://lh3.ggpht.com/M33LbHvLXVjhHiz7MUGGLGsBwB3EGR0z2vYVf5Qrx3pdnmpATwUuU0kEGUobPn2AKoGNpQKgvlIpyJoSHLzv'
   lat: 40.127501
@@ -1258,18 +1252,24 @@
   level: 3
   lon: -88.276582
   name:  'Seventh-Day Adventist Church'
-- ap: 2462
-  img:  'http://lh4.ggpht.com/bYrhTw8QophdiqDG-upqJ6JX2g2tZYX4N1jC4d_cciIj4ep8oQvIgjJlfge2VCmzSZe9irj-BTpbj9Jcv7U'
-  lat: 40.103009
-  level: 6
-  lon: -88.233215
-  name:  'Mac and Diana Garret Memorial Tree'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/1yyUr0xGwID_g1F_OYHLjASRJrvJLD7e8r6IER_B6CliwGRrCH6cDWRVgtfWqJ0wHhNyjId_FX6mEVecAviV'
+  lat: 40.11946
+  level: 5
+  lon: -88.276623
+  name:  'Glenn Park'
 - ap: 2537
   img:  'http://lh5.ggpht.com/dnj__uItXDR_xj-g5PNpGYPNjJCPBFpsx3w9sWxvrOlayO6nyG_Qu8MygtuFZm9i4L2Gho0fkOACtzkGR_e2wQ'
   lat: 40.098457
   level: 8
   lon: -88.276763
   name:  'Mini Park IV'
+- ap: 2462
+  img:  'http://lh4.ggpht.com/bYrhTw8QophdiqDG-upqJ6JX2g2tZYX4N1jC4d_cciIj4ep8oQvIgjJlfge2VCmzSZe9irj-BTpbj9Jcv7U'
+  lat: 40.103009
+  level: 6
+  lon: -88.233215
+  name:  'Mac and Diana Garret Memorial Tree'
 - ap: 2537
   img:  'http://lh6.ggpht.com/_MJDV4NA2u24dbhr1ulyabSdnTuUBUv1xFpOPKbit_dHtoaRkFxqDHaRZBZ196LNyiSHUE5lNT4MCbhqCrzh'
   lat: 40.098459
@@ -1540,18 +1540,18 @@
   level: 5
   lon: -88.206018
   name:  'Urbana Market Square'
-- ap: 2237
-  img:  'http://lh5.ggpht.com/d1PrlCV_34E6p3knWKIG9iinFOOtMcApC_VC0BAtd_9RxZUgAzjzEmpDg3EQUC-i4MxVNvfPQIoZqYdwC48_'
-  lat: 40.112278
-  level: 2
-  lon: -88.206724
-  name:  'Urbana''s Lincoln'
 - ap: 2537
   img:  'http://lh5.ggpht.com/gzRmKQixkcp4cu1yDSKAOq_7_ipKvFWUCHT7BfpjE6VSSAq7Q08JJGg_jt4FCMWU3ie65fwweNlj4n6dg1aQIA'
   lat: 40.111419
   level: 5
   lon: -88.209885
   name:  'Megan''s Garden'
+- ap: 2237
+  img:  'http://lh5.ggpht.com/d1PrlCV_34E6p3knWKIG9iinFOOtMcApC_VC0BAtd_9RxZUgAzjzEmpDg3EQUC-i4MxVNvfPQIoZqYdwC48_'
+  lat: 40.112278
+  level: 2
+  lon: -88.206724
+  name:  'Urbana''s Lincoln'
 - ap: 2537
   img:  'http://lh5.ggpht.com/snSXlo68vFp7EOytyhI8zy8PbfwsZfFHRMNYCJ-JhFU9iMUCrtZtkttGM-OCUaRrii_tc-QAVgJCvD7gDv8'
   lat: 40.20083
