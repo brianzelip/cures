@@ -35,17 +35,17 @@
   lon: -88.249275
   name:  'Narayan & Shanti Achanta Memorial Plaque'
 - ap: 9846
-  img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
-  lat: 40.100521
-  level: 7
-  lon: -88.250864
-  name:  'Gabriel Patrick Maxeiner Memorial'
-- ap: 9846
   img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
   lat: 40.098959
   level: 7
   lon: -88.250141
   name:  'Bob and Wilma Tinkham'
+- ap: 9846
+  img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
+  lat: 40.100521
+  level: 7
+  lon: -88.250864
+  name:  'Gabriel Patrick Maxeiner Memorial'
 - ap: 9659
   img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
   lat: 40.099852
@@ -59,6 +59,12 @@
   lon: -88.228393
   name:  'Alma Mater Statue'
 - ap: 8909
+  img:  'http://lh5.ggpht.com/aeGh3iXJqJ7skg-2JHEpngMSfcp1qDIEPoLMxzQNqbS5Y7HcxN7oE789bXiVFoFIcdCn7-3AhLPtxT_WE2E'
+  lat: 40.0985
+  level: 7
+  lon: -88.248681
+  name:  'Siti Sculpture'
+- ap: 8909
   img:  'http://lh6.ggpht.com/BKeORacgeVrG8XzxTuXmpq5UxomWpK-I2n7Xy0PVbdSciNx9MJl869TcibnFIiV5PJHGv5R3QOpX6ZgLUwU'
   lat: 40.099706
   level: 7
@@ -70,12 +76,6 @@
   level: 7
   lon: -88.249107
   name:  'Jerome Cook Memorial'
-- ap: 8909
-  img:  'http://lh5.ggpht.com/aeGh3iXJqJ7skg-2JHEpngMSfcp1qDIEPoLMxzQNqbS5Y7HcxN7oE789bXiVFoFIcdCn7-3AhLPtxT_WE2E'
-  lat: 40.0985
-  level: 7
-  lon: -88.248681
-  name:  'Siti Sculpture'
 - ap: 8722
   img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
   lat: 40.099353
@@ -239,6 +239,12 @@
   lon: -88.249648
   name:  'Max Overmyer Memorial Playground'
 - ap: 7035
+  img:  'http://lh3.ggpht.com/VLipBehsKPCp8ewQnBV1ZCz7uE75zcY46iGDyFfFHgX1o55t3DONb3wcBcL5RMYSqABRK0TgIW3DluNy8y6WaA'
+  lat: 40.101131
+  level: 7
+  lon: -88.250539
+  name:  'Hessel Park'
+- ap: 7035
   img:  'http://lh3.ggpht.com/lzCSS0_tjwUV7JQ2fgLI0e05IrzPxlVUs-6aEPOwUv67IanQJSTi71gkw0SGm8asmoE_r3Xoh048Fd9xRpE'
   lat: 40.099169
   level: 7
@@ -250,12 +256,6 @@
   level: 7
   lon: -88.251314
   name:  'Gabriel Patrick Maxeiner Memorial Plaque'
-- ap: 7035
-  img:  'http://lh3.ggpht.com/VLipBehsKPCp8ewQnBV1ZCz7uE75zcY46iGDyFfFHgX1o55t3DONb3wcBcL5RMYSqABRK0TgIW3DluNy8y6WaA'
-  lat: 40.101131
-  level: 7
-  lon: -88.250539
-  name:  'Hessel Park'
 - ap: 7035
   img:  'http://lh6.ggpht.com/bk4dEHQrhHB4CnS-r1oU423YDgPGgV61H809xF_AI-CVJFh8pf1rbOMxcZIfQYEe0W5OLWy-XYtwPUc_n08o'
   lat: 40.068707
@@ -329,17 +329,23 @@
   lon: -88.24958
   name:  'Edward A. Cousins Plaque'
 - ap: 6098
+  img:  'http://lh6.ggpht.com/n0f7lyo15OzZn5IJHsohIGAA58iioentPZGEY4zeMZCCoX4GjEEkqfaTCIbrx9OnezriThnbFV14kYcwKTgL1g'
+  lat: 40.098444
+  level: 7
+  lon: -88.248167
+  name:  'Healthcare Not War Mural'
+- ap: 6098
   img:  'http://lh6.ggpht.com/YVbqGVTjJuDMDdj71CP2mWvnUIdgO25PgoDdJwEGnEE_M9I1aDgKyjSr9JOZVU6UQTZQtfUo9RAWyz92n3jtCQ'
   lat: 40.098475
   level: 8
   lon: -88.249208
   name:  'In Fond Memory of William Moore Jr'
 - ap: 6098
-  img:  'http://lh6.ggpht.com/n0f7lyo15OzZn5IJHsohIGAA58iioentPZGEY4zeMZCCoX4GjEEkqfaTCIbrx9OnezriThnbFV14kYcwKTgL1g'
-  lat: 40.098444
+  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
+  lat: 40.100936
   level: 7
-  lon: -88.248167
-  name:  'Healthcare Not War Mural'
+  lon: -88.250855
+  name:  'Donald F. Bresnan Memorial'
 - ap: 6098
   img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
   lat: 40.100691
@@ -365,12 +371,6 @@
   lon: -88.249766
   name:  'Jim Bickel Honorary Plaque'
 - ap: 6098
-  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
-  lat: 40.100936
-  level: 7
-  lon: -88.250855
-  name:  'Donald F. Bresnan Memorial'
-- ap: 6098
   img:  'http://lh4.ggpht.com/qWLIT-3GsQkC5f1iLdtWdxCs7cZzyMqqwXBViIYnN7Hvp6UFp3JqYe_qFKGGCSM1cWWbZZZh2X2uS3fS2lE'
   lat: 40.068474
   level: 8
@@ -389,17 +389,17 @@
   lon: -88.394094
   name:  '2a77bf7698f24379838733d064f5ce04.16'
 - ap: 6096
-  img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
-  lat: 40.106706
-  level: 7
-  lon: -88.232116
-  name:  'Illini Tower'
-- ap: 5909
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.200642
   level: '?'
   lon: -88.296708
   name:  'Mt. Vernon United Methodist Church'
+- ap: 6096
+  img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
+  lat: 40.106706
+  level: 7
+  lon: -88.232116
+  name:  'Illini Tower'
 - ap: 5909
   img:  'http://lh4.ggpht.com/vbIH-PkUCBuwDTIRXA4p5jtGQ86SqYlc1e-g3Y9Ef2zaSb0ozkDD41Iq51orLhtPyShj4UzC6CPn0Unt8SY'
   lat: 40.145108
@@ -545,17 +545,17 @@
   lon: -88.234149
   name:  'Alpha Delta Phi Fraternity House'
 - ap: 4785
-  img:  'http://lh6.ggpht.com/JgD9-vk2pVIQENqssLAn_4Smd4aFydCLSHsQWVF4D4gn8xxgO5PTgDfjr0DKtVdau2_ZQc7RR-gYrOaMwStSRg'
-  lat: 40.143345
-  level: 5
-  lon: -88.256693
-  name:  'Captain Morgan Statue'
-- ap: 4598
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.245226
   level: '?'
   lon: -88.3081
   name:  'Jersey Cemetary'
+- ap: 4785
+  img:  'http://lh6.ggpht.com/JgD9-vk2pVIQENqssLAn_4Smd4aFydCLSHsQWVF4D4gn8xxgO5PTgDfjr0DKtVdau2_ZQc7RR-gYrOaMwStSRg'
+  lat: 40.143345
+  level: 5
+  lon: -88.256693
+  name:  'Captain Morgan Statue'
 - ap: 4598
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.196926
@@ -600,16 +600,16 @@
   name:  'Koi Building Art'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.986869
-  level: '?'
-  lon: -88.266876
-  name:  'c0c561eb8ffb4ac380cc6b9b8cdafde8.16'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 39.987482
   level: '?'
   lon: -88.269801
   name:  'df77244c1c974712aa97b436f767a677.16'
+- ap: 4411
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.986869
+  level: '?'
+  lon: -88.266876
+  name:  'c0c561eb8ffb4ac380cc6b9b8cdafde8.16'
 - ap: 4411
   img:  'http://lh4.ggpht.com/ZEK-DXu7TJqsrt7cbLRjXyr3JbENJCn1FaKxH4Oi6kEvo4K0Yzm5qzMddhRLNlXvokAwQoeG4EKaNkXnJDA'
   lat: 40.114015
