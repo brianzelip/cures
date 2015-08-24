@@ -70,6 +70,12 @@
   level: 8
   lon: -88.247785
   name:  'Jarling''s Custard Cup'
+- ap: 9094
+  img:  'http://lh4.ggpht.com/vbIH-PkUCBuwDTIRXA4p5jtGQ86SqYlc1e-g3Y9Ef2zaSb0ozkDD41Iq51orLhtPyShj4UzC6CPn0Unt8SY'
+  lat: 40.145108
+  level: 6
+  lon: -88.260083
+  name:  'Historic Interpretive Map of Champaign'
 - ap: 8909
   img:  'http://lh5.ggpht.com/aeGh3iXJqJ7skg-2JHEpngMSfcp1qDIEPoLMxzQNqbS5Y7HcxN7oE789bXiVFoFIcdCn7-3AhLPtxT_WE2E'
   lat: 40.0985
@@ -88,12 +94,6 @@
   level: 7
   lon: -88.249107
   name:  'Jerome Cook Memorial'
-- ap: 8907
-  img:  'http://lh4.ggpht.com/vbIH-PkUCBuwDTIRXA4p5jtGQ86SqYlc1e-g3Y9Ef2zaSb0ozkDD41Iq51orLhtPyShj4UzC6CPn0Unt8SY'
-  lat: 40.145108
-  level: 6
-  lon: -88.260083
-  name:  'Historic Interpretive Map of Champaign'
 - ap: 8722
   img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
   lat: 40.099353
@@ -155,12 +155,6 @@
   lon: -88.251685
   name:  'Curtis William McKinney Memorial'
 - ap: 7972
-  img:  'http://lh5.ggpht.com/fDRifvVcFT_dKhPuNBN4rR9lNHL0Q6NvbMnGr2-ZdiirR2rJrBcWRi4vyM3-DYNHymUs7bWchaWRaUtBpg'
-  lat: 40.098541
-  level: 8
-  lon: -88.250389
-  name:  'Dennis Robert Costello Memorial'
-- ap: 7972
   img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
   lat: 40.098688
   level: 8
@@ -172,6 +166,12 @@
   level: 7
   lon: -88.251747
   name:  'Tennis Anyone'
+- ap: 7972
+  img:  'http://lh5.ggpht.com/fDRifvVcFT_dKhPuNBN4rR9lNHL0Q6NvbMnGr2-ZdiirR2rJrBcWRi4vyM3-DYNHymUs7bWchaWRaUtBpg'
+  lat: 40.098541
+  level: 8
+  lon: -88.250389
+  name:  'Dennis Robert Costello Memorial'
 - ap: 7972
   img:  'http://lh5.ggpht.com/yEiiHAgbSW12_Cpdb0_ksVrjWt6yb6BFtEwm3wjzPJN68wl0QhkI_oaTXxM__Dud8x9jZitaHmpZHZNxDHrD'
   lat: 40.099056
@@ -346,12 +346,18 @@
   level: 7
   lon: -88.249766
   name:  'Jim Bickel Honorary Plaque'
-- ap: 5722
+- ap: 5909
   img:  'http://lh6.ggpht.com/JgD9-vk2pVIQENqssLAn_4Smd4aFydCLSHsQWVF4D4gn8xxgO5PTgDfjr0DKtVdau2_ZQc7RR-gYrOaMwStSRg'
   lat: 40.143345
   level: 6
   lon: -88.256693
   name:  'Captain Morgan Statue'
+- ap: 5722
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.364775
+  level: '?'
+  lon: -89.606738
+  name:  'ff82ec152ab34d28b92973fd94683ced.12'
 - ap: 5722
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.312242
@@ -661,7 +667,7 @@
 - ap: 3848
   img:  'http://lh3.ggpht.com/4NvHbplhArQJrKIkJMw4Ia0q_OtktXP-jC6FtPlgn6V49hv8LJbu0RC2ff0eTy3bF3ihXL12v5CPGwvlRNBF'
   lat: 40.127538
-  level: 6
+  level: 7
   lon: -88.199119
   name:  'Perkins Historical Site'
 - ap: 3848
@@ -816,6 +822,18 @@
   name:  'Alpha Gamma Rho'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.202378
+  level: '?'
+  lon: -90.747778
+  name:  '5c9b92e27d0b4a75af3a4b769a1a78b7.12'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.058378
+  level: '?'
+  lon: -90.662964
+  name:  'ce73851565cb43cca55628c4d26ce884.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.589703
   level: '?'
   lon: -88.383298
@@ -834,16 +852,40 @@
   name:  'd642f015efd04fc7a35f14dfc2c894d0.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.986869
+  lat: 41.201904
   level: '?'
-  lon: -88.266876
-  name:  'c0c561eb8ffb4ac380cc6b9b8cdafde8.16'
+  lon: -90.747876
+  name:  '82cd29422a9c48bcab5d37f692b72b90.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.061493
+  level: '?'
+  lon: -90.664085
+  name:  'aa64f980bc6743448e3b1f978522ae48.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 39.966649
   level: '?'
   lon: -88.345263
   name:  'f91d12c0ef074e13a5978fa658722945.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.986869
+  level: '?'
+  lon: -88.266876
+  name:  'c0c561eb8ffb4ac380cc6b9b8cdafde8.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.061853
+  level: '?'
+  lon: -90.664118
+  name:  '03625d82007843d9a555fbf0cae57ba8.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.20114
+  level: '?'
+  lon: -90.748237
+  name:  '96ac316665ce4624b6daaad3a3b4cd89.16'
 - ap: 3474
   img:  'http://lh6.ggpht.com/ukIJOts1W6BPpII4XC4_Q5Wh8Gz8aCNeGUuAtaLknm7OKhNYvlDd71ZN8hcxCRcJDhDjV0qBZgFRyYMGNeS6'
   lat: 40.100203
@@ -1097,17 +1139,17 @@
   lon: -88.236182
   name:  'Washington Park'
 - ap: 2724
-  img:  'http://lh4.ggpht.com/aFcisvUEjvw8cW_JZB2JIOpPXr_cWq9tGzjT65AMZfaR6Dwevg8S6dfNMTVswut9cKOr9-SCQdSqoOnQ4c1Q'
-  lat: 40.087914
-  level: 5
-  lon: -88.253489
-  name:  'In Loving Memory of Robert and Elizabeth Grubb'
-- ap: 2724
   img:  'http://lh5.ggpht.com/FeahTnHcc-Tb0sWOd6cQiYz5QrczzT5-Behz0KlyeiGyzYhvAlNlhPI72BVkREal1tU_4g4r2UklF7lcQgKr'
   lat: 40.087292
   level: 5
   lon: -88.253528
   name:  'Agnes Sweikar Memorial'
+- ap: 2724
+  img:  'http://lh4.ggpht.com/aFcisvUEjvw8cW_JZB2JIOpPXr_cWq9tGzjT65AMZfaR6Dwevg8S6dfNMTVswut9cKOr9-SCQdSqoOnQ4c1Q'
+  lat: 40.087914
+  level: 5
+  lon: -88.253489
+  name:  'In Loving Memory of Robert and Elizabeth Grubb'
 - ap: 2724
   img:  'http://lh6.ggpht.com/eAkVY7nObat2j0fYj0bd8HEZQMvUrmB-_Qi9KABaDu_pHUpP1sEJ1Fw_PQ4GbKLqqOeQM2-ljV0wUXUwj6tmHw'
   lat: 40.124067
@@ -1194,6 +1236,18 @@
   name:  'c89035b00e8f49cd9942782aefaa86de.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.886514
+  level: '?'
+  lon: -87.613201
+  name:  '5efc6c0ab2684acd9b39968d45364fa9.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.793359
+  level: '?'
+  lon: -86.743359
+  name:  '2e0e01fd74be47beb0e95386d18b204d.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.196926
   level: '?'
   lon: -88.366258
@@ -1210,18 +1264,6 @@
   level: '?'
   lon: -89.546061
   name:  '155a02681b104f50a1f2140860360f2a.12'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.886514
-  level: '?'
-  lon: -87.613201
-  name:  '5efc6c0ab2684acd9b39968d45364fa9.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.793359
-  level: '?'
-  lon: -86.743359
-  name:  '2e0e01fd74be47beb0e95386d18b204d.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 39.923213
@@ -1403,12 +1445,6 @@
   lon: -88.237181
   name:  'Illinois National Guard Armory'
 - ap: 2537
-  img:  'http://lh3.googleusercontent.com/enpZZ8JRREFPTvYd3jbeUlpS-mmcwKe5fsvoWRPkfMUj6PijyI-5tbR55UItBoNJAFSl9fAAOvXb6BpWCJT4'
-  lat: 40.102495
-  level: 6
-  lon: -88.242132
-  name:  'Nuclear Physics Lab'
-- ap: 2537
   img:  'http://lh4.ggpht.com/zZ2YpVpDiI1KdIQ9iI7mGJD_VtwFztJ4ZF1vRehD9OSnQ2K3433SIg22svwcqDJVfeO2fjE3fdT4eHAJWGpi'
   lat: 40.104339
   level: 6
@@ -1438,6 +1474,12 @@
   level: 6
   lon: -88.233278
   name:  'University of Illinois Armory'
+- ap: 2537
+  img:  'http://lh3.googleusercontent.com/enpZZ8JRREFPTvYd3jbeUlpS-mmcwKe5fsvoWRPkfMUj6PijyI-5tbR55UItBoNJAFSl9fAAOvXb6BpWCJT4'
+  lat: 40.102495
+  level: 6
+  lon: -88.242132
+  name:  'Nuclear Physics Lab'
 - ap: 2537
   img:  'http://lh3.ggpht.com/swF7asGHDD1L9hslewSBg2z-tocpd_HXkIYuOmz739SWxCj8KBqf-kcOPOFPoE8pLXKDxR6Z8jAJ8Kx7Fbnc'
   lat: 40.089334
@@ -1577,18 +1619,6 @@
   lon: -88.22214
   name:  'Campus Recreation Center East'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/q48Oqk2mm3dXQ2ppK-aYGXKjIiTAOEZfrFkiLK9LXRz2uN9hSKihKeCwfg33q1Z2zMTIMjqJRjPA1U_V3pbR6Q'
-  lat: 40.104417
-  level: 8
-  lon: -88.231962
-  name:  '1926 Sigil'
-- ap: 2387
-  img:  'http://lh4.ggpht.com/EsyXMnqVMX7wQ4YmoCFRiNljaJqaXrQvzyzzooqx2fPxCSkJMkdEssTbf618D8Qp9hh3E4Ud3hL1M3v-TsbO'
-  lat: 40.104688
-  level: 5
-  lon: -88.230676
-  name:  'Sousa Archives Center-Amer Music'
-- ap: 2537
   img:  'http://lh6.ggpht.com/hPutcAvS7zQN-tagfEY-fvkvdlgj7j5sZwUSLY883Twc7tHyslIAp7lzWYciJmCytDfsbFQtavAlzqGwCgFZkw'
   lat: 40.105562
   level: 7
@@ -1601,17 +1631,29 @@
   lon: -88.222942
   name:  'Tryon Festival Theater'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/4TX-OEwuLxvx2Vui24H6VdUHCHc4CmobRO9JEWLQnC3-82I4EoBRDmh9bG5_2wHrFiMb34z9Bv0SkdFGpuZ4'
-  lat: 40.108
-  level: 6
-  lon: -88.2219
-  name:  'Foellinger Great Hall'
-- ap: 2537
   img:  'http://lh5.ggpht.com/wCcijlSKAEnR2XZa5TUmp4yI3-fMdBVwIYiW5cRCwS5-erBmYI2-h4SWvMWRBDxpse_guTPOMWPmzJtENpff'
   lat: 40.104256
   level: 6
   lon: -88.226519
   name:  'The Morrow Plots'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/q48Oqk2mm3dXQ2ppK-aYGXKjIiTAOEZfrFkiLK9LXRz2uN9hSKihKeCwfg33q1Z2zMTIMjqJRjPA1U_V3pbR6Q'
+  lat: 40.104417
+  level: 8
+  lon: -88.231962
+  name:  '1926 Sigil'
+- ap: 2387
+  img:  'http://lh4.ggpht.com/EsyXMnqVMX7wQ4YmoCFRiNljaJqaXrQvzyzzooqx2fPxCSkJMkdEssTbf618D8Qp9hh3E4Ud3hL1M3v-TsbO'
+  lat: 40.104688
+  level: 5
+  lon: -88.230676
+  name:  'Sousa Archives Center-Amer Music'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/4TX-OEwuLxvx2Vui24H6VdUHCHc4CmobRO9JEWLQnC3-82I4EoBRDmh9bG5_2wHrFiMb34z9Bv0SkdFGpuZ4'
+  lat: 40.108
+  level: 6
+  lon: -88.2219
+  name:  'Foellinger Great Hall'
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/0sr-qQ4Z1TW1AZ62RFHko9Cbb8g36Renb3nRyxFJr_r68iVMsuh_EwrbThhXg2hVyqNQSjX7rFVvrWpfHS4'
   lat: 40.103958
