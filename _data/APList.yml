@@ -791,18 +791,6 @@
   lon: -88.230869
   name:  'Frederick Douglass Community Center'
 - ap: 3661
-  img:  'http://lh6.ggpht.com/BANSBFfuZ3_0ya-JodV7jEB1a-DwSOyegBwPKAODSUFHLmvI7b8zwSiLUAvvqIAYjpU6S_Lm8XRBJ30KDGCIEg'
-  lat: 40.116917
-  level: 6
-  lon: -88.24078
-  name:  'North Star Sculpture'
-- ap: 3661
-  img:  'http://lh6.ggpht.com/PXc3YHSOsx0c_WrfpzvHHiHEl1FSv5RvbgXj7Ji3-xS7oBwJIkFCD8eQySiUega_iQvX8FiUBuDhXdK9l9QWIA'
-  lat: 40.116623
-  level: 7
-  lon: -88.240844
-  name:  'R. Forrest Colwell Memorial'
-- ap: 3661
   img:  'http://lh3.googleusercontent.com/ZEt3dzGoBmn_BW1MwPTE7MY4Jcoj66UkwEA7wA7H40hbb-SwJheC1V67Dh89eAbpG6H_SeWDV3E0X5lRAkQ'
   lat: 40.111342
   level: 6
@@ -820,6 +808,18 @@
   level: 6
   lon: -88.23655
   name:  'Scott Park Bridge'
+- ap: 3661
+  img:  'http://lh6.ggpht.com/BANSBFfuZ3_0ya-JodV7jEB1a-DwSOyegBwPKAODSUFHLmvI7b8zwSiLUAvvqIAYjpU6S_Lm8XRBJ30KDGCIEg'
+  lat: 40.116917
+  level: 6
+  lon: -88.24078
+  name:  'North Star Sculpture'
+- ap: 3661
+  img:  'http://lh6.ggpht.com/PXc3YHSOsx0c_WrfpzvHHiHEl1FSv5RvbgXj7Ji3-xS7oBwJIkFCD8eQySiUega_iQvX8FiUBuDhXdK9l9QWIA'
+  lat: 40.116623
+  level: 7
+  lon: -88.240844
+  name:  'R. Forrest Colwell Memorial'
 - ap: 3661
   img:  'http://lh3.ggpht.com/lGjbP2iz0XvlEWLhgCBNqkWukvjrBowKmX-1_O44U1A3_4b3-vuXzkfp7rasqU81TcPBoQO82gAzEGtBBYcR'
   lat: 40.106058
@@ -1205,17 +1205,17 @@
   lon: -88.236182
   name:  'Washington Park'
 - ap: 2724
-  img:  'http://lh5.ggpht.com/FeahTnHcc-Tb0sWOd6cQiYz5QrczzT5-Behz0KlyeiGyzYhvAlNlhPI72BVkREal1tU_4g4r2UklF7lcQgKr'
-  lat: 40.087292
-  level: 5
-  lon: -88.253528
-  name:  'Agnes Sweikar Memorial'
-- ap: 2724
   img:  'http://lh4.ggpht.com/aFcisvUEjvw8cW_JZB2JIOpPXr_cWq9tGzjT65AMZfaR6Dwevg8S6dfNMTVswut9cKOr9-SCQdSqoOnQ4c1Q'
   lat: 40.087914
   level: 5
   lon: -88.253489
   name:  'In Loving Memory of Robert and Elizabeth Grubb'
+- ap: 2724
+  img:  'http://lh5.ggpht.com/FeahTnHcc-Tb0sWOd6cQiYz5QrczzT5-Behz0KlyeiGyzYhvAlNlhPI72BVkREal1tU_4g4r2UklF7lcQgKr'
+  lat: 40.087292
+  level: 5
+  lon: -88.253528
+  name:  'Agnes Sweikar Memorial'
 - ap: 2724
   img:  'http://lh6.ggpht.com/eAkVY7nObat2j0fYj0bd8HEZQMvUrmB-_Qi9KABaDu_pHUpP1sEJ1Fw_PQ4GbKLqqOeQM2-ljV0wUXUwj6tmHw'
   lat: 40.124067
@@ -1667,6 +1667,12 @@
   lon: -88.22214
   name:  'Campus Recreation Center East'
 - ap: 2537
+  img:  'http://lh6.ggpht.com/hPutcAvS7zQN-tagfEY-fvkvdlgj7j5sZwUSLY883Twc7tHyslIAp7lzWYciJmCytDfsbFQtavAlzqGwCgFZkw'
+  lat: 40.105562
+  level: 7
+  lon: -88.234991
+  name:  'Acacia House'
+- ap: 2537
   img:  'http://lh6.ggpht.com/q48Oqk2mm3dXQ2ppK-aYGXKjIiTAOEZfrFkiLK9LXRz2uN9hSKihKeCwfg33q1Z2zMTIMjqJRjPA1U_V3pbR6Q'
   lat: 40.104417
   level: 8
@@ -1703,12 +1709,6 @@
   lon: -88.226647
   name:  'Illini Supersweet Corn Plaque'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/hPutcAvS7zQN-tagfEY-fvkvdlgj7j5sZwUSLY883Twc7tHyslIAp7lzWYciJmCytDfsbFQtavAlzqGwCgFZkw'
-  lat: 40.105562
-  level: 7
-  lon: -88.234991
-  name:  'Acacia House'
-- ap: 2537
   img:  'http://lh3.googleusercontent.com/0sr-qQ4Z1TW1AZ62RFHko9Cbb8g36Renb3nRyxFJr_r68iVMsuh_EwrbThhXg2hVyqNQSjX7rFVvrWpfHS4'
   lat: 40.103958
   level: 6
@@ -1720,12 +1720,6 @@
   level: 5
   lon: -88.198163
   name:  'Armored Gopher Games'
-- ap: 2462
-  img:  'http://lh3.ggpht.com/R0zPYMelKt6ABg3zkWyG1YtEMZm-4wbpveEmzXpn4vtolg3zStvSDscmdgZ4t1YW7vbSTYCBMS74-Tmq-XPU'
-  lat: 40.112166
-  level: 4
-  lon: -88.20625
-  name:  'Abraham Lincoln - Eighth Judic'
 - ap: 2537
   img:  'http://lh6.ggpht.com/JeyTR9Ntp2SxIdvTxHGqu5zXzMo7stGncs5TYYFLlRf0WEb6U4dc4EOvDZ1szjub_UqgSO_HgZ7tUKs9PUAkEQ'
   lat: 40.109634
@@ -1744,18 +1738,24 @@
   level: 3
   lon: -88.207738
   name:  'Urbana''s Bell'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/2yAZ6-P6I71p-12hssm1IxBNtLfIhmKLPomEg7xtttoqIwFEqF6Xl9qqolPamswYL-X3elu01rQhhVFZLF7Umw'
-  lat: 40.107552
-  level: 6
-  lon: -88.220685
-  name:  'University-Illinois Spurlock Museum'
+- ap: 2462
+  img:  'http://lh3.ggpht.com/R0zPYMelKt6ABg3zkWyG1YtEMZm-4wbpveEmzXpn4vtolg3zStvSDscmdgZ4t1YW7vbSTYCBMS74-Tmq-XPU'
+  lat: 40.112166
+  level: 4
+  lon: -88.20625
+  name:  'Abraham Lincoln - Eighth Judic'
 - ap: 2537
   img:  'http://lh6.ggpht.com/3SaonyLU_evy1YzQKwgtBDaqXYmjw8T23hTzjuYRMKiAuUQhggQrma2fSybhpdItiFt7zHajL_U2nIa8UcDx'
   lat: 40.107526
   level: 6
   lon: -88.219106
   name:  'Axiom Christian Church Ministry'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/2yAZ6-P6I71p-12hssm1IxBNtLfIhmKLPomEg7xtttoqIwFEqF6Xl9qqolPamswYL-X3elu01rQhhVFZLF7Umw'
+  lat: 40.107552
+  level: 6
+  lon: -88.220685
+  name:  'University-Illinois Spurlock Museum'
 - ap: 2537
   img:  'http://lh6.ggpht.com/P5Q3TM1HY9mqPQbQNDUn_h5cdo4MVdphUfMLaEb25EJWIN2xAqYTkLQUtPy4sY-0hHFESUrH5Nn0KYogzjM'
   lat: 40.104921
