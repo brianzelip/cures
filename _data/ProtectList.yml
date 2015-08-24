@@ -33,12 +33,12 @@
   lon: -88.200103
   mus: 7515
   name:  'Meadowbrook Park Trail Map'
-- fields: 6+
+- fields: 4+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.202899
   level: '?'
   lon: -88.426556
-  mus: 5250
+  mus: 5188
   name:  'Church of the Nazarene'
 - fields: 1
   img:  'http://lh6.ggpht.com/ZSVCsC7hXcoC2GI20Sq8deYNu_RXKDePVyLUpFRUSNdceVY9OBExZbgX-tuJK4pHEVYXT9YbN7DF9kicgt25'
@@ -82,12 +82,12 @@
   lon: -88.426429
   mus: 2022
   name:  'US Post Office, N Main St, Seymour, IL'
-- fields: 12
+- fields: 6
   img:  'http://lh5.ggpht.com/ncfefTWsVvZWHVozJVxFU0p2EzGdz74tJxMRB96Xaqo9wYsBbi01bALm5uOAn14GkFMSo3o_d1TAcvcUa2JYRg'
   lat: 40.193851
   level: 7
   lon: -88.403214
-  mus: 1505
+  mus: 1419
   name:  'Brooks-Warfel Memorial Park'
 - fields: 5+
   img: http://i.imgur.com/LujBo5P.png
@@ -103,12 +103,12 @@
   lon: -88.507601
   mus: 1083
   name:  'Mansfield Water Tower'
-- fields: 3+
+- fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.195867
   level: '?'
   lon: -88.404791
-  mus: 880
+  mus: 856
   name:  'US Post Office, E Main St'
 - fields: 3
   img:  'http://lh5.ggpht.com/BiCieN-kLaA8XtzYGa1FowWTlW2QzWtnxSCf1y1ChY9WXw1kN0r1Co49FI5D_xcWRrgO-_wOvqfduWQ2o337'
@@ -194,13 +194,6 @@
   lon: -88.208978
   mus: 320
   name:  'Korean New Life Church'
-- fields: 4+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.199591
-  level: '?'
-  lon: -88.418013
-  mus: 291
-  name:  'Bridle Leash Park Arch'
 - fields: 6
   img:  'http://lh6.ggpht.com/bVah4kWjWmyX3pJo6Wm113MfLITgNjQ1c4_n3VyikOfFhFyfe_ThgjbzN3rwaiI5fnN_pS87hFb9PEAdBsZaBQ'
   lat: 40.107945
@@ -208,6 +201,20 @@
   lon: -88.188527
   mus: 276
   name:  'Brookens Administrative Center'
+- fields: 4
+  img:  'http://lh4.ggpht.com/AvFagnn0VbkLPLCBBH39tDpdCMp-0Lz3QojJsRdIrqB9zfihnnJC929dj716gTo-udw6Mj0aJmZcM6HEm-xVmA'
+  lat: 40.110606
+  level: 6
+  lon: -88.188638
+  mus: 265
+  name:  'Robert Canaday Park'
+- fields: 3
+  img:  'http://lh3.ggpht.com/oPrvFZ3gD0XRjj0phJeY8--GLSiBG-yC_IInA7t6TgEljFJSM3TRuUeNksbZIyvSIenZ0GgHa1ey2OzZWkQ7'
+  lat: 40.109466
+  level: 6
+  lon: -88.195427
+  mus: 250
+  name:  'The Happy Robot'
 - fields: 2
   img:  'http://lh4.ggpht.com/sz_e7469a1MnmlNIKBE9ABOh9Z5c-TMUKTj_dlubknMbwU0IKI_4hZ8QQtHWwjgbnkA_Plk1yb2bT4XQ3UjA'
   lat: 40.104561
@@ -225,7 +232,7 @@
 - fields: 5
   img:  'http://lh4.ggpht.com/53avgB1jGEftJ9eyV5l3nee16yHgYDAXkZoonzyXO3mwPLijOgz1uOtcxfKdCaRzaBqW-BQ4ft-Od3uZnja8'
   lat: 40.118436
-  level: 6
+  level: 7
   lon: -88.26383
   mus: 226
   name:  'Davidson Park'
@@ -236,20 +243,13 @@
   lon: -88.205286
   mus: 189
   name:  'Blair Park Viewing Pavillion'
-- fields: 3
-  img:  'http://lh4.ggpht.com/AvFagnn0VbkLPLCBBH39tDpdCMp-0Lz3QojJsRdIrqB9zfihnnJC929dj716gTo-udw6Mj0aJmZcM6HEm-xVmA'
-  lat: 40.110606
-  level: 6
-  lon: -88.188638
-  mus: 183
-  name:  'Robert Canaday Park'
-- fields: 2
-  img:  'http://lh3.ggpht.com/oPrvFZ3gD0XRjj0phJeY8--GLSiBG-yC_IInA7t6TgEljFJSM3TRuUeNksbZIyvSIenZ0GgHa1ey2OzZWkQ7'
-  lat: 40.109466
-  level: 6
-  lon: -88.195427
-  mus: 168
-  name:  'The Happy Robot'
+- fields: 2+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.199591
+  level: '?'
+  lon: -88.418013
+  mus: 177
+  name:  'Bridle Leash Park Arch'
 - fields: 5
   img:  'http://lh3.googleusercontent.com/ehDcIFPGimXzEpSpqydgEInzS_LCx7xdxdANoVH3o2WnEnCyvgjWqV1F-DbvHnpuMsAkbUqetYiu0sPiWwE'
   lat: 40.12025
@@ -264,13 +264,6 @@
   lon: -88.186206
   mus: 152
   name:  'Urbana Park District Brookens Gymnasium'
-- fields: 8+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.195404
-  level: '?'
-  lon: -88.40408
-  mus: 147
-  name:  '35d2540a6dab4d509460962b545bd2bf.16'
 - fields: 3
   img:  'http://lh4.ggpht.com/3OQb6YW7FYNd6ZbjIi4eQqvn7C1gI9p0c0m8LzM6PT82aOJGIvBsPci2px_G7t3ZEDjLLxRfuVxHlu09wB7LPkugKaQX_W0RJJTQKjoJhHSsmP16nA'
   lat: 40.105462
@@ -369,6 +362,13 @@
   lon: -88.240341
   mus: 83
   name:  'Buffalo Billiam'
+- fields: 1
+  img:  'http://lh4.ggpht.com/YqMCK52DcYdcqs8IJGeLHB9UZ6VKELKc7fWlCOC7wxxSguyDWS8Oj96YuePyAoywt6P0HsWC8lNzqOMZ9uKI'
+  lat: 40.112852
+  level: 6
+  lon: -88.192968
+  mus: 82
+  name:  'VFW Post 630'
 - fields: 1
   img:  'http://lh3.ggpht.com/O-DGELnJZNJ5CXEaU3N0dzBK_ZVUUnTe6ey0TMrxXnXS1aXD9xo662l9u-8O6f3472F8hgDnW-wwDQ29XUYuyw'
   lat: 40.115941
@@ -554,7 +554,7 @@
 - fields: 1
   img:  'http://lh4.ggpht.com/naCrG9-DL9k67Zqi0gC4SkIN_RQ_zodz4FK1IHNXbc08mmpwSYOasBdjXKK05UnqtA_LobI75w9qmf4dfQjU'
   lat: 40.11823
-  level: 5
+  level: 6
   lon: -88.267696
   mus: 32
   name:  'Eisner Park North Entrance'
@@ -635,13 +635,6 @@
   lon: -88.188478
   mus: 20
   name:  'Brookens Administrative Center'
-- fields: 9+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.195019
-  level: '?'
-  lon: -88.402935
-  mus: 20
-  name:  'c87d5b6cf7ea4bae962a48d438be958c.16'
 - fields: 3
   img:  'http://lh4.ggpht.com/vdGNLZFnObxuCivCqYJZTZij0viFyuNB9iTlybZbb50b4Pqt_d-phv7dphv2G5JgU8Y7mc1RIokgw6SVPo-B'
   lat: 40.093415
@@ -818,13 +811,6 @@
   mus: 9
   name:  'Hidden Street Art '
 - fields: 4
-  img:  'http://lh3.ggpht.com/nGhmCwJD6bTZSD4fk-6vnaRZfPq8CI7zLMEDuUZFl7no1ZUFie42aJKdxr5r-212vPk5feGwGFfkMrb_IBc'
-  lat: 40.195177
-  level: 7
-  lon: -88.401915
-  mus: 8
-  name:  'Fire Fighters Pavilion'
-- fields: 4
   img:  'http://lh6.ggpht.com/-I0G2D5ab8mTsL7xqBbC8ncqUMD5VZFPzUxONYaTcbt6ogXQnVlPsaSqnh7NHJyo89tDr3WOfkV90Mdpo9UTfA'
   lat: 40.106457
   level: 6
@@ -894,17 +880,10 @@
   lon: -88.205182
   mus: 6
   name:  'Champaign County Courthouse'
-- fields: 6+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.195188
-  level: '?'
-  lon: -88.40358
-  mus: 6
-  name:  '7cc24f4019674432a28f220ec66a8e73.16'
 - fields: 2
   img:  'http://lh3.ggpht.com/1-JS8sV0YQTNKZcOYkhHUpeLbSapI7w9Nksu7UJhMKpIgoGwe-FKIo9ALf7fXUm4mHlsQxcyMdJyQbI5tCmc'
   lat: 40.116494
-  level: 6
+  level: 7
   lon: -88.268495
   mus: 6
   name:  'Eisner Park'
@@ -915,6 +894,13 @@
   lon: -88.243336
   mus: 5
   name:  'Rotary Club Dedication Plaque'
+- fields: 3+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.195019
+  level: '?'
+  lon: -88.402935
+  mus: 5
+  name:  'c87d5b6cf7ea4bae962a48d438be958c.16'
 - fields: 2
   img:  'http://lh5.ggpht.com/EpOdyD3ivApVXUFAhA6wDVRmmpaeWrwcwStpOXXX5_VPnE3irbGjbLNZOqQnIf8xs9pOqR0AcKO9T2uSNK5F'
   lat: 40.092164
@@ -992,13 +978,6 @@
   lon: -88.208939
   mus: 4
   name:  'Sunstruck'
-- fields: 3+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.194971
-  level: '?'
-  lon: -88.403465
-  mus: 4
-  name:  '9ac55f1a3bf140e5abc27bbc95fb2036.16'
 - fields: 1
   img:  'http://lh3.ggpht.com/D_Ys-MQsKIFD3lXdFelPZDmzAyMO2oiZJCacCqycQkFOyn5qZ46YhurTmbZ2Smtbf95wU3or0FEr2JvhuMrVWjXTRxJN2EmHBT4fWRhPsDLRFdmA'
   lat: 40.110978
@@ -1062,6 +1041,13 @@
   lon: -88.286666
   mus: 3
   name:  'Kaufman Park Underpass'
+- fields: 2
+  img:  'http://lh3.ggpht.com/nGhmCwJD6bTZSD4fk-6vnaRZfPq8CI7zLMEDuUZFl7no1ZUFie42aJKdxr5r-212vPk5feGwGFfkMrb_IBc'
+  lat: 40.195177
+  level: 7
+  lon: -88.401915
+  mus: 3
+  name:  'Fire Fighters Pavilion'
 - fields: 2
   img:  'http://lh4.ggpht.com/m41WytddHvUQZQvwN8vv-Mf6LHne1_3LkN4y39ZCxrwY2v0-Q7lDbE63wlDSkhpMjG7OxDM0LO5Sh9DNyjo4lbZBu-mAykPo3qPOd6orSfwlfucL'
   lat: 40.099946
@@ -1160,13 +1146,6 @@
   lon: -88.246191
   mus: 2
   name:  'Clark Bar'
-- fields: 2+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.195251
-  level: '?'
-  lon: -88.403825
-  mus: 2
-  name:  'be5ca27857734636a834fcaec3fb76db.16'
 - fields: 1
   img:  'http://lh5.ggpht.com/Sa4t_FLqsuadZd4RyfS5FznLzW1YZs5cIEJUIXYjMflRQZCjBh3_A5CB7dFPI_3fx_uz5SkqYXNFt3i98E2o'
   lat: 40.193498
