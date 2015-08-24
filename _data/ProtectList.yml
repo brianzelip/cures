@@ -61,12 +61,12 @@
   lon: -88.411245
   mus: 3102
   name:  '44302298476747b1b774c5c37f936a74.16'
-- fields: 9+
+- fields: 6+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.178925
   level: '?'
   lon: -88.408076
-  mus: 2658
+  mus: 2567
   name:  'Community Free Church'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
@@ -159,20 +159,6 @@
   lon: -88.209609
   mus: 587
   name:  'Solar Decathlon Re-House '
-- fields: 4
-  img:  'http://lh6.ggpht.com/Agsmc3Gk_eTwRNySVZQyywiFe_wThkiMUicoZWD7q3aYhatN9GcapD1yOBV-aZB1yl0dqc9tfci1w-2Be67AMw'
-  lat: 40.192548
-  level: 7
-  lon: -88.40232
-  mus: 489
-  name:  'First Baptist Church'
-- fields: 2
-  img:  'http://lh3.ggpht.com/XaZzWDP5U-vtL8yEkxaNwCrU_q6qIysJDlNoqZkR09RTjO2B2mFufW-372cRUjNpbXhYkuz7AfTbsVHnxUIT'
-  lat: 40.189527
-  level: 7
-  lon: -88.396209
-  mus: 468
-  name:  'Barber Park'
 - fields: 2
   img:  'http://lh4.ggpht.com/vUhKhmK0pteJi8_0n25xIa4EpgpVSS432OxXv1UQBDLjju5SEGcm_2WWl99OUPtDyNLlXirJu--KDbCoYjM'
   lat: 40.08956
@@ -180,6 +166,20 @@
   lon: -88.257733
   mus: 452
   name:  'Good Shepherd Lutheran Church'
+- fields: 1
+  img:  'http://lh6.ggpht.com/Agsmc3Gk_eTwRNySVZQyywiFe_wThkiMUicoZWD7q3aYhatN9GcapD1yOBV-aZB1yl0dqc9tfci1w-2Be67AMw'
+  lat: 40.192548
+  level: 7
+  lon: -88.40232
+  mus: 407
+  name:  'First Baptist Church'
+- fields: 1
+  img:  'http://lh3.ggpht.com/XaZzWDP5U-vtL8yEkxaNwCrU_q6qIysJDlNoqZkR09RTjO2B2mFufW-372cRUjNpbXhYkuz7AfTbsVHnxUIT'
+  lat: 40.189527
+  level: 7
+  lon: -88.396209
+  mus: 407
+  name:  'Barber Park'
 - fields: 1
   img:  'http://lh3.ggpht.com/ahylfFHnKd7tl8EDQopVPlqhdiJblx_p3TWsELUFACXM_9qS9N8agb-ypr7EOOemNFMUrRGaUQ23LY6F1ssb'
   lat: 40.095094
@@ -306,13 +306,6 @@
   lon: -88.281854
   mus: 107
   name:  'International Society of Arboriculture'
-- fields: 7+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.194685
-  level: '?'
-  lon: -88.402516
-  mus: 103
-  name:  '03e9d880973d4109bae4ce69f524fa1a.16'
 - fields: 2
   img:  'http://lh4.ggpht.com/cvJBfMiBGWYi9swdpVUOV9IzBnEVzKadh4Y9H7K7E-qh4smI830ZT03zcjPHck5NiBBuZQ1VWDgC4KjeXek'
   lat: 40.107347
@@ -390,13 +383,6 @@
   lon: -88.242282
   mus: 74
   name:  'Dohme Park Flags & Mural'
-- fields: 6
-  img:  'http://lh6.ggpht.com/jzcknzJD--LvlqQqPBMjG5p5MOsy0bVOqavN3G5IS_o5-rYQyZDSv-dIiYpewV2Odmjeq9dpcCnS9xfpo4aRxQ'
-  lat: 40.194684
-  level: 7
-  lon: -88.401764
-  mus: 73
-  name:  'Mahomet Community Pavillion'
 - fields: 3
   img:  'http://lh5.ggpht.com/MQR_ZzKDnOCzhArYVQvSq3fm-6zcOGn3bneYKT9cpAuejbSEQDZBYeUPwN8D3OBLklSTSl0TJASS2zUJjUUd'
   lat: 40.105522
@@ -425,13 +411,6 @@
   lon: -88.236803
   mus: 66
   name:  'U Of I Solar Decathlon Gable Home'
-- fields: 4
-  img:  'http://lh6.ggpht.com/t9_eydZD2uZIBwEmrNcPR2FWXjyVKK06CTbNoZQ682AuvHAsWKBewlbzTqH7yqOjuPMBBkqOGwETeqt6hoU'
-  lat: 40.194618
-  level: 7
-  lon: -88.401509
-  mus: 66
-  name:  'Mahomet Area Community Center'
 - fields: 2
   img:  'http://lh4.ggpht.com/TBdQ8fwHzTxOelVmzeofa-exhQ8cwbOVHb8bVga_MzTz3hC44VOzElIptwaKQuDBdLnDhL-NUEjLnOKO7HnjWw'
   lat: 40.078503
@@ -593,13 +572,13 @@
   lon: -88.217162
   mus: 30
   name:  'St Patrick''s Catholic Church'
-- fields: 2
-  img:  'http://lh6.ggpht.com/BjKL2L9ZzUTddDfIfeyClWu3tx12soMCpmNX8YkTMs-UqHGRUSmCHKtXCiiRT7J0N6vdUFyi_T_av5X2_-OX'
-  lat: 40.194134
-  level: 5
-  lon: -88.402333
-  mus: 26
-  name:  'Mahomet Armed Forces Memorial'
+- fields: 2+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.194685
+  level: '?'
+  lon: -88.402516
+  mus: 29
+  name:  '03e9d880973d4109bae4ce69f524fa1a.16'
 - fields: 4
   img:  'http://lh4.ggpht.com/8AjeZD8uLKBGqzwnDcp2t-wWRFmqZ03RVBIV2jccyPae0uVMwvjHgEmRfdS_lvnxJTIwosCM3Xlfpw-vIwZOdw'
   lat: 40.118549
@@ -894,13 +873,6 @@
   lon: -88.243336
   mus: 5
   name:  'Rotary Club Dedication Plaque'
-- fields: 3+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.195019
-  level: '?'
-  lon: -88.402935
-  mus: 5
-  name:  'c87d5b6cf7ea4bae962a48d438be958c.16'
 - fields: 2
   img:  'http://lh5.ggpht.com/EpOdyD3ivApVXUFAhA6wDVRmmpaeWrwcwStpOXXX5_VPnE3irbGjbLNZOqQnIf8xs9pOqR0AcKO9T2uSNK5F'
   lat: 40.092164
@@ -943,13 +915,6 @@
   lon: -88.236858
   mus: 4
   name:  'Illinois Conference Center'
-- fields: 4
-  img:  'http://lh5.ggpht.com/PnX0W4nb5AYgeh3aSV1f6L1M6SXT5EDNNj-HZLlIrqeFoeMlVOlqnsY-fMyXYgvKn-Ac3RDPKf_iJCtYRmek'
-  lat: 40.194805
-  level: 7
-  lon: -88.401996
-  mus: 4
-  name:  'Leland Dollahan Memorial'
 - fields: 3
   img:  'http://lh5.ggpht.com/POqHe98NzuBf0a60NvZTCOYoC0L6aw_FSOZMaxr88kV1-papt0D2DM7cRXxDK-_qXTmzSJspa4Zzh9ao7rOaN0iWFYVm5G01GVzh-4gAlR8OFvTH'
   lat: 40.09976
@@ -1034,6 +999,13 @@
   lon: -88.286198
   mus: 3
   name:  'Weighted'
+- fields: 1+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.195019
+  level: '?'
+  lon: -88.402935
+  mus: 3
+  name:  'c87d5b6cf7ea4bae962a48d438be958c.16'
 - fields: 2
   img:  'http://lh3.ggpht.com/2iQCqFSkI6vQaVf1ADFUP89q8eAUWoZah6JiJ1sA75sp6rK8jpFvWFNaW5E1QXBZnrpD8MIZotWwavGGm5iG'
   lat: 40.118598
@@ -1041,13 +1013,6 @@
   lon: -88.286666
   mus: 3
   name:  'Kaufman Park Underpass'
-- fields: 2
-  img:  'http://lh3.ggpht.com/nGhmCwJD6bTZSD4fk-6vnaRZfPq8CI7zLMEDuUZFl7no1ZUFie42aJKdxr5r-212vPk5feGwGFfkMrb_IBc'
-  lat: 40.195177
-  level: 7
-  lon: -88.401915
-  mus: 3
-  name:  'Fire Fighters Pavilion'
 - fields: 2
   img:  'http://lh4.ggpht.com/m41WytddHvUQZQvwN8vv-Mf6LHne1_3LkN4y39ZCxrwY2v0-Q7lDbE63wlDSkhpMjG7OxDM0LO5Sh9DNyjo4lbZBu-mAykPo3qPOd6orSfwlfucL'
   lat: 40.099946
@@ -1146,13 +1111,6 @@
   lon: -88.246191
   mus: 2
   name:  'Clark Bar'
-- fields: 1
-  img:  'http://lh5.ggpht.com/Sa4t_FLqsuadZd4RyfS5FznLzW1YZs5cIEJUIXYjMflRQZCjBh3_A5CB7dFPI_3fx_uz5SkqYXNFt3i98E2o'
-  lat: 40.193498
-  level: 5
-  lon: -88.402047
-  mus: 2
-  name:  'Cornbelt Fire Fighter''s Memorial'
 - fields: 1
   img:  'http://lh3.ggpht.com/nEmxwddo6XwjpSBtzzXHCx_v9wYD5ITuVRx4VF0emrxiLFZGpsBb4HkcXFS4BAR3ZhrmD8t2YDKEWF7NGxV7'
   lat: 40.099595
