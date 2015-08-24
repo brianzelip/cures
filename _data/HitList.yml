@@ -1,9 +1,9 @@
-- fields: 4
+- fields: 2
   img:  'http://lh3.ggpht.com/4NvHbplhArQJrKIkJMw4Ia0q_OtktXP-jC6FtPlgn6V49hv8LJbu0RC2ff0eTy3bF3ihXL12v5CPGwvlRNBF'
   lat: 40.127538
   level: 7
   lon: -88.199119
-  mus: 6847
+  mus: 1431
   name:  'Perkins Historical Site'
 - fields: 2+
   img: http://i.imgur.com/5j1qaiT.png
@@ -40,13 +40,6 @@
   lon: -88.250951
   mus: 254
   name:  'William C. Fox Waterway'
-- fields: 2
-  img:  'http://lh5.ggpht.com/lVPluMTxywLzssk6h2IM1KNaZqmdJZwSaOjsQTU-NXL2-__Ve9Ur36H1oaIXABV4-52NcqTaSO7DglgO7vNb'
-  lat: 40.105698
-  level: 5
-  lon: -88.202624
-  mus: 185
-  name:  'Roger Ebert Plaque'
 - fields: 8
   img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
   lat: 40.101062
@@ -61,6 +54,13 @@
   lon: -88.285677
   mus: 147
   name:  'Mike Phillips Memorial Plaque'
+- fields: 2
+  img:  'http://lh3.ggpht.com/D5w16IkXAQ0YY9o7po5gAloAMlle7bjYNMt8MOeTkXrb2FcrQf_HFrBrOWk3aLKfLEjsGCYC8j5IP5IQrfDw'
+  lat: 40.085994
+  level: 6
+  lon: -88.190771
+  mus: 138
+  name:  'Kingdom Hall of Jehovah''s Witnesses'
 - fields: 2
   img:  'http://lh6.ggpht.com/aHhLEb8O6JqkElC1drnlJBmq8qeC2WzA4W48qkRQwuE9B6opSfHVKARNHu-uAZN-jvPRznVdmobggqRbw9E'
   lat: 40.100674
@@ -117,13 +117,6 @@
   lon: -88.276738
   mus: 25
   name:  'Kraft Giant Macaroni'
-- fields: 3
-  img:  'http://lh6.ggpht.com/-flzg4lDDrUKk9tz52QmAPy1_59-9KbIO96Br3rNDxK1nmopyzD21z31JQVdJNJHB-Cy6IsEX0VwBbVwvd5r'
-  lat: 40.104256
-  level: 7
-  lon: -88.225268
-  mus: 25
-  name:  'Institute of Genomic Biology Gateway'
 - fields: 1
   img:  'http://lh3.googleusercontent.com/awNe0JGlWWAtHv9iiLcqQjVyppWY-io4ybTL_ir2ZKsMLJgkZcW4rdUAuDjOFdWQvIcp5jlTWiROgHANh1Y1'
   lat: 40.087822
@@ -138,6 +131,13 @@
   lon: -88.245082
   mus: 19
   name:  'Robeson Building '
+- fields: 4
+  img:  'http://lh3.googleusercontent.com/XQb7KWjSJlhbfrYsW2727_AeRoEQ5BbG0fRTTY5js_4zRdArbiRhCRkXunVa81rQpk9yX4RB6x1dV97DnYN7'
+  lat: 40.104722
+  level: 7
+  lon: -88.223683
+  mus: 18
+  name:  'Louise Freer Hall'
 - fields: 10
   img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
   lat: 40.099737
@@ -243,20 +243,13 @@
   lon: -88.238808
   mus: 5
   name:  'Alpha Gamma Rho'
-- fields: 2
-  img:  'http://lh3.googleusercontent.com/XQb7KWjSJlhbfrYsW2727_AeRoEQ5BbG0fRTTY5js_4zRdArbiRhCRkXunVa81rQpk9yX4RB6x1dV97DnYN7'
-  lat: 40.104722
-  level: 7
-  lon: -88.223683
-  mus: 5
-  name:  'Louise Freer Hall'
 - fields: 1
-  img:  'http://lh3.ggpht.com/D5w16IkXAQ0YY9o7po5gAloAMlle7bjYNMt8MOeTkXrb2FcrQf_HFrBrOWk3aLKfLEjsGCYC8j5IP5IQrfDw'
-  lat: 40.085994
+  img:  'http://lh5.ggpht.com/V9AFUiWKES88x0FruZILBXEBv1d476XQMgH8JsCHDQgvjDvk95Mgjf5vcl-Nx7CkPvfhwVGIrvB1EA5Tlh2j'
+  lat: 40.132437
   level: 6
-  lon: -88.190771
-  mus: 4
-  name:  'Kingdom Hall of Jehovah''s Witnesses'
+  lon: -88.29022
+  mus: 5
+  name:  'Dr. Ray Braun Memorial'
 - fields: 5
   img:  'http://lh5.ggpht.com/aeGh3iXJqJ7skg-2JHEpngMSfcp1qDIEPoLMxzQNqbS5Y7HcxN7oE789bXiVFoFIcdCn7-3AhLPtxT_WE2E'
   lat: 40.0985
