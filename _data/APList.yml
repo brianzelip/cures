@@ -377,17 +377,17 @@
   lon: -88.290239
   name:  'In Memory Of Craig Kieffer'
 - ap: 6285
-  img:  'http://lh3.ggpht.com/JM911OdVKmQnAXjY3hLL0qd5NnPCgPAmJ9aMYF-_9aptS_7NkLgtsMyPBHibRhomXqfXCtcHURyAdGxRVMBhXT2_HvtezfKyLBCQf_idvcHp6RfTkA'
-  lat: 40.117427
-  level: 6
-  lon: -88.243235
-  name:  'Cowboy Monkey'
-- ap: 6285
   img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
   lat: 40.11784
   level: 6
   lon: -88.24286
   name:  'Kaufman Memorial'
+- ap: 6285
+  img:  'http://lh3.ggpht.com/JM911OdVKmQnAXjY3hLL0qd5NnPCgPAmJ9aMYF-_9aptS_7NkLgtsMyPBHibRhomXqfXCtcHURyAdGxRVMBhXT2_HvtezfKyLBCQf_idvcHp6RfTkA'
+  lat: 40.117427
+  level: 6
+  lon: -88.243235
+  name:  'Cowboy Monkey'
 - ap: 6285
   img:  'http://lh4.ggpht.com/g8tAznMB64NxNMd4eYtF27DhNprtAqnBEt_llGcKp1qpKQeUvyHBi8p5QuGURqAGieaeJscmQPi6Wosmutg'
   lat: 40.111328
@@ -1332,6 +1332,12 @@
   name:  'Evans Scholars'
 - ap: 3661
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.205076
+  level: '?'
+  lon: -88.39379
+  name:  '88b22f723d954699bdb089ff05d12bf6.16'
+- ap: 3661
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.204153
   level: '?'
   lon: -88.394092
@@ -1342,12 +1348,6 @@
   level: '?'
   lon: -88.394066
   name:  'Champaign Countys Lincoln'
-- ap: 3661
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.205076
-  level: '?'
-  lon: -88.39379
-  name:  '88b22f723d954699bdb089ff05d12bf6.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.397459
@@ -1518,16 +1518,16 @@
   name:  '96e907b9ab1a491291992663353f5c22.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.204951
-  level: '?'
-  lon: -88.384876
-  name:  'b0532370be9c4b2585b6d599e0b06ad9.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.205206
   level: '?'
   lon: -88.393464
   name:  'ffb1c8830f184f8b9886fbf7c7604a37.12'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.204951
+  level: '?'
+  lon: -88.384876
+  name:  'b0532370be9c4b2585b6d599e0b06ad9.16'
 - ap: 3285
   img:  'http://lh3.ggpht.com/4b6ZQuP0tb_xLUTbymIlLrHiMm8NTxgLY021uO-WQ4Z42V3CMXR_2S_aEZOb929B0D30IddZrRKGigpHQqP2'
   lat: 40.113738
@@ -2201,6 +2201,12 @@
   lon: -88.198163
   name:  'Armored Gopher Games'
 - ap: 2537
+  img:  'http://lh6.ggpht.com/FsUBggh0M3sjncoth6JaamkCglQtDsuiR89k30B2sMp7srgh0Hz6trgv7BhNRSJA6qI7OvipV8B3XEhzHmaNxA'
+  lat: 40.113513
+  level: 4
+  lon: -88.207559
+  name:  'Black Dog Smoke & Ale House'
+- ap: 2537
   img:  'http://lh5.ggpht.com/f6rOm3DxdeRrhnP70WA74kANOIPgPztsKnl10zNfhwO-EqkYy9adifLJhWTIoTePqXTxjC9lJv50DWOB3qPFWwFb0HvCuIw-g5Gw48VoXasjqCay'
   lat: 40.113418
   level: 6
@@ -2212,12 +2218,6 @@
   level: 4
   lon: -88.209
   name:  'Church of Christ '
-- ap: 2537
-  img:  'http://lh6.ggpht.com/FsUBggh0M3sjncoth6JaamkCglQtDsuiR89k30B2sMp7srgh0Hz6trgv7BhNRSJA6qI7OvipV8B3XEhzHmaNxA'
-  lat: 40.113513
-  level: 4
-  lon: -88.207559
-  name:  'Black Dog Smoke & Ale House'
 - ap: 2537
   img:  'http://lh3.ggpht.com/KnNYiTjbSfT8lzl-5r3OkJW1ptOP-d5JkDibk9pg1eydNzpy_IgdiC-kCRNUSoBP9nFsblvWr7t9IC4qMU0'
   lat: 40.109369
