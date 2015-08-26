@@ -152,20 +152,6 @@
   lon: -88.207767
   mus: 98
   name:  'Crystal Lake Park'
-- fields: 2
-  img:  'http://lh5.ggpht.com/dnj__uItXDR_xj-g5PNpGYPNjJCPBFpsx3w9sWxvrOlayO6nyG_Qu8MygtuFZm9i4L2Gho0fkOACtzkGR_e2wQ'
-  lat: 40.098457
-  level: 6
-  lon: -88.276763
-  mus: 98
-  name:  'Mini Park IV'
-- fields: 2
-  img:  'http://lh6.ggpht.com/_MJDV4NA2u24dbhr1ulyabSdnTuUBUv1xFpOPKbit_dHtoaRkFxqDHaRZBZ196LNyiSHUE5lNT4MCbhqCrzh'
-  lat: 40.098459
-  level: 4
-  lon: -88.282083
-  mus: 98
-  name:  'Flower Island'
 - fields: 6
   img:  'http://lh6.ggpht.com/I-JIswzTF-DAyhS7AITUJU49j_3KzSqSjAwfA4nfVsrGkR7QTZDfl4BIMS_wBgN6jwmiJ_X_PEC2E65ZDQnj'
   lat: 40.109673
@@ -208,13 +194,6 @@
   lon: -88.207653
   mus: 77
   name:  'Chinese Goose Bridge Plaque'
-- fields: 1
-  img:  'http://lh5.ggpht.com/9VuH5-qaoobAtdEZFkn2uoAcJS5Luq9QLXRevRpv9WAzkjoAB_9hftbELGCCm8M4rxAJ5xTfJWd6E6kb0Or7'
-  lat: 40.102016
-  level: 4
-  lon: -88.281983
-  mus: 77
-  name:  'Centennial Park'
 - fields: 13
   img:  'http://lh4.ggpht.com/vLN74xdc8Mdgab4UjP1QUbyX42bkPBXnIqzYzkmRDi4naHiBk2kM1wUA7Mx3Pxl1dpPoMBAg9pV956MqTDk'
   lat: 40.068391
@@ -225,7 +204,7 @@
 - fields: 6
   img:  'http://lh6.ggpht.com/fyGq_et8CMSgV7DC-8ojjd4BvSmo7hPghtkd4Mn0dZS5eLOW8xkBuuEKcy2udoGdbodjc61c6IAeb0g3DrQ'
   lat: 40.110498
-  level: 5
+  level: 3
   lon: -88.211654
   mus: 72
   name:  'Unitarian Universalist Church Urbana'
@@ -383,6 +362,13 @@
   lon: -88.243473
   mus: 24
   name:  'Savoy Rotary Club Dedication'
+- fields: 5
+  img:  'http://lh6.ggpht.com/iyVzd144UmKl-NbbK53esQ7x8e8_eT0Sn6h6APfrvQuNvfT5EsR--la9R7J6Tj_J3MCi9bqkLNDdI7qetVc'
+  lat: 40.117555
+  level: 6
+  lon: -88.21334
+  mus: 23
+  name:  'Carle Wind Sculpture'
 - fields: 1
   img:  'http://lh5.ggpht.com/lVPluMTxywLzssk6h2IM1KNaZqmdJZwSaOjsQTU-NXL2-__Ve9Ur36H1oaIXABV4-52NcqTaSO7DglgO7vNb'
   lat: 40.105698
@@ -390,6 +376,20 @@
   lon: -88.202624
   mus: 22
   name:  'Roger Ebert Plaque'
+- fields: 1
+  img:  'http://lh5.ggpht.com/dnj__uItXDR_xj-g5PNpGYPNjJCPBFpsx3w9sWxvrOlayO6nyG_Qu8MygtuFZm9i4L2Gho0fkOACtzkGR_e2wQ'
+  lat: 40.098457
+  level: 6
+  lon: -88.276763
+  mus: 22
+  name:  'Mini Park IV'
+- fields: 1
+  img:  'http://lh6.ggpht.com/_MJDV4NA2u24dbhr1ulyabSdnTuUBUv1xFpOPKbit_dHtoaRkFxqDHaRZBZ196LNyiSHUE5lNT4MCbhqCrzh'
+  lat: 40.098459
+  level: 4
+  lon: -88.282083
+  mus: 22
+  name:  'Flower Island'
 - fields: 1
   img:  'http://lh4.ggpht.com/dIZMnnUykBHkwUGA_tGi7tq4m0qCooVejZqueoqq9NjBXvZgz1QUEqS-vJhsYu3v7pW_0xejLfH9QeziW28I'
   lat: 40.097472
@@ -425,13 +425,13 @@
   lon: -88.230176
   mus: 19
   name:  'U of I Mural'
-- fields: 4
-  img:  'http://lh6.ggpht.com/iyVzd144UmKl-NbbK53esQ7x8e8_eT0Sn6h6APfrvQuNvfT5EsR--la9R7J6Tj_J3MCi9bqkLNDdI7qetVc'
-  lat: 40.117555
+- fields: 5
+  img:  'http://lh5.ggpht.com/hyt1tgr8r9kkFsN0rOP1Hs4-eQkadvsRFAGCd7uSKtvgbFc9ThHgjAfizSArYfLvgYhYFD7nh-_Qm-TqcmBE'
+  lat: 40.11894
   level: 6
-  lon: -88.21334
+  lon: -88.214035
   mus: 19
-  name:  'Carle Wind Sculpture'
+  name:  'Crystal Lake Labyrinth'
 - fields: 1
   img:  'http://lh6.ggpht.com/DPmYFBmWaf_8hYO8H8Y1aQLQ6bnStpWMkvOlq0Ge7AQEaBH5HpB8NUqD0dL0H2oki1yWhRoFC2aDerp9-t_c'
   lat: 40.114514
@@ -533,17 +533,10 @@
 - fields: 2
   img:  'http://lh3.ggpht.com/Gp_QYp0MdUkN9dn84MbkgYbnJSQlQN5hAuhWy_T-xDqHpqY7FFAVNA43igwFJ8NK69ewKmaEnLXCzIM2zZFm'
   lat: 40.11075
-  level: 6
+  level: 5
   lon: -88.215119
   mus: 11
   name:  'First Presbyterian Church of Urbana'
-- fields: 3
-  img:  'http://lh5.ggpht.com/hyt1tgr8r9kkFsN0rOP1Hs4-eQkadvsRFAGCd7uSKtvgbFc9ThHgjAfizSArYfLvgYhYFD7nh-_Qm-TqcmBE'
-  lat: 40.11894
-  level: 6
-  lon: -88.214035
-  mus: 11
-  name:  'Crystal Lake Labyrinth'
 - fields: 2
   img:  'http://lh6.ggpht.com/BgudsSY0vPHxgxXELEIEROiOQIlMUEEycmutMqr-xgbLBf4OkD1cCogkqAOqKSfh1GR3pPAhW2bTe5FGfEvO'
   lat: 40.102058
@@ -684,6 +677,13 @@
   lon: -88.393369
   mus: 8
   name:  'Mabery Gelvin Botanical Garden'
+- fields: 2
+  img:  'http://lh4.ggpht.com/cXzBVEYwsBuU4BX2Fkwi_8TwqSW6ExF6m7IyyHAOrdCMru_sr74MrtK8iGVa0zj3YFt--pdhmI5xwUIeJw'
+  lat: 40.120191
+  level: 5
+  lon: -88.215485
+  mus: 8
+  name:  'Champaign County Fairgrounds'
 - fields: 7
   img:  'http://lh3.ggpht.com/gDP5JIyK5XQVuxzTukPDz7JRInXgVqjLvl1SZ1_m_ydC4VzlKAFaG92Jj7kHZGJrhTaK2-bslJBu3rBIoXOX'
   lat: 40.079519
@@ -775,6 +775,13 @@
   lon: -88.394249
   mus: 6
   name:  'c47c86e036934462bff379850cb47aca.16'
+- fields: 2
+  img:  'http://lh5.ggpht.com/Rbncx1cCR848JJRHJEZP1LBPjeBES8v3loG6KcPp_EZibzeb9m2nHSS7tN8FkCjMCfjJavG5jZd3NgYEuKE'
+  lat: 40.119468
+  level: 6
+  lon: -88.214013
+  mus: 5
+  name:  'Vicki J. Mayes Honorary'
 - fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.204153
@@ -1027,13 +1034,6 @@
   lon: -88.216448
   mus: 2
   name:  'Lichen Covered Honeylocust Plaque'
-- fields: 1
-  img:  'http://lh5.ggpht.com/Rbncx1cCR848JJRHJEZP1LBPjeBES8v3loG6KcPp_EZibzeb9m2nHSS7tN8FkCjMCfjJavG5jZd3NgYEuKE'
-  lat: 40.119468
-  level: 6
-  lon: -88.214013
-  mus: 2
-  name:  'Vicki J. Mayes Honorary'
 - fields: 3
   img:  'http://lh4.ggpht.com/qWLIT-3GsQkC5f1iLdtWdxCs7cZzyMqqwXBViIYnN7Hvp6UFp3JqYe_qFKGGCSM1cWWbZZZh2X2uS3fS2lE'
   lat: 40.068474
@@ -1139,6 +1139,20 @@
   lon: -88.208694
   mus: 1
   name:  'El-Ahrairah'
+- fields: 2
+  img:  'http://lh4.ggpht.com/vv-0g62EZ8ryJBOYgynNZeHVhnllOTH6Fw8BrvTexs05uFs36rXKpZSCWeaC20VpLm_Zo-ED-zIhjAO36RuG'
+  lat: 40.111097
+  level: 5
+  lon: -88.223019
+  mus: 1
+  name:  'Original 24 MeV Betatron'
+- fields: 2
+  img:  'http://lh3.ggpht.com/WZ2x7xVM-rICLElKme5elfnFzWATxKyhh2ur0_-2QrpcSIc-HAYOqlwsp3cewAHAN0W751RblRvG3TzjraCj'
+  lat: 40.110991
+  level: 5
+  lon: -88.223333
+  mus: 1
+  name:  'Loomis Laboratory Jacob''s Ladder Device'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.205583
@@ -1167,6 +1181,13 @@
   lon: -88.394094
   mus: 1
   name:  '2a77bf7698f24379838733d064f5ce04.16'
+- fields: 1
+  img:  'http://lh5.ggpht.com/f1O8bFXHTg2PTOAUVLvrqk5xx5ps9SeqhpJ1RIPtSxm0I-e7J275e2ujJp3lFQGHUBW_vS90KOsrcdLDJ84l4g'
+  lat: 40.110797
+  level: 3
+  lon: -88.225321
+  mus: 1
+  name:  'Multiphase Fluid Dynamics Plaque'
 - fields: 1
   img:  'http://lh4.ggpht.com/T-3m7oONVYzd6ptHZ4WIUTKJCldySCRaRavDdoGCk6yZ2FgcDSXVAwBJKNgoNfi7qVhAWCN9fWqhRzQ-dyBo'
   lat: 40.112954
@@ -1231,26 +1252,33 @@
   mus: 1
   name:  'Urbana Municipal Building Fountain'
 - fields: 1
-  img:  'http://lh4.ggpht.com/vv-0g62EZ8ryJBOYgynNZeHVhnllOTH6Fw8BrvTexs05uFs36rXKpZSCWeaC20VpLm_Zo-ED-zIhjAO36RuG'
-  lat: 40.111097
-  level: 5
-  lon: -88.223019
-  mus: 1
-  name:  'Original 24 MeV Betatron'
-- fields: 1
-  img:  'http://lh3.ggpht.com/WZ2x7xVM-rICLElKme5elfnFzWATxKyhh2ur0_-2QrpcSIc-HAYOqlwsp3cewAHAN0W751RblRvG3TzjraCj'
-  lat: 40.110991
-  level: 5
-  lon: -88.223333
-  mus: 1
-  name:  'Loomis Laboratory Jacob''s Ladder Device'
-- fields: 1
   img:  'http://lh4.ggpht.com/6x6YWyLyFdOTmCy0et8JbuSjZ8RxOPY-97_QeaHjaR6waOf9rUQI-F0pplNydCXGp6NpHDNRXLvgoyoHb2eV'
   lat: 40.110912
   level: 5
   lon: -88.223059
   mus: 1
   name:  'UIUC Cyclotron "D''s" '
+- fields: 1
+  img:  'http://lh4.ggpht.com/MkhRfx0p0ll37O7C8IfCWHSNAQW5D8kba_E7Fu6frVIIFFf1fvRccq8wfjh6qu9yfggxSk0NSuf9oSvidos'
+  lat: 40.116068
+  level: 6
+  lon: -88.237578
+  mus: 1
+  name:  'Mural at Habitat for Humanity'
+- fields: 1
+  img:  'http://lh6.ggpht.com/BCoBN1k9qdgU4oqqht_93bj9zxyhLJFkws-e6kAP1Zoz97AaCfbgSYLSVeMERRNl3hLBAVTbcCUn41RUxMmC'
+  lat: 40.116203
+  level: 6
+  lon: -88.23781
+  mus: 1
+  name:  'Habitat For Humanity'
+- fields: 1
+  img:  'http://lh5.ggpht.com/kFv3Fx8zK5B4yXG5EhAGfNrmlQna8VDnlFgMaIk7ajlsW3Ny-Yfw29Cr2OQ2sWLRpbmRiiylV_DipCt1ozA5'
+  lat: 40.116215
+  level: 6
+  lon: -88.238153
+  mus: 1
+  name:  'Knoxville Station'
 - fields: 1
   img:  'http://lh6.ggpht.com/6BUh47P9JBBdzd2Et4_wsdwykXwvCr8yLmvnNT_cLoZlut02MhwRCXNwEyABiuKbBtsXhy0qQ8jltlKfprE'
   lat: 40.102829
