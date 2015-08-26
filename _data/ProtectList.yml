@@ -1,24 +1,24 @@
-- fields: 2
-  img:  'http://lh3.ggpht.com/Or_i3A5Lpw1MTemWGpqYDcp3d75CQeZ5SKOxpDiq5sqqAYEgpA2oj3z4w1k4IuUnXvSjSHET1wuLB0Vrb77S'
-  lat: 40.112555
-  level: 6
-  lon: -88.273762
-  mus: 1012
-  name:  'Pias Sports Bar and Grill'
-- fields: 1
-  img:  'http://lh5.ggpht.com/dnj__uItXDR_xj-g5PNpGYPNjJCPBFpsx3w9sWxvrOlayO6nyG_Qu8MygtuFZm9i4L2Gho0fkOACtzkGR_e2wQ'
-  lat: 40.098457
-  level: 5
-  lon: -88.276763
-  mus: 975
-  name:  'Mini Park IV'
-- fields: 1
-  img:  'http://lh4.ggpht.com/dIZMnnUykBHkwUGA_tGi7tq4m0qCooVejZqueoqq9NjBXvZgz1QUEqS-vJhsYu3v7pW_0xejLfH9QeziW28I'
-  lat: 40.097472
-  level: 4
-  lon: -88.259842
-  mus: 975
-  name:  'Indian Acres Swim Club'
+- fields: 1+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.144681
+  level: '?'
+  lon: -88.162806
+  mus: 16095
+  name:  'ad8d37eb780b49c198692a526617e038.16'
+- fields: 1+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.084939
+  level: '?'
+  lon: -88.168778
+  mus: 16095
+  name:  'Stone Creek Fountain 2'
+- fields: 1+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.060112
+  level: '?'
+  lon: -88.104521
+  mus: 16095
+  name:  'd3730f68bf464735985fa0674d3785bd.16'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.211585
@@ -194,13 +194,6 @@
   lon: -88.21093
   mus: 51
   name:  'A Fountain in the Forest'
-- fields: 3
-  img:  'http://lh4.ggpht.com/BDVsIEWOaH0zZsTgU8IbvmVNJTrl3EljfhNXeVt4C2BILNtXm5hpAq_6mLrTl66aJcUyYv4hFJKhxedLkKo'
-  lat: 40.11679
-  level: 6
-  lon: -88.281854
-  mus: 48
-  name:  'International Society of Arboriculture'
 - fields: 6
   img:  'http://lh4.ggpht.com/8AjeZD8uLKBGqzwnDcp2t-wWRFmqZ03RVBIV2jccyPae0uVMwvjHgEmRfdS_lvnxJTIwosCM3Xlfpw-vIwZOdw'
   lat: 40.118549
@@ -208,13 +201,6 @@
   lon: -88.212935
   mus: 47
   name:  'Francis and Hermenia Kruidenier Memorial'
-- fields: 4
-  img:  'http://lh4.ggpht.com/XKVHQA5428-TLAwxsbTM7h-fg1ZVaoOYXR-p6_g9VpqHRXtq7EcVjmHVhIJBF7vxFz9MCkKRVwSGsqnMuZtb'
-  lat: 40.117759
-  level: 6
-  lon: -88.285834
-  mus: 47
-  name:  'Illinois Earth Team Plaque'
 - fields: 5
   img:  'http://lh6.ggpht.com/31TBN17Cx0Fe1NiJxyZ2ecjiytN2gTnDvKY2HaYZWlZCKQIwphNyogO99YqmixHdSlxZTNeHV-qIJA9xDygt'
   lat: 40.112683
@@ -404,6 +390,13 @@
   lon: -88.211642
   mus: 12
   name:  'Canaan Baptist Church'
+- fields: 2
+  img:  'http://lh4.ggpht.com/BDVsIEWOaH0zZsTgU8IbvmVNJTrl3EljfhNXeVt4C2BILNtXm5hpAq_6mLrTl66aJcUyYv4hFJKhxedLkKo'
+  lat: 40.11679
+  level: 6
+  lon: -88.281854
+  mus: 12
+  name:  'International Society of Arboriculture'
 - fields: 3
   img:  'http://lh5.ggpht.com/W3y0aDYTuLZ7E0KYzawIeqddSRPOrY1oAV8peDaDhUsxn_hKEJ1O4XyO_JF2p0ORGwae1oEwE5oTkJ_1TMDA'
   lat: 40.080601
@@ -425,6 +418,13 @@
   lon: -88.214035
   mus: 11
   name:  'Crystal Lake Labyrinth'
+- fields: 3
+  img:  'http://lh4.ggpht.com/XKVHQA5428-TLAwxsbTM7h-fg1ZVaoOYXR-p6_g9VpqHRXtq7EcVjmHVhIJBF7vxFz9MCkKRVwSGsqnMuZtb'
+  lat: 40.117759
+  level: 6
+  lon: -88.285834
+  mus: 10
+  name:  'Illinois Earth Team Plaque'
 - fields: 3
   img:  'http://lh4.ggpht.com/DppAipH86hwYpla2jOPHj7EKwNlYz4MBLqpUZCiBtWIXGgLhqX--9-pLGy_r9evlKYKOOsPC5AjPJz_ew9Vqhg'
   lat: 40.11077
@@ -873,27 +873,6 @@
   lon: -88.216448
   mus: 2
   name:  'Lichen Covered Honeylocust Plaque'
-- fields: 1
-  img:  'http://lh5.ggpht.com/LLVKvcsTaSPmGBzaGFrvYIV4RhGzb6LqC_npAarehd2aLZSaVhjGzQV6T63Ke07reCQzO-GoZXmEfwZMOcM'
-  lat: 40.110569
-  level: 5
-  lon: -88.226784
-  mus: 2
-  name:  'Cubist Art at MSEB'
-- fields: 1
-  img:  'http://lh6.ggpht.com/j712bbvDknzGlAU87nZA1Bx45Ng-0MGA9Uvuv-3WzIKA3W51mXOZpJ-TzVSbuU3uE2AsJ5wcO7_B6WDpdRr0'
-  lat: 40.110684
-  level: 3
-  lon: -88.226053
-  mus: 2
-  name:  'BCS Superconductivity Theory Plaque'
-- fields: 1
-  img:  'http://lh5.ggpht.com/4eagHlnlpVbtFi_knZN73PIs2A--Ipj6SOlkQADePlfnzfOnJn-cAv0IoNNv4qR8WrbUFImUKHBknyaoAewO'
-  lat: 40.111383
-  level: 5
-  lon: -88.225675
-  mus: 2
-  name:  'Only Rain Down The Drain'
 - fields: 1
   img:  'http://lh5.ggpht.com/Rbncx1cCR848JJRHJEZP1LBPjeBES8v3loG6KcPp_EZibzeb9m2nHSS7tN8FkCjMCfjJavG5jZd3NgYEuKE'
   lat: 40.119468
