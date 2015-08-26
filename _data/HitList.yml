@@ -40,12 +40,12 @@
   lon: -88.230209
   mus: 113
   name:  'Mural on South Sixth Street'
-- fields: 3
+- fields: 5
   img:  'http://lh5.ggpht.com/BoAN9OSCH5u7G1sestzZaXjjik82i-SteF6-r5KTTyl530q9H5G3ibjJdqpGGY-nL8MypRXn2twwvn_y5nMmug'
   lat: 40.133159
   level: 7
   lon: -88.28778
-  mus: 90
+  mus: 103
   name:  'Campus Solar System - Saturn'
 - fields: 3
   img:  'http://lh5.ggpht.com/_9uqsDQROIwqIhKx_URY4DdZAapoZBEWK6Eaclt5mM5vPsjwQAD-v8Bv-4b-Smq2F8X4zOgzLx2KwySkFWc'
@@ -54,6 +54,13 @@
   lon: -88.25211
   mus: 63
   name:  'First Church of Christ, Scientist'
+- fields: 6
+  img:  'http://lh6.ggpht.com/v2m1E6vVK4ZRaRPhGli7jCsG7xZQZ7I3vV_5AogdEpPU_A1vz9WEkH0vZ-vau2IAdmydYJcXrOA6SMr7vUfT'
+  lat: 40.128726
+  level: 5
+  lon: -88.290287
+  mus: 56
+  name:  'McMillen Ehler Homestead'
 - fields: 1
   img:  'http://lh4.ggpht.com/vbIH-PkUCBuwDTIRXA4p5jtGQ86SqYlc1e-g3Y9Ef2zaSb0ozkDD41Iq51orLhtPyShj4UzC6CPn0Unt8SY'
   lat: 40.145108
@@ -166,6 +173,13 @@
   lon: -88.244374
   mus: 12
   name:  'Shatterglass Studios Mural'
+- fields: 2
+  img:  'http://lh3.ggpht.com/_K7sIxE489M-QkUoRrgaLB_XBi9BcOI563VzvhOcmhjwHsLO51ORrhkiWZkqThKNBlPAYzclT_qdR_sGe8g'
+  lat: 40.114277
+  level: 6
+  lon: -88.238879
+  mus: 11
+  name:  'Prow 2'
 - fields: 1+
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.204951
@@ -180,13 +194,6 @@
   lon: -88.292808
   mus: 10
   name:  'Campus Solar System - Mars'
-- fields: 3
-  img:  'http://lh5.ggpht.com/lagLH-yy6la5yqn0YoNwS7uxRSPXDfSP2QwvgnDmG-ZcaxqMNKYlASfYjw50kzq9GOOJ-0nmAa-3IlmGe-A'
-  lat: 40.105777
-  level: 6
-  lon: -88.222002
-  mus: 9
-  name:  'Preschool Learning Plaque'
 - fields: 7
   img:  'http://lh3.ggpht.com/lzCSS0_tjwUV7JQ2fgLI0e05IrzPxlVUs-6aEPOwUv67IanQJSTi71gkw0SGm8asmoE_r3Xoh048Fd9xRpE'
   lat: 40.099169
@@ -215,13 +222,6 @@
   lon: -88.229625
   mus: 7
   name:  'Illini Sports Mural'
-- fields: 3
-  img:  'http://lh3.googleusercontent.com/78s4UE5PKzAAG8LQc8bJPPLK30nagQnB2-jzX2y9vVVAjUMejMsBGSAKck17bjgbH1Lndna45c3l7i6tR3A4'
-  lat: 40.112908
-  level: 5
-  lon: -88.237287
-  mus: 7
-  name:  'Stone Arch Bridge'
 - fields: 5
   img:  'http://lh3.ggpht.com/GXyi2ghi2DR3h7uIHNYiEZPYixRhDo7LO0WHQ0PyEzb-150r7ar7JGeVjUoPuObC-GFWf22UWqnYCMtED0M-'
   lat: 40.100341
@@ -229,6 +229,13 @@
   lon: -88.249937
   mus: 7
   name:  'Alice Marie Weber Plaque'
+- fields: 2
+  img:  'http://lh3.googleusercontent.com/78s4UE5PKzAAG8LQc8bJPPLK30nagQnB2-jzX2y9vVVAjUMejMsBGSAKck17bjgbH1Lndna45c3l7i6tR3A4'
+  lat: 40.112908
+  level: 5
+  lon: -88.237287
+  mus: 6
+  name:  'Stone Arch Bridge'
 - fields: 2
   img:  'http://lh6.ggpht.com/B4G90nKtVQc7jPOxaA1XcAIKA2UJlU15MIPZLitQmNBNAtfIc9qCPpe75YFHYaZN3YUpU6b4CNMOPsBrg1Q'
   lat: 40.100489
@@ -243,6 +250,13 @@
   lon: -88.402333
   mus: 6
   name:  'Mahomet Armed Forces Memorial'
+- fields: 2
+  img:  'http://lh5.ggpht.com/lagLH-yy6la5yqn0YoNwS7uxRSPXDfSP2QwvgnDmG-ZcaxqMNKYlASfYjw50kzq9GOOJ-0nmAa-3IlmGe-A'
+  lat: 40.105777
+  level: 6
+  lon: -88.222002
+  mus: 6
+  name:  'Preschool Learning Plaque'
 - fields: 3
   img:  'http://lh5.ggpht.com/J6mcCWpzY1HtqSgO5x_y5aVz-YFsC8M7QP6HkXPiD48zj2LwljZvVXDN2m_K8oMn6mei5g6B8PphiUGrXGDG6g'
   lat: 40.119305
@@ -299,13 +313,6 @@
   lon: -88.243669
   mus: 3
   name:  'Colonel Sidney Gauntlett Cornerstone'
-- fields: 4
-  img:  'http://lh5.ggpht.com/uym8nSsevMrrg8UM6iXqTAyUjRlW1TdnBVLbaPVy4PxonceIo1yyp71x4TChEETc7UVpRVdg6-Gy0WfbV2c7'
-  lat: 40.128024
-  level: 7
-  lon: -88.290239
-  mus: 3
-  name:  'In Memory Of Craig Kieffer'
 - fields: 3
   img:  'http://lh6.ggpht.com/Ka3_jVwGHc3wyrranDgkb0UqVN7M7Nbduod4wPmrn2Z51l0LRk5C3Pqg-Ml443gh9dYYglolVJmLLA8ZZcF90CPY5mu8fVkZyRifcuECtQnRhlBCGA'
   lat: 40.111685
@@ -341,13 +348,6 @@
   lon: -88.270158
   mus: 2
   name:  'Glory Center International Church'
-- fields: 1
-  img:  'http://lh3.ggpht.com/2WMtYMnBjTlw-gPK9quwjMde6Heie7SQHCZT41kPiIpOwxXEIQWbB_euK-R5rZhqUcmGuZJ0tIBh_801KGyVsw'
-  lat: 40.11453
-  level: 5
-  lon: -88.227324
-  mus: 2
-  name:  'Beckman Institute - Upwells Fountain'
 - fields: 1
   img:  'http://lh4.ggpht.com/QGRtYb5gsWsiyn9EznIJ0ApB7yWv-SWBAH6CKgO9JRg3PCgn-s8yQMtXPkMDht8dNjPchkCRleUIBT-DnYXh'
   lat: 40.112928
@@ -404,6 +404,13 @@
   lon: -88.243426
   mus: 1
   name:  '"Pointless"'
+- fields: 2
+  img:  'http://lh5.ggpht.com/M2qxWsTwaMcr-AB3UJByAcCokQ0ptyf7KOh8-SmB1Rsu9ZR9D_hI6lWNZF3oGtoU6FzZVeT08h3IEn-e-_8'
+  lat: 40.1279
+  level: 7
+  lon: -88.289974
+  mus: 1
+  name:  'In Memory Of Charles Eddy Shumate'
 - fields: 1
   img:  'http://lh5.ggpht.com/PnX0W4nb5AYgeh3aSV1f6L1M6SXT5EDNNj-HZLlIrqeFoeMlVOlqnsY-fMyXYgvKn-Ac3RDPKf_iJCtYRmek'
   lat: 40.194805
@@ -440,12 +447,12 @@
   mus: 1
   name:  'Bennet Building'
 - fields: 2
-  img:  'http://lh4.ggpht.com/gDYX09ZFI6Jya_d8cBX7Kg8OgMkVexBWJLWt1ceC8s0aizrm_ehDYtMwFiwAqpetr9_VsiAJZLFkAYWm_oMt4Q'
-  lat: 40.128229
+  img:  'http://lh5.ggpht.com/5bCoRsqGBM0hx50ymfbZ8NhvyAyQDJWMnSg6qaDe-zxvwzVZW6O5IZWCDefH-pIsFZzvUaCcBBK9kqNDwXW3'
+  lat: 40.128048
   level: 6
-  lon: -88.290607
+  lon: -88.290536
   mus: 1
-  name:  'In Memory of Lou Henson Jr.'
+  name:  'In Memory of David Foster Wallace'
 - fields: 1
   img:  'http://lh5.ggpht.com/8zq5tMevCiipZK8N9-8SZw3vdsA2HwH0E02ormQshGxHVZrB2WPK7OPC8zt6pjLlgpXVuEYHVA_08_Q8fPw-'
   lat: 40.099647
@@ -460,13 +467,6 @@
   lon: -88.209451
   mus: 1
   name:  'Stack of Books Statue'
-- fields: 1
-  img:  'http://lh3.ggpht.com/Uce4t5Ws7-KzD_MUqPDowXTtAg4burxyAm5ez3FhjTqU4ctVVDwec8NkSjzcauhAUbdqgYCAPNIeQ7dolo4t'
-  lat: 40.128012
-  level: 6
-  lon: -88.289763
-  mus: 1
-  name:  'In Memory Of Marian Rodemer'
 - fields: 1
   img:  'http://lh4.ggpht.com/OFVPvdgB3GVpaQknHdnt2okgP3xcQksAH3wvOGYVuP85MMlxo3bQ2SRpBb0hzNfjQoC_5LlRqaE6jLB-h9Gr'
   lat: 40.108092
