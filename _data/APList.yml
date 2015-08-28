@@ -1260,16 +1260,16 @@
   name:  'b0532370be9c4b2585b6d599e0b06ad9.16'
 - ap: 3285
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.203785
-  level: '?'
-  lon: -88.390448
-  name:  '3e498955983f48bbb55d0e1fae996ef2.16'
-- ap: 3285
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.312242
   level: '?'
   lon: -88.201368
   name:  '2012 Employee Dedication Bench'
+- ap: 3285
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.203785
+  level: '?'
+  lon: -88.390448
+  name:  '3e498955983f48bbb55d0e1fae996ef2.16'
 - ap: 3098
   img:  'http://lh3.ggpht.com/9aQBG-poFARclK9XL7iFIvWePkawZwWhv4Sh0zQhQ0Sy9gdDD508d4gCtpcUP9UNoYM6uztea0aQ05RPd9rZLg'
   lat: 40.115412
@@ -1306,10 +1306,10 @@
   level: 4
   lon: -88.250074
   name:  'Mini Park VIII'
-- ap: 2611
+- ap: 2536
   img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
   lat: 40.115838
-  level: 2
+  level: 1
   lon: -88.241338
   name:  'Illinois Terminal'
 - ap: 2911
@@ -1409,12 +1409,6 @@
   lon: -88.239504
   name:  'Chester Street Bar'
 - ap: 2724
-  img:  'http://lh3.googleusercontent.com/awNe0JGlWWAtHv9iiLcqQjVyppWY-io4ybTL_ir2ZKsMLJgkZcW4rdUAuDjOFdWQvIcp5jlTWiROgHANh1Y1'
-  lat: 40.087822
-  level: 5
-  lon: -88.253161
-  name:  '"Ice" at Mattis Park'
-- ap: 2724
   img:  'http://lh4.ggpht.com/aQomBYYXuWBUbnpgDH92zk4VBmLMOuf5n6WXkMHGTzf1DUlyXL-u4a9ulFUrqE5AO82s_LFM126E-B0HqONp'
   lat: 40.088127
   level: 5
@@ -1426,6 +1420,12 @@
   level: 5
   lon: -88.253489
   name:  'In Loving Memory of Robert and Elizabeth Grubb'
+- ap: 2724
+  img:  'http://lh3.googleusercontent.com/awNe0JGlWWAtHv9iiLcqQjVyppWY-io4ybTL_ir2ZKsMLJgkZcW4rdUAuDjOFdWQvIcp5jlTWiROgHANh1Y1'
+  lat: 40.087822
+  level: 5
+  lon: -88.253161
+  name:  '"Ice" at Mattis Park'
 - ap: 2724
   img:  'http://lh6.ggpht.com/0IsQORyEW-bPA7sEbGspygtoI7ixEshm_2fUw5oeh9AeXg6JN5w0ypYIshpuKm-C0nG4Vm2XmpLvtWTZzWzd'
   lat: 40.111607
@@ -1475,6 +1475,12 @@
   lon: -88.38859
   name:  'Covered Bridge Bike Trail Entrance'
 - ap: 2537
+  img:  'http://lh4.ggpht.com/g5bf6n8J6ugyF8pztcWZWnGyNmzIDQhskzXCDf2dJbuiqbub_xApqggrQrqn6WCy2yYmLnGrcmuQkqeQKx2IwA'
+  lat: 40.126769
+  level: 6
+  lon: -88.215041
+  name:  'Busey Woods Swampland Overlook'
+- ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.31102
   level: '?'
@@ -1499,12 +1505,6 @@
   lon: -88.313206
   name:  'Alan Green Memorial'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/WA_L9RXB_ZwCyxpgQ7Lyjp1-4xTl5O-BQohOBQcoEMnP7-wKp--MGUdnY_DPuCGZ78-x0LtEWc8FT2n9QMPS'
-  lat: 40.148879
-  level: 6
-  lon: -88.258423
-  name:  'War Veteran Memorial'
-- ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.427012
   level: '?'
@@ -1517,11 +1517,11 @@
   lon: -87.609141
   name:  '047d0e4d49c0409dbf708625596cc770.12'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/g5bf6n8J6ugyF8pztcWZWnGyNmzIDQhskzXCDf2dJbuiqbub_xApqggrQrqn6WCy2yYmLnGrcmuQkqeQKx2IwA'
-  lat: 40.126769
+  img:  'http://lh6.ggpht.com/WA_L9RXB_ZwCyxpgQ7Lyjp1-4xTl5O-BQohOBQcoEMnP7-wKp--MGUdnY_DPuCGZ78-x0LtEWc8FT2n9QMPS'
+  lat: 40.148879
   level: 6
-  lon: -88.215041
-  name:  'Busey Woods Swampland Overlook'
+  lon: -88.258423
+  name:  'War Veteran Memorial'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 39.832661
@@ -1536,12 +1536,6 @@
   name:  '155a02681b104f50a1f2140860360f2a.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.152871
-  level: '?'
-  lon: -88.253305
-  name:  '50197185529145c883d36b74db0ec522.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.923956
   level: '?'
   lon: -87.153775
@@ -1552,6 +1546,12 @@
   level: '?'
   lon: -87.66178
   name:  'af29c35e7711499e9cfa17cf6aa54232.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.152871
+  level: '?'
+  lon: -88.253305
+  name:  '50197185529145c883d36b74db0ec522.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 39.966649
@@ -1787,6 +1787,12 @@
   lon: -88.227679
   name:  'Lincoln Hall'
 - ap: 2537
+  img:  'http://lh3.ggpht.com/pVUYGCf7vsAndVd4vhK_pC9p6e9OvGa4ZiWuZg0ELOFDWptBba4H2N4PNZPjQdHXnV1GQyLTpCXQWDMKDUqn'
+  lat: 40.108875
+  level: 4
+  lon: -88.227835
+  name:  'Lion''s Head Planter'
+- ap: 2537
   img:  'http://lh6.ggpht.com/Pnd8JOVl_Lm-LFi5TL9dblCUNbrwX2rh4_oKgOC5Ynga-E_Y207oGsL4Uz931FTapBrs35H98qxJU4Cm_Gk'
   lat: 40.113024
   level: 5
@@ -1804,12 +1810,6 @@
   level: 7
   lon: -88.231532
   name:  'Graduate School of Library and Information Science'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/pVUYGCf7vsAndVd4vhK_pC9p6e9OvGa4ZiWuZg0ELOFDWptBba4H2N4PNZPjQdHXnV1GQyLTpCXQWDMKDUqn'
-  lat: 40.108875
-  level: 4
-  lon: -88.227835
-  name:  'Lion''s Head Planter'
 - ap: 2537
   img:  'http://lh5.ggpht.com/fGRHfMAqdWrUnPE8GStKSdMkgQmu9qvuxAC4VzcU1v2KyxQu2BeuJKhvhefSeFNTkgFh6YdR-F4P6plMbh0'
   lat: 40.110194
