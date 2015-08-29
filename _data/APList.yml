@@ -4,7 +4,7 @@
   level: 7
   lon: -88.25376
   name:  'Hessel Park Christian Reformed Church'
-- ap: 14529
+- ap: 14342
   img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
   lat: 40.097979
   level: 7
@@ -317,12 +317,6 @@
   lon: -88.249899
   name:  'Benjamin Biddle Memorial Plaque'
 - ap: 7035
-  img:  'http://lh5.ggpht.com/8zq5tMevCiipZK8N9-8SZw3vdsA2HwH0E02ormQshGxHVZrB2WPK7OPC8zt6pjLlgpXVuEYHVA_08_Q8fPw-'
-  lat: 40.099647
-  level: 8
-  lon: -88.249648
-  name:  'Max Overmyer Memorial Playground'
-- ap: 7035
   img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
   lat: 40.098959
   level: 8
@@ -340,6 +334,12 @@
   level: 8
   lon: -88.251426
   name:  'Ruth Haasis Memorial'
+- ap: 7035
+  img:  'http://lh5.ggpht.com/8zq5tMevCiipZK8N9-8SZw3vdsA2HwH0E02ormQshGxHVZrB2WPK7OPC8zt6pjLlgpXVuEYHVA_08_Q8fPw-'
+  lat: 40.099647
+  level: 8
+  lon: -88.249648
+  name:  'Max Overmyer Memorial Playground'
 - ap: 7035
   img:  'http://lh3.ggpht.com/-xag7tp3BReTAhfRmVAvpMw1Af15prESg4rve7QnsiIC5IKmKjBszxDIj8F212BmRU1apH_2u_9wAmq58_91'
   lat: 40.114157
@@ -359,12 +359,6 @@
   lon: -88.271694
   name:  'Champaign Church of Christ'
 - ap: 7033
-  img:  'http://lh5.ggpht.com/H3lz_PbTP4RFYuRMUyZuMouxslODKZQ3RjFiZrITFZcpj2FuEb1K2VVlveQtOyUHG2rYZ114AGuGqK4rATI5jg'
-  lat: 40.097868
-  level: 7
-  lon: -88.242344
-  name:  'Campus Information Booth '
-- ap: 7033
   img:  'http://lh4.ggpht.com/AC0e3VVFenyh_tf4lpcee6alCTlto3O4cqychnUlTFCiLaMi6RUVh6BAC1-pjf7f7foTLFALejQiRxf1kKtS'
   lat: 40.104417
   level: 7
@@ -376,6 +370,12 @@
   level: 6
   lon: -88.290672
   name:  'Kaufman Lake'
+- ap: 6846
+  img:  'http://lh5.ggpht.com/H3lz_PbTP4RFYuRMUyZuMouxslODKZQ3RjFiZrITFZcpj2FuEb1K2VVlveQtOyUHG2rYZ114AGuGqK4rATI5jg'
+  lat: 40.097868
+  level: 7
+  lon: -88.242344
+  name:  'Campus Information Booth '
 - ap: 6846
   img:  'http://lh5.ggpht.com/xcqe13f85fuXohGUUBZkNrUU1PunkcZ6xMNmHpAp0GJBtydVqCCGj5MqP3Uax4M7Qq4JzDFGqICFrFb6PNEXRw'
   lat: 40.08932
@@ -676,10 +676,10 @@
   level: 5
   lon: -88.217162
   name:  'St Patrick''s Catholic Church'
-- ap: 5123
+- ap: 4973
   img:  'http://lh5.ggpht.com/LPlCgoOAlClRaVCl_B1sHDkn38OgDbXat-l5Q1bDZLP7mOUMfU8pK-o3N8BEqh0vHJcZBHo3iz2AMQKAhot7Tw'
   lat: 40.110833
-  level: 4
+  level: 2
   lon: -88.227425
   name:  'Engineering Class of 1975 Monument'
 - ap: 5348
@@ -1397,17 +1397,17 @@
   lon: -88.240555
   name:  'Mural at the Station'
 - ap: 3474
-  img:  'http://lh5.ggpht.com/lagLH-yy6la5yqn0YoNwS7uxRSPXDfSP2QwvgnDmG-ZcaxqMNKYlASfYjw50kzq9GOOJ-0nmAa-3IlmGe-A'
-  lat: 40.105777
-  level: 6
-  lon: -88.222002
-  name:  'Preschool Learning Plaque'
-- ap: 3474
   img:  'http://lh6.ggpht.com/RW34ntixvJkg7fD71TPYo_4KIsBzA0-a-6yXO0jKPbpGxX5gIGC7kBI-pXEF9OHhuolcAGW2fxyK3Pt42Iev'
   lat: 40.110489
   level: 7
   lon: -88.227412
   name:  'Bus Stop - Illini Union, Westbound'
+- ap: 3474
+  img:  'http://lh5.ggpht.com/lagLH-yy6la5yqn0YoNwS7uxRSPXDfSP2QwvgnDmG-ZcaxqMNKYlASfYjw50kzq9GOOJ-0nmAa-3IlmGe-A'
+  lat: 40.105777
+  level: 6
+  lon: -88.222002
+  name:  'Preschool Learning Plaque'
 - ap: 3474
   img:  'http://lh3.ggpht.com/jnMeoF6SBZ0Iinf5GnB2N90IMGTEQdGggLITfjWcIY6d5yipHaBN52a1NPxmn-VFwc_G1cHiMmyEDGg5nkwo'
   lat: 40.101623
@@ -1793,6 +1793,18 @@
   lon: -88.284336
   name:  'Dodds Park'
 - ap: 2537
+  img:  'http://lh4.ggpht.com/WFdg25t10cXowG73MPo4WTi8YOc3wTSJiEWKTssgs9mb0Aii3d7iKSHqsebFkdjHfZ8Ej40yDSC7PVdVytHL'
+  lat: 40.109177
+  level: 3
+  lon: -88.285144
+  name:  'Champaign Fire Department'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/amW2e5ycP7FvjZ3krW-9lGBG3opwCMW_jITPOqV2E_woJYL5_s2UUaxHMN9PYWWD0p7-2CKYtMsk141rldj_'
+  lat: 40.10884
+  level: 3
+  lon: -88.284078
+  name:  'Bert Seaman Memorial Field'
+- ap: 2537
   img:  'http://lh3.ggpht.com/xuR2FaQJXFhWOfH2YR-wgTMUn6de0x9fK_RzH7yx2vxtFcveZF4qEwPTtrwnO1KK0aVRHbtmwoYGNSheowgV'
   lat: 40.096637
   level: 4
@@ -1981,7 +1993,7 @@
 - ap: 2537
   img:  'http://lh5.ggpht.com/lVPluMTxywLzssk6h2IM1KNaZqmdJZwSaOjsQTU-NXL2-__Ve9Ur36H1oaIXABV4-52NcqTaSO7DglgO7vNb'
   lat: 40.105698
-  level: 5
+  level: 6
   lon: -88.202624
   name:  'Roger Ebert Plaque'
 - ap: 2537
@@ -2034,12 +2046,6 @@
   name:  'Cornbelt Fire Fighter''s Memorial'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.199222
-  level: '?'
-  lon: -88.382509
-  name:  'baa170273cd749acb5338139770e8f70.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.194971
   level: '?'
   lon: -88.403465
@@ -2050,6 +2056,12 @@
   level: '?'
   lon: -88.402935
   name:  'c87d5b6cf7ea4bae962a48d438be958c.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.199222
+  level: '?'
+  lon: -88.382509
+  name:  'baa170273cd749acb5338139770e8f70.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.195251
