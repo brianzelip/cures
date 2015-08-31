@@ -26,13 +26,6 @@
   lon: -88.24318
   mus: 347
   name:  'Mini Park II Sculpture'
-- fields: 10
-  img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
-  lat: 40.101062
-  level: 7
-  lon: -88.249275
-  mus: 186
-  name:  'Narayan & Shanti Achanta Memorial Plaque'
 - fields: 4
   img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
   lat: 40.098239
@@ -40,6 +33,13 @@
   lon: -88.25376
   mus: 174
   name:  'Hessel Park Christian Reformed Church'
+- fields: 8
+  img:  'http://lh6.ggpht.com/0IsQORyEW-bPA7sEbGspygtoI7ixEshm_2fUw5oeh9AeXg6JN5w0ypYIshpuKm-C0nG4Vm2XmpLvtWTZzWzd'
+  lat: 40.111607
+  level: 6
+  lon: -88.233753
+  mus: 141
+  name:  'Chabad Menorah'
 - fields: 2
   img:  'http://lh5.ggpht.com/_9uqsDQROIwqIhKx_URY4DdZAapoZBEWK6Eaclt5mM5vPsjwQAD-v8Bv-4b-Smq2F8X4zOgzLx2KwySkFWc'
   lat: 40.118448
@@ -89,13 +89,6 @@
   lon: -88.243265
   mus: 53
   name:  'McCollum Park Peacock'
-- fields: 5
-  img:  'http://lh6.ggpht.com/0IsQORyEW-bPA7sEbGspygtoI7ixEshm_2fUw5oeh9AeXg6JN5w0ypYIshpuKm-C0nG4Vm2XmpLvtWTZzWzd'
-  lat: 40.111607
-  level: 6
-  lon: -88.233753
-  mus: 50
-  name:  'Chabad Menorah'
 - fields: 4
   img:  'http://lh6.ggpht.com/1K0653ZxIuKpFDYjAXvWFkFii9HCrpkUZDascv0U6nSG3FskYCLjraQFxKX5q3QGemaoIvHBZzttiSoAvfs'
   lat: 40.084517
@@ -103,6 +96,13 @@
   lon: -88.249848
   mus: 44
   name:  'Boulware Trail'
+- fields: 5
+  img:  'http://lh5.ggpht.com/dgQfoxxVeHT5ODqLiUYHV45qvkC_BMS0kIFRqvHvE2GO0TduZ0-XzhW8RE80LtPDK0Ay5xwA6PtjM7G3C9U8'
+  lat: 40.108947
+  level: 8
+  lon: -88.232251
+  mus: 40
+  name:  'McKinley Church'
 - fields: 1
   img:  'http://lh5.ggpht.com/ZfmaOk3UM4PNzP-z0AvBPFqYLc6wAEDSPhL1cSVjXMAFSv4Jadm-hV--eP3OaJuaksphYKN5s6bhWhluTGs'
   lat: 40.133327
@@ -138,6 +138,13 @@
   lon: -88.220489
   mus: 27
   name:  'The HUB Campus Church'
+- fields: 3
+  img:  'http://lh3.ggpht.com/rgh_2qJQUPC1OrARUkiQqPKoNReiqZYOimm5Nszb77pDh72OszuyiJBKn-vDxHUuyjO2XTeKU9GBHc3oHIYr'
+  lat: 40.115283
+  level: 5
+  lon: -88.287899
+  mus: 23
+  name:  'Greenbelt Bikeway'
 - fields: 4
   img:  'http://lh4.ggpht.com/DvS6go5Krx0CocEL5s29eIW_bm_5HDMdSrRgfi7i3uLEXMkzxPLKWMX24OvVm9geOAeqRlmoqv4HQWwH-d_vfg'
   lat: 40.11075
@@ -145,17 +152,10 @@
   lon: -88.198278
   mus: 23
   name:  'Urbana Baha''i Center'
-- fields: 3
-  img:  'http://lh5.ggpht.com/dgQfoxxVeHT5ODqLiUYHV45qvkC_BMS0kIFRqvHvE2GO0TduZ0-XzhW8RE80LtPDK0Ay5xwA6PtjM7G3C9U8'
-  lat: 40.108947
-  level: 8
-  lon: -88.232251
-  mus: 20
-  name:  'McKinley Church'
 - fields: 2
   img:  'http://lh3.ggpht.com/KxQsev6i7POmNh1IadCWwWQSMdCuLIYpPwIdenSlVtzum523D1R-1kfeTbuOGTkt_jDwn4jswCu1edkumm2-'
   lat: 40.110037
-  level: 4
+  level: 6
   lon: -88.23549
   mus: 17
   name:  'Red Lion'
@@ -218,7 +218,7 @@
 - fields: 8
   img:  'http://lh5.ggpht.com/KuDVZqnpBQnne0a_UqpN4wpsQFlw3nVXAWtRKP_AdZ3CjQ0MHUBgU_2hE8hb71h31FTQbduYmB6DNuVKA0s'
   lat: 40.116822
-  level: 7
+  level: 8
   lon: -88.243445
   mus: 10
   name:  'Remembering Horeb'
@@ -246,7 +246,7 @@
 - fields: 2
   img:  'http://lh3.ggpht.com/AflEYleLSbb1ODQvIdBOrTrq1Zkk-rgHU4WaHjaZ6Md2zDSaqq8cERAJWcwG1QFkrzGf6gp3oC-DZuLOCDb4'
   lat: 40.112779
-  level: 7
+  level: 8
   lon: -88.239045
   mus: 7
   name:  'Layalina Mediterranean Grill'
@@ -285,13 +285,6 @@
   lon: -88.245082
   mus: 5
   name:  'Robeson Building '
-- fields: 2
-  img:  'http://lh6.ggpht.com/n0f7lyo15OzZn5IJHsohIGAA58iioentPZGEY4zeMZCCoX4GjEEkqfaTCIbrx9OnezriThnbFV14kYcwKTgL1g'
-  lat: 40.098444
-  level: 7
-  lon: -88.248167
-  mus: 5
-  name:  'Healthcare Not War Mural'
 - fields: 1
   img:  'http://lh6.ggpht.com/LxVyXEFJmvSZ271mlFfYmCwyb05Kz8cIRxzMt24ZVhRzsH09nxErJw4gKErktjKpCARWfVl4Mla70NoODK2bng'
   lat: 40.11187
@@ -299,6 +292,13 @@
   lon: -88.220692
   mus: 4
   name:  'Atmospheric Sciences Building'
+- fields: 3
+  img:  'http://lh6.ggpht.com/TtWbekdbsTWA9hOrt2dc1ID1DnRuGoRbAle9mL9aZvc_aJygqJ9jAMjqrWtVr87WnELkFrSVIpO_4VVZQ67P'
+  lat: 40.113103
+  level: 5
+  lon: -88.290672
+  mus: 4
+  name:  'Kaufman Lake'
 - fields: 1
   img:  'http://lh3.ggpht.com/AD9d7JPmLdYRdpxESO9iORy1GRXAcN1jzn8dDNvm6FO7cIHVsjwAKI8LmbW4dico1Xe9jzJfsZZriP0CxXA46w'
   lat: 40.104084
@@ -362,13 +362,6 @@
   lon: -88.229031
   mus: 3
   name:  'Illini Hall'
-- fields: 2
-  img:  'http://lh5.ggpht.com/WgDPQ47lNn2nlvNDPgwM_c-1MpVvxdVZtjZmFtixtr3rIi91xqYhgtSbyJGqRFnSXCUHy_RjABgEj2LSzOs'
-  lat: 40.113343
-  level: 4
-  lon: -88.290525
-  mus: 3
-  name:  'Fish Chimes at Kaufman Lake'
 - fields: 1
   img:  'http://lh5.ggpht.com/pSVHjk6puyYdv3ztHlpJGnbkZyGsGsirMnxkDhlt8UMko4AhtTQbrzwInBCu5lK4Ttf7furE5pNW2AZh8HuSZQ'
   lat: 40.138109
@@ -433,6 +426,13 @@
   mus: 1
   name:  'Dennis Robert Costello Memorial'
 - fields: 1
+  img:  'http://lh4.ggpht.com/ezHSw_hRdts3U3bzkEEn46LneS1miDpbSGoxg0v1TqG_W82bvfR2uSTZeDFfhG0kmPJAkOblWP_ZilA6TP8'
+  lat: 40.112523
+  level: 4
+  lon: -88.227765
+  mus: 1
+  name:  'Bardeen Quadrangle - North Side'
+- fields: 1
   img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
   lat: 40.100941
   level: 8
@@ -442,7 +442,7 @@
 - fields: 2
   img:  'http://lh5.ggpht.com/LLVKvcsTaSPmGBzaGFrvYIV4RhGzb6LqC_npAarehd2aLZSaVhjGzQV6T63Ke07reCQzO-GoZXmEfwZMOcM'
   lat: 40.110569
-  level: 6
+  level: 7
   lon: -88.226784
   mus: 1
   name:  'Cubist Art at MSEB'
@@ -470,7 +470,7 @@
 - fields: 1
   img:  'http://lh5.ggpht.com/LPlCgoOAlClRaVCl_B1sHDkn38OgDbXat-l5Q1bDZLP7mOUMfU8pK-o3N8BEqh0vHJcZBHo3iz2AMQKAhot7Tw'
   lat: 40.110833
-  level: 4
+  level: 5
   lon: -88.227425
   mus: 1
   name:  'Engineering Class of 1975 Monument'
@@ -495,6 +495,13 @@
   lon: -88.290536
   mus: 1
   name:  'In Memory of David Foster Wallace'
+- fields: 1
+  img:  'http://lh6.ggpht.com/n0f7lyo15OzZn5IJHsohIGAA58iioentPZGEY4zeMZCCoX4GjEEkqfaTCIbrx9OnezriThnbFV14kYcwKTgL1g'
+  lat: 40.098444
+  level: 7
+  lon: -88.248167
+  mus: 1
+  name:  'Healthcare Not War Mural'
 - fields: 1
   img:  'http://lh6.ggpht.com/oTEawnC2cPnZ7T10vs9tiueaLsN0ILM7tgPLWVfa0njwvTDrUvS-w8x5SK4iMDd0tuHYP2w5a-H0AQ4NaAyU'
   lat: 40.116388
