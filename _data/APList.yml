@@ -311,17 +311,17 @@
   lon: -88.24958
   name:  'Edward A. Cousins Plaque'
 - ap: 7033
-  img:  'http://lh3.googleusercontent.com/vJ_iyOb44eFzOJUNpRouOPDI8rKgOESn7TWw9U9BR3OcWsb6Oak-SSfVH4iPPmtXJdk30rqet1D0KxVohiBC'
-  lat: 40.114712
-  level: 6
-  lon: -88.238392
-  name:  'Mexico Mural'
-- ap: 6846
   img:  'http://lh4.ggpht.com/yi9OPnLGsLTvtOMNuOUfed6edO9tB6h0QmSHJaKKaiMyEXC8Aj2hz9hIvgh8C2DY76mVgNHw4S0gsYpkPpkt'
   lat: 40.148692
   level: 7
   lon: -88.248724
   name:  'Fountain Town Center'
+- ap: 7033
+  img:  'http://lh3.googleusercontent.com/vJ_iyOb44eFzOJUNpRouOPDI8rKgOESn7TWw9U9BR3OcWsb6Oak-SSfVH4iPPmtXJdk30rqet1D0KxVohiBC'
+  lat: 40.114712
+  level: 6
+  lon: -88.238392
+  name:  'Mexico Mural'
 - ap: 6659
   img:  'http://lh4.ggpht.com/vbIH-PkUCBuwDTIRXA4p5jtGQ86SqYlc1e-g3Y9Ef2zaSb0ozkDD41Iq51orLhtPyShj4UzC6CPn0Unt8SY'
   lat: 40.145108
@@ -623,6 +623,12 @@
   lon: -88.251685
   name:  'Curtis William McKinney Memorial'
 - ap: 4972
+  img:  'http://lh6.ggpht.com/wk0l8Qe7j_Ph_LhyPvdNO6g8nwrxpswodrbNuOzLa3K1QNBrIVidi9iztmDXu3HtCWo5TpqDDjPsEbSl2aWUKg'
+  lat: 40.144554
+  level: 6
+  lon: -88.248689
+  name:  'Town Center Park Champaign Park District'
+- ap: 4972
   img:  'http://lh5.ggpht.com/pSVHjk6puyYdv3ztHlpJGnbkZyGsGsirMnxkDhlt8UMko4AhtTQbrzwInBCu5lK4Ttf7furE5pNW2AZh8HuSZQ'
   lat: 40.138109
   level: 7
@@ -640,12 +646,6 @@
   level: 7
   lon: -88.219672
   name:  'Mennonite Church'
-- ap: 4785
-  img:  'http://lh6.ggpht.com/wk0l8Qe7j_Ph_LhyPvdNO6g8nwrxpswodrbNuOzLa3K1QNBrIVidi9iztmDXu3HtCWo5TpqDDjPsEbSl2aWUKg'
-  lat: 40.144554
-  level: 6
-  lon: -88.248689
-  name:  'Town Center Park Champaign Park District'
 - ap: 4785
   img:  'http://lh6.ggpht.com/f3cOUn1gqLkJZQzs4-Y9j6j2ZXbb1Kmzf3klCFzF8zmFSlZZ-B6O4-5t1KIX95jbYUjeqMgOohEf1ilF75Uqyw'
   lat: 40.132777
@@ -1037,12 +1037,6 @@
   lon: -88.243367
   name:  'Bannon Mini Park'
 - ap: 3474
-  img:  'http://lh3.ggpht.com/oHMQr2Z5LayQFbZOwOZK4ZbYQ1OVxs85-qNTvSj8epsP72vQiOdrzVmkuMPFQtCSf9Rr0oqcnSLFjLn-sPw'
-  lat: 40.116592
-  level: 5
-  lon: -88.243236
-  name:  'Champaign City Bldg. Landmark Plaque'
-- ap: 3474
   img:  'http://lh4.ggpht.com/9jXAzAxn0JZrLkU9VK9p-mNzjw3x_6QqwMAn4CAEBAHp_lo2iDZeV_y-hoUzP5CYwm8kOMyrTToZQOWJBRnw'
   lat: 40.115095
   level: 4
@@ -1054,6 +1048,12 @@
   level: 5
   lon: -88.248866
   name:  'Holy Cross Catholic Church'
+- ap: 3474
+  img:  'http://lh3.ggpht.com/oHMQr2Z5LayQFbZOwOZK4ZbYQ1OVxs85-qNTvSj8epsP72vQiOdrzVmkuMPFQtCSf9Rr0oqcnSLFjLn-sPw'
+  lat: 40.116592
+  level: 5
+  lon: -88.243236
+  name:  'Champaign City Bldg. Landmark Plaque'
 - ap: 3474
   img:  'http://lh4.ggpht.com/qj7RZgjywjmhALnf1YyB5hWBrpO3hxjXZJdOzfE7YYV0p_vq9KA8GrgL9SfBHf_Ry3MVzMy1iJ6pAOkYL_lT'
   lat: 40.119118
@@ -1487,12 +1487,6 @@
   lon: -88.238373
   name:  'John "Skip" Pickering Dedication'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/l6drxc16dn91XarTz8Tkkeerjhu28Hf3x7nh-pHe05BLyOA6fuV75A5gB8UdUNt3cRN_eXIHmTE8c5Ypvcw'
-  lat: 40.117248
-  level: 3
-  lon: -88.249929
-  name:  '"Tootsie" at West Side Park'
-- ap: 2537
   img:  'http://lh3.ggpht.com/Vcus4uEIgRrZOTuMTz10IGc3qhU5MdpmGnEzN_IiBQrVm1M6Q26geFSgc4VIbgx12Utl9V52J1Y4g35V3MneDg'
   lat: 40.117215
   level: 6
@@ -1510,6 +1504,12 @@
   level: 6
   lon: -88.250074
   name:  'Mini Park VIII'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/l6drxc16dn91XarTz8Tkkeerjhu28Hf3x7nh-pHe05BLyOA6fuV75A5gB8UdUNt3cRN_eXIHmTE8c5Ypvcw'
+  lat: 40.117248
+  level: 3
+  lon: -88.249929
+  name:  '"Tootsie" at West Side Park'
 - ap: 2537
   img:  'http://lh5.ggpht.com/2jocF-ooKfacyT7HSwrwNcZTSN02yFkcmXBkPx777CYuD5O6sHPHwyUabblNOl_37YOxba1Gjid-TOwLVBlJ8g'
   lat: 40.116448
