@@ -26,13 +26,13 @@
   lon: -88.238808
   mus: 241
   name:  'Alpha Gamma Rho'
-- fields: 3
-  img:  'http://lh4.ggpht.com/ln3YbdhkDSQ19t2mM9P_UcuQQA67KZkxL5aFii6BK7359DmhZ_z7Zk_GHQ0XQDLl8X3UnUr0lhnCkOlv6lwl'
-  lat: 40.125825
+- fields: 2
+  img:  'http://lh6.ggpht.com/wk0l8Qe7j_Ph_LhyPvdNO6g8nwrxpswodrbNuOzLa3K1QNBrIVidi9iztmDXu3HtCWo5TpqDDjPsEbSl2aWUKg'
+  lat: 40.144554
   level: 6
-  lon: -88.244671
-  mus: 80
-  name:  'Randolph Street Community Garden'
+  lon: -88.248689
+  mus: 124
+  name:  'Town Center Park Champaign Park District'
 - fields: 6
   img:  'http://lh4.ggpht.com/uAYfykn0e2h2UqP-anbYfkJNa38P0L1WY8FpF-CwRCPklg5wL1xYFkpGOCMt7SJ37qO8PGVE42nYX9Ba_-jG'
   lat: 40.105025
@@ -61,6 +61,13 @@
   lon: -88.242132
   mus: 39
   name:  'Nuclear Physics Lab'
+- fields: 3+
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.152192
+  level: '?'
+  lon: -88.252279
+  mus: 34
+  name:  'Toalson Park South Entrance'
 - fields: 4
   img:  'http://lh4.ggpht.com/ik1uVZ-KWyRH4dh51LJI7gFmnM7bmfSZ-1YqfELbVQEvuo-gEx2QpG6jQpFPeAlFPi2rVPAuzRmXMD0Whsm2HA'
   lat: 40.122038
@@ -96,6 +103,20 @@
   lon: -88.251974
   mus: 21
   name:  'Hessel Park'
+- fields: 4
+  img:  'http://lh5.ggpht.com/RsXj0S9rbD_i4VFZmhxJtNtmwEeJOoYsmM8wyu90kB6srZMfUskP6iqrTY9eqFNQhhQrU50k92lCH4JEQ2w'
+  lat: 40.127358
+  level: 8
+  lon: -88.243851
+  mus: 18
+  name:  'Stanchion'
+- fields: 8
+  img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
+  lat: 40.116164
+  level: 7
+  lon: -88.241661
+  mus: 16
+  name:  'Zipcar-45 E. University Avenue'
 - fields: 10
   img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
   lat: 40.100078
@@ -103,6 +124,13 @@
   lon: -88.250683
   mus: 15
   name:  'Brian Clark Memorial Plaque'
+- fields: 2
+  img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
+  lat: 40.107751
+  level: 8
+  lon: -88.231532
+  mus: 15
+  name:  'Graduate School of Library and Information Science'
 - fields: 9
   img:  'http://lh3.ggpht.com/lzCSS0_tjwUV7JQ2fgLI0e05IrzPxlVUs-6aEPOwUv67IanQJSTi71gkw0SGm8asmoE_r3Xoh048Fd9xRpE'
   lat: 40.099169
@@ -110,20 +138,6 @@
   lon: -88.251419
   mus: 15
   name:  'Lyman Larson Memorial'
-- fields: 3
-  img:  'http://lh5.ggpht.com/dgQfoxxVeHT5ODqLiUYHV45qvkC_BMS0kIFRqvHvE2GO0TduZ0-XzhW8RE80LtPDK0Ay5xwA6PtjM7G3C9U8'
-  lat: 40.108947
-  level: 8
-  lon: -88.232251
-  mus: 14
-  name:  'McKinley Church'
-- fields: 6
-  img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
-  lat: 40.116164
-  level: 7
-  lon: -88.241661
-  mus: 14
-  name:  'Zipcar-45 E. University Avenue'
 - fields: 5
   img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
   lat: 40.100822
@@ -152,6 +166,13 @@
   lon: -88.250539
   mus: 9
   name:  'Hessel Park'
+- fields: 2
+  img:  'http://lh3.ggpht.com/KxQsev6i7POmNh1IadCWwWQSMdCuLIYpPwIdenSlVtzum523D1R-1kfeTbuOGTkt_jDwn4jswCu1edkumm2-'
+  lat: 40.110037
+  level: 7
+  lon: -88.23549
+  mus: 9
+  name:  'Red Lion'
 - fields: 7
   img:  'http://lh5.ggpht.com/3t7XZHqwxLZ8Lc9YomR8FInm74U2PAA-DBk8kmdxXIrcXbKa1CoBDTlgdDJeO-_yVT3qNKRnNLzbdil1eH41iA'
   lat: 40.09935
@@ -166,13 +187,6 @@
   lon: -88.243433
   mus: 7
   name:  'Christ Community Church'
-- fields: 5
-  img:  'http://lh4.ggpht.com/xS51--rXA9M_IHpXWgFQxKZU-YbD-1zk-nug6k7RyKl8rYeam_YFwMmLNWRRHHzI-rOTGyhTJQQ314WudSQJ'
-  lat: 40.117132
-  level: 7
-  lon: -88.243009
-  mus: 6
-  name:  'Fountain in the Alley'
 - fields: 4
   img:  'http://lh4.ggpht.com/vyb3xebaf6kWGvQZV2w4QYPG9Oq_jn5wQvUgg3Hp6yvCen9WsHW58eQR3VNCjHZWFzIM1qJ8oDbzRmhR3LM1'
   lat: 40.11233
@@ -180,6 +194,13 @@
   lon: -88.207706
   mus: 6
   name:  'Alfred D. Costello Dedication'
+- fields: 3
+  img:  'http://lh5.ggpht.com/f1O8bFXHTg2PTOAUVLvrqk5xx5ps9SeqhpJ1RIPtSxm0I-e7J275e2ujJp3lFQGHUBW_vS90KOsrcdLDJ84l4g'
+  lat: 40.110797
+  level: 6
+  lon: -88.225321
+  mus: 6
+  name:  'Multiphase Fluid Dynamics Plaque'
 - fields: 6
   img:  'http://lh6.ggpht.com/3o0ObAARFV_8mBVCC_QD0iLOPVzNkakXybhLnSVEuXIJfDLKMxeYj-EkWIw9NPoZIVRf5Dkrid2yf_NEQ-iE'
   lat: 40.100347
@@ -187,13 +208,6 @@
   lon: -88.249385
   mus: 6
   name:  'Travis Marmion Memorial'
-- fields: 3
-  img:  'http://lh5.ggpht.com/4eagHlnlpVbtFi_knZN73PIs2A--Ipj6SOlkQADePlfnzfOnJn-cAv0IoNNv4qR8WrbUFImUKHBknyaoAewO'
-  lat: 40.111383
-  level: 6
-  lon: -88.225675
-  mus: 5
-  name:  'Only Rain Down The Drain'
 - fields: 4
   img:  'http://lh5.ggpht.com/fDRifvVcFT_dKhPuNBN4rR9lNHL0Q6NvbMnGr2-ZdiirR2rJrBcWRi4vyM3-DYNHymUs7bWchaWRaUtBpg'
   lat: 40.098541
@@ -201,6 +215,13 @@
   lon: -88.250389
   mus: 4
   name:  'Dennis Robert Costello Memorial'
+- fields: 2
+  img:  'http://lh3.ggpht.com/x5fBw8MRogV8dm3kPO5zKNkUrQxn0dM7d1PIoASdX1_Rc8H5Duex4iZdOoIlqazCGll25TmptsWIRq1JFmj6'
+  lat: 40.112135
+  level: 6
+  lon: -88.225762
+  mus: 3
+  name:  'Computer Based Education Plaque'
 - fields: 1
   img:  'http://lh6.ggpht.com/sASzuKZleVbY8UGdZnFzs0GXiOHosiNDf-GldJNSs-w2k410HzHcqBrjuvNoklKZ0G4mwuhXmvFPOMlrFXRZ'
   lat: 40.085468
@@ -208,13 +229,6 @@
   lon: -88.251369
   mus: 3
   name:  'Mattis Park'
-- fields: 2
-  img:  'http://lh5.ggpht.com/RsXj0S9rbD_i4VFZmhxJtNtmwEeJOoYsmM8wyu90kB6srZMfUskP6iqrTY9eqFNQhhQrU50k92lCH4JEQ2w'
-  lat: 40.127358
-  level: 8
-  lon: -88.243851
-  mus: 3
-  name:  'Stanchion'
 - fields: 3
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
@@ -236,13 +250,6 @@
   lon: -88.286151
   mus: 2
   name:  'Dodds Park'
-- fields: 1
-  img:  'http://lh5.ggpht.com/dEeT4acpLu-WQFlZWd3psap5qAqqPTSVzm8Qt1QtpqtwZ0j1V9eKFcmpgN9K_x1PL4XVchuevw25rxHekz3tvQ'
-  lat: 40.111968
-  level: 6
-  lon: -88.226793
-  mus: 2
-  name:  'Bardeen Quad Structure'
 - fields: 3
   img:  'http://lh6.ggpht.com/cZVUlNaHjfsB6Lu5hnj8JjUk4lvsgOV7DFz4Nl47-RaQObW1VPRpos6hTDD6WgYrNxCh9UKfn5DFU-K7lRe9pQ'
   lat: 40.1164
@@ -260,7 +267,7 @@
 - fields: 1
   img:  'http://lh4.ggpht.com/_jAAuDi8SO5uupi8JlB3HZaFG40S15izNv_3vqOt7ro2rRHuXrfdEKfEFvRESdAjCEz3RVDpyrxJGSIrju5d'
   lat: 40.117916
-  level: 7
+  level: 6
   lon: -88.243087
   mus: 2
   name:  'Sholem Building'
