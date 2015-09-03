@@ -455,23 +455,35 @@
   lon: -88.258039
   name:  'Mini Park V'
 - ap: 5909
-  img:  'http://lh4.ggpht.com/2JNDO54Hu2KzjIaEeCIFVgD7gEa5VXNBsIemFYp6cgiTUbsSpOwLTc-HqZb__uut24jHpVnQVokRVtL00ozu'
-  lat: 40.132056
-  level: 6
-  lon: -88.292671
-  name:  'Campus Solar System - Mercury'
-- ap: 5909
   img:  'http://lh5.ggpht.com/_Tp5JJFIIlt0iHHyC_A_gnEm1sxUEKDHmQr0oby74HL0rnFZ5JrnuvOTPk6_vulsU_GJue_7RAAX2Y7I2Wxw4A'
   lat: 40.132354
   level: 6
   lon: -88.292578
   name:  'Campus Solar System - Venus'
 - ap: 5909
+  img:  'http://lh4.ggpht.com/2JNDO54Hu2KzjIaEeCIFVgD7gEa5VXNBsIemFYp6cgiTUbsSpOwLTc-HqZb__uut24jHpVnQVokRVtL00ozu'
+  lat: 40.132056
+  level: 6
+  lon: -88.292671
+  name:  'Campus Solar System - Mercury'
+- ap: 5909
   img:  'http://lh5.ggpht.com/pSVHjk6puyYdv3ztHlpJGnbkZyGsGsirMnxkDhlt8UMko4AhtTQbrzwInBCu5lK4Ttf7furE5pNW2AZh8HuSZQ'
   lat: 40.138109
   level: 7
   lon: -88.270158
   name:  'Glory Center International Church'
+- ap: 5907
+  img:  'http://lh3.ggpht.com/Vcus4uEIgRrZOTuMTz10IGc3qhU5MdpmGnEzN_IiBQrVm1M6Q26geFSgc4VIbgx12Utl9V52J1Y4g35V3MneDg'
+  lat: 40.117215
+  level: 2
+  lon: -88.245551
+  name:  'The Virginia Theater'
+- ap: 5722
+  img:  'http://lh6.ggpht.com/EpDmgl9Bi8qdvvRTrGPo2oNcd7kOJPiS2S30s9QEI-CzsTS1vWcWU1xds42YMD4AxCuLpDoKvGSeGtvjDNu-'
+  lat: 40.189224
+  level: 4
+  lon: -88.397522
+  name:  'Lions Pavilion at Barber Park'
 - ap: 5722
   img:  'http://lh3.ggpht.com/my_h4qixFMd6jwP9asxucVH5iZ3ZW1oV4DbCKeys_8MAAp1-KYNV0YFzZtZTEd9L0ZaMl1OqucHJTPdwROI'
   lat: 40.127447
@@ -622,6 +634,12 @@
   level: 6
   lon: -88.22862
   name:  'Alma Mater Plaza'
+- ap: 4785
+  img:  'http://lh3.ggpht.com/XaZzWDP5U-vtL8yEkxaNwCrU_q6qIysJDlNoqZkR09RTjO2B2mFufW-372cRUjNpbXhYkuz7AfTbsVHnxUIT'
+  lat: 40.189527
+  level: 4
+  lon: -88.396209
+  name:  'Barber Park'
 - ap: 4785
   img:  'http://lh4.ggpht.com/GcCZ7JTzkEHTZnUWfpUgibDh2Wa4nzGM9-k13AG4I2RwFiPa6exz1vCzj7Hwvf_oPwJvYJt0xoRE6GZXmCMX'
   lat: 40.132625
@@ -779,17 +797,17 @@
   lon: -88.248681
   name:  'Siti Sculpture'
 - ap: 4411
-  img:  'http://lh4.ggpht.com/maBwz4G9LJZ5aVuX_WF1Z73xSbqoFsm3l6oyrNQ16LkJMvaEbFa-amdfCpKDVDe7NzjReNu8IGnn7BAI8yef'
-  lat: 40.103534
-  level: 8
-  lon: -88.243478
-  name:  'McCollum Park'
-- ap: 4411
   img:  'http://lh5.ggpht.com/N1cFx79JwZqPlYPDW3HkNwRX8N4Auriii45qzYkAx9l-cKeK81qgZ6nuBpTBEIOyLzy4aIIhQKt2E7ZiysSjkg'
   lat: 40.10036
   level: 8
   lon: -88.250515
   name:  'Mark Foutch Pavilion'
+- ap: 4411
+  img:  'http://lh4.ggpht.com/maBwz4G9LJZ5aVuX_WF1Z73xSbqoFsm3l6oyrNQ16LkJMvaEbFa-amdfCpKDVDe7NzjReNu8IGnn7BAI8yef'
+  lat: 40.103534
+  level: 8
+  lon: -88.243478
+  name:  'McCollum Park'
 - ap: 4411
   img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
   lat: 40.100936
@@ -904,12 +922,12 @@
   level: 5
   lon: -88.202075
   name:  'Southern Passage'
-- ap: 3846
-  img:  'http://lh3.ggpht.com/Vcus4uEIgRrZOTuMTz10IGc3qhU5MdpmGnEzN_IiBQrVm1M6Q26geFSgc4VIbgx12Utl9V52J1Y4g35V3MneDg'
-  lat: 40.117215
-  level: 2
-  lon: -88.245551
-  name:  'The Virginia Theater'
+- ap: 3661
+  img:  'http://lh4.ggpht.com/h3t9nwbrudSHJ4Ll-zBceLi_U0iwpgbsVd8Wjzy_JgqMiXIqIu4CILUiFnKdayIi0htMXQ5CNowcXO7XUqI'
+  lat: 40.13401
+  level: 7
+  lon: -88.28239
+  name:  'Eddie Albert Gardens'
 - ap: 3661
   img:  'http://lh6.ggpht.com/v2m1E6vVK4ZRaRPhGli7jCsG7xZQZ7I3vV_5AogdEpPU_A1vz9WEkH0vZ-vau2IAdmydYJcXrOA6SMr7vUfT'
   lat: 40.128726
@@ -964,6 +982,12 @@
   level: 5
   lon: -88.2577
   name:  'Salvation Army Church'
+- ap: 3436
+  img:  'http://lh6.ggpht.com/ea6HxAw7m0OhhPqJJkZR9u60pR1sab_JdxaOyEltqmQd-63FFJzPY72jEnu08g9Gcjjj5cf3jyyS_M1E7OIbfg'
+  lat: 40.11616
+  level: 4
+  lon: -88.241422
+  name:  'It''s A Mistree'
 - ap: 3661
   img:  'http://lh6.ggpht.com/_rfJReDlJdrYezXwl9C7a4r7ZMCEE2RZ9dek5gQwKkC4sFtmFVfYF7S04SQXmjcksfbCvLWlOEuqOjxWnX4'
   lat: 40.12284
@@ -976,12 +1000,6 @@
   level: 4
   lon: -88.243445
   name:  'Remembering Horeb'
-- ap: 3436
-  img:  'http://lh6.ggpht.com/ea6HxAw7m0OhhPqJJkZR9u60pR1sab_JdxaOyEltqmQd-63FFJzPY72jEnu08g9Gcjjj5cf3jyyS_M1E7OIbfg'
-  lat: 40.11616
-  level: 4
-  lon: -88.241422
-  name:  'It''s A Mistree'
 - ap: 3586
   img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
   lat: 40.117107
@@ -1024,6 +1042,12 @@
   level: 7
   lon: -88.230209
   name:  'Mural on South Sixth Street'
+- ap: 3661
+  img:  'http://lh5.ggpht.com/PnX0W4nb5AYgeh3aSV1f6L1M6SXT5EDNNj-HZLlIrqeFoeMlVOlqnsY-fMyXYgvKn-Ac3RDPKf_iJCtYRmek'
+  lat: 40.194805
+  level: 5
+  lon: -88.401996
+  name:  'Leland Dollahan Memorial'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.483665
@@ -1151,17 +1175,17 @@
   lon: -88.207546
   name:  'American Legion Post 71'
 - ap: 3474
-  img:  'http://lh6.ggpht.com/o5v6x0IS1pBK2dWUvxkTn4pb6FfZnj8RLeXKDhPtC9Db_KQTVRqO-ye9oQATUZIczQsTyfBFXI1KvNsP020ZCc1BpubNrbvzVaKrsMTRErtsBNDb'
-  lat: 40.082594
-  level: 4
-  lon: -88.202694
-  name:  '"Here and There" at Meadowbrook'
-- ap: 3474
   img:  'http://lh5.ggpht.com/ogCPXpztEJz9g9SqYcx7GPN1hAW6SSyzm2kS3ozjtVr0ZHGQtyGclfFRGF_5tPmngEnHH93xWdFcDL13cD72'
   lat: 40.083312
   level: 5
   lon: -88.200103
   name:  'Meadowbrook Park Trail Map'
+- ap: 3474
+  img:  'http://lh6.ggpht.com/o5v6x0IS1pBK2dWUvxkTn4pb6FfZnj8RLeXKDhPtC9Db_KQTVRqO-ye9oQATUZIczQsTyfBFXI1KvNsP020ZCc1BpubNrbvzVaKrsMTRErtsBNDb'
+  lat: 40.082594
+  level: 4
+  lon: -88.202694
+  name:  '"Here and There" at Meadowbrook'
 - ap: 3474
   img:  'http://lh3.ggpht.com/Du0TJmMI1dnX36-rCGs6310UXd29Ay1bttUFdbpIrAA2wGtULNMGT_z3Un2VNx9iV4CxY5Tg8ZO5GpMjnmAQ'
   lat: 40.083189
@@ -1234,6 +1258,12 @@
   level: 6
   lon: -88.20463
   name:  'Swift'
+- ap: 2911
+  img:  'http://lh6.ggpht.com/5FrAAzvYmAM-WLKT5FARCFzegoqjWDbNOkEi5jS2tKCRLbTeSfKuZonDJsFpjSfnQpj_fSJSV6P-msLaTJSk'
+  lat: 40.080453
+  level: 6
+  lon: -88.205614
+  name:  'Elaine Regehr  Memorial'
 - ap: 2724
   img:  'http://lh6.ggpht.com/RR0i4QdfoY8NkTQtssdOtDLhAEaCR7e-R4ipk5NzdKe9lTGDq2nyKI_7sF2BCXrgCZAZ2zEEtIzS7vg6Pu0hzA'
   lat: 40.126458
@@ -1319,11 +1349,23 @@
   lon: -88.227358
   name:  'Arnold O. Beckman Statue'
 - ap: 2724
+  img:  'http://lh3.googleusercontent.com/pYGYCzdOo2RX46MuyUVPGExxz3vVjAYCerSG06O3aGWbr302Vmw6bhoapK9LjwYEuZZ17xDHUfLw765dCYfRUA'
+  lat: 40.080163
+  level: 6
+  lon: -88.207829
+  name:  'Windmill at Meadowbrook Park'
+- ap: 2724
   img:  'http://lh6.ggpht.com/Pvgc8EILl7jWftQ3dvPTZTa98KpCUdaq9yHkecl-ZIKR_whDQCQrKSwrdX56lqH7d7ma5TsbyH70RvcdhLSp-T_4IjJqzXAbRhLMMkEpNo9gayrY'
   lat: 40.080493
   level: 6
   lon: -88.204819
   name:  'Molecular Reflection Statue'
+- ap: 2724
+  img:  'http://lh6.ggpht.com/XqG3n3J3bCj61mM2c6ByPJaWYXv51nQkx7me8714asRsez8kx_rSW4mwH2Rm8Y6Yibx71YB6kMcbAYpGch4'
+  lat: 40.079324
+  level: 2
+  lon: -88.209124
+  name:  'Timpone Family Ornamental Tree Grove'
 - ap: 2724
   img:  'http://lh3.ggpht.com/hZulWSNApQFnDW-rnL3Fu95nMq2pO60CHDwUislaEOwUfLfJymLB8M4-WTugDbUq60zu72Cn2vLHMFFf5IxxNbp6rsbl9bAHHAlqFVlgckw_gJM'
   lat: 40.079765
@@ -1337,11 +1379,17 @@
   lon: -88.204927
   name:  '"Is It Too Late" @ Meadowbrook'
 - ap: 2724
-  img:  'http://lh6.ggpht.com/5FrAAzvYmAM-WLKT5FARCFzegoqjWDbNOkEi5jS2tKCRLbTeSfKuZonDJsFpjSfnQpj_fSJSV6P-msLaTJSk'
-  lat: 40.080453
-  level: 6
-  lon: -88.205614
-  name:  'Elaine Regehr  Memorial'
+  img:  'http://lh6.ggpht.com/UXx9XSWX3zuym6SdX68IXNFYcpnbhGuF7Zk3taO-TJ2VI_LvwmooNWjUHb8OIgKsjyto3PT7YU0D-Y7HW7c'
+  lat: 40.077643
+  level: 5
+  lon: -88.208694
+  name:  'El-Ahrairah'
+- ap: 2724
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.194685
+  level: '?'
+  lon: -88.402516
+  name:  '03e9d880973d4109bae4ce69f524fa1a.16'
 - ap: 2537
   img:  'http://lh5.ggpht.com/d_xORafhhRGmWQQYxORFs1dW_6uXGimDkw117yVoO46fU96UHRY1GWk3ln65AsNRtevh1vFgECrCK8gJD4Y'
   lat: 40.133113
@@ -1372,12 +1420,6 @@
   level: '?'
   lon: -88.676169
   name:  'a63c9ba7a3a6429fab01573c4828baa2.16'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/h3t9nwbrudSHJ4Ll-zBceLi_U0iwpgbsVd8Wjzy_JgqMiXIqIu4CILUiFnKdayIi0htMXQ5CNowcXO7XUqI'
-  lat: 40.13401
-  level: 7
-  lon: -88.28239
-  name:  'Eddie Albert Gardens'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.312242
@@ -1675,7 +1717,7 @@
 - ap: 2537
   img:  'http://lh3.ggpht.com/aHqOXq4BX_XXhSNRFJn0768z_1bjWEniMumNJ4FMy9Nv5j3AefPsZDiAGCehCguZ1HFOBMBXxRI4mOXd077e'
   lat: 40.112957
-  level: 5
+  level: 6
   lon: -88.227127
   name:  'Early Computers Plaque'
 - ap: 2537
@@ -1697,23 +1739,11 @@
   lon: -88.206243
   name:  'Lincoln Square Fountain'
 - ap: 2537
-  img:  'http://lh3.googleusercontent.com/pYGYCzdOo2RX46MuyUVPGExxz3vVjAYCerSG06O3aGWbr302Vmw6bhoapK9LjwYEuZZ17xDHUfLw765dCYfRUA'
-  lat: 40.080163
-  level: 6
-  lon: -88.207829
-  name:  'Windmill at Meadowbrook Park'
-- ap: 2537
   img:  'http://lh4.ggpht.com/UGO92BcgfjgbJAiVyAEbj2PSJCbyQ9L6Zafok9aIre_odCTZG1lhY6rDdlIdnc1TXeNT7LpehYDEg8jTz7uU'
   lat: 40.083536
   level: 6
   lon: -88.207159
   name:  'Suzanne Chamberlin Memorial'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/wQyraalmgEp26SShKVGNr0ml10w26IdIPI1i69jVu5rNlfxc2tsEd_j5gzVSRd7ArXrlx2OlBLGkvCsgh__yPEvCKd94_Ihv7T8bWqMW7ZWLRuRv'
-  lat: 40.083568
-  level: 6
-  lon: -88.189313
-  name:  'Sitting Bear at the Pines'
 - ap: 2537
   img:  'http://lh5.ggpht.com/tPscy6slTJx73zDybbj3sob_v5WpIWRVjDPJgF6LK-JCbYxii3L2eH8aYreetk31aEKPu1TlzR4zSTq0K2A9'
   lat: 40.082864
@@ -1727,6 +1757,12 @@
   lon: -88.202575
   name:  '"Position 1" @ Meadowbrook Par'
 - ap: 2537
+  img:  'http://lh5.ggpht.com/wQyraalmgEp26SShKVGNr0ml10w26IdIPI1i69jVu5rNlfxc2tsEd_j5gzVSRd7ArXrlx2OlBLGkvCsgh__yPEvCKd94_Ihv7T8bWqMW7ZWLRuRv'
+  lat: 40.083568
+  level: 6
+  lon: -88.189313
+  name:  'Sitting Bear at the Pines'
+- ap: 2537
   img:  'http://lh5.ggpht.com/K052rUVcM_dwOByJbJw0zZVn5R34oIGn9_FWFzquLCf0caed6K4EQXvJSH0lYUOvmWY8V8cF31UjqKpZXEbL'
   lat: 40.083331
   level: 5
@@ -1738,3 +1774,33 @@
   level: 5
   lon: -88.20312
   name:  'Jack and Marilyn Memorial Bench'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/Ad3EyxZM9v5cjmOiED5nr8Hf1mHtOMXrJtjU_U63YfE8lgUjAteiDYuYxND-ybx6tARUErULHJBDhgoDIblz'
+  lat: 40.077349
+  level: 4
+  lon: -88.20659
+  name:  'Bruno Schielzeth Plaque'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/RDi9dMy3Df-Cf9VWDSaCohsnVa-bidVWXN6ZXu_h9yJGuQ22MI8MFwt1iA55QHtTIq5sHU6hZWbydWYFqr5PqQ'
+  lat: 40.077419
+  level: 4
+  lon: -88.208069
+  name:  'Walker Grove'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/t9_eydZD2uZIBwEmrNcPR2FWXjyVKK06CTbNoZQ682AuvHAsWKBewlbzTqH7yqOjuPMBBkqOGwETeqt6hoU'
+  lat: 40.194618
+  level: 5
+  lon: -88.401509
+  name:  'Mahomet Area Community Center'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/jzcknzJD--LvlqQqPBMjG5p5MOsy0bVOqavN3G5IS_o5-rYQyZDSv-dIiYpewV2Odmjeq9dpcCnS9xfpo4aRxQ'
+  lat: 40.194684
+  level: 4
+  lon: -88.401764
+  name:  'Mahomet Community Pavillion'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.212485
+  level: '?'
+  lon: -88.360031
+  name:  'Church of the Cross'
