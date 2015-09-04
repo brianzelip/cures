@@ -19,6 +19,13 @@
   lon: -88.238817
   mus: 356
   name:  'Red Shield Center'
+- fields: 4
+  img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
+  lat: 40.098239
+  level: 6
+  lon: -88.25376
+  mus: 270
+  name:  'Hessel Park Christian Reformed Church'
 - fields: 5
   img:  'http://lh3.ggpht.com/2bCNiD7SWsS3uzFLMO2cZh-LpHUEMQGnfTmcNx5vJapXho2TuXke630-7zop2Sq4fuY8nWVqy4VCG23mvnIJ'
   lat: 40.104168
@@ -26,13 +33,6 @@
   lon: -88.238808
   mus: 202
   name:  'Alpha Gamma Rho'
-- fields: 4
-  img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
-  lat: 40.098239
-  level: 6
-  lon: -88.25376
-  mus: 147
-  name:  'Hessel Park Christian Reformed Church'
 - fields: 3
   img:  'http://lh5.ggpht.com/THzk1iE4eBFdHkEgW_OGBWS54BbJw46faUZQS1Ad_IROHGgmVaXrphXJuL1O8N9k4G8_jaDT4P9tmLxMNi0W'
   lat: 40.131713
@@ -152,13 +152,6 @@
   lon: -88.229625
   mus: 7
   name:  'Illini Sports Mural'
-- fields: 5
-  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
-  lat: 40.101327
-  level: 7
-  lon: -88.251412
-  mus: 7
-  name:  'Zeus Memorial'
 - fields: 1
   img:  'http://lh3.ggpht.com/KxQsev6i7POmNh1IadCWwWQSMdCuLIYpPwIdenSlVtzum523D1R-1kfeTbuOGTkt_jDwn4jswCu1edkumm2-'
   lat: 40.110037
@@ -181,9 +174,16 @@
   mus: 5
   name:  '"Here and There" at Meadowbrook'
 - fields: 4
+  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
+  lat: 40.101327
+  level: 7
+  lon: -88.251412
+  mus: 5
+  name:  'Zeus Memorial'
+- fields: 4
   img:  'http://lh5.ggpht.com/3t7XZHqwxLZ8Lc9YomR8FInm74U2PAA-DBk8kmdxXIrcXbKa1CoBDTlgdDJeO-_yVT3qNKRnNLzbdil1eH41iA'
   lat: 40.09935
-  level: 7
+  level: 8
   lon: -88.249766
   mus: 5
   name:  'Jim Bickel Honorary Plaque'
@@ -250,6 +250,13 @@
   lon: -88.270158
   mus: 2
   name:  'Glory Center International Church'
+- fields: 3
+  img:  'http://lh6.ggpht.com/btym2_WGYuFNu2SNiR8qif7GXLMOPT7XpuHE7RPOipPC9Q5lEPfImKAzf2vm9RUe2rN0u3TePq4pM0IuZiLS'
+  lat: 40.116436
+  level: 6
+  lon: -88.243459
+  mus: 2
+  name:  'Champaign City Building'
 - fields: 1
   img:  'http://lh5.ggpht.com/zdaFJ-aI4Re55DtEiADt-qd1MMBuWZqEByU3BbT-0eYI80maTD-8JB5vJgtwKPFsFk-V75s-itU-cBisa-W9'
   lat: 40.132819
@@ -267,7 +274,7 @@
 - fields: 2
   img:  'http://lh6.ggpht.com/3o0ObAARFV_8mBVCC_QD0iLOPVzNkakXybhLnSVEuXIJfDLKMxeYj-EkWIw9NPoZIVRf5Dkrid2yf_NEQ-iE'
   lat: 40.100347
-  level: 7
+  level: 8
   lon: -88.249385
   mus: 2
   name:  'Travis Marmion Memorial'
@@ -316,7 +323,7 @@
 - fields: 1
   img:  'http://lh5.ggpht.com/8zq5tMevCiipZK8N9-8SZw3vdsA2HwH0E02ormQshGxHVZrB2WPK7OPC8zt6pjLlgpXVuEYHVA_08_Q8fPw-'
   lat: 40.099647
-  level: 7
+  level: 8
   lon: -88.249648
   mus: 1
   name:  'Max Overmyer Memorial Playground'
