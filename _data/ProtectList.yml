@@ -320,6 +320,13 @@
   lon: -88.26383
   mus: 59
   name:  'Davidson Park'
+- fields: 3
+  img:  'http://lh6.ggpht.com/3SaonyLU_evy1YzQKwgtBDaqXYmjw8T23hTzjuYRMKiAuUQhggQrma2fSybhpdItiFt7zHajL_U2nIa8UcDx'
+  lat: 40.107526
+  level: 7
+  lon: -88.219106
+  mus: 59
+  name:  'Axiom Christian Church Ministry'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.185093
@@ -369,13 +376,6 @@
   lon: -88.208978
   mus: 50
   name:  'Korean New Life Church'
-- fields: 1
-  img:  'http://lh6.ggpht.com/3SaonyLU_evy1YzQKwgtBDaqXYmjw8T23hTzjuYRMKiAuUQhggQrma2fSybhpdItiFt7zHajL_U2nIa8UcDx'
-  lat: 40.107526
-  level: 7
-  lon: -88.219106
-  mus: 50
-  name:  'Axiom Christian Church Ministry'
 - fields: 1
   img:  'http://lh4.ggpht.com/cvJBfMiBGWYi9swdpVUOV9IzBnEVzKadh4Y9H7K7E-qh4smI830ZT03zcjPHck5NiBBuZQ1VWDgC4KjeXek'
   lat: 40.107347
@@ -741,12 +741,26 @@
   mus: 9
   name:  'End Caps Sculpture at ECE'
 - fields: 2
+  img:  'http://lh5.ggpht.com/_CP_-V0UvlMpMCqxcu9H9suYfz6p6k40F5AIKnuJ3QbMbi14OTTsoYC38b4Z2dg8FjHGQZJI7Vj7ClyH_eQ7'
+  lat: 40.108108
+  level: 5
+  lon: -88.219576
+  mus: 9
+  name:  'Lincoln Sitting on Bench '
+- fields: 2
   img:  'http://lh5.ggpht.com/fXiNwkXmSX8fZHrMNMMOKDwrDe3QmmqOh1_M_Ycr5y5MtYCkhec8mczY1v29LvWHTFwsN9dS5HYQnaX-NGjoAQ'
   lat: 40.118435
   level: 6
   lon: -88.285772
   mus: 9
   name:  'Hidden Street Art '
+- fields: 2
+  img:  'http://lh3.ggpht.com/4TX-OEwuLxvx2Vui24H6VdUHCHc4CmobRO9JEWLQnC3-82I4EoBRDmh9bG5_2wHrFiMb34z9Bv0SkdFGpuZ4'
+  lat: 40.108
+  level: 6
+  lon: -88.2219
+  mus: 9
+  name:  'Foellinger Great Hall'
 - fields: 2
   img:  'http://lh6.ggpht.com/sKSzA4z89tx-wuf_ZXPMUbbcby-cUt9TlsI3QLYdgPpRPqDqjOm2DKkXhZ8Zrr04Kz8XKxhvdu-xVRYyeAoonA'
   lat: 40.084468
@@ -915,6 +929,20 @@
   lon: -88.240341
   mus: 4
   name:  'Buffalo Billiam'
+- fields: 1
+  img:  'http://lh3.ggpht.com/UWeM-kXUlZAe2JGWDlEh2q1Orpp53g_qVfSvCepKpOy5gVdmDkxbQ5mdsO8xAvDa7K8Iq1lg-gDoQCzy8sck'
+  lat: 40.109127
+  level: 5
+  lon: -88.221387
+  mus: 3
+  name:  'Morton Weir Memorial '
+- fields: 1
+  img:  'http://lh6.ggpht.com/tTU-Y5FRAb4F92hceoxPTuE4REQk2A9674rjMKsbcjBvAo4QT0vO_hstMwuRjymG8xwGglkae1Jcxli35886tHdHOqWzAvkKEzTz5eIiZIZV76hTZQ'
+  lat: 40.108646
+  level: 5
+  lon: -88.219838
+  mus: 3
+  name:  'Hallene Gateway'
 - fields: 2
   img:  'http://lh5.ggpht.com/wKYFUitSg7xVcF8jazJLFQH2_SWBC3dL7XDv0bR2l0QeNg-_I0tZ9hxB4Bid2mrta8VMy7tHn7fzFyxzaGlu66CnbZdBethBjUm8oTUecqXh2P0P'
   lat: 40.114327
@@ -943,6 +971,13 @@
   lon: -88.22582
   mus: 3
   name:  'Learning And Labor Plaque'
+- fields: 1
+  img:  'http://lh4.ggpht.com/2yAZ6-P6I71p-12hssm1IxBNtLfIhmKLPomEg7xtttoqIwFEqF6Xl9qqolPamswYL-X3elu01rQhhVFZLF7Umw'
+  lat: 40.107552
+  level: 6
+  lon: -88.220685
+  mus: 3
+  name:  'University-Illinois Spurlock Museum'
 - fields: 1
   img:  'http://lh6.ggpht.com/3ZEd6u4KNuEeG2zjptZ4-RaBVbF8mJLhDD3V44QD_XbTEacqI_N_st19kGQ952krXcu3nq_Keci-4AtrnETR'
   lat: 40.116776
@@ -995,7 +1030,7 @@
 - fields: 2
   img:  'http://lh3.googleusercontent.com/vw4Js8jf11Ok889K1stO5ujNjIO9Ah9DEbsg1xBTrVbaeyBetcG75B8YS8CkQA0KVC8NA5Z02n220SI1UzdB'
   lat: 40.10985
-  level: 6
+  level: 5
   lon: -88.227236
   mus: 3
   name:  'Illini Union'
@@ -1258,3 +1293,24 @@
   lon: -88.283855
   mus: 1
   name:  'Lisa Dodds Memorial'
+- fields: 1
+  img:  'http://lh3.ggpht.com/-HtfCPsl6TBR07OSYeO879iOvq7SdMYFxEnoERPL5FVgGJEwLdiysHzEBNfVhjVLVD6bohjNTro7bbSOwgvj'
+  lat: 40.094638
+  level: 6
+  lon: -88.241532
+  mus: 1
+  name:  'National Petascale Computing Facility'
+- fields: 1
+  img:  'http://lh3.ggpht.com/vwkjqzBAGzhh9MKrOhJM4_fcgyf640zFaFWImj5Z8f0F81aTEM5JBT9qJCf35zG7yz6kVX_mZsXa6Ici-MIw'
+  lat: 40.09428
+  level: 4
+  lon: -88.238318
+  mus: 1
+  name:  'Hotel Structure'
+- fields: 1
+  img:  'http://lh3.ggpht.com/tJEdUFuZjuvDQMKmF82moyYXhNNpP9vo91McBHAmagbT79dxAHYnQAb4avZfpWPOqcQVi3pCqBL7cvETGYo'
+  lat: 40.094333
+  level: 4
+  lon: -88.238753
+  mus: 1
+  name:  'Research Park at the University of Illinois'
