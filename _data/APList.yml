@@ -821,12 +821,6 @@
   lon: -88.245551
   name:  'The Virginia Theater'
 - ap: 3661
-  img:  'http://lh5.ggpht.com/hjAc940kWyt9QT4G_BJyJKaTef3jL_Njnm8ubUtQD7u6qVsD9_7TiJbgZpKeqAv60kNw8FYspVxkn-Bt1cxYBw'
-  lat: 40.109959
-  level: 6
-  lon: -88.24318
-  name:  'Mini Park II Sculpture'
-- ap: 3661
   img:  'http://lh6.ggpht.com/_rfJReDlJdrYezXwl9C7a4r7ZMCEE2RZ9dek5gQwKkC4sFtmFVfYF7S04SQXmjcksfbCvLWlOEuqOjxWnX4'
   lat: 40.12284
   level: 7
@@ -839,9 +833,15 @@
   lon: -88.249887
   name:  'Silver Cloud Oakley Washburn, Jr.'
 - ap: 3661
+  img:  'http://lh5.ggpht.com/hjAc940kWyt9QT4G_BJyJKaTef3jL_Njnm8ubUtQD7u6qVsD9_7TiJbgZpKeqAv60kNw8FYspVxkn-Bt1cxYBw'
+  lat: 40.109959
+  level: 6
+  lon: -88.24318
+  name:  'Mini Park II Sculpture'
+- ap: 3361
   img:  'http://lh3.ggpht.com/my_h4qixFMd6jwP9asxucVH5iZ3ZW1oV4DbCKeys_8MAAp1-KYNV0YFzZtZTEd9L0ZaMl1OqucHJTPdwROI'
   lat: 40.127447
-  level: 6
+  level: 3
   lon: -88.244069
   name:  'Hazel Park Playground Dedication Plaque'
 - ap: 3661
@@ -1013,6 +1013,12 @@
   lon: -88.206467
   name:  'A Forgotten Fountain'
 - ap: 3474
+  img:  'http://lh4.ggpht.com/DvS6go5Krx0CocEL5s29eIW_bm_5HDMdSrRgfi7i3uLEXMkzxPLKWMX24OvVm9geOAeqRlmoqv4HQWwH-d_vfg'
+  lat: 40.11075
+  level: 5
+  lon: -88.198278
+  name:  'Urbana Baha''i Center'
+- ap: 3474
   img:  'http://lh6.ggpht.com/yyeYUYh4CQUjDkChdMYxhBGtyVNFeOxie-Qo2rFmwnp6dxmIx6wYlfyU88vIxtwULKprz84mi2fmqu2vMOo'
   lat: 40.114764
   level: 4
@@ -1024,12 +1030,6 @@
   level: 5
   lon: -88.207887
   name:  'Broadway Ave Mural'
-- ap: 3474
-  img:  'http://lh4.ggpht.com/DvS6go5Krx0CocEL5s29eIW_bm_5HDMdSrRgfi7i3uLEXMkzxPLKWMX24OvVm9geOAeqRlmoqv4HQWwH-d_vfg'
-  lat: 40.11075
-  level: 5
-  lon: -88.198278
-  name:  'Urbana Baha''i Center'
 - ap: 3474
   img:  'http://lh6.ggpht.com/jEub4RTtKqfEcjYNQDMtrj2tUL_R6e1kqZRi-xU7lZ00Gkn309unaXkzNzft6a67crWBUzDCb21a5HTTuCc'
   lat: 40.113065
@@ -1048,12 +1048,6 @@
   level: 7
   lon: -88.248271
   name:  'Still Waters'
-- ap: 2911
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.152792
-  level: '?'
-  lon: -88.253532
-  name:  'Toalson Park'
 - ap: 2911
   img:  'http://lh4.ggpht.com/yi9OPnLGsLTvtOMNuOUfed6edO9tB6h0QmSHJaKKaiMyEXC8Aj2hz9hIvgh8C2DY76mVgNHw4S0gsYpkPpkt'
   lat: 40.148692
@@ -1109,12 +1103,6 @@
   lon: -88.675349
   name:  'Adams Leaning Wheel Grader'
 - ap: 2724
-  img:  'http://lh6.ggpht.com/RR0i4QdfoY8NkTQtssdOtDLhAEaCR7e-R4ipk5NzdKe9lTGDq2nyKI_7sF2BCXrgCZAZ2zEEtIzS7vg6Pu0hzA'
-  lat: 40.126458
-  level: 5
-  lon: -88.218544
-  name:  'The Vineyard Church'
-- ap: 2724
   img:  'http://lh4.ggpht.com/N6E1iW7R1Dt6SCyd1q4Ym_HeSnFZ2mHHlXE-jkX1_YLy9BgSRPcDZK8ri2PWx6-sV1IEsClFGgMgpdI2Bgg'
   lat: 40.069187
   level: 5
@@ -1144,6 +1132,12 @@
   level: 7
   lon: -88.249351
   name:  'A Lady Waiting for the Bus'
+- ap: 2724
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.152792
+  level: '?'
+  lon: -88.253532
+  name:  'Toalson Park'
 - ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.152342
@@ -1271,12 +1265,6 @@
   lon: -88.287936
   name:  'Flower Island'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/fALAYK0M4imvlOA0vpJd8uOXpb0SvXft0NJmoF1vWieQ3g-Ps3CF7wgfjFiy1v81v26SbN5Rquo5697dHPPT'
-  lat: 40.083666
-  level: 6
-  lon: -88.296083
-  name:  'Village at the Crossing Tower'
-- ap: 2537
   img:  'http://lh6.ggpht.com/nSen6pmNOWw2QFmzlf67_mVA2uPP3zLgamxJ9aa-xPKG8QSq77ECt0GKvNGs7q0WbZA-oQGcbqRsU57Ns5Lj'
   lat: 40.068397
   level: 5
@@ -1288,6 +1276,12 @@
   level: 5
   lon: -88.297963
   name:  'Mount Sinai Temple'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/fALAYK0M4imvlOA0vpJd8uOXpb0SvXft0NJmoF1vWieQ3g-Ps3CF7wgfjFiy1v81v26SbN5Rquo5697dHPPT'
+  lat: 40.083666
+  level: 6
+  lon: -88.296083
+  name:  'Village at the Crossing Tower'
 - ap: 2537
   img:  'http://lh4.ggpht.com/iq0AIMD1D6PFcLIIBflZ30Y-ohyBTSRFX0ET_F-b30QnrujDMBdye1grsSc7lKQxq9d_GdD8gqvQAK2c36U'
   lat: 40.08146
@@ -1510,12 +1504,6 @@
   level: 6
   lon: -88.257672
   name:  'Friendship Crossing'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/Hh8nntyxb361BGSJYy1ZxuMtkf5y1GXg3rEVqwI-1uwEH4MdL3b4JBnHLsxsMX1rCbbIWWVPDeDEsK6nvnyBGQ'
-  lat: 40.124947
-  level: 5
-  lon: -88.210509
-  name:  'Trail Marker in Busey Woods'
 - ap: 2537
   img:  'http://lh6.ggpht.com/3F-W_tWjI9to9yO9QFciZhrR-g69gAfObkgheBu6KlCyrjO3-yU1e6v7ziRZ5toBoJYzhhsInOPwyvIAQcQrDg'
   lat: 40.103603
