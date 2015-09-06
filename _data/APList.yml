@@ -533,23 +533,11 @@
   lon: -88.226507
   name:  'Mt. Hope Mausoleum'
 - ap: 5159
-  img:  'http://lh4.ggpht.com/mnyMwxXghZOmxdJw2eJk5U9A5sfO_QLi0eKc2knF3RS3bJhiIa0N7N75KIzjEehKD3ChMFgaOHVRltiOVAw'
-  lat: 40.125074
-  level: 5
-  lon: -88.251776
-  name:  'Spalding Recreation Center'
-- ap: 5159
   img:  'http://lh5.ggpht.com/dgQfoxxVeHT5ODqLiUYHV45qvkC_BMS0kIFRqvHvE2GO0TduZ0-XzhW8RE80LtPDK0Ay5xwA6PtjM7G3C9U8'
   lat: 40.108947
   level: 8
   lon: -88.232251
   name:  'McKinley Church'
-- ap: 4972
-  img:  'http://lh5.ggpht.com/NHSnrnnguNnzphuELCzs-TBkUrtUVtADf8g8hjx9Ws5Sy1xGl7dBrcU96Fy5liURNnxd7hWZgvAkQOpxS3zo'
-  lat: 40.08288
-  level: 5
-  lon: -88.31213
-  name:  'Joel Stephen Memorial Little League Field'
 - ap: 4972
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.152792
@@ -575,6 +563,12 @@
   lon: -88.24558
   name:  'The Gregory'
 - ap: 4972
+  img:  'http://lh4.ggpht.com/mnyMwxXghZOmxdJw2eJk5U9A5sfO_QLi0eKc2knF3RS3bJhiIa0N7N75KIzjEehKD3ChMFgaOHVRltiOVAw'
+  lat: 40.125074
+  level: 5
+  lon: -88.251776
+  name:  'Spalding Recreation Center'
+- ap: 4972
   img:  'http://lh3.ggpht.com/Jjm7ZUINFebdUQM0ZQth9oP9Uyw8xFVkOvgyZHQPHJ1pHk0-WPWHpdBULljg6f9GLhbmItzSwpavqyrf1zXwIQ'
   lat: 40.087721
   level: 7
@@ -592,6 +586,12 @@
   level: 6
   lon: -88.227096
   name:  'Chi Epsilon Civil Engineering'
+- ap: 4785
+  img:  'http://lh5.ggpht.com/NHSnrnnguNnzphuELCzs-TBkUrtUVtADf8g8hjx9Ws5Sy1xGl7dBrcU96Fy5liURNnxd7hWZgvAkQOpxS3zo'
+  lat: 40.08288
+  level: 5
+  lon: -88.31213
+  name:  'Joel Stephen Memorial Little League Field'
 - ap: 4785
   img:  'http://lh6.ggpht.com/WA_L9RXB_ZwCyxpgQ7Lyjp1-4xTl5O-BQohOBQcoEMnP7-wKp--MGUdnY_DPuCGZ78-x0LtEWc8FT2n9QMPS'
   lat: 40.148879
@@ -1284,16 +1284,16 @@
   name:  'Seymour United Methodist Church'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.160008
-  level: '?'
-  lon: -89.387825
-  name:  '7bb0a855a0ad476da15c867fae0f4350.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.085959
   level: '?'
   lon: -88.508164
   name:  'da266d78e0ae434da37bca94fbf69ab6.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.160008
+  level: '?'
+  lon: -89.387825
+  name:  '7bb0a855a0ad476da15c867fae0f4350.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.457257
@@ -1325,12 +1325,6 @@
   lon: -88.676169
   name:  'a63c9ba7a3a6429fab01573c4828baa2.16'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/gduQJyd_w8B-OfSBc3f2WHXTDEQS6LrCw1u2Q4UN45Hy4u63pJbPd7WDChrtwQg-YY3ghtec_Gy78xppTAfo3w'
-  lat: 40.111153
-  level: 6
-  lon: -88.28617
-  name:  'O''Malley''s Alley '
-- ap: 2537
   img:  'http://lh4.ggpht.com/MnvRIwYBCscNCKIRmPyogxsZdt_OF6dC0mIsI1_2fddZFlc88Sg9wNyU9Ne9q-cY0RUa5VFafv4C5f5-pxVpWg'
   lat: 40.069376
   level: 5
@@ -1343,6 +1337,12 @@
   lon: -88.271694
   name:  'Champaign Church of Christ'
 - ap: 2537
+  img:  'http://lh4.ggpht.com/gduQJyd_w8B-OfSBc3f2WHXTDEQS6LrCw1u2Q4UN45Hy4u63pJbPd7WDChrtwQg-YY3ghtec_Gy78xppTAfo3w'
+  lat: 40.111153
+  level: 6
+  lon: -88.28617
+  name:  'O''Malley''s Alley '
+- ap: 2537
   img:  'http://lh5.ggpht.com/_eMBd3V1rEFztJvtBkssKVH7eM-jiU3l9VJJ-kj6SxGZMx_7Qo6G4yjfsws8T1FhIEFwk7yvoicm8XTVERh4'
   lat: 40.084405
   level: 5
@@ -1354,12 +1354,6 @@
   level: 5
   lon: -88.310745
   name:  'Champaign Fire Department'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/iq0AIMD1D6PFcLIIBflZ30Y-ohyBTSRFX0ET_F-b30QnrujDMBdye1grsSc7lKQxq9d_GdD8gqvQAK2c36U'
-  lat: 40.08146
-  level: 7
-  lon: -88.310362
-  name:  'Stephens Family YMCA'
 - ap: 2537
   img:  'http://lh6.ggpht.com/TtWbekdbsTWA9hOrt2dc1ID1DnRuGoRbAle9mL9aZvc_aJygqJ9jAMjqrWtVr87WnELkFrSVIpO_4VVZQ67P'
   lat: 40.113103
@@ -1426,12 +1420,6 @@
   level: 6
   lon: -88.245046
   name:  'Eddie Thorpe''s Memorial Rock And Tree'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/HW1b8GEkWmutU8Hsv_zX2TXNh-iirGoXN5HmxCJd5nc3o1VeCkahkCZ_vbSxOB_ffrBlWW3M-LLMSo97tg-c'
-  lat: 40.123709
-  level: 5
-  lon: -88.250518
-  name:  'Spalding Skate Park'
 - ap: 2312
   img:  'http://lh3.ggpht.com/8Nxm7sw1mIfTkxKb-GsE_e5DuPgup8SmX1SJRLGZmvopdsQsPx8E9eDzuISKXBjwveamwn6H26EmIJZzVwkr'
   lat: 40.117449
