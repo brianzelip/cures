@@ -83,6 +83,12 @@
   lon: -88.251747
   name:  'Tennis Anyone'
 - ap: 8909
+  img:  'http://lh6.ggpht.com/YVbqGVTjJuDMDdj71CP2mWvnUIdgO25PgoDdJwEGnEE_M9I1aDgKyjSr9JOZVU6UQTZQtfUo9RAWyz92n3jtCQ'
+  lat: 40.098475
+  level: 8
+  lon: -88.249208
+  name:  'In Fond Memory of William Moore Jr'
+- ap: 8909
   img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
   lat: 40.099852
   level: 8
@@ -100,24 +106,18 @@
   level: 8
   lon: -88.249766
   name:  'Jim Bickel Honorary Plaque'
-- ap: 8909
-  img:  'http://lh6.ggpht.com/YVbqGVTjJuDMDdj71CP2mWvnUIdgO25PgoDdJwEGnEE_M9I1aDgKyjSr9JOZVU6UQTZQtfUo9RAWyz92n3jtCQ'
-  lat: 40.098475
-  level: 8
-  lon: -88.249208
-  name:  'In Fond Memory of William Moore Jr'
-- ap: 8722
-  img:  'http://lh4.ggpht.com/4LxsGZZMk3DnpJXUvqzrL54CHSP5TDXjUnDJyHmCCTtCJIjGEI7kxT9g4uxfSPh0X6yGLgQo1jfqbu7B8VEr'
-  lat: 40.099084
-  level: 8
-  lon: -88.251826
-  name:  'Irina P. Stewart Memorial Plaque'
 - ap: 8722
   img:  'http://lh5.ggpht.com/yEiiHAgbSW12_Cpdb0_ksVrjWt6yb6BFtEwm3wjzPJN68wl0QhkI_oaTXxM__Dud8x9jZitaHmpZHZNxDHrD'
   lat: 40.099056
   level: 8
   lon: -88.249136
   name:  '"Cricket" and Bob Barger Memorial'
+- ap: 8722
+  img:  'http://lh4.ggpht.com/4LxsGZZMk3DnpJXUvqzrL54CHSP5TDXjUnDJyHmCCTtCJIjGEI7kxT9g4uxfSPh0X6yGLgQo1jfqbu7B8VEr'
+  lat: 40.099084
+  level: 8
+  lon: -88.251826
+  name:  'Irina P. Stewart Memorial Plaque'
 - ap: 8157
   img:  'http://lh5.ggpht.com/vYay8RKsCV_BP_MkeFm7se0VZoYthm-1pThiATAADleBlTsPowobgZyUoU7DUto6p5cpg9adpCcTgNR6iop0Jw'
   lat: 40.120121
@@ -149,6 +149,12 @@
   lon: -88.249385
   name:  'Travis Marmion Memorial'
 - ap: 7972
+  img:  'http://lh3.ggpht.com/KzADjdPRAvwycpfTBdAeDwFJ0AxZJG2dPmbPWkXq55QLV9PfpJ_-DsXWIlVgsISUApRdJ5cAxRWx0k0W2hI'
+  lat: 40.09979
+  level: 8
+  lon: -88.249107
+  name:  'Jerome Cook Memorial'
+- ap: 7972
   img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
   lat: 40.098959
   level: 8
@@ -178,12 +184,6 @@
   level: 8
   lon: -88.249061
   name:  'Randy William Auteberry Memorial'
-- ap: 7972
-  img:  'http://lh3.ggpht.com/KzADjdPRAvwycpfTBdAeDwFJ0AxZJG2dPmbPWkXq55QLV9PfpJ_-DsXWIlVgsISUApRdJ5cAxRWx0k0W2hI'
-  lat: 40.09979
-  level: 8
-  lon: -88.249107
-  name:  'Jerome Cook Memorial'
 - ap: 7970
   img:  'http://lh6.ggpht.com/btym2_WGYuFNu2SNiR8qif7GXLMOPT7XpuHE7RPOipPC9Q5lEPfImKAzf2vm9RUe2rN0u3TePq4pM0IuZiLS'
   lat: 40.116436
@@ -275,17 +275,17 @@
   lon: -88.20312
   name:  'Jack and Marilyn Memorial Bench'
 - ap: 6285
-  img:  'http://lh5.ggpht.com/wX6-mbTE7nT00T6ildapKbI5ZrnhPIt4l91DhMseyo3GYFrgQIuqbjh8ntZY6NxGZ-qa6fKWlyoBOPdIdNIt'
-  lat: 40.114653
-  level: 7
-  lon: -88.243729
-  name:  'The Phoenix'
-- ap: 6285
   img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
   lat: 40.116553
   level: 5
   lon: -88.242268
   name:  'Esquire Lounge'
+- ap: 6285
+  img:  'http://lh5.ggpht.com/wX6-mbTE7nT00T6ildapKbI5ZrnhPIt4l91DhMseyo3GYFrgQIuqbjh8ntZY6NxGZ-qa6fKWlyoBOPdIdNIt'
+  lat: 40.114653
+  level: 7
+  lon: -88.243729
+  name:  'The Phoenix'
 - ap: 6285
   img:  'http://lh5.ggpht.com/K052rUVcM_dwOByJbJw0zZVn5R34oIGn9_FWFzquLCf0caed6K4EQXvJSH0lYUOvmWY8V8cF31UjqKpZXEbL'
   lat: 40.083331
@@ -347,17 +347,17 @@
   lon: -88.230145
   name:  'University Lutheran Church'
 - ap: 5909
-  img:  'http://lh3.ggpht.com/hZulWSNApQFnDW-rnL3Fu95nMq2pO60CHDwUislaEOwUfLfJymLB8M4-WTugDbUq60zu72Cn2vLHMFFf5IxxNbp6rsbl9bAHHAlqFVlgckw_gJM'
-  lat: 40.079765
-  level: 6
-  lon: -88.206953
-  name:  'Connectors'
-- ap: 5909
   img:  'http://lh6.ggpht.com/Pvgc8EILl7jWftQ3dvPTZTa98KpCUdaq9yHkecl-ZIKR_whDQCQrKSwrdX56lqH7d7ma5TsbyH70RvcdhLSp-T_4IjJqzXAbRhLMMkEpNo9gayrY'
   lat: 40.080493
   level: 6
   lon: -88.204819
   name:  'Molecular Reflection Statue'
+- ap: 5909
+  img:  'http://lh3.ggpht.com/hZulWSNApQFnDW-rnL3Fu95nMq2pO60CHDwUislaEOwUfLfJymLB8M4-WTugDbUq60zu72Cn2vLHMFFf5IxxNbp6rsbl9bAHHAlqFVlgckw_gJM'
+  lat: 40.079765
+  level: 6
+  lon: -88.206953
+  name:  'Connectors'
 - ap: 5535
   img: http://i.imgur.com/5j1qaiT.png
   lat: 39.550414
@@ -587,12 +587,6 @@
   lon: -88.251157
   name:  'Tyler Van Atkins Memorial'
 - ap: 4411
-  img:  'http://lh5.ggpht.com/N1cFx79JwZqPlYPDW3HkNwRX8N4Auriii45qzYkAx9l-cKeK81qgZ6nuBpTBEIOyLzy4aIIhQKt2E7ZiysSjkg'
-  lat: 40.10036
-  level: 8
-  lon: -88.250515
-  name:  'Mark Foutch Pavilion'
-- ap: 4411
   img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
   lat: 40.100691
   level: 8
@@ -604,6 +598,12 @@
   level: 8
   lon: -88.248681
   name:  'Siti Sculpture'
+- ap: 4411
+  img:  'http://lh5.ggpht.com/N1cFx79JwZqPlYPDW3HkNwRX8N4Auriii45qzYkAx9l-cKeK81qgZ6nuBpTBEIOyLzy4aIIhQKt2E7ZiysSjkg'
+  lat: 40.10036
+  level: 8
+  lon: -88.250515
+  name:  'Mark Foutch Pavilion'
 - ap: 4411
   img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
   lat: 40.100936
@@ -622,18 +622,18 @@
   level: 5
   lon: -88.248271
   name:  'Still Waters'
-- ap: 4411
-  img:  'http://lh6.ggpht.com/LJB7sU5C-p9Dsf4gZ7RkqrEbfZnlh-rR33SARIHJOOUld5Lhb6_CH4gN1rtHGaLP4sPAsl8gN6mFkpl7ZQ5_'
-  lat: 40.081475
-  level: 6
-  lon: -88.20239
-  name:  'Prairie Buoy'
 - ap: 4336
   img:  'http://lh6.ggpht.com/gKoAVfAXPNcc0cL_CNbiCdHIsPyUbMbJmy6o9XlvmyVEcG71RrD0Zj1NmWw9sbPBd957NYMtr7u-eLKY8jGQHw'
   lat: 40.083528
   level: 5
   lon: -88.202233
   name:  'Fathers & Sons'
+- ap: 4411
+  img:  'http://lh6.ggpht.com/LJB7sU5C-p9Dsf4gZ7RkqrEbfZnlh-rR33SARIHJOOUld5Lhb6_CH4gN1rtHGaLP4sPAsl8gN6mFkpl7ZQ5_'
+  lat: 40.081475
+  level: 6
+  lon: -88.20239
+  name:  'Prairie Buoy'
 - ap: 4411
   img:  'http://lh4.ggpht.com/Ad3EyxZM9v5cjmOiED5nr8Hf1mHtOMXrJtjU_U63YfE8lgUjAteiDYuYxND-ybx6tARUErULHJBDhgoDIblz'
   lat: 40.077349
@@ -1122,16 +1122,10 @@
   name:  'Diamonds Are Forever Statue'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.482592
+  lat: 41.686672
   level: '?'
-  lon: -88.913556
-  name:  '94d4c2ef89bb40a99619bf872b2a04e5.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.273121
-  level: '?'
-  lon: -88.676169
-  name:  'a63c9ba7a3a6429fab01573c4828baa2.16'
+  lon: -88.983653
+  name:  'a03610d18a2f4c66a26f0e15b20c7e41.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.879885
@@ -1152,10 +1146,16 @@
   name:  '7bb0a855a0ad476da15c867fae0f4350.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.686672
+  lat: 40.482592
   level: '?'
-  lon: -88.983653
-  name:  'a03610d18a2f4c66a26f0e15b20c7e41.16'
+  lon: -88.913556
+  name:  '94d4c2ef89bb40a99619bf872b2a04e5.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.273121
+  level: '?'
+  lon: -88.676169
+  name:  'a63c9ba7a3a6429fab01573c4828baa2.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.900504
