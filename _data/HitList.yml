@@ -13,13 +13,6 @@
   mus: 784
   name:  'Historic Interpretive Map of Champaign'
 - fields: 5
-  img:  'http://lh3.ggpht.com/psgrRGIt786cUSq8EV7SBSDsS-aptrUKjaCXWv864H7OaJL2K71qJpxU9Iw-acwFMi52ZN2qpEmicGmlmhJq'
-  lat: 40.121061
-  level: 6
-  lon: -88.250227
-  mus: 497
-  name:  'Curtis F. Columbia Legacy Plaque'
-- fields: 5
   img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
   lat: 40.098239
   level: 7
@@ -34,12 +27,12 @@
   mus: 102
   name:  'National Petascale Computing Facility'
 - fields: 2
-  img:  'http://lh5.ggpht.com/RsXj0S9rbD_i4VFZmhxJtNtmwEeJOoYsmM8wyu90kB6srZMfUskP6iqrTY9eqFNQhhQrU50k92lCH4JEQ2w'
-  lat: 40.127358
-  level: 8
-  lon: -88.243851
-  mus: 101
-  name:  'Stanchion'
+  img:  'http://lh3.ggpht.com/psgrRGIt786cUSq8EV7SBSDsS-aptrUKjaCXWv864H7OaJL2K71qJpxU9Iw-acwFMi52ZN2qpEmicGmlmhJq'
+  lat: 40.121061
+  level: 6
+  lon: -88.250227
+  mus: 97
+  name:  'Curtis F. Columbia Legacy Plaque'
 - fields: 2
   img:  'http://lh6.ggpht.com/vqiOPPON1phvYOdOmbFDrxhN6cbYjeLHVgH42EV0XsJjVNd81EM1DKY_aRVM-rwJ9Il5tLc3QsL_gOS4qAkF'
   lat: 40.139891
@@ -47,13 +40,13 @@
   lon: -88.257367
   mus: 57
   name:  'Market View Baby Fountain'
-- fields: 3
-  img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
-  lat: 40.106921
+- fields: 8
+  img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
+  lat: 40.107751
   level: 8
-  lon: -88.230145
-  mus: 30
-  name:  'University Lutheran Church'
+  lon: -88.231532
+  mus: 47
+  name:  'Graduate School of Library and Information Science'
 - fields: 6
   img:  'http://lh4.ggpht.com/Gyz7BDhWdUinBQfD8duByX5-aBgPmB9oSesH20dH8uGJnTiaIHkeRJARtH6YQUUD5A5X2IjPTlT989AfutNc'
   lat: 40.092773
@@ -82,6 +75,13 @@
   lon: -88.250683
   mus: 15
   name:  'Brian Clark Memorial Plaque'
+- fields: 1
+  img:  'http://lh5.ggpht.com/Tn5ARN-X6VTc2q6atZ2WYq3c2g3gbSGXu6_vXf1MDwHfLpdTtnQ-CilBAVGvL6R-SHhq3fJ4WZI-yiJKmIId'
+  lat: 40.110398
+  level: 7
+  lon: -88.235143
+  mus: 15
+  name:  'US Post Office, E Green St, Champaign'
 - fields: 9
   img:  'http://lh3.ggpht.com/lzCSS0_tjwUV7JQ2fgLI0e05IrzPxlVUs-6aEPOwUv67IanQJSTi71gkw0SGm8asmoE_r3Xoh048Fd9xRpE'
   lat: 40.099169
@@ -96,6 +96,13 @@
   lon: -88.248167
   mus: 14
   name:  'Healthcare Not War Mural'
+- fields: 1
+  img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
+  lat: 40.106706
+  level: 7
+  lon: -88.232116
+  mus: 14
+  name:  'Illini Tower'
 - fields: 4
   img:  'http://lh6.ggpht.com/UXx9XSWX3zuym6SdX68IXNFYcpnbhGuF7Zk3taO-TJ2VI_LvwmooNWjUHb8OIgKsjyto3PT7YU0D-Y7HW7c'
   lat: 40.077643
@@ -152,13 +159,6 @@
   lon: -88.249766
   mus: 8
   name:  'Jim Bickel Honorary Plaque'
-- fields: 3
-  img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
-  lat: 40.107751
-  level: 8
-  lon: -88.231532
-  mus: 8
-  name:  'Graduate School of Library and Information Science'
 - fields: 7
   img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
   lat: 40.098246
@@ -285,6 +285,13 @@
   lon: -88.249275
   mus: 2
   name:  'Narayan & Shanti Achanta Memorial Plaque'
+- fields: 1
+  img:  'http://lh5.ggpht.com/RsXj0S9rbD_i4VFZmhxJtNtmwEeJOoYsmM8wyu90kB6srZMfUskP6iqrTY9eqFNQhhQrU50k92lCH4JEQ2w'
+  lat: 40.127358
+  level: 8
+  lon: -88.243851
+  mus: 2
+  name:  'Stanchion'
 - fields: 1
   img:  'http://lh6.ggpht.com/PrKWQe_StHjP7QQeyxlKiMSxAelIQlmbHzFMejewhMdVT0J-uvMpZCUGvQy_dZfrqfDnkmrIZYWkZORSGrnp'
   lat: 40.088449
