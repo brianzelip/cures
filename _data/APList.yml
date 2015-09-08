@@ -682,18 +682,18 @@
   level: 6
   lon: -88.208208
   name:  'Crane Alley'
-- ap: 4261
-  img:  'http://lh6.ggpht.com/gKoAVfAXPNcc0cL_CNbiCdHIsPyUbMbJmy6o9XlvmyVEcG71RrD0Zj1NmWw9sbPBd957NYMtr7u-eLKY8jGQHw'
-  lat: 40.083528
-  level: 5
-  lon: -88.202233
-  name:  'Fathers & Sons'
 - ap: 4411
   img:  'http://lh6.ggpht.com/LJB7sU5C-p9Dsf4gZ7RkqrEbfZnlh-rR33SARIHJOOUld5Lhb6_CH4gN1rtHGaLP4sPAsl8gN6mFkpl7ZQ5_'
   lat: 40.081475
   level: 6
   lon: -88.20239
   name:  'Prairie Buoy'
+- ap: 4261
+  img:  'http://lh6.ggpht.com/gKoAVfAXPNcc0cL_CNbiCdHIsPyUbMbJmy6o9XlvmyVEcG71RrD0Zj1NmWw9sbPBd957NYMtr7u-eLKY8jGQHw'
+  lat: 40.083528
+  level: 5
+  lon: -88.202233
+  name:  'Fathers & Sons'
 - ap: 4411
   img:  'http://lh4.ggpht.com/Ad3EyxZM9v5cjmOiED5nr8Hf1mHtOMXrJtjU_U63YfE8lgUjAteiDYuYxND-ybx6tARUErULHJBDhgoDIblz'
   lat: 40.077349
@@ -712,6 +712,12 @@
   level: 6
   lon: -88.210407
   name:  'Leal Park'
+- ap: 4222
+  img:  'http://lh4.ggpht.com/T-65fHAmnGmht8xdcXCF8weDy3uDecS4uOASIFtQBn7v84jrUpS3m9_rbJ1MNz5Syzjr8g_zO6YPklMYjlZQ'
+  lat: 40.13695
+  level: 7
+  lon: -88.259966
+  name:  'Goodwill Donation Center'
 - ap: 4222
   img:  'http://lh4.ggpht.com/-2q6p_jcZ5xVswdwpO98pGsMWXnqxUlsBmhWA2F6xs0MbwejV7FTN7-kHSb4nlsfg3uUsrvdDmUM5v1lQ-Ia'
   lat: 40.086252
@@ -838,16 +844,10 @@
   level: 7
   lon: -88.288788
   name:  'Student Union Building'
-- ap: 3661
-  img:  'http://lh4.ggpht.com/T-65fHAmnGmht8xdcXCF8weDy3uDecS4uOASIFtQBn7v84jrUpS3m9_rbJ1MNz5Syzjr8g_zO6YPklMYjlZQ'
-  lat: 40.13695
-  level: 7
-  lon: -88.259966
-  name:  'Goodwill Donation Center'
-- ap: 3661
+- ap: 3511
   img:  'http://lh6.ggpht.com/vqiOPPON1phvYOdOmbFDrxhN6cbYjeLHVgH42EV0XsJjVNd81EM1DKY_aRVM-rwJ9Il5tLc3QsL_gOS4qAkF'
   lat: 40.139891
-  level: 5
+  level: 4
   lon: -88.257367
   name:  'Market View Baby Fountain'
 - ap: 3661
@@ -1115,17 +1115,17 @@
   lon: -88.268577
   name:  'Newt Dodds Tennis Center'
 - ap: 2724
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.401374
-  level: '?'
-  lon: -86.288005
-  name:  '9c168d55307d46deafd3684ceac79063.16'
-- ap: 2724
   img:  'http://lh5.ggpht.com/ZfmaOk3UM4PNzP-z0AvBPFqYLc6wAEDSPhL1cSVjXMAFSv4Jadm-hV--eP3OaJuaksphYKN5s6bhWhluTGs'
   lat: 40.133327
   level: 6
   lon: -88.280335
   name:  'Prairie Grid'
+- ap: 2724
+  img:  'http://lh5.ggpht.com/-aOZyLFNK96FhUdQBYhmRPZrs_PB1oiLRcrPjKwFBANQ42LxLbbHfTZVw_F01meecQXfNQwJYy7qqVh8Q0gR9g'
+  lat: 40.133768
+  level: 5
+  lon: -88.281275
+  name:  'Butterfly'
 - ap: 2724
   img:  'http://lh5.ggpht.com/zdaFJ-aI4Re55DtEiADt-qd1MMBuWZqEByU3BbT-0eYI80maTD-8JB5vJgtwKPFsFk-V75s-itU-cBisa-W9'
   lat: 40.132819
@@ -1218,12 +1218,6 @@
   name:  'f0dfef153dc644919b274d9bca69d0f6.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.058869
-  level: '?'
-  lon: -87.670779
-  name:  '906955eb184f41c38b6a9615828f203f.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.686672
   level: '?'
   lon: -88.983653
@@ -1234,12 +1228,6 @@
   level: '?'
   lon: -88.979851
   name:  '8f63b0a141c34ec69f412a6061705387.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.973633
-  level: '?'
-  lon: -87.647402
-  name:  '901fd75749f24ba99a3ebf7da33516d9.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.482592
@@ -1295,23 +1283,29 @@
   lon: -88.289763
   name:  'In Memory Of Marian Rodemer'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/-aOZyLFNK96FhUdQBYhmRPZrs_PB1oiLRcrPjKwFBANQ42LxLbbHfTZVw_F01meecQXfNQwJYy7qqVh8Q0gR9g'
-  lat: 40.133768
-  level: 5
-  lon: -88.281275
-  name:  'Butterfly'
-- ap: 2537
   img:  'http://lh4.ggpht.com/h3t9nwbrudSHJ4Ll-zBceLi_U0iwpgbsVd8Wjzy_JgqMiXIqIu4CILUiFnKdayIi0htMXQ5CNowcXO7XUqI'
   lat: 40.13401
   level: 7
   lon: -88.28239
   name:  'Eddie Albert Gardens'
 - ap: 2537
+  img:  'http://lh6.ggpht.com/g4DT6SGoajyo3AEVQR_e1LuxmgdTecqzlqjxrY3qYL6mnr6FHMUAtS6E9ZnWczuWrf7WWRNC0XRF5iVTWdS-uQ'
+  lat: 40.132002
+  level: 5
+  lon: -88.277467
+  name:  'Dodds Park'
+- ap: 2537
   img:  'http://lh4.ggpht.com/a1FVYK5FqYQAl_d_TEIbk8PE4kKJVyIHNjJiJWlhHcozcrVi9qVZ137z5mYYlOeePqk0aqBqWwdZxEIgkxz0HA'
   lat: 40.132588
   level: 6
   lon: -88.279491
   name:  'Ronald D Schafer Plaque'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/YrrWNVDbF2PvWks7XHMzdNnH29Fm_9w3w-XsfCu_aNeRWe3yogvbKL0L2xuhUlUcT_FrvGouyLbPNDe37GVk'
+  lat: 40.132123
+  level: 7
+  lon: -88.277273
+  name:  'American Revolution Bicentennial Plaque'
 - ap: 2537
   img:  'http://lh5.ggpht.com/XSTOU98iZoBFcDNR_YYJQfmQaiD_vXAP5Z7R79nVC7k06VMhH8tHSb9Yb9Pe8OnV1svwvlvy6iyz6vMjg3_EzA'
   lat: 40.132804
@@ -1384,18 +1378,18 @@
   level: 4
   lon: -88.227096
   name:  'Chi Epsilon Civil Engineering'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/NMgUdPOdhvhvKZh7ugwXgybshZBZ2mkaEWMNKYdFPX6cfIYENSCqE9YpAXSNVuq_9VVWXJB-ShCBAPfF2Yvs'
-  lat: 40.102513
-  level: 6
-  lon: -88.243679
-  name:  'Robert Hosier Memorial Garden'
 - ap: 2312
   img:  'http://lh6.ggpht.com/ytlRYKlqnchcFvl3QEN1XknYcwYKIjohz4qzWW8SmhDi5mypBmgPbf9e4ghZWMZY5gpD9HIyalemSKsIzyA'
   lat: 40.11408
   level: 3
   lon: -88.245852
   name:  'Champaign Fire Department'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/NMgUdPOdhvhvKZh7ugwXgybshZBZ2mkaEWMNKYdFPX6cfIYENSCqE9YpAXSNVuq_9VVWXJB-ShCBAPfF2Yvs'
+  lat: 40.102513
+  level: 6
+  lon: -88.243679
+  name:  'Robert Hosier Memorial Garden'
 - ap: 2537
   img:  'http://lh4.ggpht.com/0JuC7vEVtmbgkx1FUhaTylcKfKuYoGNdW2P5GNZzGbeOzxEH0Q-9gP9gmmBzx2bkLNA0dnw9FiEJYiHjWXM'
   lat: 40.121329
