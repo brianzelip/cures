@@ -327,27 +327,6 @@
   lon: -88.265186
   mus: 43
   name:  'Shield of Chichen Itza'
-- fields: 1
-  img:  'http://lh4.ggpht.com/9Rg84EpxbL2Yg5gK7imF1lg4LpVcRz8fS4QGQe_hQfaeN-crjjc8p1MnWvQtnHIJ9c2N-tOiI2lgFMkIfP-V'
-  lat: 40.127139
-  level: 5
-  lon: -88.23398
-  mus: 41
-  name:  'Church of the Living God'
-- fields: 1
-  img:  'http://lh5.ggpht.com/93SMm7gYjGLu_6bFOqGL5MXKxKF_NsnHuxiDyywI_Jrhz-LaQoNlm0yw7lG0I9rhp5vnHkATk01A_CNYmYf-'
-  lat: 40.128358
-  level: 4
-  lon: -88.243471
-  mus: 41
-  name:  'Champaign Church of the Bretheren'
-- fields: 1
-  img:  'http://lh5.ggpht.com/RsXj0S9rbD_i4VFZmhxJtNtmwEeJOoYsmM8wyu90kB6srZMfUskP6iqrTY9eqFNQhhQrU50k92lCH4JEQ2w'
-  lat: 40.127358
-  level: 2
-  lon: -88.243851
-  mus: 41
-  name:  'Stanchion'
 - fields: 3
   img:  'http://lh3.ggpht.com/5jYVsmaWJU0f8zVo2s_GfQ8mtVZTRQdgkF6Lz4nZKshBOXkqOj2I-34881x1ViUkWSd5_DHAtnoHpOzyGkMwnw'
   lat: 40.100785
@@ -477,7 +456,7 @@
 - fields: 2
   img:  'http://lh3.googleusercontent.com/8uMYuZy0Us1c6m26i0q3fiQ2sptx9Og4z2bMHuLtSt_Woc8U5yKYiXLiC2Oz38uiO4m3z3SU3svJ6uRX-_o'
   lat: 40.086941
-  level: 6
+  level: 7
   lon: -88.242452
   mus: 25
   name:  'Water Survey Research Center L'
@@ -603,7 +582,7 @@
 - fields: 3
   img:  'http://lh6.ggpht.com/SOEkawCv91wHrlqOJdkbN9KzhF3V8Uc1_VE_5V-PUNZhbJ9jXtSHQLjSEP4PGO091UFjUtYxX4Ikg7x6rE0LNawabllL4qbEUfQY-thKMrIXW2E'
   lat: 40.100186
-  level: 1
+  level: 2
   lon: -88.205286
   mus: 14
   name:  'Blair Park Viewing Pavillion'
@@ -631,7 +610,7 @@
 - fields: 2
   img:  'http://lh6.ggpht.com/iVHoGDIqnjdRupoPTpZLPtrzaCpEGW6HV4QHZ5WW185rmkrOxvl-C7uIN_gNZnCrm-djktoPC1J-9vjBZfCb1w'
   lat: 40.115718
-  level: 6
+  level: 3
   lon: -88.228521
   mus: 14
   name:  'Red Lines Sculpture'
@@ -831,6 +810,13 @@
   lon: -88.226507
   mus: 8
   name:  'Mt. Hope Mausoleum'
+- fields: 3
+  img:  'http://lh4.ggpht.com/CZA6uXTYgSkrccw1vqf6XFlfkzl6I7Rj79GOKIYGvd1Zem8O1u-opoJu65ma2eHnKdfysF0mOVGzc_am2Ns'
+  lat: 40.110623
+  level: 4
+  lon: -88.22799
+  mus: 8
+  name:  'Eta Kappa Nu Plaque'
 - fields: 1
   img:  'http://lh5.ggpht.com/Lci4hchvPddvCn0adEUsjrUPGPoQlR5HVSfAA694lfczUe6nbgy8qQsLRgRnZJ4nHPN-ogww3D4BAXJpBawznA'
   lat: 40.114734
@@ -904,10 +890,24 @@
 - fields: 1
   img:  'http://lh6.ggpht.com/8_R0pnNTQT-uPiI9xeaPyYDmeMcnxaXImr4VqMnz2F_aNrFJ7wlemeLAXHdvRZ4XyYZnScYGhpFFs_XS9dJ1'
   lat: 40.11727
-  level: 5
+  level: 6
   lon: -88.286997
   mus: 6
   name:  'Kaufman Lake'
+- fields: 2
+  img:  'http://lh3.ggpht.com/wOZOXhKOnhbKEPMQke-zGIG_vheDkHM8q19B1n_is5H7t1whBcQxBIGZI6VIPNw8mdCNXG6EUZeSjd1YLdngdg'
+  lat: 40.108965
+  level: 6
+  lon: -88.227184
+  mus: 6
+  name:  'U of I Mother''s Association Plaque'
+- fields: 2
+  img:  'http://lh6.ggpht.com/RW34ntixvJkg7fD71TPYo_4KIsBzA0-a-6yXO0jKPbpGxX5gIGC7kBI-pXEF9OHhuolcAGW2fxyK3Pt42Iev'
+  lat: 40.110489
+  level: 6
+  lon: -88.227412
+  mus: 6
+  name:  'Bus Stop - Illini Union, Westbound'
 - fields: 6
   img:  'http://lh5.ggpht.com/mRJ1JU9RyuNozcaCkQ-Egy63KbWTVpSomrieglFdzh1c9eDAoQQCHmWw065GGIQoOFIorPObgHXhGyNjVb6u'
   lat: 40.068762
@@ -1112,26 +1112,19 @@
   mus: 3
   name:  'Blair Park Center Stone'
 - fields: 1
+  img:  'http://lh5.ggpht.com/-OqC4qsxJReOCIM0nMbVjvfydYq6x9bfLc7fmyI-u3x_ygkr5RCE-Ct-uYn-wvhkpdLRjIXEkiODbTkV1iufX14GyE_Qzy1Vkz2mpimaCx26Bo8'
+  lat: 40.109364
+  level: 6
+  lon: -88.227697
+  mus: 3
+  name:  'The Diana Fountain'
+- fields: 1
   img:  'http://lh5.ggpht.com/bn1QhOHMJIwrHxpNZALrFL6cmRhPKJulhFAokXJaYr2OuKQr8pAI5rK4Ww47E1jvpgkK68rKyvRjzRRPefLEPg'
   lat: 40.103121
-  level: 4
+  level: 3
   lon: -88.228963
   mus: 2
   name:  'Architectural Education Plaque'
-- fields: 1
-  img:  'http://lh4.ggpht.com/CZA6uXTYgSkrccw1vqf6XFlfkzl6I7Rj79GOKIYGvd1Zem8O1u-opoJu65ma2eHnKdfysF0mOVGzc_am2Ns'
-  lat: 40.110623
-  level: 4
-  lon: -88.22799
-  mus: 2
-  name:  'Eta Kappa Nu Plaque'
-- fields: 1
-  img:  'http://lh6.ggpht.com/RW34ntixvJkg7fD71TPYo_4KIsBzA0-a-6yXO0jKPbpGxX5gIGC7kBI-pXEF9OHhuolcAGW2fxyK3Pt42Iev'
-  lat: 40.110489
-  level: 6
-  lon: -88.227412
-  mus: 2
-  name:  'Bus Stop - Illini Union, Westbound'
 - fields: 1
   img:  'http://lh4.ggpht.com/3Lm-KzGM9vXbvxwzd3uNOE1ibdw6aBbJypb9HN6pbH3ANeklxtL1pI7O-dXg3t9maE-0WFjc9mIrgHbNJJE'
   lat: 40.102641
@@ -1212,10 +1205,31 @@
 - fields: 1
   img:  'http://lh6.ggpht.com/1i7JFIfvKI3IMOAekdomh9jm9HrAhBBdNIOyX81Nkq1Bh49sBqKg37sMm99MYm8yJjHsG4dBdnRg1X5Aq-c'
   lat: 40.104796
-  level: 3
+  level: 4
   lon: -88.227461
   mus: 1
   name:  'Undergraduate Library at UIUC'
+- fields: 1
+  img:  'http://lh4.ggpht.com/HMXgPSuj_Qc06z-u_ElF6pgeWVoxqEAZoT0woVULj2jB8M-G8a4In71YBTnsPrCaJTLx0DFoqB8lQ2847L9M'
+  lat: 40.112187
+  level: 5
+  lon: -88.235913
+  mus: 1
+  name:  'Scott Park Pavilion'
+- fields: 1
+  img:  'http://lh6.ggpht.com/KD5w0ez9F7rd70ylNnKO8m3t3aROeGF5SZIUT23pb6WisqWmVYgW1SBL-jgNAPy1UKJPgoTlgGjEK9P1BCqJ'
+  lat: 40.11243
+  level: 5
+  lon: -88.235749
+  mus: 1
+  name:  'Fountain at Scott Park'
+- fields: 1
+  img:  'http://lh3.ggpht.com/161K1avC8teYs8PtJMANd0cBrff72XYRYh2Gjg2_KhkEh6_F6MLd3cfHIXwK8zegd65ISEVxmEoD5THpeY-Q'
+  lat: 40.112553
+  level: 5
+  lon: -88.236253
+  mus: 1
+  name:  'Scott Park North Entrance'
 - fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.195251
