@@ -256,12 +256,6 @@
   level: 7
   lon: -88.243168
   name:  'Walnut Street Tea Co.'
-- ap: 7222
-  img:  'http://lh4.ggpht.com/vLN74xdc8Mdgab4UjP1QUbyX42bkPBXnIqzYzkmRDi4naHiBk2kM1wUA7Mx3Pxl1dpPoMBAg9pV956MqTDk'
-  lat: 40.068391
-  level: 6
-  lon: -88.242282
-  name:  'Dohme Park Flags & Mural'
 - ap: 7220
   img:  'http://lh3.ggpht.com/AflEYleLSbb1ODQvIdBOrTrq1Zkk-rgHU4WaHjaZ6Md2zDSaqq8cERAJWcwG1QFkrzGf6gp3oC-DZuLOCDb4'
   lat: 40.112779
@@ -472,7 +466,7 @@
   level: 7
   lon: -88.291946
   name:  'Campus Solar System - Jupiter'
-- ap: 5572
+- ap: 5722
   img:  'http://lh4.ggpht.com/6WTMH3liIIuH6pEvRGZOkUNNR84nR8frjFch6yn_4mbGIokY-MajBCG6jZHWU37a8TBI97rYTBlX-ks8m5XJTw'
   lat: 40.112843
   level: 4
@@ -545,17 +539,17 @@
   lon: -88.253036
   name:  'Peggy and Robert White Garden'
 - ap: 5348
+  img:  'http://lh4.ggpht.com/vLN74xdc8Mdgab4UjP1QUbyX42bkPBXnIqzYzkmRDi4naHiBk2kM1wUA7Mx3Pxl1dpPoMBAg9pV956MqTDk'
+  lat: 40.068391
+  level: 6
+  lon: -88.242282
+  name:  'Dohme Park Flags & Mural'
+- ap: 5348
   img:  'http://lh4.ggpht.com/D5cENdXJQaqvWwCSoOanItF0e3p53vn8qA2cAruOQSuYuD9XmC4q26pJQI7yjA9-6yDTJH0KYTQQwYdcwoTxOA'
   lat: 40.068447
   level: 6
   lon: -88.241045
   name:  'In Memory of E. Lynn Meisenfelter'
-- ap: 5348
-  img:  'http://lh6.ggpht.com/bk4dEHQrhHB4CnS-r1oU423YDgPGgV61H809xF_AI-CVJFh8pf1rbOMxcZIfQYEe0W5OLWy-XYtwPUc_n08o'
-  lat: 40.068707
-  level: 6
-  lon: -88.242666
-  name:  'Dohme Park Dedication Plaque'
 - ap: 5348
   img:  'http://lh5.ggpht.com/0m1i3CJSj3bKhLj5BgXi8SFpgoihNsBoN6fpccgDU2tjtPcA5BqB1IxvR0yAX9FWkgt3_Q8gbAyGfdJDliGP'
   lat: 40.115142
@@ -731,12 +725,6 @@
   lon: -88.251406
   name:  'Amdocs Shelter'
 - ap: 4598
-  img:  'http://lh5.ggpht.com/6iSvulYqf18jvvkjbKbtokZ1zczL5ZsEsgNJtpDT61eVwi5FIfifwQk2brM7UkcTtJNOdADLVtXIO7HCrlQ'
-  lat: 40.068731
-  level: 6
-  lon: -88.242233
-  name:  'Dohme Park'
-- ap: 4598
   img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
   lat: 40.108066
   level: 7
@@ -887,11 +875,17 @@
   lon: -88.251235
   name:  'William C Fox Honorary Plaque'
 - ap: 4411
-  img:  'http://lh4.ggpht.com/wyM69v5COeXPWWt_LnfNM6UlZe8vhGenr3i6cKAsnyELc0kC82jEE4kljcMgjf5IByJFesORVLdjdKjLoAON'
-  lat: 40.068553
+  img:  'http://lh6.ggpht.com/bk4dEHQrhHB4CnS-r1oU423YDgPGgV61H809xF_AI-CVJFh8pf1rbOMxcZIfQYEe0W5OLWy-XYtwPUc_n08o'
+  lat: 40.068707
   level: 6
-  lon: -88.243226
-  name:  'Nolda and Carl Dohme Memorial'
+  lon: -88.242666
+  name:  'Dohme Park Dedication Plaque'
+- ap: 4411
+  img:  'http://lh5.ggpht.com/6iSvulYqf18jvvkjbKbtokZ1zczL5ZsEsgNJtpDT61eVwi5FIfifwQk2brM7UkcTtJNOdADLVtXIO7HCrlQ'
+  lat: 40.068731
+  level: 6
+  lon: -88.242233
+  name:  'Dohme Park'
 - ap: 4411
   img:  'http://lh4.ggpht.com/qWLIT-3GsQkC5f1iLdtWdxCs7cZzyMqqwXBViIYnN7Hvp6UFp3JqYe_qFKGGCSM1cWWbZZZh2X2uS3fS2lE'
   lat: 40.068474
@@ -1025,12 +1019,6 @@
   lon: -88.244611
   name:  'Marketplace Mall Carousel'
 - ap: 3848
-  img:  'http://lh5.ggpht.com/9XV46K2cUd84oc6HPyqlj53LKJS8lVs0f0gPHSCBkkTwiHaxivu36dlAj5M38EzK-2U4xhvZJ7AiVvGM5yk'
-  lat: 40.118175
-  level: 7
-  lon: -88.244562
-  name:  'The Russell Building'
-- ap: 3848
   img:  'http://lh3.ggpht.com/Vcus4uEIgRrZOTuMTz10IGc3qhU5MdpmGnEzN_IiBQrVm1M6Q26geFSgc4VIbgx12Utl9V52J1Y4g35V3MneDg'
   lat: 40.117215
   level: 8
@@ -1048,6 +1036,12 @@
   level: 5
   lon: -88.231488
   name:  'Fighting Illini Memorial'
+- ap: 3848
+  img:  'http://lh5.ggpht.com/9XV46K2cUd84oc6HPyqlj53LKJS8lVs0f0gPHSCBkkTwiHaxivu36dlAj5M38EzK-2U4xhvZJ7AiVvGM5yk'
+  lat: 40.118175
+  level: 7
+  lon: -88.244562
+  name:  'The Russell Building'
 - ap: 3848
   img:  'http://lh5.ggpht.com/BkbaZlRlq44d6DiMOVuIlrel2Hsi_RzzHhhdmJH6BLzJk5RKxAcvh2mMd93BFhKgTKLk-yZsNLTaJiTbZsk'
   lat: 40.086686
@@ -1163,12 +1157,6 @@
   lon: -88.251811
   name:  'A Flagstone Garden in Mattis Park'
 - ap: 3661
-  img:  'http://lh3.ggpht.com/sMx0P-GO5ovW4D9GxUctotNYCfxZGhdOEhiL1DmdIK6HMtm6Q2YB4GNKL53HBW60hQRizKWO_neyW1gOFt4'
-  lat: 40.068464
-  level: 6
-  lon: -88.243473
-  name:  'Savoy Rotary Club Dedication'
-- ap: 3661
   img:  'http://lh3.ggpht.com/WDQ55kRMYCIrw9Pm69IuV6cBTI2nx7Z1gU9yxX2oE2oH9EdPnO1ltxSROAjUmHmBu84SEtHmLKregkDqlLYzUg'
   lat: 40.117126
   level: 6
@@ -1193,17 +1181,17 @@
   lon: -88.232116
   name:  'Illini Tower'
 - ap: 3661
-  img:  'http://lh3.ggpht.com/nYd-393_D14GP4fiHeIzBxBwiribibe3KkVkqwo0A2KaBz3imkWBgyq_wiisXL0-RLbEESu9vTa02HbR5KcMQw'
-  lat: 40.092652
-  level: 5
-  lon: -88.240341
-  name:  'Buffalo Billiam'
-- ap: 3661
   img:  'http://lh6.ggpht.com/a7U3RDd7velreml5bufqdV_G7UTGp85wW8w5LWXCJNvNYvu-iW5nUdDbsA6y0gODhhOWdwxltnQQgvTSRFA'
   lat: 40.093084
   level: 6
   lon: -88.238588
   name:  'Beautiful Storm'
+- ap: 3661
+  img:  'http://lh3.ggpht.com/nYd-393_D14GP4fiHeIzBxBwiribibe3KkVkqwo0A2KaBz3imkWBgyq_wiisXL0-RLbEESu9vTa02HbR5KcMQw'
+  lat: 40.092652
+  level: 5
+  lon: -88.240341
+  name:  'Buffalo Billiam'
 - ap: 3661
   img:  'http://lh3.googleusercontent.com/I_CYGgoX5eWayBRAI_2QSZUA1sSjZM3mwS0L3JE6acDTyw7LZwi2Ba9dvUiI3pCqHTC_bfEtRl1xYh1JpY2x'
   lat: 40.111109
@@ -1510,7 +1498,7 @@
   level: 5
   lon: -88.234922
   name:  'Snyder Hall'
-- ap: 3324
+- ap: 3474
   img:  'http://lh3.ggpht.com/aHqOXq4BX_XXhSNRFJn0768z_1bjWEniMumNJ4FMy9Nv5j3AefPsZDiAGCehCguZ1HFOBMBXxRI4mOXd077e'
   lat: 40.112957
   level: 3
@@ -1714,12 +1702,6 @@
   level: 5
   lon: -88.251369
   name:  'Mattis Park'
-- ap: 2724
-  img:  'http://lh5.ggpht.com/mRJ1JU9RyuNozcaCkQ-Egy63KbWTVpSomrieglFdzh1c9eDAoQQCHmWw065GGIQoOFIorPObgHXhGyNjVb6u'
-  lat: 40.068762
-  level: 6
-  lon: -88.243336
-  name:  'Rotary Club Dedication Plaque'
 - ap: 2724
   img:  'http://lh5.ggpht.com/BRRDKCyBRSA90katSWGccxinlIeZVFPrMr-6O3bI9db463bYKB6Pb_Iw3vWmyCktM38SU4rZCqUAask_yJJ5'
   lat: 40.115438
