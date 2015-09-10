@@ -1,10 +1,3 @@
-- fields: 8
-  img:  'http://lh3.googleusercontent.com/mFMoKbSLtdP7TnaDrMHLxDWN1FGdQeY6BuKqxtEYSN--Sp6L7DgrpNlGARlPutxd0UNQuEW3WwuNl_Hny6_1'
-  lat: 40.13183
-  level: 6
-  lon: -88.288788
-  mus: 289
-  name:  'Student Union Building'
 - fields: 6
   img:  'http://lh3.ggpht.com/AflEYleLSbb1ODQvIdBOrTrq1Zkk-rgHU4WaHjaZ6Md2zDSaqq8cERAJWcwG1QFkrzGf6gp3oC-DZuLOCDb4'
   lat: 40.112779
@@ -20,19 +13,19 @@
   mus: 264
   name:  'Campus Information Booth '
 - fields: 6
+  img:  'http://lh3.googleusercontent.com/mFMoKbSLtdP7TnaDrMHLxDWN1FGdQeY6BuKqxtEYSN--Sp6L7DgrpNlGARlPutxd0UNQuEW3WwuNl_Hny6_1'
+  lat: 40.13183
+  level: 6
+  lon: -88.288788
+  mus: 258
+  name:  'Student Union Building'
+- fields: 6
   img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
   lat: 40.097979
   level: 8
   lon: -88.247785
   mus: 230
   name:  'Jarling''s Custard Cup'
-- fields: 7
-  img:  'http://lh4.ggpht.com/IM3Yvrk727rz6f1euz6nTpei6llE4E4oqn_l-WbxZIN3K6dF8pEa7wGKzbjqfr0DBRubxiNFztHBePH9-Iw'
-  lat: 40.132147
-  level: 6
-  lon: -88.291251
-  mus: 100
-  name:  'Staerkel Planetarium '
 - fields: 4
   img:  'http://lh4.ggpht.com/Oocso9yyW_QlJlddbFRk8zzguP4PfXU8kI9T5rJbiyNwSgNMG0BmSoK3TdG2cEgH-p2Xd_vpQMxA_RcxLUP3'
   lat: 40.109066
@@ -40,6 +33,13 @@
   lon: -88.247875
   mus: 95
   name:  'The Church of Scientology'
+- fields: 5
+  img:  'http://lh6.ggpht.com/6pMlM7pPsp-5PTNYZ8AJgo5ODURCPJO-_LigeHL2TMhjfK9MS17iEcpQqc89n5gyUdEO8seZrlThTGbKEqg'
+  lat: 40.132999
+  level: 6
+  lon: -88.292808
+  mus: 84
+  name:  'Campus Solar System - Mars'
 - fields: 7
   img:  'http://lh6.ggpht.com/hPutcAvS7zQN-tagfEY-fvkvdlgj7j5sZwUSLY883Twc7tHyslIAp7lzWYciJmCytDfsbFQtavAlzqGwCgFZkw'
   lat: 40.105562
@@ -90,19 +90,19 @@
   mus: 27
   name:  'The Little Brick Memorial'
 - fields: 5
-  img:  'http://lh5.ggpht.com/THzk1iE4eBFdHkEgW_OGBWS54BbJw46faUZQS1Ad_IROHGgmVaXrphXJuL1O8N9k4G8_jaDT4P9tmLxMNi0W'
-  lat: 40.131713
-  level: 7
-  lon: -88.29276
-  mus: 26
-  name:  'Campus Solar System - Sun'
-- fields: 5
   img:  'http://lh6.ggpht.com/n0f7lyo15OzZn5IJHsohIGAA58iioentPZGEY4zeMZCCoX4GjEEkqfaTCIbrx9OnezriThnbFV14kYcwKTgL1g'
   lat: 40.098444
   level: 7
   lon: -88.248167
   mus: 26
   name:  'Healthcare Not War Mural'
+- fields: 5
+  img:  'http://lh3.ggpht.com/aHqOXq4BX_XXhSNRFJn0768z_1bjWEniMumNJ4FMy9Nv5j3AefPsZDiAGCehCguZ1HFOBMBXxRI4mOXd077e'
+  lat: 40.112957
+  level: 6
+  lon: -88.227127
+  mus: 25
+  name:  'Early Computers Plaque'
 - fields: 3
   img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
   lat: 40.098239
@@ -124,20 +124,6 @@
   lon: -88.218612
   mus: 23
   name:  'University of Illinois Arboretum'
-- fields: 3
-  img:  'http://lh5.ggpht.com/Lup2et0i5h8oHqtBffIdoyX5uclC2MBn9ZnnKnYPr4RIFSflf9bi78zBHK7QqycA0qgEev9qOk0zU-1o1hg'
-  lat: 40.108451
-  level: 7
-  lon: -88.228733
-  mus: 21
-  name:  'The Centennial Colophon'
-- fields: 1
-  img:  'http://lh6.ggpht.com/6pMlM7pPsp-5PTNYZ8AJgo5ODURCPJO-_LigeHL2TMhjfK9MS17iEcpQqc89n5gyUdEO8seZrlThTGbKEqg'
-  lat: 40.132999
-  level: 6
-  lon: -88.292808
-  mus: 15
-  name:  'Campus Solar System - Mars'
 - fields: 10
   img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
   lat: 40.100078
@@ -188,6 +174,34 @@
   mus: 12
   name:  'The Ponds at UI Arboretum'
 - fields: 2
+  img:  'http://lh3.ggpht.com/9aQBG-poFARclK9XL7iFIvWePkawZwWhv4Sh0zQhQ0Sy9gdDD508d4gCtpcUP9UNoYM6uztea0aQ05RPd9rZLg'
+  lat: 40.115412
+  level: 6
+  lon: -88.245046
+  mus: 11
+  name:  'Eddie Thorpe''s Memorial Rock And Tree'
+- fields: 2
+  img:  'http://lh4.ggpht.com/naCrG9-DL9k67Zqi0gC4SkIN_RQ_zodz4FK1IHNXbc08mmpwSYOasBdjXKK05UnqtA_LobI75w9qmf4dfQjU'
+  lat: 40.11823
+  level: 4
+  lon: -88.267696
+  mus: 11
+  name:  'Eisner Park North Entrance'
+- fields: 6
+  img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
+  lat: 40.117976
+  level: 7
+  lon: -88.245082
+  mus: 11
+  name:  'Robeson Building '
+- fields: 4
+  img:  'http://lh5.ggpht.com/THzk1iE4eBFdHkEgW_OGBWS54BbJw46faUZQS1Ad_IROHGgmVaXrphXJuL1O8N9k4G8_jaDT4P9tmLxMNi0W'
+  lat: 40.131713
+  level: 7
+  lon: -88.29276
+  mus: 10
+  name:  'Campus Solar System - Sun'
+- fields: 2
   img:  'http://lh6.ggpht.com/aHhLEb8O6JqkElC1drnlJBmq8qeC2WzA4W48qkRQwuE9B6opSfHVKARNHu-uAZN-jvPRznVdmobggqRbw9E'
   lat: 40.100674
   level: 5
@@ -222,13 +236,6 @@
   lon: -88.203511
   mus: 9
   name:  'Denise and Ernest Walker Grove'
-- fields: 4
-  img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
-  lat: 40.117976
-  level: 7
-  lon: -88.245082
-  mus: 8
-  name:  'Robeson Building '
 - fields: 7
   img:  'http://lh5.ggpht.com/3t7XZHqwxLZ8Lc9YomR8FInm74U2PAA-DBk8kmdxXIrcXbKa1CoBDTlgdDJeO-_yVT3qNKRnNLzbdil1eH41iA'
   lat: 40.09935
@@ -237,12 +244,19 @@
   mus: 8
   name:  'Jim Bickel Honorary Plaque'
 - fields: 2
-  img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
-  lat: 40.106921
-  level: 8
-  lon: -88.230145
-  mus: 6
-  name:  'University Lutheran Church'
+  img:  'http://lh6.ggpht.com/f3cOUn1gqLkJZQzs4-Y9j6j2ZXbb1Kmzf3klCFzF8zmFSlZZ-B6O4-5t1KIX95jbYUjeqMgOohEf1ilF75Uqyw'
+  lat: 40.132777
+  level: 6
+  lon: -88.287351
+  mus: 7
+  name:  'Parkland College Prairie Restoration Reserve'
+- fields: 2
+  img:  'http://lh5.ggpht.com/kElaGOaV9aI8SrnM1D65gx9J0Ky1AKrN9Yo-pXVmDhELt2pee4MwVRiCqCmlqWzUWj5pS33GnEzAiXmiWKsw'
+  lat: 40.108111
+  level: 7
+  lon: -88.229625
+  mus: 7
+  name:  'Illini Sports Mural'
 - fields: 5
   img:  'http://lh6.ggpht.com/YdeB0EKlsopL39a9YXWj4JBZgXNNLWHgfe4PQzdpWCNWc0fR1YTj8WjARDHnmrusvKWTqKLcGg8U9frhtsw'
   lat: 40.09821
@@ -285,6 +299,20 @@
   lon: -88.251947
   mus: 4
   name:  'Our Friend Tim Palmer'
+- fields: 4
+  img:  'http://lh5.ggpht.com/KadNuhjGK6FUXezGHW1W1kfPOQV5l7gJP594EQm5nPZFLTgcTsjl4ixa-j7XitgtyJyou3q0pTfMr4i2E_avIA'
+  lat: 40.118013
+  level: 6
+  lon: -88.243445
+  mus: 4
+  name:  'Clock at Neil and Main'
+- fields: 2
+  img:  'http://lh6.ggpht.com/o-Si4_DCq7Qwa_fFJhaTZ0-zCScbl7wDS4PHIFGMbnP9TuPVe9ZauXV3lAreyYvxN7B7n8mlrOR2SsPzXmU'
+  lat: 40.115703
+  level: 6
+  lon: -88.239504
+  mus: 4
+  name:  'Chester Street Bar'
 - fields: 2
   img:  'http://lh5.ggpht.com/6MHa8mHyPoZr8QcAXRVJp6cTJ-Besa5bB801GzhlToXL5ff4Zg6U6VtnrbMINQ441jCzYNZDWNxHIBtf7VXvVw'
   lat: 40.087719
@@ -313,6 +341,13 @@
   lon: -88.251974
   mus: 3
   name:  'Hessel Park'
+- fields: 1
+  img:  'http://lh3.ggpht.com/gS3gT_deXzbDvejCL-5ygs31dw9bLQqYr2nDcLPZiv6nQzahJl12awG1a2pwKbFuoTlsHQYxQ2O7HDXL4-8'
+  lat: 40.110358
+  level: 5
+  lon: -88.230181
+  mus: 3
+  name:  'Murphy''s Pub '
 - fields: 3
   img:  'http://lh5.ggpht.com/fDRifvVcFT_dKhPuNBN4rR9lNHL0Q6NvbMnGr2-ZdiirR2rJrBcWRi4vyM3-DYNHymUs7bWchaWRaUtBpg'
   lat: 40.098541
@@ -348,13 +383,13 @@
   lon: -88.249208
   mus: 2
   name:  'In Fond Memory of William Moore Jr'
-- fields: 2
-  img:  'http://lh4.ggpht.com/6WTMH3liIIuH6pEvRGZOkUNNR84nR8frjFch6yn_4mbGIokY-MajBCG6jZHWU37a8TBI97rYTBlX-ks8m5XJTw'
-  lat: 40.112843
-  level: 4
-  lon: -88.227657
+- fields: 1
+  img:  'http://lh4.ggpht.com/0j8eeTKJgjnYhHpf4qH_70CZHLbujC5v-XP_ndcqh1xIR-5V2K_CGdjIe1ZfMbwvSyISxxYKoZynw1DaQcj8'
+  lat: 40.105874
+  level: 7
+  lon: -88.230562
   mus: 2
-  name:  'Class of 1904 Flagpole'
+  name:  'St. John''s Rectory'
 - fields: 1
   img:  'http://lh4.ggpht.com/Gyz7BDhWdUinBQfD8duByX5-aBgPmB9oSesH20dH8uGJnTiaIHkeRJARtH6YQUUD5A5X2IjPTlT989AfutNc'
   lat: 40.092773
@@ -411,17 +446,17 @@
   lon: -88.283099
   mus: 2
   name:  'Bradley D Riden Memorial'
-- fields: 1
-  img:  'http://lh6.ggpht.com/o-Si4_DCq7Qwa_fFJhaTZ0-zCScbl7wDS4PHIFGMbnP9TuPVe9ZauXV3lAreyYvxN7B7n8mlrOR2SsPzXmU'
-  lat: 40.115703
+- fields: 3
+  img:  'http://lh4.ggpht.com/PfcTU4XsA06ThtmCWydIWhTsN3gR4jrqnrKxu0O5lhyibhRdKMEaf3jM8VNhViF8qLf13b01E71wr_ajxn0'
+  lat: 40.118465
   level: 6
-  lon: -88.239504
+  lon: -88.245077
   mus: 1
-  name:  'Chester Street Bar'
+  name:  'Mural at Nitaya'
 - fields: 1
   img:  'http://lh6.ggpht.com/SCYK-XeMmOyfRrTt1-aQNoDA-2Sib4m5Ch26mTwo6XNdVeVnfi7W74Ik6IRLAPSoKzSS97pgwt50Jl9oSgGfP029USxZzQWKNJo3rbs-6YHBPBif'
   lat: 40.116792
-  level: 4
+  level: 5
   lon: -88.241752
   mus: 1
   name:  'WEFT 90.1 FM Community Radio'
