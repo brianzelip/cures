@@ -209,27 +209,6 @@
   mus: 118
   name:  'Lake Park Prairie Restoration'
 - fields: 2
-  img:  'http://lh3.ggpht.com/jr89yrsC941ycnfQPQzYkTPCedQ8Suo8eiPCcNLvq0n0fw48_pywxGTqTsKaVh_KXAiza3ke5pjMejqiaD0'
-  lat: 40.111568
-  level: 5
-  lon: -88.267345
-  mus: 106
-  name:  'Illinois American Water Tower'
-- fields: 2
-  img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
-  lat: 40.098246
-  level: 6
-  lon: -88.251974
-  mus: 97
-  name:  'Hessel Park'
-- fields: 1
-  img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
-  lat: 40.098239
-  level: 5
-  lon: -88.25376
-  mus: 97
-  name:  'Hessel Park Christian Reformed Church'
-- fields: 2
   img:  'http://lh3.googleusercontent.com/X-2m2SMNXEpNuoDLiSA2e9pj_qzasz4kIVOwbJk_I_VcUa_bDOFKvFxeTYW4DJ2FzZXO9ocG4eG2ov_x-V3b'
   lat: 40.097261
   level: 5
@@ -712,6 +691,13 @@
   lon: -88.271575
   mus: 10
   name:  'Bobo''s Barbecue'
+- fields: 1
+  img:  'http://lh3.ggpht.com/jr89yrsC941ycnfQPQzYkTPCedQ8Suo8eiPCcNLvq0n0fw48_pywxGTqTsKaVh_KXAiza3ke5pjMejqiaD0'
+  lat: 40.111568
+  level: 5
+  lon: -88.267345
+  mus: 10
+  name:  'Illinois American Water Tower'
 - fields: 2
   img:  'http://lh3.ggpht.com/UWeM-kXUlZAe2JGWDlEh2q1Orpp53g_qVfSvCepKpOy5gVdmDkxbQ5mdsO8xAvDa7K8Iq1lg-gDoQCzy8sck'
   lat: 40.109127
@@ -1125,6 +1111,20 @@
   lon: -88.243226
   mus: 2
   name:  'Nolda and Carl Dohme Memorial'
+- fields: 2
+  img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
+  lat: 40.098246
+  level: 6
+  lon: -88.251974
+  mus: 2
+  name:  'Hessel Park'
+- fields: 2
+  img:  'http://lh3.ggpht.com/G1CvGhpethi5UmprDWxZN9rTblHa3anSsQz1UPgJtkREkfN7lDFoxFObst0609Cg5mofuZxJKr0ddNKhY4VL'
+  lat: 40.098464
+  level: 5
+  lon: -88.251426
+  mus: 2
+  name:  'Ruth Haasis Memorial'
 - fields: 1
   img:  'http://lh4.ggpht.com/jEbgkWj4jIpuTGF0BsLL3Qhx62u2Xh7IFfVmCspv6e6FjmSfbeTYkwQgAZ75wN8NpO2Lus14Khr5O4f9jvup'
   lat: 40.094517
@@ -1160,6 +1160,13 @@
   lon: -88.207259
   mus: 2
   name:  'US Post Office'
+- fields: 4
+  img:  'http://lh3.ggpht.com/1G0o5RjtXyfAjbI-E2honhhelnuiq4lIkpHmB44e-AwSBuIxVOdLPVYjImbTMS8kyBdZuKuiMQHciUIdAWg'
+  lat: 40.118368
+  level: 4
+  lon: -88.243737
+  mus: 2
+  name:  'Frank Robeson Memorial'
 - fields: 1
   img:  'http://lh4.ggpht.com/L3_3bdFGcwi5zvNhxvPnMFZZEm1bKFSEVI3DOlF-FaUcX4jDGEwZ8xezrXUq6-71tbPP7kIe9PT1CTTY-ZjJ7A'
   lat: 40.114539
@@ -1167,6 +1174,13 @@
   lon: -88.224663
   mus: 2
   name:  'Bench of Opportunity'
+- fields: 4
+  img:  'http://lh5.ggpht.com/nirQKdy3s9r8TSV7cB7_B0l-0EsFXBkg1aitH05R0ttPhOEewGxlq1GRnlDvYFT2V8Z91hWnB9YD3WjxBvyZ'
+  lat: 40.11868
+  level: 4
+  lon: -88.243426
+  mus: 2
+  name:  '"Pointless"'
 - fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.195867
@@ -1189,12 +1203,26 @@
   mus: 2
   name:  '1867 Garden'
 - fields: 1
+  img:  'http://lh4.ggpht.com/B_I1b0Jy3vW41RX8jjCNPP68AULplU0Pf8ddolyKmpEWCfBVShQkmjF1HfTPzDjmBBQGgOs0jHW-rUR0mv8BkA'
+  lat: 40.098789
+  level: 5
+  lon: -88.251685
+  mus: 1
+  name:  'Curtis William McKinney Memorial'
+- fields: 1
   img:  'http://lh6.ggpht.com/1i7JFIfvKI3IMOAekdomh9jm9HrAhBBdNIOyX81Nkq1Bh49sBqKg37sMm99MYm8yJjHsG4dBdnRg1X5Aq-c'
   lat: 40.104796
   level: 4
   lon: -88.227461
   mus: 1
   name:  'Undergraduate Library at UIUC'
+- fields: 3
+  img:  'http://lh3.ggpht.com/bltQwmnzp2vSKYhLpzNLqB4iddy6ie0kWk9G7Wce4U9qmW3CABxbXAhF7v0oG9QLFD2q57UZuVqZCMgN3MHZfA'
+  lat: 40.118335
+  level: 4
+  lon: -88.243408
+  mus: 1
+  name:  'Downtown Fountain'
 - fields: 1
   img:  'http://lh4.ggpht.com/HMXgPSuj_Qc06z-u_ElF6pgeWVoxqEAZoT0woVULj2jB8M-G8a4In71YBTnsPrCaJTLx0DFoqB8lQ2847L9M'
   lat: 40.112187
@@ -1231,13 +1259,6 @@
   mus: 1
   name:  'Ruth and Fred Steigmann Plaque'
 - fields: 1
-  img:  'http://lh3.ggpht.com/G1CvGhpethi5UmprDWxZN9rTblHa3anSsQz1UPgJtkREkfN7lDFoxFObst0609Cg5mofuZxJKr0ddNKhY4VL'
-  lat: 40.098464
-  level: 5
-  lon: -88.251426
-  mus: 1
-  name:  'Ruth Haasis Memorial'
-- fields: 1
   img:  'http://lh4.ggpht.com/U2bGo6sB1AGHiDjQ-rH7wSwqqEX_Rgttee-UbdQR48aDKUrWK3zDdefPtL7CTxHDIksKsqP-9K6AlK8Mjlhe'
   lat: 40.125487
   level: 6
@@ -1258,6 +1279,20 @@
   lon: -88.260295
   mus: 1
   name:  'Willis Park'
+- fields: 1
+  img:  'http://lh6.ggpht.com/nbUJivBo0zF8f8aBbk1GwakUpPbLUVOoEovTTETYwJvfNIHXwG9XUbwoV0x-ly4ZO5Hsyv5KPo3c9cE6Nh8'
+  lat: 40.118832
+  level: 4
+  lon: -88.243643
+  mus: 1
+  name:  'Tesla Ball'
+- fields: 3
+  img:  'http://lh6.ggpht.com/rGhR45ZFbHtxmrZSSy9V19eFoyHIDB42c6MK188isPJFWpUsW9ywNHayKt3acNvKNC8DAV6mDkUloj3aiS4'
+  lat: 40.118422
+  level: 4
+  lon: -88.24346
+  mus: 1
+  name:  'Entrance'
 - fields: 1
   img:  'http://lh3.ggpht.com/dlNcqhZvSXijpkfvwOrcW3aTD-ILaZMONMnmaEZv35uhdz7QbonCx9poCoucdHPTAu4q8P67w-GccKI-V7n2'
   lat: 40.068578
