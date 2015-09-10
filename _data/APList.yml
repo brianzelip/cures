@@ -88,6 +88,12 @@
   level: 7
   lon: -88.243265
   name:  'McCollum Park Peacock'
+- ap: 9470
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.796591
+  level: '?'
+  lon: -89.602014
+  name:  'fb3a88f23e3548ea81962dda2787038e.16'
 - ap: 9468
   img:  'http://lh3.googleusercontent.com/enpZZ8JRREFPTvYd3jbeUlpS-mmcwKe5fsvoWRPkfMUj6PijyI-5tbR55UItBoNJAFSl9fAAOvXb6BpWCJT4'
   lat: 40.102495
@@ -112,12 +118,6 @@
   level: 5
   lon: -88.244374
   name:  'Shatterglass Studios Mural'
-- ap: 9096
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.796591
-  level: '?'
-  lon: -89.602014
-  name:  'fb3a88f23e3548ea81962dda2787038e.16'
 - ap: 9096
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.38808
@@ -835,7 +835,7 @@
 - ap: 4411
   img:  'http://lh4.ggpht.com/xS51--rXA9M_IHpXWgFQxKZU-YbD-1zk-nug6k7RyKl8rYeam_YFwMmLNWRRHHzI-rOTGyhTJQQ314WudSQJ'
   lat: 40.117132
-  level: 5
+  level: 6
   lon: -88.243009
   name:  'Fountain in the Alley'
 - ap: 4411
@@ -1079,11 +1079,23 @@
   lon: -88.218475
   name:  'Noel Welcome Garden'
 - ap: 3661
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.374558
+  level: '?'
+  lon: -89.820585
+  name:  '9df6e85c3bdd47e39fc0d89faf43b399.16'
+- ap: 3661
   img:  'http://lh3.ggpht.com/HW1b8GEkWmutU8Hsv_zX2TXNh-iirGoXN5HmxCJd5nc3o1VeCkahkCZ_vbSxOB_ffrBlWW3M-LLMSo97tg-c'
   lat: 40.123709
   level: 5
   lon: -88.250518
   name:  'Spalding Skate Park'
+- ap: 3661
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.374705
+  level: '?'
+  lon: -89.820744
+  name:  'cc1d4c7569f84522ae27c16a7c9ab3ea.16'
 - ap: 3661
   img:  'http://lh5.ggpht.com/BoAN9OSCH5u7G1sestzZaXjjik82i-SteF6-r5KTTyl530q9H5G3ibjJdqpGGY-nL8MypRXn2twwvn_y5nMmug'
   lat: 40.133159
@@ -1308,12 +1320,6 @@
   name:  '87535e800d3447bdb466ae6ecbd48a44.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.374558
-  level: '?'
-  lon: -89.820585
-  name:  '9df6e85c3bdd47e39fc0d89faf43b399.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.326362
   level: '?'
   lon: -89.203381
@@ -1378,12 +1384,6 @@
   level: '?'
   lon: -89.823225
   name:  'ec128035d45544b79494eb4a0f3ac7fe.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.374705
-  level: '?'
-  lon: -89.820744
-  name:  'cc1d4c7569f84522ae27c16a7c9ab3ea.16'
 - ap: 3474
   img:  'http://lh5.ggpht.com/7MD3uqic9NvHKG2s5NBkAL6kdsBT10BzFJ6jTSaOfZS8mbyTlRDRYtizrxfH8ZvyqpRWXJHgmC5bk9imHqQf'
   lat: 40.114042
@@ -1679,23 +1679,35 @@
   lon: -88.250039
   name:  'Harris Park'
 - ap: 2724
-  img:  'http://lh4.ggpht.com/T04oZ0k13H90w4QZ7f_QTFH-yrHJNyKsJ-hRWmNk2YnqBSy8KwGZrO0fb-YN5RhCi3vg_903yE64_J-JZu4Z'
-  lat: 40.092883
-  level: 5
-  lon: -88.26295
-  name:  'Temple Baptist Church'
-- ap: 2724
   img:  'http://lh6.ggpht.com/tenpgw5pr4OCsrdIgmmHP_sx4RHH2ywHdbNxw556d5JpHC4u64HFYqCdRSeAJgfTN_7BcUv11v8NtBdlaUV8'
   lat: 40.100717
   level: 7
   lon: -88.243989
   name:  'Rainbow Garden'
 - ap: 2724
+  img:  'http://lh4.ggpht.com/T04oZ0k13H90w4QZ7f_QTFH-yrHJNyKsJ-hRWmNk2YnqBSy8KwGZrO0fb-YN5RhCi3vg_903yE64_J-JZu4Z'
+  lat: 40.092883
+  level: 5
+  lon: -88.26295
+  name:  'Temple Baptist Church'
+- ap: 2724
   img:  'http://lh6.ggpht.com/ea6HxAw7m0OhhPqJJkZR9u60pR1sab_JdxaOyEltqmQd-63FFJzPY72jEnu08g9Gcjjj5cf3jyyS_M1E7OIbfg'
   lat: 40.11616
   level: 3
   lon: -88.241422
   name:  'It''s A Mistree'
+- ap: 2724
+  img:  'http://lh5.ggpht.com/RsXj0S9rbD_i4VFZmhxJtNtmwEeJOoYsmM8wyu90kB6srZMfUskP6iqrTY9eqFNQhhQrU50k92lCH4JEQ2w'
+  lat: 40.127358
+  level: 5
+  lon: -88.243851
+  name:  'Stanchion'
+- ap: 2724
+  img:  'http://lh3.ggpht.com/STEfnDDHEff3fffoWiEjvWm4SETgCRyRIvPgf92kzrsxo3sdh1SNg1AmGiFqvspDfSx0OXri-AXVfOZRWRMe'
+  lat: 40.13156
+  level: 7
+  lon: -88.239027
+  name:  'Human Kinetics Park'
 - ap: 2724
   img:  'http://lh4.ggpht.com/pTt4-DDT1cwTbzZEeKmOdZaGiy-eSWxNd6UttqXGqJNsFXd38QwCsiHKDTcWeMDbhCt8ddLDZsyBcpNW6aGnLA'
   lat: 40.078858
@@ -1720,18 +1732,6 @@
   level: 7
   lon: -88.242247
   name:  'Seed House Historic'
-- ap: 2724
-  img:  'http://lh5.ggpht.com/RsXj0S9rbD_i4VFZmhxJtNtmwEeJOoYsmM8wyu90kB6srZMfUskP6iqrTY9eqFNQhhQrU50k92lCH4JEQ2w'
-  lat: 40.127358
-  level: 5
-  lon: -88.243851
-  name:  'Stanchion'
-- ap: 2724
-  img:  'http://lh3.ggpht.com/STEfnDDHEff3fffoWiEjvWm4SETgCRyRIvPgf92kzrsxo3sdh1SNg1AmGiFqvspDfSx0OXri-AXVfOZRWRMe'
-  lat: 40.13156
-  level: 7
-  lon: -88.239027
-  name:  'Human Kinetics Park'
 - ap: 2724
   img:  'http://lh5.ggpht.com/yK94cjys6dDm62pDsBwEKJP8ioxZEFbb2oelmT5ZMmaNZPkqAXW00NHP3_7fvtyG796u2ZhKGfbY7To9Sdtz'
   lat: 40.088063
@@ -1913,6 +1913,12 @@
   lon: -88.242373
   name:  'Richard D James Mural'
 - ap: 2462
+  img:  'http://lh4.ggpht.com/qj7RZgjywjmhALnf1YyB5hWBrpO3hxjXZJdOzfE7YYV0p_vq9KA8GrgL9SfBHf_Ry3MVzMy1iJ6pAOkYL_lT'
+  lat: 40.119118
+  level: 6
+  lon: -88.24584
+  name:  'Amvets Post 3'
+- ap: 2462
   img:  'http://lh5.ggpht.com/DDClbLn6LNW1_Kr2O24_eIFuz6BfPSolc8s9i2SV9KvgoE8D_n6SY1mOzPFAUoLMe9HHKhD-azeRgoyYPNcaPw'
   lat: 40.115917
   level: 2
@@ -1936,12 +1942,6 @@
   level: 5
   lon: -88.220199
   name:  'Modern Protozoology'
-- ap: 2462
-  img:  'http://lh4.ggpht.com/qj7RZgjywjmhALnf1YyB5hWBrpO3hxjXZJdOzfE7YYV0p_vq9KA8GrgL9SfBHf_Ry3MVzMy1iJ6pAOkYL_lT'
-  lat: 40.119118
-  level: 6
-  lon: -88.24584
-  name:  'Amvets Post 3'
 - ap: 2537
   img:  'http://lh3.ggpht.com/7qvblF8IJPE_GlNC-0H-3-uvbw-LO0WvGTcs3eGsfxl9qIfPSHIoEP0WVScW5akBfIuNtHggyR43gyD6aQw'
   lat: 40.099867
