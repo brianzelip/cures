@@ -19,12 +19,12 @@
   lon: -88.242344
   mus: 271
   name:  'Campus Information Booth '
-- fields: 5
+- fields: 3
   img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
   lat: 40.098239
   level: 6
   lon: -88.25376
-  mus: 250
+  mus: 236
   name:  'Hessel Park Christian Reformed Church'
 - fields: 3
   img:  'http://lh4.ggpht.com/Oocso9yyW_QlJlddbFRk8zzguP4PfXU8kI9T5rJbiyNwSgNMG0BmSoK3TdG2cEgH-p2Xd_vpQMxA_RcxLUP3'
@@ -57,7 +57,7 @@
 - fields: 4
   img:  'http://lh3.ggpht.com/nGhmCwJD6bTZSD4fk-6vnaRZfPq8CI7zLMEDuUZFl7no1ZUFie42aJKdxr5r-212vPk5feGwGFfkMrb_IBc'
   lat: 40.195177
-  level: 5
+  level: 4
   lon: -88.401915
   mus: 72
   name:  'Fire Fighters Pavilion'
@@ -82,13 +82,6 @@
   lon: -88.251396
   mus: 39
   name:  'Boots''s Garden'
-- fields: 4
-  img:  'http://lh6.ggpht.com/Agsmc3Gk_eTwRNySVZQyywiFe_wThkiMUicoZWD7q3aYhatN9GcapD1yOBV-aZB1yl0dqc9tfci1w-2Be67AMw'
-  lat: 40.192548
-  level: 5
-  lon: -88.40232
-  mus: 37
-  name:  'First Baptist Church'
 - fields: 4
   img:  'http://lh5.ggpht.com/Zoidr1eUAO2UEM6SyifBpkC3K42Ctl355Krd3S2ZU3BbbIMt1XFKF4C35huJT7a-K1PMF6JCK3ztTnr2Wbc9zw'
   lat: 40.109178
@@ -138,6 +131,13 @@
   lon: -88.25077
   mus: 15
   name:  'Fox Development Corporation'
+- fields: 5
+  img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
+  lat: 40.106921
+  level: 8
+  lon: -88.230145
+  mus: 14
+  name:  'University Lutheran Church'
 - fields: 8
   img:  'http://lh6.ggpht.com/n0f7lyo15OzZn5IJHsohIGAA58iioentPZGEY4zeMZCCoX4GjEEkqfaTCIbrx9OnezriThnbFV14kYcwKTgL1g'
   lat: 40.098444
@@ -222,13 +222,6 @@
   lon: -88.242671
   mus: 10
   name:  'Marketplace Mall Fountain'
-- fields: 3
-  img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
-  lat: 40.106921
-  level: 8
-  lon: -88.230145
-  mus: 9
-  name:  'University Lutheran Church'
 - fields: 2
   img:  'http://lh4.ggpht.com/efOG849cf8EKwVLL2BfNKzwBdkrAuNsMeYOZfeR8FYnK3axQJJON0VH191MLBwjJaQ1EeQC9Pt8LMtNI2LEa'
   lat: 40.07718
@@ -292,13 +285,6 @@
   lon: -88.251314
   mus: 5
   name:  'Gabriel Patrick Maxeiner Memorial Plaque'
-- fields: 7+
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.194971
-  level: '?'
-  lon: -88.403465
-  mus: 5
-  name:  '9ac55f1a3bf140e5abc27bbc95fb2036.16'
 - fields: 3
   img:  'http://lh6.ggpht.com/ea6HxAw7m0OhhPqJJkZR9u60pR1sab_JdxaOyEltqmQd-63FFJzPY72jEnu08g9Gcjjj5cf3jyyS_M1E7OIbfg'
   lat: 40.11616
@@ -341,13 +327,6 @@
   lon: -88.236182
   mus: 3
   name:  'Washington Park'
-- fields: 3
-  img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
-  lat: 40.099852
-  level: 8
-  lon: -88.251947
-  mus: 3
-  name:  'Our Friend Tim Palmer'
 - fields: 4
   img:  'http://lh3.ggpht.com/sisvfsphxy7AK_2qrrqb7lNJk3_7ciHSVJyodINYITBc-UqugyNOooCxKupgJKEg5m_x95eZwouSO2WCmN60ew'
   lat: 40.098579
@@ -362,6 +341,13 @@
   lon: -88.208385
   mus: 3
   name:  'Herb Society Garden'
+- fields: 2
+  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
+  lat: 40.101327
+  level: 7
+  lon: -88.251412
+  mus: 3
+  name:  'Zeus Memorial'
 - fields: 1
   img:  'http://lh4.ggpht.com/DJiaqGgwCaKSjYczELIcjQOeBtoEqd--7TZYBJWO9_Nd16vjKwlco9tKatJTdAKT1CPoO7Cj39_rZvp8p0Ch'
   lat: 40.087241
@@ -397,6 +383,13 @@
   lon: -88.290525
   mus: 2
   name:  'Fish Chimes at Kaufman Lake'
+- fields: 2+
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.152342
+  level: '?'
+  lon: -88.252345
+  mus: 2
+  name:  'Toalson Park Basketball Hoop'
 - fields: 1
   img:  'http://lh6.ggpht.com/p2F3xw4xL4UdiMM9aSy628ISSglrvjPexpF3j340tMAP9MX07yh_sJv7kHVkeud8lyFf2ZwDohw3zsRS2PSd'
   lat: 40.093914
@@ -418,13 +411,6 @@
   lon: -88.244374
   mus: 2
   name:  'Shatterglass Studios Mural'
-- fields: 3
-  img:  'http://lh4.ggpht.com/4LxsGZZMk3DnpJXUvqzrL54CHSP5TDXjUnDJyHmCCTtCJIjGEI7kxT9g4uxfSPh0X6yGLgQo1jfqbu7B8VEr'
-  lat: 40.099084
-  level: 8
-  lon: -88.251826
-  mus: 2
-  name:  'Irina P. Stewart Memorial Plaque'
 - fields: 1
   img:  'http://lh5.ggpht.com/dRrlHXlT2nMNgZNHiYo52ha9L-Xay9DyOJR2Cpqs74hgAJ09abn9OTAtMzRVedt1_R9ObZllLO98vRhNMfgTgVsJCk1S-HJwX_XgiGpG4lz3a328'
   lat: 40.11671
@@ -474,13 +460,6 @@
   lon: -88.248681
   mus: 1
   name:  'Siti Sculpture'
-- fields: 1+
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.152192
-  level: '?'
-  lon: -88.252279
-  mus: 1
-  name:  'Toalson Park South Entrance'
 - fields: 1
   img:  'http://lh6.ggpht.com/_wokSDHEvYXLFDe4QysimxK0wSeVmyKpCQrh_xMUi7qX74lQQgzD3K_2GWrgvEh6mYh2rS2m8A0OiWtJUos'
   lat: 40.09305
@@ -502,13 +481,6 @@
   lon: -88.209169
   mus: 1
   name:  'Wildflower Walk'
-- fields: 1+
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.195188
-  level: '?'
-  lon: -88.40358
-  mus: 1
-  name:  '7cc24f4019674432a28f220ec66a8e73.16'
 - fields: 1
   img:  'http://lh3.ggpht.com/rlm0tE7Js-ApRSIfi0JxzxMVzrls50Gpr-Dbml7uBn7o0sCMtpiVa81HJc88eD0VlJiuzy9UTBFPebVcw-GK'
   lat: 40.087494
@@ -523,6 +495,13 @@
   lon: -88.250951
   mus: 1
   name:  'William C. Fox Waterway'
+- fields: 1
+  img:  'http://lh4.ggpht.com/4LxsGZZMk3DnpJXUvqzrL54CHSP5TDXjUnDJyHmCCTtCJIjGEI7kxT9g4uxfSPh0X6yGLgQo1jfqbu7B8VEr'
+  lat: 40.099084
+  level: 8
+  lon: -88.251826
+  mus: 1
+  name:  'Irina P. Stewart Memorial Plaque'
 - fields: 1
   img:  'http://lh6.ggpht.com/t9_eydZD2uZIBwEmrNcPR2FWXjyVKK06CTbNoZQ682AuvHAsWKBewlbzTqH7yqOjuPMBBkqOGwETeqt6hoU'
   lat: 40.194618
