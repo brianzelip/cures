@@ -5,13 +5,13 @@
   lon: -88.239045
   mus: 323
   name:  'Layalina Mediterranean Grill'
-- fields: 4
-  img:  'http://lh5.ggpht.com/H3lz_PbTP4RFYuRMUyZuMouxslODKZQ3RjFiZrITFZcpj2FuEb1K2VVlveQtOyUHG2rYZ114AGuGqK4rATI5jg'
-  lat: 40.097868
+- fields: 7
+  img:  'http://lh3.googleusercontent.com/enpZZ8JRREFPTvYd3jbeUlpS-mmcwKe5fsvoWRPkfMUj6PijyI-5tbR55UItBoNJAFSl9fAAOvXb6BpWCJT4'
+  lat: 40.102495
   level: 6
-  lon: -88.242344
-  mus: 271
-  name:  'Campus Information Booth '
+  lon: -88.242132
+  mus: 305
+  name:  'Nuclear Physics Lab'
 - fields: 3
   img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
   lat: 40.098239
@@ -26,13 +26,20 @@
   lon: -88.290166
   mus: 206
   name:  'Millage Park'
-- fields: 5
-  img:  'http://lh6.ggpht.com/NMgUdPOdhvhvKZh7ugwXgybshZBZ2mkaEWMNKYdFPX6cfIYENSCqE9YpAXSNVuq_9VVWXJB-ShCBAPfF2Yvs'
-  lat: 40.102513
+- fields: 6
+  img:  'http://lh5.ggpht.com/oCw3ZC6UKF3aiK6dkbz72dhzUsJNhOmfVjVsXJET_YP5e1p53pLTa8Dep24gLqeY9FghWE0kaAB64vvn7nq0'
+  lat: 40.105008
   level: 7
-  lon: -88.243679
-  mus: 167
-  name:  'Robert Hosier Memorial Garden'
+  lon: -88.243265
+  mus: 158
+  name:  'McCollum Park Peacock'
+- fields: 3
+  img:  'http://lh5.ggpht.com/GN_FYcjKjamCNlfD8yA995MpcEHa9gIZVV6FBYtdeiNr_XgtCIN6gnN6_dSKwt-DenNMN_ZiJaG12iLuY6wt'
+  lat: 40.103588
+  level: 5
+  lon: -88.233095
+  mus: 139
+  name:  'Huff Hall'
 - fields: 2
   img:  'http://lh5.ggpht.com/_9uqsDQROIwqIhKx_URY4DdZAapoZBEWK6Eaclt5mM5vPsjwQAD-v8Bv-4b-Smq2F8X4zOgzLx2KwySkFWc'
   lat: 40.118448
@@ -40,13 +47,6 @@
   lon: -88.25211
   mus: 136
   name:  'First Church of Christ, Scientist'
-- fields: 3
-  img:  'http://lh5.ggpht.com/oCw3ZC6UKF3aiK6dkbz72dhzUsJNhOmfVjVsXJET_YP5e1p53pLTa8Dep24gLqeY9FghWE0kaAB64vvn7nq0'
-  lat: 40.105008
-  level: 7
-  lon: -88.243265
-  mus: 88
-  name:  'McCollum Park Peacock'
 - fields: 4
   img:  'http://lh3.ggpht.com/nGhmCwJD6bTZSD4fk-6vnaRZfPq8CI7zLMEDuUZFl7no1ZUFie42aJKdxr5r-212vPk5feGwGFfkMrb_IBc'
   lat: 40.195177
@@ -68,13 +68,6 @@
   lon: -88.231532
   mus: 59
   name:  'Graduate School of Library and Information Science'
-- fields: 4
-  img:  'http://lh6.ggpht.com/PrKWQe_StHjP7QQeyxlKiMSxAelIQlmbHzFMejewhMdVT0J-uvMpZCUGvQy_dZfrqfDnkmrIZYWkZORSGrnp'
-  lat: 40.088449
-  level: 5
-  lon: -88.251396
-  mus: 39
-  name:  'Boots''s Garden'
 - fields: 4
   img:  'http://lh5.ggpht.com/Zoidr1eUAO2UEM6SyifBpkC3K42Ctl355Krd3S2ZU3BbbIMt1XFKF4C35huJT7a-K1PMF6JCK3ztTnr2Wbc9zw'
   lat: 40.109178
@@ -103,6 +96,13 @@
   lon: -88.228733
   mus: 28
   name:  'The Centennial Colophon'
+- fields: 4
+  img:  'http://lh6.ggpht.com/PrKWQe_StHjP7QQeyxlKiMSxAelIQlmbHzFMejewhMdVT0J-uvMpZCUGvQy_dZfrqfDnkmrIZYWkZORSGrnp'
+  lat: 40.088449
+  level: 5
+  lon: -88.251396
+  mus: 25
+  name:  'Boots''s Garden'
 - fields: 2
   img:  'http://lh6.ggpht.com/CNYgRYuSUdbcdD0c5swcKnijf_aUAm4MrRE5ywl5AvGV5jc7gZOIjqgvq2z4zZFXYffjzJMYV-RxNg2RrgiV'
   lat: 40.094514
@@ -138,13 +138,6 @@
   lon: -88.248167
   mus: 14
   name:  'Healthcare Not War Mural'
-- fields: 3
-  img:  'http://lh3.ggpht.com/by946OhJ5ooOkbG4f662qjbXqvrQAd98E36mSJLgTsLgL_tb8GDpNxTOEhtgsjEhY-OzKmRxAmLFbYPscSH6'
-  lat: 40.101619
-  level: 7
-  lon: -88.233644
-  mus: 14
-  name:  'Taft-Van Doren Hall'
 - fields: 1
   img:  'http://lh4.ggpht.com/xMwEuzjKH4LukFYgVHCFzoHtcIDwSHLCurfqG9DRuRCZOyw6nN6x8-Qngw5rUbT5kSPl7zjxG_mCoyJNHc0N'
   lat: 40.080645
@@ -180,6 +173,13 @@
   lon: -88.245046
   mus: 11
   name:  'Eddie Thorpe''s Memorial Rock And Tree'
+- fields: 3
+  img:  'http://lh3.ggpht.com/by946OhJ5ooOkbG4f662qjbXqvrQAd98E36mSJLgTsLgL_tb8GDpNxTOEhtgsjEhY-OzKmRxAmLFbYPscSH6'
+  lat: 40.101619
+  level: 7
+  lon: -88.233644
+  mus: 11
+  name:  'Taft-Van Doren Hall'
 - fields: 5
   img:  'http://lh4.ggpht.com/-MJc8fCVxpxV7prlhkP3sXPWZ7jsr8Behc29zUJqdz_V57jSg7SzyMUUv7B9Frzu36mJhM2PQkr_LJk-zyM'
   lat: 40.117729
@@ -222,13 +222,6 @@
   lon: -88.237694
   mus: 8
   name:  'Lo Park Fountain'
-- fields: 1
-  img:  'http://lh6.ggpht.com/uaO1clC1eOzxRVRPPU6mVM4lEPV2U6uxh64a8kJNRglHSObClWlHGEcfJTknzwB_7Wli3doxQJbZKiBHIXI'
-  lat: 40.102834
-  level: 6
-  lon: -88.241672
-  mus: 7
-  name:  'Rehabilitation Education Center'
 - fields: 4
   img:  'http://lh4.ggpht.com/1BgYrJYdcGdepVZ6ibhTjtjZ6MyzKnQzLL4wxEnn_CEPnrJmOKHzPXm1qinGRA78MqKq11gKRlprm3Z7mDr0'
   lat: 40.115645
