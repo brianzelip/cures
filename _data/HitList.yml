@@ -113,7 +113,7 @@
 - fields: 9
   img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
   lat: 40.098246
-  level: 7
+  level: 8
   lon: -88.251974
   mus: 39
   name:  'Hessel Park'
@@ -190,7 +190,7 @@
 - fields: 6
   img:  'http://lh3.ggpht.com/lzCSS0_tjwUV7JQ2fgLI0e05IrzPxlVUs-6aEPOwUv67IanQJSTi71gkw0SGm8asmoE_r3Xoh048Fd9xRpE'
   lat: 40.099169
-  level: 5
+  level: 7
   lon: -88.251419
   mus: 12
   name:  'Lyman Larson Memorial'
@@ -251,9 +251,16 @@
   mus: 8
   name:  'Chester Street Bar'
 - fields: 5
+  img:  'http://lh3.ggpht.com/8Nxm7sw1mIfTkxKb-GsE_e5DuPgup8SmX1SJRLGZmvopdsQsPx8E9eDzuISKXBjwveamwn6H26EmIJZzVwkr'
+  lat: 40.117449
+  level: 6
+  lon: -88.246902
+  mus: 8
+  name:  'Champaign Park District Flower Island'
+- fields: 5
   img:  'http://lh3.ggpht.com/VLipBehsKPCp8ewQnBV1ZCz7uE75zcY46iGDyFfFHgX1o55t3DONb3wcBcL5RMYSqABRK0TgIW3DluNy8y6WaA'
   lat: 40.101131
-  level: 7
+  level: 8
   lon: -88.250539
   mus: 8
   name:  'Hessel Park'
@@ -272,19 +279,19 @@
   mus: 8
   name:  'Eddie Thorpe''s Memorial Rock And Tree'
 - fields: 7
-  img:  'http://lh4.ggpht.com/kikXgFanbehTzblqLlN2WzEcVgfnP2HD4JE7GI1GOKTu44g13lknkSsdu9prj71y0zKIBFJv_0RIkFW3vXY'
-  lat: 40.117574
-  level: 6
-  lon: -88.247603
-  mus: 7
-  name:  'Travis Marmion Memorial Tree'
-- fields: 7
   img:  'http://lh5.ggpht.com/8zq5tMevCiipZK8N9-8SZw3vdsA2HwH0E02ormQshGxHVZrB2WPK7OPC8zt6pjLlgpXVuEYHVA_08_Q8fPw-'
   lat: 40.099647
   level: 8
   lon: -88.249648
   mus: 7
   name:  'Max Overmyer Memorial Playground'
+- fields: 5
+  img:  'http://lh6.ggpht.com/xQx5BUJcAI_QUroJGe77pPkgV7s_ACVui8PXvCyvmehuDvenmRIvKBGeevOacNR6W3pLMMSh4sVrvXm87QeN2eylsZEtz7pxB-CMvzLmH1WyVZ16uw'
+  lat: 40.11786
+  level: 6
+  lon: -88.248031
+  mus: 7
+  name:  'Lincoln Megalith'
 - fields: 1
   img:  'http://lh6.ggpht.com/CNYgRYuSUdbcdD0c5swcKnijf_aUAm4MrRE5ywl5AvGV5jc7gZOIjqgvq2z4zZFXYffjzJMYV-RxNg2RrgiV'
   lat: 40.094514
@@ -313,13 +320,6 @@
   lon: -88.250864
   mus: 5
   name:  'Gabriel Patrick Maxeiner Memorial'
-- fields: 3
-  img:  'http://lh6.ggpht.com/xQx5BUJcAI_QUroJGe77pPkgV7s_ACVui8PXvCyvmehuDvenmRIvKBGeevOacNR6W3pLMMSh4sVrvXm87QeN2eylsZEtz7pxB-CMvzLmH1WyVZ16uw'
-  lat: 40.11786
-  level: 6
-  lon: -88.248031
-  mus: 4
-  name:  'Lincoln Megalith'
 - fields: 4
   img:  'http://lh4.ggpht.com/GO8F5d9Gz5q0tize1_1NxJ51SfmjJESFilw1OhfyI3I0RcdLFN2uKHr8prPX1KAdmabYL8PNJNjyqlgn7r9o'
   lat: 40.117537
@@ -334,13 +334,6 @@
   lon: -88.249208
   mus: 4
   name:  'In Fond Memory of William Moore Jr'
-- fields: 6
-  img:  'http://lh4.ggpht.com/ULEhKlvERD4aidwSKPhLFujl0N0mZWcHPxtcJ7hNJkyDjYek9yrB4UD_G8bU-O9-12L1LYpDkM068BiYmpm9weZeGJsz-K5whCvUYTfmDqaIp1Fp'
-  lat: 40.117
-  level: 6
-  lon: -88.247111
-  mus: 3
-  name:  'Wesley Robert Weedman Memorial'
 - fields: 3
   img:  'http://lh4.ggpht.com/vyb3xebaf6kWGvQZV2w4QYPG9Oq_jn5wQvUgg3Hp6yvCen9WsHW58eQR3VNCjHZWFzIM1qJ8oDbzRmhR3LM1'
   lat: 40.11233
@@ -355,6 +348,13 @@
   lon: -88.236182
   mus: 3
   name:  'Washington Park'
+- fields: 5
+  img:  'http://lh4.ggpht.com/7jfpHo9VtrONulGtzUfsP3lI3AsKBnUxCQaLU9xAMpVCQbWD24db4z9Otn0Sfz_OnEXSbdwKUGm3MZBV6QZrhQ'
+  lat: 40.117194
+  level: 6
+  lon: -88.247472
+  mus: 3
+  name:  'Rebecca Mabry Memorial Tree'
 - fields: 4
   img:  'http://lh4.ggpht.com/B_I1b0Jy3vW41RX8jjCNPP68AULplU0Pf8ddolyKmpEWCfBVShQkmjF1HfTPzDjmBBQGgOs0jHW-rUR0mv8BkA'
   lat: 40.098789
@@ -411,13 +411,13 @@
   lon: -88.230562
   mus: 2
   name:  'St. John''s Rectory'
-- fields: 3
-  img:  'http://lh6.ggpht.com/rjO65LTfxlehqnFITx_AAA2JKpsmpj8hWVQifyHaji2E1suLvQntKGeHtT8TjDg7CZ94W3wDKW2MrfGY45k'
-  lat: 40.11699
+- fields: 4
+  img:  'http://lh6.ggpht.com/tEtHQ3gjXHp940OLn9txVBSOCdT8UfYUs3C29Cgx6HiCLrS3KBboU3Wms2rEVMQWEf7lf67xfK7MIUmimDw'
+  lat: 40.116631
   level: 6
-  lon: -88.247796
+  lon: -88.247334
   mus: 2
-  name:  'Feathergill Honorary Plaque'
+  name:  'Jack C. Richmond Lion''s Club Bench'
 - fields: 2
   img:  'http://lh5.ggpht.com/M2qxWsTwaMcr-AB3UJByAcCokQ0ptyf7KOh8-SmB1Rsu9ZR9D_hI6lWNZF3oGtoU6FzZVeT08h3IEn-e-_8'
   lat: 40.1279
@@ -474,6 +474,13 @@
   lon: -88.251724
   mus: 2
   name:  'Blessings from Devon Elaine Cattell'
+- fields: 2
+  img:  'http://lh6.ggpht.com/rjO65LTfxlehqnFITx_AAA2JKpsmpj8hWVQifyHaji2E1suLvQntKGeHtT8TjDg7CZ94W3wDKW2MrfGY45k'
+  lat: 40.11699
+  level: 6
+  lon: -88.247796
+  mus: 2
+  name:  'Feathergill Honorary Plaque'
 - fields: 1
   img:  'http://lh3.ggpht.com/Prv8wUbEpOsrluZ4pHXYwIQLreDfbvMRV7kMb39yXob8h_r5vXNRC-wSR6pi-2NeP0uIRJsaeWtsGe96cJ_U'
   lat: 40.112295
@@ -502,6 +509,13 @@
   lon: -88.252345
   mus: 1
   name:  'Toalson Park Basketball Hoop'
+- fields: 1
+  img:  'http://lh3.ggpht.com/hBux3yLZOMWBK1dtc47OrhISfV3SPojGgtZOxqqf7-yoc82f280WMG1r2mi43iZQsqfwzmN53VJHHHEFVs0'
+  lat: 40.116458
+  level: 6
+  lon: -88.247065
+  mus: 1
+  name:  'West Side Park Entrance'
 - fields: 3
   img:  'http://lh4.ggpht.com/6iTxW6HC8WFx3nf6xEGhZryWVxW9NNijqTsEKvcBCBkmkmLZdUjaDHKReKT58cl8RUaCwDCL7pMFmBEyj3Fc'
   lat: 40.117602
@@ -509,6 +523,13 @@
   lon: -88.249943
   mus: 1
   name:  'Megan Schneider Patel Honorary Plaque'
+- fields: 1
+  img:  'http://lh4.ggpht.com/kikXgFanbehTzblqLlN2WzEcVgfnP2HD4JE7GI1GOKTu44g13lknkSsdu9prj71y0zKIBFJv_0RIkFW3vXY'
+  lat: 40.117574
+  level: 6
+  lon: -88.247603
+  mus: 1
+  name:  'Travis Marmion Memorial Tree'
 - fields: 2
   img:  'http://lh5.ggpht.com/_Tp5JJFIIlt0iHHyC_A_gnEm1sxUEKDHmQr0oby74HL0rnFZ5JrnuvOTPk6_vulsU_GJue_7RAAX2Y7I2Wxw4A'
   lat: 40.132354
@@ -523,13 +544,6 @@
   lon: -88.209
   mus: 1
   name:  'Church of Christ '
-- fields: 2
-  img:  'http://lh3.ggpht.com/hBux3yLZOMWBK1dtc47OrhISfV3SPojGgtZOxqqf7-yoc82f280WMG1r2mi43iZQsqfwzmN53VJHHHEFVs0'
-  lat: 40.116458
-  level: 6
-  lon: -88.247065
-  mus: 1
-  name:  'West Side Park Entrance'
 - fields: 2
   img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
   lat: 40.11784
