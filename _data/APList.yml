@@ -88,12 +88,6 @@
   level: 6
   lon: -88.287039
   name:  'Parkland College'
-- ap: 9283
-  img:  'http://lh3.googleusercontent.com/NRpdP-ebGuykq3sH1NZBQVjhmSdVJW3F4MTCRdXrWKQf3Z5dBgo0Phhyqnel5IrJmriQRmJNFR12lRDrjxJ9'
-  lat: 40.114911
-  level: 6
-  lon: -88.227781
-  name:  'Electrical & Computer Engineering Building'
 - ap: 8909
   img:  'http://lh6.ggpht.com/BKeORacgeVrG8XzxTuXmpq5UxomWpK-I2n7Xy0PVbdSciNx9MJl869TcibnFIiV5PJHGv5R3QOpX6ZgLUwU'
   lat: 40.099706
@@ -149,17 +143,17 @@
   lon: -88.251419
   name:  'Lyman Larson Memorial'
 - ap: 7972
-  img:  'http://lh3.ggpht.com/GXyi2ghi2DR3h7uIHNYiEZPYixRhDo7LO0WHQ0PyEzb-150r7ar7JGeVjUoPuObC-GFWf22UWqnYCMtED0M-'
-  lat: 40.100341
-  level: 8
-  lon: -88.249937
-  name:  'Alice Marie Weber Plaque'
-- ap: 7972
   img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
   lat: 40.098959
   level: 8
   lon: -88.250141
   name:  'Bob and Wilma Tinkham'
+- ap: 7972
+  img:  'http://lh3.ggpht.com/GXyi2ghi2DR3h7uIHNYiEZPYixRhDo7LO0WHQ0PyEzb-150r7ar7JGeVjUoPuObC-GFWf22UWqnYCMtED0M-'
+  lat: 40.100341
+  level: 8
+  lon: -88.249937
+  name:  'Alice Marie Weber Plaque'
 - ap: 7970
   img:  'http://lh3.ggpht.com/2bCNiD7SWsS3uzFLMO2cZh-LpHUEMQGnfTmcNx5vJapXho2TuXke630-7zop2Sq4fuY8nWVqy4VCG23mvnIJ'
   lat: 40.104168
@@ -172,12 +166,6 @@
   level: 8
   lon: -88.248681
   name:  'Siti Sculpture'
-- ap: 7783
-  img:  'http://lh3.ggpht.com/2WMtYMnBjTlw-gPK9quwjMde6Heie7SQHCZT41kPiIpOwxXEIQWbB_euK-R5rZhqUcmGuZJ0tIBh_801KGyVsw'
-  lat: 40.11453
-  level: 7
-  lon: -88.227324
-  name:  'Beckman Institute - Upwells Fountain'
 - ap: 7596
   img:  'http://lh5.ggpht.com/auV57ljlnFqueFTLTeFUjp6iIJxsNFs7P_alBDZ2FNvEvUPvRMBhZCrgQOVfMPf7RIyYAHZLElyAiVoJXCFYkw'
   lat: 40.135716
@@ -196,6 +184,18 @@
   level: 7
   lon: -88.25077
   name:  'Fox Development Corporation'
+- ap: 7446
+  img:  'http://lh3.googleusercontent.com/NRpdP-ebGuykq3sH1NZBQVjhmSdVJW3F4MTCRdXrWKQf3Z5dBgo0Phhyqnel5IrJmriQRmJNFR12lRDrjxJ9'
+  lat: 40.114911
+  level: 5
+  lon: -88.227781
+  name:  'Electrical & Computer Engineering Building'
+- ap: 7594
+  img:  'http://lh5.ggpht.com/KuDVZqnpBQnne0a_UqpN4wpsQFlw3nVXAWtRKP_AdZ3CjQ0MHUBgU_2hE8hb71h31FTQbduYmB6DNuVKA0s'
+  lat: 40.116822
+  level: 7
+  lon: -88.243445
+  name:  'Remembering Horeb'
 - ap: 7409
   img:  'http://lh5.ggpht.com/7MD3uqic9NvHKG2s5NBkAL6kdsBT10BzFJ6jTSaOfZS8mbyTlRDRYtizrxfH8ZvyqpRWXJHgmC5bk9imHqQf'
   lat: 40.114042
@@ -232,6 +232,12 @@
   level: 8
   lon: -88.251412
   name:  'Zeus Memorial'
+- ap: 7220
+  img:  'http://lh6.ggpht.com/oTEawnC2cPnZ7T10vs9tiueaLsN0ILM7tgPLWVfa0njwvTDrUvS-w8x5SK4iMDd0tuHYP2w5a-H0AQ4NaAyU'
+  lat: 40.116388
+  level: 7
+  lon: -88.243702
+  name:  'Cycles of Love'
 - ap: 7035
   img:  'http://lh6.ggpht.com/btym2_WGYuFNu2SNiR8qif7GXLMOPT7XpuHE7RPOipPC9Q5lEPfImKAzf2vm9RUe2rN0u3TePq4pM0IuZiLS'
   lat: 40.116436
@@ -293,12 +299,6 @@
   lon: -88.273955
   name:  'Northside Church of Christ'
 - ap: 7033
-  img:  'http://lh6.ggpht.com/oTEawnC2cPnZ7T10vs9tiueaLsN0ILM7tgPLWVfa0njwvTDrUvS-w8x5SK4iMDd0tuHYP2w5a-H0AQ4NaAyU'
-  lat: 40.116388
-  level: 7
-  lon: -88.243702
-  name:  'Cycles of Love'
-- ap: 7033
   img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
   lat: 40.098239
   level: 7
@@ -352,13 +352,13 @@
   level: 7
   lon: -88.241672
   name:  'Rehabilitation Education Center'
-- ap: 6657
-  img:  'http://lh5.ggpht.com/KuDVZqnpBQnne0a_UqpN4wpsQFlw3nVXAWtRKP_AdZ3CjQ0MHUBgU_2hE8hb71h31FTQbduYmB6DNuVKA0s'
-  lat: 40.116822
+- ap: 6846
+  img:  'http://lh3.ggpht.com/2WMtYMnBjTlw-gPK9quwjMde6Heie7SQHCZT41kPiIpOwxXEIQWbB_euK-R5rZhqUcmGuZJ0tIBh_801KGyVsw'
+  lat: 40.11453
   level: 7
-  lon: -88.243445
-  name:  'Remembering Horeb'
-- ap: 6472
+  lon: -88.227324
+  name:  'Beckman Institute - Upwells Fountain'
+- ap: 6659
   img:  'http://lh5.ggpht.com/Sgu5qG2Ltp9axQc8nEr3fJ_qvNo6-gwd5TuKMrk2LM9d5P7DDy0oCoWiGnr6Ybp84FGMh9DQYLnFtBTZtBIm'
   lat: 40.113606
   level: 7
@@ -538,10 +538,10 @@
   level: 5
   lon: -88.282707
   name:  'Champaign Cycle'
-- ap: 5572
+- ap: 5722
   img:  'http://lh5.ggpht.com/XQVr2AUWddJQMpYbapEIpcTLBeBvcpgmW016VjkAOXrp8_P2VsMxQY8FVhtDhA73iTCXCPiydjFIJcbcSa8_'
   lat: 40.116206
-  level: 4
+  level: 6
   lon: -88.24306
   name:  'Indigo Art Gallery'
 - ap: 5722
@@ -640,18 +640,6 @@
   level: 6
   lon: -88.235521
   name:  'Evans Scholars'
-- ap: 5348
-  img:  'http://lh3.ggpht.com/kAxEWb1VdMZ1-OTPwyl-CGWs0lF3FNth0gbxr6aqk6BaG_tfbCZM31s6UWKUY8aFtUA3j2GFL2z6yvu95yz3'
-  lat: 40.115068
-  level: 6
-  lon: -88.228451
-  name:  'Electrical and Computer Engineering Building'
-- ap: 5348
-  img:  'http://lh3.googleusercontent.com/EvLov_3eYLGHotkWec9w3T1VCPQri5SR8JLZjbJUaxRsyGPLS4YQNXf90xlPoKjxGYlml9N8IDYKwpNvVIWlVA'
-  lat: 40.114563
-  level: 6
-  lon: -88.228735
-  name:  'End Caps Sculpture at ECE'
 - ap: 5346
   img:  'http://lh6.ggpht.com/yQPHFh4brRKGyXx9PtGN3hQza65T2PIyjArUf9NgW5fqFvx9m22oY2acMcEwFcVRNh0MTfGqc0WfMJFOt1io'
   lat: 40.10725
@@ -790,6 +778,12 @@
   level: 6
   lon: -88.243408
   name:  'Downtown Fountain'
+- ap: 4598
+  img:  'http://lh5.ggpht.com/9XV46K2cUd84oc6HPyqlj53LKJS8lVs0f0gPHSCBkkTwiHaxivu36dlAj5M38EzK-2U4xhvZJ7AiVvGM5yk'
+  lat: 40.118175
+  level: 7
+  lon: -88.244562
+  name:  'The Russell Building'
 - ap: 4598
   img:  'http://lh3.ggpht.com/9aQBG-poFARclK9XL7iFIvWePkawZwWhv4Sh0zQhQ0Sy9gdDD508d4gCtpcUP9UNoYM6uztea0aQ05RPd9rZLg'
   lat: 40.115412
@@ -995,12 +989,6 @@
   lon: -88.240416
   name:  'Champaign Rail Water Tower'
 - ap: 3848
-  img:  'http://lh5.ggpht.com/9XV46K2cUd84oc6HPyqlj53LKJS8lVs0f0gPHSCBkkTwiHaxivu36dlAj5M38EzK-2U4xhvZJ7AiVvGM5yk'
-  lat: 40.118175
-  level: 7
-  lon: -88.244562
-  name:  'The Russell Building'
-- ap: 3848
   img:  'http://lh6.ggpht.com/q48Oqk2mm3dXQ2ppK-aYGXKjIiTAOEZfrFkiLK9LXRz2uN9hSKihKeCwfg33q1Z2zMTIMjqJRjPA1U_V3pbR6Q'
   lat: 40.104417
   level: 7
@@ -1037,17 +1025,17 @@
   lon: -88.292636
   name:  'Campus Solar System - Earth'
 - ap: 3661
-  img:  'http://lh6.ggpht.com/v2m1E6vVK4ZRaRPhGli7jCsG7xZQZ7I3vV_5AogdEpPU_A1vz9WEkH0vZ-vau2IAdmydYJcXrOA6SMr7vUfT'
-  lat: 40.128726
-  level: 5
-  lon: -88.290287
-  name:  'McMillen Ehler Homestead'
-- ap: 3661
   img:  'http://lh3.ggpht.com/PijfKs7HCJf1vVcIxcTF1HPOYaa5iS4ZECXZUQ2dDDSn9ZCXSd8FGHThRUiEIC-oMNmClt0seIzn8FsaGPER'
   lat: 40.112752
   level: 4
   lon: -88.289696
   name:  'El Toro Fountain'
+- ap: 3661
+  img:  'http://lh6.ggpht.com/v2m1E6vVK4ZRaRPhGli7jCsG7xZQZ7I3vV_5AogdEpPU_A1vz9WEkH0vZ-vau2IAdmydYJcXrOA6SMr7vUfT'
+  lat: 40.128726
+  level: 5
+  lon: -88.290287
+  name:  'McMillen Ehler Homestead'
 - ap: 3661
   img:  'http://lh3.ggpht.com/v6owBjQTW0Ic7DNqB1G7tGTabJj2wipvontg7ZdGq9uFodCHNMsZmcmLzQBXz98li6nEBpws0H0LUC6FhxA'
   lat: 40.107411
@@ -1114,6 +1102,12 @@
   level: 6
   lon: -88.243445
   name:  'Clock at Neil and Main'
+- ap: 3661
+  img:  'http://lh5.ggpht.com/6qIQAtIoPbAVQ1O3BoOnGg6gtTa9fd0JIkxt6P1kmSimVswLaPpCRaLEudsNcMfP_kKb4SCE1By1o3lhYevmIA'
+  lat: 40.1172
+  level: 6
+  lon: -88.243745
+  name:  'Circle of Friends'
 - ap: 3661
   img:  'http://lh3.ggpht.com/qWqDj3Ws5ffRyIXG8XxFM41dBDTOBhjCkDgKebjiDFo-5Fyj_ssgLQ_wLM82uWwB2jVkNIYN4nc5U2E3wZoBNQ'
   lat: 40.111037
@@ -1198,6 +1192,12 @@
   level: 6
   lon: -88.22709
   name:  'Nathan M. Newmark Civil Engineering Laboratory'
+- ap: 3436
+  img:  'http://lh3.ggpht.com/kAxEWb1VdMZ1-OTPwyl-CGWs0lF3FNth0gbxr6aqk6BaG_tfbCZM31s6UWKUY8aFtUA3j2GFL2z6yvu95yz3'
+  lat: 40.115068
+  level: 4
+  lon: -88.228451
+  name:  'Electrical and Computer Engineering Building'
 - ap: 3661
   img:  'http://lh3.ggpht.com/TNDkyQnVEXdm2c8_gpZa0jhlwhKtO0T8Yaqx9BCnvpjJHBRKYMu71Kz7U4wOp-eSKD5jlReyruVEwFyyvRLuZQ'
   lat: 40.129028
@@ -1415,12 +1415,6 @@
   lon: -88.228521
   name:  'Red Lines Sculpture'
 - ap: 3474
-  img:  'http://lh6.ggpht.com/Nv0tMktEkkuoGtg1QEPS1N2nTcBPg8ipu31i72XPDTGQ4HQI5oL58Ig8kofXUH_aCC2aaJ-NylWKPkC3hIBS'
-  lat: 40.116218
-  level: 5
-  lon: -88.228757
-  name:  'The Presidents'' Walk'
-- ap: 3474
   img:  'http://lh3.ggpht.com/3WnMbDq1Vm3HiqAM5qk1r9m3OqcO-YUN0nCOt2yRfUxVWLZ-8huxevlCI0JnIJgpSBZN4mtw0gxJnrGtuaS9iUf7k-JFfmRGRkBXQafWO9MIk_oJ'
   lat: 40.115491
   level: 6
@@ -1553,12 +1547,6 @@
   lon: -88.277784
   name:  'US Post Office'
 - ap: 2724
-  img:  'http://lh5.ggpht.com/kcTMx3CqTnXQqNvx00fF4K5HQ34eOunlWHiU7JEB4nKyl3U14EbEpsqxVT2opoz78bQFDtIZR0IKDuewhKCG'
-  lat: 40.119409
-  level: 4
-  lon: -88.242244
-  name:  'Vintage Orpheum Artwork'
-- ap: 2724
   img:  'http://lh3.ggpht.com/CwgYIhVaivHHg_U6yqu5KSGhSh9ipRBDu7G192KiQfrnXc7C8uh7UOh6MP91vhZJ3LZdiTaFwpvFukvIaj6J'
   lat: 40.117445
   level: 6
@@ -1570,18 +1558,18 @@
   level: 4
   lon: -88.238675
   name:  'Emerald City Lounge'
-- ap: 2574
-  img:  'http://lh5.ggpht.com/6qIQAtIoPbAVQ1O3BoOnGg6gtTa9fd0JIkxt6P1kmSimVswLaPpCRaLEudsNcMfP_kKb4SCE1By1o3lhYevmIA'
-  lat: 40.1172
-  level: 5
-  lon: -88.243745
-  name:  'Circle of Friends'
 - ap: 2724
   img:  'http://lh6.ggpht.com/BCoBN1k9qdgU4oqqht_93bj9zxyhLJFkws-e6kAP1Zoz97AaCfbgSYLSVeMERRNl3hLBAVTbcCUn41RUxMmC'
   lat: 40.116203
   level: 6
   lon: -88.23781
   name:  'Habitat For Humanity'
+- ap: 2724
+  img:  'http://lh5.ggpht.com/kcTMx3CqTnXQqNvx00fF4K5HQ34eOunlWHiU7JEB4nKyl3U14EbEpsqxVT2opoz78bQFDtIZR0IKDuewhKCG'
+  lat: 40.119409
+  level: 4
+  lon: -88.242244
+  name:  'Vintage Orpheum Artwork'
 - ap: 2724
   img:  'http://lh5.ggpht.com/kFv3Fx8zK5B4yXG5EhAGfNrmlQna8VDnlFgMaIk7ajlsW3Ny-Yfw29Cr2OQ2sWLRpbmRiiylV_DipCt1ozA5'
   lat: 40.116215
@@ -1716,12 +1704,6 @@
   name:  '7d3052ee9a6f48adb54198b1868f2fe6.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.714759
-  level: '?'
-  lon: -88.473589
-  name:  '3210233e62ce4931a16fbb519cdac05a.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.184013
   level: '?'
   lon: -88.425562
@@ -1732,6 +1714,12 @@
   level: 6
   lon: -88.313172
   name:  'Sunset Ridge Prairie '
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.714759
+  level: '?'
+  lon: -88.473589
+  name:  '3210233e62ce4931a16fbb519cdac05a.16'
 - ap: 2537
   img:  'http://lh3.ggpht.com/xSCQSCRT6pHyQi9LDI3OamMdZnhLQ06OSlHRHnJC0FkDo93VgOcr3gyAV0aPAKagwq9V5iViSSCgIr6_fWCB'
   lat: 40.134441
@@ -1823,6 +1811,12 @@
   lon: -88.235279
   name:  'Judson Chapel Baptist Church'
 - ap: 2537
+  img:  'http://lh3.ggpht.com/LunaMtSKD9yiLQClolDY-Iqh0ENm9AgJdL4D1QxGs0j6TXPgqxDZea35x5ilAfeI5_0TGh5x1q1EqRsJsLFi'
+  lat: 40.114111
+  level: 7
+  lon: -88.243697
+  name:  'Champaign Surplus'
+- ap: 2537
   img:  'http://lh3.ggpht.com/fvQtXA7uQ_ump_R8JixzV9ndFr5gVzIttL7RP9cD1MYPv5sui8NvcUwgkO7V83M9DpRjiqE505roZ62DjPgHCQ'
   lat: 40.122254
   level: 4
@@ -1864,6 +1858,12 @@
   level: 6
   lon: -88.247796
   name:  'Feathergill Honorary Plaque'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/FeG7Xn052FyJtG43yF0j2iYs3BdENjAx_oZUTzI70y4H0qeexU7B8NrXaT20cmXSKwnWV8xFSc3OlG_KQU09pE8fyCAYXWWPbTzC0_GZ1aynCFni'
+  lat: 40.116185
+  level: 6
+  lon: -88.243429
+  name:  'C.V. Lloyde'
 - ap: 2537
   img:  'http://lh3.ggpht.com/S2DoIWxkTKxG56hK4lv2QLq8peGyxtsYcpRM7vWxcHOxECyRXDdeMhD-3E7munflftWVVu_FusxLxzJKIOI'
   lat: 40.110892
@@ -1966,6 +1966,12 @@
   level: 5
   lon: -88.238623
   name:  'Champaign County Historical Museum'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/f1O8bFXHTg2PTOAUVLvrqk5xx5ps9SeqhpJ1RIPtSxm0I-e7J275e2ujJp3lFQGHUBW_vS90KOsrcdLDJ84l4g'
+  lat: 40.110797
+  level: 4
+  lon: -88.225321
+  name:  'Multiphase Fluid Dynamics Plaque'
 - ap: 2462
   img:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
   lat: 40.108173
@@ -2039,12 +2045,6 @@
   lon: -88.231532
   name:  'Graduate School of Library and Information Science'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/f1O8bFXHTg2PTOAUVLvrqk5xx5ps9SeqhpJ1RIPtSxm0I-e7J275e2ujJp3lFQGHUBW_vS90KOsrcdLDJ84l4g'
-  lat: 40.110797
-  level: 4
-  lon: -88.225321
-  name:  'Multiphase Fluid Dynamics Plaque'
-- ap: 2537
   img:  'http://lh3.ggpht.com/oSQ_YOHo2mfYjOa8bPK9ellznKK29UluW-SeXoGYra9VFg8dJp6YQRdHbHHaTExqXs1qUMBNmpI2hUPcC4GI'
   lat: 40.106789
   level: 6
@@ -2068,6 +2068,12 @@
   level: 5
   lon: -88.229031
   name:  'Illini Hall'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/Nv0tMktEkkuoGtg1QEPS1N2nTcBPg8ipu31i72XPDTGQ4HQI5oL58Ig8kofXUH_aCC2aaJ-NylWKPkC3hIBS'
+  lat: 40.116218
+  level: 5
+  lon: -88.228757
+  name:  'The Presidents'' Walk'
 - ap: 2537
   img:  'http://lh4.ggpht.com/KS4k0iDFceOcG_wEnQeqAeJpCkwjbjTItb2FUsyUJGsnhDizNqvrXmfee70SUhCcQ10_m1vv1vtcNRrFhIc'
   lat: 40.126039
