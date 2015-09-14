@@ -1,17 +1,17 @@
-- fields: 4+
+- fields: 6+
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.312242
+  level: '?'
+  lon: -88.201368
+  mus: 319172
+  name:  '2012 Employee Dedication Bench'
+- fields: 5+
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.152792
   level: '?'
   lon: -88.253532
-  mus: 53516
+  mus: 3333
   name:  'Toalson Park'
-- fields: 2
-  img:  'http://lh3.ggpht.com/XdibKdkdUGtpg5U33uGSqLW5PByta7qa3MVpc7BLiGlNhAaT7yt7-m02TlcBpzSiNFD6rPNiEGFv_wx0gcvgJA'
-  lat: 40.069447
-  level: 3
-  lon: -88.289932
-  mus: 855
-  name:  'Curtis Road Church of God'
 - fields: 4
   img:  'http://lh5.ggpht.com/QruW49d2dc1uhQlK1BaZIeo6ruDNkqQfmvZz83eQ-1aC9ytGUcpFaHnKRTnXRc70F2EZ0-pVKGr9Slo0_9RfxA'
   lat: 40.139749
@@ -19,12 +19,12 @@
   lon: -88.273955
   mus: 591
   name:  'Northside Church of Christ'
-- fields: 13
+- fields: 11
   img:  'http://lh5.ggpht.com/zdaFJ-aI4Re55DtEiADt-qd1MMBuWZqEByU3BbT-0eYI80maTD-8JB5vJgtwKPFsFk-V75s-itU-cBisa-W9'
   lat: 40.132819
   level: 7
   lon: -88.286151
-  mus: 495
+  mus: 468
   name:  'Dodds Park'
 - fields: 8
   img:  'http://lh4.ggpht.com/XlTZ26_29c4-74t23p1lgghqNfLI7aS3_kradmcl7vVQzV9jJRu78D1HdzJf-sWibnak644kxCBJDnA594PVaw'
@@ -103,13 +103,6 @@
   lon: -88.251974
   mus: 39
   name:  'Hessel Park'
-- fields: 9
-  img:  'http://lh6.ggpht.com/6pMlM7pPsp-5PTNYZ8AJgo5ODURCPJO-_LigeHL2TMhjfK9MS17iEcpQqc89n5gyUdEO8seZrlThTGbKEqg'
-  lat: 40.132999
-  level: 7
-  lon: -88.292808
-  mus: 36
-  name:  'Campus Solar System - Mars'
 - fields: 1
   img:  'http://lh6.ggpht.com/A3o1Nm3JPbfRGX8fs0D87GlAc2sSTKVl6IimAZxRyIfLyPcsMcbx7s4WqUTkMcz70wzyETv1zaJZtlBTRdBG'
   lat: 40.083723
@@ -138,6 +131,13 @@
   lon: -88.289889
   mus: 22
   name:  'Optimist Club Dedication 1991'
+- fields: 5
+  img:  'http://lh6.ggpht.com/6pMlM7pPsp-5PTNYZ8AJgo5ODURCPJO-_LigeHL2TMhjfK9MS17iEcpQqc89n5gyUdEO8seZrlThTGbKEqg'
+  lat: 40.132999
+  level: 7
+  lon: -88.292808
+  mus: 18
+  name:  'Campus Solar System - Mars'
 - fields: 1
   img:  'http://lh3.ggpht.com/TNDkyQnVEXdm2c8_gpZa0jhlwhKtO0T8Yaqx9BCnvpjJHBRKYMu71Kz7U4wOp-eSKD5jlReyruVEwFyyvRLuZQ'
   lat: 40.129028
@@ -232,7 +232,7 @@
 - fields: 10
   img:  'http://lh6.ggpht.com/cZVUlNaHjfsB6Lu5hnj8JjUk4lvsgOV7DFz4Nl47-RaQObW1VPRpos6hTDD6WgYrNxCh9UKfn5DFU-K7lRe9pQ'
   lat: 40.1164
-  level: 5
+  level: 6
   lon: -88.242747
   mus: 8
   name:  'Sidewalk Art'
@@ -278,13 +278,6 @@
   lon: -88.249061
   mus: 6
   name:  'Randy William Auteberry Memorial'
-- fields: 3
-  img:  'http://lh4.ggpht.com/IM3Yvrk727rz6f1euz6nTpei6llE4E4oqn_l-WbxZIN3K6dF8pEa7wGKzbjqfr0DBRubxiNFztHBePH9-Iw'
-  lat: 40.132147
-  level: 5
-  lon: -88.291251
-  mus: 6
-  name:  'Staerkel Planetarium '
 - fields: 1
   img:  'http://lh5.ggpht.com/_CP_-V0UvlMpMCqxcu9H9suYfz6p6k40F5AIKnuJ3QbMbi14OTTsoYC38b4Z2dg8FjHGQZJI7Vj7ClyH_eQ7'
   lat: 40.108108
@@ -376,6 +369,13 @@
   lon: -88.247334
   mus: 3
   name:  'Jack C. Richmond Lion''s Club Bench'
+- fields: 5
+  img:  'http://lh4.ggpht.com/xS51--rXA9M_IHpXWgFQxKZU-YbD-1zk-nug6k7RyKl8rYeam_YFwMmLNWRRHHzI-rOTGyhTJQQ314WudSQJ'
+  lat: 40.117132
+  level: 6
+  lon: -88.243009
+  mus: 2
+  name:  'Fountain in the Alley'
 - fields: 3
   img:  'http://lh6.ggpht.com/YVbqGVTjJuDMDdj71CP2mWvnUIdgO25PgoDdJwEGnEE_M9I1aDgKyjSr9JOZVU6UQTZQtfUo9RAWyz92n3jtCQ'
   lat: 40.098475
@@ -383,13 +383,13 @@
   lon: -88.249208
   mus: 2
   name:  'In Fond Memory of William Moore Jr'
-- fields: 4
-  img:  'http://lh4.ggpht.com/xS51--rXA9M_IHpXWgFQxKZU-YbD-1zk-nug6k7RyKl8rYeam_YFwMmLNWRRHHzI-rOTGyhTJQQ314WudSQJ'
-  lat: 40.117132
-  level: 6
-  lon: -88.243009
+- fields: 3
+  img:  'http://lh3.ggpht.com/PKHUaHtGQlwpb8q3mUpPJtjb51_am_ieb_9X0u8g1PI_eg7NxFQU2fqeV8XjnIIDy0rCMtqsfMJLerOBo8M'
+  lat: 40.118579
+  level: 7
+  lon: -88.244588
   mus: 2
-  name:  'Fountain in the Alley'
+  name:  'Mural on Art Theatre'
 - fields: 2
   img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
   lat: 40.117976
@@ -440,13 +440,6 @@
   mus: 1
   name:  'Max Overmyer Memorial Playground'
 - fields: 2
-  img:  'http://lh3.ggpht.com/PKHUaHtGQlwpb8q3mUpPJtjb51_am_ieb_9X0u8g1PI_eg7NxFQU2fqeV8XjnIIDy0rCMtqsfMJLerOBo8M'
-  lat: 40.118579
-  level: 7
-  lon: -88.244588
-  mus: 1
-  name:  'Mural on Art Theatre'
-- fields: 2
   img:  'http://lh3.ggpht.com/UoqoA4-SqK1X44o_0alM-QL57jhssYrhXZdeS1Ph9C5k_PjEXhPB_rJsbzTZ2hWbGDdartAlnZnfw3vb7DAG'
   lat: 40.099177
   level: 5
@@ -484,7 +477,7 @@
 - fields: 1
   img:  'http://lh5.ggpht.com/XQVr2AUWddJQMpYbapEIpcTLBeBvcpgmW016VjkAOXrp8_P2VsMxQY8FVhtDhA73iTCXCPiydjFIJcbcSa8_'
   lat: 40.116206
-  level: 4
+  level: 6
   lon: -88.24306
   mus: 1
   name:  'Indigo Art Gallery'
