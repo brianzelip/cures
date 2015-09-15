@@ -203,17 +203,17 @@
   lon: -88.24306
   name:  'Indigo Art Gallery'
 - ap: 8159
-  img:  'http://lh6.ggpht.com/ea6HxAw7m0OhhPqJJkZR9u60pR1sab_JdxaOyEltqmQd-63FFJzPY72jEnu08g9Gcjjj5cf3jyyS_M1E7OIbfg'
-  lat: 40.11616
-  level: 7
-  lon: -88.241422
-  name:  'It''s A Mistree'
-- ap: 8159
   img:  'http://lh3.ggpht.com/-MRGQEVV5mNMzB4sb8JAsgVC56kTzYaFEf3mpRsfXAiO4KIrLw3LGFkt7Au97yDwY-AUSfghHcri53Zpmn-Z4Q'
   lat: 40.11621
   level: 6
   lon: -88.242535
   name:  'Inman Building Historic Plaque'
+- ap: 8159
+  img:  'http://lh6.ggpht.com/ea6HxAw7m0OhhPqJJkZR9u60pR1sab_JdxaOyEltqmQd-63FFJzPY72jEnu08g9Gcjjj5cf3jyyS_M1E7OIbfg'
+  lat: 40.11616
+  level: 7
+  lon: -88.241422
+  name:  'It''s A Mistree'
 - ap: 8159
   img:  'http://lh4.ggpht.com/Gyz7BDhWdUinBQfD8duByX5-aBgPmB9oSesH20dH8uGJnTiaIHkeRJARtH6YQUUD5A5X2IjPTlT989AfutNc'
   lat: 40.092773
@@ -731,12 +731,6 @@
   lon: -88.30035
   name:  'Barb Babb Memorial Plaque'
 - ap: 5348
-  img:  'http://lh3.googleusercontent.com/W5PjcRhelt3420IFjpSdOXtmIiv0M99Qv9Xupe6lckHDJDW4zHE9GyACkz8wXBF0_OIO2Jex9d7S8UQ4FJLa'
-  lat: 40.118361
-  level: 7
-  lon: -88.244573
-  name:  'Art Theater'
-- ap: 5348
   img:  'http://lh5.ggpht.com/9XV46K2cUd84oc6HPyqlj53LKJS8lVs0f0gPHSCBkkTwiHaxivu36dlAj5M38EzK-2U4xhvZJ7AiVvGM5yk'
   lat: 40.118175
   level: 7
@@ -754,6 +748,12 @@
   level: 6
   lon: -88.24346
   name:  'Entrance'
+- ap: 5348
+  img:  'http://lh3.googleusercontent.com/W5PjcRhelt3420IFjpSdOXtmIiv0M99Qv9Xupe6lckHDJDW4zHE9GyACkz8wXBF0_OIO2Jex9d7S8UQ4FJLa'
+  lat: 40.118361
+  level: 7
+  lon: -88.244573
+  name:  'Art Theater'
 - ap: 5348
   img:  'http://lh6.ggpht.com/NMgUdPOdhvhvKZh7ugwXgybshZBZ2mkaEWMNKYdFPX6cfIYENSCqE9YpAXSNVuq_9VVWXJB-ShCBAPfF2Yvs'
   lat: 40.102513
@@ -1168,6 +1168,18 @@
   level: 5
   lon: -88.282612
   name:  'Winifred Nielubowski Memorial Plaque'
+- ap: 3848
+  img:  'http://lh4.ggpht.com/ik1uVZ-KWyRH4dh51LJI7gFmnM7bmfSZ-1YqfELbVQEvuo-gEx2QpG6jQpFPeAlFPi2rVPAuzRmXMD0Whsm2HA'
+  lat: 40.122038
+  level: 6
+  lon: -88.245318
+  name:  'The Old Residential Block'
+- ap: 3848
+  img:  'http://lh4.ggpht.com/0JuC7vEVtmbgkx1FUhaTylcKfKuYoGNdW2P5GNZzGbeOzxEH0Q-9gP9gmmBzx2bkLNA0dnw9FiEJYiHjWXM'
+  lat: 40.121329
+  level: 7
+  lon: -88.24558
+  name:  'The Gregory'
 - ap: 3773
   img:  'http://lh6.ggpht.com/BANSBFfuZ3_0ya-JodV7jEB1a-DwSOyegBwPKAODSUFHLmvI7b8zwSiLUAvvqIAYjpU6S_Lm8XRBJ30KDGCIEg'
   lat: 40.116917
@@ -1186,18 +1198,6 @@
   level: 6
   lon: -88.235143
   name:  'US Post Office, E Green St, Champaign'
-- ap: 3848
-  img:  'http://lh4.ggpht.com/ik1uVZ-KWyRH4dh51LJI7gFmnM7bmfSZ-1YqfELbVQEvuo-gEx2QpG6jQpFPeAlFPi2rVPAuzRmXMD0Whsm2HA'
-  lat: 40.122038
-  level: 6
-  lon: -88.245318
-  name:  'The Old Residential Block'
-- ap: 3848
-  img:  'http://lh4.ggpht.com/0JuC7vEVtmbgkx1FUhaTylcKfKuYoGNdW2P5GNZzGbeOzxEH0Q-9gP9gmmBzx2bkLNA0dnw9FiEJYiHjWXM'
-  lat: 40.121329
-  level: 7
-  lon: -88.24558
-  name:  'The Gregory'
 - ap: 3848
   img:  'http://lh4.ggpht.com/B2vdd-GNe0spcXIaZEpymMOiuYG2F1pR2kZ0-STAGZ2swwtYgJqAcuxlK21aFy2lLA_L2Kibx6SRVzfzm_al'
   lat: 40.117216
@@ -1565,17 +1565,17 @@
   lon: -88.247785
   name:  'Jarling''s Custard Cup'
 - ap: 3474
-  img:  'http://lh3.ggpht.com/X30u-Y3JoCurNlH3pvt-DlJeV7obUlOeBDbH-tkN6QcPEHvknjSz3nYF8EGtXWani_tyNgcyl2naDFhje8E'
-  lat: 40.083706
-  level: 6
-  lon: -88.251419
-  name:  'Harlan E. Moore Park'
-- ap: 3474
   img:  'http://lh4.ggpht.com/DJiaqGgwCaKSjYczELIcjQOeBtoEqd--7TZYBJWO9_Nd16vjKwlco9tKatJTdAKT1CPoO7Cj39_rZvp8p0Ch'
   lat: 40.087241
   level: 7
   lon: -88.248222
   name:  'NCSA Blue Waters'
+- ap: 3474
+  img:  'http://lh3.ggpht.com/X30u-Y3JoCurNlH3pvt-DlJeV7obUlOeBDbH-tkN6QcPEHvknjSz3nYF8EGtXWani_tyNgcyl2naDFhje8E'
+  lat: 40.083706
+  level: 6
+  lon: -88.251419
+  name:  'Harlan E. Moore Park'
 - ap: 3474
   img:  'http://lh6.ggpht.com/TXVMllOHjnPSJgg_7oE4ZuY82xJs56TE9AbaxAFxXWiD5yKwlOZUHfx74BaxCzczl9hTtaKqkaDsA4LeZ94'
   lat: 40.110617
@@ -1786,6 +1786,18 @@
   level: 6
   lon: -88.227214
   name:  'Under the Sea Mural at Presence Covenant'
+- ap: 2649
+  img:  'http://lh6.ggpht.com/5tR3GirLCJ25x9j0BfwipsCOjlPMYGMmFrzEkhsJ4eGZ84FFe1_KnUmW3OBzAKAzQgPWPxt1WLJG2DvjFy6W'
+  lat: 40.109015
+  level: 5
+  lon: -88.224982
+  name:  'John J. Morris Jr. Memorial'
+- ap: 2724
+  img:  'http://lh6.ggpht.com/WtqWBwqpYTSw3g9ru5NwcFn5iK5STxWgy2kv4OUTWqwtzx76-9Msz0eqoiw0qpEYE1U4zdt9rzzNZMDNagNg'
+  lat: 40.107943
+  level: 5
+  lon: -88.226751
+  name:  'Class Of 1917 Plaque'
 - ap: 2724
   img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
   lat: 40.108066
@@ -1804,18 +1816,6 @@
   level: 5
   lon: -88.233095
   name:  'Huff Hall'
-- ap: 2649
-  img:  'http://lh6.ggpht.com/5tR3GirLCJ25x9j0BfwipsCOjlPMYGMmFrzEkhsJ4eGZ84FFe1_KnUmW3OBzAKAzQgPWPxt1WLJG2DvjFy6W'
-  lat: 40.109015
-  level: 5
-  lon: -88.224982
-  name:  'John J. Morris Jr. Memorial'
-- ap: 2724
-  img:  'http://lh6.ggpht.com/WtqWBwqpYTSw3g9ru5NwcFn5iK5STxWgy2kv4OUTWqwtzx76-9Msz0eqoiw0qpEYE1U4zdt9rzzNZMDNagNg'
-  lat: 40.107943
-  level: 5
-  lon: -88.226751
-  name:  'Class Of 1917 Plaque'
 - ap: 2499
   img:  'http://lh4.ggpht.com/MhW7sdKYdOt__Gmefy7CMOI4_Q8_dqGGb_qolwk4Uf7b_fpr8t5QM5QiCFUOe_ZpsgAfLhPSU_lbVTX5DIEX'
   lat: 40.125951
@@ -2141,17 +2141,17 @@
   lon: -88.240623
   name:  'Depot Barber Shop'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/BakPypxJUdTOMFo4cSzlewsmPlHw3DyQp4kVY2zAFfJvhvj9CnaQm6cqvB22BqjknBbUYxEb_eYnIZ2skgfO'
-  lat: 40.11586
-  level: 6
-  lon: -88.227238
-  name:  'Flow'
-- ap: 2537
   img:  'http://lh3.ggpht.com/gmbd8dsk--9MGBF9b8_huzNpPbjrzDw5R9UjqSiA05cRHUIOQRcR-dODKZ9oGUjBnMfufSVzvCekV_YsoOM_'
   lat: 40.118013
   level: 6
   lon: -88.227532
   name:  'Presence Medical Center Triplet Mural'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/BakPypxJUdTOMFo4cSzlewsmPlHw3DyQp4kVY2zAFfJvhvj9CnaQm6cqvB22BqjknBbUYxEb_eYnIZ2skgfO'
+  lat: 40.11586
+  level: 6
+  lon: -88.227238
+  name:  'Flow'
 - ap: 2537
   img:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
   lat: 40.108173
@@ -2195,11 +2195,11 @@
   lon: -88.22715
   name:  'Ross J. Martin Memorial'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
-  lat: 40.107751
+  img:  'http://lh5.ggpht.com/3RfiPeOzF67ubNX-vkwUJ6-EYld6BKuoBernq0_9kOjlIsSPr3saR9FIQzN7uiw7ouF0CpNflOnL0mUj9zbqdQ'
+  lat: 40.109452
   level: 5
-  lon: -88.231532
-  name:  'Graduate School of Library and Information Science'
+  lon: -88.229031
+  name:  'Illini Hall'
 - ap: 2312
   img:  'http://lh3.ggpht.com/oSQ_YOHo2mfYjOa8bPK9ellznKK29UluW-SeXoGYra9VFg8dJp6YQRdHbHHaTExqXs1qUMBNmpI2hUPcC4GI'
   lat: 40.106789
@@ -2213,11 +2213,11 @@
   lon: -88.225702
   name:  'Centennial Court'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/3RfiPeOzF67ubNX-vkwUJ6-EYld6BKuoBernq0_9kOjlIsSPr3saR9FIQzN7uiw7ouF0CpNflOnL0mUj9zbqdQ'
-  lat: 40.109452
+  img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
+  lat: 40.107751
   level: 5
-  lon: -88.229031
-  name:  'Illini Hall'
+  lon: -88.231532
+  name:  'Graduate School of Library and Information Science'
 - ap: 2537
   img:  'http://lh6.ggpht.com/dIDmkL7jHZb1am2ptK9LrO6Ht_8jTKb3IOvGamBqIYzLXPgtEoPCV_9dMsqLxrgz8_MSq3UsEy9t49y_pqOd'
   lat: 40.125715
