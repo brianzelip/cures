@@ -232,7 +232,7 @@
 - fields: 7
   img:  'http://lh3.ggpht.com/pSjbhtlYxUKJ7DAhIfw-L5rTjo3YJd0aVDlQWVWf1Nhpy75H-xsx_e3pykgTmN7RJ7s9PPBglL3WEexII2zoIXi3iSI5j1ht573t3HM_y3ZlIMKy'
   lat: 40.111715
-  level: 2
+  level: 4
   lon: -88.207738
   mus: 167
   name:  'Urbana''s Bell'
@@ -439,12 +439,12 @@
   lon: -88.210407
   mus: 43
   name:  'Leal Park'
-- fields: 5
+- fields: 6
   img:  'http://lh6.ggpht.com/NKXSF6GiNQjQkGMo2cwszdfKruFPx3kqSmhOnKewgIS5FYC7jBNc3zKfRlEWtCBj-XBFLZM0fjURljdmMCGHTp6XADSQdWjVAmjnaudxBI5YSWFw'
   lat: 40.110465
   level: 6
   lon: -88.204813
-  mus: 37
+  mus: 42
   name:  'Urbana Municipal Building Sculpture'
 - fields: 1
   img:  'http://lh6.ggpht.com/CjGtsHHgFdynwl18X86xFdk1vP9zWChwHuICQfKI1HNPnOkDW-hyka32MWx6jQ65tnPLHrvQdIN0UtDKTms'
@@ -488,6 +488,20 @@
   lon: -88.262892
   mus: 34
   name:  'New Life of Champaign United Pentecostal Church'
+- fields: 3
+  img:  'http://lh3.ggpht.com/0NohpRguugkeCSzUJOqr7lYZsge5BLCbvWjWgDb3GFPe1uu8L6PXoPHL_90_p-1zU82bRB59DxMUCZFATSA'
+  lat: 40.110813
+  level: 5
+  lon: -88.210005
+  mus: 30
+  name:  'Bench'
+- fields: 3
+  img:  'http://lh4.ggpht.com/DppAipH86hwYpla2jOPHj7EKwNlYz4MBLqpUZCiBtWIXGgLhqX--9-pLGy_r9evlKYKOOsPC5AjPJz_ew9Vqhg'
+  lat: 40.11077
+  level: 5
+  lon: -88.211616
+  mus: 30
+  name:  'Sylvia''s Irish Inn'
 - fields: 4
   img:  'http://lh3.ggpht.com/WWhYcmz7SmE72z0SL44DRgW7htbIekUCuGiMB3k2U4oqOpii2n2vl1T7LX91Izu4VR89_uvBjK0HYR2KBM8'
   lat: 40.100276
@@ -509,6 +523,13 @@
   lon: -88.221891
   mus: 28
   name:  'ISR Courtyard'
+- fields: 2
+  img:  'http://lh6.ggpht.com/nrAKluq6HmQX42cyEBf_ThQ4s-v7QYss-n-a2Ostt7_Qs96wIxHXwqh1JPiIwsuml0lnvn2M0pnIKX5ftwxFzg'
+  lat: 40.112235
+  level: 6
+  lon: -88.212586
+  mus: 28
+  name:  'Yoga Institute Of C-U'
 - fields: 3
   img:  'http://lh6.ggpht.com/3ZEd6u4KNuEeG2zjptZ4-RaBVbF8mJLhDD3V44QD_XbTEacqI_N_st19kGQ952krXcu3nq_Keci-4AtrnETR'
   lat: 40.116776
@@ -537,13 +558,6 @@
   lon: -88.225191
   mus: 25
   name:  'Eleanor Hammers Boner'
-- fields: 1
-  img:  'http://lh3.ggpht.com/0NohpRguugkeCSzUJOqr7lYZsge5BLCbvWjWgDb3GFPe1uu8L6PXoPHL_90_p-1zU82bRB59DxMUCZFATSA'
-  lat: 40.110813
-  level: 5
-  lon: -88.210005
-  mus: 23
-  name:  'Bench'
 - fields: 2
   img:  'http://lh6.ggpht.com/egg-GJTeWFUK6QAZ7fQqMwf7aGRS4QcRetrEja7g2EwZf4mR7qv5HBbA64238ZtBOXVI_TwGYBo9g77alceB'
   lat: 40.099033
@@ -572,20 +586,6 @@
   lon: -88.214863
   mus: 20
   name:  'Earth Care Bell Urbana'
-- fields: 1
-  img:  'http://lh4.ggpht.com/DppAipH86hwYpla2jOPHj7EKwNlYz4MBLqpUZCiBtWIXGgLhqX--9-pLGy_r9evlKYKOOsPC5AjPJz_ew9Vqhg'
-  lat: 40.11077
-  level: 5
-  lon: -88.211616
-  mus: 20
-  name:  'Sylvia''s Irish Inn'
-- fields: 1
-  img:  'http://lh6.ggpht.com/nrAKluq6HmQX42cyEBf_ThQ4s-v7QYss-n-a2Ostt7_Qs96wIxHXwqh1JPiIwsuml0lnvn2M0pnIKX5ftwxFzg'
-  lat: 40.112235
-  level: 6
-  lon: -88.212586
-  mus: 20
-  name:  'Yoga Institute Of C-U'
 - fields: 2
   img:  'http://lh4.ggpht.com/pzRTAVFaG9fsbbBGsLcfuuuMTyFMlR-4-9PAscV7k8pq1vigvt85skTSjpMgKCYMvlC8aY-EOqCxuGOEujXLig'
   lat: 40.124906
@@ -712,6 +712,13 @@
   lon: -88.260193
   mus: 8
   name:  'New Foundation Missionary Baptist Church'
+- fields: 1
+  img:  'http://lh4.ggpht.com/T-3m7oONVYzd6ptHZ4WIUTKJCldySCRaRavDdoGCk6yZ2FgcDSXVAwBJKNgoNfi7qVhAWCN9fWqhRzQ-dyBo'
+  lat: 40.112954
+  level: 3
+  lon: -88.211718
+  mus: 8
+  name:  'Frances Patterson Memorial'
 - fields: 6
   img:  'http://lh5.ggpht.com/w9vRSV8NBR1gsi8ndeSUNJN2X-ftwCCQ7Jd3dcLVhPw6r1w0x1QE4hNgpCJBKimUeq-HToz_yq9S3rYkzC5bjw'
   lat: 40.114687
@@ -719,6 +726,13 @@
   lon: -88.22473
   mus: 8
   name:  'Web Browser Plaque'
+- fields: 2
+  img:  'http://lh6.ggpht.com/2T-yFizCXTUh9PJYVfD73AfFhWiFJFHcsHiH6EhQ9RA7csDC1PaYMQx1tkIePJTGABCLcLfs3LgcSiP3qmywdw'
+  lat: 40.110504
+  level: 5
+  lon: -88.209
+  mus: 8
+  name:  'Church of Christ '
 - fields: 8
   img:  'http://lh4.ggpht.com/Mr8XeGiDafWk47NSkxDW3WManlpDnqzQWOT1VE2j0f0jFdh3tCvvntj45n1BJEnHylldZRnpPEOJ8OLeFZI'
   lat: 40.114405

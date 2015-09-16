@@ -1,9 +1,16 @@
 - fields: 8+
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.312242
+  level: '?'
+  lon: -88.201368
+  mus: 639783
+  name:  '2012 Employee Dedication Bench'
+- fields: 8+
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.152792
   level: '?'
   lon: -88.253532
-  mus: 4203
+  mus: 5786
   name:  'Toalson Park'
 - fields: 9
   img:  'http://lh6.ggpht.com/CNYgRYuSUdbcdD0c5swcKnijf_aUAm4MrRE5ywl5AvGV5jc7gZOIjqgvq2z4zZFXYffjzJMYV-RxNg2RrgiV'
@@ -55,12 +62,12 @@
   mus: 197
   name:  'Campus Solar System - Jupiter'
 - fields: 5
-  img:  'http://lh6.ggpht.com/f3cOUn1gqLkJZQzs4-Y9j6j2ZXbb1Kmzf3klCFzF8zmFSlZZ-B6O4-5t1KIX95jbYUjeqMgOohEf1ilF75Uqyw'
-  lat: 40.132777
-  level: 6
-  lon: -88.287351
-  mus: 191
-  name:  'Parkland College Prairie Restoration Reserve'
+  img:  'http://lh5.ggpht.com/THzk1iE4eBFdHkEgW_OGBWS54BbJw46faUZQS1Ad_IROHGgmVaXrphXJuL1O8N9k4G8_jaDT4P9tmLxMNi0W'
+  lat: 40.131713
+  level: 7
+  lon: -88.29276
+  mus: 188
+  name:  'Campus Solar System - Sun'
 - fields: 5
   img:  'http://lh5.ggpht.com/_9uqsDQROIwqIhKx_URY4DdZAapoZBEWK6Eaclt5mM5vPsjwQAD-v8Bv-4b-Smq2F8X4zOgzLx2KwySkFWc'
   lat: 40.118448
@@ -166,6 +173,13 @@
   lon: -88.251947
   mus: 24
   name:  'Our Friend Tim Palmer'
+- fields: 2
+  img:  'http://lh6.ggpht.com/f3cOUn1gqLkJZQzs4-Y9j6j2ZXbb1Kmzf3klCFzF8zmFSlZZ-B6O4-5t1KIX95jbYUjeqMgOohEf1ilF75Uqyw'
+  lat: 40.132777
+  level: 6
+  lon: -88.287351
+  mus: 19
+  name:  'Parkland College Prairie Restoration Reserve'
 - fields: 1
   img:  'http://lh6.ggpht.com/uaO1clC1eOzxRVRPPU6mVM4lEPV2U6uxh64a8kJNRglHSObClWlHGEcfJTknzwB_7Wli3doxQJbZKiBHIXI'
   lat: 40.102834
@@ -187,13 +201,6 @@
   lon: -88.250864
   mus: 14
   name:  'Gabriel Patrick Maxeiner Memorial'
-- fields: 2
-  img:  'http://lh5.ggpht.com/THzk1iE4eBFdHkEgW_OGBWS54BbJw46faUZQS1Ad_IROHGgmVaXrphXJuL1O8N9k4G8_jaDT4P9tmLxMNi0W'
-  lat: 40.131713
-  level: 7
-  lon: -88.29276
-  mus: 13
-  name:  'Campus Solar System - Sun'
 - fields: 6
   img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
   lat: 40.098688
@@ -208,6 +215,13 @@
   lon: -88.22719
   mus: 12
   name:  'Foellinger Auditorium'
+- fields: 3
+  img:  'http://lh4.ggpht.com/IM3Yvrk727rz6f1euz6nTpei6llE4E4oqn_l-WbxZIN3K6dF8pEa7wGKzbjqfr0DBRubxiNFztHBePH9-Iw'
+  lat: 40.132147
+  level: 5
+  lon: -88.291251
+  mus: 11
+  name:  'Staerkel Planetarium '
 - fields: 5
   img:  'http://lh3.ggpht.com/UoqoA4-SqK1X44o_0alM-QL57jhssYrhXZdeS1Ph9C5k_PjEXhPB_rJsbzTZ2hWbGDdartAlnZnfw3vb7DAG'
   lat: 40.099177
@@ -370,13 +384,6 @@
   mus: 2
   name:  'William C. Fox Waterway'
 - fields: 1
-  img:  'http://lh4.ggpht.com/CZA6uXTYgSkrccw1vqf6XFlfkzl6I7Rj79GOKIYGvd1Zem8O1u-opoJu65ma2eHnKdfysF0mOVGzc_am2Ns'
-  lat: 40.110623
-  level: 3
-  lon: -88.22799
-  mus: 2
-  name:  'Eta Kappa Nu Plaque'
-- fields: 1
   img:  'http://lh4.ggpht.com/9DnoYT_JY708wIL0x7FKNkI3c8KcW18NuRJWw-NfB_6u49hTVpPc4hLkDVjLOTAvkOyTz0DjnHWp6RFjlvc7Sw'
   lat: 40.0986
   level: 4
@@ -446,13 +453,6 @@
   lon: -88.30035
   mus: 1
   name:  'Barb Babb Memorial Plaque'
-- fields: 2
-  img:  'http://lh5.ggpht.com/LPlCgoOAlClRaVCl_B1sHDkn38OgDbXat-l5Q1bDZLP7mOUMfU8pK-o3N8BEqh0vHJcZBHo3iz2AMQKAhot7Tw'
-  lat: 40.110833
-  level: 5
-  lon: -88.227425
-  mus: 1
-  name:  'Engineering Class of 1975 Monument'
 - fields: 1
   img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
   lat: 40.100941
@@ -523,6 +523,13 @@
   lon: -88.238623
   mus: 1
   name:  'Champaign County Historical Museum'
+- fields: 1
+  img:  'http://lh5.ggpht.com/LPlCgoOAlClRaVCl_B1sHDkn38OgDbXat-l5Q1bDZLP7mOUMfU8pK-o3N8BEqh0vHJcZBHo3iz2AMQKAhot7Tw'
+  lat: 40.110833
+  level: 5
+  lon: -88.227425
+  mus: 1
+  name:  'Engineering Class of 1975 Monument'
 - fields: 2
   img:  'http://lh5.ggpht.com/KuDVZqnpBQnne0a_UqpN4wpsQFlw3nVXAWtRKP_AdZ3CjQ0MHUBgU_2hE8hb71h31FTQbduYmB6DNuVKA0s'
   lat: 40.116822
