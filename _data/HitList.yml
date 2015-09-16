@@ -1,9 +1,9 @@
-- fields: 10+
+- fields: 8+
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.152792
   level: '?'
   lon: -88.253532
-  mus: 6061
+  mus: 4203
   name:  'Toalson Park'
 - fields: 9
   img:  'http://lh6.ggpht.com/CNYgRYuSUdbcdD0c5swcKnijf_aUAm4MrRE5ywl5AvGV5jc7gZOIjqgvq2z4zZFXYffjzJMYV-RxNg2RrgiV'
@@ -22,7 +22,7 @@
 - fields: 10
   img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
   lat: 40.101062
-  level: 7
+  level: 8
   lon: -88.249275
   mus: 381
   name:  'Narayan & Shanti Achanta Memorial Plaque'
@@ -54,13 +54,13 @@
   lon: -88.291946
   mus: 197
   name:  'Campus Solar System - Jupiter'
-- fields: 7
-  img:  'http://lh5.ggpht.com/THzk1iE4eBFdHkEgW_OGBWS54BbJw46faUZQS1Ad_IROHGgmVaXrphXJuL1O8N9k4G8_jaDT4P9tmLxMNi0W'
-  lat: 40.131713
-  level: 7
-  lon: -88.29276
-  mus: 195
-  name:  'Campus Solar System - Sun'
+- fields: 5
+  img:  'http://lh6.ggpht.com/f3cOUn1gqLkJZQzs4-Y9j6j2ZXbb1Kmzf3klCFzF8zmFSlZZ-B6O4-5t1KIX95jbYUjeqMgOohEf1ilF75Uqyw'
+  lat: 40.132777
+  level: 6
+  lon: -88.287351
+  mus: 191
+  name:  'Parkland College Prairie Restoration Reserve'
 - fields: 5
   img:  'http://lh5.ggpht.com/_9uqsDQROIwqIhKx_URY4DdZAapoZBEWK6Eaclt5mM5vPsjwQAD-v8Bv-4b-Smq2F8X4zOgzLx2KwySkFWc'
   lat: 40.118448
@@ -89,6 +89,13 @@
   lon: -88.234991
   mus: 71
   name:  'Acacia House'
+- fields: 5
+  img:  'http://lh6.ggpht.com/q48Oqk2mm3dXQ2ppK-aYGXKjIiTAOEZfrFkiLK9LXRz2uN9hSKihKeCwfg33q1Z2zMTIMjqJRjPA1U_V3pbR6Q'
+  lat: 40.104417
+  level: 7
+  lon: -88.231962
+  mus: 52
+  name:  '1926 Sigil'
 - fields: 2
   img:  'http://lh6.ggpht.com/mSAh6wYw-KItnZ6a3rENHXfrC4cNGwgJL-7gf4_JO-Psf_ZIIPXppWlrRi7QN-8SZX4QyXna_0SAY4VDHzdxu4nMS1TiL0fWYdJhp-GQ3O7KHB0pZQ'
   lat: 40.092682
@@ -159,20 +166,6 @@
   lon: -88.251947
   mus: 24
   name:  'Our Friend Tim Palmer'
-- fields: 4
-  img:  'http://lh6.ggpht.com/q48Oqk2mm3dXQ2ppK-aYGXKjIiTAOEZfrFkiLK9LXRz2uN9hSKihKeCwfg33q1Z2zMTIMjqJRjPA1U_V3pbR6Q'
-  lat: 40.104417
-  level: 7
-  lon: -88.231962
-  mus: 23
-  name:  '1926 Sigil'
-- fields: 2
-  img:  'http://lh6.ggpht.com/f3cOUn1gqLkJZQzs4-Y9j6j2ZXbb1Kmzf3klCFzF8zmFSlZZ-B6O4-5t1KIX95jbYUjeqMgOohEf1ilF75Uqyw'
-  lat: 40.132777
-  level: 6
-  lon: -88.287351
-  mus: 19
-  name:  'Parkland College Prairie Restoration Reserve'
 - fields: 1
   img:  'http://lh6.ggpht.com/uaO1clC1eOzxRVRPPU6mVM4lEPV2U6uxh64a8kJNRglHSObClWlHGEcfJTknzwB_7Wli3doxQJbZKiBHIXI'
   lat: 40.102834
@@ -190,17 +183,17 @@
 - fields: 8
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
-  level: 7
+  level: 8
   lon: -88.250864
   mus: 14
   name:  'Gabriel Patrick Maxeiner Memorial'
-- fields: 5
-  img:  'http://lh4.ggpht.com/IM3Yvrk727rz6f1euz6nTpei6llE4E4oqn_l-WbxZIN3K6dF8pEa7wGKzbjqfr0DBRubxiNFztHBePH9-Iw'
-  lat: 40.132147
-  level: 5
-  lon: -88.291251
-  mus: 14
-  name:  'Staerkel Planetarium '
+- fields: 2
+  img:  'http://lh5.ggpht.com/THzk1iE4eBFdHkEgW_OGBWS54BbJw46faUZQS1Ad_IROHGgmVaXrphXJuL1O8N9k4G8_jaDT4P9tmLxMNi0W'
+  lat: 40.131713
+  level: 7
+  lon: -88.29276
+  mus: 13
+  name:  'Campus Solar System - Sun'
 - fields: 6
   img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
   lat: 40.098688
@@ -232,7 +225,7 @@
 - fields: 7
   img:  'http://lh3.ggpht.com/GXyi2ghi2DR3h7uIHNYiEZPYixRhDo7LO0WHQ0PyEzb-150r7ar7JGeVjUoPuObC-GFWf22UWqnYCMtED0M-'
   lat: 40.100341
-  level: 7
+  level: 8
   lon: -88.249937
   mus: 9
   name:  'Alice Marie Weber Plaque'
@@ -491,7 +484,7 @@
 - fields: 1
   img:  'http://lh5.ggpht.com/T0WLAJf0s4nu2Phxax31eu6pO6zNoA4JpvHMLyfMKttzJALEWB8EAWOziQwgjdWE3YjBbG1XjGYsgihqCSX9'
   lat: 40.100414
-  level: 7
+  level: 8
   lon: -88.249061
   mus: 1
   name:  'Randy William Auteberry Memorial'
