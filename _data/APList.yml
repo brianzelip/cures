@@ -371,17 +371,17 @@
   lon: -88.250515
   name:  'Mark Foutch Pavilion'
 - ap: 7035
-  img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
-  lat: 40.100286
-  level: 7
-  lon: -88.251747
-  name:  'Tennis Anyone'
-- ap: 7035
   img:  'http://lh5.ggpht.com/3t7XZHqwxLZ8Lc9YomR8FInm74U2PAA-DBk8kmdxXIrcXbKa1CoBDTlgdDJeO-_yVT3qNKRnNLzbdil1eH41iA'
   lat: 40.09935
   level: 8
   lon: -88.249766
   name:  'Jim Bickel Honorary Plaque'
+- ap: 7035
+  img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
+  lat: 40.100286
+  level: 7
+  lon: -88.251747
+  name:  'Tennis Anyone'
 - ap: 7033
   img:  'http://lh6.ggpht.com/JgD9-vk2pVIQENqssLAn_4Smd4aFydCLSHsQWVF4D4gn8xxgO5PTgDfjr0DKtVdau2_ZQc7RR-gYrOaMwStSRg'
   lat: 40.143345
@@ -1630,6 +1630,12 @@
   level: 6
   lon: -88.292671
   name:  'Campus Solar System - Mercury'
+- ap: 2237
+  img:  'http://lh3.ggpht.com/uMCsrCj0b8EWJ6Hinp58rZ4hjaPm9kBAK5q0aDNtkP3e1Zk6Gh_0COjtW2YYBNzPxGDjJLB4DIXmiyvmrCJkRA'
+  lat: 40.128083
+  level: 3
+  lon: -88.290812
+  name:  'In Memory Of James D. Pruitt'
 - ap: 2537
   img:  'http://lh4.ggpht.com/iF9ok9WK8tu0rwNJsbJggC_OqQxiqKIF9QRpGOgIrlZa4Dr4JYrLxWeFDe43Js9WGFiKCOlMNMZapd_SBQ5T'
   lat: 40.111945
@@ -1642,12 +1648,6 @@
   level: 2
   lon: -88.299824
   name:  'In Memory of Steve Barnhart'
-- ap: 2237
-  img:  'http://lh3.ggpht.com/uMCsrCj0b8EWJ6Hinp58rZ4hjaPm9kBAK5q0aDNtkP3e1Zk6Gh_0COjtW2YYBNzPxGDjJLB4DIXmiyvmrCJkRA'
-  lat: 40.128083
-  level: 3
-  lon: -88.290812
-  name:  'In Memory Of James D. Pruitt'
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/eGP4sxnePximEFk88kdcqNxeClf1LjUbwiPTwKmCfStyP9CAq9qGtzAsbEcVWEaS0KyG8LQn7SgS3X07OU4f'
   lat: 40.122643
@@ -2009,12 +2009,6 @@
   lon: -88.229089
   name:  'Lee Williamson Memorial'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/do_DYaj2kuC0reA8E9rCQLDp9K62ZQd4qfV0SBSo8iPPupN2U8_deQ7GHA4zS42XaiZnPqoObG_y_dRCUwNa'
-  lat: 40.11283
-  level: 6
-  lon: -88.209282
-  name:  'Cycling Mural'
-- ap: 2537
   img:  'http://lh5.ggpht.com/gzRmKQixkcp4cu1yDSKAOq_7_ipKvFWUCHT7BfpjE6VSSAq7Q08JJGg_jt4FCMWU3ie65fwweNlj4n6dg1aQIA'
   lat: 40.111419
   level: 5
@@ -2032,6 +2026,12 @@
   level: 7
   lon: -88.207559
   name:  'Black Dog Smoke & Ale House'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/do_DYaj2kuC0reA8E9rCQLDp9K62ZQd4qfV0SBSo8iPPupN2U8_deQ7GHA4zS42XaiZnPqoObG_y_dRCUwNa'
+  lat: 40.11283
+  level: 6
+  lon: -88.209282
+  name:  'Cycling Mural'
 - ap: 2537
   img:  'http://lh4.ggpht.com/dfv9WXc8AIG4SQiUR41qrJI0-s2-zl6hcMaPJOetGKZ2R1dknt0mX1ghGf1zcPNzXcOFpjVSvmXELswwTMO8'
   lat: 40.09627
@@ -2076,16 +2076,16 @@
   name:  'Crestview Park'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.192319
-  level: '?'
-  lon: -88.385859
-  name:  '57cc7dcf26b142eb8e2995448022c15b.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.186782
   level: '?'
   lon: -88.375899
   name:  'Mahomet Public Library'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.192319
+  level: '?'
+  lon: -88.385859
+  name:  '57cc7dcf26b142eb8e2995448022c15b.16'
 - ap: 2537
   img:  'http://lh6.ggpht.com/EpDmgl9Bi8qdvvRTrGPo2oNcd7kOJPiS2S30s9QEI-CzsTS1vWcWU1xds42YMD4AxCuLpDoKvGSeGtvjDNu-'
   lat: 40.189224
