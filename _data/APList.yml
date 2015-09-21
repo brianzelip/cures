@@ -401,12 +401,6 @@
   lon: -88.23549
   name:  'Red Lion'
 - ap: 5909
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.152192
-  level: '?'
-  lon: -88.252279
-  name:  'Toalson Park South Entrance'
-- ap: 5909
   img:  'http://lh4.ggpht.com/yi9OPnLGsLTvtOMNuOUfed6edO9tB6h0QmSHJaKKaiMyEXC8Aj2hz9hIvgh8C2DY76mVgNHw4S0gsYpkPpkt'
   lat: 40.148692
   level: 7
@@ -418,12 +412,6 @@
   level: 7
   lon: -88.243729
   name:  'The Phoenix'
-- ap: 5722
-  img:  'http://lh6.ggpht.com/WA_L9RXB_ZwCyxpgQ7Lyjp1-4xTl5O-BQohOBQcoEMnP7-wKp--MGUdnY_DPuCGZ78-x0LtEWc8FT2n9QMPS'
-  lat: 40.148879
-  level: 7
-  lon: -88.258423
-  name:  'War Veteran Memorial'
 - ap: 5722
   img:  'http://lh4.ggpht.com/9dqmZPc9OI1ON-iEnfXAxSAMX2M07pEgKUsb47vLrTrW2BW61siFLquk1fXbldWXGPg69XGdSG4wKPGS5rI'
   lat: 40.113521
@@ -564,16 +552,10 @@
   name:  'Captain Morgan Statue'
 - ap: 4972
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.312242
+  lat: 40.152192
   level: '?'
-  lon: -88.201368
-  name:  '2012 Employee Dedication Bench'
-- ap: 4972
-  img:  'http://lh6.ggpht.com/vqiOPPON1phvYOdOmbFDrxhN6cbYjeLHVgH42EV0XsJjVNd81EM1DKY_aRVM-rwJ9Il5tLc3QsL_gOS4qAkF'
-  lat: 40.139891
-  level: 7
-  lon: -88.257367
-  name:  'Market View Baby Fountain'
+  lon: -88.252279
+  name:  'Toalson Park South Entrance'
 - ap: 4972
   img:  'http://lh6.ggpht.com/WVVbmiu2GGTnPTszcnYYILHKlkZDoxB-QY6Yv7YPoUfdVn92jYnKjpVKNkfWdFrPjq-BaFeKGJWLZlE-bbA'
   lat: 40.120467
@@ -611,11 +593,29 @@
   lon: -88.224635
   name:  'Champaign-Urbana Community Fab Lab'
 - ap: 4785
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.312242
+  level: '?'
+  lon: -88.201368
+  name:  '2012 Employee Dedication Bench'
+- ap: 4785
   img:  'http://lh4.ggpht.com/ik1uVZ-KWyRH4dh51LJI7gFmnM7bmfSZ-1YqfELbVQEvuo-gEx2QpG6jQpFPeAlFPi2rVPAuzRmXMD0Whsm2HA'
   lat: 40.122038
   level: 6
   lon: -88.245318
   name:  'The Old Residential Block'
+- ap: 4785
+  img:  'http://lh6.ggpht.com/WA_L9RXB_ZwCyxpgQ7Lyjp1-4xTl5O-BQohOBQcoEMnP7-wKp--MGUdnY_DPuCGZ78-x0LtEWc8FT2n9QMPS'
+  lat: 40.148879
+  level: 7
+  lon: -88.258423
+  name:  'War Veteran Memorial'
+- ap: 4785
+  img:  'http://lh6.ggpht.com/vqiOPPON1phvYOdOmbFDrxhN6cbYjeLHVgH42EV0XsJjVNd81EM1DKY_aRVM-rwJ9Il5tLc3QsL_gOS4qAkF'
+  lat: 40.139891
+  level: 7
+  lon: -88.257367
+  name:  'Market View Baby Fountain'
 - ap: 4785
   img:  'http://lh5.ggpht.com/QNdE7Z3gNcz1M-mzDms1aMrHPZpKr43FIfnMxwfwdp6kP1N6fPKwUzIx5qrt3k_KBeBFRmcD-PXCWq7V2Ygo'
   lat: 40.119969
@@ -677,6 +677,12 @@
   lon: -88.240555
   name:  'Mural at the Station'
 - ap: 4598
+  img:  'http://lh6.ggpht.com/sASzuKZleVbY8UGdZnFzs0GXiOHosiNDf-GldJNSs-w2k410HzHcqBrjuvNoklKZ0G4mwuhXmvFPOMlrFXRZ'
+  lat: 40.085468
+  level: 6
+  lon: -88.251369
+  name:  'Mattis Park'
+- ap: 4598
   img:  'http://lh5.ggpht.com/xcqe13f85fuXohGUUBZkNrUU1PunkcZ6xMNmHpAp0GJBtydVqCCGj5MqP3Uax4M7Qq4JzDFGqICFrFb6PNEXRw'
   lat: 40.08932
   level: 6
@@ -688,12 +694,6 @@
   level: 6
   lon: -88.251308
   name:  'Life Lessons from Kimberly Kueffler'
-- ap: 4598
-  img:  'http://lh6.ggpht.com/sASzuKZleVbY8UGdZnFzs0GXiOHosiNDf-GldJNSs-w2k410HzHcqBrjuvNoklKZ0G4mwuhXmvFPOMlrFXRZ'
-  lat: 40.085468
-  level: 6
-  lon: -88.251369
-  name:  'Mattis Park'
 - ap: 4598
   img:  'http://lh6.ggpht.com/GaAoBP2UmKP7ebBRXoSDc24iiGVvOTmkk1PeUqbM4vopOYVj3WT6q6p4Th6u8ozL3LD7XpkE3eXtAzcuIb_0'
   lat: 40.101124
@@ -720,16 +720,16 @@
   name:  'Fighting Illini Memorial'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.40148
-  level: '?'
-  lon: -86.287044
-  name:  'be78c15683554893a96f56b528eb8f83.16'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.463893
   level: '?'
   lon: -88.365929
   name:  'ffb4879e7e5a443aa5ec0b49bc840acd.12'
+- ap: 4411
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.40148
+  level: '?'
+  lon: -86.287044
+  name:  'be78c15683554893a96f56b528eb8f83.16'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.401628
@@ -814,12 +814,6 @@
   level: 7
   lon: -88.228913
   name:  'Zipcar-Wright Street & Daniel Street'
-- ap: 4035
-  img:  'http://lh3.googleusercontent.com/GDPeCcTdJQAFt7LgbquPo-YOAp7bq5HCFbElMBeXztI4hraTGO-j1GcNOwKaaSRRLcEHG13Gu-VDboEG4a7-'
-  lat: 40.149097
-  level: 5
-  lon: -88.276148
-  name:  'Illinois Heartland Library System'
 - ap: 4035
   img:  'http://lh5.ggpht.com/kcTMx3CqTnXQqNvx00fF4K5HQ34eOunlWHiU7JEB4nKyl3U14EbEpsqxVT2opoz78bQFDtIZR0IKDuewhKCG'
   lat: 40.119409
@@ -1032,16 +1026,16 @@
   name:  'b2be45c432384a99bb7726a2f0a8b6b3.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.457257
-  level: '?'
-  lon: -88.372597
-  name:  'ebaa4a5573f7449399263066d9248473.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.401374
   level: '?'
   lon: -86.288005
   name:  '9c168d55307d46deafd3684ceac79063.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.457257
+  level: '?'
+  lon: -88.372597
+  name:  'ebaa4a5573f7449399263066d9248473.16'
 - ap: 3474
   img:  'http://lh6.ggpht.com/TtWbekdbsTWA9hOrt2dc1ID1DnRuGoRbAle9mL9aZvc_aJygqJ9jAMjqrWtVr87WnELkFrSVIpO_4VVZQ67P'
   lat: 40.113103
@@ -1458,6 +1452,18 @@
   name:  '48365abb2a8341c098ff3aa9f2310418.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.006828
+  level: '?'
+  lon: -87.65519
+  name:  'f1155b4ff98f47a899c22acd70f130d5.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.799767
+  level: '?'
+  lon: -86.747979
+  name:  '5c8841ea1b9541d4aa5b9aa018f35e39.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.349946
   level: '?'
   lon: -90.005269
@@ -1480,18 +1486,6 @@
   level: '?'
   lon: -88.473589
   name:  '3210233e62ce4931a16fbb519cdac05a.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.006828
-  level: '?'
-  lon: -87.65519
-  name:  'f1155b4ff98f47a899c22acd70f130d5.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.799767
-  level: '?'
-  lon: -86.747979
-  name:  '5c8841ea1b9541d4aa5b9aa018f35e39.16'
 - ap: 2537
   img:  'http://lh3.ggpht.com/g1H1SJintXK5Zb7ng6DN7wix1q5otnzMK5JCJDnecwuIiohJmhXLJs1XzItxaTSYEuPPOqd4x-dGqd0WK5YU'
   lat: 40.13349
@@ -1546,12 +1540,6 @@
   level: 3
   lon: -88.290166
   name:  'Millage Park'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/y9bxecO9Wm4VrE6p2LRWA8XIIUlHlYWbTSZJ6GrJrTpeVtxB7wI7cWjdLkM6gjq_eOk7n-nJOlSJ9WzGjgfG'
-  lat: 40.137123
-  level: 5
-  lon: -88.277784
-  name:  'US Post Office'
 - ap: 2537
   img:  'http://lh4.ggpht.com/UsWzXzHhg7iWYqgGNNqj1XXLWp2Oj6pNxp7R0PwHI8tzNVuJwD2K0KgVwc0BR_9MEu4QalqL6x1cBnT_vz89'
   lat: 40.108739
@@ -1643,17 +1631,17 @@
   lon: -88.239595
   name:  'Campus Post Office Services'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/xN5qaZ1d4qIQE8TID35MPTmzahhM09EYDVLbu2aeCpRJz9XntEf7R0XswEdQDOmdMpZxIEyNyqsC5qll3vfv'
-  lat: 40.082343
-  level: 7
-  lon: -88.247404
-  name:  'Larry Kanfer Gallery'
-- ap: 2537
   img:  'http://lh4.ggpht.com/aXG2XQNJXyPDBz0o8tyfv07VIfskZuFMOWW2ylZpZKkWMnFjoiBmBiWg2VedsjdIorpfX5mtUGnwVLFb7Ga6'
   lat: 40.091438
   level: 5
   lon: -88.25077
   name:  'Fox Development Corporation'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/xN5qaZ1d4qIQE8TID35MPTmzahhM09EYDVLbu2aeCpRJz9XntEf7R0XswEdQDOmdMpZxIEyNyqsC5qll3vfv'
+  lat: 40.082343
+  level: 7
+  lon: -88.247404
+  name:  'Larry Kanfer Gallery'
 - ap: 2537
   img:  'http://lh4.ggpht.com/vUhKhmK0pteJi8_0n25xIa4EpgpVSS432OxXv1UQBDLjju5SEGcm_2WWl99OUPtDyNLlXirJu--KDbCoYjM'
   lat: 40.08956
