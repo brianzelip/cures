@@ -1,3 +1,17 @@
+- fields: 4+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.199591
+  level: '?'
+  lon: -88.418013
+  mus: 125707
+  name:  'Bridle Leash Park Arch'
+- fields: 4+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.211388
+  level: '?'
+  lon: -88.505076
+  mus: 125587
+  name:  'Mansfield Public Library'
 - fields: 4
   img:  'http://lh5.ggpht.com/iGgKBm2iX-ESxdJCVC__kcME5ANzWrJAWKYDZ7raOh1txpeonGpAAdCVG15UFKtMNe6W7Ech14scH5wnh0ZxVA'
   lat: 40.054593
@@ -47,19 +61,19 @@
   lon: -88.329043
   mus: 3096
   name:  'Environmental Plaque - Stream'
-- fields: 3+
+- fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.195976
   level: '?'
   lon: -88.417405
-  mus: 1379
+  mus: 1061
   name:  '8bcf8353686248de9a7b2f537a01429b.16'
-- fields: 3+
+- fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.178925
   level: '?'
   lon: -88.408076
-  mus: 1379
+  mus: 1061
   name:  'Community Free Church'
 - fields: 5+
   img: http://i.imgur.com/LujBo5P.png
@@ -68,6 +82,13 @@
   lon: -88.403465
   mus: 927
   name:  '9ac55f1a3bf140e5abc27bbc95fb2036.16'
+- fields: 3+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.202899
+  level: '?'
+  lon: -88.426556
+  mus: 914
+  name:  'Church of the Nazarene'
 - fields: 2
   img:  'http://lh5.ggpht.com/-fll1h_4LwvAASQFuSFCPXineRQ-GTGggs2P9L5-qR50oQ1wGjy6dzP_D3SGA7esReq2lemp9JsZqg6uDO8P'
   lat: 40.071293
@@ -159,6 +180,13 @@
   lon: -88.178499
   mus: 377
   name:  'Commissioners Grove Memorial'
+- fields: 1+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.198992
+  level: '?'
+  lon: -88.421294
+  mus: 367
+  name:  'Bridle Leash Park'
 - fields: 6
   img:  'http://lh6.ggpht.com/t9_eydZD2uZIBwEmrNcPR2FWXjyVKK06CTbNoZQ682AuvHAsWKBewlbzTqH7yqOjuPMBBkqOGwETeqt6hoU'
   lat: 40.194618
@@ -180,13 +208,6 @@
   lon: -88.156981
   mus: 328
   name:  '2ed5e8d35e764539982ec01d6927a9b0.16'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.194198
-  level: '?'
-  lon: -88.411814
-  mus: 318
-  name:  '1ccf6b05218445debe76c7f512b7ca78.16'
 - fields: 6
   img:  'http://lh3.ggpht.com/_CmMOfi2PqTv1S_kKyTIXg3gslk5AbH-pFLizpe8WbXoFdbGuJr3TPxjhKMQ-S_aFIIqHqtyZcTahtz_9DVe'
   lat: 40.105857
@@ -285,20 +306,6 @@
   lon: -88.384566
   mus: 150
   name:  '50006796477543f889671801f60b7403.12'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.199591
-  level: '?'
-  lon: -88.418013
-  mus: 140
-  name:  'Bridle Leash Park Arch'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.202899
-  level: '?'
-  lon: -88.426556
-  mus: 140
-  name:  'Church of the Nazarene'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.193832
@@ -642,6 +649,13 @@
   lon: -88.382509
   mus: 19
   name:  'baa170273cd749acb5338139770e8f70.16'
+- fields: 1+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.211585
+  level: '?'
+  lon: -88.506353
+  mus: 19
+  name:  'Mansfield Post Office'
 - fields: 2
   img:  'http://lh4.ggpht.com/pzRTAVFaG9fsbbBGsLcfuuuMTyFMlR-4-9PAscV7k8pq1vigvt85skTSjpMgKCYMvlC8aY-EOqCxuGOEujXLig'
   lat: 40.124906
@@ -1601,6 +1615,27 @@
   lon: -88.250951
   mus: 1
   name:  'William C. Fox Waterway'
+- fields: 1
+  img:  'http://lh5.ggpht.com/nirQKdy3s9r8TSV7cB7_B0l-0EsFXBkg1aitH05R0ttPhOEewGxlq1GRnlDvYFT2V8Z91hWnB9YD3WjxBvyZ'
+  lat: 40.11868
+  level: 4
+  lon: -88.243426
+  mus: 1
+  name:  '"Pointless"'
+- fields: 1
+  img:  'http://lh6.ggpht.com/rGhR45ZFbHtxmrZSSy9V19eFoyHIDB42c6MK188isPJFWpUsW9ywNHayKt3acNvKNC8DAV6mDkUloj3aiS4'
+  lat: 40.118422
+  level: 5
+  lon: -88.24346
+  mus: 1
+  name:  'Entrance'
+- fields: 1
+  img:  'http://lh3.ggpht.com/bltQwmnzp2vSKYhLpzNLqB4iddy6ie0kWk9G7Wce4U9qmW3CABxbXAhF7v0oG9QLFD2q57UZuVqZCMgN3MHZfA'
+  lat: 40.118335
+  level: 5
+  lon: -88.243408
+  mus: 1
+  name:  'Downtown Fountain'
 - fields: 1
   img:  'http://lh6.ggpht.com/ukIJOts1W6BPpII4XC4_Q5Wh8Gz8aCNeGUuAtaLknm7OKhNYvlDd71ZN8hcxCRcJDhDjV0qBZgFRyYMGNeS6'
   lat: 40.100203
