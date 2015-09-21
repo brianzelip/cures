@@ -225,7 +225,7 @@
 - fields: 6
   img:  'http://lh6.ggpht.com/t9_eydZD2uZIBwEmrNcPR2FWXjyVKK06CTbNoZQ682AuvHAsWKBewlbzTqH7yqOjuPMBBkqOGwETeqt6hoU'
   lat: 40.194618
-  level: 6
+  level: 7
   lon: -88.401509
   mus: 361
   name:  'Mahomet Area Community Center'
@@ -603,7 +603,7 @@
 - fields: 5
   img:  'http://lh3.ggpht.com/nGhmCwJD6bTZSD4fk-6vnaRZfPq8CI7zLMEDuUZFl7no1ZUFie42aJKdxr5r-212vPk5feGwGFfkMrb_IBc'
   lat: 40.195177
-  level: 6
+  level: 7
   lon: -88.401915
   mus: 26
   name:  'Fire Fighters Pavilion'
@@ -888,13 +888,6 @@
   mus: 9
   name:  '2a77bf7698f24379838733d064f5ce04.16'
 - fields: 3
-  img:  'http://lh6.ggpht.com/I-JIswzTF-DAyhS7AITUJU49j_3KzSqSjAwfA4nfVsrGkR7QTZDfl4BIMS_wBgN6jwmiJ_X_PEC2E65ZDQnj'
-  lat: 40.109673
-  level: 5
-  lon: -88.22298
-  mus: 9
-  name:  'The Rooftop Playground'
-- fields: 3
   img:  'http://lh6.ggpht.com/JeyTR9Ntp2SxIdvTxHGqu5zXzMo7stGncs5TYYFLlRf0WEb6U4dc4EOvDZ1szjub_UqgSO_HgZ7tUKs9PUAkEQ'
   lat: 40.109634
   level: 5
@@ -1118,6 +1111,13 @@
   lon: -88.221387
   mus: 6
   name:  'Morton Weir Memorial '
+- fields: 2
+  img:  'http://lh6.ggpht.com/I-JIswzTF-DAyhS7AITUJU49j_3KzSqSjAwfA4nfVsrGkR7QTZDfl4BIMS_wBgN6jwmiJ_X_PEC2E65ZDQnj'
+  lat: 40.109673
+  level: 5
+  lon: -88.22298
+  mus: 6
+  name:  'The Rooftop Playground'
 - fields: 1
   img:  'http://lh4.ggpht.com/WF3_fc0ms0XOrJBrSwqEEdmtfNLcSKu4S_zvn_t6zYNYwxsZY4UrAV04cTmXoYt3dRTr5wyRBPZVKsMAoSbZ'
   lat: 40.105315
@@ -1223,20 +1223,6 @@
   lon: -88.212367
   mus: 4
   name:  'Stalking Panther'
-- fields: 1
-  img:  'http://lh5.ggpht.com/gkIcCbfmQWyJ7s9ryhzfOOn1K-oa8huqzZN80X2psVjx_6Iur5egjGncbUIAMLiAJAf9qG1Ac8lX2MomHYY'
-  lat: 40.108185
-  level: 2
-  lon: -88.225203
-  mus: 3
-  name:  'Statue at Medical Sciences'
-- fields: 1
-  img:  'http://lh6.ggpht.com/fBCIw-ohQqPYmU_DWfwbcZnXqbmVh6zOWlUta8mx1F53zxG1Wxr08J9-fOCaz1B9i_8Nb3Il_kqdxzdyRyc'
-  lat: 40.109043
-  level: 5
-  lon: -88.224397
-  mus: 3
-  name:  'Archaea Plaque'
 - fields: 3+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.205076
@@ -1384,27 +1370,6 @@
   lon: -88.243226
   mus: 2
   name:  'Nolda and Carl Dohme Memorial'
-- fields: 1
-  img:  'http://lh6.ggpht.com/ka79B_ahK9kHLiOCOnKsp3SooZlPGgMuIOO25OaqPU7eoUALOBzaa40ZCStdo4v6rCYW0VS_pNgW3PJyUDKxpXI-n55zohIxJwRJEq5gslJKwS5ykQ'
-  lat: 40.11794
-  level: 6
-  lon: -88.248679
-  mus: 2
-  name:  'Fonderia'
-- fields: 1
-  img:  'http://lh4.ggpht.com/kikXgFanbehTzblqLlN2WzEcVgfnP2HD4JE7GI1GOKTu44g13lknkSsdu9prj71y0zKIBFJv_0RIkFW3vXY'
-  lat: 40.117574
-  level: 2
-  lon: -88.247603
-  mus: 2
-  name:  'Travis Marmion Memorial Tree'
-- fields: 1
-  img:  'http://lh5.ggpht.com/c-upLAoA6V12_Enn5doC2Hqtp3W9dLMIb34VHt0aVni2lW2OF5Lddn2c-1XcxmmaN7um9eyxqOF5c3c0hs4'
-  lat: 40.118139
-  level: 6
-  lon: -88.248407
-  mus: 2
-  name:  'The Americans Creed'
 - fields: 1
   img:  'http://lh6.ggpht.com/-I0G2D5ab8mTsL7xqBbC8ncqUMD5VZFPzUxONYaTcbt6ogXQnVlPsaSqnh7NHJyo89tDr3WOfkV90Mdpo9UTfA'
   lat: 40.106457
@@ -1573,27 +1538,6 @@
   lon: -88.221702
   mus: 1
   name:  'Sigma Nu Fraternity House'
-- fields: 1
-  img:  'http://lh4.ggpht.com/XlTZ26_29c4-74t23p1lgghqNfLI7aS3_kradmcl7vVQzV9jJRu78D1HdzJf-sWibnak644kxCBJDnA594PVaw'
-  lat: 40.092849
-  level: 5
-  lon: -88.251586
-  mus: 1
-  name:  'Boulware Trail'
-- fields: 1
-  img:  'http://lh3.ggpht.com/ugJXpaIWZ-wI1vpderJmQjM8r0T5_Li2j4hvvsu4fRM9k3MeBpETqj2LFNd1pEkcfH0I9bgZh--5g1AEJKkq'
-  lat: 40.092745
-  level: 5
-  lon: -88.251235
-  mus: 1
-  name:  'William C Fox Honorary Plaque'
-- fields: 1
-  img:  'http://lh4.ggpht.com/Gyz7BDhWdUinBQfD8duByX5-aBgPmB9oSesH20dH8uGJnTiaIHkeRJARtH6YQUUD5A5X2IjPTlT989AfutNc'
-  lat: 40.092773
-  level: 6
-  lon: -88.250951
-  mus: 1
-  name:  'William C. Fox Waterway'
 - fields: 1
   img:  'http://lh6.ggpht.com/ukIJOts1W6BPpII4XC4_Q5Wh8Gz8aCNeGUuAtaLknm7OKhNYvlDd71ZN8hcxCRcJDhDjV0qBZgFRyYMGNeS6'
   lat: 40.100203
