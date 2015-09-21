@@ -875,17 +875,17 @@
   lon: -88.220974
   name:  'Astronomy Building'
 - ap: 3848
-  img:  'http://lh3.ggpht.com/-p1CR-MEw_nnGMNLqcKVLoq-lgaxNYTd37J_sxs5ORcWO0Rjnk88yp4BLGDPGeMvqIfxxcOQsFbxvS_PbqWynQ'
-  lat: 40.101215
-  level: 5
-  lon: -88.229077
-  name:  'Illinois State Geological Survey'
-- ap: 3848
   img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
   lat: 40.106706
   level: 6
   lon: -88.232116
   name:  'Illini Tower'
+- ap: 3848
+  img:  'http://lh3.ggpht.com/-p1CR-MEw_nnGMNLqcKVLoq-lgaxNYTd37J_sxs5ORcWO0Rjnk88yp4BLGDPGeMvqIfxxcOQsFbxvS_PbqWynQ'
+  lat: 40.101215
+  level: 5
+  lon: -88.229077
+  name:  'Illinois State Geological Survey'
 - ap: 3661
   img:  'http://lh4.ggpht.com/iF9ok9WK8tu0rwNJsbJggC_OqQxiqKIF9QRpGOgIrlZa4Dr4JYrLxWeFDe43Js9WGFiKCOlMNMZapd_SBQ5T'
   lat: 40.111945
@@ -1163,24 +1163,6 @@
   lon: -88.231532
   name:  'Graduate School of Library and Information Science'
 - ap: 3474
-  img:  'http://lh3.ggpht.com/5OA9gBD9HJe7pZRJ6DjHOGIbC9paid10T5gOLcZS91YP3V0eTMGqvFmPtvp6UtWzb1w2sOV5dbYmxDUFnQ0x'
-  lat: 40.101862
-  level: 6
-  lon: -88.231737
-  name:  'Krannert Art Museum'
-- ap: 3474
-  img:  'http://lh6.ggpht.com/RW34ntixvJkg7fD71TPYo_4KIsBzA0-a-6yXO0jKPbpGxX5gIGC7kBI-pXEF9OHhuolcAGW2fxyK3Pt42Iev'
-  lat: 40.110489
-  level: 5
-  lon: -88.227412
-  name:  'Bus Stop - Illini Union, Westbound'
-- ap: 3474
-  img:  'http://lh5.ggpht.com/2zEYZdL0tuQhUP5HHcOYFsPQfjx-nNDHhi8DMJEzzkjbEA9hODz2iDCcmj4S9NEGBsHW4nYYR010lA_6kyhk'
-  lat: 40.10038
-  level: 6
-  lon: -88.225191
-  name:  'Eleanor Hammers Boner'
-- ap: 3474
   img:  'http://lh5.ggpht.com/orl0d4FNIpZ7xsdZmVyH_732dMd4uGM01fQ-P5V82KufzWBOMbpankzTgjeS3frZhS7apS3qCrS2o4jtw7pAkg'
   lat: 40.105605
   level: 4
@@ -1198,6 +1180,24 @@
   level: 5
   lon: -88.227662
   name:  'Freedom of the Press Plaque'
+- ap: 3474
+  img:  'http://lh3.ggpht.com/5OA9gBD9HJe7pZRJ6DjHOGIbC9paid10T5gOLcZS91YP3V0eTMGqvFmPtvp6UtWzb1w2sOV5dbYmxDUFnQ0x'
+  lat: 40.101862
+  level: 6
+  lon: -88.231737
+  name:  'Krannert Art Museum'
+- ap: 3474
+  img:  'http://lh6.ggpht.com/RW34ntixvJkg7fD71TPYo_4KIsBzA0-a-6yXO0jKPbpGxX5gIGC7kBI-pXEF9OHhuolcAGW2fxyK3Pt42Iev'
+  lat: 40.110489
+  level: 5
+  lon: -88.227412
+  name:  'Bus Stop - Illini Union, Westbound'
+- ap: 3474
+  img:  'http://lh5.ggpht.com/2zEYZdL0tuQhUP5HHcOYFsPQfjx-nNDHhi8DMJEzzkjbEA9hODz2iDCcmj4S9NEGBsHW4nYYR010lA_6kyhk'
+  lat: 40.10038
+  level: 6
+  lon: -88.225191
+  name:  'Eleanor Hammers Boner'
 - ap: 3474
   img:  'http://lh6.ggpht.com/6yxAmr2FjIBpCnPpjbRv2_ffdjnZXpB2FX2OgDLnFT0Oay8HbNuXBErpWWje-HkjfKlf0OugYI9CAtbUcgPsA0B7aD9He4jy7otGJ1mBkF_9NwAA'
   lat: 40.111099
@@ -1295,6 +1295,12 @@
   lon: -88.226053
   name:  'BCS Superconductivity Theory Plaque'
 - ap: 2724
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.334333
+  level: '?'
+  lon: -88.766527
+  name:  'e080a514718246ae91d93e990746b2a9.16'
+- ap: 2724
   img:  'http://lh5.ggpht.com/TwKxvDv1ImbH5RTs7GHqqK_rPohVtqtgToH7YuDkkwa5BRFiMEcY1vWcFrJLkhaXW6cd2YVL0_Vro2JaA3K1'
   lat: 40.131575
   level: 2
@@ -1379,12 +1385,6 @@
   lon: -88.233688
   name:  'University Baptist Church'
 - ap: 2724
-  img:  'http://lh3.ggpht.com/oSQ_YOHo2mfYjOa8bPK9ellznKK29UluW-SeXoGYra9VFg8dJp6YQRdHbHHaTExqXs1qUMBNmpI2hUPcC4GI'
-  lat: 40.106789
-  level: 6
-  lon: -88.222992
-  name:  'Beginnings of Computer Music Plaque'
-- ap: 2724
   img:  'http://lh3.ggpht.com/2wN9MWxEFPbMzRPAzNmaAiCOQJj_EFr94Y1YkQP_wMlyajkajmcw00gqW-EluMvpQmvnGgcQ-WdPxjcYTmr2'
   lat: 40.106519
   level: 6
@@ -1396,6 +1396,12 @@
   level: 5
   lon: -88.223135
   name:  'String Project Plaque'
+- ap: 2724
+  img:  'http://lh3.ggpht.com/oSQ_YOHo2mfYjOa8bPK9ellznKK29UluW-SeXoGYra9VFg8dJp6YQRdHbHHaTExqXs1qUMBNmpI2hUPcC4GI'
+  lat: 40.106789
+  level: 6
+  lon: -88.222992
+  name:  'Beginnings of Computer Music Plaque'
 - ap: 2724
   img:  'http://lh5.ggpht.com/dEeT4acpLu-WQFlZWd3psap5qAqqPTSVzm8Qt1QtpqtwZ0j1V9eKFcmpgN9K_x1PL4XVchuevw25rxHekz3tvQ'
   lat: 40.111968
@@ -1432,6 +1438,12 @@
   level: '?'
   lon: -91.105591
   name:  '406cc5b4ffd24213b38a489ad85b31c1.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.311696
+  level: '?'
+  lon: -89.169242
+  name:  '74a2abe956ec428e8662daadb4b010f1.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.869487
@@ -1480,6 +1492,12 @@
   level: '?'
   lon: -88.473589
   name:  '3210233e62ce4931a16fbb519cdac05a.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.359306
+  level: '?'
+  lon: -89.10966
+  name:  '476b5703ef574927bfaa350d68684773.16'
 - ap: 2537
   img:  'http://lh3.ggpht.com/g1H1SJintXK5Zb7ng6DN7wix1q5otnzMK5JCJDnecwuIiohJmhXLJs1XzItxaTSYEuPPOqd4x-dGqd0WK5YU'
   lat: 40.13349
@@ -1625,17 +1643,17 @@
   lon: -88.239595
   name:  'Campus Post Office Services'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/xN5qaZ1d4qIQE8TID35MPTmzahhM09EYDVLbu2aeCpRJz9XntEf7R0XswEdQDOmdMpZxIEyNyqsC5qll3vfv'
-  lat: 40.082343
-  level: 7
-  lon: -88.247404
-  name:  'Larry Kanfer Gallery'
-- ap: 2537
   img:  'http://lh4.ggpht.com/aXG2XQNJXyPDBz0o8tyfv07VIfskZuFMOWW2ylZpZKkWMnFjoiBmBiWg2VedsjdIorpfX5mtUGnwVLFb7Ga6'
   lat: 40.091438
   level: 5
   lon: -88.25077
   name:  'Fox Development Corporation'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/xN5qaZ1d4qIQE8TID35MPTmzahhM09EYDVLbu2aeCpRJz9XntEf7R0XswEdQDOmdMpZxIEyNyqsC5qll3vfv'
+  lat: 40.082343
+  level: 7
+  lon: -88.247404
+  name:  'Larry Kanfer Gallery'
 - ap: 2537
   img:  'http://lh4.ggpht.com/vUhKhmK0pteJi8_0n25xIa4EpgpVSS432OxXv1UQBDLjju5SEGcm_2WWl99OUPtDyNLlXirJu--KDbCoYjM'
   lat: 40.08956
