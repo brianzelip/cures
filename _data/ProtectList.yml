@@ -873,27 +873,6 @@
   lon: -88.211743
   mus: 13
   name:  'Alice Mimi Muller Dedication Plaque'
-- fields: 1
-  img:  'http://lh3.ggpht.com/LR76HrJqriPFUoc2XSs7jb2SotnStZv20kI7rgUx8B5HqhmetnTW4MA1tCp1ws4g5gw0sf9g7M3Lwq4VwfpD'
-  lat: 40.111687
-  level: 5
-  lon: -88.225353
-  mus: 13
-  name:  'Transportation Building - University Of Illinois'
-- fields: 1
-  img:  'http://lh4.ggpht.com/2tHD_AHYQu0kWuwLX2HMYWBG4txVkuWsBEfzWLL39npWp8kMSHiUKxSJM1E7yhimuMVUJ-RIlSSKsgjETvtr'
-  lat: 40.110524
-  level: 4
-  lon: -88.228706
-  mus: 13
-  name:  'Leo Roy Tehon Memorial'
-- fields: 1
-  img:  'http://lh5.ggpht.com/f1O8bFXHTg2PTOAUVLvrqk5xx5ps9SeqhpJ1RIPtSxm0I-e7J275e2ujJp3lFQGHUBW_vS90KOsrcdLDJ84l4g'
-  lat: 40.110797
-  level: 4
-  lon: -88.225321
-  mus: 13
-  name:  'Multiphase Fluid Dynamics Plaque'
 - fields: 6+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.194685
@@ -1153,13 +1132,6 @@
   lon: -88.265892
   mus: 7
   name:  'In Memory of Robert E Abbuehl'
-- fields: 2
-  img:  'http://lh5.ggpht.com/bfKOeX_4UfGKl782sh8E3x6aQAo4jfgz9XTIWwc3fQxp79lPdUeONB3Cbev9q3U17KEqZnQHZxN7uxFa8s-B'
-  lat: 40.118414
-  level: 6
-  lon: -88.238922
-  mus: 7
-  name:  'Prosperity Gardens'
 - fields: 1
   img:  'http://lh3.ggpht.com/3WnMbDq1Vm3HiqAM5qk1r9m3OqcO-YUN0nCOt2yRfUxVWLZ-8huxevlCI0JnIJgpSBZN4mtw0gxJnrGtuaS9iUf7k-JFfmRGRkBXQafWO9MIk_oJ'
   lat: 40.115491
@@ -1188,20 +1160,6 @@
   lon: -88.223103
   mus: 6
   name:  'Taft House'
-- fields: 1
-  img:  'http://lh4.ggpht.com/Nh7M4_i-advmuf0RWReev2TeUAZ57VTRzcf56-U_TuHsKcjIdqXGvbxpOccEx1CaYHKzGwI9mZVmnLdmhryGng'
-  lat: 40.115557
-  level: 1
-  lon: -88.239009
-  mus: 6
-  name:  'Honesty Best Policy  - Vernon A. Roland Building'
-- fields: 1
-  img:  'http://lh6.ggpht.com/o-Si4_DCq7Qwa_fFJhaTZ0-zCScbl7wDS4PHIFGMbnP9TuPVe9ZauXV3lAreyYvxN7B7n8mlrOR2SsPzXmU'
-  lat: 40.115703
-  level: 1
-  lon: -88.239504
-  mus: 6
-  name:  'Chester Street Bar'
 - fields: 1
   img:  'http://lh4.ggpht.com/LWx9allOmK1FEcRGJ5f21Q0YeGcyn36PiCKycLBJv_cjivIVX6KkaEvmEgB4ZFIT1EA01aCEiAkPFWPg1z4'
   lat: 40.085226
@@ -1506,7 +1464,7 @@
 - fields: 2
   img:  'http://lh6.ggpht.com/IaC06rT1aNxUg_4UOc0RHOio2PUjl5w1cZcGYE56zHNZN9ZeRuAGzoAPG4XB6eJURfP8M5v7bDcq_AdB1E5A'
   lat: 40.119861
-  level: 6
+  level: 2
   lon: -88.238491
   mus: 2
   name:  'Skelton Park'
@@ -1566,6 +1524,20 @@
   lon: -88.241988
   mus: 2
   name:  'Ernest R & Marian Adair'
+- fields: 2
+  img:  'http://lh5.ggpht.com/KYppjeOoIlb4lbowRrrC5qRdYW7_KU8rzjtDMpvhh-Q_c6VZOTtVmOqmmxChJA2hjlpS5dJ1JnhUQcKUAXDWHA'
+  lat: 40.117976
+  level: 5
+  lon: -88.242642
+  mus: 2
+  name:  'Stevick Building'
+- fields: 2
+  img:  'http://lh4.ggpht.com/_jAAuDi8SO5uupi8JlB3HZaFG40S15izNv_3vqOt7ro2rRHuXrfdEKfEFvRESdAjCEz3RVDpyrxJGSIrju5d'
+  lat: 40.117916
+  level: 5
+  lon: -88.243087
+  mus: 2
+  name:  'Sholem Building'
 - fields: 1
   img:  'http://lh3.ggpht.com/kAxEWb1VdMZ1-OTPwyl-CGWs0lF3FNth0gbxr6aqk6BaG_tfbCZM31s6UWKUY8aFtUA3j2GFL2z6yvu95yz3'
   lat: 40.115068
@@ -1601,6 +1573,20 @@
   lon: -88.239616
   mus: 1
   name:  'Praying Mantis'
+- fields: 1
+  img:  'http://lh3.ggpht.com/bltQwmnzp2vSKYhLpzNLqB4iddy6ie0kWk9G7Wce4U9qmW3CABxbXAhF7v0oG9QLFD2q57UZuVqZCMgN3MHZfA'
+  lat: 40.118335
+  level: 6
+  lon: -88.243408
+  mus: 1
+  name:  'Downtown Fountain'
+- fields: 1
+  img:  'http://lh5.ggpht.com/bfKOeX_4UfGKl782sh8E3x6aQAo4jfgz9XTIWwc3fQxp79lPdUeONB3Cbev9q3U17KEqZnQHZxN7uxFa8s-B'
+  lat: 40.118414
+  level: 6
+  lon: -88.238922
+  mus: 1
+  name:  'Prosperity Gardens'
 - fields: 1
   img:  'http://lh5.ggpht.com/sIbYMQQ_Zap8IM-0OSNfDcmhqlGrLw12pnC_OdD-CIksN6uBVuBi0m-ZNPiXF3Eijc8dtCbZLYdv_yX_qGKR'
   lat: 40.114982
@@ -1692,6 +1678,13 @@
   lon: -88.221702
   mus: 1
   name:  'Sigma Nu Fraternity House'
+- fields: 1
+  img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
+  lat: 40.11784
+  level: 6
+  lon: -88.24286
+  mus: 1
+  name:  'Kaufman Memorial'
 - fields: 1
   img:  'http://lh6.ggpht.com/ukIJOts1W6BPpII4XC4_Q5Wh8Gz8aCNeGUuAtaLknm7OKhNYvlDd71ZN8hcxCRcJDhDjV0qBZgFRyYMGNeS6'
   lat: 40.100203
