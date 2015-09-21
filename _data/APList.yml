@@ -1091,12 +1091,6 @@
   lon: -88.243467
   name:  'Incursion'
 - ap: 3474
-  img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
-  lat: 40.116164
-  level: 6
-  lon: -88.241661
-  name:  'Zipcar-45 E. University Avenue'
-- ap: 3474
   img:  'http://lh6.ggpht.com/o-Si4_DCq7Qwa_fFJhaTZ0-zCScbl7wDS4PHIFGMbnP9TuPVe9ZauXV3lAreyYvxN7B7n8mlrOR2SsPzXmU'
   lat: 40.115703
   level: 5
@@ -1120,6 +1114,12 @@
   level: 5
   lon: -88.251776
   name:  'Spalding Recreation Center'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
+  lat: 40.116164
+  level: 6
+  lon: -88.241661
+  name:  'Zipcar-45 E. University Avenue'
 - ap: 3474
   img:  'http://lh4.ggpht.com/maBwz4G9LJZ5aVuX_WF1Z73xSbqoFsm3l6oyrNQ16LkJMvaEbFa-amdfCpKDVDe7NzjReNu8IGnn7BAI8yef'
   lat: 40.103534
@@ -1458,18 +1458,6 @@
   name:  'f25f227ef17f42ad9f756fa783ef2f53.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.026865
-  level: '?'
-  lon: -88.535309
-  name:  '978bef9392354bf895fe9c00c1cf2a7f.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.714759
-  level: '?'
-  lon: -88.473589
-  name:  '3210233e62ce4931a16fbb519cdac05a.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.006828
   level: '?'
   lon: -87.65519
@@ -1480,6 +1468,18 @@
   level: '?'
   lon: -86.747979
   name:  '5c8841ea1b9541d4aa5b9aa018f35e39.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.026865
+  level: '?'
+  lon: -88.535309
+  name:  '978bef9392354bf895fe9c00c1cf2a7f.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.714759
+  level: '?'
+  lon: -88.473589
+  name:  '3210233e62ce4931a16fbb519cdac05a.16'
 - ap: 2537
   img:  'http://lh3.ggpht.com/g1H1SJintXK5Zb7ng6DN7wix1q5otnzMK5JCJDnecwuIiohJmhXLJs1XzItxaTSYEuPPOqd4x-dGqd0WK5YU'
   lat: 40.13349
