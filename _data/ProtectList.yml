@@ -1,3 +1,24 @@
+- fields: 2
+  img:  'http://lh4.ggpht.com/z_QJOP2CQWiQE36C1zzSwqnKEn7yAz55wOcleeRj1HtGTvAldWJFSigJ8ZdYQmD9UyUfFEzu7N7noscccVM'
+  lat: 40.082625
+  level: 5
+  lon: -88.204564
+  mus: 378651
+  name:  'Diamonds Are Forever Statue'
+- fields: 3
+  img:  'http://lh3.ggpht.com/3Zmkt--7llPgVt7DBvxcj4VWf2chqeJFGGK3MxoJQUsf4eyqv2iI35GHX8cDE1VJzJcS7rt1tLhm2NSszA4J'
+  lat: 40.080946
+  level: 7
+  lon: -88.20312
+  mus: 369613
+  name:  'Jack and Marilyn Memorial Bench'
+- fields: 2
+  img:  'http://lh4.ggpht.com/pTt4-DDT1cwTbzZEeKmOdZaGiy-eSWxNd6UttqXGqJNsFXd38QwCsiHKDTcWeMDbhCt8ddLDZsyBcpNW6aGnLA'
+  lat: 40.078858
+  level: 5
+  lon: -88.200763
+  mus: 355686
+  name:  'Prairie Overlook'
 - fields: 4+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.199591
@@ -12,41 +33,13 @@
   lon: -88.505076
   mus: 125587
   name:  'Mansfield Public Library'
-- fields: 7+
+- fields: 4+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.036075
   level: '?'
   lon: -88.264318
-  mus: 50239
+  mus: 4577
   name:  '9f2f971836014926a61e41b7cbd64fb0.16'
-- fields: 2+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.040518
-  level: '?'
-  lon: -88.384748
-  mus: 34011
-  name:  'St Boniface Catholic Church'
-- fields: 2+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.014857
-  level: '?'
-  lon: -88.331924
-  mus: 23179
-  name:  'd3747863b62e4161b818c8b5e75c79fc.16'
-- fields: 4
-  img:  'http://lh5.ggpht.com/Dnxa0uyF4RKoIJbGj2tdvyDNb0rGtuO_uRKbU5rlo_G2o90ZQh1TJPY85qrIuM3pseJmLtXNbo0wS6tvowaz'
-  lat: 40.08479
-  level: 5
-  lon: -88.331095
-  mus: 23067
-  name:  'Butterfly Bridge'
-- fields: 2+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 39.966666
-  level: '?'
-  lon: -88.349433
-  mus: 12940
-  name:  '4bc4e30883db4e5c872b2f20957f71d4.12'
 - fields: 5
   img:  'http://lh5.ggpht.com/qcPrCawV71BDvDKZgWvM7Mpyo0O3jE5Yu_3XjoulzyX8BWngzTHYScWApCGgWNCdP9JHc3BOauJEB_L0-YI'
   lat: 40.085444
@@ -68,12 +61,12 @@
   lon: -88.417405
   mus: 1443
   name:  '8bcf8353686248de9a7b2f537a01429b.16'
-- fields: 7+
+- fields: 8+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.194971
   level: '?'
   lon: -88.403465
-  mus: 1316
+  mus: 1353
   name:  '9ac55f1a3bf140e5abc27bbc95fb2036.16'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
@@ -82,12 +75,19 @@
   lon: -88.34467
   mus: 1288
   name:  '4559bb0f45f9470b8b155f0f3b6c9056.12'
-- fields: 2+
+- fields: 1+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 39.966666
+  level: '?'
+  lon: -88.349433
+  mus: 1288
+  name:  '4bc4e30883db4e5c872b2f20957f71d4.12'
+- fields: 5+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.178925
   level: '?'
   lon: -88.408076
-  mus: 1061
+  mus: 1176
   name:  'Community Free Church'
 - fields: 3+
   img: http://i.imgur.com/LujBo5P.png
@@ -110,6 +110,13 @@
   lon: -88.395508
   mus: 638
   name:  'Mahomet Village Tower'
+- fields: 3
+  img:  'http://lh5.ggpht.com/Dnxa0uyF4RKoIJbGj2tdvyDNb0rGtuO_uRKbU5rlo_G2o90ZQh1TJPY85qrIuM3pseJmLtXNbo0wS6tvowaz'
+  lat: 40.08479
+  level: 5
+  lon: -88.331095
+  mus: 583
+  name:  'Butterfly Bridge'
 - fields: 5
   img:  'http://lh4.ggpht.com/AvFagnn0VbkLPLCBBH39tDpdCMp-0Lz3QojJsRdIrqB9zfihnnJC929dj716gTo-udw6Mj0aJmZcM6HEm-xVmA'
   lat: 40.110606
@@ -348,6 +355,13 @@
   lon: -88.387753
   mus: 95
   name:  'Covered Bridge'
+- fields: 6
+  img:  'http://lh4.ggpht.com/CPNLxxDLwT8XTTIYSHB8Q_UYxT1Kys0VZFsb09WRjmkphTcuq1vN8RwaafOPe5Thv1r_pL-bzeCjmR-aHoAe'
+  lat: 40.193086
+  level: 7
+  lon: -88.402986
+  mus: 93
+  name:  'Middletown Cemetery'
 - fields: 1
   img:  'http://lh4.ggpht.com/F7jj0kd2tkXim3R2wPyhORp-2VKX925Q5s8CaHelAZMt9Kt5Yt63lVcgtb_6uXc0lcA29fL75LcZcdVsdtB4'
   lat: 40.062374
@@ -404,6 +418,13 @@
   lon: -88.242282
   mus: 74
   name:  'Dohme Park Flags & Mural'
+- fields: 4
+  img:  'http://lh5.ggpht.com/ncfefTWsVvZWHVozJVxFU0p2EzGdz74tJxMRB96Xaqo9wYsBbi01bALm5uOAn14GkFMSo3o_d1TAcvcUa2JYRg'
+  lat: 40.193851
+  level: 7
+  lon: -88.403214
+  mus: 73
+  name:  'Brooks-Warfel Memorial Park'
 - fields: 10
   img:  'http://lh6.ggpht.com/LVoGz75uEbzBIHab_ek4_2onuT-7Ow81Pj41mGU3rfgYArGKILIbviOC6pY-ZijVs4KcHd-ZD_WmLcCaImyC'
   lat: 40.119406
@@ -453,6 +474,13 @@
   lon: -88.242844
   mus: 67
   name:  'Lake Park Gardens'
+- fields: 2
+  img:  'http://lh6.ggpht.com/Agsmc3Gk_eTwRNySVZQyywiFe_wThkiMUicoZWD7q3aYhatN9GcapD1yOBV-aZB1yl0dqc9tfci1w-2Be67AMw'
+  lat: 40.192548
+  level: 7
+  lon: -88.40232
+  mus: 57
+  name:  'First Baptist Church'
 - fields: 3
   img:  'http://lh3.ggpht.com/nEmxwddo6XwjpSBtzzXHCx_v9wYD5ITuVRx4VF0emrxiLFZGpsBb4HkcXFS4BAR3ZhrmD8t2YDKEWF7NGxV7'
   lat: 40.099595
@@ -775,13 +803,6 @@
   lon: -88.241045
   mus: 16
   name:  'In Memory of E. Lynn Meisenfelter'
-- fields: 4
-  img:  'http://lh4.ggpht.com/CPNLxxDLwT8XTTIYSHB8Q_UYxT1Kys0VZFsb09WRjmkphTcuq1vN8RwaafOPe5Thv1r_pL-bzeCjmR-aHoAe'
-  lat: 40.193086
-  level: 7
-  lon: -88.402986
-  mus: 15
-  name:  'Middletown Cemetery'
 - fields: 5
   img:  'http://lh6.ggpht.com/xmgP6_TbSrlLRJsCZSQjC_DLNjFvpQZvEQ1HG5OqrNlNx6ze282h78In-2DEf_6Czi85r3XRa99MH0Ird8qu'
   lat: 40.085035
@@ -992,13 +1013,6 @@
   lon: -88.330182
   mus: 8
   name:  'Metal Mesh '
-- fields: 1
-  img:  'http://lh6.ggpht.com/Agsmc3Gk_eTwRNySVZQyywiFe_wThkiMUicoZWD7q3aYhatN9GcapD1yOBV-aZB1yl0dqc9tfci1w-2Be67AMw'
-  lat: 40.192548
-  level: 7
-  lon: -88.40232
-  mus: 8
-  name:  'First Baptist Church'
 - fields: 5
   img:  'http://lh6.ggpht.com/BjKL2L9ZzUTddDfIfeyClWu3tx12soMCpmNX8YkTMs-UqHGRUSmCHKtXCiiRT7J0N6vdUFyi_T_av5X2_-OX'
   lat: 40.194134
@@ -1020,13 +1034,6 @@
   lon: -88.265411
   mus: 8
   name:  'Karen A. Sayers Memorial'
-- fields: 2
-  img:  'http://lh5.ggpht.com/ncfefTWsVvZWHVozJVxFU0p2EzGdz74tJxMRB96Xaqo9wYsBbi01bALm5uOAn14GkFMSo3o_d1TAcvcUa2JYRg'
-  lat: 40.193851
-  level: 7
-  lon: -88.403214
-  mus: 7
-  name:  'Brooks-Warfel Memorial Park'
 - fields: 2
   img:  'http://lh5.ggpht.com/EKJxNTFOuD40jrzyfaaZo27LcnbJVBBxKH8MoiDi1tC4TahCXMGYOMqy4lUVaR-z2Z4Guhp4berNdA0t0x0'
   lat: 40.117598
