@@ -1,9 +1,9 @@
-- fields: 4
+- fields: 7
   img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
   lat: 40.098239
   level: 5
   lon: -88.25376
-  mus: 409
+  mus: 2134
   name:  'Hessel Park Christian Reformed Church'
 - fields: 4
   img:  'http://lh4.ggpht.com/0pYkppjw5D-G0gCZ1pULK83NAqN9qsyzbBnG8K8YMyMekJwqUrZQDRpTqgqB3rrRD6zJezplE_wlFOTPLovb'
@@ -33,6 +33,13 @@
   lon: -88.29276
   mus: 236
   name:  'Campus Solar System - Sun'
+- fields: 1
+  img:  'http://lh4.ggpht.com/BB4y2ChVuPpmuGW8VPeiAPKr-vWwYdihWvrH0i_WALxPd8wX3j2no0JFEMNK8ndCvXwQzLLabPyRoAfsz5g'
+  lat: 40.101584
+  level: 6
+  lon: -88.270546
+  mus: 187
+  name:  'Mayfair Park '
 - fields: 4
   img:  'http://lh3.ggpht.com/07XrBN-er6Ecleor0n9RJ4DfGO6B2yn-ZxjI-Uy8Ba46Jtb6cXNVmATPiPiGyk-1jZ4wxa7-EeIWbWUqArCG'
   lat: 40.142554
@@ -61,6 +68,20 @@
   lon: -88.28778
   mus: 68
   name:  'Campus Solar System - Saturn'
+- fields: 3
+  img:  'http://lh3.googleusercontent.com/pihlKyQsrDy4--S-APpj9Hj1GUcsPGxa1ZK_GdhdRcEazcO1s6-IF_pAbEVNKK9dpdnr8KeiIDtg20T3PtI'
+  lat: 40.111959
+  level: 5
+  lon: -88.230174
+  mus: 52
+  name:  '508 S Sixth Street'
+- fields: 4
+  img:  'http://lh4.ggpht.com/HEEvU2OlgWiV5huAu3cvNKaI-C8YKYTO3qB8WMTO7EbsjTO84KS6jLjbGCq7THZq6l63UiUKCSEqY2IADYns'
+  lat: 40.091766
+  level: 6
+  lon: -88.250003
+  mus: 34
+  name:  '"The Cranes" at Fox Corporate Center'
 - fields: 1
   img:  'http://lh6.ggpht.com/RR0i4QdfoY8NkTQtssdOtDLhAEaCR7e-R4ipk5NzdKe9lTGDq2nyKI_7sF2BCXrgCZAZ2zEEtIzS7vg6Pu0hzA'
   lat: 40.126458
@@ -110,13 +131,6 @@
   lon: -88.250065
   mus: 20
   name:  'Lois Barham Memorial Tree'
-- fields: 3
-  img:  'http://lh4.ggpht.com/HEEvU2OlgWiV5huAu3cvNKaI-C8YKYTO3qB8WMTO7EbsjTO84KS6jLjbGCq7THZq6l63UiUKCSEqY2IADYns'
-  lat: 40.091766
-  level: 6
-  lon: -88.250003
-  mus: 20
-  name:  '"The Cranes" at Fox Corporate Center'
 - fields: 5
   img:  'http://lh4.ggpht.com/vxjetUOC6_S8Ru3Q1ivzG4NE4bAAWg7_opiMwStExCoUHiRaIab8NyXLypEOAo7KBtsRQRzJX-TimhsOlBu3'
   lat: 40.087121
@@ -239,7 +253,7 @@
 - fields: 3
   img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
   lat: 40.101062
-  level: 6
+  level: 7
   lon: -88.249275
   mus: 4
   name:  'Narayan & Shanti Achanta Memorial Plaque'
@@ -320,13 +334,6 @@
   lon: -88.251412
   mus: 2
   name:  'Zeus Memorial'
-- fields: 2
-  img:  'http://lh4.ggpht.com/Zom5xkViTBf5wGkPFjYta7PfPZDicQD2VL2bQItgdzMxvQ1x7zqM3Zgynd7a6XBMT6qMAMKagxWMdpMlPcveaw'
-  lat: 40.105849
-  level: 4
-  lon: -88.227679
-  mus: 1
-  name:  'Lincoln Scholarship Plaque'
 - fields: 1
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
@@ -348,13 +355,6 @@
   lon: -88.292578
   mus: 1
   name:  'Campus Solar System - Venus'
-- fields: 1+
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.152192
-  level: '?'
-  lon: -88.252279
-  mus: 1
-  name:  'Toalson Park South Entrance'
 - fields: 1
   img:  'http://lh5.ggpht.com/gzRmKQixkcp4cu1yDSKAOq_7_ipKvFWUCHT7BfpjE6VSSAq7Q08JJGg_jt4FCMWU3ie65fwweNlj4n6dg1aQIA'
   lat: 40.111419
@@ -397,3 +397,10 @@
   lon: -88.248271
   mus: 1
   name:  'Still Waters'
+- fields: 1
+  img:  'http://lh4.ggpht.com/L3_3bdFGcwi5zvNhxvPnMFZZEm1bKFSEVI3DOlF-FaUcX4jDGEwZ8xezrXUq6-71tbPP7kIe9PT1CTTY-ZjJ7A'
+  lat: 40.114539
+  level: 4
+  lon: -88.224663
+  mus: 1
+  name:  'Bench of Opportunity'
