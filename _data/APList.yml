@@ -107,12 +107,6 @@
   lon: -88.243236
   name:  'Champaign City Bldg. Landmark Plaque'
 - ap: 7972
-  img:  'http://lh3.ggpht.com/J_h4tdb4wqy8bmmQfDuy5yqTR2IlkzKojfvsMOvlD-3tf1pKxbDlhA6W9Q8RX-JaSxhItMr4bmCxiUQXTLbz'
-  lat: 40.10064
-  level: 7
-  lon: -88.24958
-  name:  'Edward A. Cousins Plaque'
-- ap: 7972
   img:  'http://lh3.googleusercontent.com/Tixp17uCaP682s77UzvCwWCOE6vg7iB2qEFLjACq7xtVJdHE0K3yKYsl3_SwKbiUfQWwgTQRbvfka3U0NvNc'
   lat: 40.098819
   level: 8
@@ -136,6 +130,12 @@
   level: 8
   lon: -88.249061
   name:  'Randy William Auteberry Memorial'
+- ap: 7972
+  img:  'http://lh3.ggpht.com/J_h4tdb4wqy8bmmQfDuy5yqTR2IlkzKojfvsMOvlD-3tf1pKxbDlhA6W9Q8RX-JaSxhItMr4bmCxiUQXTLbz'
+  lat: 40.10064
+  level: 7
+  lon: -88.24958
+  name:  'Edward A. Cousins Plaque'
 - ap: 7972
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
@@ -503,6 +503,12 @@
   lon: -88.332388
   name:  'Spiral the Gate'
 - ap: 5535
+  img:  'http://lh6.ggpht.com/cZVUlNaHjfsB6Lu5hnj8JjUk4lvsgOV7DFz4Nl47-RaQObW1VPRpos6hTDD6WgYrNxCh9UKfn5DFU-K7lRe9pQ'
+  lat: 40.1164
+  level: 6
+  lon: -88.242747
+  name:  'Sidewalk Art'
+- ap: 5535
   img:  'http://lh5.ggpht.com/BkbaZlRlq44d6DiMOVuIlrel2Hsi_RzzHhhdmJH6BLzJk5RKxAcvh2mMd93BFhKgTKLk-yZsNLTaJiTbZsk'
   lat: 40.086686
   level: 7
@@ -538,6 +544,12 @@
   level: 6
   lon: -88.243459
   name:  'Champaign City Building'
+- ap: 5348
+  img:  'http://lh5.ggpht.com/XQVr2AUWddJQMpYbapEIpcTLBeBvcpgmW016VjkAOXrp8_P2VsMxQY8FVhtDhA73iTCXCPiydjFIJcbcSa8_'
+  lat: 40.116206
+  level: 5
+  lon: -88.24306
+  name:  'Indigo Art Gallery'
 - ap: 5348
   img:  'http://lh5.ggpht.com/kDVKmp7jSlZ1o-7qOsCnRovJeghgXHZ8aCDs-HOlcHhrSbcYXNYN2IOODVgKVnUMF_i6KDi2h96TMWnnUlUl'
   lat: 40.117287
@@ -719,12 +731,6 @@
   lon: -88.24263
   name:  'Cafe Kopi'
 - ap: 4598
-  img:  'http://lh6.ggpht.com/cZVUlNaHjfsB6Lu5hnj8JjUk4lvsgOV7DFz4Nl47-RaQObW1VPRpos6hTDD6WgYrNxCh9UKfn5DFU-K7lRe9pQ'
-  lat: 40.1164
-  level: 6
-  lon: -88.242747
-  name:  'Sidewalk Art'
-- ap: 4598
   img:  'http://lh4.ggpht.com/PfcTU4XsA06ThtmCWydIWhTsN3gR4jrqnrKxu0O5lhyibhRdKMEaf3jM8VNhViF8qLf13b01E71wr_ajxn0'
   lat: 40.118465
   level: 7
@@ -814,12 +820,6 @@
   level: 5
   lon: -88.243766
   name:  'Mural on South Neil St.'
-- ap: 4411
-  img:  'http://lh5.ggpht.com/XQVr2AUWddJQMpYbapEIpcTLBeBvcpgmW016VjkAOXrp8_P2VsMxQY8FVhtDhA73iTCXCPiydjFIJcbcSa8_'
-  lat: 40.116206
-  level: 5
-  lon: -88.24306
-  name:  'Indigo Art Gallery'
 - ap: 4411
   img:  'http://lh3.ggpht.com/9aQBG-poFARclK9XL7iFIvWePkawZwWhv4Sh0zQhQ0Sy9gdDD508d4gCtpcUP9UNoYM6uztea0aQ05RPd9rZLg'
   lat: 40.115412
@@ -959,6 +959,18 @@
   lon: -88.265186
   name:  'Shield of Chichen Itza'
 - ap: 3848
+  img:  'http://lh3.ggpht.com/LunaMtSKD9yiLQClolDY-Iqh0ENm9AgJdL4D1QxGs0j6TXPgqxDZea35x5ilAfeI5_0TGh5x1q1EqRsJsLFi'
+  lat: 40.114111
+  level: 5
+  lon: -88.243697
+  name:  'Champaign Surplus'
+- ap: 3848
+  img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
+  lat: 40.115838
+  level: 4
+  lon: -88.241338
+  name:  'Illinois Terminal'
+- ap: 3848
   img:  'http://lh4.ggpht.com/mrFIlt7StuloTop3ci5DRg10i06ivamSn69PgqYPZfkV23dOzf-DhDdDUjeOOzy1ILR9xOOdLX_NBsMOH9FO'
   lat: 40.124377
   level: 4
@@ -1018,12 +1030,6 @@
   level: '?'
   lon: -88.253532
   name:  'Toalson Park'
-- ap: 3661
-  img:  'http://lh3.ggpht.com/LunaMtSKD9yiLQClolDY-Iqh0ENm9AgJdL4D1QxGs0j6TXPgqxDZea35x5ilAfeI5_0TGh5x1q1EqRsJsLFi'
-  lat: 40.114111
-  level: 5
-  lon: -88.243697
-  name:  'Champaign Surplus'
 - ap: 3661
   img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
   lat: 40.11784
@@ -1349,6 +1355,12 @@
   lon: -88.243989
   name:  'Rainbow Garden'
 - ap: 2724
+  img:  'http://lh4.ggpht.com/QwsEAxJxXih3pk0pVFqxU5BqHCY0sPesI5cs9qmw4rX55HG6-kHZC-0O_JV-ksx0rkRV7vbv4cNoCCqUGKe6NA'
+  lat: 40.117334
+  level: 5
+  lon: -88.240517
+  name:  'Glory Pipes 2.0'
+- ap: 2724
   img:  'http://lh6.ggpht.com/uaO1clC1eOzxRVRPPU6mVM4lEPV2U6uxh64a8kJNRglHSObClWlHGEcfJTknzwB_7Wli3doxQJbZKiBHIXI'
   lat: 40.102834
   level: 7
@@ -1416,18 +1428,6 @@
   name:  'Splintering Continuity'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.605627
-  level: '?'
-  lon: -89.448501
-  name:  '8c5387664a8f4e5481f738265860118c.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.054592
-  level: '?'
-  lon: -89.050254
-  name:  '910fc6ef02d04f249d87f9d6a5b602a0.12'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.779768
   level: '?'
   lon: -89.966261
@@ -1440,16 +1440,40 @@
   name:  '406cc5b4ffd24213b38a489ad85b31c1.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.311696
+  level: '?'
+  lon: -89.169242
+  name:  '74a2abe956ec428e8662daadb4b010f1.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.487201
   level: '?'
   lon: -89.063442
   name:  'fe203cb8ff634d2295bd5452d5fbc6c7.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.605627
+  level: '?'
+  lon: -89.448501
+  name:  '8c5387664a8f4e5481f738265860118c.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.054592
+  level: '?'
+  lon: -89.050254
+  name:  '910fc6ef02d04f249d87f9d6a5b602a0.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.454401
   level: '?'
   lon: -88.098157
   name:  'Just Hamburgers'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.408222
+  level: '?'
+  lon: -89.064026
+  name:  '81396132b8b44e45b2e91d2e0c099619.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.026865
@@ -1462,18 +1486,6 @@
   level: '?'
   lon: -88.473589
   name:  '3210233e62ce4931a16fbb519cdac05a.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.408222
-  level: '?'
-  lon: -89.064026
-  name:  '81396132b8b44e45b2e91d2e0c099619.12'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.311696
-  level: '?'
-  lon: -89.169242
-  name:  '74a2abe956ec428e8662daadb4b010f1.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.359306
@@ -1666,12 +1678,6 @@
   level: 5
   lon: -88.24078
   name:  'North Star Sculpture'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/QwsEAxJxXih3pk0pVFqxU5BqHCY0sPesI5cs9qmw4rX55HG6-kHZC-0O_JV-ksx0rkRV7vbv4cNoCCqUGKe6NA'
-  lat: 40.117334
-  level: 5
-  lon: -88.240517
-  name:  'Glory Pipes 2.0'
 - ap: 2537
   img:  'http://lh3.ggpht.com/ei2Kly4PJYB7wpv5MtMVvHz793oQIWOLbz-mjq2ICitv-6BTGVsfA0kPQXiwg3O2Mi__LvZvuashS63u2rwa'
   lat: 40.117638
