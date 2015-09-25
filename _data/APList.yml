@@ -784,6 +784,18 @@
   level: 6
   lon: -88.242485
   name:  'Champaign Servicemen and Women Memorial'
+- ap: 4111
+  img:  'http://lh3.ggpht.com/GGBe9Hug3fUbRCRAMs_kO1fg2HHQ95ZDBdW0S2tAHakvhQbWxlttanjhGNJJcyVRruUlL7zjQnPGI2bu8Wc4'
+  lat: 40.117905
+  level: 2
+  lon: -88.242149
+  name:  'Read All About It'
+- ap: 4411
+  img:  'http://lh5.ggpht.com/KYppjeOoIlb4lbowRrrC5qRdYW7_KU8rzjtDMpvhh-Q_c6VZOTtVmOqmmxChJA2hjlpS5dJ1JnhUQcKUAXDWHA'
+  lat: 40.117976
+  level: 6
+  lon: -88.242642
+  name:  'Stevick Building'
 - ap: 4411
   img:  'http://lh3.ggpht.com/oHMQr2Z5LayQFbZOwOZK4ZbYQ1OVxs85-qNTvSj8epsP72vQiOdrzVmkuMPFQtCSf9Rr0oqcnSLFjLn-sPw'
   lat: 40.116592
@@ -802,18 +814,6 @@
   level: 5
   lon: -88.243459
   name:  'Champaign City Building'
-- ap: 4111
-  img:  'http://lh3.ggpht.com/GGBe9Hug3fUbRCRAMs_kO1fg2HHQ95ZDBdW0S2tAHakvhQbWxlttanjhGNJJcyVRruUlL7zjQnPGI2bu8Wc4'
-  lat: 40.117905
-  level: 2
-  lon: -88.242149
-  name:  'Read All About It'
-- ap: 4411
-  img:  'http://lh5.ggpht.com/KYppjeOoIlb4lbowRrrC5qRdYW7_KU8rzjtDMpvhh-Q_c6VZOTtVmOqmmxChJA2hjlpS5dJ1JnhUQcKUAXDWHA'
-  lat: 40.117976
-  level: 6
-  lon: -88.242642
-  name:  'Stevick Building'
 - ap: 4411
   img:  'http://lh5.ggpht.com/CRkkFx_9jq2hCt1HtflqZDqCdmSG5MN88FV0rLXk1PZm7maZWzLTKZhjqlSKUx1Tg0tSB62l75w2VFsyUZI'
   lat: 40.09991
@@ -1032,16 +1032,16 @@
   name:  'Idea Garden'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.142471
-  level: '?'
-  lon: -89.066295
-  name:  'ec5b40c6672749e6b738b2f789ea2969.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.142716
   level: '?'
   lon: -89.060025
   name:  '15b50cdb06a24dcc94d2074e167c6e4c.12'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.142471
+  level: '?'
+  lon: -89.066295
+  name:  'ec5b40c6672749e6b738b2f789ea2969.16'
 - ap: 3474
   img:  'http://lh5.ggpht.com/Dnxa0uyF4RKoIJbGj2tdvyDNb0rGtuO_uRKbU5rlo_G2o90ZQh1TJPY85qrIuM3pseJmLtXNbo0wS6tvowaz'
   lat: 40.08479
@@ -1277,17 +1277,17 @@
   lon: -88.138705
   name:  '5307bb3cd4dc414ea8750a5d0eeaaad6.16'
 - ap: 2911
-  img:  'http://lh4.ggpht.com/yi9OPnLGsLTvtOMNuOUfed6edO9tB6h0QmSHJaKKaiMyEXC8Aj2hz9hIvgh8C2DY76mVgNHw4S0gsYpkPpkt'
-  lat: 40.148692
-  level: 7
-  lon: -88.248724
-  name:  'Fountain Town Center'
-- ap: 2911
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.334333
   level: '?'
   lon: -88.766527
   name:  'e080a514718246ae91d93e990746b2a9.16'
+- ap: 2911
+  img:  'http://lh4.ggpht.com/yi9OPnLGsLTvtOMNuOUfed6edO9tB6h0QmSHJaKKaiMyEXC8Aj2hz9hIvgh8C2DY76mVgNHw4S0gsYpkPpkt'
+  lat: 40.148692
+  level: 7
+  lon: -88.248724
+  name:  'Fountain Town Center'
 - ap: 2911
   img:  'http://lh3.ggpht.com/xuR2FaQJXFhWOfH2YR-wgTMUn6de0x9fK_RzH7yx2vxtFcveZF4qEwPTtrwnO1KK0aVRHbtmwoYGNSheowgV'
   lat: 40.096637
@@ -1480,18 +1480,6 @@
   level: '?'
   lon: -88.473589
   name:  '3210233e62ce4931a16fbb519cdac05a.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.396552
-  level: '?'
-  lon: -86.283274
-  name:  'Kids Corner Park'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 45.356488
-  level: '?'
-  lon: -86.929756
-  name:  'f47839054fdc429aa5092b613c108573.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.359306
