@@ -1,24 +1,38 @@
-- fields: 7+
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.312242
-  level: '?'
-  lon: -88.201368
-  mus: 385328
-  name:  '2012 Employee Dedication Bench'
-- fields: 4+
+- fields: 6+
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.152792
   level: '?'
   lon: -88.253532
-  mus: 2986
+  mus: 280924
   name:  'Toalson Park'
+- fields: 1
+  img:  'http://lh5.ggpht.com/UnOCK4wTgvrT-rm-xLg_jv4qqEZwrBtco0XbXk7Lqvj_k78aLJQrjldFDRl-VuG4z2x41QuvXnODUJ93U3bj'
+  lat: 40.105511
+  level: 5
+  lon: -88.181216
+  mus: 2331
+  name:  'Living Hope Foursquare Church'
+- fields: 2+
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.197543
+  level: '?'
+  lon: -88.383728
+  mus: 556
+  name:  'Forest Preserve Headquarters'
 - fields: 5
   img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
   lat: 40.097979
-  level: 7
+  level: 8
   lon: -88.247785
   mus: 111
   name:  'Jarling''s Custard Cup'
+- fields: 2
+  img:  'http://lh5.ggpht.com/0m1i3CJSj3bKhLj5BgXi8SFpgoihNsBoN6fpccgDU2tjtPcA5BqB1IxvR0yAX9FWkgt3_Q8gbAyGfdJDliGP'
+  lat: 40.115142
+  level: 6
+  lon: -88.238658
+  mus: 101
+  name:  'First Street Antiques'
 - fields: 3
   img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
   lat: 40.098239
@@ -40,13 +54,6 @@
   lon: -88.251967
   mus: 25
   name:  'Sesquicentennial Neighborhood Sign'
-- fields: 1
-  img:  'http://lh3.ggpht.com/7sJlWdBFFcLCXWnnfB6SVTzCCDM0Q7KyV5jALfrWG3ICtkw7HXrjzaRrnzSiv19wIswpZoTxKYudzYiZnT9Shg'
-  lat: 40.112536
-  level: 3
-  lon: -88.256779
-  mus: 24
-  name:  'Framer''s Market'
 - fields: 3
   img:  'http://lh3.ggpht.com/jnMeoF6SBZ0Iinf5GnB2N90IMGTEQdGggLITfjWcIY6d5yipHaBN52a1NPxmn-VFwc_G1cHiMmyEDGg5nkwo'
   lat: 40.101623
@@ -209,16 +216,16 @@
   mus: 4
   name:  'Gabriel Patrick Maxeiner Memorial'
 - fields: 6
-  img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
-  lat: 40.116553
-  level: 5
-  lon: -88.242268
+  img:  'http://lh6.ggpht.com/cZVUlNaHjfsB6Lu5hnj8JjUk4lvsgOV7DFz4Nl47-RaQObW1VPRpos6hTDD6WgYrNxCh9UKfn5DFU-K7lRe9pQ'
+  lat: 40.1164
+  level: 6
+  lon: -88.242747
   mus: 3
-  name:  'Esquire Lounge'
+  name:  'Sidewalk Art'
 - fields: 3
   img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
   lat: 40.11784
-  level: 4
+  level: 7
   lon: -88.24286
   mus: 3
   name:  'Kaufman Memorial'
@@ -236,6 +243,13 @@
   lon: -88.251974
   mus: 3
   name:  'Hessel Park'
+- fields: 4
+  img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
+  lat: 40.116553
+  level: 5
+  lon: -88.242268
+  mus: 2
+  name:  'Esquire Lounge'
 - fields: 2
   img:  'http://lh6.ggpht.com/3o0ObAARFV_8mBVCC_QD0iLOPVzNkakXybhLnSVEuXIJfDLKMxeYj-EkWIw9NPoZIVRf5Dkrid2yf_NEQ-iE'
   lat: 40.100347
@@ -257,6 +271,13 @@
   lon: -88.240991
   mus: 2
   name:  'Old News Gazette Offices'
+- fields: 2
+  img:  'http://lh5.ggpht.com/w9vRSV8NBR1gsi8ndeSUNJN2X-ftwCCQ7Jd3dcLVhPw6r1w0x1QE4hNgpCJBKimUeq-HToz_yq9S3rYkzC5bjw'
+  lat: 40.114687
+  level: 6
+  lon: -88.22473
+  mus: 2
+  name:  'Web Browser Plaque'
 - fields: 2+
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.205206
@@ -299,13 +320,6 @@
   lon: -88.218588
   mus: 1
   name:  'Idea Garden'
-- fields: 2
-  img:  'http://lh3.ggpht.com/-MRGQEVV5mNMzB4sb8JAsgVC56kTzYaFEf3mpRsfXAiO4KIrLw3LGFkt7Au97yDwY-AUSfghHcri53Zpmn-Z4Q'
-  lat: 40.11621
-  level: 6
-  lon: -88.242535
-  mus: 1
-  name:  'Inman Building Historic Plaque'
 - fields: 1
   img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
   lat: 40.101062
@@ -335,12 +349,12 @@
   mus: 1
   name:  '1ab1edcdd05447019675c2b4b0d30cbb.16'
 - fields: 1
-  img:  'http://lh5.ggpht.com/w9vRSV8NBR1gsi8ndeSUNJN2X-ftwCCQ7Jd3dcLVhPw6r1w0x1QE4hNgpCJBKimUeq-HToz_yq9S3rYkzC5bjw'
-  lat: 40.114687
+  img:  'http://lh3.ggpht.com/-MRGQEVV5mNMzB4sb8JAsgVC56kTzYaFEf3mpRsfXAiO4KIrLw3LGFkt7Au97yDwY-AUSfghHcri53Zpmn-Z4Q'
+  lat: 40.11621
   level: 6
-  lon: -88.22473
+  lon: -88.242535
   mus: 1
-  name:  'Web Browser Plaque'
+  name:  'Inman Building Historic Plaque'
 - fields: 1
   img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
   lat: 40.100936
@@ -383,6 +397,13 @@
   lon: -88.241676
   mus: 1
   name:  'Jos. Kuhn and Co. Building'
+- fields: 1
+  img:  'http://lh4.ggpht.com/Gyz7BDhWdUinBQfD8duByX5-aBgPmB9oSesH20dH8uGJnTiaIHkeRJARtH6YQUUD5A5X2IjPTlT989AfutNc'
+  lat: 40.092773
+  level: 5
+  lon: -88.250951
+  mus: 1
+  name:  'William C. Fox Waterway'
 - fields: 1
   img:  'http://lh4.ggpht.com/4LxsGZZMk3DnpJXUvqzrL54CHSP5TDXjUnDJyHmCCTtCJIjGEI7kxT9g4uxfSPh0X6yGLgQo1jfqbu7B8VEr'
   lat: 40.099084
