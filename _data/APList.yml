@@ -516,6 +516,12 @@
   name:  'Champaign Countys Lincoln'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.734167
+  level: '?'
+  lon: -90.22501
+  name:  '67f5dc8e131c488cb566d99512327188.12'
+- ap: 4411
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 39.734318
   level: '?'
   lon: -90.222295
@@ -534,16 +540,16 @@
   name:  'a2354e42fbdc412ea2a39ab379ed041a.16'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.73415
-  level: '?'
-  lon: -90.225539
-  name:  'af4cc2a78e06479f9875b9a1c3c4f57e.12'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.880216
   level: '?'
   lon: -88.628816
   name:  '20a6b01e6c314ec48b9ebc733da62d45.12'
+- ap: 4411
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.879996
+  level: '?'
+  lon: -88.628818
+  name:  '24c2c36a85a04ef3888b6b359f2df845.11'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.879983
@@ -552,22 +558,16 @@
   name:  '57c69b29a70b453eaff1cdd86d0705a9.12'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.734167
+  lat: 39.73415
   level: '?'
-  lon: -90.22501
-  name:  '67f5dc8e131c488cb566d99512327188.12'
+  lon: -90.225539
+  name:  'af4cc2a78e06479f9875b9a1c3c4f57e.12'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
   lat: 39.734055
   level: '?'
   lon: -90.223332
   name:  'f2f41b5698fa4bd99163a1c7fe9d515c.16'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.879996
-  level: '?'
-  lon: -88.628818
-  name:  '24c2c36a85a04ef3888b6b359f2df845.11'
 - ap: 4411
   img:  'http://lh3.ggpht.com/07XrBN-er6Ecleor0n9RJ4DfGO6B2yn-ZxjI-Uy8Ba46Jtb6cXNVmATPiPiGyk-1jZ4wxa7-EeIWbWUqArCG'
   lat: 40.142554
@@ -726,6 +726,18 @@
   name:  'Mabery Gelvin Botanical Garden'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.734073
+  level: '?'
+  lon: -90.224213
+  name:  'b6c0bf98001d427fbae99e98003d0dcc.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.142716
+  level: '?'
+  lon: -89.060025
+  name:  '15b50cdb06a24dcc94d2074e167c6e4c.12'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.142471
   level: '?'
   lon: -89.066295
@@ -738,12 +750,6 @@
   name:  'dd9a02e4972b4c15a38e1a15db16a825.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.734073
-  level: '?'
-  lon: -90.224213
-  name:  'b6c0bf98001d427fbae99e98003d0dcc.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 39.734108
   level: '?'
   lon: -90.22378
@@ -754,12 +760,6 @@
   level: '?'
   lon: -90.221631
   name:  '2c959101d923470f85ed7ce9b25160b7.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.142716
-  level: '?'
-  lon: -89.060025
-  name:  '15b50cdb06a24dcc94d2074e167c6e4c.12'
 - ap: 3474
   img:  'http://lh5.ggpht.com/WgDPQ47lNn2nlvNDPgwM_c-1MpVvxdVZtjZmFtixtr3rIi91xqYhgtSbyJGqRFnSXCUHy_RjABgEj2LSzOs'
   lat: 40.113343
@@ -905,18 +905,6 @@
   lon: -88.235143
   name:  'US Post Office, E Green St, Champaign'
 - ap: 2724
-  img:  'http://lh6.ggpht.com/RR0i4QdfoY8NkTQtssdOtDLhAEaCR7e-R4ipk5NzdKe9lTGDq2nyKI_7sF2BCXrgCZAZ2zEEtIzS7vg6Pu0hzA'
-  lat: 40.126458
-  level: 5
-  lon: -88.218544
-  name:  'The Vineyard Church'
-- ap: 2724
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.312242
-  level: '?'
-  lon: -88.201368
-  name:  '2012 Employee Dedication Bench'
-- ap: 2724
   img:  'http://lh4.ggpht.com/vbIH-PkUCBuwDTIRXA4p5jtGQ86SqYlc1e-g3Y9Ef2zaSb0ozkDD41Iq51orLhtPyShj4UzC6CPn0Unt8SY'
   lat: 40.145108
   level: 6
@@ -928,6 +916,18 @@
   level: '?'
   lon: -88.253532
   name:  'Toalson Park'
+- ap: 2724
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.312242
+  level: '?'
+  lon: -88.201368
+  name:  '2012 Employee Dedication Bench'
+- ap: 2724
+  img:  'http://lh6.ggpht.com/RR0i4QdfoY8NkTQtssdOtDLhAEaCR7e-R4ipk5NzdKe9lTGDq2nyKI_7sF2BCXrgCZAZ2zEEtIzS7vg6Pu0hzA'
+  lat: 40.126458
+  level: 5
+  lon: -88.218544
+  name:  'The Vineyard Church'
 - ap: 2724
   img:  'http://lh5.ggpht.com/-aOZyLFNK96FhUdQBYhmRPZrs_PB1oiLRcrPjKwFBANQ42LxLbbHfTZVw_F01meecQXfNQwJYy7qqVh8Q0gR9g'
   lat: 40.133768
