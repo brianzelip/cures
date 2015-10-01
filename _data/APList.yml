@@ -209,12 +209,6 @@
   lon: -88.251826
   name:  'Irina P. Stewart Memorial Plaque'
 - ap: 7596
-  img:  'http://lh3.ggpht.com/D5w16IkXAQ0YY9o7po5gAloAMlle7bjYNMt8MOeTkXrb2FcrQf_HFrBrOWk3aLKfLEjsGCYC8j5IP5IQrfDw'
-  lat: 40.085994
-  level: 5
-  lon: -88.190771
-  name:  'Kingdom Hall of Jehovah''s Witnesses'
-- ap: 7596
   img:  'http://lh6.ggpht.com/tenpgw5pr4OCsrdIgmmHP_sx4RHH2ywHdbNxw556d5JpHC4u64HFYqCdRSeAJgfTN_7BcUv11v8NtBdlaUV8'
   lat: 40.100717
   level: 6
@@ -233,11 +227,11 @@
   lon: -88.244122
   name:  'Artistic Graffiti at MCS'
 - ap: 7409
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.084939
-  level: '?'
-  lon: -88.168778
-  name:  'Stone Creek Fountain 2'
+  img:  'http://lh3.ggpht.com/D5w16IkXAQ0YY9o7po5gAloAMlle7bjYNMt8MOeTkXrb2FcrQf_HFrBrOWk3aLKfLEjsGCYC8j5IP5IQrfDw'
+  lat: 40.085994
+  level: 5
+  lon: -88.190771
+  name:  'Kingdom Hall of Jehovah''s Witnesses'
 - ap: 7409
   img:  'http://lh5.ggpht.com/Z2EWM4D6YQHuqnLwtuPBawyQBZxTzVe9E17MKc8jOZkO0ZzkuD5zSQslY2iuXkkUnztPteUeOSHrSTz3voHC'
   lat: 40.111166
@@ -250,6 +244,12 @@
   level: 5
   lon: -88.20317
   name:  'Goodwill'
+- ap: 7222
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.084939
+  level: '?'
+  lon: -88.168778
+  name:  'Stone Creek Fountain 2'
 - ap: 7222
   img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
   lat: 40.100822
@@ -335,17 +335,17 @@
   lon: -88.251157
   name:  'Tyler Van Atkins Memorial'
 - ap: 7035
-  img:  'http://lh3.ggpht.com/sisvfsphxy7AK_2qrrqb7lNJk3_7ciHSVJyodINYITBc-UqugyNOooCxKupgJKEg5m_x95eZwouSO2WCmN60ew'
-  lat: 40.098579
-  level: 8
-  lon: -88.249603
-  name:  'Chef Ra Memorial Plaque'
-- ap: 7035
   img:  'http://lh6.ggpht.com/n0f7lyo15OzZn5IJHsohIGAA58iioentPZGEY4zeMZCCoX4GjEEkqfaTCIbrx9OnezriThnbFV14kYcwKTgL1g'
   lat: 40.098444
   level: 7
   lon: -88.248167
   name:  'Healthcare Not War Mural'
+- ap: 7035
+  img:  'http://lh3.ggpht.com/sisvfsphxy7AK_2qrrqb7lNJk3_7ciHSVJyodINYITBc-UqugyNOooCxKupgJKEg5m_x95eZwouSO2WCmN60ew'
+  lat: 40.098579
+  level: 8
+  lon: -88.249603
+  name:  'Chef Ra Memorial Plaque'
 - ap: 7035
   img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
   lat: 40.099593
@@ -762,18 +762,6 @@
   name:  'Champaign County Courthouse'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.058869
-  level: '?'
-  lon: -87.670779
-  name:  '906955eb184f41c38b6a9615828f203f.16'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.399079
-  level: '?'
-  lon: -86.282489
-  name:  '51472f175acb4892b5c116857b6087a9.16'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.142716
   level: '?'
   lon: -89.060025
@@ -898,6 +886,12 @@
   level: 5
   lon: -88.242671
   name:  'Marketplace Mall Fountain'
+- ap: 4035
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.312242
+  level: '?'
+  lon: -88.201368
+  name:  '2012 Employee Dedication Bench'
 - ap: 4035
   img:  'http://lh6.ggpht.com/_rfJReDlJdrYezXwl9C7a4r7ZMCEE2RZ9dek5gQwKkC4sFtmFVfYF7S04SQXmjcksfbCvLWlOEuqOjxWnX4'
   lat: 40.12284
@@ -1098,12 +1092,6 @@
   name:  'ebaa4a5573f7449399263066d9248473.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.49019
-  level: '?'
-  lon: -87.803714
-  name:  '06fe6458fbc04b49a0f1e4366602cb78.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.141715
   level: '?'
   lon: -89.055571
@@ -1116,10 +1104,16 @@
   name:  'ec5b40c6672749e6b738b2f789ea2969.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.487405
+  lat: 41.151267
   level: '?'
-  lon: -87.802521
-  name:  'dec2db54b23e4943876240c2ef90b39b.16'
+  lon: -87.899227
+  name:  '02590af4881041de984e5976d567ee03.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.118478
+  level: '?'
+  lon: -87.853541
+  name:  '2b8749bd0dab49799007a6ef6cc1853c.16'
 - ap: 3474
   img:  'http://lh5.ggpht.com/tuo_ByFTbwLitFP5cBseOibqRxENxbCwOJ30dCnja5ijBI_qBv5vqNP7ZuZXnxhYM6ms_GbExZEwwKVUtwV2'
   lat: 40.093712
@@ -1252,12 +1246,6 @@
   level: 7
   lon: -88.258423
   name:  'War Veteran Memorial'
-- ap: 3098
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.312242
-  level: '?'
-  lon: -88.201368
-  name:  '2012 Employee Dedication Bench'
 - ap: 2911
   img:  'http://lh3.ggpht.com/9aQBG-poFARclK9XL7iFIvWePkawZwWhv4Sh0zQhQ0Sy9gdDD508d4gCtpcUP9UNoYM6uztea0aQ05RPd9rZLg'
   lat: 40.115412
@@ -1295,17 +1283,17 @@
   lon: -88.252279
   name:  'Toalson Park South Entrance'
 - ap: 2724
-  img:  'http://lh4.ggpht.com/mBh7Vhpz2XOa9MVuATZzG-ie79_beq3-gQECGRvDRnArnk-6oBxUAkzZN2gXnwbDEKWdK_mmGzDHG_j3ge8'
-  lat: 40.120352
-  level: 4
-  lon: -88.233995
-  name:  'Martin Luther King Trail'
-- ap: 2724
   img:  'http://lh5.ggpht.com/k51dyIcq_VT8S0cGsHhfgbItaWCMpBfJ9wjHrms0zYNSVH5gfV5-gmxjVatlchfenHsCBRl1uE8AzYJTf8dN'
   lat: 40.117449
   level: 6
   lon: -88.23557
   name:  'Park Avenue Seventh Day Adventist Church'
+- ap: 2724
+  img:  'http://lh4.ggpht.com/mBh7Vhpz2XOa9MVuATZzG-ie79_beq3-gQECGRvDRnArnk-6oBxUAkzZN2gXnwbDEKWdK_mmGzDHG_j3ge8'
+  lat: 40.120352
+  level: 4
+  lon: -88.233995
+  name:  'Martin Luther King Trail'
 - ap: 2724
   img:  'http://lh4.ggpht.com/IAi2A1ukQunZaoCY1OUJnvZC_MAEjnYzlg7vcsIuPQyLIB710_5ueVQ3El8Pok0aNvlB18-Tdo1euhYbaf0'
   lat: 40.115224
@@ -1354,24 +1342,6 @@
   level: '?'
   lon: -85.891952
   name:  '053b1992ddee43dcbac68102caa31b0c.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.118478
-  level: '?'
-  lon: -87.853541
-  name:  '2b8749bd0dab49799007a6ef6cc1853c.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.052212
-  level: '?'
-  lon: -87.669411
-  name:  '104d9a0bac384f00b3dfa667adecb86a.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.134376
-  level: '?'
-  lon: -86.465975
-  name:  '7419640014ed43179ac22852f5235859.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.206266
@@ -1636,6 +1606,18 @@
   level: 3
   lon: -88.226465
   name:  'Harker Hall Fountain'
+- ap: 2537
+  img:  'http://lh3.googleusercontent.com/vRH1cgHOuzbgU69F49MdsOQye4VG9lH8rjDcYQWGq9_8VcBu010oHhoinNmA_Dn9JZGLmS7ehSQJ9h1uDMGBaw'
+  lat: 40.107087
+  level: 3
+  lon: -88.227801
+  name:  'Class of 1912 Pillar'
+- ap: 2312
+  img:  'http://lh3.ggpht.com/F-cwL1kpN8KTxTiRAdaaAFictKYDbMRhPltdDuO0_6jhG8_6fxg1_yHzy1kBs1WXPRZ8UQDrxqY1fCdmHXFU'
+  lat: 40.108042
+  level: 3
+  lon: -88.22808
+  name:  'Earl W Porter Memorial Tree'
 - ap: 2462
   img:  'http://lh3.ggpht.com/wOZOXhKOnhbKEPMQke-zGIG_vheDkHM8q19B1n_is5H7t1whBcQxBIGZI6VIPNw8mdCNXG6EUZeSjd1YLdngdg'
   lat: 40.108965
@@ -1678,18 +1660,6 @@
   level: 4
   lon: -88.227679
   name:  'Lincoln Hall'
-- ap: 2537
-  img:  'http://lh3.googleusercontent.com/vRH1cgHOuzbgU69F49MdsOQye4VG9lH8rjDcYQWGq9_8VcBu010oHhoinNmA_Dn9JZGLmS7ehSQJ9h1uDMGBaw'
-  lat: 40.107087
-  level: 3
-  lon: -88.227801
-  name:  'Class of 1912 Pillar'
-- ap: 2312
-  img:  'http://lh3.ggpht.com/F-cwL1kpN8KTxTiRAdaaAFictKYDbMRhPltdDuO0_6jhG8_6fxg1_yHzy1kBs1WXPRZ8UQDrxqY1fCdmHXFU'
-  lat: 40.108042
-  level: 3
-  lon: -88.22808
-  name:  'Earl W Porter Memorial Tree'
 - ap: 2237
   img:  'http://lh4.ggpht.com/0j8eeTKJgjnYhHpf4qH_70CZHLbujC5v-XP_ndcqh1xIR-5V2K_CGdjIe1ZfMbwvSyISxxYKoZynw1DaQcj8'
   lat: 40.105874
@@ -1739,17 +1709,17 @@
   lon: -88.208146
   name:  'Jolly Roger'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/B4G90nKtVQc7jPOxaA1XcAIKA2UJlU15MIPZLitQmNBNAtfIc9qCPpe75YFHYaZN3YUpU6b4CNMOPsBrg1Q'
-  lat: 40.100489
-  level: 6
-  lon: -88.218903
-  name:  'Farmhouse Illinois Chapter'
-- ap: 2537
   img:  'http://lh5.ggpht.com/Ezq3ovJZ5M4i8wxOtoPoHEBF_o5ur2tH3Hdb0QU-JmlxR71RxAS_K5h14xYHSyI2WOF0RuBy_hZZeslYhNNe'
   lat: 40.102329
   level: 2
   lon: -88.221381
   name:  'McKinley Fountain'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/B4G90nKtVQc7jPOxaA1XcAIKA2UJlU15MIPZLitQmNBNAtfIc9qCPpe75YFHYaZN3YUpU6b4CNMOPsBrg1Q'
+  lat: 40.100489
+  level: 6
+  lon: -88.218903
+  name:  'Farmhouse Illinois Chapter'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.084522
