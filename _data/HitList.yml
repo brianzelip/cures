@@ -1,3 +1,10 @@
+- fields: 7
+  img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
+  lat: 40.101062
+  level: 8
+  lon: -88.249275
+  mus: 589
+  name:  'Narayan & Shanti Achanta Memorial Plaque'
 - fields: 4
   img:  'http://lh6.ggpht.com/v2m1E6vVK4ZRaRPhGli7jCsG7xZQZ7I3vV_5AogdEpPU_A1vz9WEkH0vZ-vau2IAdmydYJcXrOA6SMr7vUfT'
   lat: 40.128726
@@ -5,13 +12,13 @@
   lon: -88.290287
   mus: 212
   name:  'McMillen Ehler Homestead'
-- fields: 2
-  img:  'http://lh5.ggpht.com/vYay8RKsCV_BP_MkeFm7se0VZoYthm-1pThiATAADleBlTsPowobgZyUoU7DUto6p5cpg9adpCcTgNR6iop0Jw'
-  lat: 40.120121
-  level: 7
-  lon: -88.251967
-  mus: 154
-  name:  'Sesquicentennial Neighborhood Sign'
+- fields: 9
+  img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
+  lat: 40.107629
+  level: 6
+  lon: -88.224484
+  mus: 164
+  name:  'Bucky Balls'
 - fields: 5+
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.203922
@@ -26,20 +33,20 @@
   lon: -88.207767
   mus: 105
   name:  'Crystal Lake Park'
-- fields: 5
-  img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
-  lat: 40.107629
-  level: 6
-  lon: -88.224484
-  mus: 97
-  name:  'Bucky Balls'
-- fields: 11
+- fields: 10
   img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
   lat: 40.115838
   level: 7
   lon: -88.241338
-  mus: 92
+  mus: 91
   name:  'Illinois Terminal'
+- fields: 4
+  img:  'http://lh6.ggpht.com/g00CHgvPQnSjjPtDBIePwTKCNdh3HB7MmvYFvkSM7tmZuoBJ4WaKiltQhrfxIflpUy2xiNU-Z_Z2PGCTnXfK'
+  lat: 40.110725
+  level: 5
+  lon: -88.223784
+  mus: 66
+  name:  'Anthony Leggett Superfluidity Nobel Prize Memorial Plaque'
 - fields: 4
   img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
   lat: 40.098239
@@ -96,20 +103,6 @@
   lon: -88.233082
   mus: 25
   name:  'Stevick Family Memorial'
-- fields: 4
-  img:  'http://lh5.ggpht.com/4eagHlnlpVbtFi_knZN73PIs2A--Ipj6SOlkQADePlfnzfOnJn-cAv0IoNNv4qR8WrbUFImUKHBknyaoAewO'
-  lat: 40.111383
-  level: 5
-  lon: -88.225675
-  mus: 23
-  name:  'Only Rain Down The Drain'
-- fields: 13
-  img:  'http://lh6.ggpht.com/BKeORacgeVrG8XzxTuXmpq5UxomWpK-I2n7Xy0PVbdSciNx9MJl869TcibnFIiV5PJHGv5R3QOpX6ZgLUwU'
-  lat: 40.099706
-  level: 8
-  lon: -88.250065
-  mus: 20
-  name:  'Lois Barham Memorial Tree'
 - fields: 6+
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.202918
@@ -117,6 +110,13 @@
   lon: -88.394249
   mus: 17
   name:  'c47c86e036934462bff379850cb47aca.16'
+- fields: 2
+  img:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
+  lat: 40.108173
+  level: 6
+  lon: -88.230209
+  mus: 15
+  name:  'Mural on South Sixth Street'
 - fields: 3+
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.203973
@@ -152,13 +152,20 @@
   lon: -88.251747
   mus: 9
   name:  'Tennis Anyone'
-- fields: 6
-  img:  'http://lh3.ggpht.com/J_h4tdb4wqy8bmmQfDuy5yqTR2IlkzKojfvsMOvlD-3tf1pKxbDlhA6W9Q8RX-JaSxhItMr4bmCxiUQXTLbz'
-  lat: 40.10064
+- fields: 1
+  img:  'http://lh5.ggpht.com/WgDPQ47lNn2nlvNDPgwM_c-1MpVvxdVZtjZmFtixtr3rIi91xqYhgtSbyJGqRFnSXCUHy_RjABgEj2LSzOs'
+  lat: 40.113343
+  level: 4
+  lon: -88.290525
+  mus: 9
+  name:  'Fish Chimes at Kaufman Lake'
+- fields: 7
+  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
+  lat: 40.100936
   level: 8
-  lon: -88.24958
+  lon: -88.250855
   mus: 8
-  name:  'Edward A. Cousins Plaque'
+  name:  'Donald F. Bresnan Memorial'
 - fields: 5
   img:  'http://lh4.ggpht.com/aQomBYYXuWBUbnpgDH92zk4VBmLMOuf5n6WXkMHGTzf1DUlyXL-u4a9ulFUrqE5AO82s_LFM126E-B0HqONp'
   lat: 40.088127
@@ -180,6 +187,13 @@
   lon: -88.250389
   mus: 8
   name:  'Dennis Robert Costello Memorial'
+- fields: 2
+  img:  'http://lh6.ggpht.com/1El0oK6CWDh7rAQeFmPEW_dA252pdq7piTtjtuQCkZvwRa689NLjEafLqQ35TI5qCW3Lmhja9PLQqKxFs9Ha'
+  lat: 40.110627
+  level: 5
+  lon: -88.227584
+  mus: 7
+  name:  'Tau Beta Pi Statue'
 - fields: 8
   img:  'http://lh3.ggpht.com/lzCSS0_tjwUV7JQ2fgLI0e05IrzPxlVUs-6aEPOwUv67IanQJSTi71gkw0SGm8asmoE_r3Xoh048Fd9xRpE'
   lat: 40.099169
@@ -187,13 +201,6 @@
   lon: -88.251419
   mus: 7
   name:  'Lyman Larson Memorial'
-- fields: 5
-  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
-  lat: 40.100936
-  level: 8
-  lon: -88.250855
-  mus: 5
-  name:  'Donald F. Bresnan Memorial'
 - fields: 3+
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.205206
@@ -208,20 +215,6 @@
   lon: -88.24263
   mus: 5
   name:  'Cafe Kopi'
-- fields: 4
-  img:  'http://lh3.googleusercontent.com/Tixp17uCaP682s77UzvCwWCOE6vg7iB2qEFLjACq7xtVJdHE0K3yKYsl3_SwKbiUfQWwgTQRbvfka3U0NvNc'
-  lat: 40.098819
-  level: 8
-  lon: -88.249214
-  mus: 5
-  name:  'Bette McKown Honorary'
-- fields: 3
-  img:  'http://lh5.ggpht.com/8zq5tMevCiipZK8N9-8SZw3vdsA2HwH0E02ormQshGxHVZrB2WPK7OPC8zt6pjLlgpXVuEYHVA_08_Q8fPw-'
-  lat: 40.099647
-  level: 8
-  lon: -88.249648
-  mus: 4
-  name:  'Max Overmyer Memorial Playground'
 - fields: 6
   img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
   lat: 40.116553
@@ -229,6 +222,13 @@
   lon: -88.242268
   mus: 4
   name:  'Esquire Lounge'
+- fields: 3
+  img:  'http://lh3.ggpht.com/sisvfsphxy7AK_2qrrqb7lNJk3_7ciHSVJyodINYITBc-UqugyNOooCxKupgJKEg5m_x95eZwouSO2WCmN60ew'
+  lat: 40.098579
+  level: 8
+  lon: -88.249603
+  mus: 3
+  name:  'Chef Ra Memorial Plaque'
 - fields: 4
   img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
   lat: 40.098246
@@ -236,13 +236,6 @@
   lon: -88.251974
   mus: 3
   name:  'Hessel Park'
-- fields: 4
-  img:  'http://lh3.ggpht.com/oHMQr2Z5LayQFbZOwOZK4ZbYQ1OVxs85-qNTvSj8epsP72vQiOdrzVmkuMPFQtCSf9Rr0oqcnSLFjLn-sPw'
-  lat: 40.116592
-  level: 6
-  lon: -88.243236
-  mus: 3
-  name:  'Champaign City Bldg. Landmark Plaque'
 - fields: 1+
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.19687
@@ -257,20 +250,13 @@
   lon: -88.231737
   mus: 2
   name:  'Krannert Art Museum'
-- fields: 2
+- fields: 3
   img:  'http://lh6.ggpht.com/3o0ObAARFV_8mBVCC_QD0iLOPVzNkakXybhLnSVEuXIJfDLKMxeYj-EkWIw9NPoZIVRf5Dkrid2yf_NEQ-iE'
   lat: 40.100347
   level: 8
   lon: -88.249385
   mus: 2
   name:  'Travis Marmion Memorial'
-- fields: 2
-  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
-  lat: 40.101327
-  level: 8
-  lon: -88.251412
-  mus: 2
-  name:  'Zeus Memorial'
 - fields: 2
   img:  'http://lh3.ggpht.com/Fy0nzLr1Q8bRnwu-jzHctS6qpGCOG01KiNnG1-Dpea_zukqvudRLdbZjtk1ECbtWLHSMqCNMzPz49KPgJkGK5QtTRyyUgUwPVUe5DNtWeIt2AluLBw'
   lat: 40.111292
@@ -286,6 +272,13 @@
   mus: 2
   name:  'Terry M. Warmbier Memorial'
 - fields: 2
+  img:  'http://lh3.ggpht.com/oHMQr2Z5LayQFbZOwOZK4ZbYQ1OVxs85-qNTvSj8epsP72vQiOdrzVmkuMPFQtCSf9Rr0oqcnSLFjLn-sPw'
+  lat: 40.116592
+  level: 2
+  lon: -88.243236
+  mus: 2
+  name:  'Champaign City Bldg. Landmark Plaque'
+- fields: 2
   img:  'http://lh5.ggpht.com/_gJqtOHLZ9UHsmd_iLjxMsPw5eF5YzqE63qEAzURvSp_3OL9ZrPjM-usiUeYx95b7zTdNodab42cQiyiRRja'
   lat: 40.087835
   level: 6
@@ -299,13 +292,13 @@
   lon: -88.242255
   mus: 2
   name:  'Blind Pig'
-- fields: 3
-  img:  'http://lh6.ggpht.com/btym2_WGYuFNu2SNiR8qif7GXLMOPT7XpuHE7RPOipPC9Q5lEPfImKAzf2vm9RUe2rN0u3TePq4pM0IuZiLS'
-  lat: 40.116436
-  level: 6
-  lon: -88.243459
+- fields: 1
+  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
+  lat: 40.101327
+  level: 8
+  lon: -88.251412
   mus: 2
-  name:  'Champaign City Building'
+  name:  'Zeus Memorial'
 - fields: 4
   img:  'http://lh5.ggpht.com/6MHa8mHyPoZr8QcAXRVJp6cTJ-Besa5bB801GzhlToXL5ff4Zg6U6VtnrbMINQ441jCzYNZDWNxHIBtf7VXvVw'
   lat: 40.087719
@@ -327,20 +320,6 @@
   lon: -88.38859
   mus: 1
   name:  'Covered Bridge Bike Trail Entrance'
-- fields: 1
-  img:  'http://lh6.ggpht.com/YVbqGVTjJuDMDdj71CP2mWvnUIdgO25PgoDdJwEGnEE_M9I1aDgKyjSr9JOZVU6UQTZQtfUo9RAWyz92n3jtCQ'
-  lat: 40.098475
-  level: 8
-  lon: -88.249208
-  mus: 1
-  name:  'In Fond Memory of William Moore Jr'
-- fields: 1
-  img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
-  lat: 40.101062
-  level: 8
-  lon: -88.249275
-  mus: 1
-  name:  'Narayan & Shanti Achanta Memorial Plaque'
 - fields: 2
   img:  'http://lh4.ggpht.com/xS51--rXA9M_IHpXWgFQxKZU-YbD-1zk-nug6k7RyKl8rYeam_YFwMmLNWRRHHzI-rOTGyhTJQQ314WudSQJ'
   lat: 40.117132
@@ -355,6 +334,13 @@
   lon: -88.24306
   mus: 1
   name:  'Indigo Art Gallery'
+- fields: 1
+  img:  'http://lh3.ggpht.com/0fx36DDt01FPFW1y8WziZsKZ7WiQgWY2-ljRI_JXbbYO5cJaWXQrFZE7cZQwDvO_ElFVawkL_CguQ9fjsy4'
+  lat: 40.1122
+  level: 4
+  lon: -88.209066
+  mus: 1
+  name:  'Lincoln & Photography'
 - fields: 1
   img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
   lat: 40.099593
