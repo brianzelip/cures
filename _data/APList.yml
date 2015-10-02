@@ -198,16 +198,16 @@
   name:  'Milla Gross Memorial'
 - ap: 7972
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.20265
-  level: '?'
-  lon: -88.393912
-  name:  '9c9b58d1e22949bc983b080f051d97d6.16'
-- ap: 7972
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.202918
   level: '?'
   lon: -88.394249
   name:  'c47c86e036934462bff379850cb47aca.16'
+- ap: 7972
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.20265
+  level: '?'
+  lon: -88.393912
+  name:  '9c9b58d1e22949bc983b080f051d97d6.16'
 - ap: 7785
   img:  'http://lh5.ggpht.com/3t7XZHqwxLZ8Lc9YomR8FInm74U2PAA-DBk8kmdxXIrcXbKa1CoBDTlgdDJeO-_yVT3qNKRnNLzbdil1eH41iA'
   lat: 40.09935
@@ -485,17 +485,17 @@
   lon: -87.810665
   name:  '214396967cf0404e9441d0708745abe6.16'
 - ap: 5348
-  img:  'http://lh5.ggpht.com/6qIQAtIoPbAVQ1O3BoOnGg6gtTa9fd0JIkxt6P1kmSimVswLaPpCRaLEudsNcMfP_kKb4SCE1By1o3lhYevmIA'
-  lat: 40.1172
-  level: 6
-  lon: -88.243745
-  name:  'Circle of Friends'
-- ap: 5348
   img:  'http://lh4.ggpht.com/xS51--rXA9M_IHpXWgFQxKZU-YbD-1zk-nug6k7RyKl8rYeam_YFwMmLNWRRHHzI-rOTGyhTJQQ314WudSQJ'
   lat: 40.117132
   level: 6
   lon: -88.243009
   name:  'Fountain in the Alley'
+- ap: 5348
+  img:  'http://lh5.ggpht.com/6qIQAtIoPbAVQ1O3BoOnGg6gtTa9fd0JIkxt6P1kmSimVswLaPpCRaLEudsNcMfP_kKb4SCE1By1o3lhYevmIA'
+  lat: 40.1172
+  level: 6
+  lon: -88.243745
+  name:  'Circle of Friends'
 - ap: 5348
   img:  'http://lh5.ggpht.com/FeahTnHcc-Tb0sWOd6cQiYz5QrczzT5-Behz0KlyeiGyzYhvAlNlhPI72BVkREal1tU_4g4r2UklF7lcQgKr'
   lat: 40.087292
@@ -774,16 +774,16 @@
   name:  'c956d501b48c44ec99467b20bfadc850.16'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.205076
-  level: '?'
-  lon: -88.39379
-  name:  '88b22f723d954699bdb089ff05d12bf6.16'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.202
   level: '?'
   lon: -88.384057
   name:  '0f17ebe8121f44b0b5d0d796c3e11838.16'
+- ap: 4411
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.205076
+  level: '?'
+  lon: -88.39379
+  name:  '88b22f723d954699bdb089ff05d12bf6.16'
 - ap: 3848
   img:  'http://lh4.ggpht.com/GcCZ7JTzkEHTZnUWfpUgibDh2Wa4nzGM9-k13AG4I2RwFiPa6exz1vCzj7Hwvf_oPwJvYJt0xoRE6GZXmCMX'
   lat: 40.132625
@@ -1074,6 +1074,12 @@
   name:  'Lincoln & Photography'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.201244
+  level: '?'
+  lon: -88.382058
+  name:  '4eec628e75894b7f8b8edd2077043e35.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.204951
   level: '?'
   lon: -88.384876
@@ -1084,12 +1090,6 @@
   level: '?'
   lon: -88.380274
   name:  'Lake of the Woods Forest Restoration'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.201244
-  level: '?'
-  lon: -88.382058
-  name:  '4eec628e75894b7f8b8edd2077043e35.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.203785
@@ -1138,18 +1138,18 @@
   level: 6
   lon: -88.250003
   name:  '"The Cranes" at Fox Corporate Center'
-- ap: 2724
-  img:  'http://lh6.ggpht.com/q48Oqk2mm3dXQ2ppK-aYGXKjIiTAOEZfrFkiLK9LXRz2uN9hSKihKeCwfg33q1Z2zMTIMjqJRjPA1U_V3pbR6Q'
-  lat: 40.104417
-  level: 5
-  lon: -88.231962
-  name:  '1926 Sigil'
 - ap: 2649
   img:  'http://lh5.ggpht.com/VYMooLhz51W3fCgti3L9LEQNMJjmFeW30saxIYK34yGEReG1naEKEd3eW1uyFgSlzpu-P5KertNDe4Z6qu8'
   lat: 40.109913
   level: 5
   lon: -88.228393
   name:  'Alma Mater Statue'
+- ap: 2724
+  img:  'http://lh6.ggpht.com/q48Oqk2mm3dXQ2ppK-aYGXKjIiTAOEZfrFkiLK9LXRz2uN9hSKihKeCwfg33q1Z2zMTIMjqJRjPA1U_V3pbR6Q'
+  lat: 40.104417
+  level: 5
+  lon: -88.231962
+  name:  '1926 Sigil'
 - ap: 2724
   img:  'http://lh3.ggpht.com/5jYVsmaWJU0f8zVo2s_GfQ8mtVZTRQdgkF6Lz4nZKshBOXkqOj2I-34881x1ViUkWSd5_DHAtnoHpOzyGkMwnw'
   lat: 40.100785
@@ -1271,12 +1271,6 @@
   lon: -88.287351
   name:  'Parkland College Prairie Restoration Reserve'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/whrVudLIelW8yHGGZa7geAVXvbkevW5Vc4DbMBSrMTYN38-Cce_sYnEFxEDWHJQouK3L-LjMbbADmlyYto_D'
-  lat: 40.131036
-  level: 5
-  lon: -88.2778
-  name:  'AISC Steel Teaching Sculpture'
-- ap: 2537
   img:  'http://lh3.ggpht.com/y0AorXifGZDC_iY8fEpHU0L9ehL0jyxjOAWWnkYyba2FpprGdmigPcoayrthLbakZQQlURVaeJHoNB98IIve'
   lat: 40.094061
   level: 5
@@ -1294,6 +1288,12 @@
   level: 6
   lon: -88.243478
   name:  'McCollum Park'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/whrVudLIelW8yHGGZa7geAVXvbkevW5Vc4DbMBSrMTYN38-Cce_sYnEFxEDWHJQouK3L-LjMbbADmlyYto_D'
+  lat: 40.131036
+  level: 5
+  lon: -88.2778
+  name:  'AISC Steel Teaching Sculpture'
 - ap: 2537
   img:  'http://lh4.ggpht.com/mnyMwxXghZOmxdJw2eJk5U9A5sfO_QLi0eKc2knF3RS3bJhiIa0N7N75KIzjEehKD3ChMFgaOHVRltiOVAw'
   lat: 40.125074
