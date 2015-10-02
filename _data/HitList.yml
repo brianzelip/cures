@@ -1,17 +1,17 @@
-- fields: 6
-  img:  'http://lh6.ggpht.com/WVVbmiu2GGTnPTszcnYYILHKlkZDoxB-QY6Yv7YPoUfdVn92jYnKjpVKNkfWdFrPjq-BaFeKGJWLZlE-bbA'
-  lat: 40.120467
-  level: 7
-  lon: -88.2577
-  mus: 554
-  name:  'Salvation Army Church'
-- fields: 6
+- fields: 7
   img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
   lat: 40.098239
   level: 7
   lon: -88.25376
-  mus: 282
+  mus: 487
   name:  'Hessel Park Christian Reformed Church'
+- fields: 3
+  img:  'http://lh6.ggpht.com/WVVbmiu2GGTnPTszcnYYILHKlkZDoxB-QY6Yv7YPoUfdVn92jYnKjpVKNkfWdFrPjq-BaFeKGJWLZlE-bbA'
+  lat: 40.120467
+  level: 7
+  lon: -88.2577
+  mus: 251
+  name:  'Salvation Army Church'
 - fields: 4
   img:  'http://lh6.ggpht.com/v2m1E6vVK4ZRaRPhGli7jCsG7xZQZ7I3vV_5AogdEpPU_A1vz9WEkH0vZ-vau2IAdmydYJcXrOA6SMr7vUfT'
   lat: 40.128726
@@ -19,27 +19,6 @@
   lon: -88.290287
   mus: 212
   name:  'McMillen Ehler Homestead'
-- fields: 6+
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.203922
-  level: '?'
-  lon: -88.387753
-  mus: 174
-  name:  'Covered Bridge'
-- fields: 5
-  img:  'http://lh6.ggpht.com/NMgUdPOdhvhvKZh7ugwXgybshZBZ2mkaEWMNKYdFPX6cfIYENSCqE9YpAXSNVuq_9VVWXJB-ShCBAPfF2Yvs'
-  lat: 40.102513
-  level: 5
-  lon: -88.243679
-  mus: 110
-  name:  'Robert Hosier Memorial Garden'
-- fields: 2
-  img:  'http://lh5.ggpht.com/snSXlo68vFp7EOytyhI8zy8PbfwsZfFHRMNYCJ-JhFU9iMUCrtZtkttGM-OCUaRrii_tc-QAVgJCvD7gDv8'
-  lat: 40.20083
-  level: 5
-  lon: -88.395676
-  mus: 59
-  name:  'Mahomet Township Military Memorial'
 - fields: 5
   img:  'http://lh5.ggpht.com/1yq3oFq9p_Yl5cUf5h7IEfZPAbae2MT7lA0DFo1DHwPWPZJJ-Ez-2AE2oTzHEHWsEJQVUcUwh3j_d3kOYgDS'
   lat: 40.110095
@@ -47,13 +26,6 @@
   lon: -88.22862
   mus: 53
   name:  'Alma Mater Plaza'
-- fields: 8
-  img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
-  lat: 40.115838
-  level: 7
-  lon: -88.241338
-  mus: 46
-  name:  'Illinois Terminal'
 - fields: 6
   img:  'http://lh5.ggpht.com/xcqe13f85fuXohGUUBZkNrUU1PunkcZ6xMNmHpAp0GJBtydVqCCGj5MqP3Uax4M7Qq4JzDFGqICFrFb6PNEXRw'
   lat: 40.08932
@@ -61,13 +33,6 @@
   lon: -88.251883
   mus: 41
   name:  'Boulware Trail'
-- fields: 1+
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.201244
-  level: '?'
-  lon: -88.382058
-  mus: 31
-  name:  '4eec628e75894b7f8b8edd2077043e35.16'
 - fields: 1
   img:  'http://lh5.ggpht.com/BoAN9OSCH5u7G1sestzZaXjjik82i-SteF6-r5KTTyl530q9H5G3ibjJdqpGGY-nL8MypRXn2twwvn_y5nMmug'
   lat: 40.133159
@@ -103,6 +68,13 @@
   lon: -88.252282
   mus: 26
   name:  'Elsie Mattis Springer Memorial'
+- fields: 7
+  img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
+  lat: 40.115838
+  level: 7
+  lon: -88.241338
+  mus: 26
+  name:  'Illinois Terminal'
 - fields: 2
   img:  'http://lh3.ggpht.com/7qvblF8IJPE_GlNC-0H-3-uvbw-LO0WvGTcs3eGsfxl9qIfPSHIoEP0WVScW5akBfIuNtHggyR43gyD6aQw'
   lat: 40.099867
@@ -117,6 +89,13 @@
   lon: -88.249899
   mus: 24
   name:  'Benjamin Biddle Memorial Plaque'
+- fields: 3
+  img:  'http://lh4.ggpht.com/3gTAX6rKgNjLmBOYvAVTgSPQej5yRF_38uRllp9H4n5N6pvwWo5kDMDwlIkFVPPl30BXPSGAlZ9pO9B4DMk'
+  lat: 40.116218
+  level: 5
+  lon: -88.242141
+  mus: 20
+  name:  'Live Action Games'
 - fields: 13
   img:  'http://lh3.ggpht.com/G1CvGhpethi5UmprDWxZN9rTblHa3anSsQz1UPgJtkREkfN7lDFoxFObst0609Cg5mofuZxJKr0ddNKhY4VL'
   lat: 40.098464
@@ -124,13 +103,6 @@
   lon: -88.251426
   mus: 19
   name:  'Ruth Haasis Memorial'
-- fields: 6+
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.202918
-  level: '?'
-  lon: -88.394249
-  mus: 17
-  name:  'c47c86e036934462bff379850cb47aca.16'
 - fields: 2
   img:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
   lat: 40.108173
@@ -138,20 +110,6 @@
   lon: -88.230209
   mus: 15
   name:  'Mural on South Sixth Street'
-- fields: 3+
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.203973
-  level: '?'
-  lon: -88.393369
-  mus: 14
-  name:  'Mabery Gelvin Botanical Garden'
-- fields: 1
-  img:  'http://lh5.ggpht.com/_9uqsDQROIwqIhKx_URY4DdZAapoZBEWK6Eaclt5mM5vPsjwQAD-v8Bv-4b-Smq2F8X4zOgzLx2KwySkFWc'
-  lat: 40.118448
-  level: 5
-  lon: -88.25211
-  mus: 12
-  name:  'First Church of Christ, Scientist'
 - fields: 3
   img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
   lat: 40.106921
@@ -208,13 +166,6 @@
   lon: -88.249879
   mus: 5
   name:  'Hessel Park'
-- fields: 3+
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.205206
-  level: '?'
-  lon: -88.393464
-  mus: 5
-  name:  'ffb1c8830f184f8b9886fbf7c7604a37.12'
 - fields: 1
   img:  'http://lh3.ggpht.com/pVUYGCf7vsAndVd4vhK_pC9p6e9OvGa4ZiWuZg0ELOFDWptBba4H2N4PNZPjQdHXnV1GQyLTpCXQWDMKDUqn'
   lat: 40.108875
@@ -236,13 +187,6 @@
   lon: -88.25193
   mus: 3
   name:  'Seeds of Kindness Bench'
-- fields: 3
-  img:  'http://lh4.ggpht.com/xS51--rXA9M_IHpXWgFQxKZU-YbD-1zk-nug6k7RyKl8rYeam_YFwMmLNWRRHHzI-rOTGyhTJQQ314WudSQJ'
-  lat: 40.117132
-  level: 6
-  lon: -88.243009
-  mus: 3
-  name:  'Fountain in the Alley'
 - fields: 1
   img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
   lat: 40.107753
@@ -250,13 +194,6 @@
   lon: -88.228913
   mus: 3
   name:  'Zipcar-Wright Street & Daniel Street'
-- fields: 1+
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.19687
-  level: '?'
-  lon: -88.380274
-  mus: 3
-  name:  'Lake of the Woods Forest Restoration'
 - fields: 2
   img:  'http://lh3.ggpht.com/5OA9gBD9HJe7pZRJ6DjHOGIbC9paid10T5gOLcZS91YP3V0eTMGqvFmPtvp6UtWzb1w2sOV5dbYmxDUFnQ0x'
   lat: 40.101862
@@ -306,6 +243,13 @@
   lon: -88.251299
   mus: 2
   name:  'Amdocs Shelter'
+- fields: 3
+  img:  'http://lh3.ggpht.com/CwgYIhVaivHHg_U6yqu5KSGhSh9ipRBDu7G192KiQfrnXc7C8uh7UOh6MP91vhZJ3LZdiTaFwpvFukvIaj6J'
+  lat: 40.117445
+  level: 3
+  lon: -88.243409
+  mus: 2
+  name:  'From Swords to Plowshares'
 - fields: 1
   img:  'http://lh5.ggpht.com/qlqWSyYA3aUcR-TLBtHNGr15HjcBq5evq1Y1RwMl30pdQWROAkyz4QuOh3Ni8R80gZOmuEW3LiFhM_hC2sxA'
   lat: 40.11075
@@ -334,13 +278,13 @@
   lon: -88.253446
   mus: 1
   name:  'Milla Gross Memorial'
-- fields: 1+
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.203752
-  level: '?'
-  lon: -88.38859
+- fields: 1
+  img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
+  lat: 40.117976
+  level: 5
+  lon: -88.245082
   mus: 1
-  name:  'Covered Bridge Bike Trail Entrance'
+  name:  'Robeson Building '
 - fields: 1
   img:  'http://lh3.ggpht.com/0fx36DDt01FPFW1y8WziZsKZ7WiQgWY2-ljRI_JXbbYO5cJaWXQrFZE7cZQwDvO_ElFVawkL_CguQ9fjsy4'
   lat: 40.1122
@@ -348,24 +292,3 @@
   lon: -88.209066
   mus: 1
   name:  'Lincoln & Photography'
-- fields: 2
-  img:  'http://lh3.ggpht.com/CwgYIhVaivHHg_U6yqu5KSGhSh9ipRBDu7G192KiQfrnXc7C8uh7UOh6MP91vhZJ3LZdiTaFwpvFukvIaj6J'
-  lat: 40.117445
-  level: 6
-  lon: -88.243409
-  mus: 1
-  name:  'From Swords to Plowshares'
-- fields: 2+
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.203703
-  level: '?'
-  lon: -88.394049
-  mus: 1
-  name:  '1ab1edcdd05447019675c2b4b0d30cbb.16'
-- fields: 1
-  img:  'http://lh4.ggpht.com/3gTAX6rKgNjLmBOYvAVTgSPQej5yRF_38uRllp9H4n5N6pvwWo5kDMDwlIkFVPPl30BXPSGAlZ9pO9B4DMk'
-  lat: 40.116218
-  level: 5
-  lon: -88.242141
-  mus: 1
-  name:  'Live Action Games'
