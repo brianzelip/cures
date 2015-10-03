@@ -76,27 +76,6 @@
   mus: 494
   name:  'Human Kinetics Park'
 - fields: 1
-  img:  'http://lh3.ggpht.com/1yyUr0xGwID_g1F_OYHLjASRJrvJLD7e8r6IER_B6CliwGRrCH6cDWRVgtfWqJ0wHhNyjId_FX6mEVecAviV'
-  lat: 40.11946
-  level: 5
-  lon: -88.276623
-  mus: 487
-  name:  'Glenn Park'
-- fields: 1
-  img:  'http://lh3.ggpht.com/ehNwLdaa71H3Bylm063pawn4caIGz2rCdmmdBhAFWIuEt2kPjT8nWHDkSuoOidckWiM82FWpDSNGQqQMHiQ'
-  lat: 40.098209
-  level: 5
-  lon: -88.28689
-  mus: 487
-  name:  'First Church of the Nazarene'
-- fields: 1
-  img:  'http://lh6.ggpht.com/Jz3ahY5LQ13wKWLY9SEvexiinJa3GeO1eB_FynplikRpa77swLST6cUAJjPpqKDSq2KU4Dcyui-QBstz_Z3k'
-  lat: 40.094624
-  level: 5
-  lon: -88.282953
-  mus: 487
-  name:  'Greenbelt 2'
-- fields: 1
   img:  'http://lh3.ggpht.com/4NvHbplhArQJrKIkJMw4Ia0q_OtktXP-jC6FtPlgn6V49hv8LJbu0RC2ff0eTy3bF3ihXL12v5CPGwvlRNBF'
   lat: 40.127538
   level: 7
@@ -131,20 +110,6 @@
   lon: -88.195427
   mus: 247
   name:  'The Happy Robot'
-- fields: 2
-  img:  'http://lh4.ggpht.com/MnvRIwYBCscNCKIRmPyogxsZdt_OF6dC0mIsI1_2fddZFlc88Sg9wNyU9Ne9q-cY0RUa5VFafv4C5f5-pxVpWg'
-  lat: 40.069376
-  level: 7
-  lon: -88.257672
-  mus: 237
-  name:  'Friendship Crossing'
-- fields: 2
-  img:  'http://lh6.ggpht.com/3dciax4v-S3OKvaO4a0G1H6yuvp2pnzFQjCsu-OOQlDP45Xh_c19QLwzEh4YixwMVCCk9396VC26HkZpcaDX'
-  lat: 40.069362
-  level: 6
-  lon: -88.252978
-  mus: 237
-  name:  'Skateland'
 - fields: 2
   img:  'http://lh5.ggpht.com/dzjsWdreD6jZuCG_DDonrZu-gYlDIxk5j3rPzt67sbmq7yWjo9I_Op69SM3fzvlGKnlp8QMGcztFWOhpSe4'
   lat: 40.093629
@@ -222,13 +187,6 @@
   lon: -88.418247
   mus: 174
   name:  'c4f1bdcf000d43b8b7234a2bbb69e70c.16'
-- fields: 1
-  img:  'http://lh4.ggpht.com/TBdQ8fwHzTxOelVmzeofa-exhQ8cwbOVHb8bVga_MzTz3hC44VOzElIptwaKQuDBdLnDhL-NUEjLnOKO7HnjWw'
-  lat: 40.078503
-  level: 6
-  lon: -88.296196
-  mus: 171
-  name:  'Meadows West Park'
 - fields: 4
   img:  'http://lh3.ggpht.com/KnNYiTjbSfT8lzl-5r3OkJW1ptOP-d5JkDibk9pg1eydNzpy_IgdiC-kCRNUSoBP9nFsblvWr7t9IC4qMU0'
   lat: 40.109369
@@ -278,13 +236,6 @@
   lon: -88.238696
   mus: 142
   name:  'Bristol Park'
-- fields: 2
-  img:  'http://lh3.googleusercontent.com/NfuReRkyOBC6TpPTQQuLpJGD0EXaLbvSJP45Seaf0Vqc8oZ93XZFHQiMEcbBC8vAZxWX_WA3_WBC2zxcvIs'
-  lat: 40.065881
-  level: 7
-  lon: -88.243624
-  mus: 132
-  name:  'Lake Park Prairie Restoration'
 - fields: 1
   img:  'http://lh5.ggpht.com/MvNkHL2G-56dmbnXs-wIqRKFPtMp0dkacOrtnI4m3zoFKf_GKrn2JWKDlI2XHAY0jaVDvkgs7pef-Ddjq1lk'
   lat: 40.062875
@@ -353,6 +304,13 @@
   lat: 40.065936
   level: 7
   lon: -88.239758
+  mus: 67
+  name:  'Lake Park Prairie Restoration'
+- fields: 1
+  img:  'http://lh3.googleusercontent.com/NfuReRkyOBC6TpPTQQuLpJGD0EXaLbvSJP45Seaf0Vqc8oZ93XZFHQiMEcbBC8vAZxWX_WA3_WBC2zxcvIs'
+  lat: 40.065881
+  level: 7
+  lon: -88.243624
   mus: 67
   name:  'Lake Park Prairie Restoration'
 - fields: 9
@@ -1303,7 +1261,7 @@
 - fields: 1
   img:  'http://lh3.ggpht.com/kAxEWb1VdMZ1-OTPwyl-CGWs0lF3FNth0gbxr6aqk6BaG_tfbCZM31s6UWKUY8aFtUA3j2GFL2z6yvu95yz3'
   lat: 40.115068
-  level: 5
+  level: 7
   lon: -88.228451
   mus: 1
   name:  'Electrical and Computer Engineering Building'
