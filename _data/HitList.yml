@@ -8,7 +8,7 @@
 - fields: 8
   img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
   lat: 40.098239
-  level: 6
+  level: 7
   lon: -88.25376
   mus: 3413
   name:  'Hessel Park Christian Reformed Church'
@@ -54,6 +54,13 @@
   lon: -88.251883
   mus: 86
   name:  'Boulware Trail'
+- fields: 2
+  img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
+  lat: 40.102188
+  level: 6
+  lon: -88.251507
+  mus: 82
+  name:  'Little Free Library Charter 5753'
 - fields: 4
   img:  'http://lh6.ggpht.com/1El0oK6CWDh7rAQeFmPEW_dA252pdq7piTtjtuQCkZvwRa689NLjEafLqQ35TI5qCW3Lmhja9PLQqKxFs9Ha'
   lat: 40.110627
@@ -145,13 +152,13 @@
   lon: -88.249061
   mus: 18
   name:  'Randy William Auteberry Memorial'
-- fields: 10
-  img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
-  lat: 40.100822
+- fields: 11
+  img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
+  lat: 40.100521
   level: 8
-  lon: -88.25193
-  mus: 17
-  name:  'Seeds of Kindness Bench'
+  lon: -88.250864
+  mus: 15
+  name:  'Gabriel Patrick Maxeiner Memorial'
 - fields: 1
   img:  'http://lh3.ggpht.com/K-b9T4FjMxrtkS2Awkze3fELfwY2Va92gMQloHtHf4bfeKPPRzOUJxaSYYi6-OHHQbpDVY3ONWwPgIa78fBX'
   lat: 40.118332
@@ -181,12 +188,19 @@
   mus: 11
   name:  'Class Of 1917 Plaque'
 - fields: 8
-  img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
-  lat: 40.100078
+  img:  'http://lh5.ggpht.com/CRkkFx_9jq2hCt1HtflqZDqCdmSG5MN88FV0rLXk1PZm7maZWzLTKZhjqlSKUx1Tg0tSB62l75w2VFsyUZI'
+  lat: 40.09991
   level: 8
-  lon: -88.250683
+  lon: -88.249899
   mus: 9
-  name:  'Brian Clark Memorial Plaque'
+  name:  'Benjamin Biddle Memorial Plaque'
+- fields: 5
+  img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
+  lat: 40.099737
+  level: 8
+  lon: -88.251157
+  mus: 8
+  name:  'Tyler Van Atkins Memorial'
 - fields: 5
   img:  'http://lh4.ggpht.com/aQomBYYXuWBUbnpgDH92zk4VBmLMOuf5n6WXkMHGTzf1DUlyXL-u4a9ulFUrqE5AO82s_LFM126E-B0HqONp'
   lat: 40.088127
@@ -229,13 +243,6 @@
   lon: -88.240623
   mus: 6
   name:  'Depot Barber Shop'
-- fields: 5
-  img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
-  lat: 40.100521
-  level: 8
-  lon: -88.250864
-  mus: 5
-  name:  'Gabriel Patrick Maxeiner Memorial'
 - fields: 3
   img:  'http://lh5.ggpht.com/Lup2et0i5h8oHqtBffIdoyX5uclC2MBn9ZnnKnYPr4RIFSflf9bi78zBHK7QqycA0qgEev9qOk0zU-1o1hg'
   lat: 40.108451
@@ -243,20 +250,13 @@
   lon: -88.228733
   mus: 5
   name:  'The Centennial Colophon'
-- fields: 5
+- fields: 3
   img:  'http://lh5.ggpht.com/DFa-Mh8ldMlU5wGTYmJIGYKPoSYUfYebRpnom9j15NFNRkwMdU5kDME0GYQUyA_LXnsNi9Jka-xidd302s93'
   lat: 40.099056
   level: 8
   lon: -88.249136
-  mus: 5
+  mus: 3
   name:  '"Cricket" and Bob Barger Memorial'
-- fields: 3
-  img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
-  lat: 40.099737
-  level: 8
-  lon: -88.251157
-  mus: 4
-  name:  'Tyler Van Atkins Memorial'
 - fields: 5
   img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
   lat: 40.116553
@@ -271,6 +271,13 @@
   lon: -88.238658
   mus: 3
   name:  'First Street Antiques'
+- fields: 3
+  img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
+  lat: 40.100822
+  level: 8
+  lon: -88.25193
+  mus: 3
+  name:  'Seeds of Kindness Bench'
 - fields: 1
   img:  'http://lh4.ggpht.com/tLX-6Ub72fZQHiUgdDlTCFdgJMzvyICnd3BUZ2CkMd1kPhODSr7FDW_rVkZTBZ11U6gjZULvMZGnHcm4p1wo'
   lat: 40.10309
@@ -320,13 +327,6 @@
   lon: -88.249208
   mus: 2
   name:  'In Fond Memory of William Moore Jr'
-- fields: 2
-  img:  'http://lh5.ggpht.com/CRkkFx_9jq2hCt1HtflqZDqCdmSG5MN88FV0rLXk1PZm7maZWzLTKZhjqlSKUx1Tg0tSB62l75w2VFsyUZI'
-  lat: 40.09991
-  level: 8
-  lon: -88.249899
-  mus: 2
-  name:  'Benjamin Biddle Memorial Plaque'
 - fields: 1
   img:  'http://lh5.ggpht.com/4eagHlnlpVbtFi_knZN73PIs2A--Ipj6SOlkQADePlfnzfOnJn-cAv0IoNNv4qR8WrbUFImUKHBknyaoAewO'
   lat: 40.111383
@@ -334,6 +334,13 @@
   lon: -88.225675
   mus: 2
   name:  'Only Rain Down The Drain'
+- fields: 2
+  img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
+  lat: 40.100078
+  level: 8
+  lon: -88.250683
+  mus: 1
+  name:  'Brian Clark Memorial Plaque'
 - fields: 1
   img:  'http://lh3.ggpht.com/VLipBehsKPCp8ewQnBV1ZCz7uE75zcY46iGDyFfFHgX1o55t3DONb3wcBcL5RMYSqABRK0TgIW3DluNy8y6WaA'
   lat: 40.101131
