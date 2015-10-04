@@ -64,12 +64,6 @@
   level: 6
   lon: -88.253446
   name:  'Milla Gross Memorial'
-- ap: 7970
-  img:  'http://lh6.ggpht.com/1El0oK6CWDh7rAQeFmPEW_dA252pdq7piTtjtuQCkZvwRa689NLjEafLqQ35TI5qCW3Lmhja9PLQqKxFs9Ha'
-  lat: 40.110627
-  level: 6
-  lon: -88.227584
-  name:  'Tau Beta Pi Statue'
 - ap: 7783
   img:  'http://lh5.ggpht.com/3RfiPeOzF67ubNX-vkwUJ6-EYld6BKuoBernq0_9kOjlIsSPr3saR9FIQzN7uiw7ouF0CpNflOnL0mUj9zbqdQ'
   lat: 40.109452
@@ -88,12 +82,6 @@
   level: 5
   lon: -88.208946
   name:  'Busey Friendship Grove'
-- ap: 7407
-  img:  'http://lh6.ggpht.com/Pnd8JOVl_Lm-LFi5TL9dblCUNbrwX2rh4_oKgOC5Ynga-E_Y207oGsL4Uz931FTapBrs35H98qxJU4Cm_Gk'
-  lat: 40.113024
-  level: 6
-  lon: -88.229095
-  name:  'University Place Christian Church'
 - ap: 7222
   img:  'http://lh5.ggpht.com/85X0vnlHzLPww3OziBoMSVfkwq66eKQNZ9Mn6qsjghvteOQZiAVlsY80NVcsErHao0QYd9IyF7PDJyp-jaQ'
   lat: 40.101632
@@ -233,17 +221,23 @@
   lon: -88.233215
   name:  'Mac and Diana Garret Memorial Tree'
 - ap: 6096
-  img:  'http://lh3.ggpht.com/x5fBw8MRogV8dm3kPO5zKNkUrQxn0dM7d1PIoASdX1_Rc8H5Duex4iZdOoIlqazCGll25TmptsWIRq1JFmj6'
-  lat: 40.112135
-  level: 5
-  lon: -88.225762
-  name:  'Computer Based Education Plaque'
+  img:  'http://lh6.ggpht.com/Pnd8JOVl_Lm-LFi5TL9dblCUNbrwX2rh4_oKgOC5Ynga-E_Y207oGsL4Uz931FTapBrs35H98qxJU4Cm_Gk'
+  lat: 40.113024
+  level: 6
+  lon: -88.229095
+  name:  'University Place Christian Church'
 - ap: 5909
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.172593
   level: '?'
   lon: -88.239993
   name:  'Faith Baptist Church'
+- ap: 5909
+  img:  'http://lh6.ggpht.com/1El0oK6CWDh7rAQeFmPEW_dA252pdq7piTtjtuQCkZvwRa689NLjEafLqQ35TI5qCW3Lmhja9PLQqKxFs9Ha'
+  lat: 40.110627
+  level: 6
+  lon: -88.227584
+  name:  'Tau Beta Pi Statue'
 - ap: 5722
   img:  'http://lh3.ggpht.com/psgrRGIt786cUSq8EV7SBSDsS-aptrUKjaCXWv864H7OaJL2K71qJpxU9Iw-acwFMi52ZN2qpEmicGmlmhJq'
   lat: 40.121061
@@ -262,12 +256,6 @@
   level: 6
   lon: -88.232251
   name:  'McKinley Church'
-- ap: 5535
-  img:  'http://lh5.ggpht.com/4eagHlnlpVbtFi_knZN73PIs2A--Ipj6SOlkQADePlfnzfOnJn-cAv0IoNNv4qR8WrbUFImUKHBknyaoAewO'
-  lat: 40.111383
-  level: 5
-  lon: -88.225675
-  name:  'Only Rain Down The Drain'
 - ap: 5348
   img:  'http://lh5.ggpht.com/9XV46K2cUd84oc6HPyqlj53LKJS8lVs0f0gPHSCBkkTwiHaxivu36dlAj5M38EzK-2U4xhvZJ7AiVvGM5yk'
   lat: 40.118175
@@ -335,17 +323,17 @@
   lon: -88.251676
   name:  'Ruth and Fred Steigmann Plaque'
 - ap: 5161
-  img:  'http://lh4.ggpht.com/vxjetUOC6_S8Ru3Q1ivzG4NE4bAAWg7_opiMwStExCoUHiRaIab8NyXLypEOAo7KBtsRQRzJX-TimhsOlBu3'
-  lat: 40.087121
-  level: 6
-  lon: -88.251406
-  name:  'Amdocs Shelter'
-- ap: 5161
   img:  'http://lh5.ggpht.com/WtLGJ5PPeFPGSKegRKCurNiGVHvfV53LdGHbVkCfDXxVvUpneEqngOPUTZJgZL4RdA1_YVGUXlpWs0ZDr6OH'
   lat: 40.086378
   level: 6
   lon: -88.251308
   name:  'Life Lessons from Kimberly Kueffler'
+- ap: 5161
+  img:  'http://lh4.ggpht.com/vxjetUOC6_S8Ru3Q1ivzG4NE4bAAWg7_opiMwStExCoUHiRaIab8NyXLypEOAo7KBtsRQRzJX-TimhsOlBu3'
+  lat: 40.087121
+  level: 6
+  lon: -88.251406
+  name:  'Amdocs Shelter'
 - ap: 5161
   img:  'http://lh4.ggpht.com/n7S7CjMfxfFwYHpq5HrRc6lFaFZYFVb4vYJAcTAc8MZgOgDNYI7QBChMeKIY-OSJkDSdwCf5KsJYmDesbHhq'
   lat: 40.127017
@@ -617,12 +605,6 @@
   lon: -88.227358
   name:  'Arnold O. Beckman Statue'
 - ap: 3848
-  img:  'http://lh5.ggpht.com/WZc539Zuz4CnOeahoDxnw7bXfoXbAW8PlbPdBvZNK5s1q7hQoFcVebhZRoTQV6uPovHywWaXUsleNvoQP2wE'
-  lat: 40.113647
-  level: 6
-  lon: -88.227628
-  name:  'Micro and Nanotechnology Laboratory'
-- ap: 3848
   img:  'http://lh5.ggpht.com/w9vRSV8NBR1gsi8ndeSUNJN2X-ftwCCQ7Jd3dcLVhPw6r1w0x1QE4hNgpCJBKimUeq-HToz_yq9S3rYkzC5bjw'
   lat: 40.114687
   level: 5
@@ -736,6 +718,12 @@
   level: 6
   lon: -88.230676
   name:  'Sousa Archives Center-Amer Music'
+- ap: 3661
+  img:  'http://lh5.ggpht.com/WZc539Zuz4CnOeahoDxnw7bXfoXbAW8PlbPdBvZNK5s1q7hQoFcVebhZRoTQV6uPovHywWaXUsleNvoQP2wE'
+  lat: 40.113647
+  level: 6
+  lon: -88.227628
+  name:  'Micro and Nanotechnology Laboratory'
 - ap: 3661
   img:  'http://lh4.ggpht.com/JVNlRlxb-5k_pDpi5lUduOZu2NO-CKdaVaa4Jj_IHDLIxC31OEc6zpyO8qklRI58_wB2fH1m8LUHOJW_GME'
   lat: 40.125389
@@ -863,6 +851,12 @@
   lon: -88.223748
   name:  'Thunderbird Theatre Mosaic'
 - ap: 3474
+  img:  'http://lh5.ggpht.com/4eagHlnlpVbtFi_knZN73PIs2A--Ipj6SOlkQADePlfnzfOnJn-cAv0IoNNv4qR8WrbUFImUKHBknyaoAewO'
+  lat: 40.111383
+  level: 5
+  lon: -88.225675
+  name:  'Only Rain Down The Drain'
+- ap: 3474
   img:  'http://www.panoramio.com/photos/small/52867363.jpg'
   lat: 40.101676
   level: 7
@@ -874,12 +868,6 @@
   level: 6
   lon: -88.230025
   name:  'Pillars at Wohlers Hall'
-- ap: 3474
-  img:  'http://lh3.ggpht.com/LR76HrJqriPFUoc2XSs7jb2SotnStZv20kI7rgUx8B5HqhmetnTW4MA1tCp1ws4g5gw0sf9g7M3Lwq4VwfpD'
-  lat: 40.111687
-  level: 2
-  lon: -88.225353
-  name:  'Transportation Building - University Of Illinois'
 - ap: 3474
   img:  'http://lh3.ggpht.com/pSjbhtlYxUKJ7DAhIfw-L5rTjo3YJd0aVDlQWVWf1Nhpy75H-xsx_e3pykgTmN7RJ7s9PPBglL3WEexII2zoIXi3iSI5j1ht573t3HM_y3ZlIMKy'
   lat: 40.111715
@@ -1175,17 +1163,17 @@
   lon: -88.291946
   name:  'Campus Solar System - Jupiter'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/5R8z1wwducaGMkvLFryu9HzC91eX02E3KDY04s9Il7Qrdw8efQiRGZ_vbgqW0Fuvp4-I_d9ugFC6lPc7lxia'
-  lat: 40.113465
-  level: 3
-  lon: -88.291684
-  name:  'Anna Jean Russell Memorial Tree'
-- ap: 2537
   img:  'http://lh6.ggpht.com/TtWbekdbsTWA9hOrt2dc1ID1DnRuGoRbAle9mL9aZvc_aJygqJ9jAMjqrWtVr87WnELkFrSVIpO_4VVZQ67P'
   lat: 40.113103
   level: 5
   lon: -88.290672
   name:  'Kaufman Lake'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/5R8z1wwducaGMkvLFryu9HzC91eX02E3KDY04s9Il7Qrdw8efQiRGZ_vbgqW0Fuvp4-I_d9ugFC6lPc7lxia'
+  lat: 40.113465
+  level: 3
+  lon: -88.291684
+  name:  'Anna Jean Russell Memorial Tree'
 - ap: 2537
   img:  'http://lh4.ggpht.com/j5qEdm6GsRybxCSX4X-mcXnDS-HO6__skWjWfYJD7KoQdhnmPT8tJH1t28UW1k-1PYH5J6mpdiX9mkOzvM0'
   lat: 40.077923
@@ -1325,17 +1313,17 @@
   lon: -88.238014
   name:  'Champaign Waterfall'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/2Rx43j2Btq5GI7Atdo-QNNLuFVJkY-7DiyLMNbg2kD1wjE77IXmedVtWOjr6wu_mgieNLBnA0GJLZ6zNF3s'
-  lat: 40.110735
-  level: 6
-  lon: -88.236736
-  name:  'Park Place Tower'
-- ap: 2537
   img:  'http://lh3.ggpht.com/WDQ55kRMYCIrw9Pm69IuV6cBTI2nx7Z1gU9yxX2oE2oH9EdPnO1ltxSROAjUmHmBu84SEtHmLKregkDqlLYzUg'
   lat: 40.117126
   level: 6
   lon: -88.240623
   name:  'Depot Barber Shop'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/2Rx43j2Btq5GI7Atdo-QNNLuFVJkY-7DiyLMNbg2kD1wjE77IXmedVtWOjr6wu_mgieNLBnA0GJLZ6zNF3s'
+  lat: 40.110735
+  level: 6
+  lon: -88.236736
+  name:  'Park Place Tower'
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/erdNDM4HaNMn_EeFz0IoM_0LQWykLGJ1Y7-URXSvEithPHs8Rnwf7oWZyxVKu7qOpPdKjeeCy3dkywZ7n6KrsA'
   lat: 40.111615
@@ -1457,17 +1445,17 @@
   lon: -88.20317
   name:  'Goodwill'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/Hh8nntyxb361BGSJYy1ZxuMtkf5y1GXg3rEVqwI-1uwEH4MdL3b4JBnHLsxsMX1rCbbIWWVPDeDEsK6nvnyBGQ'
-  lat: 40.124947
-  level: 5
-  lon: -88.210509
-  name:  'Trail Marker in Busey Woods'
-- ap: 2537
   img:  'http://lh4.ggpht.com/BL7RVMX7ZBl59uh3qjTqPi1OQTCLnWHiY3GLhCR_f8oAL1PmddwJq3mnTe-UN1IYkQSOR5i2cgpaA6oNdny6'
   lat: 40.12807
   level: 5
   lon: -88.215897
   name:  'Busey Woods Trail Entrance'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/Hh8nntyxb361BGSJYy1ZxuMtkf5y1GXg3rEVqwI-1uwEH4MdL3b4JBnHLsxsMX1rCbbIWWVPDeDEsK6nvnyBGQ'
+  lat: 40.124947
+  level: 5
+  lon: -88.210509
+  name:  'Trail Marker in Busey Woods'
 - ap: 2537
   img:  'http://lh3.ggpht.com/QXNgz_dPkVpVuz9Qr0CZkUJDftEdF2Hs8m3XkLjsM8Q3YkwkWpxt0rmtqJ-fFylVNnP4_r193_ZhBl2kSfg'
   lat: 40.129216
