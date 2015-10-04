@@ -69,20 +69,6 @@
   resos1: '?'
   resos2: '?'
 - img1: http://i.imgur.com/LujBo5P.png
-  img2:  'http://lh4.ggpht.com/g5bf6n8J6ugyF8pztcWZWnGyNmzIDQhskzXCDf2dJbuiqbub_xApqggrQrqn6WCy2yYmLnGrcmuQkqeQKx2IwA'
-  intel: https://www.ingress.com/intel?ll=40.125666,-88.159362&z=14&pls=40.112502,-88.040628,40.126769,-88.215041
-  lat1: 40.112502
-  lat2: 40.126769
-  level1: '?'
-  level2: 5
-  lon1: -88.040628
-  lon2: -88.215041
-  mus: 7290
-  name1:  'St Joseph Township Library'
-  name2:  'Busey Woods Swampland Overlook'
-  resos1: '?'
-  resos2: 8
-- img1: http://i.imgur.com/LujBo5P.png
   img2: http://i.imgur.com/LujBo5P.png
   intel: https://www.ingress.com/intel?ll=40.1631456667,-88.4203536667&z=14&pls=40.107613,-88.426429,40.202899,-88.426556
   lat1: 40.107613
@@ -376,6 +362,20 @@
   name2:  'Church of the Nazarene'
   resos1: '?'
   resos2: '?'
+- img1:  'http://lh4.ggpht.com/-3OGrQoPMUHMTXGrQd8VSoFpu2nJzMezJO7qlgOrkiAgRUQ9cB8Ga3vnp5RecAdoF0N9PpnJ-x4nBpeoRXI'
+  img2:  'http://lh3.ggpht.com/STEfnDDHEff3fffoWiEjvWm4SETgCRyRIvPgf92kzrsxo3sdh1SNg1AmGiFqvspDfSx0OXri-AXVfOZRWRMe'
+  intel: https://www.ingress.com/intel?ll=40.1293403333,-88.2518053333&z=14&pls=40.129194,-88.262938,40.13156,-88.239027
+  lat1: 40.129194
+  lat2: 40.13156
+  level1: 6
+  level2: 6
+  lon1: -88.262938
+  lon2: -88.239027
+  mus: 277
+  name1:  'A.C. HumKo Mural'
+  name2:  'Human Kinetics Park'
+  resos1: 8
+  resos2: 8
 - img1:  'http://lh5.ggpht.com/Cq11wEFMsdIFhXzaJC3SnRexaZJe_sDAmGF6eleWD_J54IJbalqFkUfxbSWKB1SCti-5EnGLR14gnlOtJYKW'
   img2:  'http://lh6.ggpht.com/nRwew4OU3JNWRI1-xCyuN1xwDabajLFDuSlOZ-_M8BwJELli4V8o30JI0UyF6Kpc4gfDGdh10kJ6mD6ggMo'
   intel: https://www.ingress.com/intel?ll=40.101903,-88.2432293333&z=14&pls=40.09928,-88.237305,40.108561,-88.250039
@@ -402,6 +402,34 @@
   mus: 249
   name1:  'J C Blair Monument '
   name2:  'Suzanne Chamberlin Memorial'
+  resos1: 8
+  resos2: 8
+- img1:  'http://lh3.googleusercontent.com/zcTaX3OHcGZu7CzBV1HvsKtB5RiAW7oMwxS_7phps0tjr70eNr8xbxrJ_P6agi_uXJtMNdHPnks9rZcrR6mG'
+  img2:  'http://lh6.ggpht.com/RI5Ok6bJjxIHk0YwpEnU3juaRZR-DPPS1rBWXGiSJcZhrjOyFUSAfmkM9Z45ZZbAN8LhloB0yMjNWN4Noss'
+  intel: https://www.ingress.com/intel?ll=40.129057,-88.243091&z=14&pls=40.127267,-88.253451,40.128344,-88.236795
+  lat1: 40.127267
+  lat2: 40.128344
+  level1: 7
+  level2: 6
+  lon1: -88.253451
+  lon2: -88.236795
+  mus: 226
+  name1:  'Champaign Fire Department'
+  name2:  'New House of Prayer'
+  resos1: 8
+  resos2: 8
+- img1:  'http://lh4.ggpht.com/AvFagnn0VbkLPLCBBH39tDpdCMp-0Lz3QojJsRdIrqB9zfihnnJC929dj716gTo-udw6Mj0aJmZcM6HEm-xVmA'
+  img2:  'http://lh5.ggpht.com/cbC64dZ70dUj_Qf33Kt_3v8xilTO4LeRhOu3ItQWXHGklw4xpbodzA6C5qxg5eqI9Vr5jhJfAT1U1DDAiSNHVw'
+  intel: https://www.ingress.com/intel?ll=40.109652,-88.185281&z=14&pls=40.110606,-88.188638,40.112828,-88.178712
+  lat1: 40.110606
+  lat2: 40.112828
+  level1: 7
+  level2: 7
+  lon1: -88.188638
+  lon2: -88.178712
+  mus: 205
+  name1:  'Robert Canaday Park'
+  name2:  'Weaver Park'
   resos1: 8
   resos2: 8
 - img1:  'http://lh5.ggpht.com/dpsEP8PFhsghyhulqyixJWOBciNBQP3X10g1YPnE63hnUhWZvxZBXplQAcjQI71ddCRWVkuJ8Af_AIfDpGnF'
@@ -465,7 +493,7 @@
   intel: https://www.ingress.com/intel?ll=40.0881103333,-88.212544&z=14&pls=40.093629,-88.216064,40.083536,-88.207159
   lat1: 40.093629
   lat2: 40.083536
-  level1: 6
+  level1: 7
   level2: 7
   lon1: -88.216064
   lon2: -88.207159
@@ -558,34 +586,6 @@
   name2:  'Village at the Crossing Tower'
   resos1: 8
   resos2: 8
-- img1:  'http://lh3.ggpht.com/Eeot2xjiHI3jS56J2sySBOH0hRVa-VNNF9JZx7nFzgh1-Y6lhbMuognHS-CcMuIuAHyJzWmLBtkQv49sUO2KOg'
-  img2:  'http://lh4.ggpht.com/Oocso9yyW_QlJlddbFRk8zzguP4PfXU8kI9T5rJbiyNwSgNMG0BmSoK3TdG2cEgH-p2Xd_vpQMxA_RcxLUP3'
-  intel: https://www.ingress.com/intel?ll=40.105316,-88.2432746667&z=14&pls=40.098321,-88.23191,40.109066,-88.247875
-  lat1: 40.098321
-  lat2: 40.109066
-  level1: 6
-  level2: 6
-  lon1: -88.23191
-  lon2: -88.247875
-  mus: 127
-  name1:  'Clinton Craig Atkins Memorial'
-  name2:  'The Church of Scientology'
-  resos1: 8
-  resos2: 8
-- img1:  'http://lh3.ggpht.com/xAJIzhGMpnqEYisIgB5-btiULPi6cL4uLys9fqf8_smF-6qAXP9rUsCbWIgPVIIHfGINQNF2Ypx58YvDo1hh'
-  img2:  'http://lh3.googleusercontent.com/zcTaX3OHcGZu7CzBV1HvsKtB5RiAW7oMwxS_7phps0tjr70eNr8xbxrJ_P6agi_uXJtMNdHPnks9rZcrR6mG'
-  intel: https://www.ingress.com/intel?ll=40.1278643333,-88.2438056667&z=14&pls=40.127093,-88.23927,40.127267,-88.253451
-  lat1: 40.127093
-  lat2: 40.127267
-  level1: 6
-  level2: 7
-  lon1: -88.23927
-  lon2: -88.253451
-  mus: 123
-  name1:  'Bridgewater Park'
-  name2:  'Champaign Fire Department'
-  resos1: 8
-  resos2: 8
 - img1:  'http://lh4.ggpht.com/W2iuoerYgndMYQCa7HEvNAP_sBaOODp8AQmEHDDbOTKx8TTwszyU4_iu7eYRam0PwEMWNyy4QJHnB_BAmDQ'
   img2:  'http://lh3.googleusercontent.com/klY7LlKB5LBTfRC8P4oBlzzOKMP_YM_h2twKQVnFocg0IyQsM140Vz0T7KED59pIwOKy1Xze-Q7u8w9cvqug'
   intel: https://www.ingress.com/intel?ll=40.0633303333,-88.2468123333&z=14&pls=40.058174,-88.257055,40.065936,-88.239758
@@ -602,7 +602,7 @@
   resos2: 8
 - img1:  'http://lh6.ggpht.com/EtUHkhRjkZ9UYMDmCSuvHh6t4kcvcgYxxiEJZQqRcnjIDeG4E6RmW0mu5sRNQlBwOb4t6mkSGfGFTOHLR5qw'
   img2:  'http://lh5.ggpht.com/D1zsKK70zAgdoLVuLiwe4wSOzcUymV-oOWjlkykBN731trfiDH8wR0RjfrLCro9I0j_s-751wBvtojmD1vz5'
-  intel: https://www.ingress.com/intel?ll=40.098241,-88.2274333333&z=14&pls=40.094317,-88.228678,40.100071,-88.227115
+  intel: https://www.ingress.com/intel?ll=40.0975696667,-88.2292343333&z=14&pls=40.094317,-88.228678,40.100071,-88.227115
   lat1: 40.094317
   lat2: 40.100071
   level1: 6
@@ -644,7 +644,7 @@
   resos2: 8
 - img1:  'http://lh3.ggpht.com/sMx0P-GO5ovW4D9GxUctotNYCfxZGhdOEhiL1DmdIK6HMtm6Q2YB4GNKL53HBW60hQRizKWO_neyW1gOFt4'
   img2:  'http://lh6.ggpht.com/3dciax4v-S3OKvaO4a0G1H6yuvp2pnzFQjCsu-OOQlDP45Xh_c19QLwzEh4YixwMVCCk9396VC26HkZpcaDX'
-  intel: https://www.ingress.com/intel?ll=40.0679023333,-88.2466916667&z=14&pls=40.068464,-88.243473,40.069362,-88.252978
+  intel: https://www.ingress.com/intel?ll=40.068739,-88.2462443333&z=14&pls=40.068464,-88.243473,40.069362,-88.252978
   lat1: 40.068464
   lat2: 40.069362
   level1: 7
@@ -658,7 +658,7 @@
   resos2: 8
 - img1:  'http://lh4.ggpht.com/vLN74xdc8Mdgab4UjP1QUbyX42bkPBXnIqzYzkmRDi4naHiBk2kM1wUA7Mx3Pxl1dpPoMBAg9pV956MqTDk'
   img2:  'http://lh3.googleusercontent.com/klY7LlKB5LBTfRC8P4oBlzzOKMP_YM_h2twKQVnFocg0IyQsM140Vz0T7KED59pIwOKy1Xze-Q7u8w9cvqug'
-  intel: https://www.ingress.com/intel?ll=40.066736,-88.241888&z=14&pls=40.068391,-88.242282,40.065936,-88.239758
+  intel: https://www.ingress.com/intel?ll=40.0675913333,-88.2410283333&z=14&pls=40.068391,-88.242282,40.065936,-88.239758
   lat1: 40.068391
   lat2: 40.065936
   level1: 7
@@ -675,7 +675,7 @@
   intel: https://www.ingress.com/intel?ll=40.1071966667,-88.1899243333&z=14&pls=40.110606,-88.188638,40.105462,-88.192642
   lat1: 40.110606
   lat2: 40.105462
-  level1: 6
+  level1: 7
   level2: 6
   lon1: -88.188638
   lon2: -88.192642
@@ -717,7 +717,7 @@
   intel: https://www.ingress.com/intel?ll=40.096595,-88.2185516667&z=14&pls=40.093629,-88.216064,40.102329,-88.221381
   lat1: 40.093629
   lat2: 40.102329
-  level1: 6
+  level1: 7
   level2: 4
   lon1: -88.216064
   lon2: -88.221381
@@ -812,7 +812,7 @@
   resos2: 8
 - img1:  'http://lh4.ggpht.com/D5cENdXJQaqvWwCSoOanItF0e3p53vn8qA2cAruOQSuYuD9XmC4q26pJQI7yjA9-6yDTJH0KYTQQwYdcwoTxOA'
   img2:  'http://lh3.googleusercontent.com/NfuReRkyOBC6TpPTQQuLpJGD0EXaLbvSJP45Seaf0Vqc8oZ93XZFHQiMEcbBC8vAZxWX_WA3_WBC2zxcvIs'
-  intel: https://www.ingress.com/intel?ll=40.0667546667,-88.2414756667&z=14&pls=40.068447,-88.241045,40.065881,-88.243624
+  intel: https://www.ingress.com/intel?ll=40.067573,-88.242317&z=14&pls=40.068447,-88.241045,40.065881,-88.243624
   lat1: 40.068447
   lat2: 40.065881
   level1: 7
@@ -885,7 +885,7 @@
   intel: https://www.ingress.com/intel?ll=40.107971,-88.187774&z=14&pls=40.110606,-88.188638,40.10745,-88.186206
   lat1: 40.110606
   lat2: 40.10745
-  level1: 6
+  level1: 7
   level2: 3
   lon1: -88.188638
   lon2: -88.186206
@@ -913,7 +913,7 @@
   intel: https://www.ingress.com/intel?ll=40.0976466667,-88.2251756667&z=14&pls=40.094202,-88.223867,40.099069,-88.225654
   lat1: 40.094202
   lat2: 40.099069
-  level1: 6
+  level1: 7
   level2: 7
   lon1: -88.223867
   lon2: -88.225654
@@ -922,23 +922,9 @@
   name2:  'Frank Kern Robeson Memorial'
   resos1: 8
   resos2: 8
-- img1:  'http://lh5.ggpht.com/faxGOwohvTPuaJTZW8M3RpkANXP-AWHPw4V-7ypbg_yHebR65_DhSU-dN7xvy9aO-HJ8QyK3R3OUzbhpwjgQ'
-  img2:  'http://lh6.ggpht.com/ZpJuVeWuDsVo9oPzh9mGzFjeTz2FQluKlriJijNL29HFEEWmMBqok5fCxVis8MpHqJYCBQUhRLNU9yuE7luP'
-  intel: https://www.ingress.com/intel?ll=40.130135,-88.2384696667&z=14&pls=40.129612,-88.237686,40.129233,-88.238696
-  lat1: 40.129612
-  lat2: 40.129233
-  level1: 6
-  level2: 6
-  lon1: -88.237686
-  lon2: -88.238696
-  mus: 40
-  name1:  'Apostolic Faith Church'
-  name2:  'Bristol Park'
-  resos1: 8
-  resos2: 8
 - img1:  'http://lh5.ggpht.com/ncfefTWsVvZWHVozJVxFU0p2EzGdz74tJxMRB96Xaqo9wYsBbi01bALm5uOAn14GkFMSo3o_d1TAcvcUa2JYRg'
   img2:  'http://lh6.ggpht.com/BjKL2L9ZzUTddDfIfeyClWu3tx12soMCpmNX8YkTMs-UqHGRUSmCHKtXCiiRT7J0N6vdUFyi_T_av5X2_-OX'
-  intel: https://www.ingress.com/intel?ll=40.1946673333,-88.4003516667&z=14&pls=40.193851,-88.403214,40.194134,-88.402333
+  intel: https://www.ingress.com/intel?ll=40.1958586667,-88.4078533333&z=14&pls=40.193851,-88.403214,40.194134,-88.402333
   lat1: 40.193851
   lat2: 40.194134
   level1: 6
@@ -997,7 +983,7 @@
   intel: https://www.ingress.com/intel?ll=40.11207,-88.1927306667&z=14&pls=40.110606,-88.188638,40.112852,-88.192968
   lat1: 40.110606
   lat2: 40.112852
-  level1: 6
+  level1: 7
   level2: 3
   lon1: -88.188638
   lon2: -88.192968
@@ -1019,20 +1005,6 @@
   name1:  'The HUB Campus Church'
   name2:  'UIUC Cyclotron "D''s" '
   resos1: 6
-  resos2: 8
-- img1:  'http://lh6.ggpht.com/ZpJuVeWuDsVo9oPzh9mGzFjeTz2FQluKlriJijNL29HFEEWmMBqok5fCxVis8MpHqJYCBQUhRLNU9yuE7luP'
-  img2:  'http://lh6.ggpht.com/RI5Ok6bJjxIHk0YwpEnU3juaRZR-DPPS1rBWXGiSJcZhrjOyFUSAfmkM9Z45ZZbAN8LhloB0yMjNWN4Noss'
-  intel: https://www.ingress.com/intel?ll=40.1297123333,-88.2381726667&z=14&pls=40.129233,-88.238696,40.128344,-88.236795
-  lat1: 40.129233
-  lat2: 40.128344
-  level1: 6
-  level2: 6
-  lon1: -88.238696
-  lon2: -88.236795
-  mus: 34
-  name1:  'Bristol Park'
-  name2:  'New House of Prayer'
-  resos1: 8
   resos2: 8
 - img1:  'http://lh4.ggpht.com/-P9_K1M8m41FpGEgfyih0JNuexcc1mtm7Hq3LOuozksba15MIQWefDgfBs20Uuf61Txiy9-ALeKCMVWuBi4'
   img2:  'http://lh3.ggpht.com/X30u-Y3JoCurNlH3pvt-DlJeV7obUlOeBDbH-tkN6QcPEHvknjSz3nYF8EGtXWani_tyNgcyl2naDFhje8E'
@@ -1116,6 +1088,20 @@
   mus: 26
   name1:  'Christie Clinic Hospital '
   name2:  'In Memory of Robert E Abbuehl'
+  resos1: 8
+  resos2: 8
+- img1:  'http://lh3.googleusercontent.com/0sr-qQ4Z1TW1AZ62RFHko9Cbb8g36Renb3nRyxFJr_r68iVMsuh_EwrbThhXg2hVyqNQSjX7rFVvrWpfHS4'
+  img2:  'http://lh6.ggpht.com/UHh6R5Pfoiuw4sX96l-GNlhyni2EhPOuuEfaN9oWYLEs8qV6pfLkQugcY8yhMRq01gHqUu5GqKOA6bt9t2NfFQ'
+  intel: https://www.ingress.com/intel?ll=40.105222,-88.241265&z=14&pls=40.103958,-88.240451,40.104458,-88.239125
+  lat1: 40.103958
+  lat2: 40.104458
+  level1: 5
+  level2: 5
+  lon1: -88.240451
+  lon2: -88.239125
+  mus: 26
+  name1:  'Bruce D. Nesbit African American Cultural Center'
+  name2:  'Delta Chi'
   resos1: 8
   resos2: 8
 - img1:  'http://lh4.ggpht.com/tOaHkSh5Fi62TobQvLLu0rUok4qJZE3o4wwCFVq1bXmqOesQ-cq_tEmVd-J_qFDKeACcH8noaXCWvbXve03C'
@@ -1222,7 +1208,7 @@
   lat1: 40.087166
   lat2: 40.092259
   level1: 7
-  level2: 4
+  level2: 6
   lon1: -88.214409
   lon2: -88.216448
   mus: 20
@@ -1235,7 +1221,7 @@
   intel: https://www.ingress.com/intel?ll=40.1118616667,-88.1939763333&z=14&pls=40.110606,-88.188638,40.112227,-88.196705
   lat1: 40.110606
   lat2: 40.112227
-  level1: 6
+  level1: 7
   level2: 5
   lon1: -88.188638
   lon2: -88.196705
@@ -1328,6 +1314,20 @@
   name2:  'Leland Dollahan Memorial'
   resos1: '?'
   resos2: 8
+- img1:  'http://lh3.ggpht.com/_CmMOfi2PqTv1S_kKyTIXg3gslk5AbH-pFLizpe8WbXoFdbGuJr3TPxjhKMQ-S_aFIIqHqtyZcTahtz_9DVe'
+  img2:  'http://lh5.ggpht.com/cbC64dZ70dUj_Qf33Kt_3v8xilTO4LeRhOu3ItQWXHGklw4xpbodzA6C5qxg5eqI9Vr5jhJfAT1U1DDAiSNHVw'
+  intel: https://www.ingress.com/intel?ll=40.108069,-88.1852276667&z=14&pls=40.105857,-88.188478,40.112828,-88.178712
+  lat1: 40.105857
+  lat2: 40.112828
+  level1: 7
+  level2: 7
+  lon1: -88.188478
+  lon2: -88.178712
+  mus: 14
+  name1:  'Brookens Administrative Center'
+  name2:  'Weaver Park'
+  resos1: 8
+  resos2: 8
 - img1:  'http://lh3.ggpht.com/1FtcyHMJRhFifRLb3-BiKpl51XTW56r_DM5chcCXA0F1nwRDjcqv1FFQZoj42pyMoGxHo0Wq98ovWw-FBjDjFA'
   img2:  'http://lh5.ggpht.com/e6wN_SlFuF59rOEwuU8BCPeT0WsXneW_OcsXpZ75pgQd0PQSfnKhmLyrK5PDkisRwjV2DfAfVp7T3ryHoGKX4A'
   intel: https://www.ingress.com/intel?ll=40.0822846667,-88.2717233333&z=14&pls=40.086561,-88.289447,40.076779,-88.249144
@@ -1370,6 +1370,20 @@
   name2:  'The Church of Scientology'
   resos1: 8
   resos2: 8
+- img1:  'http://lh5.ggpht.com/MQR_ZzKDnOCzhArYVQvSq3fm-6zcOGn3bneYKT9cpAuejbSEQDZBYeUPwN8D3OBLklSTSl0TJASS2zUJjUUd'
+  img2:  'http://lh4.ggpht.com/tUffE8jkuim3SFRvjGlJxXgz7zLJ2vpExUKHLio7wrPcG84FR1m7x040AxYyZ70xUQ_xrwf2YsWxBQvSbXs-'
+  intel: https://www.ingress.com/intel?ll=40.1086,-88.1844703333&z=14&pls=40.105522,-88.188493,40.10745,-88.186206
+  lat1: 40.105522
+  lat2: 40.10745
+  level1: 7
+  level2: 3
+  lon1: -88.188493
+  lon2: -88.186206
+  mus: 12
+  name1:  'Lierman Neighborhood Community Garden'
+  name2:  'Urbana Park District Brookens Gymnasium'
+  resos1: 8
+  resos2: 4
 - img1:  'http://lh6.ggpht.com/BgudsSY0vPHxgxXELEIEROiOQIlMUEEycmutMqr-xgbLBf4OkD1cCogkqAOqKSfh1GR3pPAhW2bTe5FGfEvO'
   img2:  'http://lh6.ggpht.com/CFr5FDgsztNbeSQUq6x63c17MTKeKxsaUoY7uq6eft3-_1XjCjDOPcpjtaA8iqU-gi7m9txMeWkfG0UuT6mv'
   intel: https://www.ingress.com/intel?ll=40.1015833333,-88.2251063333&z=14&pls=40.102058,-88.224635,40.099069,-88.225654
@@ -1386,7 +1400,7 @@
   resos2: 8
 - img1: http://i.imgur.com/LujBo5P.png
   img2: http://i.imgur.com/LujBo5P.png
-  intel: https://www.ingress.com/intel?ll=40.1948733333,-88.4027016667&z=14&pls=40.194685,-88.402516,40.195251,-88.403825
+  intel: https://www.ingress.com/intel?ll=40.196509,-88.408118&z=14&pls=40.194685,-88.402516,40.195251,-88.403825
   lat1: 40.194685
   lat2: 40.195251
   level1: '?'
@@ -1417,7 +1431,7 @@
   intel: https://www.ingress.com/intel?ll=40.097837,-88.2235513333&z=14&pls=40.094202,-88.223867,40.100276,-88.223103
   lat1: 40.094202
   lat2: 40.100276
-  level1: 6
+  level1: 7
   level2: 3
   lon1: -88.223867
   lon2: -88.223103
@@ -1428,7 +1442,7 @@
   resos2: 8
 - img1:  'http://lh3.ggpht.com/kAxEWb1VdMZ1-OTPwyl-CGWs0lF3FNth0gbxr6aqk6BaG_tfbCZM31s6UWKUY8aFtUA3j2GFL2z6yvu95yz3'
   img2:  'http://lh4.ggpht.com/BakPypxJUdTOMFo4cSzlewsmPlHw3DyQp4kVY2zAFfJvhvj9CnaQm6cqvB22BqjknBbUYxEb_eYnIZ2skgfO'
-  intel: https://www.ingress.com/intel?ll=40.1155486667,-88.22807&z=14&pls=40.115068,-88.228451,40.11586,-88.227238
+  intel: https://www.ingress.com/intel?ll=40.1157153333,-88.2281486667&z=14&pls=40.115068,-88.228451,40.11586,-88.227238
   lat1: 40.115068
   lat2: 40.11586
   level1: 7
@@ -1456,11 +1470,11 @@
   resos2: 8
 - img1:  'http://lh5.ggpht.com/dzjsWdreD6jZuCG_DDonrZu-gYlDIxk5j3rPzt67sbmq7yWjo9I_Op69SM3fzvlGKnlp8QMGcztFWOhpSe4'
   img2:  'http://lh3.ggpht.com/Q2rFQkcNHwItWNXX2B0B65sANQ_gCk482p2HilMp7BeswGN9qevW8WBFQ1zUg2xkvlz8bqbDCg-C5NaxK2Jf'
-  intel: https://www.ingress.com/intel?ll=40.0928423333,-88.2163703333&z=14&pls=40.093629,-88.216064,40.092639,-88.216599
+  intel: https://www.ingress.com/intel?ll=40.093273,-88.2169016667&z=14&pls=40.093629,-88.216064,40.092639,-88.216599
   lat1: 40.093629
   lat2: 40.092639
-  level1: 6
-  level2: 6
+  level1: 7
+  level2: 7
   lon1: -88.216064
   lon2: -88.216599
   mus: 10
@@ -1552,6 +1566,20 @@
   name2:  'South Gate of the Greenhouse'
   resos1: 5
   resos2: 8
+- img1:  'http://lh4.ggpht.com/vdGNLZFnObxuCivCqYJZTZij0viFyuNB9iTlybZbb50b4Pqt_d-phv7dphv2G5JgU8Y7mc1RIokgw6SVPo-B'
+  img2:  'http://lh5.ggpht.com/EpOdyD3ivApVXUFAhA6wDVRmmpaeWrwcwStpOXXX5_VPnE3irbGjbLNZOqQnIf8xs9pOqR0AcKO9T2uSNK5F'
+  intel: https://www.ingress.com/intel?ll=40.0932133333,-88.237654&z=14&pls=40.093415,-88.236748,40.092164,-88.239356
+  lat1: 40.093415
+  lat2: 40.092164
+  level1: 6
+  level2: 6
+  lon1: -88.236748
+  lon2: -88.239356
+  mus: 8
+  name1:  '"Springville Portal" at Research Park'
+  name2:  'Jill M. Zimmerman Memorial'
+  resos1: 8
+  resos2: 8
 - img1:  'http://lh5.ggpht.com/Dnxa0uyF4RKoIJbGj2tdvyDNb0rGtuO_uRKbU5rlo_G2o90ZQh1TJPY85qrIuM3pseJmLtXNbo0wS6tvowaz'
   img2:  'http://lh6.ggpht.com/ln9YjSvHRoySzMRZ4pI_25YyxE2lmJHlRhf7egen6R6cXykH55ZTPJB0kByohkG8cZ0mn4EVSlQ9zrEj5cRa'
   intel: https://www.ingress.com/intel?ll=40.0863433333,-88.3271463333&z=14&pls=40.08479,-88.331095,40.088796,-88.321301
@@ -1622,20 +1650,6 @@
   name2:  'Fire Fighters Pavilion'
   resos1: '?'
   resos2: 8
-- img1:  'http://lh6.ggpht.com/3SaonyLU_evy1YzQKwgtBDaqXYmjw8T23hTzjuYRMKiAuUQhggQrma2fSybhpdItiFt7zHajL_U2nIa8UcDx'
-  img2:  'http://lh6.ggpht.com/Is1X0lUzkQNvQqf1DAuDubUUhrDHx3xEFhrX9GLs_uixSyDzNSCw1vS235EszYc_itiZUU2FsfItRg21Lj_OlA'
-  intel: https://www.ingress.com/intel?ll=40.1098696667,-88.2192516667&z=14&pls=40.107526,-88.219106,40.111689,-88.21914
-  lat1: 40.107526
-  lat2: 40.111689
-  level1: 7
-  level2: 5
-  lon1: -88.219106
-  lon2: -88.21914
-  mus: 7
-  name1:  'Axiom Christian Church Ministry'
-  name2:  'CIMIC'
-  resos1: 8
-  resos2: 8
 - img1:  'http://lh3.ggpht.com/yQ9HtiIe7ywa9U_kppXZTr0IMkQknRGoEvP0rzx7MH9z4dfWLrPhk_LChaKkVmkqQz-Ookk0fuka27YY39nr'
   img2:  'http://lh6.ggpht.com/hf2-XzERtSQhHYqpfkmEoUelpEes9pxtJ5gINRWSZ6NTzyKQI3lTEEq-UDBSvbmADpUd1ScID47hMvXgmHo'
   intel: https://www.ingress.com/intel?ll=40.110582,-88.2081833333&z=14&pls=40.109336,-88.208978,40.111432,-88.207259
@@ -1683,14 +1697,14 @@
   intel: https://www.ingress.com/intel?ll=40.096717,-88.219336&z=14&pls=40.093995,-88.218417,40.102329,-88.221381
   lat1: 40.093995
   lat2: 40.102329
-  level1: 5
+  level1: 6
   level2: 4
   lon1: -88.218417
   lon2: -88.221381
   mus: 5
   name1:  '50 Cherry Trees'
   name2:  'McKinley Fountain'
-  resos1: 6
+  resos1: 8
   resos2: 8
 - img1:  'http://lh4.ggpht.com/28G0r_p-w3q04AH2p4_fR4O-CYSuWHPoKP2-xgfex5AyW9dAdobtwfB9d3kYf2bIn_izORpEbJsHQn7ExHQ_xg'
   img2:  'http://lh3.ggpht.com/N0Bl8YGm4qtAVQ3EgRKcAFyDPOerfOIV-1UhpRGD4UejUYl-NUM4jYcoS_K8q3oWOqyel8bNQfS4QfASesUzzg'
@@ -1704,6 +1718,20 @@
   mus: 5
   name1:  'Unified Sculpture'
   name2:  'Webber''s Elm'
+  resos1: 8
+  resos2: 8
+- img1:  'http://lh3.ggpht.com/y0AorXifGZDC_iY8fEpHU0L9ehL0jyxjOAWWnkYyba2FpprGdmigPcoayrthLbakZQQlURVaeJHoNB98IIve'
+  img2:  'http://lh3.googleusercontent.com/zjmctc4mmgtJyGd4P22h-pDkPcOT1caYXx00Qz9rn9Qly9ddCiToX2o5rVVwkq3udrnNq6UMraWUeIaP3AI'
+  intel: https://www.ingress.com/intel?ll=40.092311,-88.2389486667&z=14&pls=40.094061,-88.236858,40.090708,-88.240632
+  lat1: 40.094061
+  lat2: 40.090708
+  level1: 6
+  level2: 5
+  lon1: -88.236858
+  lon2: -88.240632
+  mus: 5
+  name1:  'Illinois Conference Center'
+  name2:  'Wire Animals'
   resos1: 8
   resos2: 8
 - img1:  'http://lh3.ggpht.com/0NohpRguugkeCSzUJOqr7lYZsge5BLCbvWjWgDb3GFPe1uu8L6PXoPHL_90_p-1zU82bRB59DxMUCZFATSA'
@@ -1732,6 +1760,34 @@
   mus: 5
   name1:  'CIMIC'
   name2:  'Mennonite Church'
+  resos1: 8
+  resos2: 8
+- img1:  'http://lh6.ggpht.com/a7U3RDd7velreml5bufqdV_G7UTGp85wW8w5LWXCJNvNYvu-iW5nUdDbsA6y0gODhhOWdwxltnQQgvTSRFA'
+  img2:  'http://lh5.ggpht.com/EpOdyD3ivApVXUFAhA6wDVRmmpaeWrwcwStpOXXX5_VPnE3irbGjbLNZOqQnIf8xs9pOqR0AcKO9T2uSNK5F'
+  intel: https://www.ingress.com/intel?ll=40.093103,-88.2382673333&z=14&pls=40.093084,-88.238588,40.092164,-88.239356
+  lat1: 40.093084
+  lat2: 40.092164
+  level1: 6
+  level2: 6
+  lon1: -88.238588
+  lon2: -88.239356
+  mus: 5
+  name1:  'Beautiful Storm'
+  name2:  'Jill M. Zimmerman Memorial'
+  resos1: 8
+  resos2: 8
+- img1:  'http://lh3.ggpht.com/y0AorXifGZDC_iY8fEpHU0L9ehL0jyxjOAWWnkYyba2FpprGdmigPcoayrthLbakZQQlURVaeJHoNB98IIve'
+  img2:  'http://lh4.ggpht.com/MwwvfldFODGbgQvly97peMlV1Ggftr7Cz_qnZi6Xts08-O6InkPyV8c78QXZkgd-opgO2p1ER6wONxA3Zfs'
+  intel: https://www.ingress.com/intel?ll=40.0932123333,-88.2382663333&z=14&pls=40.094061,-88.236858,40.092492,-88.239353
+  lat1: 40.094061
+  lat2: 40.092492
+  level1: 6
+  level2: 5
+  lon1: -88.236858
+  lon2: -88.239353
+  mus: 5
+  name1:  'Illinois Conference Center'
+  name2:  'U.S. Representative Memorial'
   resos1: 8
   resos2: 8
 - img1:  'http://lh5.ggpht.com/sNSUXW7rqg-Qb6dc2gyeAXcXM3VjBpmyYlgK8btL73fYOjsS67hh6b6LfmCRE6_ItufIvb_4YKG10bc3E1am'
@@ -1846,20 +1902,6 @@
   name2:  'Red Lines Sculpture'
   resos1: 8
   resos2: 8
-- img1:  'http://lh5.ggpht.com/MQR_ZzKDnOCzhArYVQvSq3fm-6zcOGn3bneYKT9cpAuejbSEQDZBYeUPwN8D3OBLklSTSl0TJASS2zUJjUUd'
-  img2:  'http://lh4.ggpht.com/tUffE8jkuim3SFRvjGlJxXgz7zLJ2vpExUKHLio7wrPcG84FR1m7x040AxYyZ70xUQ_xrwf2YsWxBQvSbXs-'
-  intel: https://www.ingress.com/intel?ll=40.1062763333,-88.1877256667&z=14&pls=40.105522,-88.188493,40.10745,-88.186206
-  lat1: 40.105522
-  lat2: 40.10745
-  level1: 7
-  level2: 3
-  lon1: -88.188493
-  lon2: -88.186206
-  mus: 3
-  name1:  'Lierman Neighborhood Community Garden'
-  name2:  'Urbana Park District Brookens Gymnasium'
-  resos1: 8
-  resos2: 4
 - img1:  'http://lh6.ggpht.com/zSbgo0zVYHduMO26j2_YLYWT92funDube1OixQ9CQ2BF3di9x1L5V1hD3K1WDnOedNb8D6I1lvfkDaZwky0uLQ'
   img2:  'http://lh3.ggpht.com/PT4NTR04lFCXxqN8xnrhEQppaXrkIbW4n-WkUVikx4zfcqksHUun6eOqFNMG6c0UA_X97iSLI4EJTN5aHkf-aE-PnsYLjAgXkSjZEtL8BvQtGyg'
   intel: https://www.ingress.com/intel?ll=40.1128756667,-88.1945003333&z=14&pls=40.113023,-88.193947,40.112752,-88.196586
@@ -1876,7 +1918,7 @@
   resos2: 8
 - img1: http://i.imgur.com/LujBo5P.png
   img2: http://i.imgur.com/LujBo5P.png
-  intel: https://www.ingress.com/intel?ll=40.1964156667,-88.407998&z=14&pls=40.194685,-88.402516,40.194971,-88.403465
+  intel: https://www.ingress.com/intel?ll=40.1945966667,-88.4027713333&z=14&pls=40.194685,-88.402516,40.194971,-88.403465
   lat1: 40.194685
   lat2: 40.194971
   level1: '?'
@@ -2140,20 +2182,6 @@
   name2:  'Loving Memory of All Our Babies'
   resos1: 8
   resos2: 8
-- img1:  'http://lh3.ggpht.com/_CmMOfi2PqTv1S_kKyTIXg3gslk5AbH-pFLizpe8WbXoFdbGuJr3TPxjhKMQ-S_aFIIqHqtyZcTahtz_9DVe'
-  img2:  'http://lh5.ggpht.com/cbC64dZ70dUj_Qf33Kt_3v8xilTO4LeRhOu3ItQWXHGklw4xpbodzA6C5qxg5eqI9Vr5jhJfAT1U1DDAiSNHVw'
-  intel: https://www.ingress.com/intel?ll=40.1087116667,-88.1844653333&z=14&pls=40.105857,-88.188478,40.112828,-88.178712
-  lat1: 40.105857
-  lat2: 40.112828
-  level1: 7
-  level2: 7
-  lon1: -88.188478
-  lon2: -88.178712
-  mus: 2
-  name1:  'Brookens Administrative Center'
-  name2:  'Weaver Park'
-  resos1: 8
-  resos2: 8
 - img1:  'http://lh4.ggpht.com/fYq8Qzd7VmDjN_GIWRjblwSGoKKIaUFJTgmMNsJrfWO6c5cZu8xnJc4kDm35ITLO2ePeYakXEDKubdwi0x1K'
   img2:  'http://lh3.ggpht.com/MhImfPRi7WC74Qg-w4TCrNnC1hTih4TLCipNyUswQRp6HDkM5XS2cJqL0vrBH5sb7VdgzafkvLVAVEk3R-W6'
   intel: https://www.ingress.com/intel?ll=40.105162,-88.2271956667&z=14&pls=40.105179,-88.226931,40.105511,-88.227195
@@ -2180,20 +2208,6 @@
   mus: 2
   name1:  'Jesus Statue'
   name2:  'St. Mary''s Catholic Church'
-  resos1: 8
-  resos2: 8
-- img1:  'http://lh6.ggpht.com/a7U3RDd7velreml5bufqdV_G7UTGp85wW8w5LWXCJNvNYvu-iW5nUdDbsA6y0gODhhOWdwxltnQQgvTSRFA'
-  img2:  'http://lh5.ggpht.com/EpOdyD3ivApVXUFAhA6wDVRmmpaeWrwcwStpOXXX5_VPnE3irbGjbLNZOqQnIf8xs9pOqR0AcKO9T2uSNK5F'
-  intel: https://www.ingress.com/intel?ll=40.09258,-88.239099&z=14&pls=40.093084,-88.238588,40.092164,-88.239356
-  lat1: 40.093084
-  lat2: 40.092164
-  level1: 6
-  level2: 6
-  lon1: -88.238588
-  lon2: -88.239356
-  mus: 2
-  name1:  'Beautiful Storm'
-  name2:  'Jill M. Zimmerman Memorial'
   resos1: 8
   resos2: 8
 - img1:  'http://lh6.ggpht.com/T15jgBwdGgKfY5ZEkmL6_eEeGWALRclzodBAIpqOXMAO4sP9g1Mt8CwDQCh5tDr_sZan-95c8YRI6F-W63_-'
@@ -2266,6 +2280,20 @@
   name2:  'Classics Library'
   resos1: 8
   resos2: 8
+- img1:  'http://lh3.ggpht.com/gDP5JIyK5XQVuxzTukPDz7JRInXgVqjLvl1SZ1_m_ydC4VzlKAFaG92Jj7kHZGJrhTaK2-bslJBu3rBIoXOX'
+  img2:  'http://lh6.ggpht.com/XqG3n3J3bCj61mM2c6ByPJaWYXv51nQkx7me8714asRsez8kx_rSW4mwH2Rm8Y6Yibx71YB6kMcbAYpGch4'
+  intel: https://www.ingress.com/intel?ll=40.0794843333,-88.2090473333&z=14&pls=40.079519,-88.208849,40.079324,-88.209124
+  lat1: 40.079519
+  lat2: 40.079324
+  level1: 6
+  level2: 7
+  lon1: -88.208849
+  lon2: -88.209124
+  mus: 1
+  name1:  'Pascaline Lutete Plaque'
+  name2:  'Timpone Family Ornamental Tree Grove'
+  resos1: 8
+  resos2: 8
 - img1:  'http://lh5.ggpht.com/ZfmaOk3UM4PNzP-z0AvBPFqYLc6wAEDSPhL1cSVjXMAFSv4Jadm-hV--eP3OaJuaksphYKN5s6bhWhluTGs'
   img2:  'http://lh3.googleusercontent.com/abyzHmsDcu4wr2nZ5KrzfryQDjq08lgz16ggCtHboK-pAhp8lhjyJoStUFTg-XDe4SPzYjAxvNLQuix4tsgc'
   intel: https://www.ingress.com/intel?ll=40.1327173333,-88.280045&z=14&pls=40.133327,-88.280335,40.132193,-88.279832
@@ -2280,6 +2308,20 @@
   name2:  'Tribute to Olympic Athletes'
   resos1: 8
   resos2: 5
+- img1:  'http://lh5.ggpht.com/tVkUyAJPzoQiIilJCSPpwPCqNYSC70DZydpa07fwbCQM-10lVGa41u-oM_7ZXsORl1gYlycrI78KlMpubKMg'
+  img2:  'http://lh3.ggpht.com/gDP5JIyK5XQVuxzTukPDz7JRInXgVqjLvl1SZ1_m_ydC4VzlKAFaG92Jj7kHZGJrhTaK2-bslJBu3rBIoXOX'
+  intel: https://www.ingress.com/intel?ll=40.0796066667,-88.2089276667&z=14&pls=40.079691,-88.208765,40.079519,-88.208849
+  lat1: 40.079691
+  lat2: 40.079519
+  level1: 7
+  level2: 6
+  lon1: -88.208765
+  lon2: -88.208849
+  mus: 1
+  name1:  'Bruno Schielzeth Memorial'
+  name2:  'Pascaline Lutete Plaque'
+  resos1: 8
+  resos2: 8
 - img1:  'http://lh4.ggpht.com/DJiaqGgwCaKSjYczELIcjQOeBtoEqd--7TZYBJWO9_Nd16vjKwlco9tKatJTdAKT1CPoO7Cj39_rZvp8p0Ch'
   img2:  'http://lh5.ggpht.com/yK94cjys6dDm62pDsBwEKJP8ioxZEFbb2oelmT5ZMmaNZPkqAXW00NHP3_7fvtyG796u2ZhKGfbY7To9Sdtz'
   intel: https://www.ingress.com/intel?ll=40.087675,-88.2482563333&z=14&pls=40.087241,-88.248222,40.088063,-88.248271
