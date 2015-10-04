@@ -33,19 +33,19 @@
   lon: -88.389902
   mus: 1329
   name:  'Wesley Meadow United Methodist'
-- fields: 5
+- fields: 6
   img:  'http://lh6.ggpht.com/Agsmc3Gk_eTwRNySVZQyywiFe_wThkiMUicoZWD7q3aYhatN9GcapD1yOBV-aZB1yl0dqc9tfci1w-2Be67AMw'
   lat: 40.192548
   level: 6
   lon: -88.40232
-  mus: 909
+  mus: 1039
   name:  'First Baptist Church'
-- fields: 1+
+- fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.178925
   level: '?'
   lon: -88.408076
-  mus: 795
+  mus: 949
   name:  'Community Free Church'
 - fields: 15+
   img: http://i.imgur.com/LujBo5P.png
@@ -75,6 +75,13 @@
   lon: -88.265411
   mus: 477
   name:  'Karen A. Sayers Memorial'
+- fields: 3+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.198992
+  level: '?'
+  lon: -88.421294
+  mus: 416
+  name:  'Bridle Leash Park'
 - fields: 2
   img:  'http://lh5.ggpht.com/ncfefTWsVvZWHVozJVxFU0p2EzGdz74tJxMRB96Xaqo9wYsBbi01bALm5uOAn14GkFMSo3o_d1TAcvcUa2JYRg'
   lat: 40.193851
@@ -89,6 +96,13 @@
   lon: -88.395508
   mus: 331
   name:  'Mahomet Village Tower'
+- fields: 3+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.195976
+  level: '?'
+  lon: -88.417405
+  mus: 315
+  name:  '8bcf8353686248de9a7b2f537a01429b.16'
 - fields: 4
   img:  'http://lh6.ggpht.com/cspFto0a9XfDVdl-Fqidc8Tfmq6jiYzEy-EH3_4t9noc0VwvurrqO2f0LBQ7OnHhVmZ4xvw0gRZBYmgSTFKK'
   lat: 40.08388
@@ -124,6 +138,13 @@
   lon: -88.402333
   mus: 164
   name:  'Mahomet Armed Forces Memorial'
+- fields: 8
+  img:  'http://lh4.ggpht.com/vLN74xdc8Mdgab4UjP1QUbyX42bkPBXnIqzYzkmRDi4naHiBk2kM1wUA7Mx3Pxl1dpPoMBAg9pV956MqTDk'
+  lat: 40.068391
+  level: 7
+  lon: -88.242282
+  mus: 145
+  name:  'Dohme Park Flags & Mural'
 - fields: 1
   img:  'http://lh6.ggpht.com/ZpJuVeWuDsVo9oPzh9mGzFjeTz2FQluKlriJijNL29HFEEWmMBqok5fCxVis8MpHqJYCBQUhRLNU9yuE7luP'
   lat: 40.129233
@@ -131,13 +152,13 @@
   lon: -88.238696
   mus: 142
   name:  'Bristol Park'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.198992
-  level: '?'
-  lon: -88.421294
-  mus: 132
-  name:  'Bridle Leash Park'
+- fields: 3
+  img:  'http://lh6.ggpht.com/3dciax4v-S3OKvaO4a0G1H6yuvp2pnzFQjCsu-OOQlDP45Xh_c19QLwzEh4YixwMVCCk9396VC26HkZpcaDX'
+  lat: 40.069362
+  level: 7
+  lon: -88.252978
+  mus: 141
+  name:  'Skateland'
 - fields: 1
   img:  'http://lh3.ggpht.com/1FtcyHMJRhFifRLb3-BiKpl51XTW56r_DM5chcCXA0F1nwRDjcqv1FFQZoj42pyMoGxHo0Wq98ovWw-FBjDjFA'
   lat: 40.086561
@@ -145,6 +166,13 @@
   lon: -88.289447
   mus: 124
   name:  'Meadow Square Park'
+- fields: 1
+  img:  'http://lh3.googleusercontent.com/NfuReRkyOBC6TpPTQQuLpJGD0EXaLbvSJP45Seaf0Vqc8oZ93XZFHQiMEcbBC8vAZxWX_WA3_WBC2zxcvIs'
+  lat: 40.065881
+  level: 5
+  lon: -88.243624
+  mus: 114
+  name:  'Lake Park Prairie Restoration'
 - fields: 6
   img:  'http://lh6.ggpht.com/t9_eydZD2uZIBwEmrNcPR2FWXjyVKK06CTbNoZQ682AuvHAsWKBewlbzTqH7yqOjuPMBBkqOGwETeqt6hoU'
   lat: 40.194618
@@ -162,7 +190,7 @@
 - fields: 3
   img:  'http://lh3.ggpht.com/nGhmCwJD6bTZSD4fk-6vnaRZfPq8CI7zLMEDuUZFl7no1ZUFie42aJKdxr5r-212vPk5feGwGFfkMrb_IBc'
   lat: 40.195177
-  level: 5
+  level: 6
   lon: -88.401915
   mus: 71
   name:  'Fire Fighters Pavilion'
@@ -243,20 +271,6 @@
   lon: -88.205103
   mus: 32
   name:  'J C Blair Monument '
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.195976
-  level: '?'
-  lon: -88.417405
-  mus: 31
-  name:  '8bcf8353686248de9a7b2f537a01429b.16'
-- fields: 7
-  img:  'http://lh4.ggpht.com/vLN74xdc8Mdgab4UjP1QUbyX42bkPBXnIqzYzkmRDi4naHiBk2kM1wUA7Mx3Pxl1dpPoMBAg9pV956MqTDk'
-  lat: 40.068391
-  level: 7
-  lon: -88.242282
-  mus: 31
-  name:  'Dohme Park Flags & Mural'
 - fields: 2
   img:  'http://lh5.ggpht.com/PnX0W4nb5AYgeh3aSV1f6L1M6SXT5EDNNj-HZLlIrqeFoeMlVOlqnsY-fMyXYgvKn-Ac3RDPKf_iJCtYRmek'
   lat: 40.194805
@@ -271,13 +285,6 @@
   lon: -88.403465
   mus: 29
   name:  '9ac55f1a3bf140e5abc27bbc95fb2036.16'
-- fields: 2
-  img:  'http://lh6.ggpht.com/3dciax4v-S3OKvaO4a0G1H6yuvp2pnzFQjCsu-OOQlDP45Xh_c19QLwzEh4YixwMVCCk9396VC26HkZpcaDX'
-  lat: 40.069362
-  level: 7
-  lon: -88.252978
-  mus: 27
-  name:  'Skateland'
 - fields: 3
   img:  'http://lh6.ggpht.com/D4r1KWBUGF8ZJDUXBHVcNVeP66FVliNQrEX0n-jZkYyFnWUfZ_vfBIAt4padKNgvgmextrkL2-kxkv6JbS3u'
   lat: 40.110394
