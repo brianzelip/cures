@@ -828,12 +828,6 @@
   name:  'b0ebd5f3199e46619113efa5121d0c54.16'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.989044
-  level: '?'
-  lon: -85.168193
-  name:  '3684a288b3b14d1aac090bb07adf6ba9.16'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.015555
   level: '?'
   lon: -85.144321
@@ -850,6 +844,12 @@
   level: '?'
   lon: -85.137264
   name:  '45c0a162ca5a4719afd2ee1689d21db1.16'
+- ap: 4411
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.989044
+  level: '?'
+  lon: -85.168193
+  name:  '3684a288b3b14d1aac090bb07adf6ba9.16'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.988911
@@ -1200,16 +1200,10 @@
   name:  '2cab3a1bb1a44fb09ffebed4bd317735.12'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.239676
+  lat: 41.199738
   level: '?'
-  lon: -88.193146
-  name:  '42da6a7ae25d42f390b03841be456f43.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.238246
-  level: '?'
-  lon: -88.184357
-  name:  '71b31cd41b8f40f29ac8263cf2bfbd87.16'
+  lon: -90.748914
+  name:  '1d453f35b931424f86de68771071a9e3.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.016999
@@ -1224,10 +1218,16 @@
   name:  '4df4ad7dfd924d4a8746ba8e2dbd15fe.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.199738
+  lat: 40.239676
   level: '?'
-  lon: -90.748914
-  name:  '1d453f35b931424f86de68771071a9e3.16'
+  lon: -88.193146
+  name:  '42da6a7ae25d42f390b03841be456f43.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.238246
+  level: '?'
+  lon: -88.184357
+  name:  '71b31cd41b8f40f29ac8263cf2bfbd87.16'
 - ap: 3474
   img:  'http://lh6.ggpht.com/v2m1E6vVK4ZRaRPhGli7jCsG7xZQZ7I3vV_5AogdEpPU_A1vz9WEkH0vZ-vau2IAdmydYJcXrOA6SMr7vUfT'
   lat: 40.128726
@@ -1618,6 +1618,12 @@
   level: 3
   lon: -88.246191
   name:  'Clark Bar'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/9dqmZPc9OI1ON-iEnfXAxSAMX2M07pEgKUsb47vLrTrW2BW61siFLquk1fXbldWXGPg69XGdSG4wKPGS5rI'
+  lat: 40.113521
+  level: 7
+  lon: -88.244122
+  name:  'Artistic Graffiti at MCS'
 - ap: 2462
   img:  'http://lh5.ggpht.com/c-upLAoA6V12_Enn5doC2Hqtp3W9dLMIb34VHt0aVni2lW2OF5Lddn2c-1XcxmmaN7um9eyxqOF5c3c0hs4'
   lat: 40.118139
@@ -1630,12 +1636,6 @@
   level: 1
   lon: -88.247413
   name:  'West Side Park'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/9dqmZPc9OI1ON-iEnfXAxSAMX2M07pEgKUsb47vLrTrW2BW61siFLquk1fXbldWXGPg69XGdSG4wKPGS5rI'
-  lat: 40.113521
-  level: 7
-  lon: -88.244122
-  name:  'Artistic Graffiti at MCS'
 - ap: 2537
   img:  'http://lh4.ggpht.com/9jXAzAxn0JZrLkU9VK9p-mNzjw3x_6QqwMAn4CAEBAHp_lo2iDZeV_y-hoUzP5CYwm8kOMyrTToZQOWJBRnw'
   lat: 40.115095
