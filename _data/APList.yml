@@ -616,10 +616,10 @@
   level: 4
   lon: -88.243745
   name:  'Circle of Friends'
-- ap: 4336
+- ap: 4411
   img:  'http://lh6.ggpht.com/YEHyAsx3ysK3IxTTbSx5dLEcHRtRVKQ4XTvE0Kvkd3iIW3mA6lplwojkVOpWCemyQS6G3JESxZnMFQtVf7V3'
   lat: 40.11652
-  level: 5
+  level: 6
   lon: -88.241845
   name:  'Mike ''N Molly''s'
 - ap: 4411
@@ -869,17 +869,17 @@
   lon: -88.230676
   name:  'Sousa Archives Center-Amer Music'
 - ap: 3661
-  img:  'http://lh4.ggpht.com/g5bf6n8J6ugyF8pztcWZWnGyNmzIDQhskzXCDf2dJbuiqbub_xApqggrQrqn6WCy2yYmLnGrcmuQkqeQKx2IwA'
-  lat: 40.126769
-  level: 5
-  lon: -88.215041
-  name:  'Busey Woods Swampland Overlook'
-- ap: 3661
   img:  'http://lh4.ggpht.com/JVNlRlxb-5k_pDpi5lUduOZu2NO-CKdaVaa4Jj_IHDLIxC31OEc6zpyO8qklRI58_wB2fH1m8LUHOJW_GME'
   lat: 40.125389
   level: 5
   lon: -88.209627
   name:  'Crystal Lake Tree House Club'
+- ap: 3661
+  img:  'http://lh4.ggpht.com/g5bf6n8J6ugyF8pztcWZWnGyNmzIDQhskzXCDf2dJbuiqbub_xApqggrQrqn6WCy2yYmLnGrcmuQkqeQKx2IwA'
+  lat: 40.126769
+  level: 5
+  lon: -88.215041
+  name:  'Busey Woods Swampland Overlook'
 - ap: 3661
   img:  'http://lh3.ggpht.com/0fx36DDt01FPFW1y8WziZsKZ7WiQgWY2-ljRI_JXbbYO5cJaWXQrFZE7cZQwDvO_ElFVawkL_CguQ9fjsy4'
   lat: 40.1122
@@ -965,17 +965,17 @@
   lon: -88.243697
   name:  'Champaign Surplus'
 - ap: 3474
-  img:  'http://lh4.ggpht.com/3gTAX6rKgNjLmBOYvAVTgSPQej5yRF_38uRllp9H4n5N6pvwWo5kDMDwlIkFVPPl30BXPSGAlZ9pO9B4DMk'
-  lat: 40.116218
-  level: 6
-  lon: -88.242141
-  name:  'Live Action Games'
-- ap: 3474
   img:  'http://lh4.ggpht.com/9dqmZPc9OI1ON-iEnfXAxSAMX2M07pEgKUsb47vLrTrW2BW61siFLquk1fXbldWXGPg69XGdSG4wKPGS5rI'
   lat: 40.113521
   level: 7
   lon: -88.244122
   name:  'Artistic Graffiti at MCS'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/3gTAX6rKgNjLmBOYvAVTgSPQej5yRF_38uRllp9H4n5N6pvwWo5kDMDwlIkFVPPl30BXPSGAlZ9pO9B4DMk'
+  lat: 40.116218
+  level: 6
+  lon: -88.242141
+  name:  'Live Action Games'
 - ap: 3474
   img:  'http://lh4.ggpht.com/aXG2XQNJXyPDBz0o8tyfv07VIfskZuFMOWW2ylZpZKkWMnFjoiBmBiWg2VedsjdIorpfX5mtUGnwVLFb7Ga6'
   lat: 40.091438
@@ -1391,12 +1391,6 @@
   lon: -88.242871
   name:  'Orpheum Children''s Science Museum'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/WDQ55kRMYCIrw9Pm69IuV6cBTI2nx7Z1gU9yxX2oE2oH9EdPnO1ltxSROAjUmHmBu84SEtHmLKregkDqlLYzUg'
-  lat: 40.117126
-  level: 6
-  lon: -88.240623
-  name:  'Depot Barber Shop'
-- ap: 2537
   img:  'http://lh6.ggpht.com/uyv64Hvc1y5cxlCwT2wsWkD3sPpcam6VXjBGrZ5qOpqIyyynSqXKCeBXqdW39vyyoAaOpvm-gIHYaE_bit8'
   lat: 40.120632
   level: 1
@@ -1432,6 +1426,12 @@
   level: '?'
   lon: -88.168778
   name:  'Stone Creek Fountain 2'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/WDQ55kRMYCIrw9Pm69IuV6cBTI2nx7Z1gU9yxX2oE2oH9EdPnO1ltxSROAjUmHmBu84SEtHmLKregkDqlLYzUg'
+  lat: 40.117126
+  level: 6
+  lon: -88.240623
+  name:  'Depot Barber Shop'
 - ap: 2537
   img:  'http://lh6.ggpht.com/ZQaguxPyiC-6DeFDFa2niVKJz3ySxwxYaFCv8PRdNuoMYUfP-Xtirg-8pXCTdBCyH1BruprOVmqf3D1kdp7o'
   lat: 40.115225
@@ -1696,3 +1696,15 @@
   level: '?'
   lon: -88.389366
   name:  '159066e5659c44fd94310d4c0b9d986c.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.195404
+  level: '?'
+  lon: -88.40408
+  name:  '35d2540a6dab4d509460962b545bd2bf.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.195251
+  level: '?'
+  lon: -88.403825
+  name:  'be5ca27857734636a834fcaec3fb76db.16'
