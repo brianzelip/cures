@@ -1,10 +1,17 @@
-- fields: 9
-  img:  'http://lh3.googleusercontent.com/ehDcIFPGimXzEpSpqydgEInzS_LCx7xdxdANoVH3o2WnEnCyvgjWqV1F-DbvHnpuMsAkbUqetYiu0sPiWwE'
-  lat: 40.12025
+- fields: 6
+  img:  'http://lh5.ggpht.com/qcPrCawV71BDvDKZgWvM7Mpyo0O3jE5Yu_3XjoulzyX8BWngzTHYScWApCGgWNCdP9JHc3BOauJEB_L0-YI'
+  lat: 40.085444
   level: 6
-  lon: -88.268125
-  mus: 1325
-  name:  'Gazebo At Washington Retention Park'
+  lon: -88.329043
+  mus: 1510
+  name:  'Environmental Plaque - Stream'
+- fields: 2
+  img:  'http://lh4.ggpht.com/Oy0NzvODUpd5270gnNUQqxf4w1YUNzMwDdncW6PvKUb3y_ptImObTW3rbbHp_OYEUKTR37L61q3yuYr1GRSV'
+  lat: 40.090259
+  level: 8
+  lon: -88.295024
+  mus: 1316
+  name:  'Robeson Park'
 - fields: 3+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.196436
@@ -26,6 +33,13 @@
   lon: -88.401509
   mus: 1075
   name:  'Mahomet Area Community Center'
+- fields: 2
+  img:  'http://lh3.ggpht.com/NN6RkPjzu0pZ6JauW9eKN-KWuNlwHaRQ0_uMQvlrQTjZZ87KcW1-QHyqEy7ECKLDIzzsRcmsrDfbmDALT5e6'
+  lat: 40.083988
+  level: 5
+  lon: -88.287936
+  mus: 1044
+  name:  'Flower Island'
 - fields: 3
   img:  'http://lh6.ggpht.com/lcnaor8q6SYRZYMm-tUZtz1sXP81Bdwoa9Pf8LC0Vfggxa8JP98UTcgToQqXfmu99JegLd6L3Pb3aG6XjSQH'
   lat: 40.106714
@@ -40,20 +54,6 @@
   lon: -88.268495
   mus: 922
   name:  'Eisner Park'
-- fields: 4
-  img:  'http://lh4.ggpht.com/XKVHQA5428-TLAwxsbTM7h-fg1ZVaoOYXR-p6_g9VpqHRXtq7EcVjmHVhIJBF7vxFz9MCkKRVwSGsqnMuZtb'
-  lat: 40.117759
-  level: 7
-  lon: -88.285834
-  mus: 912
-  name:  'Illinois Earth Team Plaque'
-- fields: 2
-  img:  'http://lh3.ggpht.com/BTOxkIG5jV6VaSJtyt1Kge-WlIsvddZuz7YzzqkQhAMWxgfE71ab2wqWdKY20M9-6zbGlVq43XMJ2CrZDqU'
-  lat: 40.127246
-  level: 7
-  lon: -88.276738
-  mus: 811
-  name:  'Kraft Giant Macaroni'
 - fields: 4
   img:  'http://lh4.ggpht.com/BDVsIEWOaH0zZsTgU8IbvmVNJTrl3EljfhNXeVt4C2BILNtXm5hpAq_6mLrTl66aJcUyYv4hFJKhxedLkKo'
   lat: 40.11679
@@ -76,6 +76,13 @@
   mus: 542
   name:  'The Silver Bullet'
 - fields: 7
+  img:  'http://lh3.googleusercontent.com/ehDcIFPGimXzEpSpqydgEInzS_LCx7xdxdANoVH3o2WnEnCyvgjWqV1F-DbvHnpuMsAkbUqetYiu0sPiWwE'
+  lat: 40.12025
+  level: 6
+  lon: -88.268125
+  mus: 515
+  name:  'Gazebo At Washington Retention Park'
+- fields: 7
   img:  'http://lh3.ggpht.com/yQ9HtiIe7ywa9U_kppXZTr0IMkQknRGoEvP0rzx7MH9z4dfWLrPhk_LChaKkVmkqQz-Ookk0fuka27YY39nr'
   lat: 40.109336
   level: 7
@@ -89,13 +96,6 @@
   lon: -88.282707
   mus: 407
   name:  'Champaign Cycle'
-- fields: 2
-  img:  'http://lh6.ggpht.com/9ocSZtxwhI0ZOXkGFEbDOH1572LrymOwYpROz-hP90Uk4BAS8FIjCB4GXt2ndpQrlEV-tG4qc0zoMlk9693z'
-  lat: 40.12977
-  level: 5
-  lon: -88.271927
-  mus: 361
-  name:  'Citizens Park'
 - fields: 7
   img:  'http://lh5.ggpht.com/_CP_-V0UvlMpMCqxcu9H9suYfz6p6k40F5AIKnuJ3QbMbi14OTTsoYC38b4Z2dg8FjHGQZJI7Vj7ClyH_eQ7'
   lat: 40.108108
@@ -103,6 +103,20 @@
   lon: -88.219576
   mus: 360
   name:  'Lincoln Sitting on Bench '
+- fields: 3
+  img:  'http://lh4.ggpht.com/XKVHQA5428-TLAwxsbTM7h-fg1ZVaoOYXR-p6_g9VpqHRXtq7EcVjmHVhIJBF7vxFz9MCkKRVwSGsqnMuZtb'
+  lat: 40.117759
+  level: 7
+  lon: -88.285834
+  mus: 325
+  name:  'Illinois Earth Team Plaque'
+- fields: 1
+  img:  'http://lh6.ggpht.com/Z9OoAT12enRNYI3CgnpFhdqCbDwZCyEyHUKPcE1Zexv5STafk6tkRrQyJoPhd8L0LiEV0nW4XyE5BoDFlfE'
+  lat: 40.092568
+  level: 6
+  lon: -88.295013
+  mus: 317
+  name:  'Meadowbrook Community Church'
 - fields: 4
   img:  'http://lh4.ggpht.com/53avgB1jGEftJ9eyV5l3nee16yHgYDAXkZoonzyXO3mwPLijOgz1uOtcxfKdCaRzaBqW-BQ4ft-Od3uZnja8'
   lat: 40.118436
@@ -117,13 +131,6 @@
   lon: -88.375899
   mus: 196
   name:  'Mahomet Public Library'
-- fields: 4
-  img:  'http://lh5.ggpht.com/qcPrCawV71BDvDKZgWvM7Mpyo0O3jE5Yu_3XjoulzyX8BWngzTHYScWApCGgWNCdP9JHc3BOauJEB_L0-YI'
-  lat: 40.085444
-  level: 6
-  lon: -88.329043
-  mus: 194
-  name:  'Environmental Plaque - Stream'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.185093
@@ -222,6 +229,13 @@
   lon: -88.331095
   mus: 138
   name:  'Butterfly Bridge'
+- fields: 1
+  img:  'http://lh6.ggpht.com/9ocSZtxwhI0ZOXkGFEbDOH1572LrymOwYpROz-hP90Uk4BAS8FIjCB4GXt2ndpQrlEV-tG4qc0zoMlk9693z'
+  lat: 40.12977
+  level: 5
+  lon: -88.271927
+  mus: 138
+  name:  'Citizens Park'
 - fields: 7
   img:  'http://lh6.ggpht.com/tTU-Y5FRAb4F92hceoxPTuE4REQk2A9674rjMKsbcjBvAo4QT0vO_hstMwuRjymG8xwGglkae1Jcxli35886tHdHOqWzAvkKEzTz5eIiZIZV76hTZQ'
   lat: 40.108646
@@ -460,13 +474,6 @@
   lon: -88.209
   mus: 45
   name:  'Church of Christ '
-- fields: 1
-  img:  'http://lh3.ggpht.com/NN6RkPjzu0pZ6JauW9eKN-KWuNlwHaRQ0_uMQvlrQTjZZ87KcW1-QHyqEy7ECKLDIzzsRcmsrDfbmDALT5e6'
-  lat: 40.083988
-  level: 5
-  lon: -88.287936
-  mus: 45
-  name:  'Flower Island'
 - fields: 2
   img:  'http://lh3.ggpht.com/txXhB2-_UCJMArJ1qjOILOTPjtbhyo6om4p4YXyjlOzzr2enJIG2FUjsjF1HqF3ydLX8gPkmxC6cdia0zaBh'
   lat: 40.110333
