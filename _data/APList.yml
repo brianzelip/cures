@@ -179,12 +179,6 @@
   lon: -88.250539
   name:  'Hessel Park'
 - ap: 7972
-  img:  'http://lh3.ggpht.com/J_h4tdb4wqy8bmmQfDuy5yqTR2IlkzKojfvsMOvlD-3tf1pKxbDlhA6W9Q8RX-JaSxhItMr4bmCxiUQXTLbz'
-  lat: 40.10064
-  level: 8
-  lon: -88.24958
-  name:  'Edward A. Cousins Plaque'
-- ap: 7972
   img:  'http://lh3.ggpht.com/sisvfsphxy7AK_2qrrqb7lNJk3_7ciHSVJyodINYITBc-UqugyNOooCxKupgJKEg5m_x95eZwouSO2WCmN60ew'
   lat: 40.098579
   level: 8
@@ -196,6 +190,12 @@
   level: 8
   lon: -88.249385
   name:  'Travis Marmion Memorial'
+- ap: 7972
+  img:  'http://lh3.ggpht.com/J_h4tdb4wqy8bmmQfDuy5yqTR2IlkzKojfvsMOvlD-3tf1pKxbDlhA6W9Q8RX-JaSxhItMr4bmCxiUQXTLbz'
+  lat: 40.10064
+  level: 8
+  lon: -88.24958
+  name:  'Edward A. Cousins Plaque'
 - ap: 7970
   img:  'http://lh6.ggpht.com/yYW6Egg1lWn6UqqLzlgqwCQhtbuxiZSW4TmvI1XBPs33OTTJ0oh51XZXOIILxGI2juoO-E_YfG5UHmeb34rSOw'
   lat: 40.109165
@@ -334,12 +334,6 @@
   level: 5
   lon: -88.29022
   name:  'Dr. Ray Braun Memorial'
-- ap: 6846
-  img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
-  lat: 40.102188
-  level: 6
-  lon: -88.251507
-  name:  'Little Free Library Charter 5753'
 - ap: 6846
   img:  'http://lh4.ggpht.com/maBwz4G9LJZ5aVuX_WF1Z73xSbqoFsm3l6oyrNQ16LkJMvaEbFa-amdfCpKDVDe7NzjReNu8IGnn7BAI8yef'
   lat: 40.103534
@@ -532,18 +526,18 @@
   level: 6
   lon: -88.28778
   name:  'Campus Solar System - Saturn'
-- ap: 6096
-  img:  'http://lh4.ggpht.com/uAYfykn0e2h2UqP-anbYfkJNa38P0L1WY8FpF-CwRCPklg5wL1xYFkpGOCMt7SJ37qO8PGVE42nYX9Ba_-jG'
-  lat: 40.105025
-  level: 6
-  lon: -88.243919
-  name:  'Mural on Good Fellas'
 - ap: 5909
   img:  'http://lh6.ggpht.com/y9bxecO9Wm4VrE6p2LRWA8XIIUlHlYWbTSZJ6GrJrTpeVtxB7wI7cWjdLkM6gjq_eOk7n-nJOlSJ9WzGjgfG'
   lat: 40.137123
   level: 5
   lon: -88.277784
   name:  'US Post Office'
+- ap: 5909
+  img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
+  lat: 40.102188
+  level: 6
+  lon: -88.251507
+  name:  'Little Free Library Charter 5753'
 - ap: 5909
   img:  'http://lh4.ggpht.com/ZwDzLvPP0KTL_mUj9ta-0DRkbA4q3X7b-r02bm3rTibFkPbu00GKehClddYfSkXbwVuJ4pjt4T7yo7ou54ov'
   lat: 40.111869
@@ -688,6 +682,12 @@
   level: 6
   lon: -88.270158
   name:  'Glory Center International Church'
+- ap: 4972
+  img:  'http://lh4.ggpht.com/uAYfykn0e2h2UqP-anbYfkJNa38P0L1WY8FpF-CwRCPklg5wL1xYFkpGOCMt7SJ37qO8PGVE42nYX9Ba_-jG'
+  lat: 40.105025
+  level: 6
+  lon: -88.243919
+  name:  'Mural on Good Fellas'
 - ap: 4972
   img:  'http://lh4.ggpht.com/u_MtizNv_keIXM4ITgtjqC8nr5JvB8UpDBg_5_08uQDTsQr44mwr6ZlkhTp0iKbvcV9xCJqXDeN66xYWaI0'
   lat: 40.116227
@@ -905,12 +905,6 @@
   lon: -88.394066
   name:  'Champaign Countys Lincoln'
 - ap: 3848
-  img:  'http://lh3.ggpht.com/qWqDj3Ws5ffRyIXG8XxFM41dBDTOBhjCkDgKebjiDFo-5Fyj_ssgLQ_wLM82uWwB2jVkNIYN4nc5U2E3wZoBNQ'
-  lat: 40.111037
-  level: 5
-  lon: -88.245813
-  name:  'Champaign Public Library'
-- ap: 3848
   img:  'http://lh5.ggpht.com/jz0XvZSSYKqKSa4lJDK-rludOns_o36jZ8ZTzfEr42piZamiTjSASTLdII6pkxgjZgnCwKirjhEouS77BPB8Dg'
   lat: 40.094288
   level: 7
@@ -952,12 +946,6 @@
   level: 6
   lon: -88.244611
   name:  'Marketplace Mall Carousel'
-- ap: 3661
-  img:  'http://lh4.ggpht.com/mrFIlt7StuloTop3ci5DRg10i06ivamSn69PgqYPZfkV23dOzf-DhDdDUjeOOzy1ILR9xOOdLX_NBsMOH9FO'
-  lat: 40.124377
-  level: 7
-  lon: -88.25297
-  name:  'Spalding Park'
 - ap: 3661
   img:  'http://lh3.ggpht.com/qkbAVT5J9ZNQHzzLNSiw9MN3XrDX3B8bj-xJzu8jKrFdykdTZdsEIlzOKXKVfJ5dZNrhJmG8VHZNeF5pR1G6'
   lat: 40.119977
@@ -1102,6 +1090,12 @@
   level: 6
   lon: -88.243468
   name:  'Dog Heart'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/mrFIlt7StuloTop3ci5DRg10i06ivamSn69PgqYPZfkV23dOzf-DhDdDUjeOOzy1ILR9xOOdLX_NBsMOH9FO'
+  lat: 40.124377
+  level: 7
+  lon: -88.25297
+  name:  'Spalding Park'
 - ap: 3474
   img:  'http://lh4.ggpht.com/mnyMwxXghZOmxdJw2eJk5U9A5sfO_QLi0eKc2knF3RS3bJhiIa0N7N75KIzjEehKD3ChMFgaOHVRltiOVAw'
   lat: 40.125074
@@ -1319,12 +1313,6 @@
   lon: -88.229008
   name:  'Zion Hill Church'
 - ap: 2724
-  img:  'http://lh6.ggpht.com/SWgJIqzWO4D-WJuie3oK3_c-FlsPgkHT6nTrwvL8tqzOB6T_SSY3Nf11r1AEuKu1dsfgj0v47NqVSSTBP2k'
-  lat: 40.107745
-  level: 2
-  lon: -88.220994
-  name:  'Japanese Dry Garden'
-- ap: 2724
   img:  'http://lh6.ggpht.com/xlmWV_JFnISAH2cEQRszPcaoEou9mnNoHtf1b61XQ1hlV3iUuUpLOcLqkzw92FimYmk3VynvhWrTBxJ5G9nt'
   lat: 40.103577
   level: 3
@@ -1348,12 +1336,6 @@
   level: 4
   lon: -88.208946
   name:  'Busey Friendship Grove'
-- ap: 2724
-  img:  'http://lh6.ggpht.com/tTU-Y5FRAb4F92hceoxPTuE4REQk2A9674rjMKsbcjBvAo4QT0vO_hstMwuRjymG8xwGglkae1Jcxli35886tHdHOqWzAvkKEzTz5eIiZIZV76hTZQ'
-  lat: 40.108646
-  level: 1
-  lon: -88.219838
-  name:  'Hallene Gateway'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.237264
@@ -1457,17 +1439,17 @@
   lon: -88.290166
   name:  'Millage Park'
 - ap: 2537
-  img:  'http://lh3.googleusercontent.com/GDPeCcTdJQAFt7LgbquPo-YOAp7bq5HCFbElMBeXztI4hraTGO-j1GcNOwKaaSRRLcEHG13Gu-VDboEG4a7-'
-  lat: 40.149097
-  level: 7
-  lon: -88.276148
-  name:  'Illinois Heartland Library System'
-- ap: 2537
   img:  'http://lh4.ggpht.com/Ww9lgcscjGtB0ieiqyf2qK2ZzV0y3mZVpoi5ZZdPpArkbOa2B5aNli_k7t86GjD7eAeEFOw8W0oZvfr61S6Kxg'
   lat: 40.139196
   level: 7
   lon: -88.257755
   name:  'Market View Fountain'
+- ap: 2537
+  img:  'http://lh3.googleusercontent.com/GDPeCcTdJQAFt7LgbquPo-YOAp7bq5HCFbElMBeXztI4hraTGO-j1GcNOwKaaSRRLcEHG13Gu-VDboEG4a7-'
+  lat: 40.149097
+  level: 7
+  lon: -88.276148
+  name:  'Illinois Heartland Library System'
 - ap: 2537
   img:  'http://lh4.ggpht.com/vUhKhmK0pteJi8_0n25xIa4EpgpVSS432OxXv1UQBDLjju5SEGcm_2WWl99OUPtDyNLlXirJu--KDbCoYjM'
   lat: 40.08956
@@ -1529,6 +1511,12 @@
   lon: -88.238445
   name:  'Allen a Rivers Memorial Plaque'
 - ap: 2537
+  img:  'http://lh6.ggpht.com/uJ6kk4uQVfzQ22nbmRS5caadkRcM8fSpAlbvgM8KacYRDBYZtQTBKIHX7ju9ejvrdRG_oIr5QDELOwvb7L0'
+  lat: 40.121759
+  level: 6
+  lon: -88.24366
+  name:  'King''s Assembly Church'
+- ap: 2537
   img:  'http://lh6.ggpht.com/NH1CnJnblS1bpZxZJ0VxAHy0tYw7BiYdVK5V9KnTw0N1KMf8OFR6FZP01shVet9ha4cEfSYufO9a1bv8Sqyd'
   lat: 40.12142
   level: 6
@@ -1540,12 +1528,6 @@
   level: 6
   lon: -88.237578
   name:  'Mural at Habitat for Humanity'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/uJ6kk4uQVfzQ22nbmRS5caadkRcM8fSpAlbvgM8KacYRDBYZtQTBKIHX7ju9ejvrdRG_oIr5QDELOwvb7L0'
-  lat: 40.121759
-  level: 6
-  lon: -88.24366
-  name:  'King''s Assembly Church'
 - ap: 2537
   img:  'http://lh4.ggpht.com/3gTAX6rKgNjLmBOYvAVTgSPQej5yRF_38uRllp9H4n5N6pvwWo5kDMDwlIkFVPPl30BXPSGAlZ9pO9B4DMk'
   lat: 40.116218
@@ -1619,12 +1601,6 @@
   lon: -88.237848
   name:  '2nd St. Basin Ampitheater '
 - ap: 2537
-  img:  'http://lh6.ggpht.com/LxVyXEFJmvSZ271mlFfYmCwyb05Kz8cIRxzMt24ZVhRzsH09nxErJw4gKErktjKpCARWfVl4Mla70NoODK2bng'
-  lat: 40.11187
-  level: 2
-  lon: -88.220692
-  name:  'Atmospheric Sciences Building'
-- ap: 2537
   img:  'http://lh5.ggpht.com/dgQfoxxVeHT5ODqLiUYHV45qvkC_BMS0kIFRqvHvE2GO0TduZ0-XzhW8RE80LtPDK0Ay5xwA6PtjM7G3C9U8'
   lat: 40.108947
   level: 5
@@ -1678,12 +1654,6 @@
   level: 4
   lon: -88.210924
   name:  'Busey Woods Trail - A Change of Scenery'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/D4r1KWBUGF8ZJDUXBHVcNVeP66FVliNQrEX0n-jZkYyFnWUfZ_vfBIAt4padKNgvgmextrkL2-kxkv6JbS3u'
-  lat: 40.110394
-  level: 3
-  lon: -88.219509
-  name:  'University Of Illinois'
 - ap: 2537
   img:  'http://lh3.ggpht.com/oPrvFZ3gD0XRjj0phJeY8--GLSiBG-yC_IInA7t6TgEljFJSM3TRuUeNksbZIyvSIenZ0GgHa1ey2OzZWkQ7'
   lat: 40.109466
