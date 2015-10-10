@@ -1,10 +1,3 @@
-- fields: 12
-  img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
-  lat: 40.098239
-  level: 6
-  lon: -88.25376
-  mus: 934
-  name:  'Hessel Park Christian Reformed Church'
 - fields: 4
   img:  'http://lh5.ggpht.com/oCw3ZC6UKF3aiK6dkbz72dhzUsJNhOmfVjVsXJET_YP5e1p53pLTa8Dep24gLqeY9FghWE0kaAB64vvn7nq0'
   lat: 40.105008
@@ -19,6 +12,13 @@
   lon: -88.257764
   mus: 117
   name:  'Faith United Methodist Church'
+- fields: 2
+  img:  'http://lh6.ggpht.com/Jz3ahY5LQ13wKWLY9SEvexiinJa3GeO1eB_FynplikRpa77swLST6cUAJjPpqKDSq2KU4Dcyui-QBstz_Z3k'
+  lat: 40.094624
+  level: 3
+  lon: -88.282953
+  mus: 100
+  name:  'Greenbelt 2'
 - fields: 8
   img:  'http://lh5.ggpht.com/Nn1kM6sYdUcyplObjDuNOxFLN-NHspntEdET54AzrcZuO71RCmdq-UQeroMQ5JNEno_XDutkdBoVuAm7HQM'
   lat: 40.083054
@@ -141,17 +141,10 @@
 - fields: 2
   img:  'http://lh6.ggpht.com/ea6HxAw7m0OhhPqJJkZR9u60pR1sab_JdxaOyEltqmQd-63FFJzPY72jEnu08g9Gcjjj5cf3jyyS_M1E7OIbfg'
   lat: 40.11616
-  level: 6
+  level: 5
   lon: -88.241422
   mus: 16
   name:  'It''s A Mistree'
-- fields: 7
-  img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
-  lat: 40.099737
-  level: 8
-  lon: -88.251157
-  mus: 15
-  name:  'Tyler Van Atkins Memorial'
 - fields: 3
   img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
   lat: 40.106921
@@ -173,34 +166,20 @@
   lon: -88.262811
   mus: 13
   name:  'Russell and Louetta Reed Memorial in Clark Park'
-- fields: 5
-  img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
-  lat: 40.097979
-  level: 8
-  lon: -88.247785
-  mus: 13
-  name:  'Jarling''s Custard Cup'
-- fields: 6
-  img:  'http://lh3.ggpht.com/VLipBehsKPCp8ewQnBV1ZCz7uE75zcY46iGDyFfFHgX1o55t3DONb3wcBcL5RMYSqABRK0TgIW3DluNy8y6WaA'
-  lat: 40.101131
-  level: 8
-  lon: -88.250539
+- fields: 3
+  img:  'http://lh6.ggpht.com/WtqWBwqpYTSw3g9ru5NwcFn5iK5STxWgy2kv4OUTWqwtzx76-9Msz0eqoiw0qpEYE1U4zdt9rzzNZMDNagNg'
+  lat: 40.107943
+  level: 5
+  lon: -88.226751
   mus: 11
-  name:  'Hessel Park'
-- fields: 7
-  img:  'http://lh5.ggpht.com/DFa-Mh8ldMlU5wGTYmJIGYKPoSYUfYebRpnom9j15NFNRkwMdU5kDME0GYQUyA_LXnsNi9Jka-xidd302s93'
-  lat: 40.099056
-  level: 8
-  lon: -88.249136
-  mus: 11
-  name:  '"Cricket" and Bob Barger Memorial'
-- fields: 9
-  img:  'http://lh3.ggpht.com/G1CvGhpethi5UmprDWxZN9rTblHa3anSsQz1UPgJtkREkfN7lDFoxFObst0609Cg5mofuZxJKr0ddNKhY4VL'
-  lat: 40.098464
-  level: 8
-  lon: -88.251426
-  mus: 11
-  name:  'Ruth Haasis Memorial'
+  name:  'Class Of 1917 Plaque'
+- fields: 2
+  img:  'http://lh4.ggpht.com/HEEvU2OlgWiV5huAu3cvNKaI-C8YKYTO3qB8WMTO7EbsjTO84KS6jLjbGCq7THZq6l63UiUKCSEqY2IADYns'
+  lat: 40.091766
+  level: 7
+  lon: -88.250003
+  mus: 10
+  name:  '"The Cranes" at Fox Corporate Center'
 - fields: 2
   img:  'http://lh6.ggpht.com/duOeXcOSQLWosdD0JJXg3pWWQp4t5sL0x9qDHoTIBFNOzEW0t53Lt2cnwgV2E_Su0l1ajIQxPtVbbK_sDRaS'
   lat: 40.141775
@@ -208,13 +187,6 @@
   lon: -88.242671
   mus: 10
   name:  'Marketplace Mall Fountain'
-- fields: 3
-  img:  'http://lh5.ggpht.com/xcqe13f85fuXohGUUBZkNrUU1PunkcZ6xMNmHpAp0GJBtydVqCCGj5MqP3Uax4M7Qq4JzDFGqICFrFb6PNEXRw'
-  lat: 40.08932
-  level: 5
-  lon: -88.251883
-  mus: 9
-  name:  'Boulware Trail'
 - fields: 2
   img:  'http://lh4.ggpht.com/ZEK-DXu7TJqsrt7cbLRjXyr3JbENJCn1FaKxH4Oi6kEvo4K0Yzm5qzMddhRLNlXvokAwQoeG4EKaNkXnJDA'
   lat: 40.114015
@@ -236,13 +208,6 @@
   lon: -88.201439
   mus: 7
   name:  'Meadowbrook Park '
-- fields: 6
-  img:  'http://lh3.ggpht.com/sisvfsphxy7AK_2qrrqb7lNJk3_7ciHSVJyodINYITBc-UqugyNOooCxKupgJKEg5m_x95eZwouSO2WCmN60ew'
-  lat: 40.098579
-  level: 8
-  lon: -88.249603
-  mus: 7
-  name:  'Chef Ra Memorial Plaque'
 - fields: 2
   img:  'http://lh3.googleusercontent.com/__dofGL-oELNLYymrJ5VDONThxrG0oMe5aQcopgTFJgu56wHeV1y-scJDNms_C4LRoqDe-qKwDBNRNkCiJnNUQ'
   lat: 40.127703
@@ -250,20 +215,6 @@
   lon: -88.211526
   mus: 7
   name:  'Busey Woods Trail - Wet to Dry'
-- fields: 2
-  img:  'http://lh6.ggpht.com/WtqWBwqpYTSw3g9ru5NwcFn5iK5STxWgy2kv4OUTWqwtzx76-9Msz0eqoiw0qpEYE1U4zdt9rzzNZMDNagNg'
-  lat: 40.107943
-  level: 5
-  lon: -88.226751
-  mus: 6
-  name:  'Class Of 1917 Plaque'
-- fields: 5
-  img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
-  lat: 40.100822
-  level: 7
-  lon: -88.25193
-  mus: 6
-  name:  'Seeds of Kindness Bench'
 - fields: 1
   img:  'http://lh4.ggpht.com/AC0e3VVFenyh_tf4lpcee6alCTlto3O4cqychnUlTFCiLaMi6RUVh6BAC1-pjf7f7foTLFALejQiRxf1kKtS'
   lat: 40.104417
@@ -271,20 +222,6 @@
   lon: -88.24332
   mus: 6
   name:  'Wayland Smith Estate Garden'
-- fields: 5
-  img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
-  lat: 40.100078
-  level: 8
-  lon: -88.250683
-  mus: 6
-  name:  'Brian Clark Memorial Plaque'
-- fields: 6
-  img:  'http://lh6.ggpht.com/3o0ObAARFV_8mBVCC_QD0iLOPVzNkakXybhLnSVEuXIJfDLKMxeYj-EkWIw9NPoZIVRf5Dkrid2yf_NEQ-iE'
-  lat: 40.100347
-  level: 8
-  lon: -88.249385
-  mus: 6
-  name:  'Travis Marmion Memorial'
 - fields: 3
   img:  'http://lh3.ggpht.com/gDP5JIyK5XQVuxzTukPDz7JRInXgVqjLvl1SZ1_m_ydC4VzlKAFaG92Jj7kHZGJrhTaK2-bslJBu3rBIoXOX'
   lat: 40.079519
@@ -327,13 +264,13 @@
   lon: -88.252282
   mus: 4
   name:  'Elsie Mattis Springer Memorial'
-- fields: 5
-  img:  'http://lh4.ggpht.com/4LxsGZZMk3DnpJXUvqzrL54CHSP5TDXjUnDJyHmCCTtCJIjGEI7kxT9g4uxfSPh0X6yGLgQo1jfqbu7B8VEr'
-  lat: 40.099084
-  level: 8
-  lon: -88.251826
+- fields: 2
+  img:  'http://lh5.ggpht.com/xcqe13f85fuXohGUUBZkNrUU1PunkcZ6xMNmHpAp0GJBtydVqCCGj5MqP3Uax4M7Qq4JzDFGqICFrFb6PNEXRw'
+  lat: 40.08932
+  level: 5
+  lon: -88.251883
   mus: 4
-  name:  'Irina P. Stewart Memorial Plaque'
+  name:  'Boulware Trail'
 - fields: 2
   img:  'http://lh4.ggpht.com/ezHSw_hRdts3U3bzkEEn46LneS1miDpbSGoxg0v1TqG_W82bvfR2uSTZeDFfhG0kmPJAkOblWP_ZilA6TP8'
   lat: 40.112523
@@ -377,20 +314,6 @@
   mus: 3
   name:  'Washington Park'
 - fields: 3
-  img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
-  lat: 40.100521
-  level: 8
-  lon: -88.250864
-  mus: 3
-  name:  'Gabriel Patrick Maxeiner Memorial'
-- fields: 3
-  img:  'http://lh5.ggpht.com/3t7XZHqwxLZ8Lc9YomR8FInm74U2PAA-DBk8kmdxXIrcXbKa1CoBDTlgdDJeO-_yVT3qNKRnNLzbdil1eH41iA'
-  lat: 40.09935
-  level: 8
-  lon: -88.249766
-  mus: 3
-  name:  'Jim Bickel Honorary Plaque'
-- fields: 3
   img:  'http://lh3.ggpht.com/1G0o5RjtXyfAjbI-E2honhhelnuiq4lIkpHmB44e-AwSBuIxVOdLPVYjImbTMS8kyBdZuKuiMQHciUIdAWg'
   lat: 40.118368
   level: 7
@@ -398,26 +321,12 @@
   mus: 2
   name:  'Frank Robeson Memorial'
 - fields: 2
-  img:  'http://lh3.ggpht.com/J_h4tdb4wqy8bmmQfDuy5yqTR2IlkzKojfvsMOvlD-3tf1pKxbDlhA6W9Q8RX-JaSxhItMr4bmCxiUQXTLbz'
-  lat: 40.10064
-  level: 8
-  lon: -88.24958
-  mus: 2
-  name:  'Edward A. Cousins Plaque'
-- fields: 2
   img:  'http://lh4.ggpht.com/MhW7sdKYdOt__Gmefy7CMOI4_Q8_dqGGb_qolwk4Uf7b_fpr8t5QM5QiCFUOe_ZpsgAfLhPSU_lbVTX5DIEX'
   lat: 40.125951
   level: 5
   lon: -88.209474
   mus: 2
   name:  'Give Creeks A Chance Street Art'
-- fields: 2
-  img:  'http://lh5.ggpht.com/aeGh3iXJqJ7skg-2JHEpngMSfcp1qDIEPoLMxzQNqbS5Y7HcxN7oE789bXiVFoFIcdCn7-3AhLPtxT_WE2E'
-  lat: 40.0985
-  level: 8
-  lon: -88.248681
-  mus: 2
-  name:  'Siti Sculpture'
 - fields: 2
   img:  'http://lh4.ggpht.com/vLN74xdc8Mdgab4UjP1QUbyX42bkPBXnIqzYzkmRDi4naHiBk2kM1wUA7Mx3Pxl1dpPoMBAg9pV956MqTDk'
   lat: 40.068391
@@ -439,13 +348,6 @@
   lon: -88.205614
   mus: 1
   name:  'Elaine Regehr  Memorial'
-- fields: 1
-  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
-  lat: 40.100936
-  level: 8
-  lon: -88.250855
-  mus: 1
-  name:  'Donald F. Bresnan Memorial'
 - fields: 3
   img:  'http://lh5.ggpht.com/6MHa8mHyPoZr8QcAXRVJp6cTJ-Besa5bB801GzhlToXL5ff4Zg6U6VtnrbMINQ441jCzYNZDWNxHIBtf7VXvVw'
   lat: 40.087719
@@ -460,20 +362,6 @@
   lon: -88.200103
   mus: 1
   name:  'Meadowbrook Park Trail Map'
-- fields: 1
-  img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
-  lat: 40.100286
-  level: 8
-  lon: -88.251747
-  mus: 1
-  name:  'Tennis Anyone'
-- fields: 1
-  img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
-  lat: 40.098959
-  level: 8
-  lon: -88.250141
-  mus: 1
-  name:  'Bob and Wilma Tinkham'
 - fields: 1
   img:  'http://lh6.ggpht.com/VGq5_qMrAE5FbP2m0Maszw451m-OfbmuUYDIryB0OyOe4-R92nr43XAmU-Rl5GExMkQzJHBA2a45SDWOypA'
   lat: 40.118224
@@ -496,13 +384,6 @@
   mus: 1
   name:  'Still Waters'
 - fields: 1
-  img:  'http://lh5.ggpht.com/8zq5tMevCiipZK8N9-8SZw3vdsA2HwH0E02ormQshGxHVZrB2WPK7OPC8zt6pjLlgpXVuEYHVA_08_Q8fPw-'
-  lat: 40.099647
-  level: 8
-  lon: -88.249648
-  mus: 1
-  name:  'Max Overmyer Memorial Playground'
-- fields: 1
   img:  'http://lh5.ggpht.com/mRJ1JU9RyuNozcaCkQ-Egy63KbWTVpSomrieglFdzh1c9eDAoQQCHmWw065GGIQoOFIorPObgHXhGyNjVb6u'
   lat: 40.068762
   level: 8
@@ -516,6 +397,13 @@
   lon: -88.253476
   mus: 1
   name:  'Rotary Club Meditation Garden'
+- fields: 1
+  img:  'http://lh6.ggpht.com/oTEawnC2cPnZ7T10vs9tiueaLsN0ILM7tgPLWVfa0njwvTDrUvS-w8x5SK4iMDd0tuHYP2w5a-H0AQ4NaAyU'
+  lat: 40.116388
+  level: 4
+  lon: -88.243702
+  mus: 1
+  name:  'Cycles of Love'
 - fields: 2
   img:  'http://lh5.ggpht.com/K052rUVcM_dwOByJbJw0zZVn5R34oIGn9_FWFzquLCf0caed6K4EQXvJSH0lYUOvmWY8V8cF31UjqKpZXEbL'
   lat: 40.083331
