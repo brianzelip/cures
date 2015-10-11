@@ -1,10 +1,3 @@
-- fields: 4+
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.107613
-  level: '?'
-  lon: -88.426429
-  mus: 1249071
-  name:  'US Post Office, N Main St, Seymour, IL'
 - fields: 1
   img:  'http://lh3.ggpht.com/ahylfFHnKd7tl8EDQopVPlqhdiJblx_p3TWsELUFACXM_9qS9N8agb-ypr7EOOemNFMUrRGaUQ23LY6F1ssb'
   lat: 40.095094
@@ -61,6 +54,13 @@
   lon: -88.234991
   mus: 32
   name:  'Acacia House'
+- fields: 14
+  img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
+  lat: 40.098246
+  level: 6
+  lon: -88.251974
+  mus: 27
+  name:  'Hessel Park'
 - fields: 4
   img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
   lat: 40.117976
@@ -89,13 +89,6 @@
   lon: -88.211743
   mus: 26
   name:  'Alice Mimi Muller Dedication Plaque'
-- fields: 10
-  img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
-  lat: 40.098246
-  level: 6
-  lon: -88.251974
-  mus: 23
-  name:  'Hessel Park'
 - fields: 6
   img:  'http://lh6.ggpht.com/o5v6x0IS1pBK2dWUvxkTn4pb6FfZnj8RLeXKDhPtC9Db_KQTVRqO-ye9oQATUZIczQsTyfBFXI1KvNsP020ZCc1BpubNrbvzVaKrsMTRErtsBNDb'
   lat: 40.082594
@@ -166,6 +159,13 @@
   lon: -88.242671
   mus: 10
   name:  'Marketplace Mall Fountain'
+- fields: 5
+  img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
+  lat: 40.099593
+  level: 6
+  lon: -88.251724
+  mus: 10
+  name:  'Blessings from Devon Elaine Cattell'
 - fields: 3
   img:  'http://lh6.ggpht.com/yYW6Egg1lWn6UqqLzlgqwCQhtbuxiZSW4TmvI1XBPs33OTTJ0oh51XZXOIILxGI2juoO-E_YfG5UHmeb34rSOw'
   lat: 40.109165
@@ -201,6 +201,13 @@
   lon: -88.226751
   mus: 6
   name:  'Class Of 1917 Plaque'
+- fields: 4
+  img:  'http://lh3.ggpht.com/sisvfsphxy7AK_2qrrqb7lNJk3_7ciHSVJyodINYITBc-UqugyNOooCxKupgJKEg5m_x95eZwouSO2WCmN60ew'
+  lat: 40.098579
+  level: 6
+  lon: -88.249603
+  mus: 6
+  name:  'Chef Ra Memorial Plaque'
 - fields: 3
   img:  'http://lh3.ggpht.com/gDP5JIyK5XQVuxzTukPDz7JRInXgVqjLvl1SZ1_m_ydC4VzlKAFaG92Jj7kHZGJrhTaK2-bslJBu3rBIoXOX'
   lat: 40.079519
@@ -257,6 +264,13 @@
   lon: -88.230986
   mus: 4
   name:  'Alpha Phi Sorority'
+- fields: 5
+  img:  'http://lh3.ggpht.com/G1CvGhpethi5UmprDWxZN9rTblHa3anSsQz1UPgJtkREkfN7lDFoxFObst0609Cg5mofuZxJKr0ddNKhY4VL'
+  lat: 40.098464
+  level: 6
+  lon: -88.251426
+  mus: 4
+  name:  'Ruth Haasis Memorial'
 - fields: 2
   img:  'http://lh6.ggpht.com/UXx9XSWX3zuym6SdX68IXNFYcpnbhGuF7Zk3taO-TJ2VI_LvwmooNWjUHb8OIgKsjyto3PT7YU0D-Y7HW7c'
   lat: 40.077643
@@ -264,6 +278,13 @@
   lon: -88.208694
   mus: 4
   name:  'El-Ahrairah'
+- fields: 1
+  img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
+  lat: 40.097979
+  level: 8
+  lon: -88.247785
+  mus: 4
+  name:  'Jarling''s Custard Cup'
 - fields: 2
   img:  'http://lh3.ggpht.com/SGh5Xw4MO1dVvrMemAzgB9RDDBXEv4yPJSQnS537XIPlaVnoge7FriTE0zXjRXDxMtFiaTHXXihwZpbush_dbg'
   lat: 40.077367
@@ -285,6 +306,13 @@
   lon: -88.236182
   mus: 3
   name:  'Washington Park'
+- fields: 1
+  img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
+  lat: 40.098959
+  level: 6
+  lon: -88.250141
+  mus: 3
+  name:  'Bob and Wilma Tinkham'
 - fields: 3
   img:  'http://lh3.ggpht.com/1G0o5RjtXyfAjbI-E2honhhelnuiq4lIkpHmB44e-AwSBuIxVOdLPVYjImbTMS8kyBdZuKuiMQHciUIdAWg'
   lat: 40.118368
@@ -292,13 +320,6 @@
   lon: -88.243737
   mus: 2
   name:  'Frank Robeson Memorial'
-- fields: 5
-  img:  'http://lh3.ggpht.com/G1CvGhpethi5UmprDWxZN9rTblHa3anSsQz1UPgJtkREkfN7lDFoxFObst0609Cg5mofuZxJKr0ddNKhY4VL'
-  lat: 40.098464
-  level: 6
-  lon: -88.251426
-  mus: 2
-  name:  'Ruth Haasis Memorial'
 - fields: 2
   img:  'http://lh4.ggpht.com/MhW7sdKYdOt__Gmefy7CMOI4_Q8_dqGGb_qolwk4Uf7b_fpr8t5QM5QiCFUOe_ZpsgAfLhPSU_lbVTX5DIEX'
   lat: 40.125951
@@ -306,6 +327,13 @@
   lon: -88.209474
   mus: 2
   name:  'Give Creeks A Chance Street Art'
+- fields: 1
+  img:  'http://lh5.ggpht.com/1fPvqpqXG5PDCkmegoWb9Tv9N5_MZh9XjmZpbyNEs5yPDsCscbrPB1cO_Pf8GT35HYrTF01FZ6s5VPIpjJ_20A'
+  lat: 40.107098
+  level: 6
+  lon: -88.228984
+  mus: 2
+  name:  'Saint Andrew''s Church'
 - fields: 2
   img:  'http://lh4.ggpht.com/vLN74xdc8Mdgab4UjP1QUbyX42bkPBXnIqzYzkmRDi4naHiBk2kM1wUA7Mx3Pxl1dpPoMBAg9pV956MqTDk'
   lat: 40.068391
@@ -341,13 +369,6 @@
   lon: -88.200103
   mus: 1
   name:  'Meadowbrook Park Trail Map'
-- fields: 1
-  img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
-  lat: 40.100286
-  level: 5
-  lon: -88.251747
-  mus: 1
-  name:  'Tennis Anyone'
 - fields: 1+
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.152192
