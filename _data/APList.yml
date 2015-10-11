@@ -17,18 +17,6 @@
   lon: -88.249937
   name:  'Alice Marie Weber Plaque'
 - ap: 10596
-  img:  'http://lh5.ggpht.com/llyW63Gnxl-lT-L_MhXsl4mdbmv29RvYTWcLt1R7JxibVPORq5Wd_UHIdT-vQ0XaUqZVQiN2mXkV4KJpp5sm'
-  lat: 40.1159
-  level: 5
-  lon: -88.238508
-  name:  'Dallas & Co: Costumes and Magic'
-- ap: 10596
-  img:  'http://lh6.ggpht.com/o-Si4_DCq7Qwa_fFJhaTZ0-zCScbl7wDS4PHIFGMbnP9TuPVe9ZauXV3lAreyYvxN7B7n8mlrOR2SsPzXmU'
-  lat: 40.115703
-  level: 6
-  lon: -88.239504
-  name:  'Chester Street Bar'
-- ap: 10596
   img:  'http://lh5.ggpht.com/DFa-Mh8ldMlU5wGTYmJIGYKPoSYUfYebRpnom9j15NFNRkwMdU5kDME0GYQUyA_LXnsNi9Jka-xidd302s93'
   lat: 40.099056
   level: 6
@@ -155,6 +143,18 @@
   lon: -88.231532
   name:  'Graduate School of Library and Information Science'
 - ap: 7972
+  img:  'http://lh6.ggpht.com/o-Si4_DCq7Qwa_fFJhaTZ0-zCScbl7wDS4PHIFGMbnP9TuPVe9ZauXV3lAreyYvxN7B7n8mlrOR2SsPzXmU'
+  lat: 40.115703
+  level: 6
+  lon: -88.239504
+  name:  'Chester Street Bar'
+- ap: 7972
+  img:  'http://lh5.ggpht.com/llyW63Gnxl-lT-L_MhXsl4mdbmv29RvYTWcLt1R7JxibVPORq5Wd_UHIdT-vQ0XaUqZVQiN2mXkV4KJpp5sm'
+  lat: 40.1159
+  level: 5
+  lon: -88.238508
+  name:  'Dallas & Co: Costumes and Magic'
+- ap: 7972
   img:  'http://lh6.ggpht.com/YdeB0EKlsopL39a9YXWj4JBZgXNNLWHgfe4PQzdpWCNWc0fR1YTj8WjARDHnmrusvKWTqKLcGg8U9frhtsw'
   lat: 40.09821
   level: 6
@@ -197,12 +197,6 @@
   lon: -88.230145
   name:  'University Lutheran Church'
 - ap: 7409
-  img:  'http://lh3.googleusercontent.com/vJ_iyOb44eFzOJUNpRouOPDI8rKgOESn7TWw9U9BR3OcWsb6Oak-SSfVH4iPPmtXJdk30rqet1D0KxVohiBC'
-  lat: 40.114712
-  level: 5
-  lon: -88.238392
-  name:  'Mexico Mural'
-- ap: 7409
   img:  'http://lh3.ggpht.com/gDP5JIyK5XQVuxzTukPDz7JRInXgVqjLvl1SZ1_m_ydC4VzlKAFaG92Jj7kHZGJrhTaK2-bslJBu3rBIoXOX'
   lat: 40.079519
   level: 6
@@ -220,12 +214,6 @@
   level: 5
   lon: -88.226751
   name:  'Class Of 1917 Plaque'
-- ap: 7035
-  img:  'http://lh4.ggpht.com/1n-hHkU1cTz6dykw37WBVQqctZlzyl9gYgy7IMi1zcMf1t0ry6F1JPnwlvUjq_6YNdolofY_rLbuL_uLQwg'
-  lat: 40.112913
-  level: 6
-  lon: -88.237848
-  name:  '2nd St. Basin Ampitheater '
 - ap: 7035
   img:  'http://lh5.ggpht.com/T0WLAJf0s4nu2Phxax31eu6pO6zNoA4JpvHMLyfMKttzJALEWB8EAWOziQwgjdWE3YjBbG1XjGYsgihqCSX9'
   lat: 40.100414
@@ -563,12 +551,6 @@
   lon: -88.20312
   name:  'Jack and Marilyn Memorial Bench'
 - ap: 5161
-  img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
-  lat: 40.115838
-  level: 6
-  lon: -88.241338
-  name:  'Illinois Terminal'
-- ap: 5161
   img:  'http://lh3.googleusercontent.com/Tixp17uCaP682s77UzvCwWCOE6vg7iB2qEFLjACq7xtVJdHE0K3yKYsl3_SwKbiUfQWwgTQRbvfka3U0NvNc'
   lat: 40.098819
   level: 4
@@ -604,6 +586,12 @@
   level: 6
   lon: -88.239009
   name:  'Honesty Best Policy  - Vernon A. Roland Building'
+- ap: 5161
+  img:  'http://lh3.googleusercontent.com/vJ_iyOb44eFzOJUNpRouOPDI8rKgOESn7TWw9U9BR3OcWsb6Oak-SSfVH4iPPmtXJdk30rqet1D0KxVohiBC'
+  lat: 40.114712
+  level: 5
+  lon: -88.238392
+  name:  'Mexico Mural'
 - ap: 5161
   img:  'http://lh6.ggpht.com/VGq5_qMrAE5FbP2m0Maszw451m-OfbmuUYDIryB0OyOe4-R92nr43XAmU-Rl5GExMkQzJHBA2a45SDWOypA'
   lat: 40.118224
@@ -875,17 +863,17 @@
   lon: -88.240577
   name:  'Spiral Flight'
 - ap: 4411
-  img:  'http://lh6.ggpht.com/c2I39IJvSBKmCLonmhP_RN1vLEpYY1recBXFm8xpGHxES4bAN2kvAcda8ZzvT75uq0yWQCv7N_dzP6ce5-Tu'
-  lat: 40.108043
-  level: 5
-  lon: -88.22469
-  name:  'Building of Molecular and Cellular Biology Sculpture'
-- ap: 4411
   img:  'http://lh4.ggpht.com/d3UqrcK5M1wuOe19dIaBUOkrXF4C9IxhOWfxqzM4zIHkGsUIRb1mckNapOMRkkCtVIe0rzJumb1OVDVc1_Y'
   lat: 40.108055
   level: 7
   lon: -88.233688
   name:  'University Baptist Church'
+- ap: 4411
+  img:  'http://lh6.ggpht.com/c2I39IJvSBKmCLonmhP_RN1vLEpYY1recBXFm8xpGHxES4bAN2kvAcda8ZzvT75uq0yWQCv7N_dzP6ce5-Tu'
+  lat: 40.108043
+  level: 5
+  lon: -88.22469
+  name:  'Building of Molecular and Cellular Biology Sculpture'
 - ap: 4336
   img:  'http://lh3.ggpht.com/F-cwL1kpN8KTxTiRAdaaAFictKYDbMRhPltdDuO0_6jhG8_6fxg1_yHzy1kBs1WXPRZ8UQDrxqY1fCdmHXFU'
   lat: 40.108042
@@ -1151,6 +1139,12 @@
   lon: -88.243468
   name:  'Dog Heart'
 - ap: 3474
+  img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
+  lat: 40.115838
+  level: 6
+  lon: -88.241338
+  name:  'Illinois Terminal'
+- ap: 3474
   img:  'http://lh4.ggpht.com/mrFIlt7StuloTop3ci5DRg10i06ivamSn69PgqYPZfkV23dOzf-DhDdDUjeOOzy1ILR9xOOdLX_NBsMOH9FO'
   lat: 40.124377
   level: 7
@@ -1265,17 +1259,17 @@
   lon: -88.225998
   name:  'Lifesaving Antibiotic Plaque'
 - ap: 3474
-  img:  'http://lh5.ggpht.com/Zoidr1eUAO2UEM6SyifBpkC3K42Ctl355Krd3S2ZU3BbbIMt1XFKF4C35huJT7a-K1PMF6JCK3ztTnr2Wbc9zw'
-  lat: 40.109178
-  level: 2
-  lon: -88.22945
-  name:  'Pineapple Pillar'
-- ap: 3474
   img:  'http://lh5.ggpht.com/dgQfoxxVeHT5ODqLiUYHV45qvkC_BMS0kIFRqvHvE2GO0TduZ0-XzhW8RE80LtPDK0Ay5xwA6PtjM7G3C9U8'
   lat: 40.108947
   level: 5
   lon: -88.232251
   name:  'McKinley Church'
+- ap: 3474
+  img:  'http://lh5.ggpht.com/Zoidr1eUAO2UEM6SyifBpkC3K42Ctl355Krd3S2ZU3BbbIMt1XFKF4C35huJT7a-K1PMF6JCK3ztTnr2Wbc9zw'
+  lat: 40.109178
+  level: 2
+  lon: -88.22945
+  name:  'Pineapple Pillar'
 - ap: 3474
   img:  'http://lh4.ggpht.com/9hzMj8KV-HraIucojjHAEgyMZsJAR9TWvNS-QSBB5LTYBOTwwqfTQySJ_Sz88eP3eyFWFYhx5qDVY93t8fk'
   lat: 40.108032
@@ -1505,12 +1499,6 @@
   lon: -88.227765
   name:  'Bardeen Quadrangle - North Side'
 - ap: 2724
-  img:  'http://lh5.ggpht.com/3mE32dJLH9WsEctr1UHzE0G5QN_4V0vcLCldzmPU_WRufBLcaKzAgprPRfGQDOytzwAYwWfLfWxqWYl7hMqA'
-  lat: 40.125757
-  level: 5
-  lon: -88.20788
-  name:  'Nature Center / Family Aquatic Center'
-- ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.084939
   level: '?'
@@ -1522,6 +1510,12 @@
   level: 3
   lon: -88.208946
   name:  'Busey Friendship Grove'
+- ap: 2724
+  img:  'http://lh5.ggpht.com/3mE32dJLH9WsEctr1UHzE0G5QN_4V0vcLCldzmPU_WRufBLcaKzAgprPRfGQDOytzwAYwWfLfWxqWYl7hMqA'
+  lat: 40.125757
+  level: 5
+  lon: -88.20788
+  name:  'Nature Center / Family Aquatic Center'
 - ap: 2537
   img:  'http://lh5.ggpht.com/RsXj0S9rbD_i4VFZmhxJtNtmwEeJOoYsmM8wyu90kB6srZMfUskP6iqrTY9eqFNQhhQrU50k92lCH4JEQ2w'
   lat: 40.127358
@@ -1583,17 +1577,17 @@
   lon: -88.29022
   name:  'Dr. Ray Braun Memorial'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/vKkSwERLa3zQO2UUIiYl1AEruAx1QTPcP4jSmPt89PG4AviJ1WhlVVH8qmqJ0aY2gqJmHcqdZFcM2pQconc'
-  lat: 40.139375
-  level: 6
-  lon: -88.272793
-  name:  'Salt And Light Ministries'
-- ap: 2537
   img:  'http://lh4.ggpht.com/a1FVYK5FqYQAl_d_TEIbk8PE4kKJVyIHNjJiJWlhHcozcrVi9qVZ137z5mYYlOeePqk0aqBqWwdZxEIgkxz0HA'
   lat: 40.132588
   level: 6
   lon: -88.279491
   name:  'Ronald D Schafer Plaque'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/vKkSwERLa3zQO2UUIiYl1AEruAx1QTPcP4jSmPt89PG4AviJ1WhlVVH8qmqJ0aY2gqJmHcqdZFcM2pQconc'
+  lat: 40.139375
+  level: 6
+  lon: -88.272793
+  name:  'Salt And Light Ministries'
 - ap: 2537
   img:  'http://lh5.ggpht.com/-aOZyLFNK96FhUdQBYhmRPZrs_PB1oiLRcrPjKwFBANQ42LxLbbHfTZVw_F01meecQXfNQwJYy7qqVh8Q0gR9g'
   lat: 40.133768
