@@ -23,17 +23,17 @@
   lon: -88.249937
   name:  'Alice Marie Weber Plaque'
 - ap: 10596
-  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
-  lat: 40.100941
-  level: 8
-  lon: -88.251314
-  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
-- ap: 10596
   img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
   lat: 40.100078
   level: 8
   lon: -88.250683
   name:  'Brian Clark Memorial Plaque'
+- ap: 10596
+  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
+  lat: 40.100941
+  level: 8
+  lon: -88.251314
+  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
 - ap: 9846
   img:  'http://lh5.ggpht.com/fDRifvVcFT_dKhPuNBN4rR9lNHL0Q6NvbMnGr2-ZdiirR2rJrBcWRi4vyM3-DYNHymUs7bWchaWRaUtBpg'
   lat: 40.098541
@@ -64,18 +64,18 @@
   level: 7
   lon: -88.289765
   name:  'Kaufman Park'
+- ap: 9657
+  img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
+  lat: 40.106921
+  level: 7
+  lon: -88.230145
+  name:  'University Lutheran Church'
 - ap: 9472
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
   level: 8
   lon: -88.250864
   name:  'Gabriel Patrick Maxeiner Memorial'
-- ap: 9470
-  img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
-  lat: 40.106921
-  level: 7
-  lon: -88.230145
-  name:  'University Lutheran Church'
 - ap: 9283
   img:  'http://lh6.ggpht.com/bk4dEHQrhHB4CnS-r1oU423YDgPGgV61H809xF_AI-CVJFh8pf1rbOMxcZIfQYEe0W5OLWy-XYtwPUc_n08o'
   lat: 40.068707
@@ -101,23 +101,29 @@
   lon: -88.251947
   name:  'Our Friend Tim Palmer'
 - ap: 8909
-  img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
-  lat: 40.098959
-  level: 8
-  lon: -88.250141
-  name:  'Bob and Wilma Tinkham'
-- ap: 8909
   img:  'http://lh6.ggpht.com/BKeORacgeVrG8XzxTuXmpq5UxomWpK-I2n7Xy0PVbdSciNx9MJl869TcibnFIiV5PJHGv5R3QOpX6ZgLUwU'
   lat: 40.099706
   level: 7
   lon: -88.250065
   name:  'Lois Barham Memorial Tree'
+- ap: 8909
+  img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
+  lat: 40.098959
+  level: 8
+  lon: -88.250141
+  name:  'Bob and Wilma Tinkham'
 - ap: 8907
   img:  'http://lh5.ggpht.com/THzk1iE4eBFdHkEgW_OGBWS54BbJw46faUZQS1Ad_IROHGgmVaXrphXJuL1O8N9k4G8_jaDT4P9tmLxMNi0W'
   lat: 40.131713
   level: 5
   lon: -88.29276
   name:  'Campus Solar System - Sun'
+- ap: 8907
+  img:  'http://lh4.ggpht.com/0j8eeTKJgjnYhHpf4qH_70CZHLbujC5v-XP_ndcqh1xIR-5V2K_CGdjIe1ZfMbwvSyISxxYKoZynw1DaQcj8'
+  lat: 40.105874
+  level: 7
+  lon: -88.230562
+  name:  'St. John''s Rectory'
 - ap: 8722
   img:  'http://lh3.ggpht.com/VLipBehsKPCp8ewQnBV1ZCz7uE75zcY46iGDyFfFHgX1o55t3DONb3wcBcL5RMYSqABRK0TgIW3DluNy8y6WaA'
   lat: 40.101131
@@ -130,12 +136,6 @@
   level: 8
   lon: -88.251724
   name:  'Blessings from Devon Elaine Cattell'
-- ap: 8720
-  img:  'http://lh4.ggpht.com/0j8eeTKJgjnYhHpf4qH_70CZHLbujC5v-XP_ndcqh1xIR-5V2K_CGdjIe1ZfMbwvSyISxxYKoZynw1DaQcj8'
-  lat: 40.105874
-  level: 7
-  lon: -88.230562
-  name:  'St. John''s Rectory'
 - ap: 8533
   img:  'http://lh5.ggpht.com/BkbaZlRlq44d6DiMOVuIlrel2Hsi_RzzHhhdmJH6BLzJk5RKxAcvh2mMd93BFhKgTKLk-yZsNLTaJiTbZsk'
   lat: 40.086686
@@ -401,17 +401,17 @@
   lon: -88.24958
   name:  'Edward A. Cousins Plaque'
 - ap: 6098
-  img:  'http://lh5.ggpht.com/3t7XZHqwxLZ8Lc9YomR8FInm74U2PAA-DBk8kmdxXIrcXbKa1CoBDTlgdDJeO-_yVT3qNKRnNLzbdil1eH41iA'
-  lat: 40.09935
-  level: 8
-  lon: -88.249766
-  name:  'Jim Bickel Honorary Plaque'
-- ap: 6098
   img:  'http://lh3.googleusercontent.com/Tixp17uCaP682s77UzvCwWCOE6vg7iB2qEFLjACq7xtVJdHE0K3yKYsl3_SwKbiUfQWwgTQRbvfka3U0NvNc'
   lat: 40.098819
   level: 8
   lon: -88.249214
   name:  'Bette McKown Honorary'
+- ap: 6098
+  img:  'http://lh5.ggpht.com/3t7XZHqwxLZ8Lc9YomR8FInm74U2PAA-DBk8kmdxXIrcXbKa1CoBDTlgdDJeO-_yVT3qNKRnNLzbdil1eH41iA'
+  lat: 40.09935
+  level: 8
+  lon: -88.249766
+  name:  'Jim Bickel Honorary Plaque'
 - ap: 6098
   img:  'http://lh3.ggpht.com/rlm0tE7Js-ApRSIfi0JxzxMVzrls50Gpr-Dbml7uBn7o0sCMtpiVa81HJc88eD0VlJiuzy9UTBFPebVcw-GK'
   lat: 40.087494
@@ -701,18 +701,6 @@
   lon: -88.253532
   name:  'Toalson Park'
 - ap: 4411
-  img:  'http://lh3.googleusercontent.com/W5PjcRhelt3420IFjpSdOXtmIiv0M99Qv9Xupe6lckHDJDW4zHE9GyACkz8wXBF0_OIO2Jex9d7S8UQ4FJLa'
-  lat: 40.118361
-  level: 4
-  lon: -88.244573
-  name:  'Art Theater'
-- ap: 4411
-  img:  'http://lh3.ggpht.com/PKHUaHtGQlwpb8q3mUpPJtjb51_am_ieb_9X0u8g1PI_eg7NxFQU2fqeV8XjnIIDy0rCMtqsfMJLerOBo8M'
-  lat: 40.118579
-  level: 5
-  lon: -88.244588
-  name:  'Mural on Art Theatre'
-- ap: 4411
   img:  'http://lh3.googleusercontent.com/oYQaQpOQ2HICancOs0DcaCqX1KiTJEoAeKp6EUWBs5u-TjTKqJlzTSzA0QMldAg6HLWb3rX4m4_cwKwGCtpV'
   lat: 40.118684
   level: 4
@@ -724,6 +712,18 @@
   level: 1
   lon: -88.245358
   name:  'Springer Cultural Center'
+- ap: 4411
+  img:  'http://lh3.googleusercontent.com/W5PjcRhelt3420IFjpSdOXtmIiv0M99Qv9Xupe6lckHDJDW4zHE9GyACkz8wXBF0_OIO2Jex9d7S8UQ4FJLa'
+  lat: 40.118361
+  level: 4
+  lon: -88.244573
+  name:  'Art Theater'
+- ap: 4411
+  img:  'http://lh3.ggpht.com/PKHUaHtGQlwpb8q3mUpPJtjb51_am_ieb_9X0u8g1PI_eg7NxFQU2fqeV8XjnIIDy0rCMtqsfMJLerOBo8M'
+  lat: 40.118579
+  level: 5
+  lon: -88.244588
+  name:  'Mural on Art Theatre'
 - ap: 4411
   img:  'http://lh3.ggpht.com/VrbXGwlUosNLEkVdshWUFoVa3KtlJQoEU4yLYygvftYbPCmxo644Uvar_v8Kb9RS53hB0tXgvV44GotrxZyu'
   lat: 40.098592
@@ -1397,11 +1397,11 @@
   lon: -88.24318
   name:  'Mini Park II Sculpture'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/Oocso9yyW_QlJlddbFRk8zzguP4PfXU8kI9T5rJbiyNwSgNMG0BmSoK3TdG2cEgH-p2Xd_vpQMxA_RcxLUP3'
-  lat: 40.109066
-  level: 5
-  lon: -88.247875
-  name:  'The Church of Scientology'
+  img:  'http://lh3.ggpht.com/GGBe9Hug3fUbRCRAMs_kO1fg2HHQ95ZDBdW0S2tAHakvhQbWxlttanjhGNJJcyVRruUlL7zjQnPGI2bu8Wc4'
+  lat: 40.117905
+  level: 6
+  lon: -88.242149
+  name:  'Read All About It'
 - ap: 2537
   img:  'http://lh5.ggpht.com/qXsP4-THlaQ8DmIiopsvR0dY2hqwPjIHoy1A1b_CUmqmADgED0FAkXDjkBzS-PY4jNfThICrCaXGja5OH8bWF4ghh7lBwJz0FzKz_zOvaiwHohU_'
   lat: 40.11945
@@ -1415,11 +1415,11 @@
   lon: -88.243036
   name:  'The Art Party Studio'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/GGBe9Hug3fUbRCRAMs_kO1fg2HHQ95ZDBdW0S2tAHakvhQbWxlttanjhGNJJcyVRruUlL7zjQnPGI2bu8Wc4'
-  lat: 40.117905
-  level: 6
-  lon: -88.242149
-  name:  'Read All About It'
+  img:  'http://lh4.ggpht.com/Oocso9yyW_QlJlddbFRk8zzguP4PfXU8kI9T5rJbiyNwSgNMG0BmSoK3TdG2cEgH-p2Xd_vpQMxA_RcxLUP3'
+  lat: 40.109066
+  level: 5
+  lon: -88.247875
+  name:  'The Church of Scientology'
 - ap: 2537
   img:  'http://lh5.ggpht.com/R4YsY7oUfZDrMJ3QJtIKwNvcX7K4vxIpwfLebL2U4x5m1UibakO0KUZJXqdfYe-W9IUNBmlCu5LlSy6jtKGM'
   lat: 40.105323
