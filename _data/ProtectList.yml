@@ -1,73 +1,24 @@
-- fields: 4+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.112811
-  level: '?'
-  lon: -88.041574
-  mus: 700383
-  name:  'Yummy Tummy Pizza'
-- fields: 3+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 39.91465
-  level: '?'
-  lon: -88.273338
-  mus: 690557
-  name:  'd7386e06127b49d6b843c5d81d79fe83.16'
-- fields: 4+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.196926
-  level: '?'
-  lon: -88.366258
-  mus: 362564
-  name:  'Filippos Pizza and Italian Food'
-- fields: 3+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.206286
-  level: '?'
-  lon: -88.370054
-  mus: 361225
-  name:  'Mahomet Christian Church'
-- fields: 3+
+- fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.18691
   level: '?'
   lon: -88.361241
-  mus: 332804
+  mus: 1960
   name:  'Lake of the Woods Church'
-- fields: 3+
+- fields: 1+
   img: http://i.imgur.com/LujBo5P.png
-  lat: 40.110462
+  lat: 40.196926
   level: '?'
-  lon: -88.045336
-  mus: 331652
-  name:  'Dr. H. J. Kolb Park'
-- fields: 2+
+  lon: -88.366258
+  mus: 1960
+  name:  'Filippos Pizza and Italian Food'
+- fields: 1+
   img: http://i.imgur.com/LujBo5P.png
-  lat: 39.91497
+  lat: 39.91465
   level: '?'
-  lon: -88.273264
-  mus: 320428
-  name:  '5d2d71d0f909459c9004cd99890c964c.16'
-- fields: 8
-  img:  'http://lh3.ggpht.com/gSjoDo9KYu-lgQFkD5uUnj4HXGc1BOihKfh-rNeZu_Q3hHyEkaBoalqYiV46QcvH9y4o8cPkHP_cmo_LxCyo4Q'
-  lat: 40.10214
-  level: 7
-  lon: -88.218932
-  mus: 505
-  name:  'Twin City Bible Church'
-- fields: 8
-  img:  'http://lh5.ggpht.com/2zEYZdL0tuQhUP5HHcOYFsPQfjx-nNDHhi8DMJEzzkjbEA9hODz2iDCcmj4S9NEGBsHW4nYYR010lA_6kyhk'
-  lat: 40.10038
-  level: 5
-  lon: -88.225191
-  mus: 400
-  name:  'Eleanor Hammers Boner'
-- fields: 4
-  img:  'http://lh4.ggpht.com/dfv9WXc8AIG4SQiUR41qrJI0-s2-zl6hcMaPJOetGKZ2R1dknt0mX1ghGf1zcPNzXcOFpjVSvmXELswwTMO8'
-  lat: 40.09627
-  level: 7
-  lon: -88.218588
-  mus: 282
-  name:  'Idea Garden'
+  lon: -88.273338
+  mus: 1960
+  name:  'd7386e06127b49d6b843c5d81d79fe83.16'
 - fields: 4
   img:  'http://lh3.googleusercontent.com/NfuReRkyOBC6TpPTQQuLpJGD0EXaLbvSJP45Seaf0Vqc8oZ93XZFHQiMEcbBC8vAZxWX_WA3_WBC2zxcvIs'
   lat: 40.065881
@@ -89,13 +40,6 @@
   lon: -88.242844
   mus: 231
   name:  'Lake Park Gardens'
-- fields: 11
-  img:  'http://lh6.ggpht.com/-flzg4lDDrUKk9tz52QmAPy1_59-9KbIO96Br3rNDxK1nmopyzD21z31JQVdJNJHB-Cy6IsEX0VwBbVwvd5r'
-  lat: 40.104256
-  level: 7
-  lon: -88.225268
-  mus: 228
-  name:  'Institute of Genomic Biology Gateway'
 - fields: 3
   img:  'http://lh6.ggpht.com/SWgJIqzWO4D-WJuie3oK3_c-FlsPgkHT6nTrwvL8tqzOB6T_SSY3Nf11r1AEuKu1dsfgj0v47NqVSSTBP2k'
   lat: 40.107745
@@ -145,13 +89,6 @@
   lon: -88.397522
   mus: 154
   name:  'Lions Pavilion at Barber Park'
-- fields: 3
-  img:  'http://lh4.ggpht.com/tOaHkSh5Fi62TobQvLLu0rUok4qJZE3o4wwCFVq1bXmqOesQ-cq_tEmVd-J_qFDKeACcH8noaXCWvbXve03C'
-  lat: 40.100334
-  level: 5
-  lon: -88.222487
-  mus: 151
-  name:  'Alpha Tau Omega Fraternity'
 - fields: 2
   img:  'http://lh3.ggpht.com/CraZJCGkYMojxUhZiRGhjSMt9Ggq_EWkUgzsVChRJRy806N-iFxcUt910vs-j4ap6ycfrLl-faXk8cbXM2n3'
   lat: 40.105644
@@ -173,6 +110,20 @@
   lon: -88.223333
   mus: 137
   name:  'Loomis Laboratory Jacob''s Ladder Device'
+- fields: 2
+  img:  'http://lh3.ggpht.com/NgusMNa_MQJauBXm1lCWXnmzNqo5-TB-ihUlPa_vaI83WESAp8ChhEVR7KuBr_Na2-hzlLU7AB_STTq1gu7cwQ'
+  lat: 40.112585
+  level: 5
+  lon: -88.271575
+  mus: 136
+  name:  'Bobo''s Barbecue'
+- fields: 2
+  img:  'http://lh3.ggpht.com/Or_i3A5Lpw1MTemWGpqYDcp3d75CQeZ5SKOxpDiq5sqqAYEgpA2oj3z4w1k4IuUnXvSjSHET1wuLB0Vrb77S'
+  lat: 40.112555
+  level: 5
+  lon: -88.273762
+  mus: 136
+  name:  'Pias Sports Bar and Grill'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.154669
@@ -187,13 +138,6 @@
   lon: -88.239758
   mus: 118
   name:  'Lake Park Prairie Restoration'
-- fields: 5
-  img:  'http://lh6.ggpht.com/n_LMwtvxbWlYfCgK6MerzbQVpmDR9rqxJUrEnA8OAeCIYBi6zbeLqYCldCtXZDSV1IHsYOpgoO60Od3TGJ3h'
-  lat: 40.103207
-  level: 7
-  lon: -88.224601
-  mus: 106
-  name:  'Darrell A. Miller Memorial Tree'
 - fields: 3
   img:  'http://lh6.ggpht.com/BsXdEO7HLxNLSdztPo_4GNNcbxZCxswiDT4pmmcfDQ8YO2SFVW-VnwyEZBvkuhf1rxKAtoKNLvV4rDJ-YVCYUK1qiX-dId_R8P-JskyFYAK9ruM-'
   lat: 40.110234
@@ -201,6 +145,13 @@
   lon: -88.224055
   mus: 88
   name:  'The Etc'
+- fields: 1
+  img:  'http://lh4.ggpht.com/Tpl5ga1h9vBjG88A6xRDnvBxx7F1epdVZYUY-FNnoOS6H_0OkWXC-RqCtNsk5WSZcOBwMvdY56QCHo0hvoE'
+  lat: 40.102744
+  level: 6
+  lon: -88.277916
+  mus: 87
+  name:  'Church of God in Christ'
 - fields: 1
   img:  'http://lh4.ggpht.com/YSOz0a5ifhwbxTlrDnBNW-U35O1enndhsHgwgpJnFstBSqc8aMARC9BgIATLkd4Gd-lqDL_U6i3kdjCl7L3v'
   lat: 40.117969
@@ -257,6 +208,13 @@
   lon: -88.396209
   mus: 72
   name:  'Barber Park'
+- fields: 4
+  img:  'http://lh5.ggpht.com/2zEYZdL0tuQhUP5HHcOYFsPQfjx-nNDHhi8DMJEzzkjbEA9hODz2iDCcmj4S9NEGBsHW4nYYR010lA_6kyhk'
+  lat: 40.10038
+  level: 5
+  lon: -88.225191
+  mus: 64
+  name:  'Eleanor Hammers Boner'
 - fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.198031
@@ -264,13 +222,13 @@
   lon: -88.377986
   mus: 55
   name:  'Lake of the Woods Park Entrance'
-- fields: 4
-  img:  'http://lh4.ggpht.com/zSwyeT2OHM1BNTwvZlgP1mVe-dTjc2LKjU4DSHSuEU24YLHSKziuJKmF4_BAMl1Dd3Sy1PRGPBbPbhSDX0fY'
-  lat: 40.10349
-  level: 5
-  lon: -88.218942
+- fields: 1+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.206286
+  level: '?'
+  lon: -88.370054
   mus: 52
-  name:  'Kappa Kappa Gamma Plaque'
+  name:  'Mahomet Christian Church'
 - fields: 2
   img:  'http://lh6.ggpht.com/rbEeQxbZyvrUu5nCQma0PzHtlA4cmaa9jItLke0b5KBmVlYP0q0d9OYg0_jrSi-8RiYOSdJklSevnYpoyjBWgA'
   lat: 40.118265
@@ -278,20 +236,27 @@
   lon: -88.268383
   mus: 51
   name:  'Hays Recreation Center'
+- fields: 7
+  img:  'http://lh6.ggpht.com/-flzg4lDDrUKk9tz52QmAPy1_59-9KbIO96Br3rNDxK1nmopyzD21z31JQVdJNJHB-Cy6IsEX0VwBbVwvd5r'
+  lat: 40.104256
+  level: 7
+  lon: -88.225268
+  mus: 49
+  name:  'Institute of Genomic Biology Gateway'
+- fields: 2
+  img:  'http://lh4.ggpht.com/dfv9WXc8AIG4SQiUR41qrJI0-s2-zl6hcMaPJOetGKZ2R1dknt0mX1ghGf1zcPNzXcOFpjVSvmXELswwTMO8'
+  lat: 40.09627
+  level: 7
+  lon: -88.218588
+  mus: 45
+  name:  'Idea Garden'
 - fields: 1
-  img:  'http://lh3.ggpht.com/NgusMNa_MQJauBXm1lCWXnmzNqo5-TB-ihUlPa_vaI83WESAp8ChhEVR7KuBr_Na2-hzlLU7AB_STTq1gu7cwQ'
-  lat: 40.112585
+  img:  'http://lh4.ggpht.com/tOaHkSh5Fi62TobQvLLu0rUok4qJZE3o4wwCFVq1bXmqOesQ-cq_tEmVd-J_qFDKeACcH8noaXCWvbXve03C'
+  lat: 40.100334
   level: 5
-  lon: -88.271575
-  mus: 50
-  name:  'Bobo''s Barbecue'
-- fields: 1
-  img:  'http://lh3.ggpht.com/Or_i3A5Lpw1MTemWGpqYDcp3d75CQeZ5SKOxpDiq5sqqAYEgpA2oj3z4w1k4IuUnXvSjSHET1wuLB0Vrb77S'
-  lat: 40.112555
-  level: 5
-  lon: -88.273762
-  mus: 50
-  name:  'Pias Sports Bar and Grill'
+  lon: -88.222487
+  mus: 44
+  name:  'Alpha Tau Omega Fraternity'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.178925
@@ -306,13 +271,6 @@
   lon: -88.222743
   mus: 35
   name:  'Fire Station'
-- fields: 2
-  img:  'http://lh6.ggpht.com/X4iXokslnWFDeqwj8O471yVpY1yt3JaXPzv5dxVokmSQVqso_Ouz7xzlKgu986CiYn1RE6zBANqvPf2F3-fjPA'
-  lat: 40.103188
-  level: 5
-  lon: -88.219107
-  mus: 34
-  name:  'Alpha Gamma Delta '
 - fields: 6
   img:  'http://lh6.ggpht.com/cspFto0a9XfDVdl-Fqidc8Tfmq6jiYzEy-EH3_4t9noc0VwvurrqO2f0LBQ7OnHhVmZ4xvw0gRZBYmgSTFKK'
   lat: 40.08388
@@ -383,6 +341,20 @@
   lon: -88.310557
   mus: 18
   name:  'Bible Baptist Church'
+- fields: 3
+  img:  'http://lh4.ggpht.com/zSwyeT2OHM1BNTwvZlgP1mVe-dTjc2LKjU4DSHSuEU24YLHSKziuJKmF4_BAMl1Dd3Sy1PRGPBbPbhSDX0fY'
+  lat: 40.10349
+  level: 5
+  lon: -88.218942
+  mus: 17
+  name:  'Kappa Kappa Gamma Plaque'
+- fields: 3
+  img:  'http://lh6.ggpht.com/n_LMwtvxbWlYfCgK6MerzbQVpmDR9rqxJUrEnA8OAeCIYBi6zbeLqYCldCtXZDSV1IHsYOpgoO60Od3TGJ3h'
+  lat: 40.103207
+  level: 7
+  lon: -88.224601
+  mus: 17
+  name:  'Darrell A. Miller Memorial Tree'
 - fields: 2
   img:  'http://lh5.ggpht.com/dpsEP8PFhsghyhulqyixJWOBciNBQP3X10g1YPnE63hnUhWZvxZBXplQAcjQI71ddCRWVkuJ8Af_AIfDpGnF'
   lat: 40.086929
@@ -523,6 +495,13 @@
   lon: -88.216599
   mus: 9
   name:  'Frank Kari Memorial Bench'
+- fields: 1
+  img:  'http://lh6.ggpht.com/X4iXokslnWFDeqwj8O471yVpY1yt3JaXPzv5dxVokmSQVqso_Ouz7xzlKgu986CiYn1RE6zBANqvPf2F3-fjPA'
+  lat: 40.103188
+  level: 5
+  lon: -88.219107
+  mus: 9
+  name:  'Alpha Gamma Delta '
 - fields: 1
   img:  'http://lh4.ggpht.com/W2iuoerYgndMYQCa7HEvNAP_sBaOODp8AQmEHDDbOTKx8TTwszyU4_iu7eYRam0PwEMWNyy4QJHnB_BAmDQ'
   lat: 40.058174
