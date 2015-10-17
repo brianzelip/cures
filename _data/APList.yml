@@ -419,29 +419,23 @@
   lon: -88.292578
   name:  'Campus Solar System - Venus'
 - ap: 4785
-  img:  'http://lh5.ggpht.com/ulBje3DZHcOGkPDTXihNL1tamRAm_GO1CREW8fA5fV0Znq1eF2J1hnbSZh35emEA1h9cL1qTj9FqGtb8VywgXQ'
-  lat: 40.13765
-  level: 5
-  lon: -88.273074
-  name:  'Garden Hills Park'
-- ap: 4785
   img:  'http://lh3.ggpht.com/tXuCgd1tvCtlonW_e1jLC_5DH6g4Qh6zIUKhJeoBZuLvyB0ql69PlymRU3Ywf5lq_8PFYNylEKOiC_qJnnzJpg'
   lat: 40.138006
   level: 5
   lon: -88.272375
   name:  'Jericho Missionary Baptist Church'
 - ap: 4785
+  img:  'http://lh5.ggpht.com/ulBje3DZHcOGkPDTXihNL1tamRAm_GO1CREW8fA5fV0Znq1eF2J1hnbSZh35emEA1h9cL1qTj9FqGtb8VywgXQ'
+  lat: 40.13765
+  level: 5
+  lon: -88.273074
+  name:  'Garden Hills Park'
+- ap: 4785
   img:  'http://lh5.ggpht.com/2jocF-ooKfacyT7HSwrwNcZTSN02yFkcmXBkPx777CYuD5O6sHPHwyUabblNOl_37YOxba1Gjid-TOwLVBlJ8g'
   lat: 40.116448
   level: 6
   lon: -88.248459
   name:  'Uppercutted Sculpture'
-- ap: 4785
-  img:  'http://lh5.ggpht.com/77v6DfPMOKjAUzTfAuqZzYtMmpFMJV7lPr7FgQb_Fa46w1xmepHb0h-0CpG5WZy1b9vd5_DZ0uLxxZw9-DhJ'
-  lat: 40.117163
-  level: 6
-  lon: -88.246602
-  name:  'Garden for the Gardener Plaque'
 - ap: 4785
   img:  'http://lh6.ggpht.com/rjO65LTfxlehqnFITx_AAA2JKpsmpj8hWVQifyHaji2E1suLvQntKGeHtT8TjDg7CZ94W3wDKW2MrfGY45k'
   lat: 40.11699
@@ -454,6 +448,12 @@
   level: 7
   lon: -88.238808
   name:  'Alpha Gamma Rho'
+- ap: 4785
+  img:  'http://lh5.ggpht.com/77v6DfPMOKjAUzTfAuqZzYtMmpFMJV7lPr7FgQb_Fa46w1xmepHb0h-0CpG5WZy1b9vd5_DZ0uLxxZw9-DhJ'
+  lat: 40.117163
+  level: 6
+  lon: -88.246602
+  name:  'Garden for the Gardener Plaque'
 - ap: 4635
   img:  'http://lh6.ggpht.com/hPutcAvS7zQN-tagfEY-fvkvdlgj7j5sZwUSLY883Twc7tHyslIAp7lzWYciJmCytDfsbFQtavAlzqGwCgFZkw'
   lat: 40.105562
@@ -670,12 +670,6 @@
   level: 7
   lon: -88.233278
   name:  'University of Illinois Armory'
-- ap: 3659
-  img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
-  lat: 40.117976
-  level: 6
-  lon: -88.245082
-  name:  'Robeson Building '
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.301568
@@ -725,12 +719,6 @@
   lon: -88.244122
   name:  'Artistic Graffiti at MCS'
 - ap: 3474
-  img:  'http://lh3.googleusercontent.com/L3lfMswaooWEA3nJNFGES354rtENCzxYkoWuVLXEXaTiXbqTNnsl34TRd8tbMwnGQHkAnr37-HLMutIe3_Uz'
-  lat: 40.117254
-  level: 4
-  lon: -88.247074
-  name:  'Westside Park Double Dutch-A Jump For Joy'
-- ap: 3474
   img:  'http://lh4.ggpht.com/mrFIlt7StuloTop3ci5DRg10i06ivamSn69PgqYPZfkV23dOzf-DhDdDUjeOOzy1ILR9xOOdLX_NBsMOH9FO'
   lat: 40.124377
   level: 7
@@ -749,17 +737,23 @@
   lon: -88.253451
   name:  'Champaign Fire Department'
 - ap: 3474
-  img:  'http://lh5.ggpht.com/wX6-mbTE7nT00T6ildapKbI5ZrnhPIt4l91DhMseyo3GYFrgQIuqbjh8ntZY6NxGZ-qa6fKWlyoBOPdIdNIt'
-  lat: 40.114653
-  level: 7
-  lon: -88.243729
-  name:  'The Phoenix'
+  img:  'http://lh3.googleusercontent.com/L3lfMswaooWEA3nJNFGES354rtENCzxYkoWuVLXEXaTiXbqTNnsl34TRd8tbMwnGQHkAnr37-HLMutIe3_Uz'
+  lat: 40.117254
+  level: 4
+  lon: -88.247074
+  name:  'Westside Park Double Dutch-A Jump For Joy'
 - ap: 3474
   img:  'http://lh4.ggpht.com/ULEhKlvERD4aidwSKPhLFujl0N0mZWcHPxtcJ7hNJkyDjYek9yrB4UD_G8bU-O9-12L1LYpDkM068BiYmpm9weZeGJsz-K5whCvUYTfmDqaIp1Fp'
   lat: 40.117
   level: 5
   lon: -88.247111
   name:  'Wesley Robert Weedman Memorial'
+- ap: 3474
+  img:  'http://lh5.ggpht.com/wX6-mbTE7nT00T6ildapKbI5ZrnhPIt4l91DhMseyo3GYFrgQIuqbjh8ntZY6NxGZ-qa6fKWlyoBOPdIdNIt'
+  lat: 40.114653
+  level: 7
+  lon: -88.243729
+  name:  'The Phoenix'
 - ap: 3474
   img:  'http://lh4.ggpht.com/vxjetUOC6_S8Ru3Q1ivzG4NE4bAAWg7_opiMwStExCoUHiRaIab8NyXLypEOAo7KBtsRQRzJX-TimhsOlBu3'
   lat: 40.087121
@@ -880,6 +874,12 @@
   level: 4
   lon: -88.209207
   name:  'Urbana Free Library'
+- ap: 3472
+  img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
+  lat: 40.117976
+  level: 6
+  lon: -88.245082
+  name:  'Robeson Building '
 - ap: 3098
   img:  'http://lh4.ggpht.com/u_MtizNv_keIXM4ITgtjqC8nr5JvB8UpDBg_5_08uQDTsQr44mwr6ZlkhTp0iKbvcV9xCJqXDeN66xYWaI0'
   lat: 40.116227
@@ -1056,12 +1056,6 @@
   name:  '056a7e6ca1404c72a2722c2dd0130323.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.995772
-  level: '?'
-  lon: -88.205619
-  name:  'fc02cf2e322a432390dea01748e0e704.12'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.107613
   level: '?'
   lon: -88.426429
@@ -1072,6 +1066,12 @@
   level: '?'
   lon: -88.370297
   name:  'Bondville Village Fire Department'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.995772
+  level: '?'
+  lon: -88.205619
+  name:  'fc02cf2e322a432390dea01748e0e704.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.739485
@@ -1150,16 +1150,22 @@
   level: 4
   lon: -88.242149
   name:  'Read All About It'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/_k_xJSt6mwst9haWnz5tw__yVrH9BLFSKnCMCEw9V271FMTnmEoDA4E6HprjvPTSiaBeKZmxdG3waPIapBMa'
-  lat: 40.125369
-  level: 5
-  lon: -88.250074
-  name:  'Mini Park VIII'
 - ap: 2312
+  img:  'http://lh5.ggpht.com/BPYtoLzDqibtj79fwGYxizNqHsBoJp5OzVO4Z-75rudKppazgw7D0eoXHOpH20iQd2Uc9MHXs72-r7fOJDNzpz3KRHIpZwzmXBope3LI8GA4SfsY'
+  lat: 40.117754
+  level: 3
+  lon: -88.241676
+  name:  'Jos. Kuhn and Co. Building'
+- ap: 2387
+  img:  'http://lh3.ggpht.com/yeYI3q7rDQLA5xBcWfH-Caw2Uh740ZPRQjjyvOrZz7ZyLI-gxBpi8yqxqDrlOBzG9YHs6YlxdgX0obTpXlQ'
+  lat: 40.117681
+  level: 4
+  lon: -88.241405
+  name:  'Jupiter''s Downtown'
+- ap: 2162
   img:  'http://lh5.ggpht.com/6qIQAtIoPbAVQ1O3BoOnGg6gtTa9fd0JIkxt6P1kmSimVswLaPpCRaLEudsNcMfP_kKb4SCE1By1o3lhYevmIA'
   lat: 40.1172
-  level: 4
+  level: 2
   lon: -88.243745
   name:  'Circle of Friends'
 - ap: 2537
@@ -1168,18 +1174,6 @@
   level: 5
   lon: -88.24714
   name:  'Police and Firefighters Memorial'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/I3HJjY6jOYl6ivwUaejRmReBjka9NyCW1ufaILf7cfo4VGwjX6kNB9J6PlIZCBIuTfI1jb9arxjssMTa_hisxr2ObqDCJ55lCxXFccxme5erNEY2_g'
-  lat: 40.116859
-  level: 5
-  lon: -88.249043
-  name:  'Bilbrey Bandstand'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/uAhsK1gCBrCPvIEZ8lZRhDGbO9Q75uu9su3qhSkktViExCuvIvXGCLwZXT-_riPd4rI3tTvsLqqn6XO3msF4'
-  lat: 40.116558
-  level: 5
-  lon: -88.249136
-  name:  'Babe and Gene Wilder Memorial Plaque'
 - ap: 2537
   img:  'http://lh6.ggpht.com/ZB8W5NNUt_ghaLF4gE_7_e_uguOocj1k6qCQvq2eAsayVQyZFUsUA3H5SFkHOwg20GluChbe2MSO_xWoB0bk8g'
   lat: 40.11813
@@ -1210,12 +1204,18 @@
   level: 6
   lon: -88.243105
   name:  'US Post Office, N Neil St, Champaign'
-- ap: 2312
-  img:  'http://lh4.ggpht.com/wbrbzDCo3C4qFJyHTWOST5o8B7kwZSWePUWOboIlYrdvxjrhWLqVQ1MqUF5-Hy4nt26x_oHQq9f8EbfdEjVK'
-  lat: 40.117382
-  level: 4
-  lon: -88.243748
-  name:  'Days of Venus'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/I3HJjY6jOYl6ivwUaejRmReBjka9NyCW1ufaILf7cfo4VGwjX6kNB9J6PlIZCBIuTfI1jb9arxjssMTa_hisxr2ObqDCJ55lCxXFccxme5erNEY2_g'
+  lat: 40.116859
+  level: 5
+  lon: -88.249043
+  name:  'Bilbrey Bandstand'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/uAhsK1gCBrCPvIEZ8lZRhDGbO9Q75uu9su3qhSkktViExCuvIvXGCLwZXT-_riPd4rI3tTvsLqqn6XO3msF4'
+  lat: 40.116558
+  level: 5
+  lon: -88.249136
+  name:  'Babe and Gene Wilder Memorial Plaque'
 - ap: 2537
   img:  'http://lh5.ggpht.com/QY3-GLhJdz61itX17DuQSrIrTixLDL5l-k33n2ZriKEspP8A7RooZfj3ocL-d6IC1S-Q81PABhuYHEkorzQ'
   lat: 40.121262
@@ -1240,18 +1240,12 @@
   level: 7
   lon: -88.243697
   name:  'Champaign Surplus'
-- ap: 2387
-  img:  'http://lh5.ggpht.com/BPYtoLzDqibtj79fwGYxizNqHsBoJp5OzVO4Z-75rudKppazgw7D0eoXHOpH20iQd2Uc9MHXs72-r7fOJDNzpz3KRHIpZwzmXBope3LI8GA4SfsY'
-  lat: 40.117754
-  level: 4
-  lon: -88.241676
-  name:  'Jos. Kuhn and Co. Building'
-- ap: 2387
-  img:  'http://lh3.ggpht.com/yeYI3q7rDQLA5xBcWfH-Caw2Uh740ZPRQjjyvOrZz7ZyLI-gxBpi8yqxqDrlOBzG9YHs6YlxdgX0obTpXlQ'
-  lat: 40.117681
-  level: 4
-  lon: -88.241405
-  name:  'Jupiter''s Downtown'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/_k_xJSt6mwst9haWnz5tw__yVrH9BLFSKnCMCEw9V271FMTnmEoDA4E6HprjvPTSiaBeKZmxdG3waPIapBMa'
+  lat: 40.125369
+  level: 5
+  lon: -88.250074
+  name:  'Mini Park VIII'
 - ap: 2537
   img:  'http://lh4.ggpht.com/eiIi_ozTDxkb4MdOndoTytdxfIB-1IAlz7B6mPPsVwLsPSvNxgR3f1ynOCQiAHPJAfWvPR6x6kWP0shmEfu5Mw'
   lat: 40.1198
@@ -1372,18 +1366,6 @@
   level: 4
   lon: -88.227679
   name:  'Lincoln Hall'
-- ap: 2312
-  img:  'http://lh4.ggpht.com/tVyfzfM2_0lowNzuGzuyouGzKVa2p8D1Y1LrAjsxhWtHsK6y5mVL71dZLIu8wVv9kfkvsYrXoRNgrDWdmvmX'
-  lat: 40.109736
-  level: 1
-  lon: -88.224983
-  name:  'Methodist Symbolism'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/ccBTHN5qNJjNkD0fG_ipEQKtSNVqZu8Rrp_xkW2wZqmKB-oUGkM97IzwRiThXQIQFp4KEsLk8bL06Bx6Z4s'
-  lat: 40.109592
-  level: 1
-  lon: -88.22514
-  name:  'Ecclesia Noctus'
 - ap: 2537
   img:  'http://lh6.ggpht.com/5hQmgOy7ipMn0NeXRdn7vEER__CJ3-TCDol2Xwo2091XbwqjSdk6xNz3qhVQqpMUJz39XRJuMj8zTrh_2B3z_A'
   lat: 40.10496
@@ -1414,6 +1396,18 @@
   level: 4
   lon: -88.227662
   name:  'Freedom of the Press Plaque'
+- ap: 2312
+  img:  'http://lh4.ggpht.com/tVyfzfM2_0lowNzuGzuyouGzKVa2p8D1Y1LrAjsxhWtHsK6y5mVL71dZLIu8wVv9kfkvsYrXoRNgrDWdmvmX'
+  lat: 40.109736
+  level: 1
+  lon: -88.224983
+  name:  'Methodist Symbolism'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/ccBTHN5qNJjNkD0fG_ipEQKtSNVqZu8Rrp_xkW2wZqmKB-oUGkM97IzwRiThXQIQFp4KEsLk8bL06Bx6Z4s'
+  lat: 40.109592
+  level: 1
+  lon: -88.22514
+  name:  'Ecclesia Noctus'
 - ap: 2537
   img:  'http://lh6.ggpht.com/yYW6Egg1lWn6UqqLzlgqwCQhtbuxiZSW4TmvI1XBPs33OTTJ0oh51XZXOIILxGI2juoO-E_YfG5UHmeb34rSOw'
   lat: 40.109165
@@ -1451,17 +1445,17 @@
   lon: -88.239356
   name:  'Jill M. Zimmerman Memorial'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/AHDNUFdh3BZdz0fTM2i6-q3ZAorThodRdyejOf02yBX0HQU19eKUNzJ5uunPZ8u40fNYCqYBKPxVRjGB4m5C'
-  lat: 40.09287
-  level: 5
-  lon: -88.239616
-  name:  'Praying Mantis'
-- ap: 2537
   img:  'http://lh3.ggpht.com/nYd-393_D14GP4fiHeIzBxBwiribibe3KkVkqwo0A2KaBz3imkWBgyq_wiisXL0-RLbEESu9vTa02HbR5KcMQw'
   lat: 40.092652
   level: 5
   lon: -88.240341
   name:  'Buffalo Billiam'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/AHDNUFdh3BZdz0fTM2i6-q3ZAorThodRdyejOf02yBX0HQU19eKUNzJ5uunPZ8u40fNYCqYBKPxVRjGB4m5C'
+  lat: 40.09287
+  level: 5
+  lon: -88.239616
+  name:  'Praying Mantis'
 - ap: 2537
   img:  'http://lh4.ggpht.com/n7S7CjMfxfFwYHpq5HrRc6lFaFZYFVb4vYJAcTAc8MZgOgDNYI7QBChMeKIY-OSJkDSdwCf5KsJYmDesbHhq'
   lat: 40.127017
