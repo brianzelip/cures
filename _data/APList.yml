@@ -383,17 +383,17 @@
   lon: -88.25211
   name:  'First Church of Christ, Scientist'
 - ap: 4785
-  img:  'http://lh6.ggpht.com/rjO65LTfxlehqnFITx_AAA2JKpsmpj8hWVQifyHaji2E1suLvQntKGeHtT8TjDg7CZ94W3wDKW2MrfGY45k'
-  lat: 40.11699
-  level: 6
-  lon: -88.247796
-  name:  'Feathergill Honorary Plaque'
-- ap: 4785
   img:  'http://lh5.ggpht.com/77v6DfPMOKjAUzTfAuqZzYtMmpFMJV7lPr7FgQb_Fa46w1xmepHb0h-0CpG5WZy1b9vd5_DZ0uLxxZw9-DhJ'
   lat: 40.117163
   level: 6
   lon: -88.246602
   name:  'Garden for the Gardener Plaque'
+- ap: 4785
+  img:  'http://lh6.ggpht.com/rjO65LTfxlehqnFITx_AAA2JKpsmpj8hWVQifyHaji2E1suLvQntKGeHtT8TjDg7CZ94W3wDKW2MrfGY45k'
+  lat: 40.11699
+  level: 6
+  lon: -88.247796
+  name:  'Feathergill Honorary Plaque'
 - ap: 4785
   img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
   lat: 40.106921
@@ -521,17 +521,17 @@
   lon: -88.248293
   name:  'Garden Patio'
 - ap: 3848
-  img:  'http://lh5.ggpht.com/1yq3oFq9p_Yl5cUf5h7IEfZPAbae2MT7lA0DFo1DHwPWPZJJ-Ez-2AE2oTzHEHWsEJQVUcUwh3j_d3kOYgDS'
-  lat: 40.110095
-  level: 6
-  lon: -88.22862
-  name:  'Alma Mater Plaza'
-- ap: 3848
   img:  'http://lh3.googleusercontent.com/ZEt3dzGoBmn_BW1MwPTE7MY4Jcoj66UkwEA7wA7H40hbb-SwJheC1V67Dh89eAbpG6H_SeWDV3E0X5lRAkQ'
   lat: 40.111342
   level: 7
   lon: -88.23557
   name:  'Boneyard Greenway'
+- ap: 3848
+  img:  'http://lh5.ggpht.com/1yq3oFq9p_Yl5cUf5h7IEfZPAbae2MT7lA0DFo1DHwPWPZJJ-Ez-2AE2oTzHEHWsEJQVUcUwh3j_d3kOYgDS'
+  lat: 40.110095
+  level: 6
+  lon: -88.22862
+  name:  'Alma Mater Plaza'
 - ap: 3848
   img:  'http://lh6.ggpht.com/yE7aPklOUj6Y4vlNLUrqm7uJbj0TAVjhl_vSEgy7CHGlkTo5yyJGeTCUnRsHYe2UAZq2h_Y3AD_m3y3i2B8'
   lat: 40.106876
@@ -863,6 +863,18 @@
   lon: -88.253121
   name:  'Rain Garden'
 - ap: 2724
+  img:  'http://lh4.ggpht.com/xS51--rXA9M_IHpXWgFQxKZU-YbD-1zk-nug6k7RyKl8rYeam_YFwMmLNWRRHHzI-rOTGyhTJQQ314WudSQJ'
+  lat: 40.117132
+  level: 4
+  lon: -88.243009
+  name:  'Fountain in the Alley'
+- ap: 2724
+  img:  'http://lh3.googleusercontent.com/XXeIfloK29NB3kOQNB_Avx6Aurs9P8M5C2xARiAnTdW_JxewwfJs_p2A2u0vup08ZE6pnhatzC1VhSFwSZSA'
+  lat: 40.117287
+  level: 3
+  lon: -88.242984
+  name:  'Dandelion Mural'
+- ap: 2724
   img:  'http://lh3.ggpht.com/JM911OdVKmQnAXjY3hLL0qd5NnPCgPAmJ9aMYF-_9aptS_7NkLgtsMyPBHibRhomXqfXCtcHURyAdGxRVMBhXT2_HvtezfKyLBCQf_idvcHp6RfTkA'
   lat: 40.117427
   level: 4
@@ -874,18 +886,6 @@
   level: 5
   lon: -88.243409
   name:  'From Swords to Plowshares'
-- ap: 2724
-  img:  'http://lh3.googleusercontent.com/XXeIfloK29NB3kOQNB_Avx6Aurs9P8M5C2xARiAnTdW_JxewwfJs_p2A2u0vup08ZE6pnhatzC1VhSFwSZSA'
-  lat: 40.117287
-  level: 3
-  lon: -88.242984
-  name:  'Dandelion Mural'
-- ap: 2724
-  img:  'http://lh4.ggpht.com/xS51--rXA9M_IHpXWgFQxKZU-YbD-1zk-nug6k7RyKl8rYeam_YFwMmLNWRRHHzI-rOTGyhTJQQ314WudSQJ'
-  lat: 40.117132
-  level: 4
-  lon: -88.243009
-  name:  'Fountain in the Alley'
 - ap: 2724
   img:  'http://lh6.ggpht.com/yUOWOqDbf6AO83PFdgc9HePIDDDb-Ti1NAzLec_4AwYrO5NsnWsGH7K7MDb5q22wdtUh6uqekxpMHYjlnfRLEQ'
   lat: 40.104673
@@ -1013,12 +1013,6 @@
   lon: -88.244603
   name:  'Italian Statue'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/Ga3KqqKjCVdJ61URIBqkyBWPxV3xirqZoKzANDZmHeorlcqipmRLJFOy4-GmWU_2_783_KDPu3hkA0PNh5s'
-  lat: 40.124082
-  level: 6
-  lon: -88.243434
-  name:  'Theb Sculpture'
-- ap: 2537
   img:  'http://lh5.ggpht.com/I3HJjY6jOYl6ivwUaejRmReBjka9NyCW1ufaILf7cfo4VGwjX6kNB9J6PlIZCBIuTfI1jb9arxjssMTa_hisxr2ObqDCJ55lCxXFccxme5erNEY2_g'
   lat: 40.116859
   level: 5
@@ -1060,6 +1054,12 @@
   level: 7
   lon: -88.24558
   name:  'The Gregory'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/Ga3KqqKjCVdJ61URIBqkyBWPxV3xirqZoKzANDZmHeorlcqipmRLJFOy4-GmWU_2_783_KDPu3hkA0PNh5s'
+  lat: 40.124082
+  level: 6
+  lon: -88.243434
+  name:  'Theb Sculpture'
 - ap: 2537
   img:  'http://lh6.ggpht.com/_k_xJSt6mwst9haWnz5tw__yVrH9BLFSKnCMCEw9V271FMTnmEoDA4E6HprjvPTSiaBeKZmxdG3waPIapBMa'
   lat: 40.125369
@@ -1157,17 +1157,23 @@
   lon: -88.225644
   name:  'Smith Music Hall'
 - ap: 2537
+  img:  'http://lh4.ggpht.com/OKjZe5DNbqsjBvhTWI2C_GTSbIMUanllb49pzoadj3izBmngp5kFNgLokw6jbL1Y3BnreLD-LmzLdNEx-eRI'
+  lat: 40.105694
+  level: 4
+  lon: -88.225345
+  name:  '1981 Iota Chapter White Anchor'
+- ap: 2537
   img:  'http://lh5.ggpht.com/ucFkWovrZBr6wFMicSGD78p44tqzcyfJCvQuAocYo0do3ODoHsOeAMphZZferoOLkGfuJPQVlILRzKG1vAPg'
   lat: 40.109172
   level: 7
   lon: -88.231151
   name:  'Illini Life Christian Fellowship'
-- ap: 2462
-  img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
-  lat: 40.107753
-  level: 4
-  lon: -88.228913
-  name:  'Zipcar-Wright Street & Daniel Street'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/2tHD_AHYQu0kWuwLX2HMYWBG4txVkuWsBEfzWLL39npWp8kMSHiUKxSJM1E7yhimuMVUJ-RIlSSKsgjETvtr'
+  lat: 40.110524
+  level: 6
+  lon: -88.228706
+  name:  'Leo Roy Tehon Memorial'
 - ap: 2462
   img:  'http://lh4.ggpht.com/GCS0-CwKl9SLe2zfeL7FPDuKv5ZFDhlnX3hMXZSJLvK-u73RlgWbn_FgnOHZi-0wqMk52z_YLSAMReYTSaoP'
   lat: 40.10659
@@ -1187,7 +1193,7 @@
   lon: -88.22514
   name:  'Ecclesia Noctus'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/FeNb7eaFcVgSIszlT2T-4C6QpivsEWKx7F2J8AK3pTCPPQwZ0qEAFiQvi8nDwgAd2Xa7xjqC0lc2x_5Eazb-'
+  img:  'http://lh6.ggpht.com/1i7JFIfvKI3IMOAekdomh9jm9HrAhBBdNIOyX81Nkq1Bh49sBqKg37sMm99MYm8yJjHsG4dBdnRg1X5Aq-c'
   lat: 40.104796
   level: 4
   lon: -88.227461
@@ -1198,12 +1204,6 @@
   level: 4
   lon: -88.226388
   name:  'Illinois State Water Survey Plaque'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/OKjZe5DNbqsjBvhTWI2C_GTSbIMUanllb49pzoadj3izBmngp5kFNgLokw6jbL1Y3BnreLD-LmzLdNEx-eRI'
-  lat: 40.105694
-  level: 4
-  lon: -88.225345
-  name:  '1981 Iota Chapter White Anchor'
 - ap: 2537
   img:  'http://lh4.ggpht.com/m6NugtNnF8mim1fUMFDjmScu99lS5PjmUlCT9kKOOsIMqCH5uu5MRPhMusl6BPPpZ7Z3hnYTQZALmqSpLHxs'
   lat: 40.103652
@@ -1216,12 +1216,12 @@
   level: 4
   lon: -88.233215
   name:  'Mac and Diana Garret Memorial Tree'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/2tHD_AHYQu0kWuwLX2HMYWBG4txVkuWsBEfzWLL39npWp8kMSHiUKxSJM1E7yhimuMVUJ-RIlSSKsgjETvtr'
-  lat: 40.110524
-  level: 6
-  lon: -88.228706
-  name:  'Leo Roy Tehon Memorial'
+- ap: 2462
+  img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
+  lat: 40.107753
+  level: 4
+  lon: -88.228913
+  name:  'Zipcar-Wright Street & Daniel Street'
 - ap: 2312
   img:  'http://lh4.ggpht.com/7U0YXCB_DIhnqPJyjyLpNn6kg4lU8HvKL87ddBKWq1sptvVLvCEiCuNEnghQtqDGSN2OBNcOUK9nZcYjY4Vr'
   lat: 40.107887
