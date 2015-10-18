@@ -238,7 +238,7 @@
   resos2: 8
 - img1: http://i.imgur.com/LujBo5P.png
   img2: http://i.imgur.com/LujBo5P.png
-  intel: https://www.ingress.com/intel?ll=40.1892576667,-88.394191&z=14&pls=40.178925,-88.408076,40.199321,-88.378288
+  intel: https://www.ingress.com/intel?ll=40.1891566667,-88.3946286667&z=14&pls=40.178925,-88.408076,40.199321,-88.378288
   lat1: 40.178925
   lat2: 40.199321
   level1: '?'
@@ -376,19 +376,19 @@
   name2:  'Triptych Brewing'
   resos1: 8
   resos2: 8
-- img1: http://i.imgur.com/LujBo5P.png
-  img2:  'http://lh6.ggpht.com/Agsmc3Gk_eTwRNySVZQyywiFe_wThkiMUicoZWD7q3aYhatN9GcapD1yOBV-aZB1yl0dqc9tfci1w-2Be67AMw'
-  intel: https://www.ingress.com/intel?ll=40.1875823333,-88.405199&z=14&pls=40.178925,-88.408076,40.192548,-88.40232
-  lat1: 40.178925
-  lat2: 40.192548
-  level1: '?'
-  level2: 4
-  lon1: -88.408076
-  lon2: -88.40232
-  mus: 423
-  name1:  'Community Free Church'
-  name2:  'First Baptist Church'
-  resos1: '?'
+- img1:  'http://lh5.ggpht.com/hjAc940kWyt9QT4G_BJyJKaTef3jL_Njnm8ubUtQD7u6qVsD9_7TiJbgZpKeqAv60kNw8FYspVxkn-Bt1cxYBw'
+  img2:  'http://lh3.ggpht.com/HQQk1Vhe8iLtWelBBiY61PHeAtfu8hmoNtMQbudWsE6hVZv6Kl0NG_Q3t6GAKpSebnG5pA6v2Q78CTC34dE'
+  intel: https://www.ingress.com/intel?ll=40.106325,-88.242794&z=14&pls=40.109959,-88.24318,40.09995,-88.237327
+  lat1: 40.109959
+  lat2: 40.09995
+  level1: 4
+  level2: 6
+  lon1: -88.24318
+  lon2: -88.237327
+  mus: 422
+  name1:  'Mini Park II Sculpture'
+  name2:  'Sportsmanship Inscription'
+  resos1: 8
   resos2: 8
 - img1:  'http://lh4.ggpht.com/EveE1r4LU3oEoTrxc2hAzywPFArsSkIcAydfuBtNSmnwv76V6mqWgNEpe7srr7g3ZAOILSYHsfCdLLlwzU-9VA'
   img2: http://i.imgur.com/LujBo5P.png
@@ -592,11 +592,25 @@
   lat1: 40.104168
   lat2: 40.109066
   level1: 3
-  level2: 5
+  level2: 6
   lon1: -88.238808
   lon2: -88.247875
   mus: 252
   name1:  'Alpha Gamma Rho'
+  name2:  'The Church of Scientology'
+  resos1: 8
+  resos2: 8
+- img1:  'http://lh6.ggpht.com/0vHaOKrH35vUHDfapI4QDvHSJLenhiXHIhdWBwVKzEB741Ky8B7mMeXnUtOlIYycCbLUO-dRzHZFrPQFFbFZ'
+  img2:  'http://lh4.ggpht.com/Oocso9yyW_QlJlddbFRk8zzguP4PfXU8kI9T5rJbiyNwSgNMG0BmSoK3TdG2cEgH-p2Xd_vpQMxA_RcxLUP3'
+  intel: https://www.ingress.com/intel?ll=40.0939286667,-88.2590616667&z=14&pls=40.085791,-88.265411,40.109066,-88.247875
+  lat1: 40.085791
+  lat2: 40.109066
+  level1: 5
+  level2: 6
+  lon1: -88.265411
+  lon2: -88.247875
+  mus: 247
+  name1:  'Karen A. Sayers Memorial'
   name2:  'The Church of Scientology'
   resos1: 8
   resos2: 8
@@ -668,20 +682,6 @@
   mus: 212
   name1:  'Meadow Square Park'
   name2:  'Mini Park IV'
-  resos1: 8
-  resos2: 8
-- img1:  'http://lh5.ggpht.com/hjAc940kWyt9QT4G_BJyJKaTef3jL_Njnm8ubUtQD7u6qVsD9_7TiJbgZpKeqAv60kNw8FYspVxkn-Bt1cxYBw'
-  img2:  'http://lh3.ggpht.com/HQQk1Vhe8iLtWelBBiY61PHeAtfu8hmoNtMQbudWsE6hVZv6Kl0NG_Q3t6GAKpSebnG5pA6v2Q78CTC34dE'
-  intel: https://www.ingress.com/intel?ll=40.106325,-88.242794&z=14&pls=40.109959,-88.24318,40.09995,-88.237327
-  lat1: 40.109959
-  lat2: 40.09995
-  level1: 4
-  level2: 6
-  lon1: -88.24318
-  lon2: -88.237327
-  mus: 211
-  name1:  'Mini Park II Sculpture'
-  name2:  'Sportsmanship Inscription'
   resos1: 8
   resos2: 8
 - img1:  'http://lh3.ggpht.com/m6U-TO88Q5GMQfUN_VkhxMau1rCnKRk4Cq4wo4AL6VjfkLQYyM81LdKWD18uetEmGbgMRpaIUgSu68ybtTVr5Q'
@@ -822,6 +822,20 @@
   mus: 149
   name1:  'Cornerstone Baptist Church'
   name2:  'Lake Park Prairie Restoration'
+  resos1: 8
+  resos2: 8
+- img1:  'http://lh5.ggpht.com/_9uqsDQROIwqIhKx_URY4DdZAapoZBEWK6Eaclt5mM5vPsjwQAD-v8Bv-4b-Smq2F8X4zOgzLx2KwySkFWc'
+  img2:  'http://lh6.ggpht.com/WVVbmiu2GGTnPTszcnYYILHKlkZDoxB-QY6Yv7YPoUfdVn92jYnKjpVKNkfWdFrPjq-BaFeKGJWLZlE-bbA'
+  intel: https://www.ingress.com/intel?ll=40.119992,-88.2533456667&z=14&pls=40.118448,-88.25211,40.120467,-88.2577
+  lat1: 40.118448
+  lat2: 40.120467
+  level1: 5
+  level2: 5
+  lon1: -88.25211
+  lon2: -88.2577
+  mus: 149
+  name1:  'First Church of Christ, Scientist'
+  name2:  'Salvation Army Church'
   resos1: 8
   resos2: 8
 - img1:  'http://lh3.ggpht.com/nEmxwddo6XwjpSBtzzXHCx_v9wYD5ITuVRx4VF0emrxiLFZGpsBb4HkcXFS4BAR3ZhrmD8t2YDKEWF7NGxV7'
@@ -1026,7 +1040,7 @@
   lat1: 40.113521
   lat2: 40.109066
   level1: 3
-  level2: 5
+  level2: 6
   lon1: -88.244122
   lon2: -88.247875
   mus: 71
@@ -1088,6 +1102,34 @@
   mus: 68
   name1:  'Ann and Ben Schrumpf Memorial'
   name2:  'CIMIC'
+  resos1: 8
+  resos2: 8
+- img1:  'http://lh4.ggpht.com/Oocso9yyW_QlJlddbFRk8zzguP4PfXU8kI9T5rJbiyNwSgNMG0BmSoK3TdG2cEgH-p2Xd_vpQMxA_RcxLUP3'
+  img2:  'http://lh3.ggpht.com/Ms-eS70MT9muTptnwVTimqIuSB_eBhTyFe7q-3lccfynMMDdRAaRw_jIQVmaDzBR4e8l2NL6RwgNy4h7irbp'
+  intel: https://www.ingress.com/intel?ll=40.1029556667,-88.2405233333&z=14&pls=40.109066,-88.247875,40.099851,-88.236368
+  lat1: 40.109066
+  lat2: 40.099851
+  level1: 6
+  level2: 6
+  lon1: -88.247875
+  lon2: -88.236368
+  mus: 63
+  name1:  'The Church of Scientology'
+  name2:  'Zuppkeisms Plaque'
+  resos1: 8
+  resos2: 8
+- img1:  'http://lh5.ggpht.com/dpsEP8PFhsghyhulqyixJWOBciNBQP3X10g1YPnE63hnUhWZvxZBXplQAcjQI71ddCRWVkuJ8Af_AIfDpGnF'
+  img2:  'http://lh3.ggpht.com/Ms-eS70MT9muTptnwVTimqIuSB_eBhTyFe7q-3lccfynMMDdRAaRw_jIQVmaDzBR4e8l2NL6RwgNy4h7irbp'
+  intel: https://www.ingress.com/intel?ll=40.0955766667,-88.2458646667&z=14&pls=40.086929,-88.263899,40.099851,-88.236368
+  lat1: 40.086929
+  lat2: 40.099851
+  level1: 7
+  level2: 6
+  lon1: -88.263899
+  lon2: -88.236368
+  mus: 62
+  name1:  'Dan Morrissey Park'
+  name2:  'Zuppkeisms Plaque'
   resos1: 8
   resos2: 8
 - img1: http://i.imgur.com/LujBo5P.png
@@ -1232,7 +1274,7 @@
   resos2: 8
 - img1:  'http://lh3.googleusercontent.com/ehDcIFPGimXzEpSpqydgEInzS_LCx7xdxdANoVH3o2WnEnCyvgjWqV1F-DbvHnpuMsAkbUqetYiu0sPiWwE'
   img2:  'http://lh6.ggpht.com/rbEeQxbZyvrUu5nCQma0PzHtlA4cmaa9jItLke0b5KBmVlYP0q0d9OYg0_jrSi-8RiYOSdJklSevnYpoyjBWgA'
-  intel: https://www.ingress.com/intel?ll=40.1170233333,-88.27009&z=14&pls=40.12025,-88.268125,40.118265,-88.268383
+  intel: https://www.ingress.com/intel?ll=40.1189986667,-88.2683236667&z=14&pls=40.12025,-88.268125,40.118265,-88.268383
   lat1: 40.12025
   lat2: 40.118265
   level1: 6
@@ -1356,20 +1398,6 @@
   name2:  'Eisner Park North Entrance'
   resos1: 8
   resos2: 8
-- img1:  'http://lh4.ggpht.com/Oocso9yyW_QlJlddbFRk8zzguP4PfXU8kI9T5rJbiyNwSgNMG0BmSoK3TdG2cEgH-p2Xd_vpQMxA_RcxLUP3'
-  img2:  'http://lh3.ggpht.com/Ms-eS70MT9muTptnwVTimqIuSB_eBhTyFe7q-3lccfynMMDdRAaRw_jIQVmaDzBR4e8l2NL6RwgNy4h7irbp'
-  intel: https://www.ingress.com/intel?ll=40.1029556667,-88.2405233333&z=14&pls=40.109066,-88.247875,40.099851,-88.236368
-  lat1: 40.109066
-  lat2: 40.099851
-  level1: 5
-  level2: 3
-  lon1: -88.247875
-  lon2: -88.236368
-  mus: 32
-  name1:  'The Church of Scientology'
-  name2:  'Zuppkeisms Plaque'
-  resos1: 8
-  resos2: 5
 - img1:  'http://lh4.ggpht.com/dfv9WXc8AIG4SQiUR41qrJI0-s2-zl6hcMaPJOetGKZ2R1dknt0mX1ghGf1zcPNzXcOFpjVSvmXELswwTMO8'
   img2:  'http://lh6.ggpht.com/NgnydTt337ADxVuRuFnimA4_Ifff2E49IzKzpqchxzsfFOWhZolCGjl48IjFWzsJYEgVBSM5nurntToYOMT7'
   intel: https://www.ingress.com/intel?ll=40.0990306667,-88.2209256667&z=14&pls=40.09627,-88.218588,40.100488,-88.221702
@@ -2030,7 +2058,7 @@
   resos2: 8
 - img1: http://i.imgur.com/LujBo5P.png
   img2:  'http://lh5.ggpht.com/PnX0W4nb5AYgeh3aSV1f6L1M6SXT5EDNNj-HZLlIrqeFoeMlVOlqnsY-fMyXYgvKn-Ac3RDPKf_iJCtYRmek'
-  intel: https://www.ingress.com/intel?ll=40.1940126667,-88.4022773333&z=14&pls=40.194685,-88.402516,40.194805,-88.401996
+  intel: https://www.ingress.com/intel?ll=40.1948363333,-88.4024823333&z=14&pls=40.194685,-88.402516,40.194805,-88.401996
   lat1: 40.194685
   lat2: 40.194805
   level1: '?'
