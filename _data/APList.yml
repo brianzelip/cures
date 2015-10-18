@@ -448,18 +448,18 @@
   level: 8
   lon: -88.251419
   name:  'Lyman Larson Memorial'
-- ap: 5159
-  img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
-  lat: 40.117976
-  level: 6
-  lon: -88.245082
-  name:  'Robeson Building '
 - ap: 4972
   img:  'http://lh5.ggpht.com/ONr7OWgjlaWwJELaKTJEC1ZVpkIkuN-2c01D2AligYZC9Zbt8lH0SMkirhrWfHdjmVDmCtzhJWoVxoZM-NM'
   lat: 40.116766
   level: 5
   lon: -88.247614
   name:  'Mary Shaw Memorial Tree'
+- ap: 4972
+  img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
+  lat: 40.117976
+  level: 6
+  lon: -88.245082
+  name:  'Robeson Building '
 - ap: 4785
   img:  'http://lh4.ggpht.com/2JNDO54Hu2KzjIaEeCIFVgD7gEa5VXNBsIemFYp6cgiTUbsSpOwLTc-HqZb__uut24jHpVnQVokRVtL00ozu'
   lat: 40.132056
@@ -564,10 +564,10 @@
   name:  'Alma Mater Plaza'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.737297
+  lat: 40.776146
   level: '?'
-  lon: -89.017729
-  name:  '6a13ff6987ce4ce891f691c1f40a3d6b.16'
+  lon: -87.734755
+  name:  '95f84aee411745db84d3a6bfd2a09edc.12'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.342224
@@ -576,10 +576,10 @@
   name:  'e26c3abb502e4d83a85e3ac05002a67a.16'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.776146
+  lat: 40.737297
   level: '?'
-  lon: -87.734755
-  name:  '95f84aee411745db84d3a6bfd2a09edc.12'
+  lon: -89.017729
+  name:  '6a13ff6987ce4ce891f691c1f40a3d6b.16'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.733307
@@ -762,6 +762,12 @@
   name:  '43a8f453392043cf80c1371702ed3921.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.301568
+  level: '?'
+  lon: -88.144929
+  name:  'dfda6d7b8dc249668fe321878b1002a0.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.740015
   level: '?'
   lon: -89.018532
@@ -778,12 +784,6 @@
   level: '?'
   lon: -87.983178
   name:  '061c7fe150d04a21b25b30b4a207af6d.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.301568
-  level: '?'
-  lon: -88.144929
-  name:  'dfda6d7b8dc249668fe321878b1002a0.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.179763
@@ -833,12 +833,6 @@
   lon: -88.242747
   name:  'Sidewalk Art'
 - ap: 3474
-  img:  'http://lh4.ggpht.com/ULEhKlvERD4aidwSKPhLFujl0N0mZWcHPxtcJ7hNJkyDjYek9yrB4UD_G8bU-O9-12L1LYpDkM068BiYmpm9weZeGJsz-K5whCvUYTfmDqaIp1Fp'
-  lat: 40.117
-  level: 5
-  lon: -88.247111
-  name:  'Wesley Robert Weedman Memorial'
-- ap: 3474
   img:  'http://lh5.ggpht.com/wX6-mbTE7nT00T6ildapKbI5ZrnhPIt4l91DhMseyo3GYFrgQIuqbjh8ntZY6NxGZ-qa6fKWlyoBOPdIdNIt'
   lat: 40.114653
   level: 7
@@ -862,6 +856,12 @@
   level: 7
   lon: -88.253451
   name:  'Champaign Fire Department'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/ULEhKlvERD4aidwSKPhLFujl0N0mZWcHPxtcJ7hNJkyDjYek9yrB4UD_G8bU-O9-12L1LYpDkM068BiYmpm9weZeGJsz-K5whCvUYTfmDqaIp1Fp'
+  lat: 40.117
+  level: 5
+  lon: -88.247111
+  name:  'Wesley Robert Weedman Memorial'
 - ap: 3399
   img:  'http://lh3.ggpht.com/ahylfFHnKd7tl8EDQopVPlqhdiJblx_p3TWsELUFACXM_9qS9N8agb-ypr7EOOemNFMUrRGaUQ23LY6F1ssb'
   lat: 40.095094
@@ -1008,16 +1008,16 @@
   name:  '821ef379f2e049a6b4a81b996d5b5b59.16'
 - ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.106513
-  level: '?'
-  lon: -88.5585
-  name:  'Lodge Christian Church'
-- ap: 2724
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 44.607633
   level: '?'
   lon: -87.43205
   name:  '8e6a8255e7c342e8806313a728bf9918.12'
+- ap: 2724
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.106513
+  level: '?'
+  lon: -88.5585
+  name:  'Lodge Christian Church'
 - ap: 2724
   img:  'http://lh3.googleusercontent.com/3nkY0B9PDqzlWJ_EKh5GnTZ8z0U6X9-2dI5dapKA5Q3F4iKrE99AJZoy6NSvh2nU1WTG2hL70276yJjJ0G8'
   lat: 40.141598
@@ -1128,6 +1128,12 @@
   name:  'ebaa4a5573f7449399263066d9248473.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.914546
+  level: '?'
+  lon: -87.620177
+  name:  'f6e8c1b0f696478baedb348ac0feaf2c.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.550357
   level: '?'
   lon: -86.510302
@@ -1162,12 +1168,6 @@
   level: '?'
   lon: -86.278074
   name:  '4d33cd04f1ab4f56a91d8c857c2877c4.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.914546
-  level: '?'
-  lon: -87.620177
-  name:  'f6e8c1b0f696478baedb348ac0feaf2c.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.181654
@@ -1246,10 +1246,10 @@
   level: 3
   lon: -88.242485
   name:  'Champaign Servicemen and Women Memorial'
-- ap: 2537
+- ap: 2462
   img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
   lat: 40.116989
-  level: 6
+  level: 5
   lon: -88.242255
   name:  'Blind Pig'
 - ap: 2537
@@ -1258,12 +1258,6 @@
   level: 6
   lon: -88.24263
   name:  'Cafe Kopi'
-- ap: 2312
-  img:  'http://lh3.ggpht.com/GGBe9Hug3fUbRCRAMs_kO1fg2HHQ95ZDBdW0S2tAHakvhQbWxlttanjhGNJJcyVRruUlL7zjQnPGI2bu8Wc4'
-  lat: 40.117905
-  level: 4
-  lon: -88.242149
-  name:  'Read All About It'
 - ap: 2537
   img:  'http://lh6.ggpht.com/HvC073U-qgv-Zdd0zHS5_UQsybUORqZiuhnRY5V1bWxlRPwBG9564LEVab8tUebtP8OzNkBVp3K39WZkahjw'
   lat: 40.118119
@@ -1288,18 +1282,6 @@
   level: 4
   lon: -88.244586
   name:  'Hazel E. Iungerich Memorial'
-- ap: 2237
-  img:  'http://lh5.ggpht.com/BPYtoLzDqibtj79fwGYxizNqHsBoJp5OzVO4Z-75rudKppazgw7D0eoXHOpH20iQd2Uc9MHXs72-r7fOJDNzpz3KRHIpZwzmXBope3LI8GA4SfsY'
-  lat: 40.117754
-  level: 3
-  lon: -88.241676
-  name:  'Jos. Kuhn and Co. Building'
-- ap: 2387
-  img:  'http://lh3.ggpht.com/yeYI3q7rDQLA5xBcWfH-Caw2Uh740ZPRQjjyvOrZz7ZyLI-gxBpi8yqxqDrlOBzG9YHs6YlxdgX0obTpXlQ'
-  lat: 40.117681
-  level: 4
-  lon: -88.241405
-  name:  'Jupiter''s Downtown'
 - ap: 2537
   img:  'http://lh5.ggpht.com/I3HJjY6jOYl6ivwUaejRmReBjka9NyCW1ufaILf7cfo4VGwjX6kNB9J6PlIZCBIuTfI1jb9arxjssMTa_hisxr2ObqDCJ55lCxXFccxme5erNEY2_g'
   lat: 40.116859
@@ -1408,18 +1390,6 @@
   level: 7
   lon: -88.233753
   name:  'Chabad Menorah'
-- ap: 2237
-  img:  'http://lh4.ggpht.com/nWSZEVnpEj78GBs58tujBturUcAqKjsgYU_9v_qXRS_K_ROKLNgBwnqKopJse169VJqqWtn6oo3h_qABlaw'
-  lat: 40.117571
-  level: 3
-  lon: -88.240851
-  name:  'The Highdive'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/ykBYPl8Bo1p_kEXn-mEqhg3k6_885_hOQ2G2hi9b_kDcmiGHWz3L0t1c_Gi2ZIkzlHhyfqh0hgIM_uuZ4Dk'
-  lat: 40.117519
-  level: 5
-  lon: -88.240577
-  name:  'Spiral Flight'
 - ap: 2537
   img:  'http://lh6.ggpht.com/KD5w0ez9F7rd70ylNnKO8m3t3aROeGF5SZIUT23pb6WisqWmVYgW1SBL-jgNAPy1UKJPgoTlgGjEK9P1BCqJ'
   lat: 40.11243
@@ -1474,6 +1444,12 @@
   level: 4
   lon: -88.227679
   name:  'Lincoln Hall'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/yE7aPklOUj6Y4vlNLUrqm7uJbj0TAVjhl_vSEgy7CHGlkTo5yyJGeTCUnRsHYe2UAZq2h_Y3AD_m3y3i2B8'
+  lat: 40.106876
+  level: 6
+  lon: -88.228565
+  name:  'Lincoln Hall Sigil'
 - ap: 2312
   img:  'http://lh4.ggpht.com/tVyfzfM2_0lowNzuGzuyouGzKVa2p8D1Y1LrAjsxhWtHsK6y5mVL71dZLIu8wVv9kfkvsYrXoRNgrDWdmvmX'
   lat: 40.109736
@@ -1540,12 +1516,6 @@
   level: 5
   lon: -88.228733
   name:  'The Centennial Colophon'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/yE7aPklOUj6Y4vlNLUrqm7uJbj0TAVjhl_vSEgy7CHGlkTo5yyJGeTCUnRsHYe2UAZq2h_Y3AD_m3y3i2B8'
-  lat: 40.106876
-  level: 6
-  lon: -88.228565
-  name:  'Lincoln Hall Sigil'
 - ap: 2537
   img:  'http://lh5.ggpht.com/2PB1u3cNuASfw9D_MIUzI1JvNofebK7zsuGqKoUApr-nUWYZ8y5CzxH6g7CdcY7ShBaVGrBrurkbwrdUPD7JBk55TH0Ouao5b_g2jUI1saBNUE8'
   lat: 40.106744
