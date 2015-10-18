@@ -335,12 +335,6 @@
   lon: -88.224484
   name:  'Bucky Balls'
 - ap: 4972
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.312242
-  level: '?'
-  lon: -88.201368
-  name:  '2012 Employee Dedication Bench'
-- ap: 4972
   img:  'http://lh5.ggpht.com/ONr7OWgjlaWwJELaKTJEC1ZVpkIkuN-2c01D2AligYZC9Zbt8lH0SMkirhrWfHdjmVDmCtzhJWoVxoZM-NM'
   lat: 40.116766
   level: 5
@@ -389,17 +383,17 @@
   lon: -88.25211
   name:  'First Church of Christ, Scientist'
 - ap: 4785
-  img:  'http://lh6.ggpht.com/rjO65LTfxlehqnFITx_AAA2JKpsmpj8hWVQifyHaji2E1suLvQntKGeHtT8TjDg7CZ94W3wDKW2MrfGY45k'
-  lat: 40.11699
-  level: 6
-  lon: -88.247796
-  name:  'Feathergill Honorary Plaque'
-- ap: 4785
   img:  'http://lh5.ggpht.com/77v6DfPMOKjAUzTfAuqZzYtMmpFMJV7lPr7FgQb_Fa46w1xmepHb0h-0CpG5WZy1b9vd5_DZ0uLxxZw9-DhJ'
   lat: 40.117163
   level: 6
   lon: -88.246602
   name:  'Garden for the Gardener Plaque'
+- ap: 4785
+  img:  'http://lh6.ggpht.com/rjO65LTfxlehqnFITx_AAA2JKpsmpj8hWVQifyHaji2E1suLvQntKGeHtT8TjDg7CZ94W3wDKW2MrfGY45k'
+  lat: 40.11699
+  level: 6
+  lon: -88.247796
+  name:  'Feathergill Honorary Plaque'
 - ap: 4785
   img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
   lat: 40.106921
@@ -473,17 +467,17 @@
   lon: -88.251337
   name:  'In Loving Memory of Zeus'
 - ap: 4411
-  img:  'http://lh3.googleusercontent.com/awNe0JGlWWAtHv9iiLcqQjVyppWY-io4ybTL_ir2ZKsMLJgkZcW4rdUAuDjOFdWQvIcp5jlTWiROgHANh1Y1'
-  lat: 40.087822
-  level: 7
-  lon: -88.253161
-  name:  '"Ice" at Mattis Park'
-- ap: 4411
   img:  'http://lh5.ggpht.com/FeahTnHcc-Tb0sWOd6cQiYz5QrczzT5-Behz0KlyeiGyzYhvAlNlhPI72BVkREal1tU_4g4r2UklF7lcQgKr'
   lat: 40.087292
   level: 6
   lon: -88.253528
   name:  'Agnes Sweikar Memorial'
+- ap: 4411
+  img:  'http://lh3.googleusercontent.com/awNe0JGlWWAtHv9iiLcqQjVyppWY-io4ybTL_ir2ZKsMLJgkZcW4rdUAuDjOFdWQvIcp5jlTWiROgHANh1Y1'
+  lat: 40.087822
+  level: 7
+  lon: -88.253161
+  name:  '"Ice" at Mattis Park'
 - ap: 4411
   img:  'http://lh5.ggpht.com/X-Tq3QbQ3JvCApWIGFxRwDJId7aLa8hY_ka0eU3QySTcZBgXcbPC4UXEQ9VVMsA-dYRxGqAdCotw-q7dby8f'
   lat: 40.088412
@@ -508,6 +502,12 @@
   level: 8
   lon: -88.248271
   name:  'Still Waters'
+- ap: 4035
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 44.607633
+  level: '?'
+  lon: -87.43205
+  name:  '8e6a8255e7c342e8806313a728bf9918.12'
 - ap: 3848
   img:  'http://lh4.ggpht.com/vKkSwERLa3zQO2UUIiYl1AEruAx1QTPcP4jSmPt89PG4AviJ1WhlVVH8qmqJ0aY2gqJmHcqdZFcM2pQconc'
   lat: 40.139375
@@ -527,17 +527,17 @@
   lon: -88.248293
   name:  'Garden Patio'
 - ap: 3848
-  img:  'http://lh5.ggpht.com/1yq3oFq9p_Yl5cUf5h7IEfZPAbae2MT7lA0DFo1DHwPWPZJJ-Ez-2AE2oTzHEHWsEJQVUcUwh3j_d3kOYgDS'
-  lat: 40.110095
-  level: 6
-  lon: -88.22862
-  name:  'Alma Mater Plaza'
-- ap: 3848
   img:  'http://lh3.googleusercontent.com/ZEt3dzGoBmn_BW1MwPTE7MY4Jcoj66UkwEA7wA7H40hbb-SwJheC1V67Dh89eAbpG6H_SeWDV3E0X5lRAkQ'
   lat: 40.111342
   level: 7
   lon: -88.23557
   name:  'Boneyard Greenway'
+- ap: 3848
+  img:  'http://lh5.ggpht.com/1yq3oFq9p_Yl5cUf5h7IEfZPAbae2MT7lA0DFo1DHwPWPZJJ-Ez-2AE2oTzHEHWsEJQVUcUwh3j_d3kOYgDS'
+  lat: 40.110095
+  level: 6
+  lon: -88.22862
+  name:  'Alma Mater Plaza'
 - ap: 3848
   img:  'http://lh6.ggpht.com/yE7aPklOUj6Y4vlNLUrqm7uJbj0TAVjhl_vSEgy7CHGlkTo5yyJGeTCUnRsHYe2UAZq2h_Y3AD_m3y3i2B8'
   lat: 40.106876
@@ -546,10 +546,10 @@
   name:  'Lincoln Hall Sigil'
 - ap: 3661
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.737297
+  lat: 40.312242
   level: '?'
-  lon: -89.017729
-  name:  '6a13ff6987ce4ce891f691c1f40a3d6b.16'
+  lon: -88.201368
+  name:  '2012 Employee Dedication Bench'
 - ap: 3661
   img:  'http://lh4.ggpht.com/N6E1iW7R1Dt6SCyd1q4Ym_HeSnFZ2mHHlXE-jkX1_YLy9BgSRPcDZK8ri2PWx6-sV1IEsClFGgMgpdI2Bgg'
   lat: 40.069187
@@ -622,12 +622,6 @@
   level: '?'
   lon: -87.983178
   name:  '061c7fe150d04a21b25b30b4a207af6d.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.733307
-  level: '?'
-  lon: -89.018969
-  name:  '6728631712bf44eb999b77687594dba6.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.285989
@@ -797,6 +791,18 @@
   lon: -88.234149
   name:  'Alpha Delta Phi Fraternity House'
 - ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.534493
+  level: '?'
+  lon: -86.23473
+  name:  '3ea04f14cc494f0fb185af3d30d226ac.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.563111
+  level: '?'
+  lon: -86.229275
+  name:  '96b473f4f5c54e95a5936b131328592e.16'
+- ap: 3474
   img:  'http://lh5.ggpht.com/kElaGOaV9aI8SrnM1D65gx9J0Ky1AKrN9Yo-pXVmDhELt2pee4MwVRiCqCmlqWzUWj5pS33GnEzAiXmiWKsw'
   lat: 40.108111
   level: 7
@@ -863,6 +869,18 @@
   lon: -88.235279
   name:  'Judson Chapel Baptist Church'
 - ap: 2724
+  img:  'http://lh3.ggpht.com/CwgYIhVaivHHg_U6yqu5KSGhSh9ipRBDu7G192KiQfrnXc7C8uh7UOh6MP91vhZJ3LZdiTaFwpvFukvIaj6J'
+  lat: 40.117445
+  level: 5
+  lon: -88.243409
+  name:  'From Swords to Plowshares'
+- ap: 2724
+  img:  'http://lh4.ggpht.com/xS51--rXA9M_IHpXWgFQxKZU-YbD-1zk-nug6k7RyKl8rYeam_YFwMmLNWRRHHzI-rOTGyhTJQQ314WudSQJ'
+  lat: 40.117132
+  level: 4
+  lon: -88.243009
+  name:  'Fountain in the Alley'
+- ap: 2724
   img:  'http://lh5.ggpht.com/vYay8RKsCV_BP_MkeFm7se0VZoYthm-1pThiATAADleBlTsPowobgZyUoU7DUto6p5cpg9adpCcTgNR6iop0Jw'
   lat: 40.120121
   level: 5
@@ -874,6 +892,18 @@
   level: 6
   lon: -88.253121
   name:  'Rain Garden'
+- ap: 2724
+  img:  'http://lh3.googleusercontent.com/XXeIfloK29NB3kOQNB_Avx6Aurs9P8M5C2xARiAnTdW_JxewwfJs_p2A2u0vup08ZE6pnhatzC1VhSFwSZSA'
+  lat: 40.117287
+  level: 3
+  lon: -88.242984
+  name:  'Dandelion Mural'
+- ap: 2724
+  img:  'http://lh3.ggpht.com/JM911OdVKmQnAXjY3hLL0qd5NnPCgPAmJ9aMYF-_9aptS_7NkLgtsMyPBHibRhomXqfXCtcHURyAdGxRVMBhXT2_HvtezfKyLBCQf_idvcHp6RfTkA'
+  lat: 40.117427
+  level: 4
+  lon: -88.243235
+  name:  'Cowboy Monkey'
 - ap: 2724
   img:  'http://lh6.ggpht.com/yUOWOqDbf6AO83PFdgc9HePIDDDb-Ti1NAzLec_4AwYrO5NsnWsGH7K7MDb5q22wdtUh6uqekxpMHYjlnfRLEQ'
   lat: 40.104673
@@ -918,10 +948,28 @@
   name:  'Prairie Overlook'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.914546
+  level: '?'
+  lon: -87.620177
+  name:  'f6e8c1b0f696478baedb348ac0feaf2c.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.679293
   level: '?'
   lon: -89.010376
   name:  'a65f75d2346749368a97d56defbebbdf.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.705766
+  level: '?'
+  lon: -86.167934
+  name:  '922fde6de61b49d3857dba8ddc1a9786.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.57402
+  level: '?'
+  lon: -86.228845
+  name:  '3cbd402be1194381bb6d1a669ed4c5fd.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.550357
@@ -934,18 +982,6 @@
   level: '?'
   lon: -87.657985
   name:  'd8beb8f8277845a9b61f2f4176f70a00.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 44.607633
-  level: '?'
-  lon: -87.43205
-  name:  '8e6a8255e7c342e8806313a728bf9918.12'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.409984
-  level: '?'
-  lon: -86.278074
-  name:  '4d33cd04f1ab4f56a91d8c857c2877c4.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.107613
@@ -1012,6 +1048,12 @@
   level: 7
   lon: -88.244603
   name:  'Italian Statue'
+- ap: 2312
+  img:  'http://lh3.ggpht.com/OUvkiimKHWXT4ODGC3e1xhTPnTBY2evTH57d-2AjPRnb2doXL04BylmpX4uXkAf4zvAUnORx30sRQcMPhRE'
+  lat: 40.127465
+  level: 4
+  lon: -88.244586
+  name:  'Hazel E. Iungerich Memorial'
 - ap: 2537
   img:  'http://lh5.ggpht.com/I3HJjY6jOYl6ivwUaejRmReBjka9NyCW1ufaILf7cfo4VGwjX6kNB9J6PlIZCBIuTfI1jb9arxjssMTa_hisxr2ObqDCJ55lCxXFccxme5erNEY2_g'
   lat: 40.116859
@@ -1030,18 +1072,6 @@
   level: 5
   lon: -88.247413
   name:  'West Side Park'
-- ap: 2312
-  img:  'http://lh3.ggpht.com/OUvkiimKHWXT4ODGC3e1xhTPnTBY2evTH57d-2AjPRnb2doXL04BylmpX4uXkAf4zvAUnORx30sRQcMPhRE'
-  lat: 40.127465
-  level: 4
-  lon: -88.244586
-  name:  'Hazel E. Iungerich Memorial'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/0JuC7vEVtmbgkx1FUhaTylcKfKuYoGNdW2P5GNZzGbeOzxEH0Q-9gP9gmmBzx2bkLNA0dnw9FiEJYiHjWXM'
-  lat: 40.121329
-  level: 7
-  lon: -88.24558
-  name:  'The Gregory'
 - ap: 2537
   img:  'http://lh3.ggpht.com/EKf-sm5ZCYuiTXX4AKzlEv7GIrHKV_TLuLEfvyjAME2h47rQIOU4VRKY6CQb6qe8ZIQ_8ablR4-1JPH1JFhq0A'
   lat: 40.116423
@@ -1054,6 +1084,12 @@
   level: 4
   lon: -88.244556
   name:  'Citizens Honor Tom Dodsworth'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/0JuC7vEVtmbgkx1FUhaTylcKfKuYoGNdW2P5GNZzGbeOzxEH0Q-9gP9gmmBzx2bkLNA0dnw9FiEJYiHjWXM'
+  lat: 40.121329
+  level: 7
+  lon: -88.24558
+  name:  'The Gregory'
 - ap: 2537
   img:  'http://lh6.ggpht.com/Ga3KqqKjCVdJ61URIBqkyBWPxV3xirqZoKzANDZmHeorlcqipmRLJFOy4-GmWU_2_783_KDPu3hkA0PNh5s'
   lat: 40.124082
