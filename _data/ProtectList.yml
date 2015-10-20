@@ -47,6 +47,27 @@
   lon: -88.243473
   mus: 270
   name:  'Savoy Rotary Club Dedication'
+- fields: 1
+  img:  'http://lh5.ggpht.com/qlqWSyYA3aUcR-TLBtHNGr15HjcBq5evq1Y1RwMl30pdQWROAkyz4QuOh3Ni8R80gZOmuEW3LiFhM_hC2sxA'
+  lat: 40.11075
+  level: 6
+  lon: -88.215119
+  mus: 263
+  name:  'First Presbyterian Church of Urbana'
+- fields: 1
+  img:  'http://lh3.ggpht.com/nHykU-r6nAcUQliLD4vcs6UTayaoX6Aay87D-bgyrRjGaqMQQYuxIbHuVKSTH0vbqNO9g2sBdp_ZBWLM3LDYeQ'
+  lat: 40.103044
+  level: 5
+  lon: -88.211741
+  mus: 263
+  name:  'Great Neighborhoods Dedication'
+- fields: 1
+  img:  'http://lh6.ggpht.com/JeyTR9Ntp2SxIdvTxHGqu5zXzMo7stGncs5TYYFLlRf0WEb6U4dc4EOvDZ1szjub_UqgSO_HgZ7tUKs9PUAkEQ'
+  lat: 40.109634
+  level: 5
+  lon: -88.206203
+  mus: 263
+  name:  'Zeb'
 - fields: 3+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.199591
@@ -61,20 +82,6 @@
   lon: -88.394094
   mus: 159
   name:  '2a77bf7698f24379838733d064f5ce04.16'
-- fields: 2
-  img:  'http://lh6.ggpht.com/8_R0pnNTQT-uPiI9xeaPyYDmeMcnxaXImr4VqMnz2F_aNrFJ7wlemeLAXHdvRZ4XyYZnScYGhpFFs_XS9dJ1'
-  lat: 40.11727
-  level: 5
-  lon: -88.286997
-  mus: 120
-  name:  'Kaufman Lake'
-- fields: 2
-  img:  'http://lh4.ggpht.com/BDVsIEWOaH0zZsTgU8IbvmVNJTrl3EljfhNXeVt4C2BILNtXm5hpAq_6mLrTl66aJcUyYv4hFJKhxedLkKo'
-  lat: 40.11679
-  level: 5
-  lon: -88.281854
-  mus: 120
-  name:  'International Society of Arboriculture'
 - fields: 3
   img:  'http://lh3.googleusercontent.com/klY7LlKB5LBTfRC8P4oBlzzOKMP_YM_h2twKQVnFocg0IyQsM140Vz0T7KED59pIwOKy1Xze-Q7u8w9cvqug'
   lat: 40.065936
@@ -82,13 +89,6 @@
   lon: -88.239758
   mus: 118
   name:  'Lake Park Prairie Restoration'
-- fields: 1
-  img:  'http://lh4.ggpht.com/iF9ok9WK8tu0rwNJsbJggC_OqQxiqKIF9QRpGOgIrlZa4Dr4JYrLxWeFDe43Js9WGFiKCOlMNMZapd_SBQ5T'
-  lat: 40.111945
-  level: 5
-  lon: -88.282707
-  mus: 103
-  name:  'Champaign Cycle'
 - fields: 5
   img:  'http://lh4.ggpht.com/5wL5PqODxJ0DwFOmZHKk05wA48rHbH4ydUvFN7iXpDB60rAWnAAym0usdXwQ1CF6tM2h8CAdBtflVjyYoNwRYA'
   lat: 40.11936
@@ -334,13 +334,6 @@
   lon: -88.218009
   mus: 26
   name:  'Idea Garden Prairie House '
-- fields: 2
-  img:  'http://lh4.ggpht.com/YSOz0a5ifhwbxTlrDnBNW-U35O1enndhsHgwgpJnFstBSqc8aMARC9BgIATLkd4Gd-lqDL_U6i3kdjCl7L3v'
-  lat: 40.117969
-  level: 7
-  lon: -88.28581
-  mus: 26
-  name:  'USDA Prairie Plant Research Plots'
 - fields: 4
   img:  'http://lh3.ggpht.com/tJEdUFuZjuvDQMKmF82moyYXhNNpP9vo91McBHAmagbT79dxAHYnQAb4avZfpWPOqcQVi3pCqBL7cvETGYo'
   lat: 40.094333
@@ -523,6 +516,13 @@
   lon: -88.205614
   mus: 10
   name:  'Elaine Regehr  Memorial'
+- fields: 1
+  img:  'http://lh4.ggpht.com/YSOz0a5ifhwbxTlrDnBNW-U35O1enndhsHgwgpJnFstBSqc8aMARC9BgIATLkd4Gd-lqDL_U6i3kdjCl7L3v'
+  lat: 40.117969
+  level: 7
+  lon: -88.28581
+  mus: 9
+  name:  'USDA Prairie Plant Research Plots'
 - fields: 1
   img:  'http://lh4.ggpht.com/xre1t2f9ZP_FkCsL4RhaTps0qWFo56BMvVamDTfFXffFNzsjinSlYX2dUWrt--btr9chdUOA2-IhLNAUoGrF'
   lat: 40.121085
