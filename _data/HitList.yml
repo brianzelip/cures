@@ -1,9 +1,9 @@
-- fields: 9
+- fields: 5
   img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
   lat: 40.098239
-  level: 6
+  level: 5
   lon: -88.25376
-  mus: 438
+  mus: 169
   name:  'Hessel Park Christian Reformed Church'
 - fields: 5
   img:  'http://lh6.ggpht.com/f3cOUn1gqLkJZQzs4-Y9j6j2ZXbb1Kmzf3klCFzF8zmFSlZZ-B6O4-5t1KIX95jbYUjeqMgOohEf1ilF75Uqyw'
@@ -12,20 +12,27 @@
   lon: -88.287351
   mus: 97
   name:  'Parkland College Prairie Restoration Reserve'
-- fields: 3
-  img:  'http://lh3.ggpht.com/wkPcdDupubV3THJo6r2OpMtshziiIkqBISPTCPe8boa-8nH33u83Mznkr1yYWNR_l60RCy8HO_obqrdNGUI'
-  lat: 40.093633
+- fields: 8
+  img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
+  lat: 40.106921
+  level: 8
+  lon: -88.230145
+  mus: 79
+  name:  'University Lutheran Church'
+- fields: 4
+  img:  'http://lh4.ggpht.com/zZ2YpVpDiI1KdIQ9iI7mGJD_VtwFztJ4ZF1vRehD9OSnQ2K3433SIg22svwcqDJVfeO2fjE3fdT4eHAJWGpi'
+  lat: 40.104339
   level: 6
-  lon: -88.246611
-  mus: 78
-  name:  'Fountain at Illini Plaza'
-- fields: 7
-  img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
-  lat: 40.106706
-  level: 7
-  lon: -88.232116
-  mus: 60
-  name:  'Illini Tower'
+  lon: -88.234788
+  mus: 69
+  name:  'Pi Kappa Phi Fraternity'
+- fields: 3
+  img:  'http://lh5.ggpht.com/H3lz_PbTP4RFYuRMUyZuMouxslODKZQ3RjFiZrITFZcpj2FuEb1K2VVlveQtOyUHG2rYZ114AGuGqK4rATI5jg'
+  lat: 40.097868
+  level: 6
+  lon: -88.242344
+  mus: 63
+  name:  'Campus Information Booth '
 - fields: 4
   img:  'http://lh5.ggpht.com/QruW49d2dc1uhQlK1BaZIeo6ruDNkqQfmvZz83eQ-1aC9ytGUcpFaHnKRTnXRc70F2EZ0-pVKGr9Slo0_9RfxA'
   lat: 40.139749
@@ -40,13 +47,20 @@
   lon: -88.251308
   mus: 51
   name:  'Life Lessons from Kimberly Kueffler'
-- fields: 6
-  img:  'http://lh4.ggpht.com/HEEvU2OlgWiV5huAu3cvNKaI-C8YKYTO3qB8WMTO7EbsjTO84KS6jLjbGCq7THZq6l63UiUKCSEqY2IADYns'
-  lat: 40.091766
+- fields: 3
+  img:  'http://lh6.ggpht.com/JeyTR9Ntp2SxIdvTxHGqu5zXzMo7stGncs5TYYFLlRf0WEb6U4dc4EOvDZ1szjub_UqgSO_HgZ7tUKs9PUAkEQ'
+  lat: 40.109634
+  level: 6
+  lon: -88.206203
+  mus: 36
+  name:  'Zeb'
+- fields: 3
+  img:  'http://lh5.ggpht.com/dgQfoxxVeHT5ODqLiUYHV45qvkC_BMS0kIFRqvHvE2GO0TduZ0-XzhW8RE80LtPDK0Ay5xwA6PtjM7G3C9U8'
+  lat: 40.108947
   level: 7
-  lon: -88.250003
-  mus: 39
-  name:  '"The Cranes" at Fox Corporate Center'
+  lon: -88.232251
+  mus: 29
+  name:  'McKinley Church'
 - fields: 6
   img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
   lat: 40.117976
@@ -82,13 +96,13 @@
   lon: -88.249275
   mus: 15
   name:  'Narayan & Shanti Achanta Memorial Plaque'
-- fields: 2
-  img:  'http://lh5.ggpht.com/dgQfoxxVeHT5ODqLiUYHV45qvkC_BMS0kIFRqvHvE2GO0TduZ0-XzhW8RE80LtPDK0Ay5xwA6PtjM7G3C9U8'
-  lat: 40.108947
+- fields: 3
+  img:  'http://lh3.ggpht.com/pVUYGCf7vsAndVd4vhK_pC9p6e9OvGa4ZiWuZg0ELOFDWptBba4H2N4PNZPjQdHXnV1GQyLTpCXQWDMKDUqn'
+  lat: 40.108875
   level: 7
-  lon: -88.232251
-  mus: 14
-  name:  'McKinley Church'
+  lon: -88.227835
+  mus: 12
+  name:  'Lion''s Head Planter'
 - fields: 7
   img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
   lat: 40.098959
@@ -104,13 +118,6 @@
   mus: 12
   name:  'Robert Hosier Memorial Garden'
 - fields: 2
-  img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
-  lat: 40.107629
-  level: 6
-  lon: -88.224484
-  mus: 11
-  name:  'Bucky Balls'
-- fields: 2
   img:  'http://lh6.ggpht.com/v2m1E6vVK4ZRaRPhGli7jCsG7xZQZ7I3vV_5AogdEpPU_A1vz9WEkH0vZ-vau2IAdmydYJcXrOA6SMr7vUfT'
   lat: 40.128726
   level: 6
@@ -124,13 +131,6 @@
   lon: -88.248167
   mus: 10
   name:  'Healthcare Not War Mural'
-- fields: 3
-  img:  'http://lh5.ggpht.com/xcqe13f85fuXohGUUBZkNrUU1PunkcZ6xMNmHpAp0GJBtydVqCCGj5MqP3Uax4M7Qq4JzDFGqICFrFb6PNEXRw'
-  lat: 40.08932
-  level: 7
-  lon: -88.251883
-  mus: 9
-  name:  'Boulware Trail'
 - fields: 8
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
@@ -138,20 +138,6 @@
   lon: -88.250864
   mus: 9
   name:  'Gabriel Patrick Maxeiner Memorial'
-- fields: 3
-  img:  'http://lh5.ggpht.com/wX6-mbTE7nT00T6ildapKbI5ZrnhPIt4l91DhMseyo3GYFrgQIuqbjh8ntZY6NxGZ-qa6fKWlyoBOPdIdNIt'
-  lat: 40.114653
-  level: 7
-  lon: -88.243729
-  mus: 9
-  name:  'The Phoenix'
-- fields: 4
-  img:  'http://lh5.ggpht.com/kElaGOaV9aI8SrnM1D65gx9J0Ky1AKrN9Yo-pXVmDhELt2pee4MwVRiCqCmlqWzUWj5pS33GnEzAiXmiWKsw'
-  lat: 40.108111
-  level: 6
-  lon: -88.229625
-  mus: 8
-  name:  'Illini Sports Mural'
 - fields: 6
   img:  'http://lh3.ggpht.com/KzADjdPRAvwycpfTBdAeDwFJ0AxZJG2dPmbPWkXq55QLV9PfpJ_-DsXWIlVgsISUApRdJ5cAxRWx0k0W2hI'
   lat: 40.09979
@@ -159,6 +145,27 @@
   lon: -88.249107
   mus: 8
   name:  'Jerome Cook Memorial'
+- fields: 3
+  img:  'http://lh5.ggpht.com/1yq3oFq9p_Yl5cUf5h7IEfZPAbae2MT7lA0DFo1DHwPWPZJJ-Ez-2AE2oTzHEHWsEJQVUcUwh3j_d3kOYgDS'
+  lat: 40.110095
+  level: 7
+  lon: -88.22862
+  mus: 7
+  name:  'Alma Mater Plaza'
+- fields: 3
+  img:  'http://lh4.ggpht.com/lQtf71rwzXt5zHafbKPm8Czz3n2KwBWlEaNUh3-2JKrXTDueZ_JerHOPeSecqLaxLBWC09dTlPizrDMTafpT'
+  lat: 40.105618
+  level: 7
+  lon: -88.230986
+  mus: 7
+  name:  'Alpha Phi Sorority'
+- fields: 1
+  img:  'http://lh4.ggpht.com/bYrhTw8QophdiqDG-upqJ6JX2g2tZYX4N1jC4d_cciIj4ep8oQvIgjJlfge2VCmzSZe9irj-BTpbj9Jcv7U'
+  lat: 40.103009
+  level: 4
+  lon: -88.233215
+  mus: 6
+  name:  'Mac and Diana Garret Memorial Tree'
 - fields: 4
   img:  'http://lh6.ggpht.com/g00CHgvPQnSjjPtDBIePwTKCNdh3HB7MmvYFvkSM7tmZuoBJ4WaKiltQhrfxIflpUy2xiNU-Z_Z2PGCTnXfK'
   lat: 40.110725
@@ -166,6 +173,13 @@
   lon: -88.223784
   mus: 6
   name:  'Anthony Leggett Superfluidity Nobel Prize Memorial Plaque'
+- fields: 1
+  img:  'http://lh3.ggpht.com/LunaMtSKD9yiLQClolDY-Iqh0ENm9AgJdL4D1QxGs0j6TXPgqxDZea35x5ilAfeI5_0TGh5x1q1EqRsJsLFi'
+  lat: 40.114111
+  level: 3
+  lon: -88.243697
+  mus: 6
+  name:  'Champaign Surplus'
 - fields: 1
   img:  'http://lh3.ggpht.com/F_QKFluz0Gh6sC9FPGcL_wT-n-zRGyp0qQ9mnghB2L5Aer_c6Qm1q7KeGoCaGwDoJax_R_sK1atr3F0hP4Ap3w'
   lat: 40.136807
@@ -187,6 +201,13 @@
   lon: -88.250065
   mus: 5
   name:  'Lois Barham Memorial Tree'
+- fields: 3
+  img:  'http://lh5.ggpht.com/Lup2et0i5h8oHqtBffIdoyX5uclC2MBn9ZnnKnYPr4RIFSflf9bi78zBHK7QqycA0qgEev9qOk0zU-1o1hg'
+  lat: 40.108451
+  level: 7
+  lon: -88.228733
+  mus: 5
+  name:  'The Centennial Colophon'
 - fields: 2
   img:  'http://lh5.ggpht.com/X-Tq3QbQ3JvCApWIGFxRwDJId7aLa8hY_ka0eU3QySTcZBgXcbPC4UXEQ9VVMsA-dYRxGqAdCotw-q7dby8f'
   lat: 40.088412
@@ -222,6 +243,13 @@
   lon: -88.249208
   mus: 4
   name:  'In Fond Memory of William Moore Jr'
+- fields: 1
+  img:  'http://lh5.ggpht.com/3RlX64kTBLKCXBSds_94_nwH_9CuOIDqOXJSr4wBmVRx_XLPiftZQxH_5SeR_rgh0Hpgww3dUsNKCyRno3ey7Q'
+  lat: 40.08557
+  level: 5
+  lon: -88.265106
+  mus: 3
+  name:  'Lauren Kay Benninger Bannon Memorial'
 - fields: 3
   img:  'http://lh6.ggpht.com/3o0ObAARFV_8mBVCC_QD0iLOPVzNkakXybhLnSVEuXIJfDLKMxeYj-EkWIw9NPoZIVRf5Dkrid2yf_NEQ-iE'
   lat: 40.100347
@@ -229,6 +257,20 @@
   lon: -88.249385
   mus: 3
   name:  'Travis Marmion Memorial'
+- fields: 1
+  img:  'http://lh3.ggpht.com/KxQsev6i7POmNh1IadCWwWQSMdCuLIYpPwIdenSlVtzum523D1R-1kfeTbuOGTkt_jDwn4jswCu1edkumm2-'
+  lat: 40.110037
+  level: 7
+  lon: -88.23549
+  mus: 2
+  name:  'Red Lion'
+- fields: 1
+  img:  'http://lh6.ggpht.com/PXNfY-rn4cS8Fcr7CkJnEI5-vb_hCYxTX_9VV9jNB78yHB-EjmmsP8_EiqK-icwqTxu2iRtDoSbBRCLanerX'
+  lat: 40.110685
+  level: 6
+  lon: -88.206243
+  mus: 2
+  name:  'Lincoln Square Fountain'
 - fields: 2
   img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
   lat: 40.100941
@@ -243,13 +285,6 @@
   lon: -88.244573
   mus: 2
   name:  'Art Theater'
-- fields: 1
-  img:  'http://lh5.ggpht.com/OF0rdXnVnZe6syFsa4G9CE6iyvhfoYQN3QH9RESyB78MTKDC2NXYJuVd0TAnACMccmsKXhNcBH6qzWy9DPQ'
-  lat: 40.105073
-  level: 5
-  lon: -88.231952
-  mus: 2
-  name:  'University of Illinois Armory'
 - fields: 2
   img:  'http://lh4.ggpht.com/4LxsGZZMk3DnpJXUvqzrL54CHSP5TDXjUnDJyHmCCTtCJIjGEI7kxT9g4uxfSPh0X6yGLgQo1jfqbu7B8VEr'
   lat: 40.099084
@@ -264,13 +299,6 @@
   lon: -88.249648
   mus: 1
   name:  'Max Overmyer Memorial Playground'
-- fields: 1
-  img:  'http://lh5.ggpht.com/3RfiPeOzF67ubNX-vkwUJ6-EYld6BKuoBernq0_9kOjlIsSPr3saR9FIQzN7uiw7ouF0CpNflOnL0mUj9zbqdQ'
-  lat: 40.109452
-  level: 7
-  lon: -88.229031
-  mus: 1
-  name:  'Illini Hall'
 - fields: 1
   img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
   lat: 40.098688
@@ -299,6 +327,13 @@
   lon: -88.252279
   mus: 1
   name:  'Toalson Park South Entrance'
+- fields: 1
+  img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
+  lat: 40.108066
+  level: 5
+  lon: -88.230687
+  mus: 1
+  name:  'Community United Church of Christ'
 - fields: 1
   img:  'http://lh5.ggpht.com/yK94cjys6dDm62pDsBwEKJP8ioxZEFbb2oelmT5ZMmaNZPkqAXW00NHP3_7fvtyG796u2ZhKGfbY7To9Sdtz'
   lat: 40.088063
