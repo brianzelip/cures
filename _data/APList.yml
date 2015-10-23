@@ -413,6 +413,18 @@
   lon: -88.24346
   name:  'Entrance'
 - ap: 4411
+  img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
+  lat: 40.117107
+  level: 6
+  lon: -88.242467
+  name:  'Radio Maria'
+- ap: 4411
+  img:  'http://lh5.ggpht.com/dRrlHXlT2nMNgZNHiYo52ha9L-Xay9DyOJR2Cpqs74hgAJ09abn9OTAtMzRVedt1_R9ObZllLO98vRhNMfgTgVsJCk1S-HJwX_XgiGpG4lz3a328'
+  lat: 40.11671
+  level: 5
+  lon: -88.24263
+  name:  'Cafe Kopi'
+- ap: 4411
   img:  'http://lh5.ggpht.com/N1cFx79JwZqPlYPDW3HkNwRX8N4Auriii45qzYkAx9l-cKeK81qgZ6nuBpTBEIOyLzy4aIIhQKt2E7ZiysSjkg'
   lat: 40.10036
   level: 8
@@ -490,6 +502,12 @@
   level: 5
   lon: -88.25211
   name:  'First Church of Christ, Scientist'
+- ap: 3848
+  img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
+  lat: 40.116989
+  level: 6
+  lon: -88.242255
+  name:  'Blind Pig'
 - ap: 3848
   img:  'http://lh3.googleusercontent.com/enpZZ8JRREFPTvYd3jbeUlpS-mmcwKe5fsvoWRPkfMUj6PijyI-5tbR55UItBoNJAFSl9fAAOvXb6BpWCJT4'
   lat: 40.102495
@@ -606,24 +624,6 @@
   name:  'dab893c1098b41439727404677b232e6.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.259583
-  level: '?'
-  lon: -86.910483
-  name:  '18a87388fc0f4d11965cc8f751647431.12'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.550357
-  level: '?'
-  lon: -86.510302
-  name:  '4f209295e99c44ea9f14247c61c46937.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.156259
-  level: '?'
-  lon: -87.657985
-  name:  'd8beb8f8277845a9b61f2f4176f70a00.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.192024
   level: '?'
   lon: -87.775289
@@ -719,18 +719,6 @@
   lon: -88.251776
   name:  'Spalding Recreation Center'
 - ap: 3474
-  img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
-  lat: 40.117107
-  level: 5
-  lon: -88.242467
-  name:  'Radio Maria'
-- ap: 3474
-  img:  'http://lh5.ggpht.com/dRrlHXlT2nMNgZNHiYo52ha9L-Xay9DyOJR2Cpqs74hgAJ09abn9OTAtMzRVedt1_R9ObZllLO98vRhNMfgTgVsJCk1S-HJwX_XgiGpG4lz3a328'
-  lat: 40.11671
-  level: 5
-  lon: -88.24263
-  name:  'Cafe Kopi'
-- ap: 3474
   img:  'http://lh3.ggpht.com/bltQwmnzp2vSKYhLpzNLqB4iddy6ie0kWk9G7Wce4U9qmW3CABxbXAhF7v0oG9QLFD2q57UZuVqZCMgN3MHZfA'
   lat: 40.118335
   level: 3
@@ -767,6 +755,12 @@
   lon: -88.233644
   name:  'Taft-Van Doren Hall'
 - ap: 3474
+  img:  'http://www.panoramio.com/photos/small/52867363.jpg'
+  lat: 40.101676
+  level: 6
+  lon: -88.231098
+  name:  'Sculpture, Krannert Art Museum'
+- ap: 3474
   img:  'http://lh5.ggpht.com/4eagHlnlpVbtFi_knZN73PIs2A--Ipj6SOlkQADePlfnzfOnJn-cAv0IoNNv4qR8WrbUFImUKHBknyaoAewO'
   lat: 40.111383
   level: 5
@@ -778,24 +772,18 @@
   level: 2
   lon: -88.226537
   name:  'Fire College Plaque'
-- ap: 3474
-  img:  'http://www.panoramio.com/photos/small/52867363.jpg'
-  lat: 40.101676
-  level: 6
-  lon: -88.231098
-  name:  'Sculpture, Krannert Art Museum'
+- ap: 3098
+  img:  'http://lh4.ggpht.com/XmQtS5vWS277-auG5r5x80jUieF2311Xfv6rWkYqVBZ3wz2cqxRtgabyzOhXn0fCpSpDD6Y_CFd9Rzti4eqj'
+  lat: 40.148874
+  level: 5
+  lon: -88.268577
+  name:  'Newt Dodds Tennis Center'
 - ap: 2911
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.167518
   level: '?'
   lon: -88.295979
   name:  'Alto Vineyards and Winery'
-- ap: 2911
-  img:  'http://lh4.ggpht.com/XmQtS5vWS277-auG5r5x80jUieF2311Xfv6rWkYqVBZ3wz2cqxRtgabyzOhXn0fCpSpDD6Y_CFd9Rzti4eqj'
-  lat: 40.148874
-  level: 5
-  lon: -88.268577
-  name:  'Newt Dodds Tennis Center'
 - ap: 2911
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.152342
@@ -900,16 +888,16 @@
   name:  'e8642f3191d44d6eb288293825c4e373.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.822372
+  lat: 40.259583
   level: '?'
-  lon: -89.733518
-  name:  'd6ee340c743a4cd499b300a5ec6b50f8.16'
+  lon: -86.910483
+  name:  '18a87388fc0f4d11965cc8f751647431.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.396282
+  lat: 41.156259
   level: '?'
-  lon: -88.87253
-  name:  '983118fdef6b4b20b7d5188ad0f89af8.16'
+  lon: -87.657985
+  name:  'd8beb8f8277845a9b61f2f4176f70a00.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.198031
@@ -930,10 +918,28 @@
   name:  'Filippos Pizza and Italian Food'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.822372
+  level: '?'
+  lon: -89.733518
+  name:  'd6ee340c743a4cd499b300a5ec6b50f8.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.396282
+  level: '?'
+  lon: -88.87253
+  name:  '983118fdef6b4b20b7d5188ad0f89af8.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 39.494884
   level: '?'
   lon: -88.38382
   name:  '33cf7c7b21244fec949791f921bb26cf.16'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/yeYI3q7rDQLA5xBcWfH-Caw2Uh740ZPRQjjyvOrZz7ZyLI-gxBpi8yqxqDrlOBzG9YHs6YlxdgX0obTpXlQ'
+  lat: 40.117681
+  level: 2
+  lon: -88.241405
+  name:  'Jupiter''s Downtown'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.152616
@@ -1013,11 +1019,23 @@
   lon: -88.218544
   name:  'The Vineyard Church'
 - ap: 2537
+  img:  'http://lh6.ggpht.com/YEHyAsx3ysK3IxTTbSx5dLEcHRtRVKQ4XTvE0Kvkd3iIW3mA6lplwojkVOpWCemyQS6G3JESxZnMFQtVf7V3'
+  lat: 40.11652
+  level: 3
+  lon: -88.241845
+  name:  'Mike ''N Molly''s'
+- ap: 2537
   img:  'http://lh5.ggpht.com/UTu16bRRNKyJj2cFsU4mRCMkGJbH7YCAm0gQdiJKjnnZtB00kMEb_-Lhf6AnAXRia4MH6FBrWQGkBCrMUz8'
   lat: 40.120135
   level: 5
   lon: -88.253121
   name:  'Rain Garden'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
+  lat: 40.116553
+  level: 3
+  lon: -88.242268
+  name:  'Esquire Lounge'
 - ap: 2162
   img:  'http://lh4.ggpht.com/kZm6lbk07IpQebQBqqCODikSi-pOMHQhQ7-c0xNGM6vqUskWUftXV4L3ymEbT0T5IELGgfJ2vrxTZvmgP9D_'
   lat: 40.117118
@@ -1103,6 +1121,12 @@
   lon: -88.230986
   name:  'Alpha Phi Sorority'
 - ap: 2537
+  img:  'http://lh6.ggpht.com/pYay9oPZwUNKfLdWJ1JMI5tA9-Gd0vsBddLTz7fXN6wUW7F23hLMWRwFZNnXyomRkc2f9sqCGMxNWuYHPFZx'
+  lat: 40.109142
+  level: 6
+  lon: -88.228748
+  name:  'Kappa Alpha Psi Plaque'
+- ap: 2537
   img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
   lat: 40.108066
   level: 6
@@ -1120,12 +1144,6 @@
   level: 7
   lon: -88.228634
   name:  'Public Broadcasting Plaque'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/pYay9oPZwUNKfLdWJ1JMI5tA9-Gd0vsBddLTz7fXN6wUW7F23hLMWRwFZNnXyomRkc2f9sqCGMxNWuYHPFZx'
-  lat: 40.109142
-  level: 6
-  lon: -88.228748
-  name:  'Kappa Alpha Psi Plaque'
 - ap: 2537
   img:  'http://lh6.ggpht.com/TXVMllOHjnPSJgg_7oE4ZuY82xJs56TE9AbaxAFxXWiD5yKwlOZUHfx74BaxCzczl9hTtaKqkaDsA4LeZ94'
   lat: 40.110617
