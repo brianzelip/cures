@@ -19,6 +19,27 @@
   lon: -88.645611
   mus: 11363
   name:  '8d04c69becef42e69436ca94f73b8802.16'
+- fields: 1
+  img:  'http://lh6.ggpht.com/wk0l8Qe7j_Ph_LhyPvdNO6g8nwrxpswodrbNuOzLa3K1QNBrIVidi9iztmDXu3HtCWo5TpqDDjPsEbSl2aWUKg'
+  lat: 40.144554
+  level: 4
+  lon: -88.248689
+  mus: 10455
+  name:  'Town Center Park Champaign Park District'
+- fields: 1+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.171295
+  level: '?'
+  lon: -88.19097
+  mus: 10455
+  name:  'Ford Harris Park Memorial Plaque'
+- fields: 1+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.167518
+  level: '?'
+  lon: -88.295979
+  mus: 10455
+  name:  'Alto Vineyards and Winery'
 - fields: 2
   img:  'http://lh5.ggpht.com/JWnYHkJG0nab4r1ficE77w9SnzFDf6DTZ-6WlD1TC1LZp1KDiEjRqUlET-pWAycwMENIelAYkMxQJCx4Niil'
   lat: 40.098104
@@ -113,7 +134,7 @@
 - fields: 9
   img:  'http://lh4.ggpht.com/53avgB1jGEftJ9eyV5l3nee16yHgYDAXkZoonzyXO3mwPLijOgz1uOtcxfKdCaRzaBqW-BQ4ft-Od3uZnja8'
   lat: 40.118436
-  level: 6
+  level: 7
   lon: -88.26383
   mus: 746
   name:  'Davidson Park'
@@ -145,6 +166,13 @@
   lon: -88.276738
   mus: 697
   name:  'Kraft Giant Macaroni'
+- fields: 9
+  img:  'http://lh3.ggpht.com/1-JS8sV0YQTNKZcOYkhHUpeLbSapI7w9Nksu7UJhMKpIgoGwe-FKIo9ALf7fXUm4mHlsQxcyMdJyQbI5tCmc'
+  lat: 40.116494
+  level: 6
+  lon: -88.268495
+  mus: 657
+  name:  'Eisner Park'
 - fields: 3+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.205583
@@ -208,13 +236,6 @@
   lon: -88.253841
   mus: 497
   name:  'Lady In Mourning'
-- fields: 8
-  img:  'http://lh3.ggpht.com/1-JS8sV0YQTNKZcOYkhHUpeLbSapI7w9Nksu7UJhMKpIgoGwe-FKIo9ALf7fXUm4mHlsQxcyMdJyQbI5tCmc'
-  lat: 40.116494
-  level: 6
-  lon: -88.268495
-  mus: 475
-  name:  'Eisner Park'
 - fields: 2
   img:  'http://lh3.ggpht.com/V-oTVbkji_q7V9k0WGhQyDum7PEtruXdbp6e-PzZq3sFNxGWdA79FLEv8uGaZrcSwWE15UhTtBB0ZMW0Ig3j'
   lat: 40.127466
@@ -286,12 +307,26 @@
   mus: 239
   name:  'Kappa Kappa Gamma Plaque'
 - fields: 2
+  img:  'http://lh6.ggpht.com/yoGdHEqpRRqOE5pA5wHdi_ismU_TrB-kTiqVV63EO630KsU608TIfjLijcqJ38At7MyyrE2urWFMPY1Sops'
+  lat: 40.118121
+  level: 7
+  lon: -88.258039
+  mus: 234
+  name:  'Mini Park V'
+- fields: 2
   img:  'http://lh3.ggpht.com/M33LbHvLXVjhHiz7MUGGLGsBwB3EGR0z2vYVf5Qrx3pdnmpATwUuU0kEGUobPn2AKoGNpQKgvlIpyJoSHLzv'
   lat: 40.127501
   level: 6
   lon: -88.273478
   mus: 230
   name:  'Westgate Bear'
+- fields: 3
+  img:  'http://lh6.ggpht.com/ZQaguxPyiC-6DeFDFa2niVKJz3ySxwxYaFCv8PRdNuoMYUfP-Xtirg-8pXCTdBCyH1BruprOVmqf3D1kdp7o'
+  lat: 40.115225
+  level: 6
+  lon: -88.248866
+  mus: 228
+  name:  'Holy Cross Catholic Church'
 - fields: 4
   img:  'http://lh5.ggpht.com/Fl-qbQtlziD-8zSe_WfUrflOcIFP-whkkS2IjEkT19sDskVzbx-bKvw1k0Y8qaNjUpwOCjy3E4DYDTh4Er7B'
   lat: 40.074003
@@ -607,13 +642,6 @@
   lon: -88.219672
   mus: 53
   name:  'Mennonite Church'
-- fields: 1
-  img:  'http://lh6.ggpht.com/yoGdHEqpRRqOE5pA5wHdi_ismU_TrB-kTiqVV63EO630KsU608TIfjLijcqJ38At7MyyrE2urWFMPY1Sops'
-  lat: 40.118121
-  level: 7
-  lon: -88.258039
-  mus: 52
-  name:  'Mini Park V'
 - fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.196436
@@ -649,13 +677,6 @@
   lon: -88.224039
   mus: 46
   name:  'South Gate of the Greenhouse'
-- fields: 2
-  img:  'http://lh6.ggpht.com/ZQaguxPyiC-6DeFDFa2niVKJz3ySxwxYaFCv8PRdNuoMYUfP-Xtirg-8pXCTdBCyH1BruprOVmqf3D1kdp7o'
-  lat: 40.115225
-  level: 6
-  lon: -88.248866
-  mus: 46
-  name:  'Holy Cross Catholic Church'
 - fields: 4
   img:  'http://lh3.ggpht.com/vwkjqzBAGzhh9MKrOhJM4_fcgyf640zFaFWImj5Z8f0F81aTEM5JBT9qJCf35zG7yz6kVX_mZsXa6Ici-MIw'
   lat: 40.09428
@@ -701,7 +722,7 @@
 - fields: 5
   img:  'http://lh4.ggpht.com/naCrG9-DL9k67Zqi0gC4SkIN_RQ_zodz4FK1IHNXbc08mmpwSYOasBdjXKK05UnqtA_LobI75w9qmf4dfQjU'
   lat: 40.11823
-  level: 4
+  level: 5
   lon: -88.267696
   mus: 37
   name:  'Eisner Park North Entrance'
