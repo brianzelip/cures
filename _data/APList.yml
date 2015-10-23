@@ -77,17 +77,17 @@
   lon: -88.249136
   name:  '"Cricket" and Bob Barger Memorial'
 - ap: 8909
-  img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
-  lat: 40.098959
-  level: 8
-  lon: -88.250141
-  name:  'Bob and Wilma Tinkham'
-- ap: 8909
   img:  'http://lh6.ggpht.com/BKeORacgeVrG8XzxTuXmpq5UxomWpK-I2n7Xy0PVbdSciNx9MJl869TcibnFIiV5PJHGv5R3QOpX6ZgLUwU'
   lat: 40.099706
   level: 8
   lon: -88.250065
   name:  'Lois Barham Memorial Tree'
+- ap: 8909
+  img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
+  lat: 40.098959
+  level: 8
+  lon: -88.250141
+  name:  'Bob and Wilma Tinkham'
 - ap: 8722
   img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
   lat: 40.099593
@@ -755,6 +755,12 @@
   lon: -88.233644
   name:  'Taft-Van Doren Hall'
 - ap: 3474
+  img:  'http://www.panoramio.com/photos/small/52867363.jpg'
+  lat: 40.101676
+  level: 6
+  lon: -88.231098
+  name:  'Sculpture, Krannert Art Museum'
+- ap: 3474
   img:  'http://lh5.ggpht.com/4eagHlnlpVbtFi_knZN73PIs2A--Ipj6SOlkQADePlfnzfOnJn-cAv0IoNNv4qR8WrbUFImUKHBknyaoAewO'
   lat: 40.111383
   level: 5
@@ -766,24 +772,18 @@
   level: 2
   lon: -88.226537
   name:  'Fire College Plaque'
-- ap: 3474
-  img:  'http://www.panoramio.com/photos/small/52867363.jpg'
-  lat: 40.101676
-  level: 6
-  lon: -88.231098
-  name:  'Sculpture, Krannert Art Museum'
-- ap: 3098
-  img:  'http://lh4.ggpht.com/XmQtS5vWS277-auG5r5x80jUieF2311Xfv6rWkYqVBZ3wz2cqxRtgabyzOhXn0fCpSpDD6Y_CFd9Rzti4eqj'
-  lat: 40.148874
-  level: 5
-  lon: -88.268577
-  name:  'Newt Dodds Tennis Center'
 - ap: 2911
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.167518
   level: '?'
   lon: -88.295979
   name:  'Alto Vineyards and Winery'
+- ap: 2911
+  img:  'http://lh4.ggpht.com/XmQtS5vWS277-auG5r5x80jUieF2311Xfv6rWkYqVBZ3wz2cqxRtgabyzOhXn0fCpSpDD6Y_CFd9Rzti4eqj'
+  lat: 40.148874
+  level: 5
+  lon: -88.268577
+  name:  'Newt Dodds Tennis Center'
 - ap: 2911
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.152342
@@ -935,12 +935,6 @@
   lon: -88.38382
   name:  '33cf7c7b21244fec949791f921bb26cf.16'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/yeYI3q7rDQLA5xBcWfH-Caw2Uh740ZPRQjjyvOrZz7ZyLI-gxBpi8yqxqDrlOBzG9YHs6YlxdgX0obTpXlQ'
-  lat: 40.117681
-  level: 2
-  lon: -88.241405
-  name:  'Jupiter''s Downtown'
-- ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.152616
   level: '?'
@@ -1060,18 +1054,18 @@
   level: 6
   lon: -88.243168
   name:  'Walnut Street Tea Co.'
-- ap: 2387
-  img:  'http://lh3.googleusercontent.com/DJEd6b3-MwXXA5oX_rKCuAtk2dlQ1yS2p9nG8oDmc86DmbzFvhKsP-KR9nKAzn84UUf_K5LjjTMgrt7AjCoU'
-  lat: 40.110853
-  level: 5
-  lon: -88.238339
-  name:  'Boneyard Greenway'
 - ap: 2537
   img:  'http://lh6.ggpht.com/uaO1clC1eOzxRVRPPU6mVM4lEPV2U6uxh64a8kJNRglHSObClWlHGEcfJTknzwB_7Wli3doxQJbZKiBHIXI'
   lat: 40.102834
   level: 7
   lon: -88.241672
   name:  'Rehabilitation Education Center'
+- ap: 2387
+  img:  'http://lh3.googleusercontent.com/DJEd6b3-MwXXA5oX_rKCuAtk2dlQ1yS2p9nG8oDmc86DmbzFvhKsP-KR9nKAzn84UUf_K5LjjTMgrt7AjCoU'
+  lat: 40.110853
+  level: 5
+  lon: -88.238339
+  name:  'Boneyard Greenway'
 - ap: 2537
   img:  'http://lh4.ggpht.com/dIZMnnUykBHkwUGA_tGi7tq4m0qCooVejZqueoqq9NjBXvZgz1QUEqS-vJhsYu3v7pW_0xejLfH9QeziW28I'
   lat: 40.097472
