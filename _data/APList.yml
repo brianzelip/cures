@@ -354,16 +354,16 @@
   name:  'Urbana''s Time Capsule'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.228434
-  level: '?'
-  lon: -88.96598
-  name:  '8729bc29f55e4f9b9eadf4493379cdd4.16'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.222256
   level: '?'
   lon: -88.959217
   name:  '324ef32ed4b74f6cbd0294caa147608c.12'
+- ap: 4411
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.228434
+  level: '?'
+  lon: -88.96598
+  name:  '8729bc29f55e4f9b9eadf4493379cdd4.16'
 - ap: 4411
   img:  'http://lh4.ggpht.com/PfcTU4XsA06ThtmCWydIWhTsN3gR4jrqnrKxu0O5lhyibhRdKMEaf3jM8VNhViF8qLf13b01E71wr_ajxn0'
   lat: 40.118465
@@ -612,16 +612,10 @@
   name:  'Illini Tower'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.259583
+  lat: 39.494884
   level: '?'
-  lon: -86.910483
-  name:  '18a87388fc0f4d11965cc8f751647431.12'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.156259
-  level: '?'
-  lon: -87.657985
-  name:  'd8beb8f8277845a9b61f2f4176f70a00.16'
+  lon: -88.38382
+  name:  '33cf7c7b21244fec949791f921bb26cf.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.058869
@@ -636,10 +630,16 @@
   name:  '9c168d55307d46deafd3684ceac79063.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.494884
+  lat: 40.259583
   level: '?'
-  lon: -88.38382
-  name:  '33cf7c7b21244fec949791f921bb26cf.16'
+  lon: -86.910483
+  name:  '18a87388fc0f4d11965cc8f751647431.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.156259
+  level: '?'
+  lon: -87.657985
+  name:  'd8beb8f8277845a9b61f2f4176f70a00.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 39.964362
@@ -695,6 +695,12 @@
   lon: -88.295335
   name:  'Friendship Lutheran Church of Joy'
 - ap: 2537
+  img:  'http://lh5.ggpht.com/ulBje3DZHcOGkPDTXihNL1tamRAm_GO1CREW8fA5fV0Znq1eF2J1hnbSZh35emEA1h9cL1qTj9FqGtb8VywgXQ'
+  lat: 40.13765
+  level: 5
+  lon: -88.273074
+  name:  'Garden Hills Park'
+- ap: 2537
   img:  'http://lh5.ggpht.com/QruW49d2dc1uhQlK1BaZIeo6ruDNkqQfmvZz83eQ-1aC9ytGUcpFaHnKRTnXRc70F2EZ0-pVKGr9Slo0_9RfxA'
   lat: 40.139749
   level: 5
@@ -712,12 +718,6 @@
   level: 5
   lon: -88.256693
   name:  'Captain Morgan Statue'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/ulBje3DZHcOGkPDTXihNL1tamRAm_GO1CREW8fA5fV0Znq1eF2J1hnbSZh35emEA1h9cL1qTj9FqGtb8VywgXQ'
-  lat: 40.13765
-  level: 5
-  lon: -88.273074
-  name:  'Garden Hills Park'
 - ap: 2537
   img:  'http://lh5.ggpht.com/H88EzgVTAsWrhBcyG4PwdAbPDu4BLlyXkVIBnJ6gtmNusC2MU2vLumSrYGbl_7GmGJ7f5kE-6ebyy_VokU0L'
   lat: 40.107512
@@ -754,12 +754,6 @@
   level: 6
   lon: -88.2577
   name:  'Salvation Army Church'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/kvJpDVeizd9sYgE0gsuLMptNV4trFwsY2y5QVAP_9RwWmIAb_1GOXGlJf0qViO7mywZQg7-Ky5pjxSPu22U'
-  lat: 40.123653
-  level: 5
-  lon: -88.252479
-  name:  'Spalding Park Playground Dedication'
 - ap: 2537
   img:  'http://lh3.ggpht.com/HW1b8GEkWmutU8Hsv_zX2TXNh-iirGoXN5HmxCJd5nc3o1VeCkahkCZ_vbSxOB_ffrBlWW3M-LLMSo97tg-c'
   lat: 40.123709
@@ -802,6 +796,12 @@
   level: 1
   lon: -88.245813
   name:  'Champaign Public Library'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/kvJpDVeizd9sYgE0gsuLMptNV4trFwsY2y5QVAP_9RwWmIAb_1GOXGlJf0qViO7mywZQg7-Ky5pjxSPu22U'
+  lat: 40.123653
+  level: 5
+  lon: -88.252479
+  name:  'Spalding Park Playground Dedication'
 - ap: 2537
   img:  'http://lh4.ggpht.com/uAYfykn0e2h2UqP-anbYfkJNa38P0L1WY8FpF-CwRCPklg5wL1xYFkpGOCMt7SJ37qO8PGVE42nYX9Ba_-jG'
   lat: 40.105025

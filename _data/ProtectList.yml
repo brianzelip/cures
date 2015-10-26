@@ -54,40 +54,19 @@
   lon: -88.361241
   mus: 2665
   name:  'Lake of the Woods Church'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.04101
-  level: '?'
-  lon: -88.384378
-  mus: 2350
-  name:  'St Boniface Cemetary'
-- fields: 1
-  img:  'http://lh4.ggpht.com/2j92v5RucwqepFVAGPjzWWGkGueAbE7ZlVAh_PKwLdaxCdQfFgDHv5eInFs1Hb3WRxkcliRx4YRrbp7McBI'
-  lat: 40.054626
-  level: 5
-  lon: -88.256104
-  mus: 2350
-  name:  'John L. Jones Park'
-- fields: 1
-  img:  'http://lh3.ggpht.com/W8FBEELyDwLQMeanXFx-Fgunxvd31WdpPq5IhpOEXVv-NygLJqO5o8a74hVaiQzxEGWm3XPPu4IWJEUcJQzN'
-  lat: 40.055019
-  level: 5
-  lon: -88.295155
-  mus: 2350
-  name:  'Savoy United Methodist Church'
-- fields: 4
+- fields: 5
   img:  'http://lh5.ggpht.com/NV7qwJUoztAVld_2ohxeFi790MJW_YB_4wO5YfsQW08MmR00yciAjfep2xtLeKFLE8QDlUFSiwbp3Rw2jjag'
   lat: 40.09841
   level: 7
   lon: -88.205103
-  mus: 1936
+  mus: 2040
   name:  'J C Blair Monument '
-- fields: 4
+- fields: 5
   img:  'http://lh5.ggpht.com/vIWBGp8W4nwclMUOcj6ul2g5_qjF1rYSOjHsLZ8d4p11p_RXnhhEdDBZrLf_vBEMg1zCua7biM_GIGIOTew'
   lat: 40.084907
   level: 7
   lon: -88.209269
-  mus: 1906
+  mus: 2010
   name:  'Stone Creek Church'
 - fields: 5+
   img: http://i.imgur.com/LujBo5P.png
@@ -124,6 +103,27 @@
   lon: -88.194623
   mus: 973
   name:  'Larson Park'
+- fields: 6
+  img:  'http://lh6.ggpht.com/D4r1KWBUGF8ZJDUXBHVcNVeP66FVliNQrEX0n-jZkYyFnWUfZ_vfBIAt4padKNgvgmextrkL2-kxkv6JbS3u'
+  lat: 40.110394
+  level: 8
+  lon: -88.219509
+  mus: 934
+  name:  'University Of Illinois'
+- fields: 3
+  img:  'http://lh3.ggpht.com/nEmxwddo6XwjpSBtzzXHCx_v9wYD5ITuVRx4VF0emrxiLFZGpsBb4HkcXFS4BAR3ZhrmD8t2YDKEWF7NGxV7'
+  lat: 40.099595
+  level: 7
+  lon: -88.206642
+  mus: 578
+  name:  'Blair Park Shuffle Board Courts'
+- fields: 5
+  img:  'http://lh6.ggpht.com/2T-yFizCXTUh9PJYVfD73AfFhWiFJFHcsHiH6EhQ9RA7csDC1PaYMQx1tkIePJTGABCLcLfs3LgcSiP3qmywdw'
+  lat: 40.110504
+  level: 6
+  lon: -88.209
+  mus: 568
+  name:  'Church of Christ '
 - fields: 4
   img:  'http://lh5.ggpht.com/e6wN_SlFuF59rOEwuU8BCPeT0WsXneW_OcsXpZ75pgQd0PQSfnKhmLyrK5PDkisRwjV2DfAfVp7T3ryHoGKX4A'
   lat: 40.076779
@@ -131,13 +131,6 @@
   lon: -88.249144
   mus: 505
   name:  'Triptych Brewing'
-- fields: 5
-  img:  'http://lh6.ggpht.com/D4r1KWBUGF8ZJDUXBHVcNVeP66FVliNQrEX0n-jZkYyFnWUfZ_vfBIAt4padKNgvgmextrkL2-kxkv6JbS3u'
-  lat: 40.110394
-  level: 8
-  lon: -88.219509
-  mus: 471
-  name:  'University Of Illinois'
 - fields: 1
   img:  'http://lh3.ggpht.com/xuR2FaQJXFhWOfH2YR-wgTMUn6de0x9fK_RzH7yx2vxtFcveZF4qEwPTtrwnO1KK0aVRHbtmwoYGNSheowgV'
   lat: 40.096637
@@ -432,13 +425,6 @@
   lon: -88.209282
   mus: 106
   name:  'Cycling Mural'
-- fields: 4
-  img:  'http://lh6.ggpht.com/2T-yFizCXTUh9PJYVfD73AfFhWiFJFHcsHiH6EhQ9RA7csDC1PaYMQx1tkIePJTGABCLcLfs3LgcSiP3qmywdw'
-  lat: 40.110504
-  level: 6
-  lon: -88.209
-  mus: 105
-  name:  'Church of Christ '
 - fields: 2
   img:  'http://lh6.ggpht.com/g00CHgvPQnSjjPtDBIePwTKCNdh3HB7MmvYFvkSM7tmZuoBJ4WaKiltQhrfxIflpUy2xiNU-Z_Z2PGCTnXfK'
   lat: 40.110725
@@ -1107,17 +1093,10 @@
 - fields: 1
   img:  'http://lh6.ggpht.com/SOEkawCv91wHrlqOJdkbN9KzhF3V8Uc1_VE_5V-PUNZhbJ9jXtSHQLjSEP4PGO091UFjUtYxX4Ikg7x6rE0LNawabllL4qbEUfQY-thKMrIXW2E'
   lat: 40.100186
-  level: 6
+  level: 7
   lon: -88.205286
   mus: 11
   name:  'Blair Park Viewing Pavillion'
-- fields: 1
-  img:  'http://lh3.ggpht.com/nEmxwddo6XwjpSBtzzXHCx_v9wYD5ITuVRx4VF0emrxiLFZGpsBb4HkcXFS4BAR3ZhrmD8t2YDKEWF7NGxV7'
-  lat: 40.099595
-  level: 6
-  lon: -88.206642
-  mus: 11
-  name:  'Blair Park Shuffle Board Courts'
 - fields: 3
   img:  'http://lh6.ggpht.com/6pMlM7pPsp-5PTNYZ8AJgo5ODURCPJO-_LigeHL2TMhjfK9MS17iEcpQqc89n5gyUdEO8seZrlThTGbKEqg'
   lat: 40.132999
