@@ -245,17 +245,17 @@
   lon: -88.249214
   name:  'Bette McKown Honorary'
 - ap: 6098
-  img:  'http://lh3.ggpht.com/I8Cra-oBAq7td_84j0G8l8DIMXhxPP-O8A8xPb1WZb8O2s9DBapV_osKefRuzzDGDhcPRA9WT7yaPBvkGE4g'
-  lat: 40.112836
-  level: 5
-  lon: -88.22802
-  name:  '1909 Senior Memorial'
-- ap: 6098
   img:  'http://lh3.ggpht.com/aHqOXq4BX_XXhSNRFJn0768z_1bjWEniMumNJ4FMy9Nv5j3AefPsZDiAGCehCguZ1HFOBMBXxRI4mOXd077e'
   lat: 40.112957
   level: 5
   lon: -88.227127
   name:  'Early Computers Plaque'
+- ap: 6098
+  img:  'http://lh3.ggpht.com/I8Cra-oBAq7td_84j0G8l8DIMXhxPP-O8A8xPb1WZb8O2s9DBapV_osKefRuzzDGDhcPRA9WT7yaPBvkGE4g'
+  lat: 40.112836
+  level: 5
+  lon: -88.22802
+  name:  '1909 Senior Memorial'
 - ap: 6096
   img:  'http://lh6.ggpht.com/NMgUdPOdhvhvKZh7ugwXgybshZBZ2mkaEWMNKYdFPX6cfIYENSCqE9YpAXSNVuq_9VVWXJB-ShCBAPfF2Yvs'
   lat: 40.102513
@@ -299,17 +299,17 @@
   lon: -88.251419
   name:  'Lyman Larson Memorial'
 - ap: 5161
-  img:  'http://lh4.ggpht.com/ezHSw_hRdts3U3bzkEEn46LneS1miDpbSGoxg0v1TqG_W82bvfR2uSTZeDFfhG0kmPJAkOblWP_ZilA6TP8'
-  lat: 40.112523
-  level: 5
-  lon: -88.227765
-  name:  'Bardeen Quadrangle - North Side'
-- ap: 5161
   img:  'http://lh4.ggpht.com/6WTMH3liIIuH6pEvRGZOkUNNR84nR8frjFch6yn_4mbGIokY-MajBCG6jZHWU37a8TBI97rYTBlX-ks8m5XJTw'
   lat: 40.112843
   level: 5
   lon: -88.227657
   name:  'Class of 1904 Flagpole'
+- ap: 5161
+  img:  'http://lh4.ggpht.com/ezHSw_hRdts3U3bzkEEn46LneS1miDpbSGoxg0v1TqG_W82bvfR2uSTZeDFfhG0kmPJAkOblWP_ZilA6TP8'
+  lat: 40.112523
+  level: 5
+  lon: -88.227765
+  name:  'Bardeen Quadrangle - North Side'
 - ap: 4972
   img:  'http://lh4.ggpht.com/BDVsIEWOaH0zZsTgU8IbvmVNJTrl3EljfhNXeVt4C2BILNtXm5hpAq_6mLrTl66aJcUyYv4hFJKhxedLkKo'
   lat: 40.11679
@@ -775,7 +775,7 @@
 - ap: 2537
   img:  'http://lh4.ggpht.com/N6E1iW7R1Dt6SCyd1q4Ym_HeSnFZ2mHHlXE-jkX1_YLy9BgSRPcDZK8ri2PWx6-sV1IEsClFGgMgpdI2Bgg'
   lat: 40.069187
-  level: 5
+  level: 6
   lon: -88.295335
   name:  'Friendship Lutheran Church of Joy'
 - ap: 2537
@@ -851,17 +851,11 @@
   lon: -88.245046
   name:  'Eddie Thorpe''s Memorial Rock And Tree'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/_rfJReDlJdrYezXwl9C7a4r7ZMCEE2RZ9dek5gQwKkC4sFtmFVfYF7S04SQXmjcksfbCvLWlOEuqOjxWnX4'
-  lat: 40.12284
-  level: 7
-  lon: -88.246749
-  name:  'Queen Smith Memorial Garden'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/EbBkWl7u8IzfuSOKbXTBKdMileYrjubgGK5MOwxzEGIDtOO8oYloK2Mh-oe6t3SLxiC4Dul0W7en-SG0hw4'
-  lat: 40.124346
-  level: 7
-  lon: -88.243367
-  name:  'Bannon Mini Park'
+  img:  'http://lh6.ggpht.com/4K7T7_gGrfag_-Hep7ygH_rklKsjale4oo2CqJAFTpPB5EM4Dv8ZGyz7i_qUOuLnt16GWxDSJWCS8TZYyGY'
+  lat: 40.115421
+  level: 6
+  lon: -88.243168
+  name:  'Walnut Street Tea Co.'
 - ap: 2537
   img:  'http://lh3.ggpht.com/QXNgz_dPkVpVuz9Qr0CZkUJDftEdF2Hs8m3XkLjsM8Q3YkwkWpxt0rmtqJ-fFylVNnP4_r193_ZhBl2kSfg'
   lat: 40.129216
@@ -875,12 +869,6 @@
   lon: -88.243433
   name:  'Christ Community Church'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/4K7T7_gGrfag_-Hep7ygH_rklKsjale4oo2CqJAFTpPB5EM4Dv8ZGyz7i_qUOuLnt16GWxDSJWCS8TZYyGY'
-  lat: 40.115421
-  level: 6
-  lon: -88.243168
-  name:  'Walnut Street Tea Co.'
-- ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.110982
   level: '?'
@@ -892,6 +880,18 @@
   level: 4
   lon: -88.192642
   name:  'The Silver Bullet'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/_rfJReDlJdrYezXwl9C7a4r7ZMCEE2RZ9dek5gQwKkC4sFtmFVfYF7S04SQXmjcksfbCvLWlOEuqOjxWnX4'
+  lat: 40.12284
+  level: 7
+  lon: -88.246749
+  name:  'Queen Smith Memorial Garden'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/EbBkWl7u8IzfuSOKbXTBKdMileYrjubgGK5MOwxzEGIDtOO8oYloK2Mh-oe6t3SLxiC4Dul0W7en-SG0hw4'
+  lat: 40.124346
+  level: 7
+  lon: -88.243367
+  name:  'Bannon Mini Park'
 - ap: 2537
   img:  'http://lh6.ggpht.com/ZpJuVeWuDsVo9oPzh9mGzFjeTz2FQluKlriJijNL29HFEEWmMBqok5fCxVis8MpHqJYCBQUhRLNU9yuE7luP'
   lat: 40.129233
