@@ -1,10 +1,3 @@
-- fields: 7
-  img:  'http://lh6.ggpht.com/NMgUdPOdhvhvKZh7ugwXgybshZBZ2mkaEWMNKYdFPX6cfIYENSCqE9YpAXSNVuq_9VVWXJB-ShCBAPfF2Yvs'
-  lat: 40.102513
-  level: 7
-  lon: -88.243679
-  mus: 345
-  name:  'Robert Hosier Memorial Garden'
 - fields: 2
   img:  'http://lh5.ggpht.com/_9uqsDQROIwqIhKx_URY4DdZAapoZBEWK6Eaclt5mM5vPsjwQAD-v8Bv-4b-Smq2F8X4zOgzLx2KwySkFWc'
   lat: 40.118448
@@ -40,6 +33,13 @@
   lon: -88.25193
   mus: 18
   name:  'Seeds of Kindness Bench'
+- fields: 2+
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.195019
+  level: '?'
+  lon: -88.402935
+  mus: 14
+  name:  'c87d5b6cf7ea4bae962a48d438be958c.16'
 - fields: 9
   img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
   lat: 40.100078
@@ -89,13 +89,6 @@
   lon: -88.248724
   mus: 6
   name:  'Fountain Town Center'
-- fields: 4
-  img:  'http://lh3.ggpht.com/aHqOXq4BX_XXhSNRFJn0768z_1bjWEniMumNJ4FMy9Nv5j3AefPsZDiAGCehCguZ1HFOBMBXxRI4mOXd077e'
-  lat: 40.112957
-  level: 5
-  lon: -88.227127
-  mus: 5
-  name:  'Early Computers Plaque'
 - fields: 4
   img:  'http://lh3.ggpht.com/KzADjdPRAvwycpfTBdAeDwFJ0AxZJG2dPmbPWkXq55QLV9PfpJ_-DsXWIlVgsISUApRdJ5cAxRWx0k0W2hI'
   lat: 40.09979
@@ -174,6 +167,13 @@
   mus: 2
   name:  'Randy William Auteberry Memorial'
 - fields: 1
+  img:  'http://lh3.ggpht.com/I8Cra-oBAq7td_84j0G8l8DIMXhxPP-O8A8xPb1WZb8O2s9DBapV_osKefRuzzDGDhcPRA9WT7yaPBvkGE4g'
+  lat: 40.112836
+  level: 2
+  lon: -88.22802
+  mus: 2
+  name:  '1909 Senior Memorial'
+- fields: 1
   img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
   lat: 40.099737
   level: 8
@@ -188,12 +188,12 @@
   mus: 1
   name:  'Donald F. Bresnan Memorial'
 - fields: 1
-  img:  'http://lh3.ggpht.com/I8Cra-oBAq7td_84j0G8l8DIMXhxPP-O8A8xPb1WZb8O2s9DBapV_osKefRuzzDGDhcPRA9WT7yaPBvkGE4g'
-  lat: 40.112836
-  level: 5
-  lon: -88.22802
+  img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
+  lat: 40.117976
+  level: 7
+  lon: -88.245082
   mus: 1
-  name:  '1909 Senior Memorial'
+  name:  'Robeson Building '
 - fields: 1
   img:  'http://lh5.ggpht.com/DFa-Mh8ldMlU5wGTYmJIGYKPoSYUfYebRpnom9j15NFNRkwMdU5kDME0GYQUyA_LXnsNi9Jka-xidd302s93'
   lat: 40.099056
