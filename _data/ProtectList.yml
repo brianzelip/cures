@@ -454,6 +454,27 @@
   mus: 43
   name:  'Saint Mary''s Cemetery'
 - fields: 1
+  img:  'http://lh3.ggpht.com/1yyUr0xGwID_g1F_OYHLjASRJrvJLD7e8r6IER_B6CliwGRrCH6cDWRVgtfWqJ0wHhNyjId_FX6mEVecAviV'
+  lat: 40.11946
+  level: 7
+  lon: -88.276623
+  mus: 41
+  name:  'Glenn Park'
+- fields: 1
+  img:  'http://lh4.ggpht.com/DXAAQEV-pW-laeGTPphalYn5MoUFYMOyKbjs7rL1bBgkOlCxtaEH7bLcuvNbiQTWzFZK1ZPcNbwuEjw20-od'
+  lat: 40.116869
+  level: 4
+  lon: -88.249849
+  mus: 41
+  name:  'Don and Ruth Dobbins Memorial'
+- fields: 1
+  img:  'http://lh3.ggpht.com/l6drxc16dn91XarTz8Tkkeerjhu28Hf3x7nh-pHe05BLyOA6fuV75A5gB8UdUNt3cRN_eXIHmTE8c5Ypvcw'
+  lat: 40.117248
+  level: 4
+  lon: -88.249929
+  mus: 41
+  name:  '"Tootsie" at West Side Park'
+- fields: 1
   img:  'http://lh4.ggpht.com/TBdQ8fwHzTxOelVmzeofa-exhQ8cwbOVHb8bVga_MzTz3hC44VOzElIptwaKQuDBdLnDhL-NUEjLnOKO7HnjWw'
   lat: 40.078503
   level: 5
@@ -516,13 +537,6 @@
   lon: -88.202075
   mus: 30
   name:  'Southern Passage'
-- fields: 2
-  img:  'http://lh5.ggpht.com/2PB1u3cNuASfw9D_MIUzI1JvNofebK7zsuGqKoUApr-nUWYZ8y5CzxH6g7CdcY7ShBaVGrBrurkbwrdUPD7JBk55TH0Ouao5b_g2jUI1saBNUE8'
-  lat: 40.106744
-  level: 6
-  lon: -88.225347
-  mus: 29
-  name:  'The Red Herring Vegetarian'
 - fields: 4
   img:  'http://lh5.ggpht.com/e0BZy-ClP4miKQ9vYfkRIgxEUrpGMn9VCB-nRa_Kj579pT19ZzPuvvL1MRfd1Xu_pzF1eA-hvVhF6zLxaUTCsA'
   lat: 40.104118
@@ -537,13 +551,6 @@
   lon: -88.285834
   mus: 27
   name:  'Illinois Earth Team Plaque'
-- fields: 3
-  img:  'http://lh5.ggpht.com/pnMcOl0FAs-A861T6mvs4EQGCm08ZQGxUcMdclhxsgyUThD6KymilbixZqTcT464ZFRUnjMoFee37DuNXxcm'
-  lat: 40.10719
-  level: 6
-  lon: -88.226585
-  mus: 27
-  name:  'College of Agriculture'
 - fields: 2
   img:  'http://lh3.googleusercontent.com/XQb7KWjSJlhbfrYsW2727_AeRoEQ5BbG0fRTTY5js_4zRdArbiRhCRkXunVa81rQpk9yX4RB6x1dV97DnYN7'
   lat: 40.104722
@@ -558,13 +565,6 @@
   lon: -88.243473
   mus: 23
   name:  'Savoy Rotary Club Dedication'
-- fields: 1
-  img:  'http://lh5.ggpht.com/KQ7QYG8rWnVxSme_uq3cOu8IreZRbztWWKHTNPBy_6GvCqP3ywy-HEoSUxqloLDeUggEVV0UhKLy8Ja0v0yPdQ'
-  lat: 40.110844
-  level: 5
-  lon: -88.224091
-  mus: 23
-  name:  'Institute of Aviation'
 - fields: 7
   img:  'http://lh6.ggpht.com/a7U3RDd7velreml5bufqdV_G7UTGp85wW8w5LWXCJNvNYvu-iW5nUdDbsA6y0gODhhOWdwxltnQQgvTSRFA'
   lat: 40.093084
@@ -670,6 +670,13 @@
   lon: -88.283224
   mus: 16
   name:  'Leonhard Recreation Center'
+- fields: 2
+  img:  'http://lh3.ggpht.com/rKv-1aQyD3_EmYdZWG7vYw8cs8J89rZ6nFgr0tzEY9dFNyVdXpy1qOnHT434i_rN90x2ZakG3V5iyZUlXFogwA'
+  lat: 40.103623
+  level: 6
+  lon: -88.22503
+  mus: 16
+  name:  'Dancing Horse Metalwork Art'
 - fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.201244
@@ -768,13 +775,6 @@
   lon: -88.228706
   mus: 12
   name:  'Leo Roy Tehon Memorial'
-- fields: 1
-  img:  'http://lh3.ggpht.com/rKv-1aQyD3_EmYdZWG7vYw8cs8J89rZ6nFgr0tzEY9dFNyVdXpy1qOnHT434i_rN90x2ZakG3V5iyZUlXFogwA'
-  lat: 40.103623
-  level: 5
-  lon: -88.22503
-  mus: 12
-  name:  'Dancing Horse Metalwork Art'
 - fields: 3
   img:  'http://lh3.googleusercontent.com/gCJN301o7TKMPpTwXYpuWceaR0wtjm4S3By0SJ5ubrMNK0UEKo6bMcldlreNdLDqpnrYOFmjqByM6vCJDCT-'
   lat: 40.086378
@@ -1062,20 +1062,6 @@
   lon: -88.265912
   mus: 6
   name:  'Dan Morrissey Park'
-- fields: 1
-  img:  'http://lh3.ggpht.com/2wN9MWxEFPbMzRPAzNmaAiCOQJj_EFr94Y1YkQP_wMlyajkajmcw00gqW-EluMvpQmvnGgcQ-WdPxjcYTmr2'
-  lat: 40.106519
-  level: 6
-  lon: -88.223748
-  mus: 6
-  name:  'Thunderbird Theatre Mosaic'
-- fields: 1
-  img:  'http://lh3.ggpht.com/whmQSPmix2tEoKcWwrVrV0H0JzNf1tzyuohI3ykSa-Qx4rUcLTf4686WcnJjygsMY2QPUWhvVVzlmMMHof94'
-  lat: 40.105907
-  level: 6
-  lon: -88.22564
-  mus: 6
-  name:  'Andrew De Grado Memorial'
 - fields: 4
   img:  'http://lh3.ggpht.com/D_Ys-MQsKIFD3lXdFelPZDmzAyMO2oiZJCacCqycQkFOyn5qZ46YhurTmbZ2Smtbf95wU3or0FEr2JvhuMrVWjXTRxJN2EmHBT4fWRhPsDLRFdmA'
   lat: 40.110978
@@ -1132,6 +1118,20 @@
   lon: -88.240033
   mus: 5
   name:  'Illinois Natural History Survey'
+- fields: 1
+  img:  'http://lh6.ggpht.com/n_LMwtvxbWlYfCgK6MerzbQVpmDR9rqxJUrEnA8OAeCIYBi6zbeLqYCldCtXZDSV1IHsYOpgoO60Od3TGJ3h'
+  lat: 40.103207
+  level: 6
+  lon: -88.224601
+  mus: 5
+  name:  'Darrell A. Miller Memorial Tree'
+- fields: 1
+  img:  'http://lh3.ggpht.com/0-BDoSYQzYfR7AHH26pmRGbZ4VmB4kdhLKm3x_AV4WOsaSFFLgJwMVN-bWTz9oopIx6IJQMxGvtl5C3svl0C'
+  lat: 40.104061
+  level: 7
+  lon: -88.222743
+  mus: 5
+  name:  'Fire Station'
 - fields: 3
   img:  'http://lh4.ggpht.com/MwwvfldFODGbgQvly97peMlV1Ggftr7Cz_qnZi6Xts08-O6InkPyV8c78QXZkgd-opgO2p1ER6wONxA3Zfs'
   lat: 40.092492
@@ -1195,6 +1195,13 @@
   lon: -88.226647
   mus: 4
   name:  'Illini Supersweet Corn Plaque'
+- fields: 2
+  img:  'http://lh5.ggpht.com/pnMcOl0FAs-A861T6mvs4EQGCm08ZQGxUcMdclhxsgyUThD6KymilbixZqTcT464ZFRUnjMoFee37DuNXxcm'
+  lat: 40.10719
+  level: 6
+  lon: -88.226585
+  mus: 4
+  name:  'College of Agriculture'
 - fields: 2
   img:  'http://lh4.ggpht.com/lpJC8CMq12VKjzn5jKxDzhuO6-wy48dUIJ1qAD7jiTQom4qZYFUDgxd3-1wexag_aT8akZC3P7VTqei0H48YKQ'
   lat: 40.100482
