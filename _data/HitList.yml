@@ -1,3 +1,10 @@
+- fields: 3+
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.152792
+  level: '?'
+  lon: -88.253532
+  mus: 11355
+  name:  'Toalson Park'
 - fields: 3
   img:  'http://lh5.ggpht.com/H3lz_PbTP4RFYuRMUyZuMouxslODKZQ3RjFiZrITFZcpj2FuEb1K2VVlveQtOyUHG2rYZ114AGuGqK4rATI5jg'
   lat: 40.097868
@@ -26,20 +33,13 @@
   lon: -88.249275
   mus: 79
   name:  'Narayan & Shanti Achanta Memorial Plaque'
-- fields: 2
-  img:  'http://lh3.googleusercontent.com/hJZWoErzM-MuXulq4FlhlZwMbJX1Isd81GBUBVKayd57jVIVxUle3itd-1DRKo2VaNXznWr1X639fa44Etk'
-  lat: 40.141919
-  level: 6
-  lon: -88.244611
-  mus: 70
-  name:  'Marketplace Mall Carousel'
-- fields: 1
-  img:  'http://lh3.ggpht.com/ehNwLdaa71H3Bylm063pawn4caIGz2rCdmmdBhAFWIuEt2kPjT8nWHDkSuoOidckWiM82FWpDSNGQqQMHiQ'
-  lat: 40.098209
+- fields: 7
+  img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
+  lat: 40.117976
   level: 7
-  lon: -88.28689
-  mus: 64
-  name:  'First Church of the Nazarene'
+  lon: -88.245082
+  mus: 48
+  name:  'Robeson Building '
 - fields: 4
   img:  'http://lh3.ggpht.com/161K1avC8teYs8PtJMANd0cBrff72XYRYh2Gjg2_KhkEh6_F6MLd3cfHIXwK8zegd65ISEVxmEoD5THpeY-Q'
   lat: 40.112553
@@ -54,13 +54,6 @@
   lon: -88.226053
   mus: 40
   name:  'BCS Superconductivity Theory Plaque'
-- fields: 4
-  img:  'http://lh3.ggpht.com/9aQBG-poFARclK9XL7iFIvWePkawZwWhv4Sh0zQhQ0Sy9gdDD508d4gCtpcUP9UNoYM6uztea0aQ05RPd9rZLg'
-  lat: 40.115412
-  level: 7
-  lon: -88.245046
-  mus: 33
-  name:  'Eddie Thorpe''s Memorial Rock And Tree'
 - fields: 5
   img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
   lat: 40.106706
@@ -75,6 +68,13 @@
   lon: -88.251974
   mus: 30
   name:  'Hessel Park'
+- fields: 5
+  img:  'http://lh5.ggpht.com/wX6-mbTE7nT00T6ildapKbI5ZrnhPIt4l91DhMseyo3GYFrgQIuqbjh8ntZY6NxGZ-qa6fKWlyoBOPdIdNIt'
+  lat: 40.114653
+  level: 6
+  lon: -88.243729
+  mus: 19
+  name:  'The Phoenix'
 - fields: 6
   img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
   lat: 40.100822
@@ -89,13 +89,6 @@
   lon: -88.230269
   mus: 17
   name:  'John Street Plaque'
-- fields: 4+
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.194971
-  level: '?'
-  lon: -88.403465
-  mus: 16
-  name:  '9ac55f1a3bf140e5abc27bbc95fb2036.16'
 - fields: 4
   img:  'http://lh6.ggpht.com/yE7aPklOUj6Y4vlNLUrqm7uJbj0TAVjhl_vSEgy7CHGlkTo5yyJGeTCUnRsHYe2UAZq2h_Y3AD_m3y3i2B8'
   lat: 40.106876
@@ -146,13 +139,6 @@
   mus: 11
   name:  'Blessings from Devon Elaine Cattell'
 - fields: 4
-  img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
-  lat: 40.117976
-  level: 7
-  lon: -88.245082
-  mus: 11
-  name:  'Robeson Building '
-- fields: 4
   img:  'http://lh6.ggpht.com/n0f7lyo15OzZn5IJHsohIGAA58iioentPZGEY4zeMZCCoX4GjEEkqfaTCIbrx9OnezriThnbFV14kYcwKTgL1g'
   lat: 40.098444
   level: 7
@@ -166,6 +152,13 @@
   lon: -88.290525
   mus: 10
   name:  'Fish Chimes at Kaufman Lake'
+- fields: 2
+  img:  'http://lh6.ggpht.com/duOeXcOSQLWosdD0JJXg3pWWQp4t5sL0x9qDHoTIBFNOzEW0t53Lt2cnwgV2E_Su0l1ajIQxPtVbbK_sDRaS'
+  lat: 40.141775
+  level: 5
+  lon: -88.242671
+  mus: 10
+  name:  'Marketplace Mall Fountain'
 - fields: 6
   img:  'http://lh3.ggpht.com/KzADjdPRAvwycpfTBdAeDwFJ0AxZJG2dPmbPWkXq55QLV9PfpJ_-DsXWIlVgsISUApRdJ5cAxRWx0k0W2hI'
   lat: 40.09979
@@ -194,20 +187,6 @@
   lon: -88.230687
   mus: 6
   name:  'Community United Church of Christ'
-- fields: 1
-  img:  'http://lh4.ggpht.com/yi9OPnLGsLTvtOMNuOUfed6edO9tB6h0QmSHJaKKaiMyEXC8Aj2hz9hIvgh8C2DY76mVgNHw4S0gsYpkPpkt'
-  lat: 40.148692
-  level: 7
-  lon: -88.248724
-  mus: 6
-  name:  'Fountain Town Center'
-- fields: 5
-  img:  'http://lh3.ggpht.com/LunaMtSKD9yiLQClolDY-Iqh0ENm9AgJdL4D1QxGs0j6TXPgqxDZea35x5ilAfeI5_0TGh5x1q1EqRsJsLFi'
-  lat: 40.114111
-  level: 7
-  lon: -88.243697
-  mus: 5
-  name:  'Champaign Surplus'
 - fields: 5
   img:  'http://lh3.ggpht.com/G1CvGhpethi5UmprDWxZN9rTblHa3anSsQz1UPgJtkREkfN7lDFoxFObst0609Cg5mofuZxJKr0ddNKhY4VL'
   lat: 40.098464
@@ -215,13 +194,6 @@
   lon: -88.251426
   mus: 4
   name:  'Ruth Haasis Memorial'
-- fields: 1
-  img:  'http://lh6.ggpht.com/duOeXcOSQLWosdD0JJXg3pWWQp4t5sL0x9qDHoTIBFNOzEW0t53Lt2cnwgV2E_Su0l1ajIQxPtVbbK_sDRaS'
-  lat: 40.141775
-  level: 5
-  lon: -88.242671
-  mus: 4
-  name:  'Marketplace Mall Fountain'
 - fields: 5
   img:  'http://lh6.ggpht.com/YVbqGVTjJuDMDdj71CP2mWvnUIdgO25PgoDdJwEGnEE_M9I1aDgKyjSr9JOZVU6UQTZQtfUo9RAWyz92n3jtCQ'
   lat: 40.098475
@@ -229,6 +201,13 @@
   lon: -88.249208
   mus: 4
   name:  'In Fond Memory of William Moore Jr'
+- fields: 1
+  img:  'http://lh6.ggpht.com/2Rx43j2Btq5GI7Atdo-QNNLuFVJkY-7DiyLMNbg2kD1wjE77IXmedVtWOjr6wu_mgieNLBnA0GJLZ6zNF3s'
+  lat: 40.110735
+  level: 6
+  lon: -88.236736
+  mus: 3
+  name:  'Park Place Tower'
 - fields: 1+
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.20265
@@ -264,6 +243,13 @@
   lon: -88.394094
   mus: 3
   name:  '2a77bf7698f24379838733d064f5ce04.16'
+- fields: 3
+  img:  'http://lh3.ggpht.com/LunaMtSKD9yiLQClolDY-Iqh0ENm9AgJdL4D1QxGs0j6TXPgqxDZea35x5ilAfeI5_0TGh5x1q1EqRsJsLFi'
+  lat: 40.114111
+  level: 7
+  lon: -88.243697
+  mus: 2
+  name:  'Champaign Surplus'
 - fields: 2
   img:  'http://lh5.ggpht.com/Lup2et0i5h8oHqtBffIdoyX5uclC2MBn9ZnnKnYPr4RIFSflf9bi78zBHK7QqycA0qgEev9qOk0zU-1o1hg'
   lat: 40.108451
@@ -279,12 +265,12 @@
   mus: 2
   name:  'Max Overmyer Memorial Playground'
 - fields: 1
-  img:  'http://lh5.ggpht.com/wX6-mbTE7nT00T6ildapKbI5ZrnhPIt4l91DhMseyo3GYFrgQIuqbjh8ntZY6NxGZ-qa6fKWlyoBOPdIdNIt'
-  lat: 40.114653
-  level: 6
-  lon: -88.243729
+  img:  'http://lh3.ggpht.com/9aQBG-poFARclK9XL7iFIvWePkawZwWhv4Sh0zQhQ0Sy9gdDD508d4gCtpcUP9UNoYM6uztea0aQ05RPd9rZLg'
+  lat: 40.115412
+  level: 7
+  lon: -88.245046
   mus: 2
-  name:  'The Phoenix'
+  name:  'Eddie Thorpe''s Memorial Rock And Tree'
 - fields: 1
   img:  'http://lh4.ggpht.com/ZwDzLvPP0KTL_mUj9ta-0DRkbA4q3X7b-r02bm3rTibFkPbu00GKehClddYfSkXbwVuJ4pjt4T7yo7ou54ov'
   lat: 40.111869
@@ -299,6 +285,13 @@
   lon: -88.250855
   mus: 1
   name:  'Donald F. Bresnan Memorial'
+- fields: 1
+  img:  'http://lh5.ggpht.com/9XV46K2cUd84oc6HPyqlj53LKJS8lVs0f0gPHSCBkkTwiHaxivu36dlAj5M38EzK-2U4xhvZJ7AiVvGM5yk'
+  lat: 40.118175
+  level: 7
+  lon: -88.244562
+  mus: 1
+  name:  'The Russell Building'
 - fields: 1
   img:  'http://lh5.ggpht.com/T0WLAJf0s4nu2Phxax31eu6pO6zNoA4JpvHMLyfMKttzJALEWB8EAWOziQwgjdWE3YjBbG1XjGYsgihqCSX9'
   lat: 40.100414
