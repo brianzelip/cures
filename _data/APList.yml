@@ -101,17 +101,17 @@
   lon: -88.251947
   name:  'Our Friend Tim Palmer'
 - ap: 8909
-  img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
-  lat: 40.098959
-  level: 8
-  lon: -88.250141
-  name:  'Bob and Wilma Tinkham'
-- ap: 8909
   img:  'http://lh6.ggpht.com/BKeORacgeVrG8XzxTuXmpq5UxomWpK-I2n7Xy0PVbdSciNx9MJl869TcibnFIiV5PJHGv5R3QOpX6ZgLUwU'
   lat: 40.099706
   level: 8
   lon: -88.250065
   name:  'Lois Barham Memorial Tree'
+- ap: 8909
+  img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
+  lat: 40.098959
+  level: 8
+  lon: -88.250141
+  name:  'Bob and Wilma Tinkham'
 - ap: 8722
   img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
   lat: 40.099593
@@ -203,6 +203,12 @@
   lon: -88.249208
   name:  'In Fond Memory of William Moore Jr'
 - ap: 7035
+  img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
+  lat: 40.099737
+  level: 8
+  lon: -88.251157
+  name:  'Tyler Van Atkins Memorial'
+- ap: 7035
   img:  'http://lh5.ggpht.com/8zq5tMevCiipZK8N9-8SZw3vdsA2HwH0E02ormQshGxHVZrB2WPK7OPC8zt6pjLlgpXVuEYHVA_08_Q8fPw-'
   lat: 40.099647
   level: 8
@@ -221,12 +227,6 @@
   lon: -88.249899
   name:  'Benjamin Biddle Memorial Plaque'
 - ap: 7035
-  img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
-  lat: 40.099737
-  level: 8
-  lon: -88.251157
-  name:  'Tyler Van Atkins Memorial'
-- ap: 7035
   img:  'http://lh5.ggpht.com/kElaGOaV9aI8SrnM1D65gx9J0Ky1AKrN9Yo-pXVmDhELt2pee4MwVRiCqCmlqWzUWj5pS33GnEzAiXmiWKsw'
   lat: 40.108111
   level: 7
@@ -239,6 +239,12 @@
   lon: -88.251826
   name:  'Irina P. Stewart Memorial Plaque'
 - ap: 6659
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.152792
+  level: '?'
+  lon: -88.253532
+  name:  'Toalson Park'
+- ap: 6659
   img:  'http://lh4.ggpht.com/vUhKhmK0pteJi8_0n25xIa4EpgpVSS432OxXv1UQBDLjju5SEGcm_2WWl99OUPtDyNLlXirJu--KDbCoYjM'
   lat: 40.08956
   level: 6
@@ -250,12 +256,6 @@
   level: 6
   lon: -88.230687
   name:  'Community United Church of Christ'
-- ap: 6472
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.152792
-  level: '?'
-  lon: -88.253532
-  name:  'Toalson Park'
 - ap: 6285
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.227262
@@ -287,17 +287,17 @@
   lon: -88.24958
   name:  'Edward A. Cousins Plaque'
 - ap: 6098
-  img:  'http://lh3.googleusercontent.com/Tixp17uCaP682s77UzvCwWCOE6vg7iB2qEFLjACq7xtVJdHE0K3yKYsl3_SwKbiUfQWwgTQRbvfka3U0NvNc'
-  lat: 40.098819
-  level: 8
-  lon: -88.249214
-  name:  'Bette McKown Honorary'
-- ap: 6098
   img:  'http://lh5.ggpht.com/3t7XZHqwxLZ8Lc9YomR8FInm74U2PAA-DBk8kmdxXIrcXbKa1CoBDTlgdDJeO-_yVT3qNKRnNLzbdil1eH41iA'
   lat: 40.09935
   level: 8
   lon: -88.249766
   name:  'Jim Bickel Honorary Plaque'
+- ap: 6098
+  img:  'http://lh3.googleusercontent.com/Tixp17uCaP682s77UzvCwWCOE6vg7iB2qEFLjACq7xtVJdHE0K3yKYsl3_SwKbiUfQWwgTQRbvfka3U0NvNc'
+  lat: 40.098819
+  level: 8
+  lon: -88.249214
+  name:  'Bette McKown Honorary'
 - ap: 6096
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.312242
@@ -420,6 +420,12 @@
   name:  'Leo Roy Tehon Memorial'
 - ap: 4598
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.152871
+  level: '?'
+  lon: -88.253305
+  name:  '50197185529145c883d36b74db0ec522.16'
+- ap: 4598
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.152342
   level: '?'
   lon: -88.252345
@@ -526,12 +532,6 @@
   level: '?'
   lon: -88.96598
   name:  '8729bc29f55e4f9b9eadf4493379cdd4.16'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.152871
-  level: '?'
-  lon: -88.253305
-  name:  '50197185529145c883d36b74db0ec522.16'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.222256
@@ -911,6 +911,12 @@
   lon: -88.228747
   name:  'Boneyard Creek Mural'
 - ap: 2537
+  img:  'http://lh6.ggpht.com/RR0i4QdfoY8NkTQtssdOtDLhAEaCR7e-R4ipk5NzdKe9lTGDq2nyKI_7sF2BCXrgCZAZ2zEEtIzS7vg6Pu0hzA'
+  lat: 40.126458
+  level: 6
+  lon: -88.218544
+  name:  'The Vineyard Church'
+- ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.975309
   level: '?'
@@ -958,12 +964,6 @@
   level: '?'
   lon: -88.263266
   name:  '6fc2b246c1ea47d0ba7c8aaacc073f38.12'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/RR0i4QdfoY8NkTQtssdOtDLhAEaCR7e-R4ipk5NzdKe9lTGDq2nyKI_7sF2BCXrgCZAZ2zEEtIzS7vg6Pu0hzA'
-  lat: 40.126458
-  level: 6
-  lon: -88.218544
-  name:  'The Vineyard Church'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.18691
@@ -1103,6 +1103,12 @@
   lon: -88.231962
   name:  '1926 Sigil'
 - ap: 2537
+  img:  'http://lh3.ggpht.com/hFkwytijOefeZugpAO9nX8xe0Zazpem9zJKa7S-WYlccBZVMWRqZYIj-iWKNXi5TUWEXjk4HQbKAvCW_3WdE'
+  lat: 40.104287
+  level: 6
+  lon: -88.229415
+  name:  'The Pioneers'
+- ap: 2537
   img:  'http://lh6.ggpht.com/hPutcAvS7zQN-tagfEY-fvkvdlgj7j5sZwUSLY883Twc7tHyslIAp7lzWYciJmCytDfsbFQtavAlzqGwCgFZkw'
   lat: 40.105562
   level: 5
@@ -1126,12 +1132,6 @@
   level: 6
   lon: -88.22469
   name:  'Building of Molecular and Cellular Biology Sculpture'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/hFkwytijOefeZugpAO9nX8xe0Zazpem9zJKa7S-WYlccBZVMWRqZYIj-iWKNXi5TUWEXjk4HQbKAvCW_3WdE'
-  lat: 40.104287
-  level: 6
-  lon: -88.229415
-  name:  'The Pioneers'
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/hF5kZFrZGRZkYYPDY8q06SkEPkSLljkbEbCI4gcyZ1QU1-wpfBV_Cma3GT6YE6PTdRBZr-7NuaDvVEm7oQU'
   lat: 40.128105
