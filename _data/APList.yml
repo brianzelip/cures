@@ -239,6 +239,12 @@
   lon: -88.251826
   name:  'Irina P. Stewart Memorial Plaque'
 - ap: 6659
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.152792
+  level: '?'
+  lon: -88.253532
+  name:  'Toalson Park'
+- ap: 6659
   img:  'http://lh4.ggpht.com/vUhKhmK0pteJi8_0n25xIa4EpgpVSS432OxXv1UQBDLjju5SEGcm_2WWl99OUPtDyNLlXirJu--KDbCoYjM'
   lat: 40.08956
   level: 6
@@ -250,12 +256,6 @@
   level: 6
   lon: -88.230687
   name:  'Community United Church of Christ'
-- ap: 6472
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.152792
-  level: '?'
-  lon: -88.253532
-  name:  'Toalson Park'
 - ap: 6285
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.227262
@@ -287,17 +287,17 @@
   lon: -88.24958
   name:  'Edward A. Cousins Plaque'
 - ap: 6098
-  img:  'http://lh3.googleusercontent.com/Tixp17uCaP682s77UzvCwWCOE6vg7iB2qEFLjACq7xtVJdHE0K3yKYsl3_SwKbiUfQWwgTQRbvfka3U0NvNc'
-  lat: 40.098819
-  level: 8
-  lon: -88.249214
-  name:  'Bette McKown Honorary'
-- ap: 6098
   img:  'http://lh5.ggpht.com/3t7XZHqwxLZ8Lc9YomR8FInm74U2PAA-DBk8kmdxXIrcXbKa1CoBDTlgdDJeO-_yVT3qNKRnNLzbdil1eH41iA'
   lat: 40.09935
   level: 8
   lon: -88.249766
   name:  'Jim Bickel Honorary Plaque'
+- ap: 6098
+  img:  'http://lh3.googleusercontent.com/Tixp17uCaP682s77UzvCwWCOE6vg7iB2qEFLjACq7xtVJdHE0K3yKYsl3_SwKbiUfQWwgTQRbvfka3U0NvNc'
+  lat: 40.098819
+  level: 8
+  lon: -88.249214
+  name:  'Bette McKown Honorary'
 - ap: 6096
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.312242
@@ -426,6 +426,12 @@
   name:  'Leo Roy Tehon Memorial'
 - ap: 4598
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.152871
+  level: '?'
+  lon: -88.253305
+  name:  '50197185529145c883d36b74db0ec522.16'
+- ap: 4598
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.152342
   level: '?'
   lon: -88.252345
@@ -463,7 +469,7 @@
 - ap: 4598
   img:  'http://lh6.ggpht.com/duOeXcOSQLWosdD0JJXg3pWWQp4t5sL0x9qDHoTIBFNOzEW0t53Lt2cnwgV2E_Su0l1ajIQxPtVbbK_sDRaS'
   lat: 40.141775
-  level: 5
+  level: 6
   lon: -88.242671
   name:  'Marketplace Mall Fountain'
 - ap: 4598
@@ -514,10 +520,10 @@
   level: 7
   lon: -88.231151
   name:  'Illini Life Christian Fellowship'
-- ap: 4598
+- ap: 4223
   img:  'http://lh6.ggpht.com/j712bbvDknzGlAU87nZA1Bx45Ng-0MGA9Uvuv-3WzIKA3W51mXOZpJ-TzVSbuU3uE2AsJ5wcO7_B6WDpdRr0'
   lat: 40.110684
-  level: 5
+  level: 2
   lon: -88.226053
   name:  'BCS Superconductivity Theory Plaque'
 - ap: 4411
@@ -526,12 +532,6 @@
   level: '?'
   lon: -88.96598
   name:  '8729bc29f55e4f9b9eadf4493379cdd4.16'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.152871
-  level: '?'
-  lon: -88.253305
-  name:  '50197185529145c883d36b74db0ec522.16'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.222256
@@ -1060,7 +1060,7 @@
   level: 7
   lon: -88.243471
   name:  'Champaign Church of the Bretheren'
-- ap: 2537
+- ap: 2462
   img:  'http://lh6.ggpht.com/pYay9oPZwUNKfLdWJ1JMI5tA9-Gd0vsBddLTz7fXN6wUW7F23hLMWRwFZNnXyomRkc2f9sqCGMxNWuYHPFZx'
   lat: 40.109142
   level: 4

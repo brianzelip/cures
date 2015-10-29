@@ -228,7 +228,7 @@
   lat1: 40.103829
   lat2: 40.100488
   level1: 6
-  level2: 6
+  level2: 7
   lon1: -88.219002
   lon2: -88.221702
   mus: 675
@@ -536,7 +536,7 @@
   lat1: 40.094317
   lat2: 40.100488
   level1: 6
-  level2: 6
+  level2: 7
   lon1: -88.228678
   lon2: -88.221702
   mus: 240
@@ -578,7 +578,7 @@
   lat1: 40.080381
   lat2: 40.100488
   level1: 5
-  level2: 6
+  level2: 7
   lon1: -88.209174
   lon2: -88.221702
   mus: 222
@@ -1348,7 +1348,7 @@
   lat1: 40.104285
   lat2: 40.100488
   level1: 6
-  level2: 6
+  level2: 7
   lon1: -88.221691
   lon2: -88.221702
   mus: 52
@@ -1566,6 +1566,34 @@
   name2:  'Parkland College'
   resos1: 8
   resos2: 8
+- img1:  'http://lh3.ggpht.com/8Nxm7sw1mIfTkxKb-GsE_e5DuPgup8SmX1SJRLGZmvopdsQsPx8E9eDzuISKXBjwveamwn6H26EmIJZzVwkr'
+  img2:  'http://lh3.ggpht.com/5iH9kzVECg-dsKRPYTzLzAT5eoYnDhGrcJB1N-hLShal9eEun1_Ml0oFX2c42cGNjKj8-yvsEnUn2j4C_90'
+  intel: https://www.ingress.com/intel?ll=40.1178293333,-88.2479623333&z=14&pls=40.117449,-88.246902,40.11792,-88.249845
+  lat1: 40.117449
+  lat2: 40.11792
+  level1: 2
+  level2: 5
+  lon1: -88.246902
+  lon2: -88.249845
+  mus: 38
+  name1:  'Champaign Park District Flower Island'
+  name2:  'Thomas R. Sandrock'
+  resos1: 8
+  resos2: 8
+- img1:  'http://lh6.ggpht.com/ZQaguxPyiC-6DeFDFa2niVKJz3ySxwxYaFCv8PRdNuoMYUfP-Xtirg-8pXCTdBCyH1BruprOVmqf3D1kdp7o'
+  img2:  'http://lh6.ggpht.com/HvC073U-qgv-Zdd0zHS5_UQsybUORqZiuhnRY5V1bWxlRPwBG9564LEVab8tUebtP8OzNkBVp3K39WZkahjw'
+  intel: https://www.ingress.com/intel?ll=40.117088,-88.248617&z=14&pls=40.115225,-88.248866,40.118119,-88.24714
+  lat1: 40.115225
+  lat2: 40.118119
+  level1: 4
+  level2: 6
+  lon1: -88.248866
+  lon2: -88.24714
+  mus: 38
+  name1:  'Holy Cross Catholic Church'
+  name2:  'Police and Firefighters Memorial'
+  resos1: 8
+  resos2: 8
 - img1:  'http://lh4.ggpht.com/nYT8xXu54e_RpOMwge0741LJV8TXmsU6JtJkw4-eNbTQlG51DA0s20v0xTmtkvREh1GrXuaasrkSJL5c3E_K2Q'
   img2:  'http://lh4.ggpht.com/Oy0NzvODUpd5270gnNUQqxf4w1YUNzMwDdncW6PvKUb3y_ptImObTW3rbbHp_OYEUKTR37L61q3yuYr1GRSV'
   intel: https://www.ingress.com/intel?ll=40.085129,-88.30651&z=14&pls=40.082248,-88.312376,40.090259,-88.295024
@@ -1582,7 +1610,7 @@
   resos2: 8
 - img1:  'http://lh4.ggpht.com/4pxL0jEBlvHiFP3fcYdIWIAHRpyhg2RaH6Ikze3DLOSsA509375IHgRzptCjWZryzLqpuDEYLZTFDbwSKmE'
   img2:  'http://lh4.ggpht.com/28G0r_p-w3q04AH2p4_fR4O-CYSuWHPoKP2-xgfex5AyW9dAdobtwfB9d3kYf2bIn_izORpEbJsHQn7ExHQ_xg'
-  intel: https://www.ingress.com/intel?ll=40.1168433333,-88.2060896667&z=14&pls=40.117343,-88.207767,40.116647,-88.205155
+  intel: https://www.ingress.com/intel?ll=40.1156153333,-88.205364&z=14&pls=40.117343,-88.207767,40.116647,-88.205155
   lat1: 40.117343
   lat2: 40.116647
   level1: 7
@@ -1628,7 +1656,7 @@
   lat1: 40.117449
   lat2: 40.115412
   level1: 2
-  level2: 5
+  level2: 6
   lon1: -88.246902
   lon2: -88.245046
   mus: 33
@@ -1690,20 +1718,6 @@
   mus: 30
   name1:  'Goodyear Mural'
   name2:  'Lincoln Square Fountain'
-  resos1: 8
-  resos2: 8
-- img1:  'http://lh3.ggpht.com/8Nxm7sw1mIfTkxKb-GsE_e5DuPgup8SmX1SJRLGZmvopdsQsPx8E9eDzuISKXBjwveamwn6H26EmIJZzVwkr'
-  img2:  'http://lh4.ggpht.com/6iTxW6HC8WFx3nf6xEGhZryWVxW9NNijqTsEKvcBCBkmkmLZdUjaDHKReKT58cl8RUaCwDCL7pMFmBEyj3Fc'
-  intel: https://www.ingress.com/intel?ll=40.1167586667,-88.2485703333&z=14&pls=40.117449,-88.246902,40.117602,-88.249943
-  lat1: 40.117449
-  lat2: 40.117602
-  level1: 2
-  level2: 5
-  lon1: -88.246902
-  lon2: -88.249943
-  mus: 29
-  name1:  'Champaign Park District Flower Island'
-  name2:  'Megan Schneider Patel Honorary Plaque'
   resos1: 8
   resos2: 8
 - img1:  'http://lh6.ggpht.com/UXx9XSWX3zuym6SdX68IXNFYcpnbhGuF7Zk3taO-TJ2VI_LvwmooNWjUHb8OIgKsjyto3PT7YU0D-Y7HW7c'
@@ -1890,7 +1904,7 @@
   resos2: 7
 - img1:  'http://lh3.ggpht.com/bGP5sHc4CJ8tWBxVUN_RonUmvTocQxNQDIzXf94PxHcFtqhDcWJi__diLWu-7b94x-lFOJSou24yKzPZr0E'
   img2:  'http://lh5.ggpht.com/_CP_-V0UvlMpMCqxcu9H9suYfz6p6k40F5AIKnuJ3QbMbi14OTTsoYC38b4Z2dg8FjHGQZJI7Vj7ClyH_eQ7'
-  intel: https://www.ingress.com/intel?ll=40.1064876667,-88.219228&z=14&pls=40.103829,-88.219002,40.108108,-88.219576
+  intel: https://www.ingress.com/intel?ll=40.106737,-88.219501&z=14&pls=40.103829,-88.219002,40.108108,-88.219576
   lat1: 40.103829
   lat2: 40.108108
   level1: 6
@@ -2020,7 +2034,7 @@
   lat1: 40.105687
   lat2: 40.106519
   level1: 6
-  level2: 6
+  level2: 7
   lon1: -88.225714
   lon2: -88.223748
   mus: 15
@@ -2034,7 +2048,7 @@
   lat1: 40.094333
   lat2: 40.100488
   level1: 7
-  level2: 6
+  level2: 7
   lon1: -88.238753
   lon2: -88.221702
   mus: 15
@@ -2198,7 +2212,7 @@
   resos2: 8
 - img1:  'http://lh6.ggpht.com/0WV0zgKIo2AbnMTwJXYSM-C6nik92XvxsPKcZps2SdFzIWJ2bY4k2dHAqdImb1hTCK910NMvQYoKlwWprt6c'
   img2:  'http://lh6.ggpht.com/z-rN7V9azKlrBiQyHrvOp3PTu3nhMGzTUfdYLK_BUobDrl_-Ju4DX9nOO8TdIRRFz5lcPVF9n15VyvlHhKEk'
-  intel: https://www.ingress.com/intel?ll=40.1216933333,-88.2102356667&z=14&pls=40.12034,-88.211743,40.122406,-88.20969
+  intel: https://www.ingress.com/intel?ll=40.121261,-88.2107876667&z=14&pls=40.12034,-88.211743,40.122406,-88.20969
   lat1: 40.12034
   lat2: 40.122406
   level1: 6
@@ -2350,34 +2364,6 @@
   name2:  'Public Broadcasting Plaque'
   resos1: 8
   resos2: 8
-- img1:  'http://lh3.ggpht.com/8Nxm7sw1mIfTkxKb-GsE_e5DuPgup8SmX1SJRLGZmvopdsQsPx8E9eDzuISKXBjwveamwn6H26EmIJZzVwkr'
-  img2:  'http://lh3.ggpht.com/5iH9kzVECg-dsKRPYTzLzAT5eoYnDhGrcJB1N-hLShal9eEun1_Ml0oFX2c42cGNjKj8-yvsEnUn2j4C_90'
-  intel: https://www.ingress.com/intel?ll=40.1178293333,-88.2479623333&z=14&pls=40.117449,-88.246902,40.11792,-88.249845
-  lat1: 40.117449
-  lat2: 40.11792
-  level1: 2
-  level2: 5
-  lon1: -88.246902
-  lon2: -88.249845
-  mus: 8
-  name1:  'Champaign Park District Flower Island'
-  name2:  'Thomas R. Sandrock'
-  resos1: 8
-  resos2: 8
-- img1:  'http://lh6.ggpht.com/ZQaguxPyiC-6DeFDFa2niVKJz3ySxwxYaFCv8PRdNuoMYUfP-Xtirg-8pXCTdBCyH1BruprOVmqf3D1kdp7o'
-  img2:  'http://lh6.ggpht.com/HvC073U-qgv-Zdd0zHS5_UQsybUORqZiuhnRY5V1bWxlRPwBG9564LEVab8tUebtP8OzNkBVp3K39WZkahjw'
-  intel: https://www.ingress.com/intel?ll=40.116931,-88.247636&z=14&pls=40.115225,-88.248866,40.118119,-88.24714
-  lat1: 40.115225
-  lat2: 40.118119
-  level1: 4
-  level2: 6
-  lon1: -88.248866
-  lon2: -88.24714
-  mus: 8
-  name1:  'Holy Cross Catholic Church'
-  name2:  'Police and Firefighters Memorial'
-  resos1: 8
-  resos2: 8
 - img1:  'http://lh4.ggpht.com/-2q6p_jcZ5xVswdwpO98pGsMWXnqxUlsBmhWA2F6xs0MbwejV7FTN7-kHSb4nlsfg3uUsrvdDmUM5v1lQ-Ia'
   img2:  'http://lh4.ggpht.com/hKTQKnNhAOAoqWMFWE-zWItmI_v3PVVR_V2kmFC3WPQmltzm1M9hhF4OpYjQ4FX8zgYjQl5csIpybTeQwPt5'
   intel: https://www.ingress.com/intel?ll=40.0860326667,-88.250676&z=14&pls=40.086252,-88.249351,40.085468,-88.251369
@@ -2520,7 +2506,7 @@
   resos2: 8
 - img1:  'http://lh5.ggpht.com/9VuH5-qaoobAtdEZFkn2uoAcJS5Luq9QLXRevRpv9WAzkjoAB_9hftbELGCCm8M4rxAJ5xTfJWd6E6kb0Or7'
   img2:  'http://lh4.ggpht.com/Iw1zFYmvkp5-xEIthuGSfIqcCRd0lVw_uGS4y_I5DIg6xQ0CUp4_S4GL3JOWv7XFZLFqFH9O572bGCNhB78IMQ'
-  intel: https://www.ingress.com/intel?ll=40.101988,-88.2826063333&z=14&pls=40.102016,-88.281983,40.102126,-88.283224
+  intel: https://www.ingress.com/intel?ll=40.1021196667,-88.2830206667&z=14&pls=40.102016,-88.281983,40.102126,-88.283224
   lat1: 40.102016
   lat2: 40.102126
   level1: 6
@@ -2966,6 +2952,20 @@
   name2:  'Andrew De Grado Memorial'
   resos1: 8
   resos2: 8
+- img1:  'http://lh4.ggpht.com/6iTxW6HC8WFx3nf6xEGhZryWVxW9NNijqTsEKvcBCBkmkmLZdUjaDHKReKT58cl8RUaCwDCL7pMFmBEyj3Fc'
+  img2:  'http://lh3.ggpht.com/5iH9kzVECg-dsKRPYTzLzAT5eoYnDhGrcJB1N-hLShal9eEun1_Ml0oFX2c42cGNjKj8-yvsEnUn2j4C_90'
+  intel: https://www.ingress.com/intel?ll=40.1169156667,-88.2495513333&z=14&pls=40.117602,-88.249943,40.11792,-88.249845
+  lat1: 40.117602
+  lat2: 40.11792
+  level1: 5
+  level2: 5
+  lon1: -88.249943
+  lon2: -88.249845
+  mus: 3
+  name1:  'Megan Schneider Patel Honorary Plaque'
+  name2:  'Thomas R. Sandrock'
+  resos1: 8
+  resos2: 8
 - img1:  'http://lh6.ggpht.com/6yxAmr2FjIBpCnPpjbRv2_ffdjnZXpB2FX2OgDLnFT0Oay8HbNuXBErpWWje-HkjfKlf0OugYI9CAtbUcgPsA0B7aD9He4jy7otGJ1mBkF_9NwAA'
   img2:  'http://lh6.ggpht.com/RH3MbwozH7YnjZhF6W7_9XqmrK02-9MNQd_3QdyYWQZ9OkYL4uEh1afAxpqy_DfYXl_LAIhTAmpIL_8JG68'
   intel: https://www.ingress.com/intel?ll=40.111366,-88.2083196667&z=14&pls=40.111099,-88.209036,40.111284,-88.208185
@@ -3290,7 +3290,7 @@
   resos2: 8
 - img1:  'http://lh6.ggpht.com/tTU-Y5FRAb4F92hceoxPTuE4REQk2A9674rjMKsbcjBvAo4QT0vO_hstMwuRjymG8xwGglkae1Jcxli35886tHdHOqWzAvkKEzTz5eIiZIZV76hTZQ'
   img2:  'http://lh5.ggpht.com/_CP_-V0UvlMpMCqxcu9H9suYfz6p6k40F5AIKnuJ3QbMbi14OTTsoYC38b4Z2dg8FjHGQZJI7Vj7ClyH_eQ7'
-  intel: https://www.ingress.com/intel?ll=40.1083426667,-88.2197796667&z=14&pls=40.108646,-88.219838,40.108108,-88.219576
+  intel: https://www.ingress.com/intel?ll=40.1080933333,-88.2195066667&z=14&pls=40.108646,-88.219838,40.108108,-88.219576
   lat1: 40.108646
   lat2: 40.108108
   level1: 7
