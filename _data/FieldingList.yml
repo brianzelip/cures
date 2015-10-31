@@ -167,20 +167,6 @@
   resos1: '?'
   resos2: '?'
 - img1: http://i.imgur.com/LujBo5P.png
-  img2:  'http://lh3.ggpht.com/sMx0P-GO5ovW4D9GxUctotNYCfxZGhdOEhiL1DmdIK6HMtm6Q2YB4GNKL53HBW60hQRizKWO_neyW1gOFt4'
-  intel: https://www.ingress.com/intel?ll=40.054536,-88.294775&z=14&pls=40.040518,-88.384748,40.068464,-88.243473
-  lat1: 40.040518
-  lat2: 40.068464
-  level1: '?'
-  level2: 8
-  lon1: -88.384748
-  lon2: -88.243473
-  mus: 8589
-  name1:  'St Boniface Catholic Church'
-  name2:  'Savoy Rotary Club Dedication'
-  resos1: '?'
-  resos2: 8
-- img1: http://i.imgur.com/LujBo5P.png
   img2: http://i.imgur.com/LujBo5P.png
   intel: https://www.ingress.com/intel?ll=40.186818,-88.3618943333&z=14&pls=40.185093,-88.296792,40.196436,-88.380815
   lat1: 40.185093
@@ -208,9 +194,23 @@
   name2:  'Hensley Township Town Hall'
   resos1: '?'
   resos2: '?'
+- img1: http://i.imgur.com/LujBo5P.png
+  img2:  'http://lh5.ggpht.com/Jg1eA81CCUqtWFPuF6ABhXh-j5YM5zqFcxpK8gZ83awvjW7MW8EPTyrIQzmgo4MuAmnXRcbR8wIDBW8kOixJHg'
+  intel: https://www.ingress.com/intel?ll=40.0562946667,-88.298219&z=14&pls=40.040518,-88.384748,40.05899,-88.252237
+  lat1: 40.040518
+  lat2: 40.05899
+  level1: '?'
+  level2: 5
+  lon1: -88.384748
+  lon2: -88.252237
+  mus: 5961
+  name1:  'St Boniface Catholic Church'
+  name2:  'Goodwill Donation Express'
+  resos1: '?'
+  resos2: 8
 - img1:  'http://lh6.ggpht.com/prg5Oedqi1_YJMN9GAesf7bmbUwbMGc9v7E3SYkm-TYdudfpX9SwuC1J4D4zkb1K4yrvF2ZPNWDoUniixORu'
   img2:  'http://lh5.ggpht.com/ek0AuIkZd5CWKmIdjFjq5gOvptOzC8VJUnyatNG8ZyUoT8-mvkd4seW8Gpbl4kkgiatIbr57h5kK_5z6NSGD'
-  intel: https://www.ingress.com/intel?ll=40.10902,-88.3130776667&z=14&pls=40.086493,-88.330828,40.131581,-88.312816
+  intel: https://www.ingress.com/intel?ll=40.1166983333,-88.3188313333&z=14&pls=40.086493,-88.330828,40.131581,-88.312816
   lat1: 40.086493
   lat2: 40.131581
   level1: 6
@@ -586,6 +586,34 @@
   name2:  'Lisa Ann Coole Memorial Bench'
   resos1: 8
   resos2: 8
+- img1:  'http://lh6.ggpht.com/nRwew4OU3JNWRI1-xCyuN1xwDabajLFDuSlOZ-_M8BwJELli4V8o30JI0UyF6Kpc4gfDGdh10kJ6mD6ggMo'
+  img2:  'http://lh6.ggpht.com/WVVbmiu2GGTnPTszcnYYILHKlkZDoxB-QY6Yv7YPoUfdVn92jYnKjpVKNkfWdFrPjq-BaFeKGJWLZlE-bbA'
+  intel: https://www.ingress.com/intel?ll=40.1161053333,-88.2519416667&z=14&pls=40.108561,-88.250039,40.120467,-88.2577
+  lat1: 40.108561
+  lat2: 40.120467
+  level1: 7
+  level2: 5
+  lon1: -88.250039
+  lon2: -88.2577
+  mus: 839
+  name1:  'Harris Park'
+  name2:  'Salvation Army Church'
+  resos1: 8
+  resos2: 8
+- img1:  'http://lh6.ggpht.com/_5uAVfIVUSl8LZbPdUo8NofNacgPArlxuX0AhFVfU2I3B-5ULKClKXB_ia2JZo1UjjJO7Mme5nB8HSWXKhrcpg'
+  img2:  'http://lh6.ggpht.com/WVVbmiu2GGTnPTszcnYYILHKlkZDoxB-QY6Yv7YPoUfdVn92jYnKjpVKNkfWdFrPjq-BaFeKGJWLZlE-bbA'
+  intel: https://www.ingress.com/intel?ll=40.1258273333,-88.2427343333&z=14&pls=40.137727,-88.222417,40.120467,-88.2577
+  lat1: 40.137727
+  lat2: 40.120467
+  level1: 6
+  level2: 5
+  lon1: -88.222417
+  lon2: -88.2577
+  mus: 838
+  name1:  'Eastern Illinois Food Bank'
+  name2:  'Salvation Army Church'
+  resos1: 8
+  resos2: 8
 - img1:  'http://lh5.ggpht.com/BkbaZlRlq44d6DiMOVuIlrel2Hsi_RzzHhhdmJH6BLzJk5RKxAcvh2mMd93BFhKgTKLk-yZsNLTaJiTbZsk'
   img2:  'http://lh6.ggpht.com/m3dZgxR8wnyRzox-3ZP4-LHNEEdyXpj_mwwFjAQW2cC5O2CtFGT8EpOlrSvwGKeBt7Kl5vhdHNZlui0wBGLPMg'
   intel: https://www.ingress.com/intel?ll=40.084806,-88.258537&z=14&pls=40.086686,-88.252282,40.090953,-88.274185
@@ -698,6 +726,20 @@
   name2:  'Meadowbrook Community Church'
   resos1: 8
   resos2: 8
+- img1:  'http://lh3.ggpht.com/psgrRGIt786cUSq8EV7SBSDsS-aptrUKjaCXWv864H7OaJL2K71qJpxU9Iw-acwFMi52ZN2qpEmicGmlmhJq'
+  img2:  'http://lh6.ggpht.com/_5uAVfIVUSl8LZbPdUo8NofNacgPArlxuX0AhFVfU2I3B-5ULKClKXB_ia2JZo1UjjJO7Mme5nB8HSWXKhrcpg'
+  intel: https://www.ingress.com/intel?ll=40.1260253333,-88.2402433333&z=14&pls=40.121061,-88.250227,40.137727,-88.222417
+  lat1: 40.121061
+  lat2: 40.137727
+  level1: 5
+  level2: 6
+  lon1: -88.250227
+  lon2: -88.222417
+  mus: 687
+  name1:  'Curtis F. Columbia Legacy Plaque'
+  name2:  'Eastern Illinois Food Bank'
+  resos1: 8
+  resos2: 8
 - img1:  'http://lh3.ggpht.com/BTOxkIG5jV6VaSJtyt1Kge-WlIsvddZuz7YzzqkQhAMWxgfE71ab2wqWdKY20M9-6zbGlVq43XMJ2CrZDqU'
   img2:  'http://lh5.ggpht.com/S_72RqBcpwyaqDotOOM3zyRvzzZXNgZUSEfOLLDYY9tEvWcEksixMnIL7N-7FO1EpE-CXGydpsChqEkBjX_I'
   intel: https://www.ingress.com/intel?ll=40.1256533333,-88.2844606667&z=14&pls=40.127246,-88.276738,40.131279,-88.290872
@@ -738,6 +780,20 @@
   mus: 642
   name1:  'A.C. HumKo Mural'
   name2:  'Gazebo At Washington Retention Park'
+  resos1: 8
+  resos2: 8
+- img1:  'http://lh5.ggpht.com/Jg1eA81CCUqtWFPuF6ABhXh-j5YM5zqFcxpK8gZ83awvjW7MW8EPTyrIQzmgo4MuAmnXRcbR8wIDBW8kOixJHg'
+  img2:  'http://lh3.ggpht.com/sMx0P-GO5ovW4D9GxUctotNYCfxZGhdOEhiL1DmdIK6HMtm6Q2YB4GNKL53HBW60hQRizKWO_neyW1gOFt4'
+  intel: https://www.ingress.com/intel?ll=40.06561,-88.2511273333&z=14&pls=40.05899,-88.252237,40.068464,-88.243473
+  lat1: 40.05899
+  lat2: 40.068464
+  level1: 5
+  level2: 8
+  lon1: -88.252237
+  lon2: -88.243473
+  mus: 576
+  name1:  'Goodwill Donation Express'
+  name2:  'Savoy Rotary Club Dedication'
   resos1: 8
   resos2: 8
 - img1:  'http://lh3.ggpht.com/HSmGD1jJOw5icbm8Vcu4vu7XoUAc2Nxniy0zHPzjuKTwwZ3pvmkUbvvN08IH_eqyFpp6hwhtMvnEHObFOIRhk-b0ho8MCcUkh9Ox7l6S8FMvN3t-'
@@ -1050,7 +1106,7 @@
   resos2: 8
 - img1:  'http://lh3.ggpht.com/mH9oKWk-phPYmQF0ge48xB3OAch9161ZF0yJS5uGLtF8Hv4c7JZjcHweRyEF7yWhjzuN4sLJzH5MIu2dLa_F'
   img2:  'http://lh4.ggpht.com/iq0AIMD1D6PFcLIIBflZ30Y-ohyBTSRFX0ET_F-b30QnrujDMBdye1grsSc7lKQxq9d_GdD8gqvQAK2c36U'
-  intel: https://www.ingress.com/intel?ll=40.0833396667,-88.323754&z=14&pls=40.084503,-88.332162,40.08146,-88.310362
+  intel: https://www.ingress.com/intel?ll=40.0839726667,-88.3250926667&z=14&pls=40.084503,-88.332162,40.08146,-88.310362
   lat1: 40.084503
   lat2: 40.08146
   level1: 6
@@ -1680,7 +1736,7 @@
   resos2: 8
 - img1:  'http://lh6.ggpht.com/NKXSF6GiNQjQkGMo2cwszdfKruFPx3kqSmhOnKewgIS5FYC7jBNc3zKfRlEWtCBj-XBFLZM0fjURljdmMCGHTp6XADSQdWjVAmjnaudxBI5YSWFw'
   img2:  'http://lh6.ggpht.com/JeyTR9Ntp2SxIdvTxHGqu5zXzMo7stGncs5TYYFLlRf0WEb6U4dc4EOvDZ1szjub_UqgSO_HgZ7tUKs9PUAkEQ'
-  intel: https://www.ingress.com/intel?ll=40.1105456667,-88.205869&z=14&pls=40.110465,-88.204813,40.109634,-88.206203
+  intel: https://www.ingress.com/intel?ll=40.1098226667,-88.205678&z=14&pls=40.110465,-88.204813,40.109634,-88.206203
   lat1: 40.110465
   lat2: 40.109634
   level1: 5
@@ -1764,7 +1820,7 @@
   resos2: 8
 - img1:  'http://lh4.ggpht.com/jSz2CxoxUTCD1-qpHHu_6jtdCngFAYA2Ex-nNx-uEvRBtsBmmqhT7ogZI_ZTarMG8NrQs7M1EQzKjZhqGjyZrIw_TvFm885uc6c31FSL3bihglbs'
   img2:  'http://lh3.ggpht.com/KnNYiTjbSfT8lzl-5r3OkJW1ptOP-d5JkDibk9pg1eydNzpy_IgdiC-kCRNUSoBP9nFsblvWr7t9IC4qMU0'
-  intel: https://www.ingress.com/intel?ll=40.1104573333,-88.2058073333&z=14&pls=40.111538,-88.206591,40.109369,-88.206018
+  intel: https://www.ingress.com/intel?ll=40.110541,-88.2066056667&z=14&pls=40.111538,-88.206591,40.109369,-88.206018
   lat1: 40.111538
   lat2: 40.109369
   level1: 4
@@ -2562,7 +2618,7 @@
   resos2: 8
 - img1:  'http://lh3.ggpht.com/txXhB2-_UCJMArJ1qjOILOTPjtbhyo6om4p4YXyjlOzzr2enJIG2FUjsjF1HqF3ydLX8gPkmxC6cdia0zaBh'
   img2:  'http://lh3.ggpht.com/yQ9HtiIe7ywa9U_kppXZTr0IMkQknRGoEvP0rzx7MH9z4dfWLrPhk_LChaKkVmkqQz-Ookk0fuka27YY39nr'
-  intel: https://www.ingress.com/intel?ll=40.1101283333,-88.2083086667&z=14&pls=40.110333,-88.20874,40.109336,-88.208978
+  intel: https://www.ingress.com/intel?ll=40.1100576667,-88.208906&z=14&pls=40.110333,-88.20874,40.109336,-88.208978
   lat1: 40.110333
   lat2: 40.109336
   level1: 5
@@ -2618,7 +2674,7 @@
   resos2: 7
 - img1:  'http://lh3.googleusercontent.com/zmBaxEMhC7WvQDOei5LjXnSrM2p368YlSMZPtCtSY0t6bGsHjg5Bc91PGGsJ0oGn_hifKeBSMB_3BKH3hbwP'
   img2:  'http://lh4.ggpht.com/WF3_fc0ms0XOrJBrSwqEEdmtfNLcSKu4S_zvn_t6zYNYwxsZY4UrAV04cTmXoYt3dRTr5wyRBPZVKsMAoSbZ'
-  intel: https://www.ingress.com/intel?ll=40.105226,-88.2270826667&z=14&pls=40.105567,-88.227662,40.105315,-88.226125
+  intel: https://www.ingress.com/intel?ll=40.1053536667,-88.226906&z=14&pls=40.105567,-88.227662,40.105315,-88.226125
   lat1: 40.105567
   lat2: 40.105315
   level1: 4
@@ -2632,7 +2688,7 @@
   resos2: 5
 - img1:  'http://lh6.ggpht.com/Qfyp6BK43B93Oo5kazv7b-62q_5cx5GKxXPyw6Juss-A6AgPx81B0lyWhzW7Ava9ztLzedt07gEh3ia2PPFDwQ'
   img2:  'http://lh6.ggpht.com/yyeYUYh4CQUjDkChdMYxhBGtyVNFeOxie-Qo2rFmwnp6dxmIx6wYlfyU88vIxtwULKprz84mi2fmqu2vMOo'
-  intel: https://www.ingress.com/intel?ll=40.113776,-88.2083016667&z=14&pls=40.113636,-88.208146,40.114764,-88.20772
+  intel: https://www.ingress.com/intel?ll=40.113971,-88.2078083333&z=14&pls=40.113636,-88.208146,40.114764,-88.20772
   lat1: 40.113636
   lat2: 40.114764
   level1: 5
@@ -2688,7 +2744,7 @@
   resos2: 7
 - img1:  'http://lh3.googleusercontent.com/ehDcIFPGimXzEpSpqydgEInzS_LCx7xdxdANoVH3o2WnEnCyvgjWqV1F-DbvHnpuMsAkbUqetYiu0sPiWwE'
   img2:  'http://lh6.ggpht.com/rbEeQxbZyvrUu5nCQma0PzHtlA4cmaa9jItLke0b5KBmVlYP0q0d9OYg0_jrSi-8RiYOSdJklSevnYpoyjBWgA'
-  intel: https://www.ingress.com/intel?ll=40.1189986667,-88.2683236667&z=14&pls=40.12025,-88.268125,40.118265,-88.268383
+  intel: https://www.ingress.com/intel?ll=40.1183363333,-88.2683343333&z=14&pls=40.12025,-88.268125,40.118265,-88.268383
   lat1: 40.12025
   lat2: 40.118265
   level1: 7
@@ -2814,7 +2870,7 @@
   resos2: 8
 - img1:  'http://lh5.ggpht.com/244-kBAz29TDfOH8muwt4hhbFTCEXkddZJR6jpzYeuL8UDht0s9QJJhZL40ner3EhKhzBQFqTTeRrYDZoF0'
   img2:  'http://lh3.ggpht.com/0-BDoSYQzYfR7AHH26pmRGbZ4VmB4kdhLKm3x_AV4WOsaSFFLgJwMVN-bWTz9oopIx6IJQMxGvtl5C3svl0C'
-  intel: https://www.ingress.com/intel?ll=40.1041633333,-88.221995&z=14&pls=40.104331,-88.222064,40.104061,-88.222743
+  intel: https://www.ingress.com/intel?ll=40.1041343333,-88.2228313333&z=14&pls=40.104331,-88.222064,40.104061,-88.222743
   lat1: 40.104331
   lat2: 40.104061
   level1: 5
@@ -3178,7 +3234,7 @@
   resos2: 8
 - img1:  'http://lh4.ggpht.com/L3_3bdFGcwi5zvNhxvPnMFZZEm1bKFSEVI3DOlF-FaUcX4jDGEwZ8xezrXUq6-71tbPP7kIe9PT1CTTY-ZjJ7A'
   img2:  'http://lh5.ggpht.com/cHXnlWuRvdsWlYl544dN4Z4dFmU3Wzw1BEovUj84953CC59BdwR-5pDK8MUkpnAECo3RjUVQMAS0elR08dvD'
-  intel: https://www.ingress.com/intel?ll=40.1148426667,-88.224775&z=14&pls=40.114539,-88.224663,40.115302,-88.224932
+  intel: https://www.ingress.com/intel?ll=40.1145683333,-88.2248113333&z=14&pls=40.114539,-88.224663,40.115302,-88.224932
   lat1: 40.114539
   lat2: 40.115302
   level1: 3
@@ -3304,7 +3360,7 @@
   resos2: 8
 - img1:  'http://lh3.ggpht.com/rT55OoX-8s-w_ikrqOgpC7QkK-Iqp4ylicElGoWFagKRQ8LX3Uvv8TZ5Xc8BlId1btzo5FTbgddPN72kYwA'
   img2:  'http://lh5.ggpht.com/w9vRSV8NBR1gsi8ndeSUNJN2X-ftwCCQ7Jd3dcLVhPw6r1w0x1QE4hNgpCJBKimUeq-HToz_yq9S3rYkzC5bjw'
-  intel: https://www.ingress.com/intel?ll=40.1142926667,-88.224687&z=14&pls=40.114327,-88.224492,40.114687,-88.22473
+  intel: https://www.ingress.com/intel?ll=40.1145176667,-88.2246283333&z=14&pls=40.114327,-88.224492,40.114687,-88.22473
   lat1: 40.114327
   lat2: 40.114687
   level1: 3
@@ -3318,7 +3374,7 @@
   resos2: 7
 - img1:  'http://lh6.ggpht.com/tTU-Y5FRAb4F92hceoxPTuE4REQk2A9674rjMKsbcjBvAo4QT0vO_hstMwuRjymG8xwGglkae1Jcxli35886tHdHOqWzAvkKEzTz5eIiZIZV76hTZQ'
   img2:  'http://lh5.ggpht.com/_CP_-V0UvlMpMCqxcu9H9suYfz6p6k40F5AIKnuJ3QbMbi14OTTsoYC38b4Z2dg8FjHGQZJI7Vj7ClyH_eQ7'
-  intel: https://www.ingress.com/intel?ll=40.1083426667,-88.2197796667&z=14&pls=40.108646,-88.219838,40.108108,-88.219576
+  intel: https://www.ingress.com/intel?ll=40.1080933333,-88.2195066667&z=14&pls=40.108646,-88.219838,40.108108,-88.219576
   lat1: 40.108646
   lat2: 40.108108
   level1: 7
