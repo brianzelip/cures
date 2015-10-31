@@ -1,3 +1,10 @@
+- fields: 6
+  img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
+  lat: 40.102188
+  level: 5
+  lon: -88.251507
+  mus: 271
+  name:  'Little Free Library Charter 5753'
 - fields: 8
   img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
   lat: 40.115838
@@ -20,12 +27,19 @@
   mus: 54
   name:  'Zipcar-Wright Street & Daniel Street'
 - fields: 5
-  img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
-  lat: 40.108066
-  level: 6
-  lon: -88.230687
-  mus: 33
-  name:  'Community United Church of Christ'
+  img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
+  lat: 40.106706
+  level: 7
+  lon: -88.232116
+  mus: 42
+  name:  'Illini Tower'
+- fields: 6
+  img:  'http://lh5.ggpht.com/1yq3oFq9p_Yl5cUf5h7IEfZPAbae2MT7lA0DFo1DHwPWPZJJ-Ez-2AE2oTzHEHWsEJQVUcUwh3j_d3kOYgDS'
+  lat: 40.110095
+  level: 7
+  lon: -88.22862
+  mus: 31
+  name:  'Alma Mater Plaza'
 - fields: 13
   img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
   lat: 40.098246
@@ -40,13 +54,6 @@
   lon: -88.236736
   mus: 18
   name:  'Park Place Tower'
-- fields: 4
-  img:  'http://lh5.ggpht.com/1yq3oFq9p_Yl5cUf5h7IEfZPAbae2MT7lA0DFo1DHwPWPZJJ-Ez-2AE2oTzHEHWsEJQVUcUwh3j_d3kOYgDS'
-  lat: 40.110095
-  level: 7
-  lon: -88.22862
-  mus: 17
-  name:  'Alma Mater Plaza'
 - fields: 2
   img:  'http://lh3.ggpht.com/HW1b8GEkWmutU8Hsv_zX2TXNh-iirGoXN5HmxCJd5nc3o1VeCkahkCZ_vbSxOB_ffrBlWW3M-LLMSo97tg-c'
   lat: 40.123709
@@ -85,7 +92,7 @@
 - fields: 5
   img:  'http://lh6.ggpht.com/n0f7lyo15OzZn5IJHsohIGAA58iioentPZGEY4zeMZCCoX4GjEEkqfaTCIbrx9OnezriThnbFV14kYcwKTgL1g'
   lat: 40.098444
-  level: 6
+  level: 7
   lon: -88.248167
   mus: 11
   name:  'Healthcare Not War Mural'
@@ -96,13 +103,6 @@
   lon: -88.24558
   mus: 11
   name:  'The Gregory'
-- fields: 1
-  img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
-  lat: 40.106706
-  level: 7
-  lon: -88.232116
-  mus: 11
-  name:  'Illini Tower'
 - fields: 2
   img:  'http://lh6.ggpht.com/duOeXcOSQLWosdD0JJXg3pWWQp4t5sL0x9qDHoTIBFNOzEW0t53Lt2cnwgV2E_Su0l1ajIQxPtVbbK_sDRaS'
   lat: 40.141775
@@ -257,6 +257,20 @@
   lon: -88.241661
   mus: 1
   name:  'Zipcar-45 E. University Avenue'
+- fields: 1+
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.152192
+  level: '?'
+  lon: -88.252279
+  mus: 1
+  name:  'Toalson Park South Entrance'
+- fields: 1
+  img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
+  lat: 40.108066
+  level: 6
+  lon: -88.230687
+  mus: 1
+  name:  'Community United Church of Christ'
 - fields: 2
   img:  'http://lh6.ggpht.com/BANSBFfuZ3_0ya-JodV7jEB1a-DwSOyegBwPKAODSUFHLmvI7b8zwSiLUAvvqIAYjpU6S_Lm8XRBJ30KDGCIEg'
   lat: 40.116917
