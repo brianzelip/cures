@@ -59,6 +59,12 @@
   lon: -88.241422
   name:  'It''s A Mistree'
 - ap: 8909
+  img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
+  lat: 40.100286
+  level: 8
+  lon: -88.251747
+  name:  'Tennis Anyone'
+- ap: 8909
   img:  'http://lh6.ggpht.com/YdeB0EKlsopL39a9YXWj4JBZgXNNLWHgfe4PQzdpWCNWc0fR1YTj8WjARDHnmrusvKWTqKLcGg8U9frhtsw'
   lat: 40.09821
   level: 8
@@ -70,12 +76,6 @@
   level: 8
   lon: -88.249136
   name:  '"Cricket" and Bob Barger Memorial'
-- ap: 8909
-  img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
-  lat: 40.100286
-  level: 8
-  lon: -88.251747
-  name:  'Tennis Anyone'
 - ap: 8909
   img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
   lat: 40.099852
@@ -131,17 +131,17 @@
   lon: -88.248681
   name:  'Siti Sculpture'
 - ap: 7972
-  img:  'http://lh5.ggpht.com/T0WLAJf0s4nu2Phxax31eu6pO6zNoA4JpvHMLyfMKttzJALEWB8EAWOziQwgjdWE3YjBbG1XjGYsgihqCSX9'
-  lat: 40.100414
-  level: 8
-  lon: -88.249061
-  name:  'Randy William Auteberry Memorial'
-- ap: 7972
   img:  'http://lh3.ggpht.com/KzADjdPRAvwycpfTBdAeDwFJ0AxZJG2dPmbPWkXq55QLV9PfpJ_-DsXWIlVgsISUApRdJ5cAxRWx0k0W2hI'
   lat: 40.09979
   level: 8
   lon: -88.249107
   name:  'Jerome Cook Memorial'
+- ap: 7972
+  img:  'http://lh5.ggpht.com/T0WLAJf0s4nu2Phxax31eu6pO6zNoA4JpvHMLyfMKttzJALEWB8EAWOziQwgjdWE3YjBbG1XjGYsgihqCSX9'
+  lat: 40.100414
+  level: 8
+  lon: -88.249061
+  name:  'Randy William Auteberry Memorial'
 - ap: 7785
   img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
   lat: 40.098688
@@ -167,11 +167,23 @@
   lon: -88.241661
   name:  'Zipcar-45 E. University Avenue'
 - ap: 7035
+  img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
+  lat: 40.099737
+  level: 8
+  lon: -88.251157
+  name:  'Tyler Van Atkins Memorial'
+- ap: 7035
   img:  'http://lh3.ggpht.com/sisvfsphxy7AK_2qrrqb7lNJk3_7ciHSVJyodINYITBc-UqugyNOooCxKupgJKEg5m_x95eZwouSO2WCmN60ew'
   lat: 40.098579
   level: 8
   lon: -88.249603
   name:  'Chef Ra Memorial Plaque'
+- ap: 7035
+  img:  'http://lh6.ggpht.com/YVbqGVTjJuDMDdj71CP2mWvnUIdgO25PgoDdJwEGnEE_M9I1aDgKyjSr9JOZVU6UQTZQtfUo9RAWyz92n3jtCQ'
+  lat: 40.098475
+  level: 8
+  lon: -88.249208
+  name:  'In Fond Memory of William Moore Jr'
 - ap: 7035
   img:  'http://lh6.ggpht.com/n0f7lyo15OzZn5IJHsohIGAA58iioentPZGEY4zeMZCCoX4GjEEkqfaTCIbrx9OnezriThnbFV14kYcwKTgL1g'
   lat: 40.098444
@@ -185,23 +197,11 @@
   lon: -88.249648
   name:  'Max Overmyer Memorial Playground'
 - ap: 7035
-  img:  'http://lh6.ggpht.com/YVbqGVTjJuDMDdj71CP2mWvnUIdgO25PgoDdJwEGnEE_M9I1aDgKyjSr9JOZVU6UQTZQtfUo9RAWyz92n3jtCQ'
-  lat: 40.098475
-  level: 8
-  lon: -88.249208
-  name:  'In Fond Memory of William Moore Jr'
-- ap: 7035
   img:  'http://lh6.ggpht.com/3o0ObAARFV_8mBVCC_QD0iLOPVzNkakXybhLnSVEuXIJfDLKMxeYj-EkWIw9NPoZIVRf5Dkrid2yf_NEQ-iE'
   lat: 40.100347
   level: 8
   lon: -88.249385
   name:  'Travis Marmion Memorial'
-- ap: 7035
-  img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
-  lat: 40.099737
-  level: 8
-  lon: -88.251157
-  name:  'Tyler Van Atkins Memorial'
 - ap: 7035
   img:  'http://lh5.ggpht.com/CRkkFx_9jq2hCt1HtflqZDqCdmSG5MN88FV0rLXk1PZm7maZWzLTKZhjqlSKUx1Tg0tSB62l75w2VFsyUZI'
   lat: 40.09991
@@ -323,17 +323,17 @@
   lon: -88.238621
   name:  'Bombay Indian Grill'
 - ap: 5722
-  img:  'http://lh4.ggpht.com/Nh7M4_i-advmuf0RWReev2TeUAZ57VTRzcf56-U_TuHsKcjIdqXGvbxpOccEx1CaYHKzGwI9mZVmnLdmhryGng'
-  lat: 40.115557
-  level: 6
-  lon: -88.239009
-  name:  'Honesty Best Policy  - Vernon A. Roland Building'
-- ap: 5722
   img:  'http://lh4.ggpht.com/0JuC7vEVtmbgkx1FUhaTylcKfKuYoGNdW2P5GNZzGbeOzxEH0Q-9gP9gmmBzx2bkLNA0dnw9FiEJYiHjWXM'
   lat: 40.121329
   level: 5
   lon: -88.24558
   name:  'The Gregory'
+- ap: 5722
+  img:  'http://lh4.ggpht.com/Nh7M4_i-advmuf0RWReev2TeUAZ57VTRzcf56-U_TuHsKcjIdqXGvbxpOccEx1CaYHKzGwI9mZVmnLdmhryGng'
+  lat: 40.115557
+  level: 6
+  lon: -88.239009
+  name:  'Honesty Best Policy  - Vernon A. Roland Building'
 - ap: 5535
   img:  'http://lh4.ggpht.com/Zom5xkViTBf5wGkPFjYta7PfPZDicQD2VL2bQItgdzMxvQ1x7zqM3Zgynd7a6XBMT6qMAMKagxWMdpMlPcveaw'
   lat: 40.105849
@@ -624,24 +624,6 @@
   name:  'McKinley Church'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.457216
-  level: '?'
-  lon: -88.989554
-  name:  '332643b8d560465c872b9345260998cc.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.353294
-  level: '?'
-  lon: -88.766731
-  name:  '8e42f23c884e47ad9c8c67be2f8528ee.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.458385
-  level: '?'
-  lon: -88.979045
-  name:  'c22c1a39804842b09b1284fb0aedd006.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.472727
   level: '?'
   lon: -88.373243
@@ -664,6 +646,24 @@
   level: '?'
   lon: -88.369003
   name:  '45bb404ca2d04e90a1152870d8abd8be.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.457216
+  level: '?'
+  lon: -88.989554
+  name:  '332643b8d560465c872b9345260998cc.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.353294
+  level: '?'
+  lon: -88.766731
+  name:  '8e42f23c884e47ad9c8c67be2f8528ee.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.458385
+  level: '?'
+  lon: -88.979045
+  name:  'c22c1a39804842b09b1284fb0aedd006.16'
 - ap: 3474
   img:  'http://lh6.ggpht.com/6pMlM7pPsp-5PTNYZ8AJgo5ODURCPJO-_LigeHL2TMhjfK9MS17iEcpQqc89n5gyUdEO8seZrlThTGbKEqg'
   lat: 40.132999
