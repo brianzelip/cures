@@ -83,17 +83,17 @@
   lon: -88.249136
   name:  '"Cricket" and Bob Barger Memorial'
 - ap: 8909
-  img:  'http://lh6.ggpht.com/BKeORacgeVrG8XzxTuXmpq5UxomWpK-I2n7Xy0PVbdSciNx9MJl869TcibnFIiV5PJHGv5R3QOpX6ZgLUwU'
-  lat: 40.099706
-  level: 8
-  lon: -88.250065
-  name:  'Lois Barham Memorial Tree'
-- ap: 8909
   img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
   lat: 40.098959
   level: 8
   lon: -88.250141
   name:  'Bob and Wilma Tinkham'
+- ap: 8909
+  img:  'http://lh6.ggpht.com/BKeORacgeVrG8XzxTuXmpq5UxomWpK-I2n7Xy0PVbdSciNx9MJl869TcibnFIiV5PJHGv5R3QOpX6ZgLUwU'
+  lat: 40.099706
+  level: 8
+  lon: -88.250065
+  name:  'Lois Barham Memorial Tree'
 - ap: 8722
   img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
   lat: 40.099593
@@ -251,17 +251,17 @@
   lon: -88.251826
   name:  'Irina P. Stewart Memorial Plaque'
 - ap: 6846
-  img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
-  lat: 40.106921
-  level: 8
-  lon: -88.230145
-  name:  'University Lutheran Church'
-- ap: 6659
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.312242
   level: '?'
   lon: -88.201368
   name:  '2012 Employee Dedication Bench'
+- ap: 6846
+  img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
+  lat: 40.106921
+  level: 8
+  lon: -88.230145
+  name:  'University Lutheran Church'
 - ap: 6659
   img:  'http://lh5.ggpht.com/7MD3uqic9NvHKG2s5NBkAL6kdsBT10BzFJ6jTSaOfZS8mbyTlRDRYtizrxfH8ZvyqpRWXJHgmC5bk9imHqQf'
   lat: 40.114042
@@ -846,12 +846,6 @@
   name:  'Busey Woods Trail - A Helping Hand'
 - ap: 2911
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.184013
-  level: '?'
-  lon: -88.425562
-  name:  '6c02b2cd2891495896af56cd322b9e77.16'
-- ap: 2911
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.18673
   level: '?'
   lon: -88.424145
@@ -882,10 +876,22 @@
   name:  'Earl W Porter Memorial Tree'
 - ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.184013
+  level: '?'
+  lon: -88.425562
+  name:  '6c02b2cd2891495896af56cd322b9e77.16'
+- ap: 2724
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.273821
   level: '?'
   lon: -88.676394
   name:  'Blue Star Highway Memorial'
+- ap: 2724
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.026566
+  level: '?'
+  lon: -88.064716
+  name:  'a1a6fd39897c422b95c2d0a3a3623315.12'
 - ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.207695
@@ -1026,6 +1032,12 @@
   name:  '36273f5dafa746a4904866addf581161.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.040518
+  level: '?'
+  lon: -88.384748
+  name:  'St Boniface Catholic Church'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.743666
   level: '?'
   lon: -88.504875
@@ -1048,12 +1060,6 @@
   level: '?'
   lon: -88.360031
   name:  'Church of the Cross'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.396282
-  level: '?'
-  lon: -88.87253
-  name:  '983118fdef6b4b20b7d5188ad0f89af8.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.106513
@@ -1187,12 +1193,6 @@
   lon: -88.243265
   name:  'McCollum Park Peacock'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/dIZMnnUykBHkwUGA_tGi7tq4m0qCooVejZqueoqq9NjBXvZgz1QUEqS-vJhsYu3v7pW_0xejLfH9QeziW28I'
-  lat: 40.097472
-  level: 5
-  lon: -88.259842
-  name:  'Indian Acres Swim Club'
-- ap: 2537
   img:  'http://lh3.googleusercontent.com/enpZZ8JRREFPTvYd3jbeUlpS-mmcwKe5fsvoWRPkfMUj6PijyI-5tbR55UItBoNJAFSl9fAAOvXb6BpWCJT4'
   lat: 40.102495
   level: 6
@@ -1216,6 +1216,12 @@
   level: 5
   lon: -88.234788
   name:  'Pi Kappa Phi Fraternity'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/dIZMnnUykBHkwUGA_tGi7tq4m0qCooVejZqueoqq9NjBXvZgz1QUEqS-vJhsYu3v7pW_0xejLfH9QeziW28I'
+  lat: 40.097472
+  level: 5
+  lon: -88.259842
+  name:  'Indian Acres Swim Club'
 - ap: 2537
   img:  'http://lh6.ggpht.com/ZpJuVeWuDsVo9oPzh9mGzFjeTz2FQluKlriJijNL29HFEEWmMBqok5fCxVis8MpHqJYCBQUhRLNU9yuE7luP'
   lat: 40.129233
