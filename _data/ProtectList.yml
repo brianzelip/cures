@@ -1,24 +1,52 @@
-- fields: 3+
+- fields: 4+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.199591
   level: '?'
   lon: -88.418013
-  mus: 606
+  mus: 701
   name:  'Bridle Leash Park Arch'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.198992
-  level: '?'
-  lon: -88.421294
-  mus: 298
-  name:  'Bridle Leash Park'
-- fields: 1+
+- fields: 3
+  img:  'http://lh4.ggpht.com/iq0AIMD1D6PFcLIIBflZ30Y-ohyBTSRFX0ET_F-b30QnrujDMBdye1grsSc7lKQxq9d_GdD8gqvQAK2c36U'
+  lat: 40.08146
+  level: 5
+  lon: -88.310362
+  mus: 549
+  name:  'Stephens Family YMCA'
+- fields: 3+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.178925
   level: '?'
   lon: -88.408076
-  mus: 298
+  mus: 547
   name:  'Community Free Church'
+- fields: 2+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.198992
+  level: '?'
+  lon: -88.421294
+  mus: 452
+  name:  'Bridle Leash Park'
+- fields: 2
+  img:  'http://lh6.ggpht.com/LyaU22v39AOkJHcUFyqH4BSVK7y4vBDxE8A8zSSaxcivtU_ZKZ105usb8lkbHkZNCW1PnmiHy3Cl_WxFnYJE'
+  lat: 40.086106
+  level: 7
+  lon: -88.294978
+  mus: 406
+  name:  'Robeson Meadows Trail'
+- fields: 2
+  img:  'http://lh4.ggpht.com/Oy0NzvODUpd5270gnNUQqxf4w1YUNzMwDdncW6PvKUb3y_ptImObTW3rbbHp_OYEUKTR37L61q3yuYr1GRSV'
+  lat: 40.090259
+  level: 4
+  lon: -88.295024
+  mus: 402
+  name:  'Robeson Park'
+- fields: 2+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.195976
+  level: '?'
+  lon: -88.417405
+  mus: 249
+  name:  '8bcf8353686248de9a7b2f537a01429b.16'
 - fields: 2
   img:  'http://lh3.googleusercontent.com/NfuReRkyOBC6TpPTQQuLpJGD0EXaLbvSJP45Seaf0Vqc8oZ93XZFHQiMEcbBC8vAZxWX_WA3_WBC2zxcvIs'
   lat: 40.065881
@@ -61,6 +89,20 @@
   lon: -88.203511
   mus: 171
   name:  'Denise and Ernest Walker Grove'
+- fields: 1
+  img:  'http://lh3.googleusercontent.com/dnlQAi9ftw9Nx79Zq-2jo6-EvJCMD8vcxJZcy5NWGDJ3iOxzhM2gXtGvrqke6-N3F3kKBkK5Bev6RRF5RS7y'
+  lat: 40.08375
+  level: 5
+  lon: -88.294948
+  mus: 147
+  name:  'Park District Flower Island'
+- fields: 1
+  img:  'http://lh6.ggpht.com/Z9OoAT12enRNYI3CgnpFhdqCbDwZCyEyHUKPcE1Zexv5STafk6tkRrQyJoPhd8L0LiEV0nW4XyE5BoDFlfE'
+  lat: 40.092568
+  level: 4
+  lon: -88.295013
+  mus: 143
+  name:  'Meadowbrook Community Church'
 - fields: 4
   img:  'http://lh3.ggpht.com/hZulWSNApQFnDW-rnL3Fu95nMq2pO60CHDwUislaEOwUfLfJymLB8M4-WTugDbUq60zu72Cn2vLHMFFf5IxxNbp6rsbl9bAHHAlqFVlgckw_gJM'
   lat: 40.079765
@@ -418,6 +460,20 @@
   lon: -88.202694
   mus: 11
   name:  '"Here and There" at Meadowbrook'
+- fields: 2
+  img:  'http://lh5.ggpht.com/cAVQ0bxfUIyyRsK2WMct_JL7PakeKZCfrM9_YQmE6gunhf9tFyzp6GXC7xVzzzKycFp-LpsvVyPsM9gSEcY'
+  lat: 40.106685
+  level: 5
+  lon: -88.195479
+  mus: 11
+  name:  'Robert V. Johnson Memorial Plaque'
+- fields: 2
+  img:  'http://lh4.ggpht.com/3OQb6YW7FYNd6ZbjIi4eQqvn7C1gI9p0c0m8LzM6PT82aOJGIvBsPci2px_G7t3ZEDjLLxRfuVxHlu09wB7LPkugKaQX_W0RJJTQKjoJhHSsmP16nA'
+  lat: 40.105462
+  level: 6
+  lon: -88.192642
+  mus: 11
+  name:  'The Silver Bullet'
 - fields: 1
   img:  'http://lh5.ggpht.com/UqXYqye47hduomPQ0uDZzGn8oRDr3DxS9IPgrxwqDxyEL4inNje2y1x91U0amanBOJ-ktkcAawhfwRZqKWeF'
   lat: 40.064726
@@ -524,26 +580,12 @@
   mus: 7
   name:  'In Memory of Robert E Abbuehl'
 - fields: 1
-  img:  'http://lh5.ggpht.com/cAVQ0bxfUIyyRsK2WMct_JL7PakeKZCfrM9_YQmE6gunhf9tFyzp6GXC7xVzzzKycFp-LpsvVyPsM9gSEcY'
-  lat: 40.106685
-  level: 5
-  lon: -88.195479
-  mus: 7
-  name:  'Robert V. Johnson Memorial Plaque'
-- fields: 1
   img:  'http://lh6.ggpht.com/P5Q3TM1HY9mqPQbQNDUn_h5cdo4MVdphUfMLaEb25EJWIN2xAqYTkLQUtPy4sY-0hHFESUrH5Nn0KYogzjM'
   lat: 40.104921
   level: 7
   lon: -88.192636
   mus: 7
   name:  'Boomerangs Bar And Grill '
-- fields: 1
-  img:  'http://lh4.ggpht.com/3OQb6YW7FYNd6ZbjIi4eQqvn7C1gI9p0c0m8LzM6PT82aOJGIvBsPci2px_G7t3ZEDjLLxRfuVxHlu09wB7LPkugKaQX_W0RJJTQKjoJhHSsmP16nA'
-  lat: 40.105462
-  level: 6
-  lon: -88.192642
-  mus: 7
-  name:  'The Silver Bullet'
 - fields: 1
   img:  'http://lh5.ggpht.com/ftmAzbnKocZkda7k1ZC-3gMqr3UiOKXsS9qFSxN8V4C6_DEZr79lkSpPL00EmiZn50-ZPzTQZZlBLlOdL4Rd'
   lat: 40.116219
@@ -642,6 +684,13 @@
   lon: -88.223683
   mus: 5
   name:  'Louise Freer Hall'
+- fields: 1
+  img:  'http://lh4.ggpht.com/QGRtYb5gsWsiyn9EznIJ0ApB7yWv-SWBAH6CKgO9JRg3PCgn-s8yQMtXPkMDht8dNjPchkCRleUIBT-DnYXh'
+  lat: 40.112928
+  level: 7
+  lon: -88.209039
+  mus: 5
+  name:  'Courier Cafe'
 - fields: 4
   img:  'http://lh5.ggpht.com/tPscy6slTJx73zDybbj3sob_v5WpIWRVjDPJgF6LK-JCbYxii3L2eH8aYreetk31aEKPu1TlzR4zSTq0K2A9'
   lat: 40.082864
