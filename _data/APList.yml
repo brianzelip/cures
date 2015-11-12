@@ -41,17 +41,17 @@
   lon: -88.249937
   name:  'Alice Marie Weber Plaque'
 - ap: 12283
-  img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
-  lat: 40.100078
-  level: 7
-  lon: -88.250683
-  name:  'Brian Clark Memorial Plaque'
-- ap: 12283
   img:  'http://lh6.ggpht.com/YdeB0EKlsopL39a9YXWj4JBZgXNNLWHgfe4PQzdpWCNWc0fR1YTj8WjARDHnmrusvKWTqKLcGg8U9frhtsw'
   lat: 40.09821
   level: 7
   lon: -88.249879
   name:  'Hessel Park'
+- ap: 12283
+  img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
+  lat: 40.100078
+  level: 7
+  lon: -88.250683
+  name:  'Brian Clark Memorial Plaque'
 - ap: 12094
   img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
   lat: 40.101062
@@ -143,17 +143,17 @@
   lon: -88.249208
   name:  'In Fond Memory of William Moore Jr'
 - ap: 7785
-  img:  'http://lh6.ggpht.com/BKeORacgeVrG8XzxTuXmpq5UxomWpK-I2n7Xy0PVbdSciNx9MJl869TcibnFIiV5PJHGv5R3QOpX6ZgLUwU'
-  lat: 40.099706
-  level: 7
-  lon: -88.250065
-  name:  'Lois Barham Memorial Tree'
-- ap: 7785
   img:  'http://lh3.googleusercontent.com/Tixp17uCaP682s77UzvCwWCOE6vg7iB2qEFLjACq7xtVJdHE0K3yKYsl3_SwKbiUfQWwgTQRbvfka3U0NvNc'
   lat: 40.098819
   level: 7
   lon: -88.249214
   name:  'Bette McKown Honorary'
+- ap: 7785
+  img:  'http://lh6.ggpht.com/BKeORacgeVrG8XzxTuXmpq5UxomWpK-I2n7Xy0PVbdSciNx9MJl869TcibnFIiV5PJHGv5R3QOpX6ZgLUwU'
+  lat: 40.099706
+  level: 7
+  lon: -88.250065
+  name:  'Lois Barham Memorial Tree'
 - ap: 7409
   img:  'http://lh4.ggpht.com/Gyz7BDhWdUinBQfD8duByX5-aBgPmB9oSesH20dH8uGJnTiaIHkeRJARtH6YQUUD5A5X2IjPTlT989AfutNc'
   lat: 40.092773
@@ -263,12 +263,6 @@
   lon: -88.249899
   name:  'Benjamin Biddle Memorial Plaque'
 - ap: 5161
-  img:  'http://lh3.ggpht.com/VrbXGwlUosNLEkVdshWUFoVa3KtlJQoEU4yLYygvftYbPCmxo644Uvar_v8Kb9RS53hB0tXgvV44GotrxZyu'
-  lat: 40.098592
-  level: 7
-  lon: -88.251676
-  name:  'Ruth and Fred Steigmann Plaque'
-- ap: 5161
   img:  'http://lh5.ggpht.com/aeGh3iXJqJ7skg-2JHEpngMSfcp1qDIEPoLMxzQNqbS5Y7HcxN7oE789bXiVFoFIcdCn7-3AhLPtxT_WE2E'
   lat: 40.0985
   level: 7
@@ -280,12 +274,6 @@
   level: 7
   lon: -88.250864
   name:  'Gabriel Patrick Maxeiner Memorial'
-- ap: 5161
-  img:  'http://lh5.ggpht.com/N1cFx79JwZqPlYPDW3HkNwRX8N4Auriii45qzYkAx9l-cKeK81qgZ6nuBpTBEIOyLzy4aIIhQKt2E7ZiysSjkg'
-  lat: 40.10036
-  level: 7
-  lon: -88.250515
-  name:  'Mark Foutch Pavilion'
 - ap: 5161
   img:  'http://lh3.ggpht.com/VLipBehsKPCp8ewQnBV1ZCz7uE75zcY46iGDyFfFHgX1o55t3DONb3wcBcL5RMYSqABRK0TgIW3DluNy8y6WaA'
   lat: 40.101131
@@ -305,17 +293,35 @@
   lon: -88.250389
   name:  'Dennis Robert Costello Memorial'
 - ap: 5161
+  img:  'http://lh3.ggpht.com/VrbXGwlUosNLEkVdshWUFoVa3KtlJQoEU4yLYygvftYbPCmxo644Uvar_v8Kb9RS53hB0tXgvV44GotrxZyu'
+  lat: 40.098592
+  level: 7
+  lon: -88.251676
+  name:  'Ruth and Fred Steigmann Plaque'
+- ap: 5161
   img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
   lat: 40.100286
   level: 7
   lon: -88.251747
   name:  'Tennis Anyone'
 - ap: 5161
+  img:  'http://lh5.ggpht.com/N1cFx79JwZqPlYPDW3HkNwRX8N4Auriii45qzYkAx9l-cKeK81qgZ6nuBpTBEIOyLzy4aIIhQKt2E7ZiysSjkg'
+  lat: 40.10036
+  level: 7
+  lon: -88.250515
+  name:  'Mark Foutch Pavilion'
+- ap: 5161
   img:  'http://lh3.ggpht.com/sisvfsphxy7AK_2qrrqb7lNJk3_7ciHSVJyodINYITBc-UqugyNOooCxKupgJKEg5m_x95eZwouSO2WCmN60ew'
   lat: 40.098579
   level: 7
   lon: -88.249603
   name:  'Chef Ra Memorial Plaque'
+- ap: 5159
+  img:  'http://lh3.googleusercontent.com/enpZZ8JRREFPTvYd3jbeUlpS-mmcwKe5fsvoWRPkfMUj6PijyI-5tbR55UItBoNJAFSl9fAAOvXb6BpWCJT4'
+  lat: 40.102495
+  level: 7
+  lon: -88.242132
+  name:  'Nuclear Physics Lab'
 - ap: 4972
   img:  'http://lh5.ggpht.com/jz0XvZSSYKqKSa4lJDK-rludOns_o36jZ8ZTzfEr42piZamiTjSASTLdII6pkxgjZgnCwKirjhEouS77BPB8Dg'
   lat: 40.094288
@@ -355,7 +361,7 @@
 - ap: 4411
   img:  'http://lh5.ggpht.com/dnj__uItXDR_xj-g5PNpGYPNjJCPBFpsx3w9sWxvrOlayO6nyG_Qu8MygtuFZm9i4L2Gho0fkOACtzkGR_e2wQ'
   lat: 40.098457
-  level: 3
+  level: 4
   lon: -88.276763
   name:  'Mini Park IV'
 - ap: 4411
@@ -406,12 +412,6 @@
   level: 7
   lon: -88.243679
   name:  'Robert Hosier Memorial Garden'
-- ap: 4035
-  img:  'http://lh3.googleusercontent.com/enpZZ8JRREFPTvYd3jbeUlpS-mmcwKe5fsvoWRPkfMUj6PijyI-5tbR55UItBoNJAFSl9fAAOvXb6BpWCJT4'
-  lat: 40.102495
-  level: 7
-  lon: -88.242132
-  name:  'Nuclear Physics Lab'
 - ap: 3698
   img:  'http://lh5.ggpht.com/XSTOU98iZoBFcDNR_YYJQfmQaiD_vXAP5Z7R79nVC7k06VMhH8tHSb9Yb9Pe8OnV1svwvlvy6iyz6vMjg3_EzA'
   lat: 40.132804
@@ -491,6 +491,18 @@
   lon: -88.253446
   name:  'Milla Gross Memorial'
 - ap: 3661
+  img:  'http://lh6.ggpht.com/uaO1clC1eOzxRVRPPU6mVM4lEPV2U6uxh64a8kJNRglHSObClWlHGEcfJTknzwB_7Wli3doxQJbZKiBHIXI'
+  lat: 40.102834
+  level: 7
+  lon: -88.241672
+  name:  'Rehabilitation Education Center'
+- ap: 3661
+  img:  'http://lh3.ggpht.com/KxQsev6i7POmNh1IadCWwWQSMdCuLIYpPwIdenSlVtzum523D1R-1kfeTbuOGTkt_jDwn4jswCu1edkumm2-'
+  lat: 40.110037
+  level: 5
+  lon: -88.23549
+  name:  'Red Lion'
+- ap: 3661
   img:  'http://lh6.ggpht.com/q48Oqk2mm3dXQ2ppK-aYGXKjIiTAOEZfrFkiLK9LXRz2uN9hSKihKeCwfg33q1Z2zMTIMjqJRjPA1U_V3pbR6Q'
   lat: 40.104417
   level: 7
@@ -520,18 +532,6 @@
   level: 4
   lon: -88.227358
   name:  'Arnold O. Beckman Statue'
-- ap: 3661
-  img:  'http://lh5.ggpht.com/3mE32dJLH9WsEctr1UHzE0G5QN_4V0vcLCldzmPU_WRufBLcaKzAgprPRfGQDOytzwAYwWfLfWxqWYl7hMqA'
-  lat: 40.125757
-  level: 5
-  lon: -88.20788
-  name:  'Nature Center / Family Aquatic Center'
-- ap: 3661
-  img:  'http://lh6.ggpht.com/dIDmkL7jHZb1am2ptK9LrO6Ht_8jTKb3IOvGamBqIYzLXPgtEoPCV_9dMsqLxrgz8_MSq3UsEy9t49y_pqOd'
-  lat: 40.125715
-  level: 5
-  lon: -88.2091
-  name:  'Crystal Lake Park Aquatic Center'
 - ap: 3661
   img:  'http://lh5.ggpht.com/snSXlo68vFp7EOytyhI8zy8PbfwsZfFHRMNYCJ-JhFU9iMUCrtZtkttGM-OCUaRrii_tc-QAVgJCvD7gDv8'
   lat: 40.20083
@@ -634,10 +634,10 @@
   level: 5
   lon: -88.241556
   name:  'Champaign Limestone Sidewalk'
-- ap: 3474
+- ap: 3324
   img:  'http://lh3.ggpht.com/-MRGQEVV5mNMzB4sb8JAsgVC56kTzYaFEf3mpRsfXAiO4KIrLw3LGFkt7Au97yDwY-AUSfghHcri53Zpmn-Z4Q'
   lat: 40.11621
-  level: 5
+  level: 4
   lon: -88.242535
   name:  'Inman Building Historic Plaque'
 - ap: 3474
@@ -700,24 +700,12 @@
   level: 5
   lon: -88.22582
   name:  'Learning And Labor Plaque'
-- ap: 3324
-  img:  'http://lh4.ggpht.com/KS4k0iDFceOcG_wEnQeqAeJpCkwjbjTItb2FUsyUJGsnhDizNqvrXmfee70SUhCcQ10_m1vv1vtcNRrFhIc'
-  lat: 40.126039
-  level: 4
-  lon: -88.209117
-  name:  'Water Sculpture'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.207695
   level: '?'
   lon: -88.411245
   name:  '44302298476747b1b774c5c37f936a74.16'
-- ap: 3098
-  img:  'http://lh6.ggpht.com/ip01yZFDdi_w_oQ9qKF40m0xZBcj62odRMMEkBoiO6Pu_WUGqItkR8Dx-sJEgGpNxbTl9zxdS3cKZsDNJl4'
-  lat: 40.118411
-  level: 5
-  lon: -88.210576
-  name:  'Civil War Memorial'
 - ap: 2911
   img:  'http://lh5.ggpht.com/ZDv0mHiZcEfLxGVibvfnMCu7reJceCVnxa4GeBjK2DO4Y4a0x-M7C2M0rEam-_bPlr2e2476RXe15pRY48s'
   lat: 40.114351
@@ -742,6 +730,12 @@
   level: 5
   lon: -88.253528
   name:  'Agnes Sweikar Memorial'
+- ap: 2911
+  img:  'http://lh6.ggpht.com/ip01yZFDdi_w_oQ9qKF40m0xZBcj62odRMMEkBoiO6Pu_WUGqItkR8Dx-sJEgGpNxbTl9zxdS3cKZsDNJl4'
+  lat: 40.118411
+  level: 5
+  lon: -88.210576
+  name:  'Civil War Memorial'
 - ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.198294
@@ -947,12 +941,6 @@
   lon: -88.243919
   name:  'Mural on Good Fellas'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/uaO1clC1eOzxRVRPPU6mVM4lEPV2U6uxh64a8kJNRglHSObClWlHGEcfJTknzwB_7Wli3doxQJbZKiBHIXI'
-  lat: 40.102834
-  level: 7
-  lon: -88.241672
-  name:  'Rehabilitation Education Center'
-- ap: 2537
   img:  'http://lh4.ggpht.com/dIZMnnUykBHkwUGA_tGi7tq4m0qCooVejZqueoqq9NjBXvZgz1QUEqS-vJhsYu3v7pW_0xejLfH9QeziW28I'
   lat: 40.097472
   level: 5
@@ -1007,6 +995,12 @@
   lon: -88.225998
   name:  'Lifesaving Antibiotic Plaque'
 - ap: 2537
+  img:  'http://lh3.ggpht.com/2bCNiD7SWsS3uzFLMO2cZh-LpHUEMQGnfTmcNx5vJapXho2TuXke630-7zop2Sq4fuY8nWVqy4VCG23mvnIJ'
+  lat: 40.104168
+  level: 5
+  lon: -88.238808
+  name:  'Alpha Gamma Rho'
+- ap: 2537
   img:  'http://lh3.ggpht.com/0-BDoSYQzYfR7AHH26pmRGbZ4VmB4kdhLKm3x_AV4WOsaSFFLgJwMVN-bWTz9oopIx6IJQMxGvtl5C3svl0C'
   lat: 40.104061
   level: 5
@@ -1019,23 +1013,17 @@
   lon: -88.227324
   name:  'Beckman Institute - Upwells Fountain'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/JVNlRlxb-5k_pDpi5lUduOZu2NO-CKdaVaa4Jj_IHDLIxC31OEc6zpyO8qklRI58_wB2fH1m8LUHOJW_GME'
-  lat: 40.125389
-  level: 5
-  lon: -88.209627
-  name:  'Crystal Lake Tree House Club'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/5wL5PqODxJ0DwFOmZHKk05wA48rHbH4ydUvFN7iXpDB60rAWnAAym0usdXwQ1CF6tM2h8CAdBtflVjyYoNwRYA'
-  lat: 40.11936
-  level: 3
-  lon: -88.207653
-  name:  'Chinese Goose Bridge Plaque'
-- ap: 2537
   img:  'http://lh5.ggpht.com/oZQDrn1fO-Podf01z1Gb_GpmTXd3IRE2Zy0DnqvTWyDkEcOqkx-2w_hD2oHdf2AfJ614c2JL5ufvVEHhOug'
   lat: 40.117487
   level: 5
   lon: -88.210927
   name:  'Crystal Lake Park'
+- ap: 2462
+  img:  'http://lh4.ggpht.com/5wL5PqODxJ0DwFOmZHKk05wA48rHbH4ydUvFN7iXpDB60rAWnAAym0usdXwQ1CF6tM2h8CAdBtflVjyYoNwRYA'
+  lat: 40.11936
+  level: 3
+  lon: -88.207653
+  name:  'Chinese Goose Bridge Plaque'
 - ap: 2537
   img:  'http://lh4.ggpht.com/poAqmm1_IF9tL9DfMPn3mJ88w5HBKrEgUL_Z8WeyOO_NJBKEAllS7t7OcPe5tZnRHfbPBOLFvSN-S3tuQq_Daw'
   lat: 40.118224
