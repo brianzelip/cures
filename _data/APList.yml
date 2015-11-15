@@ -64,18 +64,18 @@
   level: 8
   lon: -88.251314
   name:  'Gabriel Patrick Maxeiner Memorial Plaque'
-- ap: 10027
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.87717
-  level: '?'
-  lon: -88.630408
-  name:  '0ad8ecb0179840cfa5ae228fd29daf19.16'
 - ap: 9846
   img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
   lat: 40.101062
   level: 8
   lon: -88.249275
   name:  'Narayan & Shanti Achanta Memorial Plaque'
+- ap: 9840
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.87717
+  level: '?'
+  lon: -88.630408
+  name:  '0ad8ecb0179840cfa5ae228fd29daf19.16'
 - ap: 9659
   img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
   lat: 40.100822
@@ -281,6 +281,12 @@
   lon: -88.251419
   name:  'Lyman Larson Memorial'
 - ap: 5161
+  img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
+  lat: 40.100286
+  level: 8
+  lon: -88.251747
+  name:  'Tennis Anyone'
+- ap: 5161
   img:  'http://lh5.ggpht.com/N1cFx79JwZqPlYPDW3HkNwRX8N4Auriii45qzYkAx9l-cKeK81qgZ6nuBpTBEIOyLzy4aIIhQKt2E7ZiysSjkg'
   lat: 40.10036
   level: 8
@@ -292,12 +298,6 @@
   level: 8
   lon: -88.250389
   name:  'Dennis Robert Costello Memorial'
-- ap: 5161
-  img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
-  lat: 40.100286
-  level: 8
-  lon: -88.251747
-  name:  'Tennis Anyone'
 - ap: 5161
   img:  'http://lh3.ggpht.com/sisvfsphxy7AK_2qrrqb7lNJk3_7ciHSVJyodINYITBc-UqugyNOooCxKupgJKEg5m_x95eZwouSO2WCmN60ew'
   lat: 40.098579
@@ -624,12 +624,6 @@
   name:  '517ef932b0734c198fdf5a7dfc0737f1.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.403224
-  level: '?'
-  lon: -86.276105
-  name:  '7ed5069bf7a846f990bfffcb2b5fd7cf.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.350642
   level: '?'
   lon: -87.952351
@@ -814,18 +808,18 @@
   level: 5
   lon: -88.244122
   name:  'Artistic Graffiti at MCS'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/KxQsev6i7POmNh1IadCWwWQSMdCuLIYpPwIdenSlVtzum523D1R-1kfeTbuOGTkt_jDwn4jswCu1edkumm2-'
-  lat: 40.110037
-  level: 6
-  lon: -88.23549
-  name:  'Red Lion'
 - ap: 2312
   img:  'http://lh4.ggpht.com/XlTZ26_29c4-74t23p1lgghqNfLI7aS3_kradmcl7vVQzV9jJRu78D1HdzJf-sWibnak644kxCBJDnA594PVaw'
   lat: 40.092849
   level: 4
   lon: -88.251586
   name:  'Boulware Trail'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/KxQsev6i7POmNh1IadCWwWQSMdCuLIYpPwIdenSlVtzum523D1R-1kfeTbuOGTkt_jDwn4jswCu1edkumm2-'
+  lat: 40.110037
+  level: 6
+  lon: -88.23549
+  name:  'Red Lion'
 - ap: 2312
   img:  'http://lh4.ggpht.com/uAYfykn0e2h2UqP-anbYfkJNa38P0L1WY8FpF-CwRCPklg5wL1xYFkpGOCMt7SJ37qO8PGVE42nYX9Ba_-jG'
   lat: 40.105025
