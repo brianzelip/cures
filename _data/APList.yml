@@ -125,17 +125,17 @@
   lon: -88.249208
   name:  'In Fond Memory of William Moore Jr'
 - ap: 7785
-  img:  'http://lh6.ggpht.com/BKeORacgeVrG8XzxTuXmpq5UxomWpK-I2n7Xy0PVbdSciNx9MJl869TcibnFIiV5PJHGv5R3QOpX6ZgLUwU'
-  lat: 40.099706
-  level: 8
-  lon: -88.250065
-  name:  'Lois Barham Memorial Tree'
-- ap: 7785
   img:  'http://lh3.googleusercontent.com/Tixp17uCaP682s77UzvCwWCOE6vg7iB2qEFLjACq7xtVJdHE0K3yKYsl3_SwKbiUfQWwgTQRbvfka3U0NvNc'
   lat: 40.098819
   level: 8
   lon: -88.249214
   name:  'Bette McKown Honorary'
+- ap: 7785
+  img:  'http://lh6.ggpht.com/BKeORacgeVrG8XzxTuXmpq5UxomWpK-I2n7Xy0PVbdSciNx9MJl869TcibnFIiV5PJHGv5R3QOpX6ZgLUwU'
+  lat: 40.099706
+  level: 8
+  lon: -88.250065
+  name:  'Lois Barham Memorial Tree'
 - ap: 7596
   img:  'http://lh5.ggpht.com/kElaGOaV9aI8SrnM1D65gx9J0Ky1AKrN9Yo-pXVmDhELt2pee4MwVRiCqCmlqWzUWj5pS33GnEzAiXmiWKsw'
   lat: 40.108111
@@ -281,6 +281,12 @@
   lon: -88.251419
   name:  'Lyman Larson Memorial'
 - ap: 5161
+  img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
+  lat: 40.100286
+  level: 8
+  lon: -88.251747
+  name:  'Tennis Anyone'
+- ap: 5161
   img:  'http://lh5.ggpht.com/N1cFx79JwZqPlYPDW3HkNwRX8N4Auriii45qzYkAx9l-cKeK81qgZ6nuBpTBEIOyLzy4aIIhQKt2E7ZiysSjkg'
   lat: 40.10036
   level: 8
@@ -292,12 +298,6 @@
   level: 8
   lon: -88.250389
   name:  'Dennis Robert Costello Memorial'
-- ap: 5161
-  img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
-  lat: 40.100286
-  level: 8
-  lon: -88.251747
-  name:  'Tennis Anyone'
 - ap: 5161
   img:  'http://lh3.ggpht.com/sisvfsphxy7AK_2qrrqb7lNJk3_7ciHSVJyodINYITBc-UqugyNOooCxKupgJKEg5m_x95eZwouSO2WCmN60ew'
   lat: 40.098579
@@ -389,12 +389,6 @@
   lon: -88.230209
   name:  'Mural on South Sixth Street'
 - ap: 3848
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.966802
-  level: '?'
-  lon: -88.34467
-  name:  '4559bb0f45f9470b8b155f0f3b6c9056.12'
-- ap: 3848
   img:  'http://lh6.ggpht.com/duOeXcOSQLWosdD0JJXg3pWWQp4t5sL0x9qDHoTIBFNOzEW0t53Lt2cnwgV2E_Su0l1ajIQxPtVbbK_sDRaS'
   lat: 40.141775
   level: 6
@@ -454,18 +448,6 @@
   level: '?'
   lon: -88.628746
   name:  '476f28b1b9eb462390f01b8b23495d86.11'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.026733
-  level: '?'
-  lon: -88.570866
-  name:  '2b9d781ca8984222a82c551f85cf3044.12'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.026609
-  level: '?'
-  lon: -88.570663
-  name:  '7ba0487409d0430d8f0b045179833e23.16'
 - ap: 3474
   img:  'http://lh5.ggpht.com/tuo_ByFTbwLitFP5cBseOibqRxENxbCwOJ30dCnja5ijBI_qBv5vqNP7ZuZXnxhYM6ms_GbExZEwwKVUtwV2'
   lat: 40.093712
@@ -630,12 +612,6 @@
   name:  '866f8f1cccda4bcb80bcf803f082bb1d.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.401905
-  level: '?'
-  lon: -86.279942
-  name:  '60efc08e55674968958d7e8034b8053a.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.401665
   level: '?'
   lon: -86.266528
@@ -658,6 +634,12 @@
   level: '?'
   lon: -87.952351
   name:  '952279f9a36446e984aecdfb3c524baa.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.401905
+  level: '?'
+  lon: -86.279942
+  name:  '60efc08e55674968958d7e8034b8053a.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.40148
@@ -708,12 +690,6 @@
   name:  '24c2c36a85a04ef3888b6b359f2df845.11'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.026343
-  level: '?'
-  lon: -88.568932
-  name:  '21bbda8f25294fe4b842e21fbb01f079.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.403097
   level: '?'
   lon: -86.27704
@@ -744,34 +720,16 @@
   name:  'ff1ab81fddc84e0da0fc50583ff47b59.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.403598
-  level: '?'
-  lon: -86.269159
-  name:  '1c048dc8e4c94616b3dd90cf30653230.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.40187
   level: '?'
   lon: -86.282885
   name:  '925374a07ea54991930c54b17438563f.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.966649
+  lat: 42.403598
   level: '?'
-  lon: -88.345263
-  name:  'f91d12c0ef074e13a5978fa658722945.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.004161
-  level: '?'
-  lon: -88.645611
-  name:  '8d04c69becef42e69436ca94f73b8802.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.026312
-  level: '?'
-  lon: -88.569532
-  name:  '3a73f5be084f48a9902bca63da9e5d5a.16'
+  lon: -86.269159
+  name:  '1c048dc8e4c94616b3dd90cf30653230.16'
 - ap: 2537
   img:  'http://lh6.ggpht.com/v2m1E6vVK4ZRaRPhGli7jCsG7xZQZ7I3vV_5AogdEpPU_A1vz9WEkH0vZ-vau2IAdmydYJcXrOA6SMr7vUfT'
   lat: 40.128726
