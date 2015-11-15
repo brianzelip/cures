@@ -281,12 +281,6 @@
   lon: -88.251419
   name:  'Lyman Larson Memorial'
 - ap: 5161
-  img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
-  lat: 40.100286
-  level: 8
-  lon: -88.251747
-  name:  'Tennis Anyone'
-- ap: 5161
   img:  'http://lh5.ggpht.com/N1cFx79JwZqPlYPDW3HkNwRX8N4Auriii45qzYkAx9l-cKeK81qgZ6nuBpTBEIOyLzy4aIIhQKt2E7ZiysSjkg'
   lat: 40.10036
   level: 8
@@ -298,6 +292,12 @@
   level: 8
   lon: -88.250389
   name:  'Dennis Robert Costello Memorial'
+- ap: 5161
+  img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
+  lat: 40.100286
+  level: 8
+  lon: -88.251747
+  name:  'Tennis Anyone'
 - ap: 5161
   img:  'http://lh3.ggpht.com/sisvfsphxy7AK_2qrrqb7lNJk3_7ciHSVJyodINYITBc-UqugyNOooCxKupgJKEg5m_x95eZwouSO2WCmN60ew'
   lat: 40.098579
@@ -648,12 +648,6 @@
   name:  'be78c15683554893a96f56b528eb8f83.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.401972
-  level: '?'
-  lon: -86.281143
-  name:  'f8b2c5c42445442e982537e565c986af.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.880619
   level: '?'
   lon: -88.628773
@@ -676,6 +670,12 @@
   level: '?'
   lon: -86.270131
   name:  'fb853c3e943442afac45878de3318815.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.401972
+  level: '?'
+  lon: -86.281143
+  name:  'f8b2c5c42445442e982537e565c986af.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.403396
@@ -893,17 +893,17 @@
   lon: -88.232251
   name:  'McKinley Church'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/gS3gT_deXzbDvejCL-5ygs31dw9bLQqYr2nDcLPZiv6nQzahJl12awG1a2pwKbFuoTlsHQYxQ2O7HDXL4-8'
-  lat: 40.110358
-  level: 7
-  lon: -88.230181
-  name:  'Murphy''s Pub '
-- ap: 2537
   img:  'http://lh5.ggpht.com/4eagHlnlpVbtFi_knZN73PIs2A--Ipj6SOlkQADePlfnzfOnJn-cAv0IoNNv4qR8WrbUFImUKHBknyaoAewO'
   lat: 40.111383
   level: 5
   lon: -88.225675
   name:  'Only Rain Down The Drain'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/gS3gT_deXzbDvejCL-5ygs31dw9bLQqYr2nDcLPZiv6nQzahJl12awG1a2pwKbFuoTlsHQYxQ2O7HDXL4-8'
+  lat: 40.110358
+  level: 7
+  lon: -88.230181
+  name:  'Murphy''s Pub '
 - ap: 2537
   img:  'http://lh6.ggpht.com/pYay9oPZwUNKfLdWJ1JMI5tA9-Gd0vsBddLTz7fXN6wUW7F23hLMWRwFZNnXyomRkc2f9sqCGMxNWuYHPFZx'
   lat: 40.109142
