@@ -131,20 +131,6 @@
   lon: -88.369764
   mus: 1261
   name:  'Bondville United Methodist Church'
-- fields: 6
-  img:  'http://lh5.ggpht.com/aQ8b5PgXfzXy9_ygEUVeyrDoWsMYI5hbzCQed6vsWCAKGuIJ2n7QoxdfXCw_IrD8OFepLBgrLkkdM-tqd3aP'
-  lat: 40.123697
-  level: 7
-  lon: -88.299824
-  mus: 1113
-  name:  'In Memory of Steve Barnhart'
-- fields: 4
-  img:  'http://lh3.ggpht.com/2iQCqFSkI6vQaVf1ADFUP89q8eAUWoZah6JiJ1sA75sp6rK8jpFvWFNaW5E1QXBZnrpD8MIZotWwavGGm5iG'
-  lat: 40.118598
-  level: 6
-  lon: -88.286666
-  mus: 1059
-  name:  'Kaufman Park Underpass'
 - fields: 10
   img:  'http://lh4.ggpht.com/53avgB1jGEftJ9eyV5l3nee16yHgYDAXkZoonzyXO3mwPLijOgz1uOtcxfKdCaRzaBqW-BQ4ft-Od3uZnja8'
   lat: 40.118436
@@ -152,13 +138,13 @@
   lon: -88.26383
   mus: 1056
   name:  'Davidson Park'
-- fields: 2
-  img:  'http://lh4.ggpht.com/0pYkppjw5D-G0gCZ1pULK83NAqN9qsyzbBnG8K8YMyMekJwqUrZQDRpTqgqB3rrRD6zJezplE_wlFOTPLovb'
-  lat: 40.127745
-  level: 5
-  lon: -88.287039
-  mus: 888
-  name:  'Parkland College'
+- fields: 4
+  img:  'http://lh5.ggpht.com/aQ8b5PgXfzXy9_ygEUVeyrDoWsMYI5hbzCQed6vsWCAKGuIJ2n7QoxdfXCw_IrD8OFepLBgrLkkdM-tqd3aP'
+  lat: 40.123697
+  level: 7
+  lon: -88.299824
+  mus: 575
+  name:  'In Memory of Steve Barnhart'
 - fields: 3+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.167518
@@ -166,20 +152,6 @@
   lon: -88.295979
   mus: 534
   name:  'Alto Vineyards and Winery'
-- fields: 4
-  img:  'http://lh3.googleusercontent.com/eGP4sxnePximEFk88kdcqNxeClf1LjUbwiPTwKmCfStyP9CAq9qGtzAsbEcVWEaS0KyG8LQn7SgS3X07OU4f'
-  lat: 40.122643
-  level: 6
-  lon: -88.300552
-  mus: 528
-  name:  'Powell Park'
-- fields: 3
-  img:  'http://lh5.ggpht.com/8EXhrgcMBH0nDBQWTAlAwNIhxzaY7maIjYjg3fJnzGIp6_FNs98dPrYY4mtl4vhkPI5WQ1Xp8_V4vj2hAb9a'
-  lat: 40.112026
-  level: 5
-  lon: -88.295327
-  mus: 521
-  name:  'Carpenter''s Union Hall'
 - fields: 4
   img:  'http://lh3.ggpht.com/NgusMNa_MQJauBXm1lCWXnmzNqo5-TB-ihUlPa_vaI83WESAp8ChhEVR7KuBr_Na2-hzlLU7AB_STTq1gu7cwQ'
   lat: 40.112585
@@ -230,6 +202,13 @@
   mus: 410
   name:  'Parkhill Applied Technology Center'
 - fields: 1
+  img:  'http://lh4.ggpht.com/0pYkppjw5D-G0gCZ1pULK83NAqN9qsyzbBnG8K8YMyMekJwqUrZQDRpTqgqB3rrRD6zJezplE_wlFOTPLovb'
+  lat: 40.127745
+  level: 5
+  lon: -88.287039
+  mus: 410
+  name:  'Parkland College'
+- fields: 1
   img:  'http://lh3.ggpht.com/PT4NTR04lFCXxqN8xnrhEQppaXrkIbW4n-WkUVikx4zfcqksHUun6eOqFNMG6c0UA_X97iSLI4EJTN5aHkf-aE-PnsYLjAgXkSjZEtL8BvQtGyg'
   lat: 40.112752
   level: 6
@@ -257,27 +236,6 @@
   lon: -88.259966
   mus: 397
   name:  'Goodwill Donation Center'
-- fields: 1
-  img:  'http://lh6.ggpht.com/mDDXLg-Kxa85n85a45UIY1BKvN044ZCj-7Zg7xv0Igfi8ZNuhHl9mUWwkBE9fiTYw8UTFp98gSoFn0K6nWfn3g'
-  lat: 40.129332
-  level: 5
-  lon: -88.229679
-  mus: 393
-  name:  'Pilgrim Missionary Baptist Church'
-- fields: 1
-  img:  'http://lh3.ggpht.com/TNDkyQnVEXdm2c8_gpZa0jhlwhKtO0T8Yaqx9BCnvpjJHBRKYMu71Kz7U4wOp-eSKD5jlReyruVEwFyyvRLuZQ'
-  lat: 40.129028
-  level: 6
-  lon: -88.218345
-  mus: 393
-  name:  'Flagpole Dedication'
-- fields: 1
-  img:  'http://lh6.ggpht.com/_5uAVfIVUSl8LZbPdUo8NofNacgPArlxuX0AhFVfU2I3B-5ULKClKXB_ia2JZo1UjjJO7Mme5nB8HSWXKhrcpg'
-  lat: 40.137727
-  level: 5
-  lon: -88.222417
-  mus: 393
-  name:  'Eastern Illinois Food Bank'
 - fields: 9
   img:  'http://lh6.ggpht.com/B4G90nKtVQc7jPOxaA1XcAIKA2UJlU15MIPZLitQmNBNAtfIc9qCPpe75YFHYaZN3YUpU6b4CNMOPsBrg1Q'
   lat: 40.100489
@@ -607,13 +565,6 @@
   lon: -88.242282
   mus: 74
   name:  'Dohme Park Flags & Mural'
-- fields: 5
-  img:  'http://lh6.ggpht.com/L2LdCXwXyxkV_ENkb567X8EtQ8713-lEbbpVfOAg4_yiMbHvUnq9u0Ks4DCgqlvRAUMgsoMJJR3RPsup2oU'
-  lat: 40.122772
-  level: 6
-  lon: -88.30035
-  mus: 74
-  name:  'Barb Babb Memorial Plaque'
 - fields: 9
   img:  'http://lh6.ggpht.com/1i7JFIfvKI3IMOAekdomh9jm9HrAhBBdNIOyX81Nkq1Bh49sBqKg37sMm99MYm8yJjHsG4dBdnRg1X5Aq-c'
   lat: 40.104796
@@ -1174,13 +1125,6 @@
   lon: -88.294978
   mus: 17
   name:  'Robeson Meadows Trail'
-- fields: 2
-  img:  'http://lh3.ggpht.com/PijfKs7HCJf1vVcIxcTF1HPOYaa5iS4ZECXZUQ2dDDSn9ZCXSd8FGHThRUiEIC-oMNmClt0seIzn8FsaGPER'
-  lat: 40.112752
-  level: 6
-  lon: -88.289696
-  mus: 17
-  name:  'El Toro Fountain'
 - fields: 3
   img:  'http://lh5.ggpht.com/OjHvATZsWSqcIG4MCHe5lUc8sE12iGmAJiQ_pp4ttXXy6QR3QTJ9OiFqGfdFxEbY6WMTgh_Vl2WcqFK0ptEn'
   lat: 40.086227
@@ -1296,7 +1240,7 @@
 - fields: 2
   img:  'http://lh5.ggpht.com/UnOCK4wTgvrT-rm-xLg_jv4qqEZwrBtco0XbXk7Lqvj_k78aLJQrjldFDRl-VuG4z2x41QuvXnODUJ93U3bj'
   lat: 40.105511
-  level: 4
+  level: 5
   lon: -88.181216
   mus: 12
   name:  'Living Hope Foursquare Church'
@@ -1307,20 +1251,6 @@
   lon: -88.228521
   mus: 12
   name:  'Red Lines Sculpture'
-- fields: 1
-  img:  'http://lh4.ggpht.com/T6VoVDge6344GK3Vri5Uf2d902pq2ZBJE7UnLB2cPfRhZSqnnlleRRy2IlO70H7UHzhoxXcmSVEtTJnl6iHiKg'
-  lat: 40.108256
-  level: 6
-  lon: -88.285924
-  mus: 12
-  name:  'Bresnan Meeting Center'
-- fields: 1
-  img:  'http://lh3.ggpht.com/v6owBjQTW0Ic7DNqB1G7tGTabJj2wipvontg7ZdGq9uFodCHNMsZmcmLzQBXz98li6nEBpws0H0LUC6FhxA'
-  lat: 40.107411
-  level: 6
-  lon: -88.28586
-  mus: 12
-  name:  'Emmerson Dexter Field'
 - fields: 3
   img:  'http://lh3.ggpht.com/0-BDoSYQzYfR7AHH26pmRGbZ4VmB4kdhLKm3x_AV4WOsaSFFLgJwMVN-bWTz9oopIx6IJQMxGvtl5C3svl0C'
   lat: 40.104061
@@ -1356,13 +1286,6 @@
   lon: -88.202167
   mus: 11
   name:  'Urbana''s Time Capsule'
-- fields: 2
-  img:  'http://lh3.ggpht.com/5awYU9vtQhrJgqVWTgorW3FfOKgjEZtgRjWYRBTLqZxOOiuKje_aALtsSDOrslkMHWZqO4ZLwael60DZWxY'
-  lat: 40.111807
-  level: 5
-  lon: -88.295361
-  mus: 11
-  name:  'Unity Baptist Church'
 - fields: 4
   img:  'http://lh6.ggpht.com/PXNfY-rn4cS8Fcr7CkJnEI5-vb_hCYxTX_9VV9jNB78yHB-EjmmsP8_EiqK-icwqTxu2iRtDoSbBRCLanerX'
   lat: 40.110685
@@ -1517,6 +1440,13 @@
   lon: -88.202694
   mus: 7
   name:  '"Here and There" at Meadowbrook'
+- fields: 2
+  img:  'http://lh3.googleusercontent.com/eGP4sxnePximEFk88kdcqNxeClf1LjUbwiPTwKmCfStyP9CAq9qGtzAsbEcVWEaS0KyG8LQn7SgS3X07OU4f'
+  lat: 40.122643
+  level: 6
+  lon: -88.300552
+  mus: 7
+  name:  'Powell Park'
 - fields: 3
   img:  'http://lh4.ggpht.com/DTGKMEvXrKSLJVBZP6bN7EF-DMHt5l_x3o-C-Ln0FjrGCQcTdcLNaZDI2_OCwEzuqgh8HyyqJwyQkc4-0H8g'
   lat: 40.106037
@@ -1538,6 +1468,20 @@
   lon: -88.225639
   mus: 7
   name:  'Walk of Life 2007'
+- fields: 1
+  img:  'http://lh3.ggpht.com/5awYU9vtQhrJgqVWTgorW3FfOKgjEZtgRjWYRBTLqZxOOiuKje_aALtsSDOrslkMHWZqO4ZLwael60DZWxY'
+  lat: 40.111807
+  level: 5
+  lon: -88.295361
+  mus: 7
+  name:  'Unity Baptist Church'
+- fields: 1
+  img:  'http://lh5.ggpht.com/8EXhrgcMBH0nDBQWTAlAwNIhxzaY7maIjYjg3fJnzGIp6_FNs98dPrYY4mtl4vhkPI5WQ1Xp8_V4vj2hAb9a'
+  lat: 40.112026
+  level: 5
+  lon: -88.295327
+  mus: 7
+  name:  'Carpenter''s Union Hall'
 - fields: 2
   img:  'http://lh4.ggpht.com/5E71LpfYxV2zsihdsTCShjy9NN6ksITFjXz6GSYwP8EKVJEuhrWOJKGGr6nfCT99QLgs4K6HHrqQn6ta1Vw'
   lat: 40.117349
@@ -1853,6 +1797,13 @@
   lon: -88.23253
   mus: 3
   name:  'Skyward Railway'
+- fields: 3
+  img:  'http://lh6.ggpht.com/L2LdCXwXyxkV_ENkb567X8EtQ8713-lEbbpVfOAg4_yiMbHvUnq9u0Ks4DCgqlvRAUMgsoMJJR3RPsup2oU'
+  lat: 40.122772
+  level: 6
+  lon: -88.30035
+  mus: 3
+  name:  'Barb Babb Memorial Plaque'
 - fields: 5
   img:  'http://lh4.ggpht.com/qWLIT-3GsQkC5f1iLdtWdxCs7cZzyMqqwXBViIYnN7Hvp6UFp3JqYe_qFKGGCSM1cWWbZZZh2X2uS3fS2lE'
   lat: 40.068474
