@@ -131,17 +131,17 @@
   lon: -88.249208
   name:  'In Fond Memory of William Moore Jr'
 - ap: 7785
-  img:  'http://lh3.googleusercontent.com/Tixp17uCaP682s77UzvCwWCOE6vg7iB2qEFLjACq7xtVJdHE0K3yKYsl3_SwKbiUfQWwgTQRbvfka3U0NvNc'
-  lat: 40.098819
-  level: 8
-  lon: -88.249214
-  name:  'Bette McKown Honorary'
-- ap: 7785
   img:  'http://lh6.ggpht.com/BKeORacgeVrG8XzxTuXmpq5UxomWpK-I2n7Xy0PVbdSciNx9MJl869TcibnFIiV5PJHGv5R3QOpX6ZgLUwU'
   lat: 40.099706
   level: 8
   lon: -88.250065
   name:  'Lois Barham Memorial Tree'
+- ap: 7785
+  img:  'http://lh3.googleusercontent.com/Tixp17uCaP682s77UzvCwWCOE6vg7iB2qEFLjACq7xtVJdHE0K3yKYsl3_SwKbiUfQWwgTQRbvfka3U0NvNc'
+  lat: 40.098819
+  level: 8
+  lon: -88.249214
+  name:  'Bette McKown Honorary'
 - ap: 7596
   img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
   lat: 40.097979
@@ -251,12 +251,6 @@
   lon: -88.249899
   name:  'Benjamin Biddle Memorial Plaque'
 - ap: 5161
-  img:  'http://lh3.ggpht.com/VrbXGwlUosNLEkVdshWUFoVa3KtlJQoEU4yLYygvftYbPCmxo644Uvar_v8Kb9RS53hB0tXgvV44GotrxZyu'
-  lat: 40.098592
-  level: 8
-  lon: -88.251676
-  name:  'Ruth and Fred Steigmann Plaque'
-- ap: 5161
   img:  'http://lh5.ggpht.com/aeGh3iXJqJ7skg-2JHEpngMSfcp1qDIEPoLMxzQNqbS5Y7HcxN7oE789bXiVFoFIcdCn7-3AhLPtxT_WE2E'
   lat: 40.0985
   level: 8
@@ -286,6 +280,12 @@
   level: 8
   lon: -88.251419
   name:  'Lyman Larson Memorial'
+- ap: 5161
+  img:  'http://lh3.ggpht.com/VrbXGwlUosNLEkVdshWUFoVa3KtlJQoEU4yLYygvftYbPCmxo644Uvar_v8Kb9RS53hB0tXgvV44GotrxZyu'
+  lat: 40.098592
+  level: 8
+  lon: -88.251676
+  name:  'Ruth and Fred Steigmann Plaque'
 - ap: 5161
   img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
   lat: 40.100286
@@ -515,6 +515,12 @@
   lon: -88.228733
   name:  'The Centennial Colophon'
 - ap: 3474
+  img:  'http://lh3.ggpht.com/pVUYGCf7vsAndVd4vhK_pC9p6e9OvGa4ZiWuZg0ELOFDWptBba4H2N4PNZPjQdHXnV1GQyLTpCXQWDMKDUqn'
+  lat: 40.108875
+  level: 5
+  lon: -88.227835
+  name:  'Lion''s Head Planter'
+- ap: 3474
   img:  'http://lh6.ggpht.com/y10QgRCNt0Bsefqp3olKgJp98whQkS0-vWqPskj3421hcSq96BG-b_KROqsO1mBEcNiYtAKhXuXG0EV0eaUW'
   lat: 40.107152
   level: 5
@@ -526,12 +532,6 @@
   level: 5
   lon: -88.236182
   name:  'Washington Park'
-- ap: 3474
-  img:  'http://lh3.ggpht.com/pVUYGCf7vsAndVd4vhK_pC9p6e9OvGa4ZiWuZg0ELOFDWptBba4H2N4PNZPjQdHXnV1GQyLTpCXQWDMKDUqn'
-  lat: 40.108875
-  level: 5
-  lon: -88.227835
-  name:  'Lion''s Head Planter'
 - ap: 2911
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.198294
@@ -838,18 +838,18 @@
   level: 5
   lon: -88.244122
   name:  'Artistic Graffiti at MCS'
-- ap: 2312
-  img:  'http://lh4.ggpht.com/XlTZ26_29c4-74t23p1lgghqNfLI7aS3_kradmcl7vVQzV9jJRu78D1HdzJf-sWibnak644kxCBJDnA594PVaw'
-  lat: 40.092849
-  level: 4
-  lon: -88.251586
-  name:  'Boulware Trail'
 - ap: 2537
   img:  'http://lh3.ggpht.com/KxQsev6i7POmNh1IadCWwWQSMdCuLIYpPwIdenSlVtzum523D1R-1kfeTbuOGTkt_jDwn4jswCu1edkumm2-'
   lat: 40.110037
   level: 6
   lon: -88.23549
   name:  'Red Lion'
+- ap: 2312
+  img:  'http://lh4.ggpht.com/XlTZ26_29c4-74t23p1lgghqNfLI7aS3_kradmcl7vVQzV9jJRu78D1HdzJf-sWibnak644kxCBJDnA594PVaw'
+  lat: 40.092849
+  level: 4
+  lon: -88.251586
+  name:  'Boulware Trail'
 - ap: 2312
   img:  'http://lh4.ggpht.com/uAYfykn0e2h2UqP-anbYfkJNa38P0L1WY8FpF-CwRCPklg5wL1xYFkpGOCMt7SJ37qO8PGVE42nYX9Ba_-jG'
   lat: 40.105025
