@@ -541,7 +541,7 @@
 - ap: 3661
   img:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
   lat: 40.108173
-  level: 5
+  level: 7
   lon: -88.230209
   name:  'Mural on South Sixth Street'
 - ap: 3661
@@ -586,6 +586,24 @@
   level: 6
   lon: -88.282953
   name:  'Greenbelt 2'
+- ap: 3474
+  img:  'http://lh5.ggpht.com/nirQKdy3s9r8TSV7cB7_B0l-0EsFXBkg1aitH05R0ttPhOEewGxlq1GRnlDvYFT2V8Z91hWnB9YD3WjxBvyZ'
+  lat: 40.11868
+  level: 5
+  lon: -88.243426
+  name:  '"Pointless"'
+- ap: 3474
+  img:  'http://lh5.ggpht.com/qXsP4-THlaQ8DmIiopsvR0dY2hqwPjIHoy1A1b_CUmqmADgED0FAkXDjkBzS-PY4jNfThICrCaXGja5OH8bWF4ghh7lBwJz0FzKz_zOvaiwHohU_'
+  lat: 40.11945
+  level: 5
+  lon: -88.243175
+  name:  '"Stride", Downtown Champaign'
+- ap: 3474
+  img:  'http://lh6.ggpht.com/nbUJivBo0zF8f8aBbk1GwakUpPbLUVOoEovTTETYwJvfNIHXwG9XUbwoV0x-ly4ZO5Hsyv5KPo3c9cE6Nh8'
+  lat: 40.118832
+  level: 5
+  lon: -88.243643
+  name:  'Tesla Ball'
 - ap: 3474
   img:  'http://lh3.ggpht.com/KxQsev6i7POmNh1IadCWwWQSMdCuLIYpPwIdenSlVtzum523D1R-1kfeTbuOGTkt_jDwn4jswCu1edkumm2-'
   lat: 40.110037
@@ -635,12 +653,6 @@
   lon: -88.243679
   name:  'Robert Hosier Memorial Garden'
 - ap: 2724
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.181341
-  level: '?'
-  lon: -86.383687
-  name:  'de4f3734167e4f4e86c0ba1a9af8d758.16'
-- ap: 2724
   img:  'http://lh3.ggpht.com/CraZJCGkYMojxUhZiRGhjSMt9Ggq_EWkUgzsVChRJRy806N-iFxcUt910vs-j4ap6ycfrLl-faXk8cbXM2n3'
   lat: 40.105644
   level: 4
@@ -652,6 +664,12 @@
   level: 4
   lon: -88.250003
   name:  '"The Cranes" at Fox Corporate Center'
+- ap: 2724
+  img:  'http://lh5.ggpht.com/9XV46K2cUd84oc6HPyqlj53LKJS8lVs0f0gPHSCBkkTwiHaxivu36dlAj5M38EzK-2U4xhvZJ7AiVvGM5yk'
+  lat: 40.118175
+  level: 6
+  lon: -88.244562
+  name:  'The Russell Building'
 - ap: 2724
   img:  'http://lh6.ggpht.com/q48Oqk2mm3dXQ2ppK-aYGXKjIiTAOEZfrFkiLK9LXRz2uN9hSKihKeCwfg33q1Z2zMTIMjqJRjPA1U_V3pbR6Q'
   lat: 40.104417
@@ -676,12 +694,6 @@
   level: 7
   lon: -88.218544
   name:  'The Vineyard Church'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.053261
-  level: '?'
-  lon: -87.674205
-  name:  'f1df014fc3964bee8f0e0baecd60a61d.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.312242
@@ -718,6 +730,12 @@
   level: '?'
   lon: -87.67339
   name:  '83aa2d469a604dce905d4de73c85475a.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.181341
+  level: '?'
+  lon: -86.383687
+  name:  'de4f3734167e4f4e86c0ba1a9af8d758.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.110277
@@ -803,29 +821,17 @@
   lon: -88.252345
   name:  'Toalson Park Basketball Hoop'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/9XV46K2cUd84oc6HPyqlj53LKJS8lVs0f0gPHSCBkkTwiHaxivu36dlAj5M38EzK-2U4xhvZJ7AiVvGM5yk'
-  lat: 40.118175
-  level: 6
-  lon: -88.244562
-  name:  'The Russell Building'
-- ap: 2537
   img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
   lat: 40.117976
   level: 6
   lon: -88.245082
   name:  'Robeson Building '
-- ap: 2387
-  img:  'http://lh4.ggpht.com/eiIi_ozTDxkb4MdOndoTytdxfIB-1IAlz7B6mPPsVwLsPSvNxgR3f1ynOCQiAHPJAfWvPR6x6kWP0shmEfu5Mw'
-  lat: 40.1198
-  level: 5
-  lon: -88.243467
-  name:  'Incursion'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/QNdE7Z3gNcz1M-mzDms1aMrHPZpKr43FIfnMxwfwdp6kP1N6fPKwUzIx5qrt3k_KBeBFRmcD-PXCWq7V2Ygo'
-  lat: 40.119969
+  img:  'http://lh4.ggpht.com/PfcTU4XsA06ThtmCWydIWhTsN3gR4jrqnrKxu0O5lhyibhRdKMEaf3jM8VNhViF8qLf13b01E71wr_ajxn0'
+  lat: 40.118465
   level: 5
-  lon: -88.243775
-  name:  'Mural at Bentley''s'
+  lon: -88.245077
+  name:  'Mural at Nitaya'
 - ap: 2537
   img:  'http://lh3.ggpht.com/oHMQr2Z5LayQFbZOwOZK4ZbYQ1OVxs85-qNTvSj8epsP72vQiOdrzVmkuMPFQtCSf9Rr0oqcnSLFjLn-sPw'
   lat: 40.116592
@@ -838,18 +844,6 @@
   level: 6
   lon: -88.24263
   name:  'Cafe Kopi'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/PI7unWl258r16aSzGzVzmXA-tipsw3vs3MDDXFtwzlkmMfJBhVSwfeOHQxAZLTvdPTJSP8gNbAdJGdslEdkZXg'
-  lat: 40.119636
-  level: 5
-  lon: -88.243213
-  name:  'Sunder Planet'
-- ap: 2387
-  img:  'http://lh5.ggpht.com/D9O580D9hlBOqeMvt2V4nL-eHP62h4vG4YFgk-WTw7GunusU9AOffFuHZ9XYWoB8YrGxpCMu2Y77-LCAgcdT'
-  lat: 40.119328
-  level: 4
-  lon: -88.243755
-  name:  'Birthplace of Champaign / Beautiful Beardsley Hotel'
 - ap: 2537
   img:  'http://lh6.ggpht.com/ytlRYKlqnchcFvl3QEN1XknYcwYKIjohz4qzWW8SmhDi5mypBmgPbf9e4ghZWMZY5gpD9HIyalemSKsIzyA'
   lat: 40.11408
@@ -886,6 +880,18 @@
   level: 6
   lon: -88.23557
   name:  'Boneyard Greenway'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/1LUozaukItxu6cHk_7wORzYYNvskCHi_wUxbNOAcIXNbgLuYn7VElFG0tzY02e6pY-AEL8nNHAL6ewLCaLMH'
+  lat: 40.10567
+  level: 4
+  lon: -88.228634
+  name:  'Public Broadcasting Plaque'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/cYQLNtCsiRGXd_y7-ZdI4jGlNRpC4oiy2Z7UT7etDH3FBvBRQDtOW_rY0NBvKLJMnTw_EXH75NDGMcI6UkeV'
+  lat: 40.105618
+  level: 6
+  lon: -88.229005
+  name:  'The Chapel of St. John the Divine'
 - ap: 2312
   img:  'http://lh3.ggpht.com/x5fBw8MRogV8dm3kPO5zKNkUrQxn0dM7d1PIoASdX1_Rc8H5Duex4iZdOoIlqazCGll25TmptsWIRq1JFmj6'
   lat: 40.112135
