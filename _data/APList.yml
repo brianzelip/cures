@@ -365,17 +365,17 @@
   lon: -88.290536
   name:  'In Memory of David Foster Wallace'
 - ap: 4785
-  img:  'http://lh5.ggpht.com/_Tp5JJFIIlt0iHHyC_A_gnEm1sxUEKDHmQr0oby74HL0rnFZ5JrnuvOTPk6_vulsU_GJue_7RAAX2Y7I2Wxw4A'
-  lat: 40.132354
-  level: 5
-  lon: -88.292578
-  name:  'Campus Solar System - Venus'
-- ap: 4785
   img:  'http://lh4.ggpht.com/2JNDO54Hu2KzjIaEeCIFVgD7gEa5VXNBsIemFYp6cgiTUbsSpOwLTc-HqZb__uut24jHpVnQVokRVtL00ozu'
   lat: 40.132056
   level: 5
   lon: -88.292671
   name:  'Campus Solar System - Mercury'
+- ap: 4785
+  img:  'http://lh5.ggpht.com/_Tp5JJFIIlt0iHHyC_A_gnEm1sxUEKDHmQr0oby74HL0rnFZ5JrnuvOTPk6_vulsU_GJue_7RAAX2Y7I2Wxw4A'
+  lat: 40.132354
+  level: 5
+  lon: -88.292578
+  name:  'Campus Solar System - Venus'
 - ap: 4598
   img:  'http://lh4.ggpht.com/GcCZ7JTzkEHTZnUWfpUgibDh2Wa4nzGM9-k13AG4I2RwFiPa6exz1vCzj7Hwvf_oPwJvYJt0xoRE6GZXmCMX'
   lat: 40.132625
@@ -625,7 +625,7 @@
 - ap: 2724
   img:  'http://lh3.ggpht.com/oHMQr2Z5LayQFbZOwOZK4ZbYQ1OVxs85-qNTvSj8epsP72vQiOdrzVmkuMPFQtCSf9Rr0oqcnSLFjLn-sPw'
   lat: 40.116592
-  level: 6
+  level: 7
   lon: -88.243236
   name:  'Champaign City Bldg. Landmark Plaque'
 - ap: 2724
@@ -652,18 +652,6 @@
   level: 6
   lon: -88.248914
   name:  'Boulware Trail'
-- ap: 2574
-  img:  'http://lh5.ggpht.com/Lci4hchvPddvCn0adEUsjrUPGPoQlR5HVSfAA694lfczUe6nbgy8qQsLRgRnZJ4nHPN-ogww3D4BAXJpBawznA'
-  lat: 40.114734
-  level: 4
-  lon: -88.22362
-  name:  'Friends of WILL Plaza'
-- ap: 2724
-  img:  'http://lh4.ggpht.com/ZwDzLvPP0KTL_mUj9ta-0DRkbA4q3X7b-r02bm3rTibFkPbu00GKehClddYfSkXbwVuJ4pjt4T7yo7ou54ov'
-  lat: 40.111869
-  level: 5
-  lon: -88.227932
-  name:  'Talbot Lab Mural'
 - ap: 2537
   img:  'http://lh6.ggpht.com/RR0i4QdfoY8NkTQtssdOtDLhAEaCR7e-R4ipk5NzdKe9lTGDq2nyKI_7sF2BCXrgCZAZ2zEEtIzS7vg6Pu0hzA'
   lat: 40.126458
@@ -688,18 +676,6 @@
   level: '?'
   lon: -88.42641
   name:  'Seymour Village Fire Department'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.052212
-  level: '?'
-  lon: -87.669411
-  name:  '104d9a0bac384f00b3dfa667adecb86a.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.106873
-  level: '?'
-  lon: -86.485897
-  name:  'e7964be104de4f7c98bb29b4dc8f6d9c.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.115972
@@ -767,6 +743,18 @@
   lon: -88.272375
   name:  'Jericho Missionary Baptist Church'
 - ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.048488
+  level: '?'
+  lon: -87.67339
+  name:  '83aa2d469a604dce905d4de73c85475a.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.181341
+  level: '?'
+  lon: -86.383687
+  name:  'de4f3734167e4f4e86c0ba1a9af8d758.16'
+- ap: 2537
   img:  'http://lh6.ggpht.com/vEN9GcvyvnN9TcF7V_jt__S6kOXIMX-XvLg5_iKqPHWpkT7sHe-QYFue_eGZ1OH6XJsPAb-jowAUKnHmkh4'
   lat: 40.110029
   level: 5
@@ -796,10 +784,10 @@
   level: '?'
   lon: -88.252345
   name:  'Toalson Park Basketball Hoop'
-- ap: 2387
+- ap: 2537
   img:  'http://lh6.ggpht.com/cZVUlNaHjfsB6Lu5hnj8JjUk4lvsgOV7DFz4Nl47-RaQObW1VPRpos6hTDD6WgYrNxCh9UKfn5DFU-K7lRe9pQ'
   lat: 40.1164
-  level: 5
+  level: 6
   lon: -88.242747
   name:  'Sidewalk Art'
 - ap: 2537
@@ -820,10 +808,10 @@
   level: 4
   lon: -88.243009
   name:  'Fountain in the Alley'
-- ap: 2537
+- ap: 2387
   img:  'http://lh4.ggpht.com/eiIi_ozTDxkb4MdOndoTytdxfIB-1IAlz7B6mPPsVwLsPSvNxgR3f1ynOCQiAHPJAfWvPR6x6kWP0shmEfu5Mw'
   lat: 40.1198
-  level: 6
+  level: 5
   lon: -88.243467
   name:  'Incursion'
 - ap: 2537
@@ -838,10 +826,10 @@
   level: 5
   lon: -88.243213
   name:  'Sunder Planet'
-- ap: 2537
+- ap: 2387
   img:  'http://lh5.ggpht.com/D9O580D9hlBOqeMvt2V4nL-eHP62h4vG4YFgk-WTw7GunusU9AOffFuHZ9XYWoB8YrGxpCMu2Y77-LCAgcdT'
   lat: 40.119328
-  level: 6
+  level: 4
   lon: -88.243755
   name:  'Birthplace of Champaign / Beautiful Beardsley Hotel'
 - ap: 2537
@@ -886,12 +874,12 @@
   level: 3
   lon: -88.225762
   name:  'Computer Based Education Plaque'
-- ap: 2237
-  img:  'http://lh5.ggpht.com/cHXnlWuRvdsWlYl544dN4Z4dFmU3Wzw1BEovUj84953CC59BdwR-5pDK8MUkpnAECo3RjUVQMAS0elR08dvD'
-  lat: 40.115302
-  level: 2
-  lon: -88.224932
-  name:  'National Center for Supercomputing Applications'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/ZwDzLvPP0KTL_mUj9ta-0DRkbA4q3X7b-r02bm3rTibFkPbu00GKehClddYfSkXbwVuJ4pjt4T7yo7ou54ov'
+  lat: 40.111869
+  level: 5
+  lon: -88.227932
+  name:  'Talbot Lab Mural'
 - ap: 2537
   img:  'http://lh3.ggpht.com/nYd-393_D14GP4fiHeIzBxBwiribibe3KkVkqwo0A2KaBz3imkWBgyq_wiisXL0-RLbEESu9vTa02HbR5KcMQw'
   lat: 40.092652
