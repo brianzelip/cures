@@ -376,12 +376,6 @@
   level: 5
   lon: -88.29276
   name:  'Campus Solar System - Sun'
-- ap: 4972
-  img:  'http://lh3.ggpht.com/7sJlWdBFFcLCXWnnfB6SVTzCCDM0Q7KyV5jALfrWG3ICtkw7HXrjzaRrnzSiv19wIswpZoTxKYudzYiZnT9Shg'
-  lat: 40.112536
-  level: 7
-  lon: -88.256779
-  name:  'Framer''s Market'
 - ap: 4785
   img:  'http://lh5.ggpht.com/5bCoRsqGBM0hx50ymfbZ8NhvyAyQDJWMnSg6qaDe-zxvwzVZW6O5IZWCDefH-pIsFZzvUaCcBBK9kqNDwXW3'
   lat: 40.128048
@@ -436,7 +430,7 @@
   level: 5
   lon: -88.209117
   name:  'Water Sculpture'
-- ap: 4035
+- ap: 4222
   img:  'http://lh4.ggpht.com/g5bf6n8J6ugyF8pztcWZWnGyNmzIDQhskzXCDf2dJbuiqbub_xApqggrQrqn6WCy2yYmLnGrcmuQkqeQKx2IwA'
   lat: 40.126769
   level: 5
@@ -454,6 +448,12 @@
   level: 4
   lon: -88.272793
   name:  'Salt And Light Ministries'
+- ap: 4035
+  img:  'http://lh3.ggpht.com/7sJlWdBFFcLCXWnnfB6SVTzCCDM0Q7KyV5jALfrWG3ICtkw7HXrjzaRrnzSiv19wIswpZoTxKYudzYiZnT9Shg'
+  lat: 40.112536
+  level: 7
+  lon: -88.256779
+  name:  'Framer''s Market'
 - ap: 4035
   img:  'http://lh5.ggpht.com/kElaGOaV9aI8SrnM1D65gx9J0Ky1AKrN9Yo-pXVmDhELt2pee4MwVRiCqCmlqWzUWj5pS33GnEzAiXmiWKsw'
   lat: 40.108111
@@ -581,18 +581,6 @@
   lon: -88.282953
   name:  'Greenbelt 2'
 - ap: 3474
-  img:  'http://lh6.ggpht.com/yoGdHEqpRRqOE5pA5wHdi_ismU_TrB-kTiqVV63EO630KsU608TIfjLijcqJ38At7MyyrE2urWFMPY1Sops'
-  lat: 40.118121
-  level: 7
-  lon: -88.258039
-  name:  'Mini Park V'
-- ap: 3474
-  img:  'http://lh5.ggpht.com/_9uqsDQROIwqIhKx_URY4DdZAapoZBEWK6Eaclt5mM5vPsjwQAD-v8Bv-4b-Smq2F8X4zOgzLx2KwySkFWc'
-  lat: 40.118448
-  level: 4
-  lon: -88.25211
-  name:  'First Church of Christ, Scientist'
-- ap: 3474
   img:  'http://lh3.googleusercontent.com/9sOiIMyEVQdEfXtrwCIOD4-cswL1iHfufX9JfT5oju8rsmNrjQx1Wwcfz0gKEYJyzDY9Ucr7y4yNbBg3U5O_'
   lat: 40.113606
   level: 7
@@ -671,6 +659,12 @@
   lon: -88.231488
   name:  'Fighting Illini Memorial'
 - ap: 2724
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.376421
+  level: '?'
+  lon: -89.466518
+  name:  '881d59c37e494743bfa6522072c82693.16'
+- ap: 2724
   img:  'http://lh3.ggpht.com/CraZJCGkYMojxUhZiRGhjSMt9Ggq_EWkUgzsVChRJRy806N-iFxcUt910vs-j4ap6ycfrLl-faXk8cbXM2n3'
   lat: 40.105644
   level: 4
@@ -738,6 +732,12 @@
   name:  'ebaa4a5573f7449399263066d9248473.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.699746
+  level: '?'
+  lon: -89.675046
+  name:  'b2befd3f5d7c470c8082ae31dea34f56.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.115972
   level: '?'
   lon: -88.016084
@@ -762,6 +762,12 @@
   name:  'de4f3734167e4f4e86c0ba1a9af8d758.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.094062
+  level: '?'
+  lon: -88.439488
+  name:  '7f23996f8cd243aaa8aa19306e872eb8.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.110277
   level: '?'
   lon: -88.369673
@@ -769,7 +775,7 @@
 - ap: 2537
   img:  'http://lh3.ggpht.com/ehNwLdaa71H3Bylm063pawn4caIGz2rCdmmdBhAFWIuEt2kPjT8nWHDkSuoOidckWiM82FWpDSNGQqQMHiQ'
   lat: 40.098209
-  level: 5
+  level: 6
   lon: -88.28689
   name:  'First Church of the Nazarene'
 - ap: 2537
@@ -822,6 +828,12 @@
   name:  'New Generation Christian Fellowship Church'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.286148
+  level: '?'
+  lon: -88.126397
+  name:  'b7462fe79c874282b8ca4240ac1d6f55.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.152192
   level: '?'
   lon: -88.252279
@@ -832,6 +844,12 @@
   level: '?'
   lon: -88.252345
   name:  'Toalson Park Basketball Hoop'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/_9uqsDQROIwqIhKx_URY4DdZAapoZBEWK6Eaclt5mM5vPsjwQAD-v8Bv-4b-Smq2F8X4zOgzLx2KwySkFWc'
+  lat: 40.118448
+  level: 4
+  lon: -88.25211
+  name:  'First Church of Christ, Scientist'
 - ap: 2537
   img:  'http://lh6.ggpht.com/HvC073U-qgv-Zdd0zHS5_UQsybUORqZiuhnRY5V1bWxlRPwBG9564LEVab8tUebtP8OzNkBVp3K39WZkahjw'
   lat: 40.118119
