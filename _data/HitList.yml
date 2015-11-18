@@ -1,10 +1,10 @@
-- fields: 2+
+- fields: 1+
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.106513
+  lat: 40.104593
   level: '?'
-  lon: -88.5585
-  mus: 1219
-  name:  'Lodge Christian Church'
+  lon: -88.42641
+  mus: 776
+  name:  'Seymour Village Fire Department'
 - fields: 6
   img:  'http://lh6.ggpht.com/NMgUdPOdhvhvKZh7ugwXgybshZBZ2mkaEWMNKYdFPX6cfIYENSCqE9YpAXSNVuq_9VVWXJB-ShCBAPfF2Yvs'
   lat: 40.102513
@@ -33,13 +33,6 @@
   lon: -88.230181
   mus: 43
   name:  'Murphy''s Pub '
-- fields: 6
-  img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
-  lat: 40.107629
-  level: 6
-  lon: -88.224484
-  mus: 32
-  name:  'Bucky Balls'
 - fields: 10
   img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
   lat: 40.099852
@@ -47,13 +40,13 @@
   lon: -88.251947
   mus: 32
   name:  'Our Friend Tim Palmer'
-- fields: 5
-  img:  'http://lh5.ggpht.com/KQ7QYG8rWnVxSme_uq3cOu8IreZRbztWWKHTNPBy_6GvCqP3ywy-HEoSUxqloLDeUggEVV0UhKLy8Ja0v0yPdQ'
-  lat: 40.110844
-  level: 6
-  lon: -88.224091
+- fields: 3
+  img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
+  lat: 40.107629
+  level: 3
+  lon: -88.224484
   mus: 29
-  name:  'Institute of Aviation'
+  name:  'Bucky Balls'
 - fields: 8
   img:  'http://lh3.googleusercontent.com/hF5kZFrZGRZkYYPDY8q06SkEPkSLljkbEbCI4gcyZ1QU1-wpfBV_Cma3GT6YE6PTdRBZr-7NuaDvVEm7oQU'
   lat: 40.128105
@@ -113,7 +106,7 @@
 - fields: 3
   img:  'http://lh4.ggpht.com/EsyXMnqVMX7wQ4YmoCFRiNljaJqaXrQvzyzzooqx2fPxCSkJMkdEssTbf618D8Qp9hh3E4Ud3hL1M3v-TsbO'
   lat: 40.104688
-  level: 6
+  level: 7
   lon: -88.230676
   mus: 9
   name:  'Sousa Archives Center-Amer Music'
@@ -124,6 +117,13 @@
   lon: -88.250539
   mus: 8
   name:  'Hessel Park'
+- fields: 2+
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.203721
+  level: '?'
+  lon: -88.39221
+  mus: 8
+  name:  'dd9c9d84f4934d84a0769ff14c381db2.16'
 - fields: 8
   img:  'http://lh6.ggpht.com/3o0ObAARFV_8mBVCC_QD0iLOPVzNkakXybhLnSVEuXIJfDLKMxeYj-EkWIw9NPoZIVRf5Dkrid2yf_NEQ-iE'
   lat: 40.100347
@@ -239,7 +239,7 @@
 - fields: 1
   img:  'http://lh3.googleusercontent.com/EwXPPCiuVPRkECPKlJtyqReSySoJKEdwrx1MkNVUy6EM9xWU_fet1Z-sLfx_P2_c54DeJcApxdl-hKg9vGVEtw'
   lat: 40.108224
-  level: 6
+  level: 5
   lon: -88.223549
   mus: 2
   name:  'Colwell Playhouse'
@@ -271,20 +271,6 @@
   lon: -88.249648
   mus: 2
   name:  'Max Overmyer Memorial Playground'
-- fields: 2
-  img:  'http://lh6.ggpht.com/eVUed3229Zh9saFzaZQcI6LXsyDB0IJxc9v-Aa9Oa0AhjQLXBIVSuu1qUQwJVXWgmXYPY9sqTzK73Le4BuU'
-  lat: 40.11122
-  level: 5
-  lon: -88.224097
-  mus: 1
-  name:  'Nuclear Radiation Laboratory'
-- fields: 2
-  img:  'http://lh4.ggpht.com/PfcTU4XsA06ThtmCWydIWhTsN3gR4jrqnrKxu0O5lhyibhRdKMEaf3jM8VNhViF8qLf13b01E71wr_ajxn0'
-  lat: 40.118465
-  level: 7
-  lon: -88.245077
-  mus: 1
-  name:  'Mural at Nitaya'
 - fields: 1
   img:  'http://lh3.ggpht.com/J_h4tdb4wqy8bmmQfDuy5yqTR2IlkzKojfvsMOvlD-3tf1pKxbDlhA6W9Q8RX-JaSxhItMr4bmCxiUQXTLbz'
   lat: 40.10064
@@ -292,6 +278,27 @@
   lon: -88.24958
   mus: 1
   name:  'Edward A. Cousins Plaque'
+- fields: 1
+  img:  'http://lh6.ggpht.com/cZVUlNaHjfsB6Lu5hnj8JjUk4lvsgOV7DFz4Nl47-RaQObW1VPRpos6hTDD6WgYrNxCh9UKfn5DFU-K7lRe9pQ'
+  lat: 40.1164
+  level: 5
+  lon: -88.242747
+  mus: 1
+  name:  'Sidewalk Art'
+- fields: 1
+  img:  'http://lh4.ggpht.com/2tHD_AHYQu0kWuwLX2HMYWBG4txVkuWsBEfzWLL39npWp8kMSHiUKxSJM1E7yhimuMVUJ-RIlSSKsgjETvtr'
+  lat: 40.110524
+  level: 5
+  lon: -88.228706
+  mus: 1
+  name:  'Leo Roy Tehon Memorial'
+- fields: 1
+  img:  'http://lh4.ggpht.com/PfcTU4XsA06ThtmCWydIWhTsN3gR4jrqnrKxu0O5lhyibhRdKMEaf3jM8VNhViF8qLf13b01E71wr_ajxn0'
+  lat: 40.118465
+  level: 6
+  lon: -88.245077
+  mus: 1
+  name:  'Mural at Nitaya'
 - fields: 1
   img:  'http://lh5.ggpht.com/XSTOU98iZoBFcDNR_YYJQfmQaiD_vXAP5Z7R79nVC7k06VMhH8tHSb9Yb9Pe8OnV1svwvlvy6iyz6vMjg3_EzA'
   lat: 40.132804
