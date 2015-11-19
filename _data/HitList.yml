@@ -1,10 +1,3 @@
-- fields: 3
-  img:  'http://lh5.ggpht.com/j6Gqd19ib1ziWv7UKoq4_fMXeXtxxdV85TchQ49_mIgeJYs7oUWOj860aB2Ok8NGNY5wNfMqDn7zeSKOgpxEzQ'
-  lat: 40.108781
-  level: 6
-  lon: -88.271694
-  mus: 1002
-  name:  'Champaign Church of Christ'
 - fields: 1+
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.104593
@@ -12,6 +5,20 @@
   lon: -88.42641
   mus: 776
   name:  'Seymour Village Fire Department'
+- fields: 3
+  img:  'http://lh6.ggpht.com/nRwew4OU3JNWRI1-xCyuN1xwDabajLFDuSlOZ-_M8BwJELli4V8o30JI0UyF6Kpc4gfDGdh10kJ6mD6ggMo'
+  lat: 40.108561
+  level: 6
+  lon: -88.250039
+  mus: 659
+  name:  'Harris Park'
+- fields: 4
+  img:  'http://lh5.ggpht.com/_9uqsDQROIwqIhKx_URY4DdZAapoZBEWK6Eaclt5mM5vPsjwQAD-v8Bv-4b-Smq2F8X4zOgzLx2KwySkFWc'
+  lat: 40.118448
+  level: 5
+  lon: -88.25211
+  mus: 460
+  name:  'First Church of Christ, Scientist'
 - fields: 2
   img:  'http://lh6.ggpht.com/WVVbmiu2GGTnPTszcnYYILHKlkZDoxB-QY6Yv7YPoUfdVn92jYnKjpVKNkfWdFrPjq-BaFeKGJWLZlE-bbA'
   lat: 40.120467
@@ -19,13 +26,6 @@
   lon: -88.2577
   mus: 117
   name:  'Salvation Army Church'
-- fields: 8
-  img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
-  lat: 40.101062
-  level: 8
-  lon: -88.249275
-  mus: 113
-  name:  'Narayan & Shanti Achanta Memorial Plaque'
 - fields: 2
   img:  'http://lh3.ggpht.com/jr89yrsC941ycnfQPQzYkTPCedQ8Suo8eiPCcNLvq0n0fw48_pywxGTqTsKaVh_KXAiza3ke5pjMejqiaD0'
   lat: 40.111568
@@ -33,12 +33,19 @@
   lon: -88.267345
   mus: 89
   name:  'Illinois American Water Tower'
-- fields: 4
+- fields: 2
+  img:  'http://lh3.googleusercontent.com/vJ_iyOb44eFzOJUNpRouOPDI8rKgOESn7TWw9U9BR3OcWsb6Oak-SSfVH4iPPmtXJdk30rqet1D0KxVohiBC'
+  lat: 40.114712
+  level: 5
+  lon: -88.238392
+  mus: 77
+  name:  'Mexico Mural'
+- fields: 5
   img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
   lat: 40.097979
   level: 7
   lon: -88.247785
-  mus: 40
+  mus: 41
   name:  'Jarling''s Custard Cup'
 - fields: 10
   img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
@@ -82,6 +89,13 @@
   lon: -88.249879
   mus: 14
   name:  'Hessel Park'
+- fields: 6
+  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
+  lat: 40.101327
+  level: 8
+  lon: -88.251412
+  mus: 13
+  name:  'Zeus Memorial'
 - fields: 1
   img:  'http://lh6.ggpht.com/iVHoGDIqnjdRupoPTpZLPtrzaCpEGW6HV4QHZ5WW185rmkrOxvl-C7uIN_gNZnCrm-djktoPC1J-9vjBZfCb1w'
   lat: 40.115718
@@ -117,6 +131,13 @@
   lon: -88.39221
   mus: 8
   name:  'dd9c9d84f4934d84a0769ff14c381db2.16'
+- fields: 5
+  img:  'http://lh3.ggpht.com/J_h4tdb4wqy8bmmQfDuy5yqTR2IlkzKojfvsMOvlD-3tf1pKxbDlhA6W9Q8RX-JaSxhItMr4bmCxiUQXTLbz'
+  lat: 40.10064
+  level: 7
+  lon: -88.24958
+  mus: 8
+  name:  'Edward A. Cousins Plaque'
 - fields: 9
   img:  'http://lh3.ggpht.com/G1CvGhpethi5UmprDWxZN9rTblHa3anSsQz1UPgJtkREkfN7lDFoxFObst0609Cg5mofuZxJKr0ddNKhY4VL'
   lat: 40.098464
@@ -124,20 +145,13 @@
   lon: -88.251426
   mus: 8
   name:  'Ruth Haasis Memorial'
-- fields: 4
-  img:  'http://lh5.ggpht.com/N1cFx79JwZqPlYPDW3HkNwRX8N4Auriii45qzYkAx9l-cKeK81qgZ6nuBpTBEIOyLzy4aIIhQKt2E7ZiysSjkg'
-  lat: 40.10036
+- fields: 3
+  img:  'http://lh5.ggpht.com/T0WLAJf0s4nu2Phxax31eu6pO6zNoA4JpvHMLyfMKttzJALEWB8EAWOziQwgjdWE3YjBbG1XjGYsgihqCSX9'
+  lat: 40.100414
   level: 8
-  lon: -88.250515
+  lon: -88.249061
   mus: 6
-  name:  'Mark Foutch Pavilion'
-- fields: 6
-  img:  'http://lh6.ggpht.com/3o0ObAARFV_8mBVCC_QD0iLOPVzNkakXybhLnSVEuXIJfDLKMxeYj-EkWIw9NPoZIVRf5Dkrid2yf_NEQ-iE'
-  lat: 40.100347
-  level: 8
-  lon: -88.249385
-  mus: 6
-  name:  'Travis Marmion Memorial'
+  name:  'Randy William Auteberry Memorial'
 - fields: 2
   img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
   lat: 40.107751
@@ -145,13 +159,6 @@
   lon: -88.231532
   mus: 5
   name:  'Graduate School of Library and Information Science'
-- fields: 4
-  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
-  lat: 40.101327
-  level: 8
-  lon: -88.251412
-  mus: 5
-  name:  'Zeus Memorial'
 - fields: 1
   img:  'http://lh5.ggpht.com/OF0rdXnVnZe6syFsa4G9CE6iyvhfoYQN3QH9RESyB78MTKDC2NXYJuVd0TAnACMccmsKXhNcBH6qzWy9DPQ'
   lat: 40.105073
@@ -160,19 +167,26 @@
   mus: 5
   name:  'University of Illinois Armory'
 - fields: 1
-  img:  'http://lh5.ggpht.com/T0WLAJf0s4nu2Phxax31eu6pO6zNoA4JpvHMLyfMKttzJALEWB8EAWOziQwgjdWE3YjBbG1XjGYsgihqCSX9'
-  lat: 40.100414
-  level: 8
-  lon: -88.249061
-  mus: 4
-  name:  'Randy William Auteberry Memorial'
-- fields: 1
   img:  'http://lh3.googleusercontent.com/__dofGL-oELNLYymrJ5VDONThxrG0oMe5aQcopgTFJgu56wHeV1y-scJDNms_C4LRoqDe-qKwDBNRNkCiJnNUQ'
   lat: 40.127703
   level: 4
   lon: -88.211526
   mus: 4
   name:  'Busey Woods Trail - Wet to Dry'
+- fields: 4
+  img:  'http://lh5.ggpht.com/8zq5tMevCiipZK8N9-8SZw3vdsA2HwH0E02ormQshGxHVZrB2WPK7OPC8zt6pjLlgpXVuEYHVA_08_Q8fPw-'
+  lat: 40.099647
+  level: 8
+  lon: -88.249648
+  mus: 4
+  name:  'Max Overmyer Memorial Playground'
+- fields: 3
+  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
+  lat: 40.100936
+  level: 8
+  lon: -88.250855
+  mus: 3
+  name:  'Donald F. Bresnan Memorial'
 - fields: 2
   img:  'http://lh4.ggpht.com/n7S7CjMfxfFwYHpq5HrRc6lFaFZYFVb4vYJAcTAc8MZgOgDNYI7QBChMeKIY-OSJkDSdwCf5KsJYmDesbHhq'
   lat: 40.127017
@@ -208,13 +222,6 @@
   lon: -88.223549
   mus: 2
   name:  'Colwell Playhouse'
-- fields: 2
-  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
-  lat: 40.100941
-  level: 8
-  lon: -88.251314
-  mus: 2
-  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
 - fields: 1
   img:  'http://lh6.ggpht.com/p2F3xw4xL4UdiMM9aSy628ISSglrvjPexpF3j340tMAP9MX07yh_sJv7kHVkeud8lyFf2ZwDohw3zsRS2PSd'
   lat: 40.093914
@@ -244,12 +251,33 @@
   mus: 2
   name:  'Campbell Hall'
 - fields: 2
-  img:  'http://lh5.ggpht.com/8zq5tMevCiipZK8N9-8SZw3vdsA2HwH0E02ormQshGxHVZrB2WPK7OPC8zt6pjLlgpXVuEYHVA_08_Q8fPw-'
-  lat: 40.099647
+  img:  'http://lh6.ggpht.com/3o0ObAARFV_8mBVCC_QD0iLOPVzNkakXybhLnSVEuXIJfDLKMxeYj-EkWIw9NPoZIVRf5Dkrid2yf_NEQ-iE'
+  lat: 40.100347
   level: 8
-  lon: -88.249648
+  lon: -88.249385
   mus: 2
-  name:  'Max Overmyer Memorial Playground'
+  name:  'Travis Marmion Memorial'
+- fields: 1
+  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
+  lat: 40.100941
+  level: 8
+  lon: -88.251314
+  mus: 1
+  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
+- fields: 1+
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.152192
+  level: '?'
+  lon: -88.252279
+  mus: 1
+  name:  'Toalson Park South Entrance'
+- fields: 1
+  img:  'http://lh6.ggpht.com/HvC073U-qgv-Zdd0zHS5_UQsybUORqZiuhnRY5V1bWxlRPwBG9564LEVab8tUebtP8OzNkBVp3K39WZkahjw'
+  lat: 40.118119
+  level: 5
+  lon: -88.24714
+  mus: 1
+  name:  'Police and Firefighters Memorial'
 - fields: 1
   img:  'http://lh5.ggpht.com/XSTOU98iZoBFcDNR_YYJQfmQaiD_vXAP5Z7R79nVC7k06VMhH8tHSb9Yb9Pe8OnV1svwvlvy6iyz6vMjg3_EzA'
   lat: 40.132804
