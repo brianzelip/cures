@@ -19,13 +19,6 @@
   lon: -88.292808
   mus: 77
   name:  'Campus Solar System - Mars'
-- fields: 4
-  img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
-  lat: 40.102188
-  level: 7
-  lon: -88.251507
-  mus: 54
-  name:  'Little Free Library Charter 5753'
 - fields: 6
   img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
   lat: 40.097979
@@ -103,13 +96,6 @@
   lon: -88.250539
   mus: 8
   name:  'Hessel Park'
-- fields: 4
-  img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
-  lat: 40.107629
-  level: 6
-  lon: -88.224484
-  mus: 8
-  name:  'Bucky Balls'
 - fields: 2+
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.203721
@@ -138,13 +124,6 @@
   lon: -88.249385
   mus: 7
   name:  'Travis Marmion Memorial'
-- fields: 4
-  img:  'http://lh3.ggpht.com/rm0mJKw5ksUEH6_YQLi-f3uo56Wv-4h1P-Q_Ws61holRtnLG9Qt0NObbSBzDxPm3tvIhWgzHLvftIMBC_5dZ'
-  lat: 40.118435
-  level: 6
-  lon: -88.247677
-  mus: 6
-  name:  'Burnham Athenaeum'
 - fields: 2
   img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
   lat: 40.107751
@@ -159,6 +138,13 @@
   lon: -88.231952
   mus: 5
   name:  'University of Illinois Armory'
+- fields: 2
+  img:  'http://lh4.ggpht.com/pWMrJGcrxdHbkyzK9GJLFBQdvgWtZzdJOIMHr66tCffHpsZd5e8NTrSPkYm0T9i4vtEVhARdLo6tZ7xLadU'
+  lat: 40.108294
+  level: 6
+  lon: -88.224348
+  mus: 4
+  name:  'Bird Of Prey Statue'
 - fields: 1
   img:  'http://lh5.ggpht.com/T0WLAJf0s4nu2Phxax31eu6pO6zNoA4JpvHMLyfMKttzJALEWB8EAWOziQwgjdWE3YjBbG1XjGYsgihqCSX9'
   lat: 40.100414
@@ -187,13 +173,6 @@
   lon: -88.291251
   mus: 4
   name:  'Staerkel Planetarium '
-- fields: 3
-  img:  'http://lh3.ggpht.com/NuEE1yevEulYAFm9UHYKLrX8fVNrXyLgFXbQ8kTjAKuT9w-Fkj18Pop2B2wikf21LHDU24uSUkIvXbfKyvy2'
-  lat: 40.11738
-  level: 7
-  lon: -88.250259
-  mus: 3
-  name:  'Heath & Vaughn Funeral Home'
 - fields: 2
   img:  'http://lh4.ggpht.com/n7S7CjMfxfFwYHpq5HrRc6lFaFZYFVb4vYJAcTAc8MZgOgDNYI7QBChMeKIY-OSJkDSdwCf5KsJYmDesbHhq'
   lat: 40.127017
@@ -208,20 +187,6 @@
   lon: -88.2091
   mus: 3
   name:  'Crystal Lake Park Aquatic Center'
-- fields: 1
-  img:  'http://lh5.ggpht.com/pSVHjk6puyYdv3ztHlpJGnbkZyGsGsirMnxkDhlt8UMko4AhtTQbrzwInBCu5lK4Ttf7furE5pNW2AZh8HuSZQ'
-  lat: 40.138109
-  level: 2
-  lon: -88.270158
-  mus: 2
-  name:  'Glory Center International Church'
-- fields: 1
-  img:  'http://lh4.ggpht.com/pWMrJGcrxdHbkyzK9GJLFBQdvgWtZzdJOIMHr66tCffHpsZd5e8NTrSPkYm0T9i4vtEVhARdLo6tZ7xLadU'
-  lat: 40.108294
-  level: 6
-  lon: -88.224348
-  mus: 2
-  name:  'Bird Of Prey Statue'
 - fields: 2
   img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
   lat: 40.098959
@@ -299,10 +264,3 @@
   lon: -88.250951
   mus: 1
   name:  'William C. Fox Waterway'
-- fields: 1
-  img:  'http://lh4.ggpht.com/7U0YXCB_DIhnqPJyjyLpNn6kg4lU8HvKL87ddBKWq1sptvVLvCEiCuNEnghQtqDGSN2OBNcOUK9nZcYjY4Vr'
-  lat: 40.107887
-  level: 5
-  lon: -88.225998
-  mus: 1
-  name:  'Lifesaving Antibiotic Plaque'
