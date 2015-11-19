@@ -47,20 +47,6 @@
   lon: -88.214409
   mus: 4775
   name:  'Iron Bee @ Pollenatarium'
-- fields: 2
-  img:  'http://lh4.ggpht.com/2j92v5RucwqepFVAGPjzWWGkGueAbE7ZlVAh_PKwLdaxCdQfFgDHv5eInFs1Hb3WRxkcliRx4YRrbp7McBI'
-  lat: 40.054626
-  level: 2
-  lon: -88.256104
-  mus: 4098
-  name:  'John L. Jones Park'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.037391
-  level: '?'
-  lon: -88.262565
-  mus: 4091
-  name:  'Willard Airport Fountain'
 - fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 39.970363
@@ -68,13 +54,6 @@
   lon: -88.349161
   mus: 3987
   name:  'b5cc5d8af6734321b8c8b1abb7dc3dc6.12'
-- fields: 4
-  img:  'http://lh4.ggpht.com/iq0AIMD1D6PFcLIIBflZ30Y-ohyBTSRFX0ET_F-b30QnrujDMBdye1grsSc7lKQxq9d_GdD8gqvQAK2c36U'
-  lat: 40.08146
-  level: 6
-  lon: -88.310362
-  mus: 3799
-  name:  'Stephens Family YMCA'
 - fields: 5+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.154669
@@ -82,12 +61,19 @@
   lon: -88.298035
   mus: 3695
   name:  'New Horizon Methodist Church'
-- fields: 3+
+- fields: 3
+  img:  'http://lh4.ggpht.com/iq0AIMD1D6PFcLIIBflZ30Y-ohyBTSRFX0ET_F-b30QnrujDMBdye1grsSc7lKQxq9d_GdD8gqvQAK2c36U'
+  lat: 40.08146
+  level: 6
+  lon: -88.310362
+  mus: 3640
+  name:  'Stephens Family YMCA'
+- fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.036745
   level: '?'
   lon: -88.263446
-  mus: 3494
+  mus: 3488
   name:  'University of Illinois Willard Airport'
 - fields: 4+
   img: http://i.imgur.com/LujBo5P.png
@@ -264,20 +250,6 @@
   lon: -88.299824
   mus: 165
   name:  'In Memory of Steve Barnhart'
-- fields: 2
-  img:  'http://lh4.ggpht.com/-P9_K1M8m41FpGEgfyih0JNuexcc1mtm7Hq3LOuozksba15MIQWefDgfBs20Uuf61Txiy9-ALeKCMVWuBi4'
-  lat: 40.083514
-  level: 7
-  lon: -88.276579
-  mus: 160
-  name:  'Christie Clinic Hospital '
-- fields: 1
-  img:  'http://lh3.googleusercontent.com/Bt3IS0wHTEIBXewdfdsA7Pg1GqaUcaidDmsRZoqzNtoliVB9SYnGVPSNB9OvFv_edjQhPesp7YV0GKSKZgk'
-  lat: 40.083988
-  level: 7
-  lon: -88.287936
-  mus: 159
-  name:  'Flower Island'
 - fields: 6
   img:  'http://lh5.ggpht.com/hyt1tgr8r9kkFsN0rOP1Hs4-eQkadvsRFAGCd7uSKtvgbFc9ThHgjAfizSArYfLvgYhYFD7nh-_Qm-TqcmBE'
   lat: 40.11894
@@ -379,7 +351,7 @@
 - fields: 11
   img:  'http://lh4.ggpht.com/vLN74xdc8Mdgab4UjP1QUbyX42bkPBXnIqzYzkmRDi4naHiBk2kM1wUA7Mx3Pxl1dpPoMBAg9pV956MqTDk'
   lat: 40.068391
-  level: 6
+  level: 7
   lon: -88.242282
   mus: 71
   name:  'Dohme Park Flags & Mural'
@@ -691,13 +663,6 @@
   lon: -88.210055
   mus: 30
   name:  'Lake House at Crystal Lake Park'
-- fields: 5
-  img:  'http://lh6.ggpht.com/cspFto0a9XfDVdl-Fqidc8Tfmq6jiYzEy-EH3_4t9noc0VwvurrqO2f0LBQ7OnHhVmZ4xvw0gRZBYmgSTFKK'
-  lat: 40.08388
-  level: 6
-  lon: -88.265186
-  mus: 30
-  name:  'Shield of Chichen Itza'
 - fields: 6
   img:  'http://lh6.ggpht.com/0vHaOKrH35vUHDfapI4QDvHSJLenhiXHIhdWBwVKzEB741Ky8B7mMeXnUtOlIYycCbLUO-dRzHZFrPQFFbFZ'
   lat: 40.085791
@@ -719,6 +684,13 @@
   lon: -88.289696
   mus: 29
   name:  'El Toro Fountain'
+- fields: 4
+  img:  'http://lh6.ggpht.com/cspFto0a9XfDVdl-Fqidc8Tfmq6jiYzEy-EH3_4t9noc0VwvurrqO2f0LBQ7OnHhVmZ4xvw0gRZBYmgSTFKK'
+  lat: 40.08388
+  level: 6
+  lon: -88.265186
+  mus: 29
+  name:  'Shield of Chichen Itza'
 - fields: 2
   img:  'http://lh4.ggpht.com/Oy0NzvODUpd5270gnNUQqxf4w1YUNzMwDdncW6PvKUb3y_ptImObTW3rbbHp_OYEUKTR37L61q3yuYr1GRSV'
   lat: 40.090259
@@ -957,13 +929,6 @@
   lon: -88.226931
   mus: 14
   name:  'Astronomy Department Sundial'
-- fields: 5
-  img:  'http://lh3.ggpht.com/ZKYFxa4_Jj-OpytEiNkFmQOVv42zvLK_5wEHxLncanKrdr7RjjSoG_UYFDX0CmCUupuU2d0MGQ3l1pbl0zF1'
-  lat: 40.083873
-  level: 6
-  lon: -88.265912
-  mus: 14
-  name:  'Dan Morrissey Park'
 - fields: 3
   img:  'http://lh3.ggpht.com/sMx0P-GO5ovW4D9GxUctotNYCfxZGhdOEhiL1DmdIK6HMtm6Q2YB4GNKL53HBW60hQRizKWO_neyW1gOFt4'
   lat: 40.068464
@@ -985,6 +950,13 @@
   lon: -88.200103
   mus: 13
   name:  'Meadowbrook Park Trail Map'
+- fields: 4
+  img:  'http://lh3.ggpht.com/ZKYFxa4_Jj-OpytEiNkFmQOVv42zvLK_5wEHxLncanKrdr7RjjSoG_UYFDX0CmCUupuU2d0MGQ3l1pbl0zF1'
+  lat: 40.083873
+  level: 6
+  lon: -88.265912
+  mus: 13
+  name:  'Dan Morrissey Park'
 - fields: 3
   img:  'http://lh5.ggpht.com/BRRDKCyBRSA90katSWGccxinlIeZVFPrMr-6O3bI9db463bYKB6Pb_Iw3vWmyCktM38SU4rZCqUAask_yJJ5'
   lat: 40.115438
@@ -1251,13 +1223,6 @@
   lon: -88.209274
   mus: 7
   name:  'North Woods Pavilion'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.036266
-  level: '?'
-  lon: -88.263549
-  mus: 7
-  name:  'The Art of Science'
 - fields: 1
   img:  'http://lh4.ggpht.com/lHmHpXRMH_OkQ_ZaCBKOe_1H4uKjbGtrlIrp1IWJE3ziHuH5jCVNEfDGTtuhBxGehg_MsT9WcAUXhpI692Y6_Q'
   lat: 40.103269
@@ -1692,20 +1657,6 @@
   lon: -88.401915
   mus: 1
   name:  'Fire Fighters Pavilion'
-- fields: 2
-  img:  'http://lh4.ggpht.com/EN7YTfA2hkKHBgucyx2FudbTwod0dGUfuekb2VFLAjuj-emNpWEKKgAPi1SN_vsdkbJblYOm5aYiA7MF8CA13A'
-  lat: 40.116655
-  level: 5
-  lon: -88.24954
-  mus: 1
-  name:  'John Patrick Sherlock Memorial Plaque'
-- fields: 2
-  img:  'http://lh4.ggpht.com/DXAAQEV-pW-laeGTPphalYn5MoUFYMOyKbjs7rL1bBgkOlCxtaEH7bLcuvNbiQTWzFZK1ZPcNbwuEjw20-od'
-  lat: 40.116869
-  level: 5
-  lon: -88.249849
-  mus: 1
-  name:  'Don and Ruth Dobbins Memorial'
 - fields: 1
   img:  'http://lh4.ggpht.com/TlG5EEvh_SZmKrAszUcimO4IIRD2zNw36GKbS6g-pdtCXlPZTjyA4q0KavljRDq1KMCcHgxs_OfHWjVYUvc'
   lat: 40.118705
@@ -1727,13 +1678,6 @@
   lon: -88.227412
   mus: 1
   name:  'Bus Stop - Illini Union, Westbound'
-- fields: 1
-  img:  'http://lh3.ggpht.com/I2Up882o0nHzQof3uWaDFK7KQHkYOu1XgKoXUgQotITYJDh--80GzLnOSI8TxKF3RxsF32zcsYmRF8Fiugpt'
-  lat: 40.116413
-  level: 7
-  lon: -88.249814
-  mus: 1
-  name:  'West Side Park'
 - fields: 3
   img:  'http://lh5.ggpht.com/NocB62Pnsk9rCOS8TWT0vfucrEDjwhiqaxl6SHRJjjHpHjSlG4IuSzbQb1B-SqYZVjQXekDUD0IZwmpMDycw'
   lat: 40.11108
@@ -1776,13 +1720,6 @@
   lon: -88.227236
   mus: 1
   name:  'Illini Union'
-- fields: 1
-  img:  'http://lh6.ggpht.com/9IW6Hm5bd65CbdAqPB8OgjAYQoF7CaPE37U44dbXIYzTWE7ulgSEzfxqVTOGVqCglU_0W2iHo9ZjRqRefq27'
-  lat: 40.116904
-  level: 5
-  lon: -88.249558
-  mus: 1
-  name:  'Gerald Guest Memorial Tree'
 - fields: 1
   img:  'http://lh6.ggpht.com/JeyTR9Ntp2SxIdvTxHGqu5zXzMo7stGncs5TYYFLlRf0WEb6U4dc4EOvDZ1szjub_UqgSO_HgZ7tUKs9PUAkEQ'
   lat: 40.109634
