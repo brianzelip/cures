@@ -376,18 +376,18 @@
   level: 5
   lon: -88.225998
   name:  'Lifesaving Antibiotic Plaque'
-- ap: 4785
-  img:  'http://lh4.ggpht.com/EsyXMnqVMX7wQ4YmoCFRiNljaJqaXrQvzyzzooqx2fPxCSkJMkdEssTbf618D8Qp9hh3E4Ud3hL1M3v-TsbO'
-  lat: 40.104688
-  level: 7
-  lon: -88.230676
-  name:  'Sousa Archives Center-Amer Music'
 - ap: 4635
   img:  'http://lh5.ggpht.com/OF0rdXnVnZe6syFsa4G9CE6iyvhfoYQN3QH9RESyB78MTKDC2NXYJuVd0TAnACMccmsKXhNcBH6qzWy9DPQ'
   lat: 40.105073
   level: 4
   lon: -88.231952
   name:  'University of Illinois Armory'
+- ap: 4785
+  img:  'http://lh4.ggpht.com/EsyXMnqVMX7wQ4YmoCFRiNljaJqaXrQvzyzzooqx2fPxCSkJMkdEssTbf618D8Qp9hh3E4Ud3hL1M3v-TsbO'
+  lat: 40.104688
+  level: 7
+  lon: -88.230676
+  name:  'Sousa Archives Center-Amer Music'
 - ap: 4598
   img:  'http://lh6.ggpht.com/6pMlM7pPsp-5PTNYZ8AJgo5ODURCPJO-_LigeHL2TMhjfK9MS17iEcpQqc89n5gyUdEO8seZrlThTGbKEqg'
   lat: 40.132999
@@ -497,17 +497,17 @@
   lon: -88.287039
   name:  'Parkland College'
 - ap: 3661
-  img:  'http://lh4.ggpht.com/GcCZ7JTzkEHTZnUWfpUgibDh2Wa4nzGM9-k13AG4I2RwFiPa6exz1vCzj7Hwvf_oPwJvYJt0xoRE6GZXmCMX'
-  lat: 40.132625
-  level: 6
-  lon: -88.292636
-  name:  'Campus Solar System - Earth'
-- ap: 3661
   img:  'http://lh4.ggpht.com/2JNDO54Hu2KzjIaEeCIFVgD7gEa5VXNBsIemFYp6cgiTUbsSpOwLTc-HqZb__uut24jHpVnQVokRVtL00ozu'
   lat: 40.132056
   level: 6
   lon: -88.292671
   name:  'Campus Solar System - Mercury'
+- ap: 3661
+  img:  'http://lh4.ggpht.com/GcCZ7JTzkEHTZnUWfpUgibDh2Wa4nzGM9-k13AG4I2RwFiPa6exz1vCzj7Hwvf_oPwJvYJt0xoRE6GZXmCMX'
+  lat: 40.132625
+  level: 6
+  lon: -88.292636
+  name:  'Campus Solar System - Earth'
 - ap: 3661
   img:  'http://lh6.ggpht.com/YEHyAsx3ysK3IxTTbSx5dLEcHRtRVKQ4XTvE0Kvkd3iIW3mA6lplwojkVOpWCemyQS6G3JESxZnMFQtVf7V3'
   lat: 40.11652
@@ -648,6 +648,12 @@
   name:  'Champaign Countys Lincoln'
 - ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.661003
+  level: '?'
+  lon: -86.207736
+  name:  'f17a7b50a64c4213b74e44dbb35a01f1.16'
+- ap: 2724
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.152792
   level: '?'
   lon: -88.253532
@@ -748,6 +754,18 @@
   level: '?'
   lon: -88.366258
   name:  'Filippos Pizza and Italian Food'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.963978
+  level: '?'
+  lon: -87.632299
+  name:  '85bcd2426f9a4116b47afa8aae88aa3b.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.964092
+  level: '?'
+  lon: -87.633659
+  name:  '16dd983c6c30490faf1c45bfd3e1ff1e.16'
 - ap: 2537
   img:  'http://lh4.ggpht.com/A15Qc2ImqJFORKlDItFStr3pkJ1pX5dRyG8VO6RoziKIqMOMMTQdJa-fUInsxL4o7Yxg1XNHfexBZuNAyLG0yw'
   lat: 40.132021
@@ -887,17 +905,17 @@
   lon: -88.241672
   name:  'Rehabilitation Education Center'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/mnyMwxXghZOmxdJw2eJk5U9A5sfO_QLi0eKc2knF3RS3bJhiIa0N7N75KIzjEehKD3ChMFgaOHVRltiOVAw'
-  lat: 40.125074
-  level: 1
-  lon: -88.251776
-  name:  'Spalding Recreation Center'
-- ap: 2537
   img:  'http://lh3.ggpht.com/kvJpDVeizd9sYgE0gsuLMptNV4trFwsY2y5QVAP_9RwWmIAb_1GOXGlJf0qViO7mywZQg7-Ky5pjxSPu22U'
   lat: 40.123653
   level: 5
   lon: -88.252479
   name:  'Spalding Park Playground Dedication'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/mnyMwxXghZOmxdJw2eJk5U9A5sfO_QLi0eKc2knF3RS3bJhiIa0N7N75KIzjEehKD3ChMFgaOHVRltiOVAw'
+  lat: 40.125074
+  level: 1
+  lon: -88.251776
+  name:  'Spalding Recreation Center'
 - ap: 2162
   img:  'http://lh6.ggpht.com/mKnh6CvhOm_8Kn26lJTmk71nbwSMS-i9VJ45CR83Z8wB6Qn-9JAiyt1GEfrWKkv51a_y-lbN8pO6R1L5EZWfzw'
   lat: 40.117349
@@ -923,17 +941,17 @@
   lon: -88.257672
   name:  'Friendship Crossing'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/1yq3oFq9p_Yl5cUf5h7IEfZPAbae2MT7lA0DFo1DHwPWPZJJ-Ez-2AE2oTzHEHWsEJQVUcUwh3j_d3kOYgDS'
-  lat: 40.110095
-  level: 5
-  lon: -88.22862
-  name:  'Alma Mater Plaza'
-- ap: 2537
   img:  'http://lh4.ggpht.com/u_MtizNv_keIXM4ITgtjqC8nr5JvB8UpDBg_5_08uQDTsQr44mwr6ZlkhTp0iKbvcV9xCJqXDeN66xYWaI0'
   lat: 40.116227
   level: 5
   lon: -88.233833
   name:  'Haley-Walker-Ginza Building'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/1yq3oFq9p_Yl5cUf5h7IEfZPAbae2MT7lA0DFo1DHwPWPZJJ-Ez-2AE2oTzHEHWsEJQVUcUwh3j_d3kOYgDS'
+  lat: 40.110095
+  level: 5
+  lon: -88.22862
+  name:  'Alma Mater Plaza'
 - ap: 2387
   img:  'http://lh5.ggpht.com/MWJ2u6CgyftB6h05_WRqj_eYi-vhbwuOZ_9mxAS3eS-wY6XbpKlfBgzmohkwEj6Q2FoR0mm678IAtKTcei8'
   lat: 40.106846
