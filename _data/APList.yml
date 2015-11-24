@@ -347,17 +347,17 @@
   lon: -88.257733
   name:  'Good Shepherd Lutheran Church'
 - ap: 4598
-  img:  'http://lh3.ggpht.com/2WMtYMnBjTlw-gPK9quwjMde6Heie7SQHCZT41kPiIpOwxXEIQWbB_euK-R5rZhqUcmGuZJ0tIBh_801KGyVsw'
-  lat: 40.11453
-  level: 3
-  lon: -88.227324
-  name:  'Beckman Institute - Upwells Fountain'
-- ap: 4598
   img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
   lat: 40.115838
   level: 5
   lon: -88.241338
   name:  'Illinois Terminal'
+- ap: 4598
+  img:  'http://lh3.ggpht.com/2WMtYMnBjTlw-gPK9quwjMde6Heie7SQHCZT41kPiIpOwxXEIQWbB_euK-R5rZhqUcmGuZJ0tIBh_801KGyVsw'
+  lat: 40.11453
+  level: 3
+  lon: -88.227324
+  name:  'Beckman Institute - Upwells Fountain'
 - ap: 4598
   img:  'http://lh6.ggpht.com/hPutcAvS7zQN-tagfEY-fvkvdlgj7j5sZwUSLY883Twc7tHyslIAp7lzWYciJmCytDfsbFQtavAlzqGwCgFZkw'
   lat: 40.105562
@@ -383,17 +383,17 @@
   lon: -88.243729
   name:  'The Phoenix'
 - ap: 4411
-  img:  'http://lh6.ggpht.com/XsUl74M1oxj6ptAvGEBOMH2wivRhxBNns62UJSGcPiQkuJIgPrmUYxMpSZZUfXRMMjrwoxlFK_DbAM78UrOh'
-  lat: 40.113499
-  level: 7
-  lon: -88.244374
-  name:  'Shatterglass Studios Mural'
-- ap: 4411
   img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
   lat: 40.116164
   level: 5
   lon: -88.241661
   name:  'Zipcar-45 E. University Avenue'
+- ap: 4411
+  img:  'http://lh6.ggpht.com/XsUl74M1oxj6ptAvGEBOMH2wivRhxBNns62UJSGcPiQkuJIgPrmUYxMpSZZUfXRMMjrwoxlFK_DbAM78UrOh'
+  lat: 40.113499
+  level: 7
+  lon: -88.244374
+  name:  'Shatterglass Studios Mural'
 - ap: 4411
   img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
   lat: 40.100691
@@ -551,17 +551,17 @@
   lon: -88.243766
   name:  'Mural on South Neil St.'
 - ap: 3474
-  img:  'http://lh5.ggpht.com/Tn5ARN-X6VTc2q6atZ2WYq3c2g3gbSGXu6_vXf1MDwHfLpdTtnQ-CilBAVGvL6R-SHhq3fJ4WZI-yiJKmIId'
-  lat: 40.110398
-  level: 7
-  lon: -88.235143
-  name:  'US Post Office, E Green St, Champaign'
-- ap: 3474
   img:  'http://lh4.ggpht.com/3gTAX6rKgNjLmBOYvAVTgSPQej5yRF_38uRllp9H4n5N6pvwWo5kDMDwlIkFVPPl30BXPSGAlZ9pO9B4DMk'
   lat: 40.116218
   level: 5
   lon: -88.242141
   name:  'Live Action Games'
+- ap: 3474
+  img:  'http://lh5.ggpht.com/Tn5ARN-X6VTc2q6atZ2WYq3c2g3gbSGXu6_vXf1MDwHfLpdTtnQ-CilBAVGvL6R-SHhq3fJ4WZI-yiJKmIId'
+  lat: 40.110398
+  level: 7
+  lon: -88.235143
+  name:  'US Post Office, E Green St, Champaign'
 - ap: 3474
   img:  'http://lh3.ggpht.com/KxQsev6i7POmNh1IadCWwWQSMdCuLIYpPwIdenSlVtzum523D1R-1kfeTbuOGTkt_jDwn4jswCu1edkumm2-'
   lat: 40.110037
@@ -809,6 +809,12 @@
   lon: -88.300552
   name:  'Powell Park'
 - ap: 2537
+  img:  'http://lh5.ggpht.com/ek0AuIkZd5CWKmIdjFjq5gOvptOzC8VJUnyatNG8ZyUoT8-mvkd4seW8Gpbl4kkgiatIbr57h5kK_5z6NSGD'
+  lat: 40.131581
+  level: 6
+  lon: -88.312816
+  name:  'Sunset Ridge Park'
+- ap: 2537
   img:  'http://lh4.ggpht.com/8P5hhE5TZ4YaB6llb92iCjtwvViBwm4xqutZjZ13XzDovJgr9ZMaiJnM0YqewgClg54QTmcvQ4wdHL3j_FjZ'
   lat: 40.097157
   level: 4
@@ -820,12 +826,6 @@
   level: 5
   lon: -88.294978
   name:  'Robeson Meadows Trail'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/ek0AuIkZd5CWKmIdjFjq5gOvptOzC8VJUnyatNG8ZyUoT8-mvkd4seW8Gpbl4kkgiatIbr57h5kK_5z6NSGD'
-  lat: 40.131581
-  level: 6
-  lon: -88.312816
-  name:  'Sunset Ridge Park'
 - ap: 2537
   img:  'http://lh6.ggpht.com/L2LdCXwXyxkV_ENkb567X8EtQ8713-lEbbpVfOAg4_yiMbHvUnq9u0Ks4DCgqlvRAUMgsoMJJR3RPsup2oU'
   lat: 40.122772
@@ -916,24 +916,18 @@
   level: 5
   lon: -88.243429
   name:  'C.V. Lloyde'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/VZT9NM5dfGAaJAZj9cFhDmCgknQCF0UI4Hv3AwcaZedRlXhGb2wfVLTFOWjtoSJRG7MEsjv784wAB1XZgQqpBA'
-  lat: 40.126642
-  level: 5
-  lon: -88.198163
-  name:  'Armored Gopher Games'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/g00CHgvPQnSjjPtDBIePwTKCNdh3HB7MmvYFvkSM7tmZuoBJ4WaKiltQhrfxIflpUy2xiNU-Z_Z2PGCTnXfK'
-  lat: 40.110725
-  level: 4
-  lon: -88.223784
-  name:  'Anthony Leggett Superfluidity Nobel Prize Memorial Plaque'
 - ap: 2462
   img:  'http://lh3.ggpht.com/kvJpDVeizd9sYgE0gsuLMptNV4trFwsY2y5QVAP_9RwWmIAb_1GOXGlJf0qViO7mywZQg7-Ky5pjxSPu22U'
   lat: 40.123653
   level: 5
   lon: -88.252479
   name:  'Spalding Park Playground Dedication'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/mnyMwxXghZOmxdJw2eJk5U9A5sfO_QLi0eKc2knF3RS3bJhiIa0N7N75KIzjEehKD3ChMFgaOHVRltiOVAw'
+  lat: 40.125074
+  level: 1
+  lon: -88.251776
+  name:  'Spalding Recreation Center'
 - ap: 2537
   img:  'http://lh3.ggpht.com/oHMQr2Z5LayQFbZOwOZK4ZbYQ1OVxs85-qNTvSj8epsP72vQiOdrzVmkuMPFQtCSf9Rr0oqcnSLFjLn-sPw'
   lat: 40.116592
@@ -947,11 +941,17 @@
   lon: -88.242268
   name:  'Esquire Lounge'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/mnyMwxXghZOmxdJw2eJk5U9A5sfO_QLi0eKc2knF3RS3bJhiIa0N7N75KIzjEehKD3ChMFgaOHVRltiOVAw'
-  lat: 40.125074
-  level: 1
-  lon: -88.251776
-  name:  'Spalding Recreation Center'
+  img:  'http://lh4.ggpht.com/VZT9NM5dfGAaJAZj9cFhDmCgknQCF0UI4Hv3AwcaZedRlXhGb2wfVLTFOWjtoSJRG7MEsjv784wAB1XZgQqpBA'
+  lat: 40.126642
+  level: 5
+  lon: -88.198163
+  name:  'Armored Gopher Games'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/g00CHgvPQnSjjPtDBIePwTKCNdh3HB7MmvYFvkSM7tmZuoBJ4WaKiltQhrfxIflpUy2xiNU-Z_Z2PGCTnXfK'
+  lat: 40.110725
+  level: 4
+  lon: -88.223784
+  name:  'Anthony Leggett Superfluidity Nobel Prize Memorial Plaque'
 - ap: 2537
   img:  'http://lh4.ggpht.com/1BgYrJYdcGdepVZ6ibhTjtjZ6MyzKnQzLL4wxEnn_CEPnrJmOKHzPXm1qinGRA78MqKq11gKRlprm3Z7mDr0'
   lat: 40.115645
