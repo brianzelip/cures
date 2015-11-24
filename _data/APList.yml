@@ -515,6 +515,12 @@
   lon: -88.243766
   name:  'Mural on South Neil St.'
 - ap: 3474
+  img:  'http://lh3.ggpht.com/KxQsev6i7POmNh1IadCWwWQSMdCuLIYpPwIdenSlVtzum523D1R-1kfeTbuOGTkt_jDwn4jswCu1edkumm2-'
+  lat: 40.110037
+  level: 6
+  lon: -88.23549
+  name:  'Red Lion'
+- ap: 3474
   img:  'http://lh5.ggpht.com/wX6-mbTE7nT00T6ildapKbI5ZrnhPIt4l91DhMseyo3GYFrgQIuqbjh8ntZY6NxGZ-qa6fKWlyoBOPdIdNIt'
   lat: 40.114653
   level: 5
@@ -526,12 +532,6 @@
   level: 7
   lon: -88.235143
   name:  'US Post Office, E Green St, Champaign'
-- ap: 3474
-  img:  'http://lh3.ggpht.com/KxQsev6i7POmNh1IadCWwWQSMdCuLIYpPwIdenSlVtzum523D1R-1kfeTbuOGTkt_jDwn4jswCu1edkumm2-'
-  lat: 40.110037
-  level: 6
-  lon: -88.23549
-  name:  'Red Lion'
 - ap: 3474
   img:  'http://lh5.ggpht.com/NUOCD82iNRGW1NGqEC4FKet1u5_cm4WRNc2c9_YABAjGf6-OSCLz7HgYkP1ZuVAbpMl6Qi10HRW16Oc9jNM2'
   lat: 40.106401
@@ -678,6 +678,18 @@
   name:  '93c0d9312c954795999f9d58ed088560.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.396552
+  level: '?'
+  lon: -86.283274
+  name:  'Kids Corner Park'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.052212
+  level: '?'
+  lon: -87.669411
+  name:  '104d9a0bac384f00b3dfa667adecb86a.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.496345
   level: '?'
   lon: -89.987075
@@ -694,18 +706,6 @@
   level: '?'
   lon: -88.372597
   name:  'ebaa4a5573f7449399263066d9248473.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.396552
-  level: '?'
-  lon: -86.283274
-  name:  'Kids Corner Park'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.052212
-  level: '?'
-  lon: -87.669411
-  name:  '104d9a0bac384f00b3dfa667adecb86a.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.371302
@@ -743,6 +743,12 @@
   lon: -88.300552
   name:  'Powell Park'
 - ap: 2537
+  img:  'http://lh5.ggpht.com/ek0AuIkZd5CWKmIdjFjq5gOvptOzC8VJUnyatNG8ZyUoT8-mvkd4seW8Gpbl4kkgiatIbr57h5kK_5z6NSGD'
+  lat: 40.131581
+  level: 6
+  lon: -88.312816
+  name:  'Sunset Ridge Park'
+- ap: 2537
   img:  'http://lh4.ggpht.com/8P5hhE5TZ4YaB6llb92iCjtwvViBwm4xqutZjZ13XzDovJgr9ZMaiJnM0YqewgClg54QTmcvQ4wdHL3j_FjZ'
   lat: 40.097157
   level: 4
@@ -754,12 +760,6 @@
   level: 5
   lon: -88.294978
   name:  'Robeson Meadows Trail'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/ek0AuIkZd5CWKmIdjFjq5gOvptOzC8VJUnyatNG8ZyUoT8-mvkd4seW8Gpbl4kkgiatIbr57h5kK_5z6NSGD'
-  lat: 40.131581
-  level: 6
-  lon: -88.312816
-  name:  'Sunset Ridge Park'
 - ap: 2537
   img:  'http://lh6.ggpht.com/L2LdCXwXyxkV_ENkb567X8EtQ8713-lEbbpVfOAg4_yiMbHvUnq9u0Ks4DCgqlvRAUMgsoMJJR3RPsup2oU'
   lat: 40.122772
@@ -821,6 +821,18 @@
   lon: -88.252345
   name:  'Toalson Park Basketball Hoop'
 - ap: 2537
+  img:  'http://lh4.ggpht.com/mnyMwxXghZOmxdJw2eJk5U9A5sfO_QLi0eKc2knF3RS3bJhiIa0N7N75KIzjEehKD3ChMFgaOHVRltiOVAw'
+  lat: 40.125074
+  level: 1
+  lon: -88.251776
+  name:  'Spalding Recreation Center'
+- ap: 2462
+  img:  'http://lh3.ggpht.com/kvJpDVeizd9sYgE0gsuLMptNV4trFwsY2y5QVAP_9RwWmIAb_1GOXGlJf0qViO7mywZQg7-Ky5pjxSPu22U'
+  lat: 40.123653
+  level: 5
+  lon: -88.252479
+  name:  'Spalding Park Playground Dedication'
+- ap: 2537
   img:  'http://lh4.ggpht.com/VZT9NM5dfGAaJAZj9cFhDmCgknQCF0UI4Hv3AwcaZedRlXhGb2wfVLTFOWjtoSJRG7MEsjv784wAB1XZgQqpBA'
   lat: 40.126642
   level: 5
@@ -832,18 +844,6 @@
   level: 4
   lon: -88.223784
   name:  'Anthony Leggett Superfluidity Nobel Prize Memorial Plaque'
-- ap: 2462
-  img:  'http://lh3.ggpht.com/kvJpDVeizd9sYgE0gsuLMptNV4trFwsY2y5QVAP_9RwWmIAb_1GOXGlJf0qViO7mywZQg7-Ky5pjxSPu22U'
-  lat: 40.123653
-  level: 5
-  lon: -88.252479
-  name:  'Spalding Park Playground Dedication'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/mnyMwxXghZOmxdJw2eJk5U9A5sfO_QLi0eKc2knF3RS3bJhiIa0N7N75KIzjEehKD3ChMFgaOHVRltiOVAw'
-  lat: 40.125074
-  level: 1
-  lon: -88.251776
-  name:  'Spalding Recreation Center'
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/8uMYuZy0Us1c6m26i0q3fiQ2sptx9Og4z2bMHuLtSt_Woc8U5yKYiXLiC2Oz38uiO4m3z3SU3svJ6uRX-_o'
   lat: 40.086941
@@ -880,12 +880,6 @@
   level: 2
   lon: -88.227238
   name:  'Flow'
-- ap: 2537
-  img:  'http://lh3.googleusercontent.com/78s4UE5PKzAAG8LQc8bJPPLK30nagQnB2-jzX2y9vVVAjUMejMsBGSAKck17bjgbH1Lndna45c3l7i6tR3A4'
-  lat: 40.112908
-  level: 7
-  lon: -88.237287
-  name:  'Stone Arch Bridge'
 - ap: 2237
   img:  'http://lh3.ggpht.com/tXDyz6XRrR2AKSg9Rrj1z6jBG4dz7uR9qFmSUO1bWljMEw67ncNiq-2Hx3O9Fs029iRtvCV1gdlGN7pG69L0'
   lat: 40.114104
@@ -893,11 +887,23 @@
   lon: -88.237694
   name:  'Lo Park Fountain'
 - ap: 2537
+  img:  'http://lh3.googleusercontent.com/78s4UE5PKzAAG8LQc8bJPPLK30nagQnB2-jzX2y9vVVAjUMejMsBGSAKck17bjgbH1Lndna45c3l7i6tR3A4'
+  lat: 40.112908
+  level: 7
+  lon: -88.237287
+  name:  'Stone Arch Bridge'
+- ap: 2537
   img:  'http://lh5.ggpht.com/3RfiPeOzF67ubNX-vkwUJ6-EYld6BKuoBernq0_9kOjlIsSPr3saR9FIQzN7uiw7ouF0CpNflOnL0mUj9zbqdQ'
   lat: 40.109452
   level: 7
   lon: -88.229031
   name:  'Illini Hall'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/9hzMj8KV-HraIucojjHAEgyMZsJAR9TWvNS-QSBB5LTYBOTwwqfTQySJ_Sz88eP3eyFWFYhx5qDVY93t8fk'
+  lat: 40.108032
+  level: 5
+  lon: -88.225702
+  name:  'Centennial Court'
 - ap: 2537
   img:  'http://lh6.ggpht.com/u5RIUNNvwmfVVArV3aMq1pfZJL1wQGlrpTVT3RVePYtS4tBgEWn6bO4_vXXd-PLfnv4OMHGt9iMRSOvNt7dr'
   lat: 40.103116
@@ -928,12 +934,6 @@
   level: 5
   lon: -88.225998
   name:  'Lifesaving Antibiotic Plaque'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/9hzMj8KV-HraIucojjHAEgyMZsJAR9TWvNS-QSBB5LTYBOTwwqfTQySJ_Sz88eP3eyFWFYhx5qDVY93t8fk'
-  lat: 40.108032
-  level: 5
-  lon: -88.225702
-  name:  'Centennial Court'
 - ap: 2462
   img:  'http://lh4.ggpht.com/ZwDzLvPP0KTL_mUj9ta-0DRkbA4q3X7b-r02bm3rTibFkPbu00GKehClddYfSkXbwVuJ4pjt4T7yo7ou54ov'
   lat: 40.111869
