@@ -684,6 +684,18 @@
   name:  'd5bb9b18391c4efdaaa840bc5cb2e015.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.286148
+  level: '?'
+  lon: -88.126397
+  name:  'b7462fe79c874282b8ca4240ac1d6f55.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.279711
+  level: '?'
+  lon: -88.346869
+  name:  'Sangamon River Forest Preserve'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.312242
   level: '?'
   lon: -88.201368
@@ -712,18 +724,6 @@
   level: '?'
   lon: -88.825678
   name:  '18a60ad859114794af8a0727ac0a9f4d.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.286148
-  level: '?'
-  lon: -88.126397
-  name:  'b7462fe79c874282b8ca4240ac1d6f55.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.279711
-  level: '?'
-  lon: -88.346869
-  name:  'Sangamon River Forest Preserve'
 - ap: 2537
   img:  'http://lh4.ggpht.com/A15Qc2ImqJFORKlDItFStr3pkJ1pX5dRyG8VO6RoziKIqMOMMTQdJa-fUInsxL4o7Yxg1XNHfexBZuNAyLG0yw'
   lat: 40.132021
@@ -880,12 +880,6 @@
   level: 2
   lon: -88.227238
   name:  'Flow'
-- ap: 2537
-  img:  'http://lh3.googleusercontent.com/78s4UE5PKzAAG8LQc8bJPPLK30nagQnB2-jzX2y9vVVAjUMejMsBGSAKck17bjgbH1Lndna45c3l7i6tR3A4'
-  lat: 40.112908
-  level: 7
-  lon: -88.237287
-  name:  'Stone Arch Bridge'
 - ap: 2237
   img:  'http://lh3.ggpht.com/tXDyz6XRrR2AKSg9Rrj1z6jBG4dz7uR9qFmSUO1bWljMEw67ncNiq-2Hx3O9Fs029iRtvCV1gdlGN7pG69L0'
   lat: 40.114104
@@ -893,17 +887,17 @@
   lon: -88.237694
   name:  'Lo Park Fountain'
 - ap: 2537
+  img:  'http://lh3.googleusercontent.com/78s4UE5PKzAAG8LQc8bJPPLK30nagQnB2-jzX2y9vVVAjUMejMsBGSAKck17bjgbH1Lndna45c3l7i6tR3A4'
+  lat: 40.112908
+  level: 7
+  lon: -88.237287
+  name:  'Stone Arch Bridge'
+- ap: 2537
   img:  'http://lh5.ggpht.com/3RfiPeOzF67ubNX-vkwUJ6-EYld6BKuoBernq0_9kOjlIsSPr3saR9FIQzN7uiw7ouF0CpNflOnL0mUj9zbqdQ'
   lat: 40.109452
   level: 7
   lon: -88.229031
   name:  'Illini Hall'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/9hzMj8KV-HraIucojjHAEgyMZsJAR9TWvNS-QSBB5LTYBOTwwqfTQySJ_Sz88eP3eyFWFYhx5qDVY93t8fk'
-  lat: 40.108032
-  level: 5
-  lon: -88.225702
-  name:  'Centennial Court'
 - ap: 2537
   img:  'http://lh6.ggpht.com/u5RIUNNvwmfVVArV3aMq1pfZJL1wQGlrpTVT3RVePYtS4tBgEWn6bO4_vXXd-PLfnv4OMHGt9iMRSOvNt7dr'
   lat: 40.103116
@@ -916,12 +910,6 @@
   level: 3
   lon: -88.229137
   name:  'Tree of Life Fantasy'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/7U0YXCB_DIhnqPJyjyLpNn6kg4lU8HvKL87ddBKWq1sptvVLvCEiCuNEnghQtqDGSN2OBNcOUK9nZcYjY4Vr'
-  lat: 40.107887
-  level: 5
-  lon: -88.225998
-  name:  'Lifesaving Antibiotic Plaque'
 - ap: 2237
   img:  'http://lh4.ggpht.com/EsyXMnqVMX7wQ4YmoCFRiNljaJqaXrQvzyzzooqx2fPxCSkJMkdEssTbf618D8Qp9hh3E4Ud3hL1M3v-TsbO'
   lat: 40.104688
@@ -934,6 +922,18 @@
   level: 4
   lon: -88.226125
   name:  'U of I Observatory'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/7U0YXCB_DIhnqPJyjyLpNn6kg4lU8HvKL87ddBKWq1sptvVLvCEiCuNEnghQtqDGSN2OBNcOUK9nZcYjY4Vr'
+  lat: 40.107887
+  level: 5
+  lon: -88.225998
+  name:  'Lifesaving Antibiotic Plaque'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/9hzMj8KV-HraIucojjHAEgyMZsJAR9TWvNS-QSBB5LTYBOTwwqfTQySJ_Sz88eP3eyFWFYhx5qDVY93t8fk'
+  lat: 40.108032
+  level: 5
+  lon: -88.225702
+  name:  'Centennial Court'
 - ap: 2462
   img:  'http://lh4.ggpht.com/ZwDzLvPP0KTL_mUj9ta-0DRkbA4q3X7b-r02bm3rTibFkPbu00GKehClddYfSkXbwVuJ4pjt4T7yo7ou54ov'
   lat: 40.111869
