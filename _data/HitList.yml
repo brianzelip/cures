@@ -1,3 +1,10 @@
+- fields: 6
+  img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
+  lat: 40.098239
+  level: 8
+  lon: -88.25376
+  mus: 496
+  name:  'Hessel Park Christian Reformed Church'
 - fields: 1
   img:  'http://lh5.ggpht.com/UnOCK4wTgvrT-rm-xLg_jv4qqEZwrBtco0XbXk7Lqvj_k78aLJQrjldFDRl-VuG4z2x41QuvXnODUJ93U3bj'
   lat: 40.105511
@@ -33,27 +40,27 @@
   lon: -88.235244
   mus: 39
   name:  'Bromley Hall'
-- fields: 10
-  img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
-  lat: 40.099852
-  level: 8
-  lon: -88.251947
-  mus: 32
-  name:  'Our Friend Tim Palmer'
-- fields: 12
-  img:  'http://lh6.ggpht.com/YdeB0EKlsopL39a9YXWj4JBZgXNNLWHgfe4PQzdpWCNWc0fR1YTj8WjARDHnmrusvKWTqKLcGg8U9frhtsw'
-  lat: 40.09821
-  level: 8
-  lon: -88.249879
-  mus: 20
-  name:  'Hessel Park'
-- fields: 8
+- fields: 11
   img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
   lat: 40.099737
   level: 8
   lon: -88.251157
-  mus: 18
+  mus: 25
   name:  'Tyler Van Atkins Memorial'
+- fields: 10
+  img:  'http://lh6.ggpht.com/YdeB0EKlsopL39a9YXWj4JBZgXNNLWHgfe4PQzdpWCNWc0fR1YTj8WjARDHnmrusvKWTqKLcGg8U9frhtsw'
+  lat: 40.09821
+  level: 8
+  lon: -88.249879
+  mus: 17
+  name:  'Hessel Park'
+- fields: 12
+  img:  'http://lh3.ggpht.com/G1CvGhpethi5UmprDWxZN9rTblHa3anSsQz1UPgJtkREkfN7lDFoxFObst0609Cg5mofuZxJKr0ddNKhY4VL'
+  lat: 40.098464
+  level: 8
+  lon: -88.251426
+  mus: 13
+  name:  'Ruth Haasis Memorial'
 - fields: 7
   img:  'http://lh5.ggpht.com/DFa-Mh8ldMlU5wGTYmJIGYKPoSYUfYebRpnom9j15NFNRkwMdU5kDME0GYQUyA_LXnsNi9Jka-xidd302s93'
   lat: 40.099056
@@ -82,13 +89,6 @@
   lon: -88.39221
   mus: 8
   name:  'dd9c9d84f4934d84a0769ff14c381db2.16'
-- fields: 9
-  img:  'http://lh3.ggpht.com/G1CvGhpethi5UmprDWxZN9rTblHa3anSsQz1UPgJtkREkfN7lDFoxFObst0609Cg5mofuZxJKr0ddNKhY4VL'
-  lat: 40.098464
-  level: 8
-  lon: -88.251426
-  mus: 8
-  name:  'Ruth Haasis Memorial'
 - fields: 4
   img:  'http://lh4.ggpht.com/0UzQDuaKLiiPhEgEmKghfkzvXj6lROhxPIDJuI4nWLJFvdxJwGNcJZ1va0K_9cy4L2u0Zyeqv_qlIAwch5o'
   lat: 40.133475
@@ -118,6 +118,20 @@
   mus: 4
   name:  'Gabriel Patrick Maxeiner Memorial Plaque'
 - fields: 2
+  img:  'http://lh6.ggpht.com/pJ6tplh0N7msB5KPVdko5jnm8iOWp2nYvwj7PLdT4kvt0PLvNpLPtETG61IjI_bgGJ3UtidjV7AytpU9sNjm'
+  lat: 40.11215
+  level: 4
+  lon: -88.208835
+  mus: 2
+  name:  'Bennet Building'
+- fields: 4
+  img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
+  lat: 40.098246
+  level: 8
+  lon: -88.251974
+  mus: 2
+  name:  'Hessel Park'
+- fields: 2
   img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
   lat: 40.098959
   level: 8
@@ -145,13 +159,6 @@
   lon: -88.244122
   mus: 2
   name:  'Artistic Graffiti at MCS'
-- fields: 3
-  img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
-  lat: 40.098246
-  level: 8
-  lon: -88.251974
-  mus: 2
-  name:  'Hessel Park'
 - fields: 1
   img:  'http://lh5.ggpht.com/NUOCD82iNRGW1NGqEC4FKet1u5_cm4WRNc2c9_YABAjGf6-OSCLz7HgYkP1ZuVAbpMl6Qi10HRW16Oc9jNM2'
   lat: 40.106401
@@ -180,6 +187,13 @@
   lon: -88.228733
   mus: 1
   name:  'The Centennial Colophon'
+- fields: 1
+  img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
+  lat: 40.100822
+  level: 8
+  lon: -88.25193
+  mus: 1
+  name:  'Seeds of Kindness Bench'
 - fields: 2+
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.194971
@@ -187,10 +201,3 @@
   lon: -88.403465
   mus: 1
   name:  '9ac55f1a3bf140e5abc27bbc95fb2036.16'
-- fields: 1
-  img:  'http://lh6.ggpht.com/pJ6tplh0N7msB5KPVdko5jnm8iOWp2nYvwj7PLdT4kvt0PLvNpLPtETG61IjI_bgGJ3UtidjV7AytpU9sNjm'
-  lat: 40.11215
-  level: 4
-  lon: -88.208835
-  mus: 1
-  name:  'Bennet Building'
