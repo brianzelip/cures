@@ -26,6 +26,27 @@
   lon: -88.40232
   mus: 10674
   name:  'First Baptist Church'
+- fields: 1
+  img:  'http://lh5.ggpht.com/vIWBGp8W4nwclMUOcj6ul2g5_qjF1rYSOjHsLZ8d4p11p_RXnhhEdDBZrLf_vBEMg1zCua7biM_GIGIOTew'
+  lat: 40.084907
+  level: 5
+  lon: -88.209269
+  mus: 4822
+  name:  'Stone Creek Church'
+- fields: 1+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.110982
+  level: '?'
+  lon: -88.163907
+  mus: 4822
+  name:  'Urbana Post Office'
+- fields: 1
+  img:  'http://lh3.ggpht.com/0NohpRguugkeCSzUJOqr7lYZsge5BLCbvWjWgDb3GFPe1uu8L6PXoPHL_90_p-1zU82bRB59DxMUCZFATSA'
+  lat: 40.110813
+  level: 5
+  lon: -88.210005
+  mus: 4822
+  name:  'Bench'
 - fields: 4+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.167518
@@ -187,27 +208,6 @@
   lon: -88.229679
   mus: 457
   name:  'Pilgrim Missionary Baptist Church'
-- fields: 2
-  img:  'http://lh5.ggpht.com/KZJcVtx_m6ybJt7v2wXtmd--6BMUPvbKoZDQp6PECu5NOWi8YdxWsFRLQ6wmR5cRPRa67wrNsa7mcLFyAmVx'
-  lat: 40.109336
-  level: 6
-  lon: -88.208978
-  mus: 450
-  name:  'Korean New Life Church'
-- fields: 3
-  img:  'http://lh3.ggpht.com/nEmxwddo6XwjpSBtzzXHCx_v9wYD5ITuVRx4VF0emrxiLFZGpsBb4HkcXFS4BAR3ZhrmD8t2YDKEWF7NGxV7'
-  lat: 40.099595
-  level: 7
-  lon: -88.206642
-  mus: 443
-  name:  'Blair Park Shuffle Board Courts'
-- fields: 1
-  img:  'http://lh6.ggpht.com/tTU-Y5FRAb4F92hceoxPTuE4REQk2A9674rjMKsbcjBvAo4QT0vO_hstMwuRjymG8xwGglkae1Jcxli35886tHdHOqWzAvkKEzTz5eIiZIZV76hTZQ'
-  lat: 40.108646
-  level: 6
-  lon: -88.219838
-  mus: 434
-  name:  'Hallene Gateway'
 - fields: 6+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.195404
@@ -351,7 +351,7 @@
 - fields: 2
   img:  'http://lh5.ggpht.com/B8Rn2SSli9Gp6boevvgCFQmdAqu5SZyleVSIDEBfrAA-2kYvtvM5aI756gykEkV4Ycy7BQvvS-3_O-nAMllfhg'
   lat: 40.113028
-  level: 7
+  level: 5
   lon: -88.276537
   mus: 90
   name:  'The New Fellowship Corner'
@@ -810,20 +810,6 @@
   lon: -88.214035
   mus: 17
   name:  'Crystal Lake Labyrinth'
-- fields: 2
-  img:  'http://lh4.ggpht.com/EveE1r4LU3oEoTrxc2hAzywPFArsSkIcAydfuBtNSmnwv76V6mqWgNEpe7srr7g3ZAOILSYHsfCdLLlwzU-9VA'
-  lat: 40.110716
-  level: 7
-  lon: -88.207208
-  mus: 17
-  name:  'Seasons Mural'
-- fields: 1
-  img:  'http://lh3.ggpht.com/0NohpRguugkeCSzUJOqr7lYZsge5BLCbvWjWgDb3GFPe1uu8L6PXoPHL_90_p-1zU82bRB59DxMUCZFATSA'
-  lat: 40.110813
-  level: 2
-  lon: -88.210005
-  mus: 17
-  name:  'Bench'
 - fields: 3
   img:  'http://lh5.ggpht.com/OjHvATZsWSqcIG4MCHe5lUc8sE12iGmAJiQ_pp4ttXXy6QR3QTJ9OiFqGfdFxEbY6WMTgh_Vl2WcqFK0ptEn'
   lat: 40.086227
@@ -957,6 +943,13 @@
   lon: -88.281912
   mus: 10
   name:  'Westminster Presbyterian Church'
+- fields: 2
+  img:  'http://lh3.ggpht.com/nEmxwddo6XwjpSBtzzXHCx_v9wYD5ITuVRx4VF0emrxiLFZGpsBb4HkcXFS4BAR3ZhrmD8t2YDKEWF7NGxV7'
+  lat: 40.099595
+  level: 7
+  lon: -88.206642
+  mus: 10
+  name:  'Blair Park Shuffle Board Courts'
 - fields: 2
   img:  'http://lh6.ggpht.com/LVoGz75uEbzBIHab_ek4_2onuT-7Ow81Pj41mGU3rfgYArGKILIbviOC6pY-ZijVs4KcHd-ZD_WmLcCaImyC'
   lat: 40.119406
@@ -1447,6 +1440,13 @@
   lon: -88.206203
   mus: 1
   name:  'Zeb'
+- fields: 1
+  img:  'http://lh4.ggpht.com/EveE1r4LU3oEoTrxc2hAzywPFArsSkIcAydfuBtNSmnwv76V6mqWgNEpe7srr7g3ZAOILSYHsfCdLLlwzU-9VA'
+  lat: 40.110716
+  level: 7
+  lon: -88.207208
+  mus: 1
+  name:  'Seasons Mural'
 - fields: 1
   img:  'http://lh3.ggpht.com/KnNYiTjbSfT8lzl-5r3OkJW1ptOP-d5JkDibk9pg1eydNzpy_IgdiC-kCRNUSoBP9nFsblvWr7t9IC4qMU0'
   lat: 40.109369

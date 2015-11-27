@@ -233,12 +233,6 @@
   lon: -88.249214
   name:  'Bette McKown Honorary'
 - ap: 5161
-  img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
-  lat: 40.100691
-  level: 8
-  lon: -88.251337
-  name:  'In Loving Memory of Zeus'
-- ap: 5161
   img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
   lat: 40.100286
   level: 8
@@ -250,6 +244,12 @@
   level: 8
   lon: -88.249603
   name:  'Chef Ra Memorial Plaque'
+- ap: 5161
+  img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
+  lat: 40.100691
+  level: 8
+  lon: -88.251337
+  name:  'In Loving Memory of Zeus'
 - ap: 5161
   img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
   lat: 40.098688
@@ -496,10 +496,10 @@
   level: 4
   lon: -88.208181
   name:  'Urbana Cinema'
-- ap: 3174
+- ap: 3099
   img:  'http://lh6.ggpht.com/pJ6tplh0N7msB5KPVdko5jnm8iOWp2nYvwj7PLdT4kvt0PLvNpLPtETG61IjI_bgGJ3UtidjV7AytpU9sNjm'
   lat: 40.11215
-  level: 3
+  level: 2
   lon: -88.208835
   name:  'Bennet Building'
 - ap: 3324
@@ -540,18 +540,6 @@
   name:  'U of I Observatory'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.764911
-  level: '?'
-  lon: -87.293214
-  name:  '567698a717c5464b81878b878a2d9a91.12'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.777203
-  level: '?'
-  lon: -87.163185
-  name:  'ba3253a4af6e4270bbba4878f283b7ef.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.120515
   level: '?'
   lon: -88.931182
@@ -562,6 +550,18 @@
   level: '?'
   lon: -90.102479
   name:  '146bf9ec43834fe09a0c188e725d2a0c.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.764911
+  level: '?'
+  lon: -87.293214
+  name:  '567698a717c5464b81878b878a2d9a91.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.777203
+  level: '?'
+  lon: -87.163185
+  name:  'ba3253a4af6e4270bbba4878f283b7ef.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.304428
