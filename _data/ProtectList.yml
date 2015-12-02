@@ -950,20 +950,6 @@
   lon: -88.207829
   mus: 36
   name:  'Windmill at Meadowbrook Park'
-- fields: 2
-  img:  'http://lh6.ggpht.com/uaO1clC1eOzxRVRPPU6mVM4lEPV2U6uxh64a8kJNRglHSObClWlHGEcfJTknzwB_7Wli3doxQJbZKiBHIXI'
-  lat: 40.102834
-  level: 7
-  lon: -88.241672
-  mus: 35
-  name:  'Rehabilitation Education Center'
-- fields: 2
-  img:  'http://lh4.ggpht.com/zZ2YpVpDiI1KdIQ9iI7mGJD_VtwFztJ4ZF1vRehD9OSnQ2K3433SIg22svwcqDJVfeO2fjE3fdT4eHAJWGpi'
-  lat: 40.104339
-  level: 6
-  lon: -88.234788
-  mus: 35
-  name:  'Pi Kappa Phi Fraternity'
 - fields: 3
   img:  'http://lh4.ggpht.com/4pxL0jEBlvHiFP3fcYdIWIAHRpyhg2RaH6Ikze3DLOSsA509375IHgRzptCjWZryzLqpuDEYLZTFDbwSKmE'
   lat: 40.117343
@@ -1153,13 +1139,6 @@
   lon: -88.221178
   mus: 20
   name:  'Allen Residence Hall Unit One'
-- fields: 1
-  img:  'http://lh3.ggpht.com/2bCNiD7SWsS3uzFLMO2cZh-LpHUEMQGnfTmcNx5vJapXho2TuXke630-7zop2Sq4fuY8nWVqy4VCG23mvnIJ'
-  lat: 40.104168
-  level: 5
-  lon: -88.238808
-  mus: 20
-  name:  'Alpha Gamma Rho'
 - fields: 2
   img:  'http://lh6.ggpht.com/Pvgc8EILl7jWftQ3dvPTZTa98KpCUdaq9yHkecl-ZIKR_whDQCQrKSwrdX56lqH7d7ma5TsbyH70RvcdhLSp-T_4IjJqzXAbRhLMMkEpNo9gayrY'
   lat: 40.080493
@@ -1266,12 +1245,26 @@
   mus: 16
   name:  'Dancing Horse Metalwork Art'
 - fields: 1
+  img:  'http://lh6.ggpht.com/uaO1clC1eOzxRVRPPU6mVM4lEPV2U6uxh64a8kJNRglHSObClWlHGEcfJTknzwB_7Wli3doxQJbZKiBHIXI'
+  lat: 40.102834
+  level: 7
+  lon: -88.241672
+  mus: 16
+  name:  'Rehabilitation Education Center'
+- fields: 1
   img:  'http://lh4.ggpht.com/EsyXMnqVMX7wQ4YmoCFRiNljaJqaXrQvzyzzooqx2fPxCSkJMkdEssTbf618D8Qp9hh3E4Ud3hL1M3v-TsbO'
   lat: 40.104688
   level: 5
   lon: -88.230676
   mus: 16
   name:  'Sousa Archives Center-Amer Music'
+- fields: 1
+  img:  'http://lh4.ggpht.com/zZ2YpVpDiI1KdIQ9iI7mGJD_VtwFztJ4ZF1vRehD9OSnQ2K3433SIg22svwcqDJVfeO2fjE3fdT4eHAJWGpi'
+  lat: 40.104339
+  level: 6
+  lon: -88.234788
+  mus: 16
+  name:  'Pi Kappa Phi Fraternity'
 - fields: 1
   img:  'http://lh6.ggpht.com/3SaonyLU_evy1YzQKwgtBDaqXYmjw8T23hTzjuYRMKiAuUQhggQrma2fSybhpdItiFt7zHajL_U2nIa8UcDx'
   lat: 40.107526
@@ -1366,7 +1359,7 @@
 - fields: 2
   img:  'http://lh3.ggpht.com/lGjbP2iz0XvlEWLhgCBNqkWukvjrBowKmX-1_O44U1A3_4b3-vuXzkfp7rasqU81TcPBoQO82gAzEGtBBYcR'
   lat: 40.106058
-  level: 3
+  level: 2
   lon: -88.223672
   mus: 12
   name:  'Music Building'
@@ -1506,7 +1499,7 @@
 - fields: 1
   img:  'http://lh5.ggpht.com/BPYtoLzDqibtj79fwGYxizNqHsBoJp5OzVO4Z-75rudKppazgw7D0eoXHOpH20iQd2Uc9MHXs72-r7fOJDNzpz3KRHIpZwzmXBope3LI8GA4SfsY'
   lat: 40.117754
-  level: 5
+  level: 3
   lon: -88.241676
   mus: 8
   name:  'Jos. Kuhn and Co. Building'
@@ -2206,7 +2199,7 @@
 - fields: 1
   img:  'http://lh4.ggpht.com/1viU2QjcAXgQcuyp6MBKY1751-1JGn5AfSHPcgvBGNOyXrKvvAXsCUrrW9_0w9LjaeyscKqh8v2rrMp3Gxoaeg'
   lat: 40.117134
-  level: 5
+  level: 4
   lon: -88.244337
   mus: 1
   name:  'Downtown Flower Island'
