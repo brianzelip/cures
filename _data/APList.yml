@@ -503,17 +503,17 @@
   lon: -88.612411
   name:  'bf36781a29324e90ba5e642026048116.16'
 - ap: 3661
-  img:  'http://lh5.ggpht.com/ulBje3DZHcOGkPDTXihNL1tamRAm_GO1CREW8fA5fV0Znq1eF2J1hnbSZh35emEA1h9cL1qTj9FqGtb8VywgXQ'
-  lat: 40.13765
-  level: 6
-  lon: -88.273074
-  name:  'Garden Hills Park'
-- ap: 3661
   img:  'http://lh6.ggpht.com/9ocSZtxwhI0ZOXkGFEbDOH1572LrymOwYpROz-hP90Uk4BAS8FIjCB4GXt2ndpQrlEV-tG4qc0zoMlk9693z'
   lat: 40.12977
   level: 7
   lon: -88.271927
   name:  'Citizens Park'
+- ap: 3661
+  img:  'http://lh5.ggpht.com/ulBje3DZHcOGkPDTXihNL1tamRAm_GO1CREW8fA5fV0Znq1eF2J1hnbSZh35emEA1h9cL1qTj9FqGtb8VywgXQ'
+  lat: 40.13765
+  level: 6
+  lon: -88.273074
+  name:  'Garden Hills Park'
 - ap: 3661
   img:  'http://lh5.ggpht.com/FEi_8ic1_FXYTyUlXgNz6IOiBsLCPTURCMQCXc2T-lpcQV-d_wdBC3YEDYltNn09_oi76voYbhGSi8P6r6QZ'
   lat: 40.141914
@@ -546,18 +546,6 @@
   name:  'Jolly Roger'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.117101
-  level: '?'
-  lon: -90.578548
-  name:  '2d6f2b3aab164d31bf76bc3ee37a01b2.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.116844
-  level: '?'
-  lon: -90.57905
-  name:  'daf8a3879ac84969bda6530c089615a6.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.459463
   level: '?'
   lon: -88.38208
@@ -574,6 +562,18 @@
   level: '?'
   lon: -90.565387
   name:  '87f87355a69d4232b67135d067a85cbc.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.117101
+  level: '?'
+  lon: -90.578548
+  name:  '2d6f2b3aab164d31bf76bc3ee37a01b2.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.116844
+  level: '?'
+  lon: -90.57905
+  name:  'daf8a3879ac84969bda6530c089615a6.16'
 - ap: 3474
   img:  'http://lh3.googleusercontent.com/enpZZ8JRREFPTvYd3jbeUlpS-mmcwKe5fsvoWRPkfMUj6PijyI-5tbR55UItBoNJAFSl9fAAOvXb6BpWCJT4'
   lat: 40.102495
@@ -660,12 +660,6 @@
   name:  'Filippos Pizza and Italian Food'
 - ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.953922
-  level: '?'
-  lon: -88.574549
-  name:  'fce2bfabd04b47c6bf10ed21d13b7f5b.16'
-- ap: 2724
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.178857
   level: '?'
   lon: -88.389902
@@ -676,6 +670,12 @@
   level: '?'
   lon: -88.42641
   name:  'Seymour Village Fire Department'
+- ap: 2724
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.953922
+  level: '?'
+  lon: -88.574549
+  name:  'fce2bfabd04b47c6bf10ed21d13b7f5b.16'
 - ap: 2724
   img:  'http://lh6.ggpht.com/Jltxi7PZ9OVi8hBCUxdt9oxXQk9zmbrtHpM_jru2WhVYyY0UkNZ8h5SU3CdwMRNzZ1ZKabPR8hDCPz7p3Ms'
   lat: 40.114439
@@ -756,28 +756,10 @@
   name:  'Meadowbrook Trail Map'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.123136
+  lat: 40.565188
   level: '?'
-  lon: -90.563386
-  name:  '4a01fe6406044bf5bdb7e4ddd3e3c48a.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.641568
-  level: '?'
-  lon: -88.781298
-  name:  '306e2089178a442b8a2da3f9cdcb4f35.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.238934
-  level: '?'
-  lon: -88.192727
-  name:  '0a105a5ba80d4cc7a7f8434e0dc8effb.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.285989
-  level: '?'
-  lon: -88.127072
-  name:  'Paul Fraser Kent Memorial'
+  lon: -88.61306
+  name:  '6ab35b80fa5949c990af0fe7eb3db8c8.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.31059
@@ -786,10 +768,16 @@
   name:  'AMVETS Post 52'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.565188
+  lat: 40.286148
   level: '?'
-  lon: -88.61306
-  name:  '6ab35b80fa5949c990af0fe7eb3db8c8.16'
+  lon: -88.126397
+  name:  'b7462fe79c874282b8ca4240ac1d6f55.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.122734
+  level: '?'
+  lon: -90.563683
+  name:  '4a0d09e4d9a74c248eb883235ff67921.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.385176
@@ -804,10 +792,22 @@
   name:  '66e88363dcee42a59e3b98f4d18fbcdc.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.54309
+  lat: 40.040518
   level: '?'
-  lon: -88.716455
-  name:  'b066df9093c44522b31286625e7670d0.12'
+  lon: -88.384748
+  name:  'St Boniface Catholic Church'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.238934
+  level: '?'
+  lon: -88.192727
+  name:  '0a105a5ba80d4cc7a7f8434e0dc8effb.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.285989
+  level: '?'
+  lon: -88.127072
+  name:  'Paul Fraser Kent Memorial'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.010067
@@ -816,22 +816,22 @@
   name:  'fcf57a81635d4831a6745902a1c88734.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.122734
+  lat: 40.123136
   level: '?'
-  lon: -90.563683
-  name:  '4a0d09e4d9a74c248eb883235ff67921.16'
+  lon: -90.563386
+  name:  '4a01fe6406044bf5bdb7e4ddd3e3c48a.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.040518
+  lat: 40.641568
   level: '?'
-  lon: -88.384748
-  name:  'St Boniface Catholic Church'
+  lon: -88.781298
+  name:  '306e2089178a442b8a2da3f9cdcb4f35.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.286148
+  lat: 40.54309
   level: '?'
-  lon: -88.126397
-  name:  'b7462fe79c874282b8ca4240ac1d6f55.16'
+  lon: -88.716455
+  name:  'b066df9093c44522b31286625e7670d0.12'
 - ap: 2537
   img:  'http://lh6.ggpht.com/pRR6eCp2PyD3vDZlmHjKOeq8OKg0KhFPVnuWAP-pB7RR36eKA3TlQwYX5pwYfBjPyVyB4oPXXOomdbqpVcY'
   lat: 40.116065
@@ -868,22 +868,10 @@
   level: 4
   lon: -88.248271
   name:  'Still Waters'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/m3dZgxR8wnyRzox-3ZP4-LHNEEdyXpj_mwwFjAQW2cC5O2CtFGT8EpOlrSvwGKeBt7Kl5vhdHNZlui0wBGLPMg'
-  lat: 40.090953
-  level: 2
-  lon: -88.274185
-  name:  'Robert P. Simon Trail'
-- ap: 2237
-  img:  'http://lh6.ggpht.com/wNRP75KigUqlahXLbqAEKGIz2n2kFEiPnl8N9wYTLbnMdYASRbhsFYo33DyVRETf0fgmad8RuO3z7j3tV50'
-  lat: 40.097001
-  level: 1
-  lon: -88.276242
-  name:  'Robert P. Simon Trail'
-- ap: 2537
+- ap: 2312
   img:  'http://lh3.ggpht.com/LI2lDP17lvIghR6Sltj6ECmzcCBHl8dTLBG7BVkPOqTkM9h8PGuXRp7mS8x3bxL-pbQzjV2HyP1y8XWbUzi4'
   lat: 40.100762
-  level: 6
+  level: 4
   lon: -88.282846
   name:  'Sholem Aquatic Center '
 - ap: 2537
@@ -910,6 +898,18 @@
   level: 6
   lon: -88.239027
   name:  'Human Kinetics Park'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/nWEtxuKQdy0teBBue1DYmG7P3SF5-3A6zlB7GwVHBWlolAZYGq6Br78lWcF9ltFy-KeSlozXie2RmU6JfCUX'
+  lat: 40.142673
+  level: 5
+  lon: -88.244603
+  name:  'Italian Statue'
+- ap: 2537
+  img:  'http://lh3.googleusercontent.com/hJZWoErzM-MuXulq4FlhlZwMbJX1Isd81GBUBVKayd57jVIVxUle3itd-1DRKo2VaNXznWr1X639fa44Etk'
+  lat: 40.141919
+  level: 5
+  lon: -88.244611
+  name:  'Marketplace Mall Carousel'
 - ap: 2537
   img:  'http://lh5.ggpht.com/wX6-mbTE7nT00T6ildapKbI5ZrnhPIt4l91DhMseyo3GYFrgQIuqbjh8ntZY6NxGZ-qa6fKWlyoBOPdIdNIt'
   lat: 40.114653
@@ -1043,17 +1043,17 @@
   lon: -88.20772
   name:  'Station Theatre Memory Bench  '
 - ap: 2537
-  img:  'http://lh6.ggpht.com/ARxGPDwwD9zGWfT9onLvNXRMYpYW0G7tL4osRfuUfWaG2wAJR486QSRQ_1dw-pJZMHccKUnSShoDVMijLRTh5g'
-  lat: 40.07961
-  level: 4
-  lon: -88.209169
-  name:  'Wildflower Walk'
-- ap: 2537
   img:  'http://lh6.ggpht.com/UXx9XSWX3zuym6SdX68IXNFYcpnbhGuF7Zk3taO-TJ2VI_LvwmooNWjUHb8OIgKsjyto3PT7YU0D-Y7HW7c'
   lat: 40.077643
   level: 3
   lon: -88.208694
   name:  'El-Ahrairah'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/ARxGPDwwD9zGWfT9onLvNXRMYpYW0G7tL4osRfuUfWaG2wAJR486QSRQ_1dw-pJZMHccKUnSShoDVMijLRTh5g'
+  lat: 40.07961
+  level: 4
+  lon: -88.209169
+  name:  'Wildflower Walk'
 - ap: 2537
   img:  'http://lh6.ggpht.com/XqG3n3J3bCj61mM2c6ByPJaWYXv51nQkx7me8714asRsez8kx_rSW4mwH2Rm8Y6Yibx71YB6kMcbAYpGch4'
   lat: 40.079324
