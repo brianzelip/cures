@@ -178,18 +178,18 @@
   level: 8
   lon: -88.250683
   name:  'Brian Clark Memorial Plaque'
-- ap: 7033
-  img:  'http://lh4.ggpht.com/aXG2XQNJXyPDBz0o8tyfv07VIfskZuFMOWW2ylZpZKkWMnFjoiBmBiWg2VedsjdIorpfX5mtUGnwVLFb7Ga6'
-  lat: 40.091438
-  level: 7
-  lon: -88.25077
-  name:  'Fox Development Corporation'
 - ap: 6846
   img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
   lat: 40.098239
   level: 7
   lon: -88.25376
   name:  'Hessel Park Christian Reformed Church'
+- ap: 6846
+  img:  'http://lh4.ggpht.com/aXG2XQNJXyPDBz0o8tyfv07VIfskZuFMOWW2ylZpZKkWMnFjoiBmBiWg2VedsjdIorpfX5mtUGnwVLFb7Ga6'
+  lat: 40.091438
+  level: 7
+  lon: -88.25077
+  name:  'Fox Development Corporation'
 - ap: 6846
   img:  'http://lh5.ggpht.com/ZDv0mHiZcEfLxGVibvfnMCu7reJceCVnxa4GeBjK2DO4Y4a0x-M7C2M0rEam-_bPlr2e2476RXe15pRY48s'
   lat: 40.114351
@@ -328,12 +328,6 @@
   level: 6
   lon: -88.238817
   name:  'Red Shield Center'
-- ap: 4972
-  img:  'http://lh5.ggpht.com/xcqe13f85fuXohGUUBZkNrUU1PunkcZ6xMNmHpAp0GJBtydVqCCGj5MqP3Uax4M7Qq4JzDFGqICFrFb6PNEXRw'
-  lat: 40.08932
-  level: 5
-  lon: -88.251883
-  name:  'Boulware Trail'
 - ap: 4785
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.561018
@@ -352,6 +346,12 @@
   level: 5
   lon: -88.270158
   name:  'Glory Center International Church'
+- ap: 4785
+  img:  'http://lh5.ggpht.com/xcqe13f85fuXohGUUBZkNrUU1PunkcZ6xMNmHpAp0GJBtydVqCCGj5MqP3Uax4M7Qq4JzDFGqICFrFb6PNEXRw'
+  lat: 40.08932
+  level: 5
+  lon: -88.251883
+  name:  'Boulware Trail'
 - ap: 4710
   img:  'http://lh3.ggpht.com/07XrBN-er6Ecleor0n9RJ4DfGO6B2yn-ZxjI-Uy8Ba46Jtb6cXNVmATPiPiGyk-1jZ4wxa7-EeIWbWUqArCG'
   lat: 40.142554
@@ -1013,17 +1013,17 @@
   lon: -88.209169
   name:  'Wildflower Walk'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/XqG3n3J3bCj61mM2c6ByPJaWYXv51nQkx7me8714asRsez8kx_rSW4mwH2Rm8Y6Yibx71YB6kMcbAYpGch4'
-  lat: 40.079324
-  level: 4
-  lon: -88.209124
-  name:  'Timpone Family Ornamental Tree Grove'
-- ap: 2537
   img:  'http://lh6.ggpht.com/UXx9XSWX3zuym6SdX68IXNFYcpnbhGuF7Zk3taO-TJ2VI_LvwmooNWjUHb8OIgKsjyto3PT7YU0D-Y7HW7c'
   lat: 40.077643
   level: 3
   lon: -88.208694
   name:  'El-Ahrairah'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/XqG3n3J3bCj61mM2c6ByPJaWYXv51nQkx7me8714asRsez8kx_rSW4mwH2Rm8Y6Yibx71YB6kMcbAYpGch4'
+  lat: 40.079324
+  level: 4
+  lon: -88.209124
+  name:  'Timpone Family Ornamental Tree Grove'
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/pYGYCzdOo2RX46MuyUVPGExxz3vVjAYCerSG06O3aGWbr302Vmw6bhoapK9LjwYEuZZ17xDHUfLw765dCYfRUA'
   lat: 40.080163
