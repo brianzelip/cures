@@ -161,6 +161,18 @@
   lon: -88.251314
   name:  'Gabriel Patrick Maxeiner Memorial Plaque'
 - ap: 7035
+  img:  'http://lh3.ggpht.com/J_h4tdb4wqy8bmmQfDuy5yqTR2IlkzKojfvsMOvlD-3tf1pKxbDlhA6W9Q8RX-JaSxhItMr4bmCxiUQXTLbz'
+  lat: 40.10064
+  level: 8
+  lon: -88.24958
+  name:  'Edward A. Cousins Plaque'
+- ap: 7035
+  img:  'http://lh6.ggpht.com/3o0ObAARFV_8mBVCC_QD0iLOPVzNkakXybhLnSVEuXIJfDLKMxeYj-EkWIw9NPoZIVRf5Dkrid2yf_NEQ-iE'
+  lat: 40.100347
+  level: 8
+  lon: -88.249385
+  name:  'Travis Marmion Memorial'
+- ap: 7035
   img:  'http://lh3.ggpht.com/G1CvGhpethi5UmprDWxZN9rTblHa3anSsQz1UPgJtkREkfN7lDFoxFObst0609Cg5mofuZxJKr0ddNKhY4VL'
   lat: 40.098464
   level: 8
@@ -179,23 +191,11 @@
   lon: -88.250855
   name:  'Donald F. Bresnan Memorial'
 - ap: 7035
-  img:  'http://lh3.ggpht.com/J_h4tdb4wqy8bmmQfDuy5yqTR2IlkzKojfvsMOvlD-3tf1pKxbDlhA6W9Q8RX-JaSxhItMr4bmCxiUQXTLbz'
-  lat: 40.10064
-  level: 8
-  lon: -88.24958
-  name:  'Edward A. Cousins Plaque'
-- ap: 7035
   img:  'http://lh5.ggpht.com/8zq5tMevCiipZK8N9-8SZw3vdsA2HwH0E02ormQshGxHVZrB2WPK7OPC8zt6pjLlgpXVuEYHVA_08_Q8fPw-'
   lat: 40.099647
   level: 8
   lon: -88.249648
   name:  'Max Overmyer Memorial Playground'
-- ap: 7035
-  img:  'http://lh6.ggpht.com/3o0ObAARFV_8mBVCC_QD0iLOPVzNkakXybhLnSVEuXIJfDLKMxeYj-EkWIw9NPoZIVRf5Dkrid2yf_NEQ-iE'
-  lat: 40.100347
-  level: 8
-  lon: -88.249385
-  name:  'Travis Marmion Memorial'
 - ap: 7035
   img:  'http://lh6.ggpht.com/n0f7lyo15OzZn5IJHsohIGAA58iioentPZGEY4zeMZCCoX4GjEEkqfaTCIbrx9OnezriThnbFV14kYcwKTgL1g'
   lat: 40.098444
@@ -557,17 +557,17 @@
   lon: -88.313206
   name:  'Alan Green Memorial'
 - ap: 3661
-  img:  'http://lh6.ggpht.com/9ocSZtxwhI0ZOXkGFEbDOH1572LrymOwYpROz-hP90Uk4BAS8FIjCB4GXt2ndpQrlEV-tG4qc0zoMlk9693z'
-  lat: 40.12977
-  level: 7
-  lon: -88.271927
-  name:  'Citizens Park'
-- ap: 3661
   img:  'http://lh5.ggpht.com/ulBje3DZHcOGkPDTXihNL1tamRAm_GO1CREW8fA5fV0Znq1eF2J1hnbSZh35emEA1h9cL1qTj9FqGtb8VywgXQ'
   lat: 40.13765
   level: 6
   lon: -88.273074
   name:  'Garden Hills Park'
+- ap: 3661
+  img:  'http://lh6.ggpht.com/9ocSZtxwhI0ZOXkGFEbDOH1572LrymOwYpROz-hP90Uk4BAS8FIjCB4GXt2ndpQrlEV-tG4qc0zoMlk9693z'
+  lat: 40.12977
+  level: 7
+  lon: -88.271927
+  name:  'Citizens Park'
 - ap: 3661
   img:  'http://lh6.ggpht.com/lcnaor8q6SYRZYMm-tUZtz1sXP81Bdwoa9Pf8LC0Vfggxa8JP98UTcgToQqXfmu99JegLd6L3Pb3aG6XjSQH'
   lat: 40.106714
@@ -816,16 +816,16 @@
   name:  'St Boniface Catholic Church'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.565188
-  level: '?'
-  lon: -88.61306
-  name:  '6ab35b80fa5949c990af0fe7eb3db8c8.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.641568
   level: '?'
   lon: -88.781298
   name:  '306e2089178a442b8a2da3f9cdcb4f35.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.565188
+  level: '?'
+  lon: -88.61306
+  name:  '6ab35b80fa5949c990af0fe7eb3db8c8.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.385176
@@ -844,18 +844,6 @@
   level: '?'
   lon: -88.716455
   name:  'b066df9093c44522b31286625e7670d0.12'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.399079
-  level: '?'
-  lon: -86.282489
-  name:  '51472f175acb4892b5c116857b6087a9.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 45.236819
-  level: '?'
-  lon: -86.999123
-  name:  '7ecc4a2b5a8f4f3d94ed4bf2bbacc7d2.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.457257
@@ -1024,6 +1012,12 @@
   level: 5
   lon: -88.233644
   name:  'Taft-Van Doren Hall'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/Tn5ARN-X6VTc2q6atZ2WYq3c2g3gbSGXu6_vXf1MDwHfLpdTtnQ-CilBAVGvL6R-SHhq3fJ4WZI-yiJKmIId'
+  lat: 40.110398
+  level: 6
+  lon: -88.235143
+  name:  'US Post Office, E Green St, Champaign'
 - ap: 2162
   img:  'http://lh5.ggpht.com/28al1CSkHNCrM9Sb57TYmawr1uFh6r5raWMJKD4QjLCj6N5YHEYIIizONs_hHF3pHuIppLjqxbTFcvrI9Dq9'
   lat: 40.111205
@@ -1042,12 +1036,6 @@
   level: 5
   lon: -88.231962
   name:  '1926 Sigil'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/Tn5ARN-X6VTc2q6atZ2WYq3c2g3gbSGXu6_vXf1MDwHfLpdTtnQ-CilBAVGvL6R-SHhq3fJ4WZI-yiJKmIId'
-  lat: 40.110398
-  level: 6
-  lon: -88.235143
-  name:  'US Post Office, E Green St, Champaign'
 - ap: 2237
   img:  'http://lh3.ggpht.com/1JgqaWx4DIU04ms-XmufSumQ5BDP07SB97-kBjzxDePlLQR9HagCTfqdviW9ErxCqpvXgynqeosQhERhCat6'
   lat: 40.108781
