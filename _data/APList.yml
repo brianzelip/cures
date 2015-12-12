@@ -202,7 +202,7 @@
   level: 8
   lon: -88.250683
   name:  'Brian Clark Memorial Plaque'
-- ap: 7033
+- ap: 6846
   img:  'http://lh4.ggpht.com/aXG2XQNJXyPDBz0o8tyfv07VIfskZuFMOWW2ylZpZKkWMnFjoiBmBiWg2VedsjdIorpfX5mtUGnwVLFb7Ga6'
   lat: 40.091438
   level: 7
@@ -371,12 +371,6 @@
   lon: -88.270158
   name:  'Glory Center International Church'
 - ap: 4785
-  img:  'http://lh5.ggpht.com/xcqe13f85fuXohGUUBZkNrUU1PunkcZ6xMNmHpAp0GJBtydVqCCGj5MqP3Uax4M7Qq4JzDFGqICFrFb6PNEXRw'
-  lat: 40.08932
-  level: 5
-  lon: -88.251883
-  name:  'Boulware Trail'
-- ap: 4785
   img:  'http://lh4.ggpht.com/9hzMj8KV-HraIucojjHAEgyMZsJAR9TWvNS-QSBB5LTYBOTwwqfTQySJ_Sz88eP3eyFWFYhx5qDVY93t8fk'
   lat: 40.108032
   level: 5
@@ -394,6 +388,12 @@
   level: 5
   lon: -88.276537
   name:  'The New Fellowship Corner'
+- ap: 4598
+  img:  'http://lh5.ggpht.com/xcqe13f85fuXohGUUBZkNrUU1PunkcZ6xMNmHpAp0GJBtydVqCCGj5MqP3Uax4M7Qq4JzDFGqICFrFb6PNEXRw'
+  lat: 40.08932
+  level: 5
+  lon: -88.251883
+  name:  'Boulware Trail'
 - ap: 4598
   img:  'http://lh3.googleusercontent.com/hJZWoErzM-MuXulq4FlhlZwMbJX1Isd81GBUBVKayd57jVIVxUle3itd-1DRKo2VaNXznWr1X639fa44Etk'
   lat: 40.141919
@@ -484,18 +484,18 @@
   level: 4
   lon: -88.243766
   name:  'Mural on South Neil St.'
-- ap: 3698
-  img:  'http://lh6.ggpht.com/WtqWBwqpYTSw3g9ru5NwcFn5iK5STxWgy2kv4OUTWqwtzx76-9Msz0eqoiw0qpEYE1U4zdt9rzzNZMDNagNg'
-  lat: 40.107943
-  level: 4
-  lon: -88.226751
-  name:  'Class Of 1917 Plaque'
 - ap: 3848
   img:  'http://lh5.ggpht.com/OF0rdXnVnZe6syFsa4G9CE6iyvhfoYQN3QH9RESyB78MTKDC2NXYJuVd0TAnACMccmsKXhNcBH6qzWy9DPQ'
   lat: 40.105073
   level: 6
   lon: -88.231952
   name:  'University of Illinois Armory'
+- ap: 3698
+  img:  'http://lh6.ggpht.com/WtqWBwqpYTSw3g9ru5NwcFn5iK5STxWgy2kv4OUTWqwtzx76-9Msz0eqoiw0qpEYE1U4zdt9rzzNZMDNagNg'
+  lat: 40.107943
+  level: 4
+  lon: -88.226751
+  name:  'Class Of 1917 Plaque'
 - ap: 3661
   img:  'http://lh4.ggpht.com/XKVHQA5428-TLAwxsbTM7h-fg1ZVaoOYXR-p6_g9VpqHRXtq7EcVjmHVhIJBF7vxFz9MCkKRVwSGsqnMuZtb'
   lat: 40.117759
@@ -838,6 +838,12 @@
   level: 4
   lon: -88.22858
   name:  'Class of 1897 Tree'
+- ap: 2649
+  img:  'http://lh6.ggpht.com/yUOWOqDbf6AO83PFdgc9HePIDDDb-Ti1NAzLec_4AwYrO5NsnWsGH7K7MDb5q22wdtUh6uqekxpMHYjlnfRLEQ'
+  lat: 40.104673
+  level: 3
+  lon: -88.233278
+  name:  'University of Illinois Armory'
 - ap: 2724
   img:  'http://lh6.ggpht.com/yYW6Egg1lWn6UqqLzlgqwCQhtbuxiZSW4TmvI1XBPs33OTTJ0oh51XZXOIILxGI2juoO-E_YfG5UHmeb34rSOw'
   lat: 40.109165
@@ -862,12 +868,6 @@
   level: 5
   lon: -88.225347
   name:  'The Red Herring Vegetarian'
-- ap: 2649
-  img:  'http://lh6.ggpht.com/yUOWOqDbf6AO83PFdgc9HePIDDDb-Ti1NAzLec_4AwYrO5NsnWsGH7K7MDb5q22wdtUh6uqekxpMHYjlnfRLEQ'
-  lat: 40.104673
-  level: 3
-  lon: -88.233278
-  name:  'University of Illinois Armory'
 - ap: 2724
   img:  'http://lh3.ggpht.com/bz4oo3jSLlJ5qqBYGa0PxySc94PdeXA_iAJpXuHQpMh_nxxmIIINM6cZeB6L9wkzZVFu9NkM5j2wSTSqPUs'
   lat: 40.114803
@@ -876,28 +876,16 @@
   name:  'The Station Theater'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.953922
+  lat: 40.641568
   level: '?'
-  lon: -88.574549
-  name:  'fce2bfabd04b47c6bf10ed21d13b7f5b.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.040518
-  level: '?'
-  lon: -88.384748
-  name:  'St Boniface Catholic Church'
+  lon: -88.781298
+  name:  '306e2089178a442b8a2da3f9cdcb4f35.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.40148
   level: '?'
   lon: -86.287044
   name:  'be78c15683554893a96f56b528eb8f83.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.641568
-  level: '?'
-  lon: -88.781298
-  name:  '306e2089178a442b8a2da3f9cdcb4f35.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.781211
@@ -940,6 +928,18 @@
   level: '?'
   lon: -88.126397
   name:  'b7462fe79c874282b8ca4240ac1d6f55.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.953922
+  level: '?'
+  lon: -88.574549
+  name:  'fce2bfabd04b47c6bf10ed21d13b7f5b.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.040518
+  level: '?'
+  lon: -88.384748
+  name:  'St Boniface Catholic Church'
 - ap: 2537
   img:  'http://lh5.ggpht.com/brYLz9oQCCdX7e2qWYhwzHzzKFnK3oIA9wZJZD0gLGklhaI7Go--rKj-XU7PTej6vfe8OrtP_rZ2Uug1ZhQ7'
   lat: 40.105619
@@ -1079,17 +1079,17 @@
   lon: -88.222608
   name:  'King Park Tennis Courts'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/-xag7tp3BReTAhfRmVAvpMw1Af15prESg4rve7QnsiIC5IKmKjBszxDIj8F212BmRU1apH_2u_9wAmq58_91'
-  lat: 40.114157
-  level: 7
-  lon: -88.238621
-  name:  'Bombay Indian Grill'
-- ap: 2537
   img:  'http://lh3.googleusercontent.com/EvLov_3eYLGHotkWec9w3T1VCPQri5SR8JLZjbJUaxRsyGPLS4YQNXf90xlPoKjxGYlml9N8IDYKwpNvVIWlVA'
   lat: 40.114563
   level: 7
   lon: -88.228735
   name:  'End Caps Sculpture at ECE'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/-xag7tp3BReTAhfRmVAvpMw1Af15prESg4rve7QnsiIC5IKmKjBszxDIj8F212BmRU1apH_2u_9wAmq58_91'
+  lat: 40.114157
+  level: 7
+  lon: -88.238621
+  name:  'Bombay Indian Grill'
 - ap: 2537
   img:  'http://lh3.ggpht.com/b9HBD2zL4T02YqqDOnuBzYEU0UECTZDRgjLjZJV7cnX75wbmiWtc5yBUo_FZrZ8yBH69UsrbeJlq-VS-mPmi'
   lat: 40.109438
