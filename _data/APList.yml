@@ -118,12 +118,6 @@
   level: 7
   lon: -88.251412
   name:  'Zeus Memorial'
-- ap: 7409
-  img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
-  lat: 40.101062
-  level: 8
-  lon: -88.249275
-  name:  'Narayan & Shanti Achanta Memorial Plaque'
 - ap: 7222
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.561018
@@ -190,18 +184,18 @@
   level: 8
   lon: -88.250683
   name:  'Brian Clark Memorial Plaque'
-- ap: 6846
-  img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
-  lat: 40.097979
-  level: 7
-  lon: -88.247785
-  name:  'Jarling''s Custard Cup'
 - ap: 6659
   img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
   lat: 40.108066
   level: 6
   lon: -88.230687
   name:  'Community United Church of Christ'
+- ap: 6285
+  img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
+  lat: 40.101062
+  level: 8
+  lon: -88.249275
+  name:  'Narayan & Shanti Achanta Memorial Plaque'
 - ap: 6098
   img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
   lat: 40.100691
@@ -256,6 +250,12 @@
   level: 7
   lon: -88.229625
   name:  'Illini Sports Mural'
+- ap: 5722
+  img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
+  lat: 40.097979
+  level: 7
+  lon: -88.247785
+  name:  'Jarling''s Custard Cup'
 - ap: 5348
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.873096
@@ -617,12 +617,6 @@
   lon: -88.244894
   name:  'Farren''s Pub and Eatery'
 - ap: 3474
-  img:  'http://lh5.ggpht.com/H3lz_PbTP4RFYuRMUyZuMouxslODKZQ3RjFiZrITFZcpj2FuEb1K2VVlveQtOyUHG2rYZ114AGuGqK4rATI5jg'
-  lat: 40.097868
-  level: 7
-  lon: -88.242344
-  name:  'Campus Information Booth '
-- ap: 3474
   img:  'http://lh5.ggpht.com/dgQfoxxVeHT5ODqLiUYHV45qvkC_BMS0kIFRqvHvE2GO0TduZ0-XzhW8RE80LtPDK0Ay5xwA6PtjM7G3C9U8'
   lat: 40.108947
   level: 5
@@ -971,17 +965,17 @@
   lon: -88.257764
   name:  'Faith United Methodist Church'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/EoSf8hHJu8u_sZNBmm3S1GHAWAxUzBsmXEWMMBkHb0fpzxtjz5RHwnclV42-DDwyDr2BION1zqJ4sLIkaiw'
-  lat: 40.121818
-  level: 6
-  lon: -88.222608
-  name:  'King Park Tennis Courts'
-- ap: 2537
   img:  'http://lh4.ggpht.com/SVmjitsTrPq194xydzMJYXMXGiUEcfEFfYF4e9GpsuZCQpCruqc3PtiXry3n1f4zH3XD-D7MsK5hMZuPUtpJ'
   lat: 40.121701
   level: 6
   lon: -88.221449
   name:  'King Park Pavilion'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/EoSf8hHJu8u_sZNBmm3S1GHAWAxUzBsmXEWMMBkHb0fpzxtjz5RHwnclV42-DDwyDr2BION1zqJ4sLIkaiw'
+  lat: 40.121818
+  level: 6
+  lon: -88.222608
+  name:  'King Park Tennis Courts'
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/EvLov_3eYLGHotkWec9w3T1VCPQri5SR8JLZjbJUaxRsyGPLS4YQNXf90xlPoKjxGYlml9N8IDYKwpNvVIWlVA'
   lat: 40.114563

@@ -12,13 +12,6 @@
   lon: -88.25193
   mus: 153
   name:  'Seeds of Kindness Bench'
-- fields: 4
-  img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
-  lat: 40.097979
-  level: 7
-  lon: -88.247785
-  mus: 75
-  name:  'Jarling''s Custard Cup'
 - fields: 6
   img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
   lat: 40.106706
@@ -33,6 +26,13 @@
   lon: -88.250141
   mus: 18
   name:  'Bob and Wilma Tinkham'
+- fields: 8
+  img:  'http://lh6.ggpht.com/YdeB0EKlsopL39a9YXWj4JBZgXNNLWHgfe4PQzdpWCNWc0fR1YTj8WjARDHnmrusvKWTqKLcGg8U9frhtsw'
+  lat: 40.09821
+  level: 8
+  lon: -88.249879
+  mus: 12
+  name:  'Hessel Park'
 - fields: 7
   img:  'http://lh5.ggpht.com/T0WLAJf0s4nu2Phxax31eu6pO6zNoA4JpvHMLyfMKttzJALEWB8EAWOziQwgjdWE3YjBbG1XjGYsgihqCSX9'
   lat: 40.100414
@@ -75,13 +75,6 @@
   lon: -88.276537
   mus: 9
   name:  'The New Fellowship Corner'
-- fields: 5
-  img:  'http://lh3.ggpht.com/G1CvGhpethi5UmprDWxZN9rTblHa3anSsQz1UPgJtkREkfN7lDFoxFObst0609Cg5mofuZxJKr0ddNKhY4VL'
-  lat: 40.098464
-  level: 8
-  lon: -88.251426
-  mus: 8
-  name:  'Ruth Haasis Memorial'
 - fields: 4
   img:  'http://lh3.ggpht.com/KzADjdPRAvwycpfTBdAeDwFJ0AxZJG2dPmbPWkXq55QLV9PfpJ_-DsXWIlVgsISUApRdJ5cAxRWx0k0W2hI'
   lat: 40.09979
@@ -89,6 +82,13 @@
   lon: -88.249107
   mus: 6
   name:  'Jerome Cook Memorial'
+- fields: 5
+  img:  'http://lh3.ggpht.com/lzCSS0_tjwUV7JQ2fgLI0e05IrzPxlVUs-6aEPOwUv67IanQJSTi71gkw0SGm8asmoE_r3Xoh048Fd9xRpE'
+  lat: 40.099169
+  level: 8
+  lon: -88.251419
+  mus: 5
+  name:  'Lyman Larson Memorial'
 - fields: 4
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
@@ -110,27 +110,27 @@
   lon: -88.230687
   mus: 3
   name:  'Community United Church of Christ'
-- fields: 4
-  img:  'http://lh5.ggpht.com/aeGh3iXJqJ7skg-2JHEpngMSfcp1qDIEPoLMxzQNqbS5Y7HcxN7oE789bXiVFoFIcdCn7-3AhLPtxT_WE2E'
-  lat: 40.0985
+- fields: 2
+  img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
+  lat: 40.101062
   level: 8
-  lon: -88.248681
+  lon: -88.249275
   mus: 3
-  name:  'Siti Sculpture'
-- fields: 3
-  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
-  lat: 40.101327
-  level: 7
-  lon: -88.251412
-  mus: 3
-  name:  'Zeus Memorial'
-- fields: 4
-  img:  'http://lh4.ggpht.com/4LxsGZZMk3DnpJXUvqzrL54CHSP5TDXjUnDJyHmCCTtCJIjGEI7kxT9g4uxfSPh0X6yGLgQo1jfqbu7B8VEr'
-  lat: 40.099084
+  name:  'Narayan & Shanti Achanta Memorial Plaque'
+- fields: 5
+  img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
+  lat: 40.098246
   level: 8
-  lon: -88.251826
-  mus: 2
-  name:  'Irina P. Stewart Memorial Plaque'
+  lon: -88.251974
+  mus: 3
+  name:  'Hessel Park'
+- fields: 4
+  img:  'http://lh3.googleusercontent.com/Tixp17uCaP682s77UzvCwWCOE6vg7iB2qEFLjACq7xtVJdHE0K3yKYsl3_SwKbiUfQWwgTQRbvfka3U0NvNc'
+  lat: 40.098819
+  level: 8
+  lon: -88.249214
+  mus: 3
+  name:  'Bette McKown Honorary'
 - fields: 1
   img:  'http://lh4.ggpht.com/1LzO6yLZvWb6_g3FLduNKYb6d5TVljqsdNnQggC6Idh7XbUSLf4TOcuWChcYsVve_pt7N5f77mEJLTqUmA'
   lat: 40.085878
@@ -146,19 +146,19 @@
   mus: 2
   name:  'Max Overmyer Memorial Playground'
 - fields: 2
+  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
+  lat: 40.100936
+  level: 7
+  lon: -88.250855
+  mus: 2
+  name:  'Donald F. Bresnan Memorial'
+- fields: 2
   img:  'http://lh6.ggpht.com/3o0ObAARFV_8mBVCC_QD0iLOPVzNkakXybhLnSVEuXIJfDLKMxeYj-EkWIw9NPoZIVRf5Dkrid2yf_NEQ-iE'
   lat: 40.100347
   level: 8
   lon: -88.249385
   mus: 2
   name:  'Travis Marmion Memorial'
-- fields: 3
-  img:  'http://lh3.ggpht.com/sisvfsphxy7AK_2qrrqb7lNJk3_7ciHSVJyodINYITBc-UqugyNOooCxKupgJKEg5m_x95eZwouSO2WCmN60ew'
-  lat: 40.098579
-  level: 8
-  lon: -88.249603
-  mus: 2
-  name:  'Chef Ra Memorial Plaque'
 - fields: 2
   img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
   lat: 40.117107
@@ -173,13 +173,6 @@
   lon: -88.208146
   mus: 2
   name:  'Jolly Roger'
-- fields: 2
-  img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
-  lat: 40.098246
-  level: 8
-  lon: -88.251974
-  mus: 1
-  name:  'Hessel Park'
 - fields: 1
   img:  'http://lh5.ggpht.com/ek0AuIkZd5CWKmIdjFjq5gOvptOzC8VJUnyatNG8ZyUoT8-mvkd4seW8Gpbl4kkgiatIbr57h5kK_5z6NSGD'
   lat: 40.131581
@@ -195,13 +188,6 @@
   mus: 1
   name:  'Mural at Nitaya'
 - fields: 1
-  img:  'http://lh3.ggpht.com/lzCSS0_tjwUV7JQ2fgLI0e05IrzPxlVUs-6aEPOwUv67IanQJSTi71gkw0SGm8asmoE_r3Xoh048Fd9xRpE'
-  lat: 40.099169
-  level: 8
-  lon: -88.251419
-  mus: 1
-  name:  'Lyman Larson Memorial'
-- fields: 1
   img:  'http://lh4.ggpht.com/7U0YXCB_DIhnqPJyjyLpNn6kg4lU8HvKL87ddBKWq1sptvVLvCEiCuNEnghQtqDGSN2OBNcOUK9nZcYjY4Vr'
   lat: 40.107887
   level: 3
@@ -215,10 +201,3 @@
   lon: -88.244122
   mus: 1
   name:  'Artistic Graffiti at MCS'
-- fields: 1
-  img:  'http://lh6.ggpht.com/YdeB0EKlsopL39a9YXWj4JBZgXNNLWHgfe4PQzdpWCNWc0fR1YTj8WjARDHnmrusvKWTqKLcGg8U9frhtsw'
-  lat: 40.09821
-  level: 8
-  lon: -88.249879
-  mus: 1
-  name:  'Hessel Park'
