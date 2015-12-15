@@ -229,27 +229,6 @@
   lon: -88.252978
   mus: 740
   name:  'Skateland'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.185093
-  level: '?'
-  lon: -88.296792
-  mus: 731
-  name:  'Hensley Township Town Hall'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.200642
-  level: '?'
-  lon: -88.296708
-  mus: 731
-  name:  'Mt. Vernon United Methodist Church'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.245226
-  level: '?'
-  lon: -88.3081
-  mus: 731
-  name:  'Jersey Cemetary'
 - fields: 6
   img:  'http://lh4.ggpht.com/D5cENdXJQaqvWwCSoOanItF0e3p53vn8qA2cAruOQSuYuD9XmC4q26pJQI7yjA9-6yDTJH0KYTQQwYdcwoTxOA'
   lat: 40.068447
@@ -796,13 +775,6 @@
   lon: -88.290872
   mus: 84
   name:  'Stone Hand Sculptures'
-- fields: 4
-  img:  'http://lh3.ggpht.com/2iQCqFSkI6vQaVf1ADFUP89q8eAUWoZah6JiJ1sA75sp6rK8jpFvWFNaW5E1QXBZnrpD8MIZotWwavGGm5iG'
-  lat: 40.118598
-  level: 5
-  lon: -88.286666
-  mus: 81
-  name:  'Kaufman Park Underpass'
 - fields: 5
   img:  'http://lh6.ggpht.com/C_toB9OzPQfQlIsaofeLapNvJVZ1oyDCghG_zzygf8kBY7AiN-utXz8pmgHfwdbakaJplnCeNXbXzEd-VvI'
   lat: 40.116152
@@ -950,6 +922,13 @@
   lon: -88.294978
   mus: 66
   name:  'Robeson Meadows Trail'
+- fields: 3
+  img:  'http://lh3.ggpht.com/2iQCqFSkI6vQaVf1ADFUP89q8eAUWoZah6JiJ1sA75sp6rK8jpFvWFNaW5E1QXBZnrpD8MIZotWwavGGm5iG'
+  lat: 40.118598
+  level: 5
+  lon: -88.286666
+  mus: 66
+  name:  'Kaufman Park Underpass'
 - fields: 4
   img:  'http://lh3.ggpht.com/bGP5sHc4CJ8tWBxVUN_RonUmvTocQxNQDIzXf94PxHcFtqhDcWJi__diLWu-7b94x-lFOJSou24yKzPZr0E'
   lat: 40.103829
@@ -988,7 +967,7 @@
 - fields: 4
   img:  'http://lh3.ggpht.com/KnNYiTjbSfT8lzl-5r3OkJW1ptOP-d5JkDibk9pg1eydNzpy_IgdiC-kCRNUSoBP9nFsblvWr7t9IC4qMU0'
   lat: 40.109369
-  level: 6
+  level: 7
   lon: -88.206018
   mus: 58
   name:  'Urbana Market Square'
@@ -1048,13 +1027,6 @@
   lon: -88.251117
   mus: 52
   name:  'Savoy Village Fire Department'
-- fields: 2
-  img:  'http://lh6.ggpht.com/v2m1E6vVK4ZRaRPhGli7jCsG7xZQZ7I3vV_5AogdEpPU_A1vz9WEkH0vZ-vau2IAdmydYJcXrOA6SMr7vUfT'
-  lat: 40.128726
-  level: 5
-  lon: -88.290287
-  mus: 52
-  name:  'McMillen Ehler Homestead'
 - fields: 5
   img:  'http://lh6.ggpht.com/fucvhGlnRoH9QYMkBK1r2Qy9oOUZI9LZdwLXsHqHS7XxfmsgA664AxnJIiuZbPqBqjL4bEh26NiX3a3QfkoIY--DKozCDKry192H0Pl_l_XL4Mk'
   lat: 40.118481
@@ -1083,6 +1055,13 @@
   lon: -88.243473
   mus: 46
   name:  'Savoy Rotary Club Dedication'
+- fields: 1
+  img:  'http://lh6.ggpht.com/v2m1E6vVK4ZRaRPhGli7jCsG7xZQZ7I3vV_5AogdEpPU_A1vz9WEkH0vZ-vau2IAdmydYJcXrOA6SMr7vUfT'
+  lat: 40.128726
+  level: 5
+  lon: -88.290287
+  mus: 46
+  name:  'McMillen Ehler Homestead'
 - fields: 3
   img:  'http://lh5.ggpht.com/NV7qwJUoztAVld_2ohxeFi790MJW_YB_4wO5YfsQW08MmR00yciAjfep2xtLeKFLE8QDlUFSiwbp3Rw2jjag'
   lat: 40.09841
@@ -1135,14 +1114,14 @@
 - fields: 1
   img:  'http://lh3.ggpht.com/OwtLBhgC6DoVKIQig8B4LZitIgWrx8rj8ejtnl3FyU2bAwcsRbcardVZSCLCP7U9es_sHo_Ee-iwR_mxOt_V'
   lat: 40.121852
-  level: 6
+  level: 7
   lon: -88.219695
   mus: 42
   name:  'Preston Jackson Byways to Equality'
 - fields: 1
   img:  'http://lh3.ggpht.com/OtT56RocwPxPgcve6b9P9h4GvUFT5XVlsBBqmCg-K8i6I1c-3RVRip5KtAoqlaUqE2BUkSwl8clISDit9EU'
   lat: 40.119453
-  level: 6
+  level: 7
   lon: -88.219746
   mus: 42
   name:  'Family Video'
@@ -1482,13 +1461,6 @@
   lon: -88.214035
   mus: 17
   name:  'Crystal Lake Labyrinth'
-- fields: 3
-  img:  'http://lh4.ggpht.com/cto8Dge7ibAGn25ZzLL8yZnBBKDh1LQFZKt3bJdWpHM-bg7YxYBQIhRKlHpNBvkAI-pEoHohme9DWJim8lp3'
-  lat: 40.123377
-  level: 6
-  lon: -88.300159
-  mus: 17
-  name:  'The Powell Picnic Grove'
 - fields: 5
   img:  'http://lh6.ggpht.com/PXNfY-rn4cS8Fcr7CkJnEI5-vb_hCYxTX_9VV9jNB78yHB-EjmmsP8_EiqK-icwqTxu2iRtDoSbBRCLanerX'
   lat: 40.110685
@@ -1503,13 +1475,6 @@
   lon: -88.225051
   mus: 16
   name:  'ACES Library Information and Alumni Center'
-- fields: 2
-  img:  'http://lh4.ggpht.com/TlG5EEvh_SZmKrAszUcimO4IIRD2zNw36GKbS6g-pdtCXlPZTjyA4q0KavljRDq1KMCcHgxs_OfHWjVYUvc'
-  lat: 40.118705
-  level: 6
-  lon: -88.286198
-  mus: 16
-  name:  'Weighted'
 - fields: 1
   img:  'http://lh4.ggpht.com/zSwyeT2OHM1BNTwvZlgP1mVe-dTjc2LKjU4DSHSuEU24YLHSKziuJKmF4_BAMl1Dd3Sy1PRGPBbPbhSDX0fY'
   lat: 40.10349
@@ -1681,7 +1646,7 @@
 - fields: 5
   img:  'http://lh3.ggpht.com/Prv8wUbEpOsrluZ4pHXYwIQLreDfbvMRV7kMb39yXob8h_r5vXNRC-wSR6pi-2NeP0uIRJsaeWtsGe96cJ_U'
   lat: 40.112295
-  level: 7
+  level: 8
   lon: -88.207196
   mus: 10
   name:  'War Memorial @ Downtown Urbana'
@@ -1790,13 +1755,6 @@
   lon: -88.208069
   mus: 8
   name:  'Walker Grove'
-- fields: 4
-  img:  'http://lh3.ggpht.com/ej9Hc79rnglv03WlxEOMw0g1DQAavAbonJWaENeyKBRbSRnL-KEkhv7XMi9bi1H2ka-91k_lSEGb91IVCh8'
-  lat: 40.123554
-  level: 5
-  lon: -88.300592
-  mus: 8
-  name:  'Jo Ann Powell Memorial Tree'
 - fields: 1
   img:  'http://lh3.ggpht.com/-HtfCPsl6TBR07OSYeO879iOvq7SdMYFxEnoERPL5FVgGJEwLdiysHzEBNfVhjVLVD6bohjNTro7bbSOwgvj'
   lat: 40.094638
@@ -1846,13 +1804,6 @@
   lon: -88.244611
   mus: 6
   name:  'Marketplace Mall Carousel'
-- fields: 2
-  img:  'http://lh3.ggpht.com/H-PBJdkLSDPmDXVvBId2yTx2v03Kx-7jJSQ76BkEyORxCjulslBLOnylRdS74AB6FKKMVrBt_8JE52zY-k23MQ'
-  lat: 40.123652
-  level: 6
-  lon: -88.300148
-  mus: 6
-  name:  'Powell Memorial Plaque'
 - fields: 1
   img:  'http://lh5.ggpht.com/MQR_ZzKDnOCzhArYVQvSq3fm-6zcOGn3bneYKT9cpAuejbSEQDZBYeUPwN8D3OBLklSTSl0TJASS2zUJjUUd'
   lat: 40.105522
@@ -2182,13 +2133,6 @@
   lon: -88.20725
   mus: 3
   name:  'Zipcar-102 N. Broadway Ave .'
-- fields: 2
-  img:  'http://lh6.ggpht.com/L2LdCXwXyxkV_ENkb567X8EtQ8713-lEbbpVfOAg4_yiMbHvUnq9u0Ks4DCgqlvRAUMgsoMJJR3RPsup2oU'
-  lat: 40.122772
-  level: 6
-  lon: -88.30035
-  mus: 2
-  name:  'Barb Babb Memorial Plaque'
 - fields: 3
   img:  'http://lh3.ggpht.com/dlNcqhZvSXijpkfvwOrcW3aTD-ILaZMONMnmaEZv35uhdz7QbonCx9poCoucdHPTAu4q8P67w-GccKI-V7n2'
   lat: 40.068578
@@ -2280,13 +2224,6 @@
   lon: -88.204706
   mus: 1
   name:  '"Balencia" at Meadowbrook Park'
-- fields: 1
-  img:  'http://lh3.googleusercontent.com/eGP4sxnePximEFk88kdcqNxeClf1LjUbwiPTwKmCfStyP9CAq9qGtzAsbEcVWEaS0KyG8LQn7SgS3X07OU4f'
-  lat: 40.122643
-  level: 6
-  lon: -88.300552
-  mus: 1
-  name:  'Powell Park'
 - fields: 2
   img:  'http://lh4.ggpht.com/qWLIT-3GsQkC5f1iLdtWdxCs7cZzyMqqwXBViIYnN7Hvp6UFp3JqYe_qFKGGCSM1cWWbZZZh2X2uS3fS2lE'
   lat: 40.068474
@@ -2294,6 +2231,13 @@
   lon: -88.241437
   mus: 1
   name:  'Dohme Park Shelter'
+- fields: 1
+  img:  'http://lh4.ggpht.com/TlG5EEvh_SZmKrAszUcimO4IIRD2zNw36GKbS6g-pdtCXlPZTjyA4q0KavljRDq1KMCcHgxs_OfHWjVYUvc'
+  lat: 40.118705
+  level: 6
+  lon: -88.286198
+  mus: 1
+  name:  'Weighted'
 - fields: 1
   img:  'http://lh3.googleusercontent.com/pYGYCzdOo2RX46MuyUVPGExxz3vVjAYCerSG06O3aGWbr302Vmw6bhoapK9LjwYEuZZ17xDHUfLw765dCYfRUA'
   lat: 40.080163
@@ -2350,27 +2294,6 @@
   lon: -88.23142
   mus: 1
   name:  'Gelvin Garden'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.152192
-  level: '?'
-  lon: -88.252279
-  mus: 1
-  name:  'Toalson Park South Entrance'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.152342
-  level: '?'
-  lon: -88.252345
-  mus: 1
-  name:  'Toalson Park Basketball Hoop'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.152871
-  level: '?'
-  lon: -88.253305
-  mus: 1
-  name:  '50197185529145c883d36b74db0ec522.16'
 - fields: 1
   img:  'http://lh3.googleusercontent.com/Bt3IS0wHTEIBXewdfdsA7Pg1GqaUcaidDmsRZoqzNtoliVB9SYnGVPSNB9OvFv_edjQhPesp7YV0GKSKZgk'
   lat: 40.083988
