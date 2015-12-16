@@ -328,18 +328,18 @@
   level: 7
   lon: -88.230188
   name:  'Color Glass Windows at the Newman Center'
+- ap: 6096
+  img:  'http://lh6.ggpht.com/q48Oqk2mm3dXQ2ppK-aYGXKjIiTAOEZfrFkiLK9LXRz2uN9hSKihKeCwfg33q1Z2zMTIMjqJRjPA1U_V3pbR6Q'
+  lat: 40.104417
+  level: 7
+  lon: -88.231962
+  name:  '1926 Sigil'
 - ap: 5909
   img:  'http://lh4.ggpht.com/9Rg84EpxbL2Yg5gK7imF1lg4LpVcRz8fS4QGQe_hQfaeN-crjjc8p1MnWvQtnHIJ9c2N-tOiI2lgFMkIfP-V'
   lat: 40.127139
   level: 6
   lon: -88.23398
   name:  'Church of the Living God'
-- ap: 5909
-  img:  'http://lh6.ggpht.com/q48Oqk2mm3dXQ2ppK-aYGXKjIiTAOEZfrFkiLK9LXRz2uN9hSKihKeCwfg33q1Z2zMTIMjqJRjPA1U_V3pbR6Q'
-  lat: 40.104417
-  level: 7
-  lon: -88.231962
-  name:  '1926 Sigil'
 - ap: 5722
   img:  'http://lh5.ggpht.com/1eDayuS4d2wNAfoiDstKMYbI0A-jF-si0NR2wlIA4cGm_nJhPwg0qgwC4fHnpfADWMcQd31BdogexUe3d1W2'
   lat: 40.124396
@@ -367,7 +367,7 @@
 - ap: 5535
   img:  'http://lh5.ggpht.com/3RfiPeOzF67ubNX-vkwUJ6-EYld6BKuoBernq0_9kOjlIsSPr3saR9FIQzN7uiw7ouF0CpNflOnL0mUj9zbqdQ'
   lat: 40.109452
-  level: 5
+  level: 6
   lon: -88.229031
   name:  'Illini Hall'
 - ap: 5535
@@ -535,7 +535,7 @@
 - ap: 4411
   img:  'http://lh5.ggpht.com/1fPvqpqXG5PDCkmegoWb9Tv9N5_MZh9XjmZpbyNEs5yPDsCscbrPB1cO_Pf8GT35HYrTF01FZ6s5VPIpjJ_20A'
   lat: 40.107098
-  level: 5
+  level: 6
   lon: -88.228984
   name:  'Saint Andrew''s Church'
 - ap: 4411
@@ -833,12 +833,6 @@
   lon: -88.900234
   name:  '2e4c86f3add64206bd90a57bd8fa10af.16'
 - ap: 2724
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.420925
-  level: '?'
-  lon: -90.015641
-  name:  '8474f7d0ae0740aebc8ea1b1b6b8dac4.16'
-- ap: 2724
   img:  'http://lh4.ggpht.com/T04oZ0k13H90w4QZ7f_QTFH-yrHJNyKsJ-hRWmNk2YnqBSy8KwGZrO0fb-YN5RhCi3vg_903yE64_J-JZu4Z'
   lat: 40.092883
   level: 5
@@ -886,10 +880,16 @@
   level: 6
   lon: -88.227584
   name:  'Tau Beta Pi Statue'
-- ap: 2574
+- ap: 2724
+  img:  'http://lh5.ggpht.com/gkIcCbfmQWyJ7s9ryhzfOOn1K-oa8huqzZN80X2psVjx_6Iur5egjGncbUIAMLiAJAf9qG1Ac8lX2MomHYY'
+  lat: 40.108185
+  level: 5
+  lon: -88.225203
+  name:  'Statue at Medical Sciences'
+- ap: 2499
   img:  'http://lh6.ggpht.com/TXVMllOHjnPSJgg_7oE4ZuY82xJs56TE9AbaxAFxXWiD5yKwlOZUHfx74BaxCzczl9hTtaKqkaDsA4LeZ94'
   lat: 40.110617
-  level: 5
+  level: 4
   lon: -88.228248
   name:  'Everitt Lab'
 - ap: 2724
@@ -930,12 +930,6 @@
   name:  '6ab35b80fa5949c990af0fe7eb3db8c8.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.347959
-  level: '?'
-  lon: -89.129784
-  name:  '9e63d228afa94caa8114172b54ee6157.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.178857
   level: '?'
   lon: -88.389902
@@ -964,6 +958,12 @@
   level: '?'
   lon: -87.909532
   name:  '39ebf4705739474088191eb9e9fc5a1f.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.420925
+  level: '?'
+  lon: -90.015641
+  name:  '8474f7d0ae0740aebc8ea1b1b6b8dac4.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.353013
@@ -1031,6 +1031,12 @@
   lon: -88.247111
   name:  'Wesley Robert Weedman Memorial'
 - ap: 2537
+  img:  'http://lh6.ggpht.com/ka79B_ahK9kHLiOCOnKsp3SooZlPGgMuIOO25OaqPU7eoUALOBzaa40ZCStdo4v6rCYW0VS_pNgW3PJyUDKxpXI-n55zohIxJwRJEq5gslJKwS5ykQ'
+  lat: 40.11794
+  level: 5
+  lon: -88.248679
+  name:  'Fonderia'
+- ap: 2537
   img:  'http://lh6.ggpht.com/QKHOcl5WKE1EB7Y8PfPqhuJQN7SxpWIvLb13vJp2KJC61ToSi1evTEpgeOtPjAfKuIlQnBq1tApVM5TwJHI'
   lat: 40.118042
   level: 4
@@ -1060,12 +1066,6 @@
   level: 5
   lon: -88.238392
   name:  'Mexico Mural'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/ka79B_ahK9kHLiOCOnKsp3SooZlPGgMuIOO25OaqPU7eoUALOBzaa40ZCStdo4v6rCYW0VS_pNgW3PJyUDKxpXI-n55zohIxJwRJEq5gslJKwS5ykQ'
-  lat: 40.11794
-  level: 5
-  lon: -88.248679
-  name:  'Fonderia'
 - ap: 2537
   img:  'http://lh4.ggpht.com/mnyMwxXghZOmxdJw2eJk5U9A5sfO_QLi0eKc2knF3RS3bJhiIa0N7N75KIzjEehKD3ChMFgaOHVRltiOVAw'
   lat: 40.125074
@@ -1162,18 +1162,6 @@
   level: 6
   lon: -88.228609
   name:  'Talbot Labs '
-- ap: 2312
-  img:  'http://lh3.ggpht.com/mtgiI5TKcuExETpmdSqIFabkYgVZTaXXLJnaIyzxeHPIunWoj_Fj8BqqwZG4nVQwSnngv15YxD-c_m9CHkr3'
-  lat: 40.111202
-  level: 3
-  lon: -88.226447
-  name:  'Boneyard Creek Memorial Streamflow Gaging Station'
-- ap: 2162
-  img:  'http://lh6.ggpht.com/vlKOFCgVZb_8XoZHDdzD2X9Xsejb8QVVqEM5U4YfgnKJbQIIHHSK2hSpgycF7vqRkGKRYYnbjVTyKS8dsHF3ChRyF01faLh907jhNd__xiEkGTWx'
-  lat: 40.111225
-  level: 2
-  lon: -88.226537
-  name:  'Fire College Plaque'
 - ap: 2537
   img:  'http://lh3.ggpht.com/2LmoiHH6s6FrGUTRiNNoF0WIY5lVvkXP3CTOxQjNjG2_jrgsDmaxyIZxewF_wa8mFgO41Avi733oq5-CVio'
   lat: 40.10631
@@ -1198,12 +1186,6 @@
   level: 6
   lon: -88.227932
   name:  'Talbot Lab Mural'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/gkIcCbfmQWyJ7s9ryhzfOOn1K-oa8huqzZN80X2psVjx_6Iur5egjGncbUIAMLiAJAf9qG1Ac8lX2MomHYY'
-  lat: 40.108185
-  level: 5
-  lon: -88.225203
-  name:  'Statue at Medical Sciences'
 - ap: 2537
   img:  'http://lh6.ggpht.com/UHh6R5Pfoiuw4sX96l-GNlhyni2EhPOuuEfaN9oWYLEs8qV6pfLkQugcY8yhMRq01gHqUu5GqKOA6bt9t2NfFQ'
   lat: 40.104458
