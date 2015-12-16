@@ -52,12 +52,6 @@
   level: 8
   lon: -88.251419
   name:  'Lyman Larson Memorial'
-- ap: 9470
-  img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
-  lat: 40.097979
-  level: 7
-  lon: -88.247785
-  name:  'Jarling''s Custard Cup'
 - ap: 9283
   img:  'http://lh5.ggpht.com/kElaGOaV9aI8SrnM1D65gx9J0Ky1AKrN9Yo-pXVmDhELt2pee4MwVRiCqCmlqWzUWj5pS33GnEzAiXmiWKsw'
   lat: 40.108111
@@ -160,6 +154,12 @@
   level: 6
   lon: -88.238696
   name:  'Bristol Park'
+- ap: 7409
+  img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
+  lat: 40.097979
+  level: 7
+  lon: -88.247785
+  name:  'Jarling''s Custard Cup'
 - ap: 7409
   img:  'http://lh6.ggpht.com/yE7aPklOUj6Y4vlNLUrqm7uJbj0TAVjhl_vSEgy7CHGlkTo5yyJGeTCUnRsHYe2UAZq2h_Y3AD_m3y3i2B8'
   lat: 40.106876
@@ -334,12 +334,6 @@
   level: 7
   lon: -88.230188
   name:  'Color Glass Windows at the Newman Center'
-- ap: 6096
-  img:  'http://lh6.ggpht.com/q48Oqk2mm3dXQ2ppK-aYGXKjIiTAOEZfrFkiLK9LXRz2uN9hSKihKeCwfg33q1Z2zMTIMjqJRjPA1U_V3pbR6Q'
-  lat: 40.104417
-  level: 7
-  lon: -88.231962
-  name:  '1926 Sigil'
 - ap: 5909
   img:  'http://lh3.ggpht.com/ahylfFHnKd7tl8EDQopVPlqhdiJblx_p3TWsELUFACXM_9qS9N8agb-ypr7EOOemNFMUrRGaUQ23LY6F1ssb'
   lat: 40.095094
@@ -358,6 +352,12 @@
   level: 6
   lon: -88.23398
   name:  'Church of the Living God'
+- ap: 5909
+  img:  'http://lh6.ggpht.com/q48Oqk2mm3dXQ2ppK-aYGXKjIiTAOEZfrFkiLK9LXRz2uN9hSKihKeCwfg33q1Z2zMTIMjqJRjPA1U_V3pbR6Q'
+  lat: 40.104417
+  level: 7
+  lon: -88.231962
+  name:  '1926 Sigil'
 - ap: 5722
   img:  'http://lh5.ggpht.com/1eDayuS4d2wNAfoiDstKMYbI0A-jF-si0NR2wlIA4cGm_nJhPwg0qgwC4fHnpfADWMcQd31BdogexUe3d1W2'
   lat: 40.124396
@@ -419,12 +419,6 @@
   lon: -88.31285
   name:  'Sunset Ridge Park Dedication'
 - ap: 4972
-  img:  'http://lh4.ggpht.com/maBwz4G9LJZ5aVuX_WF1Z73xSbqoFsm3l6oyrNQ16LkJMvaEbFa-amdfCpKDVDe7NzjReNu8IGnn7BAI8yef'
-  lat: 40.103534
-  level: 6
-  lon: -88.243478
-  name:  'McCollum Park'
-- ap: 4972
   img:  'http://lh5.ggpht.com/wX6-mbTE7nT00T6ildapKbI5ZrnhPIt4l91DhMseyo3GYFrgQIuqbjh8ntZY6NxGZ-qa6fKWlyoBOPdIdNIt'
   lat: 40.114653
   level: 7
@@ -454,12 +448,6 @@
   level: 6
   lon: -88.313206
   name:  'Alan Green Memorial'
-- ap: 4785
-  img:  'http://lh6.ggpht.com/UHh6R5Pfoiuw4sX96l-GNlhyni2EhPOuuEfaN9oWYLEs8qV6pfLkQugcY8yhMRq01gHqUu5GqKOA6bt9t2NfFQ'
-  lat: 40.104458
-  level: 5
-  lon: -88.239125
-  name:  'Delta Chi'
 - ap: 4785
   img:  'http://lh3.ggpht.com/161K1avC8teYs8PtJMANd0cBrff72XYRYh2Gjg2_KhkEh6_F6MLd3cfHIXwK8zegd65ISEVxmEoD5THpeY-Q'
   lat: 40.112553
@@ -541,7 +529,7 @@
 - ap: 4411
   img:  'http://lh3.ggpht.com/oHMQr2Z5LayQFbZOwOZK4ZbYQ1OVxs85-qNTvSj8epsP72vQiOdrzVmkuMPFQtCSf9Rr0oqcnSLFjLn-sPw'
   lat: 40.116592
-  level: 6
+  level: 7
   lon: -88.243236
   name:  'Champaign City Bldg. Landmark Plaque'
 - ap: 4411
@@ -592,10 +580,10 @@
   level: 5
   lon: -88.26295
   name:  'Temple Baptist Church'
-- ap: 4035
+- ap: 3735
   img:  'http://lh4.ggpht.com/-MJc8fCVxpxV7prlhkP3sXPWZ7jsr8Behc29zUJqdz_V57jSg7SzyMUUv7B9Frzu36mJhM2PQkr_LJk-zyM'
   lat: 40.117729
-  level: 5
+  level: 3
   lon: -88.243645
   name:  'Boltini Lounge'
 - ap: 4035
@@ -641,12 +629,6 @@
   lon: -88.289609
   name:  'Robeson Meadows Trail'
 - ap: 3661
-  img:  'http://lh3.ggpht.com/2bCNiD7SWsS3uzFLMO2cZh-LpHUEMQGnfTmcNx5vJapXho2TuXke630-7zop2Sq4fuY8nWVqy4VCG23mvnIJ'
-  lat: 40.104168
-  level: 7
-  lon: -88.238808
-  name:  'Alpha Gamma Rho'
-- ap: 3661
   img:  'http://lh5.ggpht.com/zUcdFy4LbfVjWynZZp4C5TfAppnK9Iiou6aV9idMEi-uHh7ZVcuIZxHz7Sqt4EqZY__obyqxWSrIBmWDtvwUpg'
   lat: 40.124036
   level: 7
@@ -658,6 +640,12 @@
   level: 6
   lon: -88.243009
   name:  'Fountain in the Alley'
+- ap: 3661
+  img:  'http://lh4.ggpht.com/maBwz4G9LJZ5aVuX_WF1Z73xSbqoFsm3l6oyrNQ16LkJMvaEbFa-amdfCpKDVDe7NzjReNu8IGnn7BAI8yef'
+  lat: 40.103534
+  level: 6
+  lon: -88.243478
+  name:  'McCollum Park'
 - ap: 3361
   img:  'http://lh4.ggpht.com/1n-hHkU1cTz6dykw37WBVQqctZlzyl9gYgy7IMi1zcMf1t0ry6F1JPnwlvUjq_6YNdolofY_rLbuL_uLQwg'
   lat: 40.112913
@@ -754,10 +742,10 @@
   level: 5
   lon: -88.244122
   name:  'Women''s Town Club Building'
-- ap: 3474
+- ap: 3249
   img:  'http://lh5.ggpht.com/D9O580D9hlBOqeMvt2V4nL-eHP62h4vG4YFgk-WTw7GunusU9AOffFuHZ9XYWoB8YrGxpCMu2Y77-LCAgcdT'
   lat: 40.119328
-  level: 5
+  level: 3
   lon: -88.243755
   name:  'Birthplace of Champaign / Beautiful Beardsley Hotel'
 - ap: 3474
@@ -769,7 +757,7 @@
 - ap: 3474
   img:  'http://lh6.ggpht.com/btym2_WGYuFNu2SNiR8qif7GXLMOPT7XpuHE7RPOipPC9Q5lEPfImKAzf2vm9RUe2rN0u3TePq4pM0IuZiLS'
   lat: 40.116436
-  level: 4
+  level: 6
   lon: -88.243459
   name:  'Champaign City Building'
 - ap: 3474
@@ -1120,10 +1108,10 @@
   level: 7
   lon: -88.238339
   name:  'Boneyard Greenway'
-- ap: 2537
+- ap: 2387
   img:  'http://lh5.ggpht.com/dEeT4acpLu-WQFlZWd3psap5qAqqPTSVzm8Qt1QtpqtwZ0j1V9eKFcmpgN9K_x1PL4XVchuevw25rxHekz3tvQ'
   lat: 40.111968
-  level: 5
+  level: 4
   lon: -88.226793
   name:  'Bardeen Quad Structure'
 - ap: 2537
@@ -1163,12 +1151,6 @@
   lon: -88.233133
   name:  'Sunken Cube at Art and Design Building'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/zZ2YpVpDiI1KdIQ9iI7mGJD_VtwFztJ4ZF1vRehD9OSnQ2K3433SIg22svwcqDJVfeO2fjE3fdT4eHAJWGpi'
-  lat: 40.104339
-  level: 7
-  lon: -88.234788
-  name:  'Pi Kappa Phi Fraternity'
-- ap: 2537
   img:  'http://lh5.ggpht.com/LPlCgoOAlClRaVCl_B1sHDkn38OgDbXat-l5Q1bDZLP7mOUMfU8pK-o3N8BEqh0vHJcZBHo3iz2AMQKAhot7Tw'
   lat: 40.110833
   level: 6
@@ -1186,10 +1168,10 @@
   level: 3
   lon: -88.226447
   name:  'Boneyard Creek Memorial Streamflow Gaging Station'
-- ap: 2462
+- ap: 2162
   img:  'http://lh6.ggpht.com/vlKOFCgVZb_8XoZHDdzD2X9Xsejb8QVVqEM5U4YfgnKJbQIIHHSK2hSpgycF7vqRkGKRYYnbjVTyKS8dsHF3ChRyF01faLh907jhNd__xiEkGTWx'
   lat: 40.111225
-  level: 5
+  level: 2
   lon: -88.226537
   name:  'Fire College Plaque'
 - ap: 2537
@@ -1228,18 +1210,6 @@
   level: 5
   lon: -88.227238
   name:  'Flow'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/4eagHlnlpVbtFi_knZN73PIs2A--Ipj6SOlkQADePlfnzfOnJn-cAv0IoNNv4qR8WrbUFImUKHBknyaoAewO'
-  lat: 40.111383
-  level: 6
-  lon: -88.225675
-  name:  'Only Rain Down The Drain'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/LR76HrJqriPFUoc2XSs7jb2SotnStZv20kI7rgUx8B5HqhmetnTW4MA1tCp1ws4g5gw0sf9g7M3Lwq4VwfpD'
-  lat: 40.111687
-  level: 6
-  lon: -88.225353
-  name:  'Transportation Building - University Of Illinois'
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/NRpdP-ebGuykq3sH1NZBQVjhmSdVJW3F4MTCRdXrWKQf3Z5dBgo0Phhyqnel5IrJmriQRmJNFR12lRDrjxJ9'
   lat: 40.114911
