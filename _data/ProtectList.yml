@@ -110,12 +110,12 @@
   lon: -88.310745
   mus: 2391
   name:  'Champaign Fire Department'
-- fields: 7
+- fields: 8
   img:  'http://lh3.ggpht.com/txXhB2-_UCJMArJ1qjOILOTPjtbhyo6om4p4YXyjlOzzr2enJIG2FUjsjF1HqF3ydLX8gPkmxC6cdia0zaBh'
   lat: 40.110333
   level: 7
   lon: -88.20874
-  mus: 1885
+  mus: 1914
   name:  'First United Methodist Church of Urbana'
 - fields: 4
   img:  'http://lh3.ggpht.com/fALAYK0M4imvlOA0vpJd8uOXpb0SvXft0NJmoF1vWieQ3g-Ps3CF7wgfjFiy1v81v26SbN5Rquo5697dHPPT'
@@ -593,6 +593,20 @@
   lon: -88.240632
   mus: 150
   name:  'Wire Animals'
+- fields: 3
+  img:  'http://lh3.ggpht.com/uGEfk-YTDTEJOgS8Ga12BCEyt9_7gEnf1VP3S28Ra2Cdx7fL-tEWnx8JKhwPLbvB-WfuyH-_I4xYNcHNyi-tJA'
+  lat: 40.063508
+  level: 7
+  lon: -88.29493
+  mus: 147
+  name:  'Curtis Apple Orchard'
+- fields: 2
+  img:  'http://lh4.ggpht.com/N6E1iW7R1Dt6SCyd1q4Ym_HeSnFZ2mHHlXE-jkX1_YLy9BgSRPcDZK8ri2PWx6-sV1IEsClFGgMgpdI2Bgg'
+  lat: 40.069187
+  level: 7
+  lon: -88.295335
+  mus: 144
+  name:  'Friendship Lutheran Church of Joy'
 - fields: 4
   img:  'http://lh3.ggpht.com/R3skA_zNDTXP9NfdUIB9j7cOpSKo7-iKXHX1WzPcl8wmPKII84LwCLSADJDdEHEq7GIDwfE1THFMg6nPD7Py0Q'
   lat: 40.104098
@@ -622,13 +636,6 @@
   mus: 134
   name:  'Mennonite Church'
 - fields: 2
-  img:  'http://lh3.ggpht.com/uGEfk-YTDTEJOgS8Ga12BCEyt9_7gEnf1VP3S28Ra2Cdx7fL-tEWnx8JKhwPLbvB-WfuyH-_I4xYNcHNyi-tJA'
-  lat: 40.063508
-  level: 7
-  lon: -88.29493
-  mus: 128
-  name:  'Curtis Apple Orchard'
-- fields: 2
   img:  'http://lh4.ggpht.com/Tpl5ga1h9vBjG88A6xRDnvBxx7F1epdVZYUY-FNnoOS6H_0OkWXC-RqCtNsk5WSZcOBwMvdY56QCHo0hvoE'
   lat: 40.102744
   level: 6
@@ -642,13 +649,6 @@
   lon: -88.289932
   mus: 125
   name:  'Curtis Road Church of God'
-- fields: 1
-  img:  'http://lh4.ggpht.com/N6E1iW7R1Dt6SCyd1q4Ym_HeSnFZ2mHHlXE-jkX1_YLy9BgSRPcDZK8ri2PWx6-sV1IEsClFGgMgpdI2Bgg'
-  lat: 40.069187
-  level: 7
-  lon: -88.295335
-  mus: 125
-  name:  'Friendship Lutheran Church of Joy'
 - fields: 5
   img:  'http://lh5.ggpht.com/5UaLE3V21PH3K-ll263IWHlDVaOq4PYO9XS1VbHCODkFpHVo0mhfw8Aa7fYVnaZEV2GjenVIF0xrznTiQAbfkw'
   lat: 40.112948
@@ -1090,6 +1090,13 @@
   lon: -88.223683
   mus: 56
   name:  'Louise Freer Hall'
+- fields: 7
+  img:  'http://lh6.ggpht.com/NgnydTt337ADxVuRuFnimA4_Ifff2E49IzKzpqchxzsfFOWhZolCGjl48IjFWzsJYEgVBSM5nurntToYOMT7'
+  lat: 40.100488
+  level: 7
+  lon: -88.221702
+  mus: 52
+  name:  'Sigma Nu Fraternity House'
 - fields: 1
   img:  'http://lh5.ggpht.com/NHSnrnnguNnzphuELCzs-TBkUrtUVtADf8g8hjx9Ws5Sy1xGl7dBrcU96Fy5liURNnxd7hWZgvAkQOpxS3zo'
   lat: 40.08288
@@ -1118,13 +1125,6 @@
   lon: -88.200089
   mus: 46
   name:  'Folk Art at Meadowbrook Park'
-- fields: 5
-  img:  'http://lh6.ggpht.com/NgnydTt337ADxVuRuFnimA4_Ifff2E49IzKzpqchxzsfFOWhZolCGjl48IjFWzsJYEgVBSM5nurntToYOMT7'
-  lat: 40.100488
-  level: 7
-  lon: -88.221702
-  mus: 46
-  name:  'Sigma Nu Fraternity House'
 - fields: 7
   img:  'http://lh6.ggpht.com/hf2-XzERtSQhHYqpfkmEoUelpEes9pxtJ5gINRWSZ6NTzyKQI3lTEEq-UDBSvbmADpUd1ScID47hMvXgmHo'
   lat: 40.111432
@@ -1167,6 +1167,13 @@
   lon: -88.257755
   mus: 44
   name:  'Market View Fountain'
+- fields: 2
+  img:  'http://lh3.ggpht.com/gSjoDo9KYu-lgQFkD5uUnj4HXGc1BOihKfh-rNeZu_Q3hHyEkaBoalqYiV46QcvH9y4o8cPkHP_cmo_LxCyo4Q'
+  lat: 40.10214
+  level: 7
+  lon: -88.218932
+  mus: 44
+  name:  'Twin City Bible Church'
 - fields: 2
   img:  'http://lh3.ggpht.com/-HtfCPsl6TBR07OSYeO879iOvq7SdMYFxEnoERPL5FVgGJEwLdiysHzEBNfVhjVLVD6bohjNTro7bbSOwgvj'
   lat: 40.094638
@@ -1216,6 +1223,13 @@
   lon: -88.212604
   mus: 39
   name:  'Urbana Crystal Lake SW Marker'
+- fields: 4
+  img:  'http://lh3.ggpht.com/bGP5sHc4CJ8tWBxVUN_RonUmvTocQxNQDIzXf94PxHcFtqhDcWJi__diLWu-7b94x-lFOJSou24yKzPZr0E'
+  lat: 40.103829
+  level: 8
+  lon: -88.219002
+  mus: 39
+  name:  'BASIC Student Ministries Church'
 - fields: 3
   img:  'http://lh3.ggpht.com/UWeM-kXUlZAe2JGWDlEh2q1Orpp53g_qVfSvCepKpOy5gVdmDkxbQ5mdsO8xAvDa7K8Iq1lg-gDoQCzy8sck'
   lat: 40.109127
@@ -1223,6 +1237,27 @@
   lon: -88.221387
   mus: 37
   name:  'Morton Weir Memorial '
+- fields: 4
+  img:  'http://lh4.ggpht.com/zSwyeT2OHM1BNTwvZlgP1mVe-dTjc2LKjU4DSHSuEU24YLHSKziuJKmF4_BAMl1Dd3Sy1PRGPBbPbhSDX0fY'
+  lat: 40.10349
+  level: 7
+  lon: -88.218942
+  mus: 36
+  name:  'Kappa Kappa Gamma Plaque'
+- fields: 2
+  img:  'http://lh3.ggpht.com/W8FBEELyDwLQMeanXFx-Fgunxvd31WdpPq5IhpOEXVv-NygLJqO5o8a74hVaiQzxEGWm3XPPu4IWJEUcJQzN'
+  lat: 40.055019
+  level: 6
+  lon: -88.295155
+  mus: 36
+  name:  'Savoy United Methodist Church'
+- fields: 2
+  img:  'http://lh4.ggpht.com/cvJBfMiBGWYi9swdpVUOV9IzBnEVzKadh4Y9H7K7E-qh4smI830ZT03zcjPHck5NiBBuZQ1VWDgC4KjeXek'
+  lat: 40.107347
+  level: 7
+  lon: -88.213308
+  mus: 35
+  name:  'First Church of Christ Scientist'
 - fields: 2
   img:  'http://lh5.ggpht.com/1XPOesDA-iv_mWKtQAKDFXGF-lrbYv1Edq1Ex0hiStlmwFbjD_VBhpXQHzGSN1E0TqeAcMYNiE_f448nLXgC'
   lat: 40.112883
@@ -1307,13 +1342,6 @@
   lon: -88.249351
   mus: 20
   name:  'A Lady Waiting for the Bus'
-- fields: 2
-  img:  'http://lh3.ggpht.com/bGP5sHc4CJ8tWBxVUN_RonUmvTocQxNQDIzXf94PxHcFtqhDcWJi__diLWu-7b94x-lFOJSou24yKzPZr0E'
-  lat: 40.103829
-  level: 8
-  lon: -88.219002
-  mus: 20
-  name:  'BASIC Student Ministries Church'
 - fields: 1
   img:  'http://lh3.googleusercontent.com/X-2m2SMNXEpNuoDLiSA2e9pj_qzasz4kIVOwbJk_I_VcUa_bDOFKvFxeTYW4DJ2FzZXO9ocG4eG2ov_x-V3b'
   lat: 40.097261
@@ -1391,13 +1419,6 @@
   lon: -88.258539
   mus: 17
   name:  '799f637a98704c97a7644ae8a0e67405.12'
-- fields: 1
-  img:  'http://lh3.ggpht.com/W8FBEELyDwLQMeanXFx-Fgunxvd31WdpPq5IhpOEXVv-NygLJqO5o8a74hVaiQzxEGWm3XPPu4IWJEUcJQzN'
-  lat: 40.055019
-  level: 6
-  lon: -88.295155
-  mus: 17
-  name:  'Savoy United Methodist Church'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 39.988867
@@ -1420,19 +1441,12 @@
   mus: 16
   name:  'McKinley Fountain'
 - fields: 1
-  img:  'http://lh4.ggpht.com/zSwyeT2OHM1BNTwvZlgP1mVe-dTjc2LKjU4DSHSuEU24YLHSKziuJKmF4_BAMl1Dd3Sy1PRGPBbPbhSDX0fY'
-  lat: 40.10349
-  level: 7
-  lon: -88.218942
-  mus: 16
-  name:  'Kappa Kappa Gamma Plaque'
-- fields: 1
-  img:  'http://lh3.ggpht.com/gSjoDo9KYu-lgQFkD5uUnj4HXGc1BOihKfh-rNeZu_Q3hHyEkaBoalqYiV46QcvH9y4o8cPkHP_cmo_LxCyo4Q'
-  lat: 40.10214
-  level: 7
-  lon: -88.218932
-  mus: 16
-  name:  'Twin City Bible Church'
+  img:  'http://lh5.ggpht.com/gzRmKQixkcp4cu1yDSKAOq_7_ipKvFWUCHT7BfpjE6VSSAq7Q08JJGg_jt4FCMWU3ie65fwweNlj4n6dg1aQIA'
+  lat: 40.111419
+  level: 3
+  lon: -88.209885
+  mus: 15
+  name:  'Megan''s Garden'
 - fields: 3
   img:  'http://lh4.ggpht.com/ykcBOYTGpoR392b8KhoJ1HeCMQKdls6__qGzmBtOaVho1L5T2KYhV8130wLVGDT_Hr-dhJX4tl1qSQdDtLZj'
   lat: 40.085955
@@ -1713,13 +1727,6 @@
   lon: -88.20625
   mus: 7
   name:  'Abraham Lincoln - Eighth Judic'
-- fields: 1
-  img:  'http://lh4.ggpht.com/cvJBfMiBGWYi9swdpVUOV9IzBnEVzKadh4Y9H7K7E-qh4smI830ZT03zcjPHck5NiBBuZQ1VWDgC4KjeXek'
-  lat: 40.107347
-  level: 7
-  lon: -88.213308
-  mus: 7
-  name:  'First Church of Christ Scientist'
 - fields: 1
   img:  'http://lh5.ggpht.com/MQR_ZzKDnOCzhArYVQvSq3fm-6zcOGn3bneYKT9cpAuejbSEQDZBYeUPwN8D3OBLklSTSl0TJASS2zUJjUUd'
   lat: 40.105522
@@ -2126,6 +2133,13 @@
   lon: -88.283274
   mus: 2
   name:  'Austin Cloyd Memorial Plaque'
+- fields: 1
+  img:  'http://lh6.ggpht.com/X4iXokslnWFDeqwj8O471yVpY1yt3JaXPzv5dxVokmSQVqso_Ouz7xzlKgu986CiYn1RE6zBANqvPf2F3-fjPA'
+  lat: 40.103188
+  level: 6
+  lon: -88.219107
+  mus: 2
+  name:  'Alpha Gamma Delta '
 - fields: 1
   img:  'http://lh3.ggpht.com/2wN9MWxEFPbMzRPAzNmaAiCOQJj_EFr94Y1YkQP_wMlyajkajmcw00gqW-EluMvpQmvnGgcQ-WdPxjcYTmr2'
   lat: 40.106519
