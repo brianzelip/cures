@@ -467,17 +467,17 @@
   lon: -88.249208
   name:  'In Fond Memory of William Moore Jr'
 - ap: 6098
-  img:  'http://lh5.ggpht.com/Zoidr1eUAO2UEM6SyifBpkC3K42Ctl355Krd3S2ZU3BbbIMt1XFKF4C35huJT7a-K1PMF6JCK3ztTnr2Wbc9zw'
-  lat: 40.109178
-  level: 7
-  lon: -88.22945
-  name:  'Pineapple Pillar'
-- ap: 6098
   img:  'http://lh4.ggpht.com/CZA6uXTYgSkrccw1vqf6XFlfkzl6I7Rj79GOKIYGvd1Zem8O1u-opoJu65ma2eHnKdfysF0mOVGzc_am2Ns'
   lat: 40.110623
   level: 6
   lon: -88.22799
   name:  'Eta Kappa Nu Plaque'
+- ap: 6098
+  img:  'http://lh5.ggpht.com/Zoidr1eUAO2UEM6SyifBpkC3K42Ctl355Krd3S2ZU3BbbIMt1XFKF4C35huJT7a-K1PMF6JCK3ztTnr2Wbc9zw'
+  lat: 40.109178
+  level: 7
+  lon: -88.22945
+  name:  'Pineapple Pillar'
 - ap: 5722
   img:  'http://lh5.ggpht.com/93SMm7gYjGLu_6bFOqGL5MXKxKF_NsnHuxiDyywI_Jrhz-LaQoNlm0yw7lG0I9rhp5vnHkATk01A_CNYmYf-'
   lat: 40.128358
@@ -677,17 +677,17 @@
   lon: -88.225203
   name:  'Statue at Medical Sciences'
 - ap: 4598
-  img:  'http://lh6.ggpht.com/C7ThuP5fwrDTu5cMDpoeGmRjotNh6eUnPf3ksvSsUj5NkHZ0yKbIUnF8cSikhX-I_7O42CTwqjhLq9z3jkIL'
-  lat: 40.111844
-  level: 7
-  lon: -88.228609
-  name:  'Talbot Labs '
-- ap: 4598
   img:  'http://lh3.ggpht.com/aHqOXq4BX_XXhSNRFJn0768z_1bjWEniMumNJ4FMy9Nv5j3AefPsZDiAGCehCguZ1HFOBMBXxRI4mOXd077e'
   lat: 40.112957
   level: 6
   lon: -88.227127
   name:  'Early Computers Plaque'
+- ap: 4598
+  img:  'http://lh6.ggpht.com/C7ThuP5fwrDTu5cMDpoeGmRjotNh6eUnPf3ksvSsUj5NkHZ0yKbIUnF8cSikhX-I_7O42CTwqjhLq9z3jkIL'
+  lat: 40.111844
+  level: 7
+  lon: -88.228609
+  name:  'Talbot Labs '
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.152342
@@ -971,12 +971,6 @@
   lon: -88.251396
   name:  'Boots''s Garden'
 - ap: 3474
-  img:  'http://lh3.ggpht.com/F-cwL1kpN8KTxTiRAdaaAFictKYDbMRhPltdDuO0_6jhG8_6fxg1_yHzy1kBs1WXPRZ8UQDrxqY1fCdmHXFU'
-  lat: 40.108042
-  level: 6
-  lon: -88.22808
-  name:  'Earl W Porter Memorial Tree'
-- ap: 3474
   img:  'http://lh4.ggpht.com/OFVPvdgB3GVpaQknHdnt2okgP3xcQksAH3wvOGYVuP85MMlxo3bQ2SRpBb0hzNfjQoC_5LlRqaE6jLB-h9Gr'
   lat: 40.108092
   level: 4
@@ -989,23 +983,29 @@
   lon: -88.228288
   name:  'Altgeld Hall'
 - ap: 3474
-  img:  'http://lh4.ggpht.com/CuRKYla63wCvLaTdKqGMMAd1Mr0_HK3v2iQjltrJwmsOownFtry6TsHMkAeHmOP6ULUYA53u4MUP61rgLzs6'
-  lat: 40.1097
-  level: 7
-  lon: -88.228059
-  name:  'Liza Kotz Memorial Plaque'
-- ap: 3474
   img:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
   lat: 40.108173
   level: 7
   lon: -88.230209
   name:  'Mural on South Sixth Street'
 - ap: 3474
+  img:  'http://lh3.ggpht.com/F-cwL1kpN8KTxTiRAdaaAFictKYDbMRhPltdDuO0_6jhG8_6fxg1_yHzy1kBs1WXPRZ8UQDrxqY1fCdmHXFU'
+  lat: 40.108042
+  level: 6
+  lon: -88.22808
+  name:  'Earl W Porter Memorial Tree'
+- ap: 3474
   img:  'http://lh3.googleusercontent.com/vw4Js8jf11Ok889K1stO5ujNjIO9Ah9DEbsg1xBTrVbaeyBetcG75B8YS8CkQA0KVC8NA5Z02n220SI1UzdB'
   lat: 40.10985
   level: 6
   lon: -88.227236
   name:  'Illini Union'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/CuRKYla63wCvLaTdKqGMMAd1Mr0_HK3v2iQjltrJwmsOownFtry6TsHMkAeHmOP6ULUYA53u4MUP61rgLzs6'
+  lat: 40.1097
+  level: 7
+  lon: -88.228059
+  name:  'Liza Kotz Memorial Plaque'
 - ap: 3474
   img:  'http://lh3.googleusercontent.com/pihlKyQsrDy4--S-APpj9Hj1GUcsPGxa1ZK_GdhdRcEazcO1s6-IF_pAbEVNKK9dpdnr8KeiIDtg20T3PtI'
   lat: 40.111959
