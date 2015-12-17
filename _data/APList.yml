@@ -58,6 +58,12 @@
   level: 7
   lon: -88.232116
   name:  'Illini Tower'
+- ap: 10029
+  img:  'http://lh4.ggpht.com/u_MtizNv_keIXM4ITgtjqC8nr5JvB8UpDBg_5_08uQDTsQr44mwr6ZlkhTp0iKbvcV9xCJqXDeN66xYWaI0'
+  lat: 40.116227
+  level: 7
+  lon: -88.233833
+  name:  'Haley-Walker-Ginza Building'
 - ap: 9846
   img:  'http://lh5.ggpht.com/N1cFx79JwZqPlYPDW3HkNwRX8N4Auriii45qzYkAx9l-cKeK81qgZ6nuBpTBEIOyLzy4aIIhQKt2E7ZiysSjkg'
   lat: 40.10036
@@ -142,12 +148,6 @@
   level: 7
   lon: -88.238392
   name:  'Mexico Mural'
-- ap: 8905
-  img:  'http://lh4.ggpht.com/u_MtizNv_keIXM4ITgtjqC8nr5JvB8UpDBg_5_08uQDTsQr44mwr6ZlkhTp0iKbvcV9xCJqXDeN66xYWaI0'
-  lat: 40.116227
-  level: 7
-  lon: -88.233833
-  name:  'Haley-Walker-Ginza Building'
 - ap: 8533
   img:  'http://lh6.ggpht.com/yE7aPklOUj6Y4vlNLUrqm7uJbj0TAVjhl_vSEgy7CHGlkTo5yyJGeTCUnRsHYe2UAZq2h_Y3AD_m3y3i2B8'
   lat: 40.106876
@@ -677,17 +677,17 @@
   lon: -88.225203
   name:  'Statue at Medical Sciences'
 - ap: 4598
-  img:  'http://lh3.ggpht.com/aHqOXq4BX_XXhSNRFJn0768z_1bjWEniMumNJ4FMy9Nv5j3AefPsZDiAGCehCguZ1HFOBMBXxRI4mOXd077e'
-  lat: 40.112957
-  level: 6
-  lon: -88.227127
-  name:  'Early Computers Plaque'
-- ap: 4598
   img:  'http://lh6.ggpht.com/C7ThuP5fwrDTu5cMDpoeGmRjotNh6eUnPf3ksvSsUj5NkHZ0yKbIUnF8cSikhX-I_7O42CTwqjhLq9z3jkIL'
   lat: 40.111844
   level: 7
   lon: -88.228609
   name:  'Talbot Labs '
+- ap: 4598
+  img:  'http://lh3.ggpht.com/aHqOXq4BX_XXhSNRFJn0768z_1bjWEniMumNJ4FMy9Nv5j3AefPsZDiAGCehCguZ1HFOBMBXxRI4mOXd077e'
+  lat: 40.112957
+  level: 6
+  lon: -88.227127
+  name:  'Early Computers Plaque'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.152342
@@ -772,6 +772,12 @@
   level: 6
   lon: -88.228984
   name:  'Saint Andrew''s Church'
+- ap: 4222
+  img:  'http://lh4.ggpht.com/-MJc8fCVxpxV7prlhkP3sXPWZ7jsr8Behc29zUJqdz_V57jSg7SzyMUUv7B9Frzu36mJhM2PQkr_LJk-zyM'
+  lat: 40.117729
+  level: 5
+  lon: -88.243645
+  name:  'Boltini Lounge'
 - ap: 3698
   img:  'http://lh4.ggpht.com/DKqCX7ekIzT953BiW_t-Oe0jBg-GV5rCptYhvQqlLpQdaRpMxnNfMXekcxHT3XIhqCgskbqRwa-YofxMh71Q'
   lat: 40.090655
@@ -784,6 +790,12 @@
   level: 5
   lon: -88.260083
   name:  'Historic Interpretive Map of Champaign'
+- ap: 3848
+  img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
+  lat: 40.117107
+  level: 6
+  lon: -88.242467
+  name:  'Radio Maria'
 - ap: 3848
   img:  'http://lh5.ggpht.com/hjAc940kWyt9QT4G_BJyJKaTef3jL_Njnm8ubUtQD7u6qVsD9_7TiJbgZpKeqAv60kNw8FYspVxkn-Bt1cxYBw'
   lat: 40.109959
@@ -959,6 +971,12 @@
   lon: -88.251396
   name:  'Boots''s Garden'
 - ap: 3474
+  img:  'http://lh3.ggpht.com/F-cwL1kpN8KTxTiRAdaaAFictKYDbMRhPltdDuO0_6jhG8_6fxg1_yHzy1kBs1WXPRZ8UQDrxqY1fCdmHXFU'
+  lat: 40.108042
+  level: 6
+  lon: -88.22808
+  name:  'Earl W Porter Memorial Tree'
+- ap: 3474
   img:  'http://lh4.ggpht.com/OFVPvdgB3GVpaQknHdnt2okgP3xcQksAH3wvOGYVuP85MMlxo3bQ2SRpBb0hzNfjQoC_5LlRqaE6jLB-h9Gr'
   lat: 40.108092
   level: 4
@@ -971,29 +989,23 @@
   lon: -88.228288
   name:  'Altgeld Hall'
 - ap: 3474
+  img:  'http://lh4.ggpht.com/CuRKYla63wCvLaTdKqGMMAd1Mr0_HK3v2iQjltrJwmsOownFtry6TsHMkAeHmOP6ULUYA53u4MUP61rgLzs6'
+  lat: 40.1097
+  level: 7
+  lon: -88.228059
+  name:  'Liza Kotz Memorial Plaque'
+- ap: 3474
   img:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
   lat: 40.108173
   level: 7
   lon: -88.230209
   name:  'Mural on South Sixth Street'
 - ap: 3474
-  img:  'http://lh3.ggpht.com/F-cwL1kpN8KTxTiRAdaaAFictKYDbMRhPltdDuO0_6jhG8_6fxg1_yHzy1kBs1WXPRZ8UQDrxqY1fCdmHXFU'
-  lat: 40.108042
-  level: 6
-  lon: -88.22808
-  name:  'Earl W Porter Memorial Tree'
-- ap: 3474
   img:  'http://lh3.googleusercontent.com/vw4Js8jf11Ok889K1stO5ujNjIO9Ah9DEbsg1xBTrVbaeyBetcG75B8YS8CkQA0KVC8NA5Z02n220SI1UzdB'
   lat: 40.10985
   level: 6
   lon: -88.227236
   name:  'Illini Union'
-- ap: 3474
-  img:  'http://lh4.ggpht.com/CuRKYla63wCvLaTdKqGMMAd1Mr0_HK3v2iQjltrJwmsOownFtry6TsHMkAeHmOP6ULUYA53u4MUP61rgLzs6'
-  lat: 40.1097
-  level: 7
-  lon: -88.228059
-  name:  'Liza Kotz Memorial Plaque'
 - ap: 3474
   img:  'http://lh3.googleusercontent.com/pihlKyQsrDy4--S-APpj9Hj1GUcsPGxa1ZK_GdhdRcEazcO1s6-IF_pAbEVNKK9dpdnr8KeiIDtg20T3PtI'
   lat: 40.111959
@@ -1006,12 +1018,6 @@
   level: 5
   lon: -88.201892
   name:  'American Veterans Memorial'
-- ap: 3285
-  img:  'http://lh4.ggpht.com/-MJc8fCVxpxV7prlhkP3sXPWZ7jsr8Behc29zUJqdz_V57jSg7SzyMUUv7B9Frzu36mJhM2PQkr_LJk-zyM'
-  lat: 40.117729
-  level: 5
-  lon: -88.243645
-  name:  'Boltini Lounge'
 - ap: 3285
   img:  'http://lh3.googleusercontent.com/awNe0JGlWWAtHv9iiLcqQjVyppWY-io4ybTL_ir2ZKsMLJgkZcW4rdUAuDjOFdWQvIcp5jlTWiROgHANh1Y1'
   lat: 40.087822
@@ -1198,12 +1204,6 @@
   level: 5
   lon: -88.245551
   name:  'The Virginia Theater'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
-  lat: 40.117107
-  level: 5
-  lon: -88.242467
-  name:  'Radio Maria'
 - ap: 2312
   img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
   lat: 40.115838
@@ -1295,6 +1295,18 @@
   lon: -88.227811
   name:  'Henry Administration Building'
 - ap: 2537
+  img:  'http://lh3.ggpht.com/by946OhJ5ooOkbG4f662qjbXqvrQAd98E36mSJLgTsLgL_tb8GDpNxTOEhtgsjEhY-OzKmRxAmLFbYPscSH6'
+  lat: 40.101619
+  level: 5
+  lon: -88.233644
+  name:  'Taft-Van Doren Hall'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/85X0vnlHzLPww3OziBoMSVfkwq66eKQNZ9Mn6qsjghvteOQZiAVlsY80NVcsErHao0QYd9IyF7PDJyp-jaQ'
+  lat: 40.101632
+  level: 6
+  lon: -88.233133
+  name:  'Sunken Cube at Art and Design Building'
+- ap: 2537
   img:  'http://lh6.ggpht.com/pYay9oPZwUNKfLdWJ1JMI5tA9-Gd0vsBddLTz7fXN6wUW7F23hLMWRwFZNnXyomRkc2f9sqCGMxNWuYHPFZx'
   lat: 40.109142
   level: 6
@@ -1312,18 +1324,6 @@
   level: 6
   lon: -88.230676
   name:  'Sousa Archives Center-Amer Music'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/by946OhJ5ooOkbG4f662qjbXqvrQAd98E36mSJLgTsLgL_tb8GDpNxTOEhtgsjEhY-OzKmRxAmLFbYPscSH6'
-  lat: 40.101619
-  level: 5
-  lon: -88.233644
-  name:  'Taft-Van Doren Hall'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/85X0vnlHzLPww3OziBoMSVfkwq66eKQNZ9Mn6qsjghvteOQZiAVlsY80NVcsErHao0QYd9IyF7PDJyp-jaQ'
-  lat: 40.101632
-  level: 6
-  lon: -88.233133
-  name:  'Sunken Cube at Art and Design Building'
 - ap: 2537
   img:  'http://lh5.ggpht.com/dgQfoxxVeHT5ODqLiUYHV45qvkC_BMS0kIFRqvHvE2GO0TduZ0-XzhW8RE80LtPDK0Ay5xwA6PtjM7G3C9U8'
   lat: 40.108947
