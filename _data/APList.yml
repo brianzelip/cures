@@ -731,17 +731,17 @@
   lon: -88.231952
   name:  'University of Illinois Armory'
 - ap: 2724
-  img:  'http://lh5.ggpht.com/Zoidr1eUAO2UEM6SyifBpkC3K42Ctl355Krd3S2ZU3BbbIMt1XFKF4C35huJT7a-K1PMF6JCK3ztTnr2Wbc9zw'
-  lat: 40.109178
-  level: 6
-  lon: -88.22945
-  name:  'Pineapple Pillar'
-- ap: 2724
   img:  'http://lh4.ggpht.com/0j8eeTKJgjnYhHpf4qH_70CZHLbujC5v-XP_ndcqh1xIR-5V2K_CGdjIe1ZfMbwvSyISxxYKoZynw1DaQcj8'
   lat: 40.105874
   level: 7
   lon: -88.230562
   name:  'St. John''s Rectory'
+- ap: 2724
+  img:  'http://lh5.ggpht.com/Zoidr1eUAO2UEM6SyifBpkC3K42Ctl355Krd3S2ZU3BbbIMt1XFKF4C35huJT7a-K1PMF6JCK3ztTnr2Wbc9zw'
+  lat: 40.109178
+  level: 6
+  lon: -88.22945
+  name:  'Pineapple Pillar'
 - ap: 2724
   img:  'http://lh5.ggpht.com/kElaGOaV9aI8SrnM1D65gx9J0Ky1AKrN9Yo-pXVmDhELt2pee4MwVRiCqCmlqWzUWj5pS33GnEzAiXmiWKsw'
   lat: 40.108111
@@ -784,6 +784,18 @@
   level: '?'
   lon: -88.263266
   name:  '6fc2b246c1ea47d0ba7c8aaacc073f38.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.36906
+  level: '?'
+  lon: -89.126394
+  name:  '8f85ad2b30f74ba591e22e97cf8acd84.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.399125
+  level: '?'
+  lon: -89.906876
+  name:  '4d039e4a92774f1890e260bf8bdffddd.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.8915
@@ -952,6 +964,12 @@
   level: 6
   lon: -88.239009
   name:  'Honesty Best Policy  - Vernon A. Roland Building'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/F-cwL1kpN8KTxTiRAdaaAFictKYDbMRhPltdDuO0_6jhG8_6fxg1_yHzy1kBs1WXPRZ8UQDrxqY1fCdmHXFU'
+  lat: 40.108042
+  level: 6
+  lon: -88.22808
+  name:  'Earl W Porter Memorial Tree'
 - ap: 2387
   img:  'http://lh4.ggpht.com/OFVPvdgB3GVpaQknHdnt2okgP3xcQksAH3wvOGYVuP85MMlxo3bQ2SRpBb0hzNfjQoC_5LlRqaE6jLB-h9Gr'
   lat: 40.108092
@@ -965,12 +983,6 @@
   lon: -88.225998
   name:  'Lifesaving Antibiotic Plaque'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/F-cwL1kpN8KTxTiRAdaaAFictKYDbMRhPltdDuO0_6jhG8_6fxg1_yHzy1kBs1WXPRZ8UQDrxqY1fCdmHXFU'
-  lat: 40.108042
-  level: 6
-  lon: -88.22808
-  name:  'Earl W Porter Memorial Tree'
-- ap: 2537
   img:  'http://lh6.ggpht.com/MzDfG6eMMwVr56zIpVxRJKU2aoUq-95CLeBhoiEQQKzpC2zulq5jFDLv1IK0JcRy5Q0PhRAreZ1p2ElsdnNu'
   lat: 40.108048
   level: 6
@@ -982,18 +994,18 @@
   level: 5
   lon: -88.22469
   name:  'Building of Molecular and Cellular Biology Sculpture'
-- ap: 2312
-  img:  'http://lh4.ggpht.com/EsyXMnqVMX7wQ4YmoCFRiNljaJqaXrQvzyzzooqx2fPxCSkJMkdEssTbf618D8Qp9hh3E4Ud3hL1M3v-TsbO'
-  lat: 40.104688
-  level: 4
-  lon: -88.230676
-  name:  'Sousa Archives Center-Amer Music'
 - ap: 2537
   img:  'http://lh4.ggpht.com/bYrhTw8QophdiqDG-upqJ6JX2g2tZYX4N1jC4d_cciIj4ep8oQvIgjJlfge2VCmzSZe9irj-BTpbj9Jcv7U'
   lat: 40.103009
   level: 6
   lon: -88.233215
   name:  'Mac and Diana Garret Memorial Tree'
+- ap: 2312
+  img:  'http://lh4.ggpht.com/EsyXMnqVMX7wQ4YmoCFRiNljaJqaXrQvzyzzooqx2fPxCSkJMkdEssTbf618D8Qp9hh3E4Ud3hL1M3v-TsbO'
+  lat: 40.104688
+  level: 4
+  lon: -88.230676
+  name:  'Sousa Archives Center-Amer Music'
 - ap: 2537
   img:  'http://lh6.ggpht.com/hPutcAvS7zQN-tagfEY-fvkvdlgj7j5sZwUSLY883Twc7tHyslIAp7lzWYciJmCytDfsbFQtavAlzqGwCgFZkw'
   lat: 40.105562
