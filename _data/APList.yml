@@ -10,12 +10,6 @@
   level: 8
   lon: -88.250141
   name:  'Bob and Wilma Tinkham'
-- ap: 11529
-  img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
-  lat: 40.098239
-  level: 6
-  lon: -88.25376
-  name:  'Hessel Park Christian Reformed Church'
 - ap: 10783
   img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
   lat: 40.098246
@@ -28,6 +22,12 @@
   level: 8
   lon: -88.251157
   name:  'Tyler Van Atkins Memorial'
+- ap: 10405
+  img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
+  lat: 40.098239
+  level: 6
+  lon: -88.25376
+  name:  'Hessel Park Christian Reformed Church'
 - ap: 9846
   img:  'http://lh5.ggpht.com/N1cFx79JwZqPlYPDW3HkNwRX8N4Auriii45qzYkAx9l-cKeK81qgZ6nuBpTBEIOyLzy4aIIhQKt2E7ZiysSjkg'
   lat: 40.10036
@@ -143,12 +143,6 @@
   lon: -88.31285
   name:  'Sunset Ridge Park Dedication'
 - ap: 7409
-  img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
-  lat: 40.097979
-  level: 5
-  lon: -88.247785
-  name:  'Jarling''s Custard Cup'
-- ap: 7409
   img:  'http://lh5.ggpht.com/1yq3oFq9p_Yl5cUf5h7IEfZPAbae2MT7lA0DFo1DHwPWPZJJ-Ez-2AE2oTzHEHWsEJQVUcUwh3j_d3kOYgDS'
   lat: 40.110095
   level: 7
@@ -238,6 +232,12 @@
   level: 7
   lon: -88.227932
   name:  'Talbot Lab Mural'
+- ap: 6285
+  img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
+  lat: 40.097979
+  level: 6
+  lon: -88.247785
+  name:  'Jarling''s Custard Cup'
 - ap: 6285
   img:  'http://lh6.ggpht.com/TXVMllOHjnPSJgg_7oE4ZuY82xJs56TE9AbaxAFxXWiD5yKwlOZUHfx74BaxCzczl9hTtaKqkaDsA4LeZ94'
   lat: 40.110617
@@ -551,12 +551,6 @@
   lon: -88.312816
   name:  'Sunset Ridge Park'
 - ap: 3474
-  img:  'http://lh6.ggpht.com/nRwew4OU3JNWRI1-xCyuN1xwDabajLFDuSlOZ-_M8BwJELli4V8o30JI0UyF6Kpc4gfDGdh10kJ6mD6ggMo'
-  lat: 40.108561
-  level: 5
-  lon: -88.250039
-  name:  'Harris Park'
-- ap: 3474
   img:  'http://lh5.ggpht.com/nWEtxuKQdy0teBBue1DYmG7P3SF5-3A6zlB7GwVHBWlolAZYGq6Br78lWcF9ltFy-KeSlozXie2RmU6JfCUX'
   lat: 40.142673
   level: 5
@@ -634,18 +628,12 @@
   level: 7
   lon: -88.231962
   name:  '1926 Sigil'
-- ap: 3098
+- ap: 2611
   img:  'http://lh6.ggpht.com/nbUJivBo0zF8f8aBbk1GwakUpPbLUVOoEovTTETYwJvfNIHXwG9XUbwoV0x-ly4ZO5Hsyv5KPo3c9cE6Nh8'
   lat: 40.118832
-  level: 6
+  level: 2
   lon: -88.243643
   name:  'Tesla Ball'
-- ap: 2911
-  img:  'http://lh5.ggpht.com/D9O580D9hlBOqeMvt2V4nL-eHP62h4vG4YFgk-WTw7GunusU9AOffFuHZ9XYWoB8YrGxpCMu2Y77-LCAgcdT'
-  lat: 40.119328
-  level: 7
-  lon: -88.243755
-  name:  'Birthplace of Champaign / Beautiful Beardsley Hotel'
 - ap: 2911
   img:  'http://lh3.googleusercontent.com/awNe0JGlWWAtHv9iiLcqQjVyppWY-io4ybTL_ir2ZKsMLJgkZcW4rdUAuDjOFdWQvIcp5jlTWiROgHANh1Y1'
   lat: 40.087822
@@ -670,12 +658,6 @@
   level: 6
   lon: -88.227238
   name:  'Flow'
-- ap: 2724
-  img:  'http://lh6.ggpht.com/uJ6kk4uQVfzQ22nbmRS5caadkRcM8fSpAlbvgM8KacYRDBYZtQTBKIHX7ju9ejvrdRG_oIr5QDELOwvb7L0'
-  lat: 40.121759
-  level: 6
-  lon: -88.24366
-  name:  'King''s Assembly Church'
 - ap: 2724
   img:  'http://lh6.ggpht.com/o-Si4_DCq7Qwa_fFJhaTZ0-zCScbl7wDS4PHIFGMbnP9TuPVe9ZauXV3lAreyYvxN7B7n8mlrOR2SsPzXmU'
   lat: 40.115703
@@ -869,17 +851,17 @@
   lon: -88.217162
   name:  'St Patrick''s Catholic Church'
 - ap: 2537
+  img:  'http://lh6.ggpht.com/uJ6kk4uQVfzQ22nbmRS5caadkRcM8fSpAlbvgM8KacYRDBYZtQTBKIHX7ju9ejvrdRG_oIr5QDELOwvb7L0'
+  lat: 40.121759
+  level: 6
+  lon: -88.24366
+  name:  'King''s Assembly Church'
+- ap: 2537
   img:  'http://lh6.ggpht.com/Ga3KqqKjCVdJ61URIBqkyBWPxV3xirqZoKzANDZmHeorlcqipmRLJFOy4-GmWU_2_783_KDPu3hkA0PNh5s'
   lat: 40.124082
   level: 7
   lon: -88.243434
   name:  'Theb Sculpture'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/ik1uVZ-KWyRH4dh51LJI7gFmnM7bmfSZ-1YqfELbVQEvuo-gEx2QpG6jQpFPeAlFPi2rVPAuzRmXMD0Whsm2HA'
-  lat: 40.122038
-  level: 6
-  lon: -88.245318
-  name:  'The Old Residential Block'
 - ap: 2537
   img:  'http://lh5.ggpht.com/hjAc940kWyt9QT4G_BJyJKaTef3jL_Njnm8ubUtQD7u6qVsD9_7TiJbgZpKeqAv60kNw8FYspVxkn-Bt1cxYBw'
   lat: 40.109959
@@ -994,10 +976,10 @@
   level: 5
   lon: -88.234991
   name:  'Acacia House'
-- ap: 2537
+- ap: 2462
   img:  'http://lh5.ggpht.com/Z2EWM4D6YQHuqnLwtuPBawyQBZxTzVe9E17MKc8jOZkO0ZzkuD5zSQslY2iuXkkUnztPteUeOSHrSTz3voHC'
   lat: 40.111166
-  level: 7
+  level: 6
   lon: -88.228747
   name:  'Boneyard Creek Mural'
 - ap: 2537
