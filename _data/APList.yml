@@ -35,17 +35,17 @@
   lon: -88.251157
   name:  'Tyler Van Atkins Memorial'
 - ap: 9846
-  img:  'http://lh5.ggpht.com/N1cFx79JwZqPlYPDW3HkNwRX8N4Auriii45qzYkAx9l-cKeK81qgZ6nuBpTBEIOyLzy4aIIhQKt2E7ZiysSjkg'
-  lat: 40.10036
-  level: 8
-  lon: -88.250515
-  name:  'Mark Foutch Pavilion'
-- ap: 9846
   img:  'http://lh3.ggpht.com/lzCSS0_tjwUV7JQ2fgLI0e05IrzPxlVUs-6aEPOwUv67IanQJSTi71gkw0SGm8asmoE_r3Xoh048Fd9xRpE'
   lat: 40.099169
   level: 8
   lon: -88.251419
   name:  'Lyman Larson Memorial'
+- ap: 9846
+  img:  'http://lh5.ggpht.com/N1cFx79JwZqPlYPDW3HkNwRX8N4Auriii45qzYkAx9l-cKeK81qgZ6nuBpTBEIOyLzy4aIIhQKt2E7ZiysSjkg'
+  lat: 40.10036
+  level: 8
+  lon: -88.250515
+  name:  'Mark Foutch Pavilion'
 - ap: 9846
   img:  'http://lh5.ggpht.com/Lup2et0i5h8oHqtBffIdoyX5uclC2MBn9ZnnKnYPr4RIFSflf9bi78zBHK7QqycA0qgEev9qOk0zU-1o1hg'
   lat: 40.108451
@@ -797,6 +797,12 @@
   lon: -88.222011
   name:  'Jettie Rhodes Pavilion'
 - ap: 3661
+  img:  'http://lh5.ggpht.com/NUOCD82iNRGW1NGqEC4FKet1u5_cm4WRNc2c9_YABAjGf6-OSCLz7HgYkP1ZuVAbpMl6Qi10HRW16Oc9jNM2'
+  lat: 40.106401
+  level: 5
+  lon: -88.236182
+  name:  'Washington Park'
+- ap: 3661
   img:  'http://lh5.ggpht.com/ucFkWovrZBr6wFMicSGD78p44tqzcyfJCvQuAocYo0do3ODoHsOeAMphZZferoOLkGfuJPQVlILRzKG1vAPg'
   lat: 40.109172
   level: 5
@@ -808,12 +814,6 @@
   level: 7
   lon: -88.230676
   name:  'Sousa Archives Center-Amer Music'
-- ap: 3661
-  img:  'http://lh5.ggpht.com/NUOCD82iNRGW1NGqEC4FKet1u5_cm4WRNc2c9_YABAjGf6-OSCLz7HgYkP1ZuVAbpMl6Qi10HRW16Oc9jNM2'
-  lat: 40.106401
-  level: 5
-  lon: -88.236182
-  name:  'Washington Park'
 - ap: 3661
   img:  'http://lh6.ggpht.com/s0NjKuARUySFKyN76g9Vr1UymiO5a-Ev822C0UEiLqAFzFggW39lRKoYierDtj89xVWRDioyodaQ1Ve0SGBBXA'
   lat: 40.121861
@@ -898,10 +898,10 @@
   level: 5
   lon: -88.251586
   name:  'Boulware Trail'
-- ap: 3174
+- ap: 3099
   img:  'http://lh3.ggpht.com/ugJXpaIWZ-wI1vpderJmQjM8r0T5_Li2j4hvvsu4fRM9k3MeBpETqj2LFNd1pEkcfH0I9bgZh--5g1AEJKkq'
   lat: 40.092745
-  level: 3
+  level: 2
   lon: -88.251235
   name:  'William C Fox Honorary Plaque'
 - ap: 3474
@@ -1080,30 +1080,6 @@
   name:  '7bb0a855a0ad476da15c867fae0f4350.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.36906
-  level: '?'
-  lon: -89.126394
-  name:  '8f85ad2b30f74ba591e22e97cf8acd84.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.399125
-  level: '?'
-  lon: -89.906876
-  name:  '4d039e4a92774f1890e260bf8bdffddd.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.8915
-  level: '?'
-  lon: -87.598916
-  name:  '993519285b884a48b15af8ae52e0fa55.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.80088
-  level: '?'
-  lon: -86.748292
-  name:  'ddcc9b8db6e8412f83026210d90b4a60.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.896156
   level: '?'
   lon: -87.610071
@@ -1116,6 +1092,18 @@
   name:  '8e9ca11084d74321bda36c4dc982820e.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.36906
+  level: '?'
+  lon: -89.126394
+  name:  '8f85ad2b30f74ba591e22e97cf8acd84.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.399125
+  level: '?'
+  lon: -89.906876
+  name:  '4d039e4a92774f1890e260bf8bdffddd.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 44.607633
   level: '?'
   lon: -87.43205
@@ -1126,6 +1114,18 @@
   level: '?'
   lon: -87.757887
   name:  'a7f76472c11441cf9ac511a4083f1c8f.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.8915
+  level: '?'
+  lon: -87.598916
+  name:  '993519285b884a48b15af8ae52e0fa55.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.80088
+  level: '?'
+  lon: -86.748292
+  name:  'ddcc9b8db6e8412f83026210d90b4a60.16'
 - ap: 2537
   img:  'http://lh3.ggpht.com/fALAYK0M4imvlOA0vpJd8uOXpb0SvXft0NJmoF1vWieQ3g-Ps3CF7wgfjFiy1v81v26SbN5Rquo5697dHPPT'
   lat: 40.083666
@@ -1223,17 +1223,17 @@
   lon: -88.257688
   name:  'Champaign Fire Department'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/NMgUdPOdhvhvKZh7ugwXgybshZBZ2mkaEWMNKYdFPX6cfIYENSCqE9YpAXSNVuq_9VVWXJB-ShCBAPfF2Yvs'
-  lat: 40.102513
-  level: 7
-  lon: -88.243679
-  name:  'Robert Hosier Memorial Garden'
-- ap: 2537
   img:  'http://lh3.googleusercontent.com/enpZZ8JRREFPTvYd3jbeUlpS-mmcwKe5fsvoWRPkfMUj6PijyI-5tbR55UItBoNJAFSl9fAAOvXb6BpWCJT4'
   lat: 40.102495
   level: 7
   lon: -88.242132
   name:  'Nuclear Physics Lab'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/NMgUdPOdhvhvKZh7ugwXgybshZBZ2mkaEWMNKYdFPX6cfIYENSCqE9YpAXSNVuq_9VVWXJB-ShCBAPfF2Yvs'
+  lat: 40.102513
+  level: 7
+  lon: -88.243679
+  name:  'Robert Hosier Memorial Garden'
 - ap: 2537
   img:  'http://lh5.ggpht.com/_gJqtOHLZ9UHsmd_iLjxMsPw5eF5YzqE63qEAzURvSp_3OL9ZrPjM-usiUeYx95b7zTdNodab42cQiyiRRja'
   lat: 40.087835
