@@ -10,6 +10,12 @@
   level: 8
   lon: -88.250141
   name:  'Bob and Wilma Tinkham'
+- ap: 11346
+  img:  'http://lh5.ggpht.com/wX6-mbTE7nT00T6ildapKbI5ZrnhPIt4l91DhMseyo3GYFrgQIuqbjh8ntZY6NxGZ-qa6fKWlyoBOPdIdNIt'
+  lat: 40.114653
+  level: 7
+  lon: -88.243729
+  name:  'The Phoenix'
 - ap: 10783
   img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
   lat: 40.098246
@@ -22,12 +28,6 @@
   level: 7
   lon: -88.22862
   name:  'Alma Mater Plaza'
-- ap: 10596
-  img:  'http://lh5.ggpht.com/wX6-mbTE7nT00T6ildapKbI5ZrnhPIt4l91DhMseyo3GYFrgQIuqbjh8ntZY6NxGZ-qa6fKWlyoBOPdIdNIt'
-  lat: 40.114653
-  level: 7
-  lon: -88.243729
-  name:  'The Phoenix'
 - ap: 10596
   img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
   lat: 40.099737
@@ -319,13 +319,13 @@
 - ap: 6846
   img:  'http://lh3.ggpht.com/sEtB-WtZgmk9Bt0i07yNcTAXMhYB5KL6O1iQVnxq2V6mW6r89EY67NajUUF9c87CmLtzpwLsF_X2dYEcsDF4wA'
   lat: 40.112935
-  level: 5
+  level: 6
   lon: -88.220489
   name:  'The HUB Campus Church'
 - ap: 6659
   img:  'http://lh3.ggpht.com/3rw0YLp6-Ui3LAecadtTtTgoMRU7Q6vPRiNiSCod3Qb-bGjOJxf34EEnZP89KvnrTILkQM3PIE9-CIdmasz-'
   lat: 40.112897
-  level: 5
+  level: 6
   lon: -88.219672
   name:  'Mennonite Church'
 - ap: 6472
@@ -611,6 +611,18 @@
   lon: -88.244603
   name:  'Italian Statue'
 - ap: 4411
+  img:  'http://lh6.ggpht.com/Jltxi7PZ9OVi8hBCUxdt9oxXQk9zmbrtHpM_jru2WhVYyY0UkNZ8h5SU3CdwMRNzZ1ZKabPR8hDCPz7p3Ms'
+  lat: 40.114439
+  level: 6
+  lon: -88.245013
+  name:  'New Covenant Fellowship'
+- ap: 4411
+  img:  'http://lh6.ggpht.com/2lDM_Uj6QcUJmWkmPhNWg-vfkJbBQAo6zb7eXC5qDTaJ5xAsoU7jPPqYmLo7zztC2Za1oH3QVrHQ78-XabqR'
+  lat: 40.116398
+  level: 8
+  lon: -88.242485
+  name:  'Champaign Servicemen and Women Memorial'
+- ap: 4411
   img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
   lat: 40.099593
   level: 8
@@ -689,12 +701,6 @@
   lon: -88.272793
   name:  'Salt And Light Ministries'
 - ap: 3848
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.152792
-  level: '?'
-  lon: -88.253532
-  name:  'Toalson Park'
-- ap: 3848
   img:  'http://lh5.ggpht.com/hjAc940kWyt9QT4G_BJyJKaTef3jL_Njnm8ubUtQD7u6qVsD9_7TiJbgZpKeqAv60kNw8FYspVxkn-Bt1cxYBw'
   lat: 40.109959
   level: 7
@@ -721,10 +727,10 @@
 - ap: 3661
   img:  'http://lh3.googleusercontent.com/hJZWoErzM-MuXulq4FlhlZwMbJX1Isd81GBUBVKayd57jVIVxUle3itd-1DRKo2VaNXznWr1X639fa44Etk'
   lat: 40.141919
-  level: 5
+  level: 6
   lon: -88.244611
   name:  'Marketplace Mall Carousel'
-- ap: 3511
+- ap: 3436
   img:  'http://lh3.ggpht.com/yeYI3q7rDQLA5xBcWfH-Caw2Uh740ZPRQjjyvOrZz7ZyLI-gxBpi8yqxqDrlOBzG9YHs6YlxdgX0obTpXlQ'
   lat: 40.117681
   level: 4
@@ -803,30 +809,6 @@
   lon: -88.243468
   name:  'Dog Heart'
 - ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.152192
-  level: '?'
-  lon: -88.252279
-  name:  'Toalson Park South Entrance'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.152342
-  level: '?'
-  lon: -88.252345
-  name:  'Toalson Park Basketball Hoop'
-- ap: 3474
-  img:  'http://lh6.ggpht.com/Jltxi7PZ9OVi8hBCUxdt9oxXQk9zmbrtHpM_jru2WhVYyY0UkNZ8h5SU3CdwMRNzZ1ZKabPR8hDCPz7p3Ms'
-  lat: 40.114439
-  level: 6
-  lon: -88.245013
-  name:  'New Covenant Fellowship'
-- ap: 3474
-  img:  'http://lh6.ggpht.com/2lDM_Uj6QcUJmWkmPhNWg-vfkJbBQAo6zb7eXC5qDTaJ5xAsoU7jPPqYmLo7zztC2Za1oH3QVrHQ78-XabqR'
-  lat: 40.116398
-  level: 8
-  lon: -88.242485
-  name:  'Champaign Servicemen and Women Memorial'
-- ap: 3474
   img:  'http://lh4.ggpht.com/9jXAzAxn0JZrLkU9VK9p-mNzjw3x_6QqwMAn4CAEBAHp_lo2iDZeV_y-hoUzP5CYwm8kOMyrTToZQOWJBRnw'
   lat: 40.115095
   level: 4
@@ -844,7 +826,7 @@
   level: 3
   lon: -88.24957
   name:  'Linda M. Wesolowski Memorial Sign'
-- ap: 3474
+- ap: 3399
   img:  'http://lh5.ggpht.com/BPYtoLzDqibtj79fwGYxizNqHsBoJp5OzVO4Z-75rudKppazgw7D0eoXHOpH20iQd2Uc9MHXs72-r7fOJDNzpz3KRHIpZwzmXBope3LI8GA4SfsY'
   lat: 40.117754
   level: 5
@@ -935,12 +917,6 @@
   lon: -88.219509
   name:  'University Of Illinois'
 - ap: 3285
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.185093
-  level: '?'
-  lon: -88.296792
-  name:  'Hensley Township Town Hall'
-- ap: 3285
   img:  'http://lh4.ggpht.com/BakPypxJUdTOMFo4cSzlewsmPlHw3DyQp4kVY2zAFfJvhvj9CnaQm6cqvB22BqjknBbUYxEb_eYnIZ2skgfO'
   lat: 40.11586
   level: 6
@@ -952,6 +928,12 @@
   level: 7
   lon: -88.231962
   name:  '1926 Sigil'
+- ap: 3098
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.185093
+  level: '?'
+  lon: -88.296792
+  name:  'Hensley Township Town Hall'
 - ap: 3098
   img:  'http://lh3.ggpht.com/OtT56RocwPxPgcve6b9P9h4GvUFT5XVlsBBqmCg-K8i6I1c-3RVRip5KtAoqlaUqE2BUkSwl8clISDit9EU'
   lat: 40.119453
@@ -970,6 +952,12 @@
   level: 7
   lon: -88.233688
   name:  'University Baptist Church'
+- ap: 2911
+  img:  'http://lh5.ggpht.com/RsXj0S9rbD_i4VFZmhxJtNtmwEeJOoYsmM8wyu90kB6srZMfUskP6iqrTY9eqFNQhhQrU50k92lCH4JEQ2w'
+  lat: 40.127358
+  level: 7
+  lon: -88.243851
+  name:  'Stanchion'
 - ap: 2911
   img:  'http://lh3.googleusercontent.com/awNe0JGlWWAtHv9iiLcqQjVyppWY-io4ybTL_ir2ZKsMLJgkZcW4rdUAuDjOFdWQvIcp5jlTWiROgHANh1Y1'
   lat: 40.087822
@@ -994,12 +982,6 @@
   level: 4
   lon: -88.289765
   name:  'Kaufman Park'
-- ap: 2724
-  img:  'http://lh5.ggpht.com/RsXj0S9rbD_i4VFZmhxJtNtmwEeJOoYsmM8wyu90kB6srZMfUskP6iqrTY9eqFNQhhQrU50k92lCH4JEQ2w'
-  lat: 40.127358
-  level: 7
-  lon: -88.243851
-  name:  'Stanchion'
 - ap: 2724
   img:  'http://lh6.ggpht.com/Ga3KqqKjCVdJ61URIBqkyBWPxV3xirqZoKzANDZmHeorlcqipmRLJFOy4-GmWU_2_783_KDPu3hkA0PNh5s'
   lat: 40.124082
@@ -1062,22 +1044,16 @@
   name:  'Lake of the Woods Church'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.193201
+  lat: 41.998446
   level: '?'
-  lon: -88.277334
-  name:  'Giant Plastic Pear'
+  lon: -87.655105
+  name:  '52cce80fc431450ebc8531ee1da8d810.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.896156
+  lat: 42.661308
   level: '?'
-  lon: -87.610071
-  name:  'ac0239c3ac404385984dd819cebf734a.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.658269
-  level: '?'
-  lon: -86.207253
-  name:  '8e9ca11084d74321bda36c4dc982820e.16'
+  lon: -86.20906
+  name:  'fd6f2ada7f0f4f4db833c22dda24ff38.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.215462
@@ -1114,6 +1090,18 @@
   level: 4
   lon: -88.289696
   name:  'El Toro Fountain'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.152192
+  level: '?'
+  lon: -88.252279
+  name:  'Toalson Park South Entrance'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.152342
+  level: '?'
+  lon: -88.252345
+  name:  'Toalson Park Basketball Hoop'
 - ap: 2537
   img:  'http://lh6.ggpht.com/ytlRYKlqnchcFvl3QEN1XknYcwYKIjohz4qzWW8SmhDi5mypBmgPbf9e4ghZWMZY5gpD9HIyalemSKsIzyA'
   lat: 40.11408
@@ -1157,6 +1145,12 @@
   lon: -88.238621
   name:  'Bombay Indian Grill'
 - ap: 2537
+  img:  'http://lh3.ggpht.com/my_h4qixFMd6jwP9asxucVH5iZ3ZW1oV4DbCKeys_8MAAp1-KYNV0YFzZtZTEd9L0ZaMl1OqucHJTPdwROI'
+  lat: 40.127447
+  level: 7
+  lon: -88.244069
+  name:  'Hazel Park Playground Dedication Plaque'
+- ap: 2537
   img:  'http://lh4.ggpht.com/4fOkmPX5YOrfNgs98zKNwIv5kRHJEUoIYouducEDloHlUY2wGAFlCNQxybwM9YRZZEKCxTucl0tqg2eqiW0'
   lat: 40.108017
   level: 6
@@ -1181,12 +1175,6 @@
   lon: -88.257688
   name:  'Champaign Fire Department'
 - ap: 2537
-  img:  'http://lh3.googleusercontent.com/gCJN301o7TKMPpTwXYpuWceaR0wtjm4S3By0SJ5ubrMNK0UEKo6bMcldlreNdLDqpnrYOFmjqByM6vCJDCT-'
-  lat: 40.086378
-  level: 5
-  lon: -88.251308
-  name:  'Life Lessons from Kimberly Kueffler'
-- ap: 2537
   img:  'http://lh5.ggpht.com/_gJqtOHLZ9UHsmd_iLjxMsPw5eF5YzqE63qEAzURvSp_3OL9ZrPjM-usiUeYx95b7zTdNodab42cQiyiRRja'
   lat: 40.087835
   level: 5
@@ -1198,6 +1186,12 @@
   level: 5
   lon: -88.252282
   name:  'Elsie Mattis Springer Memorial'
+- ap: 2537
+  img:  'http://lh3.googleusercontent.com/gCJN301o7TKMPpTwXYpuWceaR0wtjm4S3By0SJ5ubrMNK0UEKo6bMcldlreNdLDqpnrYOFmjqByM6vCJDCT-'
+  lat: 40.086378
+  level: 5
+  lon: -88.251308
+  name:  'Life Lessons from Kimberly Kueffler'
 - ap: 2537
   img:  'http://lh4.ggpht.com/XlTZ26_29c4-74t23p1lgghqNfLI7aS3_kradmcl7vVQzV9jJRu78D1HdzJf-sWibnak644kxCBJDnA594PVaw'
   lat: 40.092849
