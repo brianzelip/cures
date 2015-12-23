@@ -443,17 +443,17 @@
   lon: -88.230562
   name:  'St. John''s Rectory'
 - ap: 3848
-  img:  'http://lh4.ggpht.com/GO8F5d9Gz5q0tize1_1NxJ51SfmjJESFilw1OhfyI3I0RcdLFN2uKHr8prPX1KAdmabYL8PNJNjyqlgn7r9o'
-  lat: 40.117537
-  level: 6
-  lon: -88.249445
-  name:  'Buerkett Family Memorial'
-- ap: 3848
   img:  'http://lh4.ggpht.com/0JuC7vEVtmbgkx1FUhaTylcKfKuYoGNdW2P5GNZzGbeOzxEH0Q-9gP9gmmBzx2bkLNA0dnw9FiEJYiHjWXM'
   lat: 40.121329
   level: 7
   lon: -88.24558
   name:  'The Gregory'
+- ap: 3848
+  img:  'http://lh4.ggpht.com/GO8F5d9Gz5q0tize1_1NxJ51SfmjJESFilw1OhfyI3I0RcdLFN2uKHr8prPX1KAdmabYL8PNJNjyqlgn7r9o'
+  lat: 40.117537
+  level: 6
+  lon: -88.249445
+  name:  'Buerkett Family Memorial'
 - ap: 3848
   img:  'http://lh5.ggpht.com/KYppjeOoIlb4lbowRrrC5qRdYW7_KU8rzjtDMpvhh-Q_c6VZOTtVmOqmmxChJA2hjlpS5dJ1JnhUQcKUAXDWHA'
   lat: 40.117976
@@ -551,6 +551,12 @@
   lon: -88.282953
   name:  'Greenbelt 2'
 - ap: 3474
+  img:  'http://lh4.ggpht.com/ik1uVZ-KWyRH4dh51LJI7gFmnM7bmfSZ-1YqfELbVQEvuo-gEx2QpG6jQpFPeAlFPi2rVPAuzRmXMD0Whsm2HA'
+  lat: 40.122038
+  level: 6
+  lon: -88.245318
+  name:  'The Old Residential Block'
+- ap: 3474
   img:  'http://lh6.ggpht.com/EiNXerTyRNFVC9pti48SExCtqR9p6t3-Xne_jw2YB90-VjUeJ3KGX8Se436SNVkFb5wOw0N7CKCz9brOeVg6WQ'
   lat: 40.117802
   level: 5
@@ -562,12 +568,6 @@
   level: 5
   lon: -88.249887
   name:  'Silver Cloud Oakley Washburn, Jr.'
-- ap: 3474
-  img:  'http://lh4.ggpht.com/ik1uVZ-KWyRH4dh51LJI7gFmnM7bmfSZ-1YqfELbVQEvuo-gEx2QpG6jQpFPeAlFPi2rVPAuzRmXMD0Whsm2HA'
-  lat: 40.122038
-  level: 6
-  lon: -88.245318
-  name:  'The Old Residential Block'
 - ap: 3174
   img:  'http://lh5.ggpht.com/FeG7Xn052FyJtG43yF0j2iYs3BdENjAx_oZUTzI70y4H0qeexU7B8NrXaT20cmXSKwnWV8xFSc3OlG_KQU09pE8fyCAYXWWPbTzC0_GZ1aynCFni'
   lat: 40.116185
@@ -580,12 +580,6 @@
   level: 5
   lon: -88.242255
   name:  'Blind Pig'
-- ap: 3324
-  img:  'http://lh3.ggpht.com/o6_RpCgHFDA4MceKnIqFkksRYWZkhEKsAZE3VNGl5iS5zkkQWJdBKOY-gNca5iB37jbgnoYsbc1ROtZ-bQhJIw'
-  lat: 40.108833
-  level: 4
-  lon: -88.228125
-  name:  'Class of 1902 Memorial'
 - ap: 3474
   img:  'http://lh5.ggpht.com/Lup2et0i5h8oHqtBffIdoyX5uclC2MBn9ZnnKnYPr4RIFSflf9bi78zBHK7QqycA0qgEev9qOk0zU-1o1hg'
   lat: 40.108451
@@ -598,6 +592,12 @@
   level: 6
   lon: -88.227697
   name:  'The Diana Fountain'
+- ap: 3324
+  img:  'http://lh3.ggpht.com/o6_RpCgHFDA4MceKnIqFkksRYWZkhEKsAZE3VNGl5iS5zkkQWJdBKOY-gNca5iB37jbgnoYsbc1ROtZ-bQhJIw'
+  lat: 40.108833
+  level: 4
+  lon: -88.228125
+  name:  'Class of 1902 Memorial'
 - ap: 3324
   img:  'http://lh3.ggpht.com/mtgiI5TKcuExETpmdSqIFabkYgVZTaXXLJnaIyzxeHPIunWoj_Fj8BqqwZG4nVQwSnngv15YxD-c_m9CHkr3'
   lat: 40.111202
@@ -815,18 +815,6 @@
   lon: -88.287899
   name:  'Greenbelt Bikeway'
 - ap: 2537
-  img:  'http://lh3.googleusercontent.com/hJZWoErzM-MuXulq4FlhlZwMbJX1Isd81GBUBVKayd57jVIVxUle3itd-1DRKo2VaNXznWr1X639fa44Etk'
-  lat: 40.141919
-  level: 5
-  lon: -88.244611
-  name:  'Marketplace Mall Carousel'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/nWEtxuKQdy0teBBue1DYmG7P3SF5-3A6zlB7GwVHBWlolAZYGq6Br78lWcF9ltFy-KeSlozXie2RmU6JfCUX'
-  lat: 40.142673
-  level: 5
-  lon: -88.244603
-  name:  'Italian Statue'
-- ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.152192
   level: '?'
@@ -838,6 +826,18 @@
   level: '?'
   lon: -88.252345
   name:  'Toalson Park Basketball Hoop'
+- ap: 2537
+  img:  'http://lh3.googleusercontent.com/hJZWoErzM-MuXulq4FlhlZwMbJX1Isd81GBUBVKayd57jVIVxUle3itd-1DRKo2VaNXznWr1X639fa44Etk'
+  lat: 40.141919
+  level: 5
+  lon: -88.244611
+  name:  'Marketplace Mall Carousel'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/nWEtxuKQdy0teBBue1DYmG7P3SF5-3A6zlB7GwVHBWlolAZYGq6Br78lWcF9ltFy-KeSlozXie2RmU6JfCUX'
+  lat: 40.142673
+  level: 5
+  lon: -88.244603
+  name:  'Italian Statue'
 - ap: 2537
   img:  'http://lh6.ggpht.com/xQx5BUJcAI_QUroJGe77pPkgV7s_ACVui8PXvCyvmehuDvenmRIvKBGeevOacNR6W3pLMMSh4sVrvXm87QeN2eylsZEtz7pxB-CMvzLmH1WyVZ16uw'
   lat: 40.11786
@@ -887,17 +887,17 @@
   lon: -88.246602
   name:  'Garden for the Gardener Plaque'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/_rfJReDlJdrYezXwl9C7a4r7ZMCEE2RZ9dek5gQwKkC4sFtmFVfYF7S04SQXmjcksfbCvLWlOEuqOjxWnX4'
-  lat: 40.12284
-  level: 7
-  lon: -88.246749
-  name:  'Queen Smith Memorial Garden'
-- ap: 2537
   img:  'http://lh3.ggpht.com/rm0mJKw5ksUEH6_YQLi-f3uo56Wv-4h1P-Q_Ws61holRtnLG9Qt0NObbSBzDxPm3tvIhWgzHLvftIMBC_5dZ'
   lat: 40.118435
   level: 3
   lon: -88.247677
   name:  'Burnham Athenaeum'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/_rfJReDlJdrYezXwl9C7a4r7ZMCEE2RZ9dek5gQwKkC4sFtmFVfYF7S04SQXmjcksfbCvLWlOEuqOjxWnX4'
+  lat: 40.12284
+  level: 7
+  lon: -88.246749
+  name:  'Queen Smith Memorial Garden'
 - ap: 2537
   img:  'http://lh6.ggpht.com/DPmYFBmWaf_8hYO8H8Y1aQLQ6bnStpWMkvOlq0Ge7AQEaBH5HpB8NUqD0dL0H2oki1yWhRoFC2aDerp9-t_c'
   lat: 40.114514
@@ -1042,12 +1042,6 @@
   level: 5
   lon: -88.231952
   name:  'University of Illinois Armory'
-- ap: 2162
-  img:  'http://lh3.ggpht.com/mRCpYiTnH0rrWGXaOj5qrhYjnvlhpQ8iY4UG3vy_gu2HW2GChgp0aXQ0Uih6XRZcUOJVyzyPggWicFdh7sHrfA'
-  lat: 40.106179
-  level: 2
-  lon: -88.227593
-  name:  'Charles P. Wolff Memorial and Tree'
 - ap: 2537
   img:  'http://lh3.ggpht.com/A87H2Ev-nSq_HCpnUCxDLdRG04MKhj9Uap_0Ii4kdUx_db5SwcKhAAOey5ls43XiDLYaw7uYymdNMcsAXfNo'
   lat: 40.106182
@@ -1102,6 +1096,12 @@
   level: 3
   lon: -88.231957
   name:  '217 Tattoo Co.'
+- ap: 2162
+  img:  'http://lh3.ggpht.com/mRCpYiTnH0rrWGXaOj5qrhYjnvlhpQ8iY4UG3vy_gu2HW2GChgp0aXQ0Uih6XRZcUOJVyzyPggWicFdh7sHrfA'
+  lat: 40.106179
+  level: 2
+  lon: -88.227593
+  name:  'Charles P. Wolff Memorial and Tree'
 - ap: 2462
   img:  'http://lh5.ggpht.com/8OgQHnRehZt9nl_igzh_0k19Qp5vRgGVHo2IukHGLeEp0iNTb_YUZRDseHY39JvlTc0ROrDtbmt8SBAEFPOwpA'
   lat: 40.108965
