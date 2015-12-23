@@ -46,12 +46,6 @@
   level: 8
   lon: -88.250515
   name:  'Mark Foutch Pavilion'
-- ap: 9283
-  img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
-  lat: 40.100822
-  level: 8
-  lon: -88.25193
-  name:  'Seeds of Kindness Bench'
 - ap: 8909
   img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
   lat: 40.099852
@@ -101,12 +95,6 @@
   lon: -88.251747
   name:  'Tennis Anyone'
 - ap: 7972
-  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
-  lat: 40.101327
-  level: 8
-  lon: -88.251412
-  name:  'Zeus Memorial'
-- ap: 7972
   img:  'http://lh5.ggpht.com/CRkkFx_9jq2hCt1HtflqZDqCdmSG5MN88FV0rLXk1PZm7maZWzLTKZhjqlSKUx1Tg0tSB62l75w2VFsyUZI'
   lat: 40.09991
   level: 8
@@ -142,6 +130,12 @@
   level: 6
   lon: -88.226793
   name:  'Bardeen Quad Structure'
+- ap: 7222
+  img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
+  lat: 40.100822
+  level: 8
+  lon: -88.25193
+  name:  'Seeds of Kindness Bench'
 - ap: 7035
   img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
   lat: 40.100941
@@ -203,12 +197,6 @@
   lon: -88.243236
   name:  'Champaign City Bldg. Landmark Plaque'
 - ap: 6472
-  img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
-  lat: 40.098239
-  level: 7
-  lon: -88.25376
-  name:  'Hessel Park Christian Reformed Church'
-- ap: 6472
   img:  'http://lh5.ggpht.com/4eagHlnlpVbtFi_knZN73PIs2A--Ipj6SOlkQADePlfnzfOnJn-cAv0IoNNv4qR8WrbUFImUKHBknyaoAewO'
   lat: 40.111383
   level: 6
@@ -221,11 +209,11 @@
   lon: -88.242747
   name:  'Sidewalk Art'
 - ap: 6285
-  img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
-  lat: 40.101062
+  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
+  lat: 40.101327
   level: 8
-  lon: -88.249275
-  name:  'Narayan & Shanti Achanta Memorial Plaque'
+  lon: -88.251412
+  name:  'Zeus Memorial'
 - ap: 6285
   img:  'http://lh3.ggpht.com/3WnMbDq1Vm3HiqAM5qk1r9m3OqcO-YUN0nCOt2yRfUxVWLZ-8huxevlCI0JnIJgpSBZN4mtw0gxJnrGtuaS9iUf7k-JFfmRGRkBXQafWO9MIk_oJ'
   lat: 40.115491
@@ -292,12 +280,6 @@
   level: '?'
   lon: -88.201368
   name:  '2012 Employee Dedication Bench'
-- ap: 5535
-  img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
-  lat: 40.102188
-  level: 7
-  lon: -88.251507
-  name:  'Little Free Library Charter 5753'
 - ap: 5348
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.295138
@@ -310,6 +292,18 @@
   level: 6
   lon: -88.243429
   name:  'C.V. Lloyde'
+- ap: 5348
+  img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
+  lat: 40.101062
+  level: 8
+  lon: -88.249275
+  name:  'Narayan & Shanti Achanta Memorial Plaque'
+- ap: 5348
+  img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
+  lat: 40.098239
+  level: 7
+  lon: -88.25376
+  name:  'Hessel Park Christian Reformed Church'
 - ap: 5348
   img:  'http://lh4.ggpht.com/6WTMH3liIIuH6pEvRGZOkUNNR84nR8frjFch6yn_4mbGIokY-MajBCG6jZHWU37a8TBI97rYTBlX-ks8m5XJTw'
   lat: 40.112843
@@ -382,18 +376,12 @@
   level: 6
   lon: -88.227628
   name:  'Micro and Nanotechnology Laboratory'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.401374
-  level: '?'
-  lon: -86.288005
-  name:  '9c168d55307d46deafd3684ceac79063.16'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.738073
-  level: '?'
-  lon: -87.530329
-  name:  'f75aa77f3aea4049897379d063e48567.16'
+- ap: 4598
+  img:  'http://lh3.googleusercontent.com/EvLov_3eYLGHotkWec9w3T1VCPQri5SR8JLZjbJUaxRsyGPLS4YQNXf90xlPoKjxGYlml9N8IDYKwpNvVIWlVA'
+  lat: 40.114563
+  level: 7
+  lon: -88.228735
+  name:  'End Caps Sculpture at ECE'
 - ap: 4411
   img:  'http://lh4.ggpht.com/vbIH-PkUCBuwDTIRXA4p5jtGQ86SqYlc1e-g3Y9Ef2zaSb0ozkDD41Iq51orLhtPyShj4UzC6CPn0Unt8SY'
   lat: 40.145108
@@ -431,12 +419,6 @@
   lon: -88.227932
   name:  'Talbot Lab Mural'
 - ap: 4411
-  img:  'http://lh3.googleusercontent.com/EvLov_3eYLGHotkWec9w3T1VCPQri5SR8JLZjbJUaxRsyGPLS4YQNXf90xlPoKjxGYlml9N8IDYKwpNvVIWlVA'
-  lat: 40.114563
-  level: 7
-  lon: -88.228735
-  name:  'End Caps Sculpture at ECE'
-- ap: 4411
   img:  'http://lh5.ggpht.com/ZDv0mHiZcEfLxGVibvfnMCu7reJceCVnxa4GeBjK2DO4Y4a0x-M7C2M0rEam-_bPlr2e2476RXe15pRY48s'
   lat: 40.114351
   level: 6
@@ -460,6 +442,12 @@
   level: 7
   lon: -88.24366
   name:  'King''s Assembly Church'
+- ap: 4035
+  img:  'http://lh6.ggpht.com/C7ThuP5fwrDTu5cMDpoeGmRjotNh6eUnPf3ksvSsUj5NkHZ0yKbIUnF8cSikhX-I_7O42CTwqjhLq9z3jkIL'
+  lat: 40.111844
+  level: 7
+  lon: -88.228609
+  name:  'Talbot Labs '
 - ap: 3848
   img:  'http://lh4.ggpht.com/GO8F5d9Gz5q0tize1_1NxJ51SfmjJESFilw1OhfyI3I0RcdLFN2uKHr8prPX1KAdmabYL8PNJNjyqlgn7r9o'
   lat: 40.117537
@@ -484,12 +472,6 @@
   level: 5
   lon: -88.242642
   name:  'Stevick Building'
-- ap: 3848
-  img:  'http://lh6.ggpht.com/C7ThuP5fwrDTu5cMDpoeGmRjotNh6eUnPf3ksvSsUj5NkHZ0yKbIUnF8cSikhX-I_7O42CTwqjhLq9z3jkIL'
-  lat: 40.111844
-  level: 7
-  lon: -88.228609
-  name:  'Talbot Labs '
 - ap: 3661
   img:  'http://lh5.ggpht.com/KuDVZqnpBQnne0a_UqpN4wpsQFlw3nVXAWtRKP_AdZ3CjQ0MHUBgU_2hE8hb71h31FTQbduYmB6DNuVKA0s'
   lat: 40.116822
@@ -522,22 +504,28 @@
   name:  'Dane Michael Sherr Memorial '
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.107613
+  lat: 42.401374
   level: '?'
-  lon: -88.426429
-  name:  'US Post Office, N Main St, Seymour, IL'
+  lon: -86.288005
+  name:  '9c168d55307d46deafd3684ceac79063.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.006828
+  lat: 41.738073
   level: '?'
-  lon: -87.65519
-  name:  'f1155b4ff98f47a899c22acd70f130d5.16'
+  lon: -87.530329
+  name:  'f75aa77f3aea4049897379d063e48567.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.726817
   level: '?'
   lon: -87.539966
   name:  'dc45a65cc4754cbb906d793f4b467557.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.107613
+  level: '?'
+  lon: -88.426429
+  name:  'US Post Office, N Main St, Seymour, IL'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.10605
@@ -721,7 +709,7 @@
 - ap: 2724
   img:  'http://lh3.googleusercontent.com/vMuPZQrBjsuqibkb-FCbuVrZzyuUSOhjlXxxxRc9hq0Y7prkP-Fpk1Hh6o5Eq8BhT6s7GRP5S5z2KFUL7hJY'
   lat: 40.113606
-  level: 5
+  level: 6
   lon: -88.243766
   name:  'Mural on South Neil St.'
 - ap: 2724
@@ -955,7 +943,7 @@
 - ap: 2537
   img:  'http://lh4.ggpht.com/4rZUtsKLzttseF-bliT_X7wEGP_joarKKLt8DNtp99fViYcqD4TAWTfZ_Ur6oEdBJdT-1JeZl4tnk_sTtgN0'
   lat: 40.116361
-  level: 5
+  level: 6
   lon: -88.247369
   name:  'Gerry Schriefer Plaque'
 - ap: 2537
@@ -1120,10 +1108,10 @@
   level: 8
   lon: -88.230188
   name:  'Color Glass Windows at the Newman Center'
-- ap: 2312
+- ap: 2387
   img:  'http://lh5.ggpht.com/Z2EWM4D6YQHuqnLwtuPBawyQBZxTzVe9E17MKc8jOZkO0ZzkuD5zSQslY2iuXkkUnztPteUeOSHrSTz3voHC'
   lat: 40.111166
-  level: 4
+  level: 5
   lon: -88.228747
   name:  'Boneyard Creek Mural'
 - ap: 2537
