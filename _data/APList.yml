@@ -95,12 +95,6 @@
   lon: -88.226875
   name:  'Grainger Engineering Library - William W. Grainger Medallion'
 - ap: 7972
-  img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
-  lat: 40.100521
-  level: 8
-  lon: -88.250864
-  name:  'Gabriel Patrick Maxeiner Memorial'
-- ap: 7972
   img:  'http://lh3.ggpht.com/VLipBehsKPCp8ewQnBV1ZCz7uE75zcY46iGDyFfFHgX1o55t3DONb3wcBcL5RMYSqABRK0TgIW3DluNy8y6WaA'
   lat: 40.101131
   level: 8
@@ -112,6 +106,12 @@
   level: 8
   lon: -88.251747
   name:  'Tennis Anyone'
+- ap: 7972
+  img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
+  lat: 40.100521
+  level: 8
+  lon: -88.250864
+  name:  'Gabriel Patrick Maxeiner Memorial'
 - ap: 7972
   img:  'http://lh5.ggpht.com/CRkkFx_9jq2hCt1HtflqZDqCdmSG5MN88FV0rLXk1PZm7maZWzLTKZhjqlSKUx1Tg0tSB62l75w2VFsyUZI'
   lat: 40.09991
@@ -161,12 +161,6 @@
   lon: -88.25193
   name:  'Seeds of Kindness Bench'
 - ap: 7035
-  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
-  lat: 40.100941
-  level: 8
-  lon: -88.251314
-  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
-- ap: 7035
   img:  'http://lh3.ggpht.com/G1CvGhpethi5UmprDWxZN9rTblHa3anSsQz1UPgJtkREkfN7lDFoxFObst0609Cg5mofuZxJKr0ddNKhY4VL'
   lat: 40.098464
   level: 8
@@ -208,6 +202,12 @@
   level: 8
   lon: -88.249385
   name:  'Travis Marmion Memorial'
+- ap: 7035
+  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
+  lat: 40.100941
+  level: 8
+  lon: -88.251314
+  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
 - ap: 7035
   img:  'http://lh6.ggpht.com/y10QgRCNt0Bsefqp3olKgJp98whQkS0-vWqPskj3421hcSq96BG-b_KROqsO1mBEcNiYtAKhXuXG0EV0eaUW'
   lat: 40.107152
@@ -720,6 +720,18 @@
   name:  'Talbot Lab Mural'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.365355
+  level: '?'
+  lon: -89.581105
+  name:  '71ad69bec46c4889be4f0118159db843.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.202378
+  level: '?'
+  lon: -90.747778
+  name:  '5c9b92e27d0b4a75af3a4b769a1a78b7.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.326505
   level: '?'
   lon: -89.67731
@@ -754,30 +766,6 @@
   level: '?'
   lon: -88.862342
   name:  'e136645d82c44ff7bbfc30ec8c24c98e.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.743774
-  level: '?'
-  lon: -88.722849
-  name:  '9f04bbe5eb014a4db0356f109ff3a88c.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.271509
-  level: '?'
-  lon: -88.670765
-  name:  '274384f0669c486d978c09eddf84dc1f.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.365355
-  level: '?'
-  lon: -89.581105
-  name:  '71ad69bec46c4889be4f0118159db843.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.202378
-  level: '?'
-  lon: -90.747778
-  name:  '5c9b92e27d0b4a75af3a4b769a1a78b7.12'
 - ap: 2537
   img:  'http://lh3.ggpht.com/rgh_2qJQUPC1OrARUkiQqPKoNReiqZYOimm5Nszb77pDh72OszuyiJBKn-vDxHUuyjO2XTeKU9GBHc3oHIYr'
   lat: 40.115283
@@ -827,18 +815,6 @@
   lon: -88.243669
   name:  'Colonel Sidney Gauntlett Cornerstone'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/AD9d7JPmLdYRdpxESO9iORy1GRXAcN1jzn8dDNvm6FO7cIHVsjwAKI8LmbW4dico1Xe9jzJfsZZriP0CxXA46w'
-  lat: 40.104084
-  level: 6
-  lon: -88.241616
-  name:  'Honorary Memorial Steam Ventilation Pipe'
-- ap: 2537
-  img:  'http://lh3.googleusercontent.com/DJEd6b3-MwXXA5oX_rKCuAtk2dlQ1yS2p9nG8oDmc86DmbzFvhKsP-KR9nKAzn84UUf_K5LjjTMgrt7AjCoU'
-  lat: 40.110853
-  level: 7
-  lon: -88.238339
-  name:  'Boneyard Greenway'
-- ap: 2537
   img:  'http://lh6.ggpht.com/_rfJReDlJdrYezXwl9C7a4r7ZMCEE2RZ9dek5gQwKkC4sFtmFVfYF7S04SQXmjcksfbCvLWlOEuqOjxWnX4'
   lat: 40.12284
   level: 7
@@ -874,7 +850,7 @@
   level: 3
   lon: -88.242244
   name:  'Vintage Orpheum Artwork'
-- ap: 2237
+- ap: 2162
   img:  'http://lh5.ggpht.com/XQVr2AUWddJQMpYbapEIpcTLBeBvcpgmW016VjkAOXrp8_P2VsMxQY8FVhtDhA73iTCXCPiydjFIJcbcSa8_'
   lat: 40.116206
   level: 2
@@ -892,6 +868,18 @@
   level: 2
   lon: -88.242467
   name:  'Radio Maria'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/AD9d7JPmLdYRdpxESO9iORy1GRXAcN1jzn8dDNvm6FO7cIHVsjwAKI8LmbW4dico1Xe9jzJfsZZriP0CxXA46w'
+  lat: 40.104084
+  level: 6
+  lon: -88.241616
+  name:  'Honorary Memorial Steam Ventilation Pipe'
+- ap: 2537
+  img:  'http://lh3.googleusercontent.com/DJEd6b3-MwXXA5oX_rKCuAtk2dlQ1yS2p9nG8oDmc86DmbzFvhKsP-KR9nKAzn84UUf_K5LjjTMgrt7AjCoU'
+  lat: 40.110853
+  level: 7
+  lon: -88.238339
+  name:  'Boneyard Greenway'
 - ap: 2537
   img:  'http://lh4.ggpht.com/9jXAzAxn0JZrLkU9VK9p-mNzjw3x_6QqwMAn4CAEBAHp_lo2iDZeV_y-hoUzP5CYwm8kOMyrTToZQOWJBRnw'
   lat: 40.115095
@@ -940,6 +928,12 @@
   level: 3
   lon: -88.227584
   name:  'Tau Beta Pi Statue'
+- ap: 2462
+  img:  'http://lh3.googleusercontent.com/ZEt3dzGoBmn_BW1MwPTE7MY4Jcoj66UkwEA7wA7H40hbb-SwJheC1V67Dh89eAbpG6H_SeWDV3E0X5lRAkQ'
+  lat: 40.111342
+  level: 5
+  lon: -88.23557
+  name:  'Boneyard Greenway'
 - ap: 2537
   img:  'http://lh4.ggpht.com/RF7EbCh1YRbFHfis_PEc88NF1v4Ndhj-Rm7rrlY7F8s-Mrv1EMEFnajFbYiNffZ_3kMNL80Zv-_jtaMYMtLA'
   lat: 40.110655
@@ -952,12 +946,6 @@
   level: 7
   lon: -88.235143
   name:  'US Post Office, E Green St, Champaign'
-- ap: 2462
-  img:  'http://lh3.googleusercontent.com/ZEt3dzGoBmn_BW1MwPTE7MY4Jcoj66UkwEA7wA7H40hbb-SwJheC1V67Dh89eAbpG6H_SeWDV3E0X5lRAkQ'
-  lat: 40.111342
-  level: 5
-  lon: -88.23557
-  name:  'Boneyard Greenway'
 - ap: 2537
   img:  'http://lh5.ggpht.com/Z2EWM4D6YQHuqnLwtuPBawyQBZxTzVe9E17MKc8jOZkO0ZzkuD5zSQslY2iuXkkUnztPteUeOSHrSTz3voHC'
   lat: 40.111166
