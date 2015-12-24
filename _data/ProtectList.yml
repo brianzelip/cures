@@ -376,6 +376,13 @@
   lon: -88.189313
   mus: 375
   name:  'Sitting Bear at the Pines'
+- fields: 2
+  img:  'http://lh3.ggpht.com/xN5qaZ1d4qIQE8TID35MPTmzahhM09EYDVLbu2aeCpRJz9XntEf7R0XswEdQDOmdMpZxIEyNyqsC5qll3vfv'
+  lat: 40.082343
+  level: 7
+  lon: -88.247404
+  mus: 351
+  name:  'Larry Kanfer Gallery'
 - fields: 3
   img:  'http://lh6.ggpht.com/MTA_e4qROhbvq0DM0fK-MDV_Q9UP_4tg1c8aElTEpn-rFf6ESmOnvNXtFgISg3MiW889YcO3pP2tgCk2UcZP-g'
   lat: 40.127376
@@ -404,13 +411,6 @@
   lon: -88.26199
   mus: 329
   name:  'Copper Creek Church'
-- fields: 1
-  img:  'http://lh3.ggpht.com/xN5qaZ1d4qIQE8TID35MPTmzahhM09EYDVLbu2aeCpRJz9XntEf7R0XswEdQDOmdMpZxIEyNyqsC5qll3vfv'
-  lat: 40.082343
-  level: 7
-  lon: -88.247404
-  mus: 329
-  name:  'Larry Kanfer Gallery'
 - fields: 5
   img:  'http://lh6.ggpht.com/ZSVCsC7hXcoC2GI20Sq8deYNu_RXKDePVyLUpFRUSNdceVY9OBExZbgX-tuJK4pHEVYXT9YbN7DF9kicgt25'
   lat: 40.088197
@@ -803,12 +803,12 @@
   lon: -88.201439
   mus: 118
   name:  'Meadowbrook Park '
-- fields: 9
+- fields: 8
   img:  'http://lh3.ggpht.com/hZulWSNApQFnDW-rnL3Fu95nMq2pO60CHDwUislaEOwUfLfJymLB8M4-WTugDbUq60zu72Cn2vLHMFFf5IxxNbp6rsbl9bAHHAlqFVlgckw_gJM'
   lat: 40.079765
   level: 7
   lon: -88.206953
-  mus: 116
+  mus: 114
   name:  'Connectors'
 - fields: 4
   img:  'http://lh6.ggpht.com/wucaQM-REDZu6ZBHVOIE5T1apjBrc_Fk_qdbyLPPCmXafFHKlIC0w--Wrd507L8Jh2CgIKpFz9loqhrmmVzG'
@@ -1147,6 +1147,13 @@
   mus: 44
   name:  'Leal Park'
 - fields: 3
+  img:  'http://lh3.ggpht.com/X30u-Y3JoCurNlH3pvt-DlJeV7obUlOeBDbH-tkN6QcPEHvknjSz3nYF8EGtXWani_tyNgcyl2naDFhje8E'
+  lat: 40.083706
+  level: 7
+  lon: -88.251419
+  mus: 44
+  name:  'Harlan E. Moore Park'
+- fields: 3
   img:  'http://lh3.googleusercontent.com/mFMoKbSLtdP7TnaDrMHLxDWN1FGdQeY6BuKqxtEYSN--Sp6L7DgrpNlGARlPutxd0UNQuEW3WwuNl_Hny6_1'
   lat: 40.13183
   level: 7
@@ -1202,12 +1209,19 @@
   lon: -88.212604
   mus: 39
   name:  'Urbana Crystal Lake SW Marker'
-- fields: 7
+- fields: 3
+  img:  'http://lh3.ggpht.com/ch_nluYT5gzNuJG1bx-wUfhv1JWNmo-DYdwq2rPOJaUrvUFpsWPH07BUuDj9xUKqsN0oIl8bX3iWOys5TuNV1Q'
+  lat: 40.084517
+  level: 7
+  lon: -88.249848
+  mus: 38
+  name:  'Boulware Trail'
+- fields: 5
   img:  'http://lh6.ggpht.com/UMaVDs4JUJ1obZF_7bkt3YUS02KJCdBmvRnU0gXqrvHeFd-6jyR_VGDBUgiXtVFoAj95F7sZrvFJ1l9fe4S3sBUkt__qi77W2_jm8KR0IU_iwOYcIg'
   lat: 40.080791
   level: 7
   lon: -88.204927
-  mus: 38
+  mus: 36
   name:  '"Is It Too Late" @ Meadowbrook'
 - fields: 2
   img:  'http://lh3.googleusercontent.com/qRVCONmL3YCPGXCCEayvZfMbpTRXMFkohh3X-m5NtrFXQ3-6Ot7Li4WvLGqqOMU4BkXiOmm-6EnrKzvzUKMP'
@@ -1384,13 +1398,6 @@
   lon: -88.216152
   mus: 22
   name:  'Stone Fountain at Woodlawn Cemetery'
-- fields: 2
-  img:  'http://lh3.ggpht.com/X30u-Y3JoCurNlH3pvt-DlJeV7obUlOeBDbH-tkN6QcPEHvknjSz3nYF8EGtXWani_tyNgcyl2naDFhje8E'
-  lat: 40.083706
-  level: 7
-  lon: -88.251419
-  mus: 22
-  name:  'Harlan E. Moore Park'
 - fields: 1
   img:  'http://lh4.ggpht.com/5wL5PqODxJ0DwFOmZHKk05wA48rHbH4ydUvFN7iXpDB60rAWnAAym0usdXwQ1CF6tM2h8CAdBtflVjyYoNwRYA'
   lat: 40.11936
@@ -1496,13 +1503,6 @@
   lon: -88.283262
   mus: 16
   name:  'Diaz Memorial'
-- fields: 2
-  img:  'http://lh3.ggpht.com/ch_nluYT5gzNuJG1bx-wUfhv1JWNmo-DYdwq2rPOJaUrvUFpsWPH07BUuDj9xUKqsN0oIl8bX3iWOys5TuNV1Q'
-  lat: 40.084517
-  level: 7
-  lon: -88.249848
-  mus: 16
-  name:  'Boulware Trail'
 - fields: 1
   img:  'http://lh3.ggpht.com/-mMz5f80ITpPoby5jxbF9QtmyShskFPdt3J1DYxUUOJnPDobi-B33A_7DJQ8N-kfYBjPJR09_PYzGhzSHm0'
   lat: 40.064501
@@ -1685,13 +1685,6 @@
   lon: -88.210576
   mus: 10
   name:  'Civil War Memorial'
-- fields: 3
-  img:  'http://lh4.ggpht.com/RDM16YNiohkHnzuD-g6YsAoY8vRq4Hn6IMhPX6LC3gV_BoJDnAPjwc_n-PzXrDZM-OXMD6oA7kUbrXMczOZa'
-  lat: 40.081276
-  level: 7
-  lon: -88.20502
-  mus: 10
-  name:  'Tango at Meadowbrook Park'
 - fields: 4
   img:  'http://lh5.ggpht.com/QIB27P8JrbHvcI2jjqXw1iJb1eAsho-lDFm2y_3Q_DEoS5b0toaYJuhD2F_qzMm2aOiNxEX-imTK4O_fRR2L'
   lat: 40.093464
@@ -1734,6 +1727,13 @@
   lon: -88.210862
   mus: 9
   name:  'Labor Day Memorial'
+- fields: 2
+  img:  'http://lh4.ggpht.com/RDM16YNiohkHnzuD-g6YsAoY8vRq4Hn6IMhPX6LC3gV_BoJDnAPjwc_n-PzXrDZM-OXMD6oA7kUbrXMczOZa'
+  lat: 40.081276
+  level: 7
+  lon: -88.20502
+  mus: 9
+  name:  'Tango at Meadowbrook Park'
 - fields: 8
   img:  'http://lh3.googleusercontent.com/L3lfMswaooWEA3nJNFGES354rtENCzxYkoWuVLXEXaTiXbqTNnsl34TRd8tbMwnGQHkAnr37-HLMutIe3_Uz'
   lat: 40.117254
@@ -1944,13 +1944,6 @@
   lon: -88.247413
   mus: 5
   name:  'West Side Park'
-- fields: 5
-  img:  'http://lh6.ggpht.com/OeWiEqijQeAf256S5XDmv8VIj-SUQ0QHnet5J28ThcRwPEYY7-uk4CXixqualhlYxTcgKYe55FOcK_Ov7BE30jWvWzeBabSEra5jDLx3ZGj-XSs'
-  lat: 40.08069
-  level: 7
-  lon: -88.20463
-  mus: 5
-  name:  'Swift'
 - fields: 6
   img:  'http://lh5.ggpht.com/mRJ1JU9RyuNozcaCkQ-Egy63KbWTVpSomrieglFdzh1c9eDAoQQCHmWw065GGIQoOFIorPObgHXhGyNjVb6u'
   lat: 40.068762
@@ -2126,13 +2119,6 @@
   lon: -88.247603
   mus: 4
   name:  'Travis Marmion Memorial Tree'
-- fields: 3
-  img:  'http://lh6.ggpht.com/5FrAAzvYmAM-WLKT5FARCFzegoqjWDbNOkEi5jS2tKCRLbTeSfKuZonDJsFpjSfnQpj_fSJSV6P-msLaTJSk'
-  lat: 40.080453
-  level: 7
-  lon: -88.205614
-  mus: 4
-  name:  'Elaine Regehr  Memorial'
 - fields: 4
   img:  'http://lh5.ggpht.com/v26lJtVx6k_bS8UIv0cuwFV2H-bR_kPwjkydaZjqk7BOG1VyLpoQFvuFB7ZmKZpWB_uCHi70HLzZoI4xZgo1'
   lat: 40.116491
@@ -2259,6 +2245,13 @@
   lon: -88.224039
   mus: 3
   name:  'South Gate of the Greenhouse'
+- fields: 3
+  img:  'http://lh6.ggpht.com/OeWiEqijQeAf256S5XDmv8VIj-SUQ0QHnet5J28ThcRwPEYY7-uk4CXixqualhlYxTcgKYe55FOcK_Ov7BE30jWvWzeBabSEra5jDLx3ZGj-XSs'
+  lat: 40.08069
+  level: 7
+  lon: -88.20463
+  mus: 3
+  name:  'Swift'
 - fields: 2
   img:  'http://lh4.ggpht.com/efOG849cf8EKwVLL2BfNKzwBdkrAuNsMeYOZfeR8FYnK3axQJJON0VH191MLBwjJaQ1EeQC9Pt8LMtNI2LEa'
   lat: 40.07718
@@ -2365,13 +2358,6 @@
   mus: 2
   name:  '9ac55f1a3bf140e5abc27bbc95fb2036.16'
 - fields: 4
-  img:  'http://lh6.ggpht.com/eVUed3229Zh9saFzaZQcI6LXsyDB0IJxc9v-Aa9Oa0AhjQLXBIVSuu1qUQwJVXWgmXYPY9sqTzK73Le4BuU'
-  lat: 40.11122
-  level: 6
-  lon: -88.224097
-  mus: 2
-  name:  'Nuclear Radiation Laboratory'
-- fields: 4
   img:  'http://lh4.ggpht.com/ULEhKlvERD4aidwSKPhLFujl0N0mZWcHPxtcJ7hNJkyDjYek9yrB4UD_G8bU-O9-12L1LYpDkM068BiYmpm9weZeGJsz-K5whCvUYTfmDqaIp1Fp'
   lat: 40.117
   level: 5
@@ -2434,6 +2420,13 @@
   lon: -88.249929
   mus: 2
   name:  '"Tootsie" at West Side Park'
+- fields: 3
+  img:  'http://lh6.ggpht.com/eVUed3229Zh9saFzaZQcI6LXsyDB0IJxc9v-Aa9Oa0AhjQLXBIVSuu1qUQwJVXWgmXYPY9sqTzK73Le4BuU'
+  lat: 40.11122
+  level: 6
+  lon: -88.224097
+  mus: 2
+  name:  'Nuclear Radiation Laboratory'
 - fields: 1
   img:  'http://lh6.ggpht.com/rraU1rTd14rCyJXSoh2e6C2u94YDda9-bQvNx5QNAyqzNwDF1MB6ZmCYgnUrC1--QxP8_xEw0oI9iqEy1gto'
   lat: 40.108
@@ -2651,20 +2644,6 @@
   lon: -88.209474
   mus: 1
   name:  'Give Creeks A Chance Street Art'
-- fields: 1
-  img:  'http://lh6.ggpht.com/g00CHgvPQnSjjPtDBIePwTKCNdh3HB7MmvYFvkSM7tmZuoBJ4WaKiltQhrfxIflpUy2xiNU-Z_Z2PGCTnXfK'
-  lat: 40.110725
-  level: 5
-  lon: -88.223784
-  mus: 1
-  name:  'Anthony Leggett Superfluidity Nobel Prize Memorial Plaque'
-- fields: 1
-  img:  'http://lh5.ggpht.com/KQ7QYG8rWnVxSme_uq3cOu8IreZRbztWWKHTNPBy_6GvCqP3ywy-HEoSUxqloLDeUggEVV0UhKLy8Ja0v0yPdQ'
-  lat: 40.110844
-  level: 5
-  lon: -88.224091
-  mus: 1
-  name:  'Institute of Aviation'
 - fields: 1
   img:  'http://lh3.ggpht.com/8Nxm7sw1mIfTkxKb-GsE_e5DuPgup8SmX1SJRLGZmvopdsQsPx8E9eDzuISKXBjwveamwn6H26EmIJZzVwkr'
   lat: 40.117449
