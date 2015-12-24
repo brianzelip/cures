@@ -1,7 +1,7 @@
-- ap: 13405
+- ap: 13180
   img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
   lat: 40.097979
-  level: 7
+  level: 4
   lon: -88.247785
   name:  'Jarling''s Custard Cup'
 - ap: 12281
@@ -95,6 +95,12 @@
   lon: -88.226875
   name:  'Grainger Engineering Library - William W. Grainger Medallion'
 - ap: 7972
+  img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
+  lat: 40.100521
+  level: 8
+  lon: -88.250864
+  name:  'Gabriel Patrick Maxeiner Memorial'
+- ap: 7972
   img:  'http://lh3.ggpht.com/VLipBehsKPCp8ewQnBV1ZCz7uE75zcY46iGDyFfFHgX1o55t3DONb3wcBcL5RMYSqABRK0TgIW3DluNy8y6WaA'
   lat: 40.101131
   level: 8
@@ -106,12 +112,6 @@
   level: 8
   lon: -88.251747
   name:  'Tennis Anyone'
-- ap: 7972
-  img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
-  lat: 40.100521
-  level: 8
-  lon: -88.250864
-  name:  'Gabriel Patrick Maxeiner Memorial'
 - ap: 7972
   img:  'http://lh5.ggpht.com/CRkkFx_9jq2hCt1HtflqZDqCdmSG5MN88FV0rLXk1PZm7maZWzLTKZhjqlSKUx1Tg0tSB62l75w2VFsyUZI'
   lat: 40.09991
@@ -161,6 +161,12 @@
   lon: -88.25193
   name:  'Seeds of Kindness Bench'
 - ap: 7035
+  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
+  lat: 40.100941
+  level: 8
+  lon: -88.251314
+  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
+- ap: 7035
   img:  'http://lh3.ggpht.com/G1CvGhpethi5UmprDWxZN9rTblHa3anSsQz1UPgJtkREkfN7lDFoxFObst0609Cg5mofuZxJKr0ddNKhY4VL'
   lat: 40.098464
   level: 8
@@ -185,12 +191,6 @@
   lon: -88.250855
   name:  'Donald F. Bresnan Memorial'
 - ap: 7035
-  img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
-  lat: 40.100078
-  level: 8
-  lon: -88.250683
-  name:  'Brian Clark Memorial Plaque'
-- ap: 7035
   img:  'http://lh5.ggpht.com/8zq5tMevCiipZK8N9-8SZw3vdsA2HwH0E02ormQshGxHVZrB2WPK7OPC8zt6pjLlgpXVuEYHVA_08_Q8fPw-'
   lat: 40.099647
   level: 8
@@ -203,11 +203,11 @@
   lon: -88.249385
   name:  'Travis Marmion Memorial'
 - ap: 7035
-  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
-  lat: 40.100941
+  img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
+  lat: 40.100078
   level: 8
-  lon: -88.251314
-  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
+  lon: -88.250683
+  name:  'Brian Clark Memorial Plaque'
 - ap: 7035
   img:  'http://lh6.ggpht.com/y10QgRCNt0Bsefqp3olKgJp98whQkS0-vWqPskj3421hcSq96BG-b_KROqsO1mBEcNiYtAKhXuXG0EV0eaUW'
   lat: 40.107152
@@ -329,12 +329,6 @@
   lon: -88.331166
   name:  'Porter Family Park Dedication'
 - ap: 5348
-  img:  'http://lh3.ggpht.com/LunaMtSKD9yiLQClolDY-Iqh0ENm9AgJdL4D1QxGs0j6TXPgqxDZea35x5ilAfeI5_0TGh5x1q1EqRsJsLFi'
-  lat: 40.114111
-  level: 5
-  lon: -88.243697
-  name:  'Champaign Surplus'
-- ap: 5348
   img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
   lat: 40.101062
   level: 8
@@ -388,18 +382,6 @@
   level: 5
   lon: -88.330828
   name:  'Environmental Plaque - Prairie '
-- ap: 4598
-  img:  'http://lh3.googleusercontent.com/vMuPZQrBjsuqibkb-FCbuVrZzyuUSOhjlXxxxRc9hq0Y7prkP-Fpk1Hh6o5Eq8BhT6s7GRP5S5z2KFUL7hJY'
-  lat: 40.113606
-  level: 6
-  lon: -88.243766
-  name:  'Mural on South Neil St.'
-- ap: 4223
-  img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
-  lat: 40.116989
-  level: 2
-  lon: -88.242255
-  name:  'Blind Pig'
 - ap: 4598
   img:  'http://lh5.ggpht.com/WZc539Zuz4CnOeahoDxnw7bXfoXbAW8PlbPdBvZNK5s1q7hQoFcVebhZRoTQV6uPovHywWaXUsleNvoQP2wE'
   lat: 40.113647
@@ -563,17 +545,17 @@
   lon: -88.244611
   name:  'Marketplace Mall Carousel'
 - ap: 3661
+  img:  'http://lh3.googleusercontent.com/vMuPZQrBjsuqibkb-FCbuVrZzyuUSOhjlXxxxRc9hq0Y7prkP-Fpk1Hh6o5Eq8BhT6s7GRP5S5z2KFUL7hJY'
+  lat: 40.113606
+  level: 6
+  lon: -88.243766
+  name:  'Mural on South Neil St.'
+- ap: 3661
   img:  'http://lh6.ggpht.com/XsUl74M1oxj6ptAvGEBOMH2wivRhxBNns62UJSGcPiQkuJIgPrmUYxMpSZZUfXRMMjrwoxlFK_DbAM78UrOh'
   lat: 40.113499
   level: 6
   lon: -88.244374
   name:  'Shatterglass Studios Mural'
-- ap: 3661
-  img:  'http://lh6.ggpht.com/cZVUlNaHjfsB6Lu5hnj8JjUk4lvsgOV7DFz4Nl47-RaQObW1VPRpos6hTDD6WgYrNxCh9UKfn5DFU-K7lRe9pQ'
-  lat: 40.1164
-  level: 8
-  lon: -88.242747
-  name:  'Sidewalk Art'
 - ap: 3661
   img:  'http://lh3.ggpht.com/ahylfFHnKd7tl8EDQopVPlqhdiJblx_p3TWsELUFACXM_9qS9N8agb-ypr7EOOemNFMUrRGaUQ23LY6F1ssb'
   lat: 40.095094
@@ -634,6 +616,12 @@
   level: 7
   lon: -88.243468
   name:  'Dog Heart'
+- ap: 3474
+  img:  'http://lh3.ggpht.com/LunaMtSKD9yiLQClolDY-Iqh0ENm9AgJdL4D1QxGs0j6TXPgqxDZea35x5ilAfeI5_0TGh5x1q1EqRsJsLFi'
+  lat: 40.114111
+  level: 6
+  lon: -88.243697
+  name:  'Champaign Surplus'
 - ap: 3474
   img:  'http://lh4.ggpht.com/hJDi8J7CZU-933hT0Culp2nhslv6p8rDRPdTFz6FwNaAjB5CmfkaQzj9sM--E-QBvI8yvIJn1F2jxy7ZKWlh'
   lat: 40.10816
@@ -874,24 +862,12 @@
   level: 3
   lon: -88.242244
   name:  'Vintage Orpheum Artwork'
-- ap: 2162
-  img:  'http://lh5.ggpht.com/XQVr2AUWddJQMpYbapEIpcTLBeBvcpgmW016VjkAOXrp8_P2VsMxQY8FVhtDhA73iTCXCPiydjFIJcbcSa8_'
-  lat: 40.116206
-  level: 2
-  lon: -88.24306
-  name:  'Indigo Art Gallery'
 - ap: 2537
   img:  'http://lh5.ggpht.com/D9O580D9hlBOqeMvt2V4nL-eHP62h4vG4YFgk-WTw7GunusU9AOffFuHZ9XYWoB8YrGxpCMu2Y77-LCAgcdT'
   lat: 40.119328
   level: 5
   lon: -88.243755
   name:  'Birthplace of Champaign / Beautiful Beardsley Hotel'
-- ap: 2162
-  img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
-  lat: 40.117107
-  level: 2
-  lon: -88.242467
-  name:  'Radio Maria'
 - ap: 2537
   img:  'http://lh3.ggpht.com/AD9d7JPmLdYRdpxESO9iORy1GRXAcN1jzn8dDNvm6FO7cIHVsjwAKI8LmbW4dico1Xe9jzJfsZZriP0CxXA46w'
   lat: 40.104084
@@ -947,12 +923,6 @@
   lon: -88.228733
   name:  'The Centennial Colophon'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/1El0oK6CWDh7rAQeFmPEW_dA252pdq7piTtjtuQCkZvwRa689NLjEafLqQ35TI5qCW3Lmhja9PLQqKxFs9Ha'
-  lat: 40.110627
-  level: 3
-  lon: -88.227584
-  name:  'Tau Beta Pi Statue'
-- ap: 2537
   img:  'http://lh4.ggpht.com/RF7EbCh1YRbFHfis_PEc88NF1v4Ndhj-Rm7rrlY7F8s-Mrv1EMEFnajFbYiNffZ_3kMNL80Zv-_jtaMYMtLA'
   lat: 40.110655
   level: 3
@@ -988,6 +958,12 @@
   level: 4
   lon: -88.227843
   name:  'Iconic Pillars'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/1El0oK6CWDh7rAQeFmPEW_dA252pdq7piTtjtuQCkZvwRa689NLjEafLqQ35TI5qCW3Lmhja9PLQqKxFs9Ha'
+  lat: 40.110627
+  level: 3
+  lon: -88.227584
+  name:  'Tau Beta Pi Statue'
 - ap: 2537
   img:  'http://lh3.ggpht.com/nyMlzJGmc3oOWHxnwtb2MCi8kQtbe6k4aopwZNTdddDfAJ7X3VjPFR67k77bfDgL7hxNThJ1uE_0rjJjPFsfrA'
   lat: 40.127323
