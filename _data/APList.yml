@@ -359,6 +359,12 @@
   lon: -88.236795
   name:  'New House of Prayer'
 - ap: 3848
+  img:  'http://lh3.ggpht.com/bltQwmnzp2vSKYhLpzNLqB4iddy6ie0kWk9G7Wce4U9qmW3CABxbXAhF7v0oG9QLFD2q57UZuVqZCMgN3MHZfA'
+  lat: 40.118335
+  level: 6
+  lon: -88.243408
+  name:  'Downtown Fountain'
+- ap: 3848
   img:  'http://lh4.ggpht.com/2j92v5RucwqepFVAGPjzWWGkGueAbE7ZlVAh_PKwLdaxCdQfFgDHv5eInFs1Hb3WRxkcliRx4YRrbp7McBI'
   lat: 40.054626
   level: 5
@@ -401,6 +407,18 @@
   lon: -88.282953
   name:  'Greenbelt 2'
 - ap: 3474
+  img:  'http://lh3.ggpht.com/1G0o5RjtXyfAjbI-E2honhhelnuiq4lIkpHmB44e-AwSBuIxVOdLPVYjImbTMS8kyBdZuKuiMQHciUIdAWg'
+  lat: 40.118368
+  level: 5
+  lon: -88.243737
+  name:  'Frank Robeson Memorial'
+- ap: 3474
+  img:  'http://lh6.ggpht.com/rGhR45ZFbHtxmrZSSy9V19eFoyHIDB42c6MK188isPJFWpUsW9ywNHayKt3acNvKNC8DAV6mDkUloj3aiS4'
+  lat: 40.118422
+  level: 3
+  lon: -88.24346
+  name:  'Entrance'
+- ap: 3474
   img:  'http://lh3.ggpht.com/VrbXGwlUosNLEkVdshWUFoVa3KtlJQoEU4yLYygvftYbPCmxo644Uvar_v8Kb9RS53hB0tXgvV44GotrxZyu'
   lat: 40.098592
   level: 8
@@ -437,17 +455,17 @@
   lon: -86.27008
   name:  '3b52ee8fe4944de2bfda43fd4e1227c6.16'
 - ap: 2724
-  img:  'http://lh4.ggpht.com/Xc4jbsmIo8GrwtzHz9IX0Jaw1iU8mCOl7ogORaFGi_bfS8vJzMFcFxkV759mRftuGiYEJjLvg05TeSthdEGqBg'
-  lat: 40.072341
-  level: 5
-  lon: -88.209609
-  name:  'Solar Decathlon Re-House '
-- ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.773767
   level: '?'
   lon: -86.210255
   name:  '57d26e1570fc477bacd733f559a430ae.16'
+- ap: 2724
+  img:  'http://lh4.ggpht.com/Xc4jbsmIo8GrwtzHz9IX0Jaw1iU8mCOl7ogORaFGi_bfS8vJzMFcFxkV759mRftuGiYEJjLvg05TeSthdEGqBg'
+  lat: 40.072341
+  level: 5
+  lon: -88.209609
+  name:  'Solar Decathlon Re-House '
 - ap: 2724
   img:  'http://lh6.ggpht.com/NH1CnJnblS1bpZxZJ0VxAHy0tYw7BiYdVK5V9KnTw0N1KMf8OFR6FZP01shVet9ha4cEfSYufO9a1bv8Sqyd'
   lat: 40.12142
@@ -455,23 +473,17 @@
   lon: -88.243105
   name:  'US Post Office, N Neil St, Champaign'
 - ap: 2724
-  img:  'http://lh3.ggpht.com/bltQwmnzp2vSKYhLpzNLqB4iddy6ie0kWk9G7Wce4U9qmW3CABxbXAhF7v0oG9QLFD2q57UZuVqZCMgN3MHZfA'
-  lat: 40.118335
-  level: 4
-  lon: -88.243408
-  name:  'Downtown Fountain'
+  img:  'http://lh6.ggpht.com/ytlRYKlqnchcFvl3QEN1XknYcwYKIjohz4qzWW8SmhDi5mypBmgPbf9e4ghZWMZY5gpD9HIyalemSKsIzyA'
+  lat: 40.11408
+  level: 5
+  lon: -88.245852
+  name:  'Champaign Fire Department'
 - ap: 2724
   img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
   lat: 40.116989
   level: 3
   lon: -88.242255
   name:  'Blind Pig'
-- ap: 2724
-  img:  'http://lh6.ggpht.com/ytlRYKlqnchcFvl3QEN1XknYcwYKIjohz4qzWW8SmhDi5mypBmgPbf9e4ghZWMZY5gpD9HIyalemSKsIzyA'
-  lat: 40.11408
-  level: 5
-  lon: -88.245852
-  name:  'Champaign Fire Department'
 - ap: 2724
   img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
   lat: 40.100078
@@ -516,6 +528,12 @@
   name:  'd8a711145b434eadb8ca8cb279373108.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.361364
+  level: '?'
+  lon: -87.82424
+  name:  'b2327a6e1855405cabbfefd19fbc12b8.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.360138
   level: '?'
   lon: -86.268483
@@ -551,6 +569,12 @@
   lon: -88.627723
   name:  'dbacc507052a45fc879dff96679fc10d.16'
 - ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.006828
+  level: '?'
+  lon: -87.65519
+  name:  'f1155b4ff98f47a899c22acd70f130d5.16'
+- ap: 2537
   img:  'http://lh5.ggpht.com/KmcyHZbW-2yJsvLDA_XQCx9aOF3P9itxKi_I4fScJaaRqqojBriUII3Fp8SHNgup2Ab6_7r9jDEo_AzWSfI'
   lat: 40.097028
   level: 4
@@ -562,12 +586,6 @@
   level: 6
   lon: -88.249351
   name:  'A Lady Waiting for the Bus'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.006828
-  level: '?'
-  lon: -87.65519
-  name:  'f1155b4ff98f47a899c22acd70f130d5.16'
 - ap: 2537
   img:  'http://lh3.ggpht.com/tXuCgd1tvCtlonW_e1jLC_5DH6g4Qh6zIUKhJeoBZuLvyB0ql69PlymRU3Ywf5lq_8PFYNylEKOiC_qJnnzJpg'
   lat: 40.138006
@@ -592,12 +610,6 @@
   level: 6
   lon: -88.251883
   name:  'Boulware Trail'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.361364
-  level: '?'
-  lon: -87.82424
-  name:  'b2327a6e1855405cabbfefd19fbc12b8.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.036745
@@ -635,12 +647,6 @@
   lon: -88.243645
   name:  'Boltini Lounge'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
-  lat: 40.117107
-  level: 3
-  lon: -88.242467
-  name:  'Radio Maria'
-- ap: 2537
   img:  'http://lh5.ggpht.com/n8MFM2pb-tE5i9EziJdygPPUK8VqEZ4BHGQaywz4lwe3WjwdgO0ohBCPZmiMoL00r3mVPmYnbCunJDeFbyk'
   lat: 40.118593
   level: 5
@@ -658,6 +664,12 @@
   level: 6
   lon: -88.245013
   name:  'New Covenant Fellowship'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
+  lat: 40.117107
+  level: 3
+  lon: -88.242467
+  name:  'Radio Maria'
 - ap: 2537
   img:  'http://lh6.ggpht.com/uJ6kk4uQVfzQ22nbmRS5caadkRcM8fSpAlbvgM8KacYRDBYZtQTBKIHX7ju9ejvrdRG_oIr5QDELOwvb7L0'
   lat: 40.121759
@@ -694,12 +706,6 @@
   level: 5
   lon: -88.23398
   name:  'Church of the Living God'
-- ap: 2312
-  img:  'http://lh4.ggpht.com/mHAXKPtOyg_DWRs5A_0yhGeDsfU4f4o3xJvzziri7o3ksPPKtMAHUkUBOb0JJ78gArdP5Q6O-UiXNDG3RHaIYQ'
-  lat: 40.109339
-  level: 3
-  lon: -88.234149
-  name:  'Alpha Delta Phi Fraternity House'
 - ap: 2462
   img:  'http://lh4.ggpht.com/OFVPvdgB3GVpaQknHdnt2okgP3xcQksAH3wvOGYVuP85MMlxo3bQ2SRpBb0hzNfjQoC_5LlRqaE6jLB-h9Gr'
   lat: 40.108092
@@ -712,6 +718,12 @@
   level: 3
   lon: -88.23557
   name:  'Boneyard Greenway'
+- ap: 2312
+  img:  'http://lh4.ggpht.com/mHAXKPtOyg_DWRs5A_0yhGeDsfU4f4o3xJvzziri7o3ksPPKtMAHUkUBOb0JJ78gArdP5Q6O-UiXNDG3RHaIYQ'
+  lat: 40.109339
+  level: 3
+  lon: -88.234149
+  name:  'Alpha Delta Phi Fraternity House'
 - ap: 2537
   img:  'http://lh3.ggpht.com/4NvHbplhArQJrKIkJMw4Ia0q_OtktXP-jC6FtPlgn6V49hv8LJbu0RC2ff0eTy3bF3ihXL12v5CPGwvlRNBF'
   lat: 40.127538
