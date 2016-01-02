@@ -73,7 +73,7 @@
 - ap: 8157
   img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
   lat: 40.098239
-  level: 6
+  level: 7
   lon: -88.25376
   name:  'Hessel Park Christian Reformed Church'
 - ap: 7972
@@ -175,7 +175,7 @@
 - ap: 7035
   img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
   lat: 40.100941
-  level: 7
+  level: 8
   lon: -88.251314
   name:  'Gabriel Patrick Maxeiner Memorial Plaque'
 - ap: 6846
@@ -247,9 +247,15 @@
 - ap: 5535
   img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
   lat: 40.102188
-  level: 6
+  level: 7
   lon: -88.251507
   name:  'Little Free Library Charter 5753'
+- ap: 5161
+  img:  'http://lh5.ggpht.com/fDRifvVcFT_dKhPuNBN4rR9lNHL0Q6NvbMnGr2-ZdiirR2rJrBcWRi4vyM3-DYNHymUs7bWchaWRaUtBpg'
+  lat: 40.098541
+  level: 7
+  lon: -88.250389
+  name:  'Dennis Robert Costello Memorial'
 - ap: 5161
   img:  'http://lh4.ggpht.com/4LxsGZZMk3DnpJXUvqzrL54CHSP5TDXjUnDJyHmCCTtCJIjGEI7kxT9g4uxfSPh0X6yGLgQo1jfqbu7B8VEr'
   lat: 40.099084
@@ -262,18 +268,18 @@
   level: 8
   lon: -88.251747
   name:  'Tennis Anyone'
-- ap: 5161
-  img:  'http://lh5.ggpht.com/fDRifvVcFT_dKhPuNBN4rR9lNHL0Q6NvbMnGr2-ZdiirR2rJrBcWRi4vyM3-DYNHymUs7bWchaWRaUtBpg'
-  lat: 40.098541
-  level: 7
-  lon: -88.250389
-  name:  'Dennis Robert Costello Memorial'
 - ap: 4972
   img:  'http://lh4.ggpht.com/A15Qc2ImqJFORKlDItFStr3pkJ1pX5dRyG8VO6RoziKIqMOMMTQdJa-fUInsxL4o7Yxg1XNHfexBZuNAyLG0yw'
   lat: 40.132021
   level: 5
   lon: -88.31285
   name:  'Sunset Ridge Park Dedication'
+- ap: 4785
+  img:  'http://lh3.ggpht.com/g1H1SJintXK5Zb7ng6DN7wix1q5otnzMK5JCJDnecwuIiohJmhXLJs1XzItxaTSYEuPPOqd4x-dGqd0WK5YU'
+  lat: 40.13349
+  level: 5
+  lon: -88.313072
+  name:  'Sunset Skate Park'
 - ap: 4785
   img:  'http://lh5.ggpht.com/6W_b3aoHNnxViA4TkycmE5hhV5q_VHfypLNlgG4sAyw2eJ5Meyzi2-vwTA8miyKA5pZApxbfpAa7uc0zlCM'
   lat: 40.134758
@@ -286,12 +292,6 @@
   level: 5
   lon: -88.314559
   name:  'Sunset Ridge Decorative Gate'
-- ap: 4785
-  img:  'http://lh3.ggpht.com/g1H1SJintXK5Zb7ng6DN7wix1q5otnzMK5JCJDnecwuIiohJmhXLJs1XzItxaTSYEuPPOqd4x-dGqd0WK5YU'
-  lat: 40.13349
-  level: 5
-  lon: -88.313072
-  name:  'Sunset Skate Park'
 - ap: 4785
   img:  'http://lh5.ggpht.com/_Tp5JJFIIlt0iHHyC_A_gnEm1sxUEKDHmQr0oby74HL0rnFZ5JrnuvOTPk6_vulsU_GJue_7RAAX2Y7I2Wxw4A'
   lat: 40.132354
@@ -424,7 +424,7 @@
   level: 5
   lon: -88.248287
   name:  'Colbert Park'
-- ap: 3098
+- ap: 3285
   img:  'http://lh5.ggpht.com/dRrlHXlT2nMNgZNHiYo52ha9L-Xay9DyOJR2Cpqs74hgAJ09abn9OTAtMzRVedt1_R9ObZllLO98vRhNMfgTgVsJCk1S-HJwX_XgiGpG4lz3a328'
   lat: 40.11671
   level: 4
@@ -438,16 +438,16 @@
   name:  'University Baptist Church'
 - ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.773767
-  level: '?'
-  lon: -86.210255
-  name:  '57d26e1570fc477bacd733f559a430ae.16'
-- ap: 2724
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.381147
   level: '?'
   lon: -86.27008
   name:  '3b52ee8fe4944de2bfda43fd4e1227c6.16'
+- ap: 2724
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.773767
+  level: '?'
+  lon: -86.210255
+  name:  '57d26e1570fc477bacd733f559a430ae.16'
 - ap: 2724
   img:  'http://lh4.ggpht.com/Xc4jbsmIo8GrwtzHz9IX0Jaw1iU8mCOl7ogORaFGi_bfS8vJzMFcFxkV759mRftuGiYEJjLvg05TeSthdEGqBg'
   lat: 40.072341
@@ -460,6 +460,18 @@
   level: 1
   lon: -88.243105
   name:  'US Post Office, N Neil St, Champaign'
+- ap: 2724
+  img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
+  lat: 40.116553
+  level: 2
+  lon: -88.242268
+  name:  'Esquire Lounge'
+- ap: 2724
+  img:  'http://lh6.ggpht.com/2lDM_Uj6QcUJmWkmPhNWg-vfkJbBQAo6zb7eXC5qDTaJ5xAsoU7jPPqYmLo7zztC2Za1oH3QVrHQ78-XabqR'
+  lat: 40.116398
+  level: 3
+  lon: -88.242485
+  name:  'Champaign Servicemen and Women Memorial'
 - ap: 2724
   img:  'http://lh6.ggpht.com/Jltxi7PZ9OVi8hBCUxdt9oxXQk9zmbrtHpM_jru2WhVYyY0UkNZ8h5SU3CdwMRNzZ1ZKabPR8hDCPz7p3Ms'
   lat: 40.114439
@@ -486,48 +498,6 @@
   name:  'Brian Clark Memorial Plaque'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.360138
-  level: '?'
-  lon: -86.268483
-  name:  'e1df2e1f94dd4fdebc163f6f5691c4b2.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.986171
-  level: '?'
-  lon: -87.649506
-  name:  '04c6c22af52c457898048b9fda6418bd.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.006828
-  level: '?'
-  lon: -87.65519
-  name:  'f1155b4ff98f47a899c22acd70f130d5.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.5586
-  level: '?'
-  lon: -88.52144
-  name:  '37b8010f3577489a917b0fbc9441ffff.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.745375
-  level: '?'
-  lon: -88.627723
-  name:  'dbacc507052a45fc879dff96679fc10d.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.373359
-  level: '?'
-  lon: -89.690201
-  name:  '448c6f4e7c484cb1b37b9ad8505ea038.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.962789
-  level: '?'
-  lon: -89.776415
-  name:  'a81c0d67be614791992f4fe5fd66d2d2.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.997372
   level: '?'
   lon: -87.65524
@@ -546,12 +516,6 @@
   name:  '67e911e9ccaa47c2a24fd55994401170.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.361364
-  level: '?'
-  lon: -87.82424
-  name:  'b2327a6e1855405cabbfefd19fbc12b8.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.994722
   level: '?'
   lon: -87.654741
@@ -568,6 +532,66 @@
   level: '?'
   lon: -89.775172
   name:  'd8a711145b434eadb8ca8cb279373108.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.361364
+  level: '?'
+  lon: -87.82424
+  name:  'b2327a6e1855405cabbfefd19fbc12b8.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.360138
+  level: '?'
+  lon: -86.268483
+  name:  'e1df2e1f94dd4fdebc163f6f5691c4b2.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.986171
+  level: '?'
+  lon: -87.649506
+  name:  '04c6c22af52c457898048b9fda6418bd.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.448264
+  level: '?'
+  lon: -89.029353
+  name:  'Pepper Ridge Park'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.052274
+  level: '?'
+  lon: -89.057376
+  name:  '66381bf26d314a13b27cb67da81ba386.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.373359
+  level: '?'
+  lon: -89.690201
+  name:  '448c6f4e7c484cb1b37b9ad8505ea038.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.962789
+  level: '?'
+  lon: -89.776415
+  name:  'a81c0d67be614791992f4fe5fd66d2d2.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.5586
+  level: '?'
+  lon: -88.52144
+  name:  '37b8010f3577489a917b0fbc9441ffff.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.745375
+  level: '?'
+  lon: -88.627723
+  name:  'dbacc507052a45fc879dff96679fc10d.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.006828
+  level: '?'
+  lon: -87.65519
+  name:  'f1155b4ff98f47a899c22acd70f130d5.16'
 - ap: 2537
   img:  'http://lh5.ggpht.com/KmcyHZbW-2yJsvLDA_XQCx9aOF3P9itxKi_I4fScJaaRqqojBriUII3Fp8SHNgup2Ab6_7r9jDEo_AzWSfI'
   lat: 40.097028
@@ -623,18 +647,6 @@
   lon: -88.243775
   name:  'Mural at Bentley''s'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/eeOtj4-6PU8Dt6QXk_TJjgkoEGRW9L8YzUqZE8QV5ZMCHnqA5CzoQoxKpnjCvXwaIflUUvPJmO_S7BdvMhcuzw'
-  lat: 40.117588
-  level: 2
-  lon: -88.241787
-  name:  'Adam & Eve Mourning Over the Soul of Abel'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/GGBe9Hug3fUbRCRAMs_kO1fg2HHQ95ZDBdW0S2tAHakvhQbWxlttanjhGNJJcyVRruUlL7zjQnPGI2bu8Wc4'
-  lat: 40.117905
-  level: 4
-  lon: -88.242149
-  name:  'Read All About It'
-- ap: 2537
   img:  'http://lh3.ggpht.com/9aQBG-poFARclK9XL7iFIvWePkawZwWhv4Sh0zQhQ0Sy9gdDD508d4gCtpcUP9UNoYM6uztea0aQ05RPd9rZLg'
   lat: 40.115412
   level: 7
@@ -677,17 +689,23 @@
   lon: -88.245568
   name:  'September 11th Memorial Plaque'
 - ap: 2537
+  img:  'http://lh6.ggpht.com/eeOtj4-6PU8Dt6QXk_TJjgkoEGRW9L8YzUqZE8QV5ZMCHnqA5CzoQoxKpnjCvXwaIflUUvPJmO_S7BdvMhcuzw'
+  lat: 40.117588
+  level: 2
+  lon: -88.241787
+  name:  'Adam & Eve Mourning Over the Soul of Abel'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/GGBe9Hug3fUbRCRAMs_kO1fg2HHQ95ZDBdW0S2tAHakvhQbWxlttanjhGNJJcyVRruUlL7zjQnPGI2bu8Wc4'
+  lat: 40.117905
+  level: 4
+  lon: -88.242149
+  name:  'Read All About It'
+- ap: 2537
   img:  'http://lh3.ggpht.com/oHMQr2Z5LayQFbZOwOZK4ZbYQ1OVxs85-qNTvSj8epsP72vQiOdrzVmkuMPFQtCSf9Rr0oqcnSLFjLn-sPw'
   lat: 40.116592
   level: 2
   lon: -88.243236
   name:  'Champaign City Bldg. Landmark Plaque'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/2lDM_Uj6QcUJmWkmPhNWg-vfkJbBQAo6zb7eXC5qDTaJ5xAsoU7jPPqYmLo7zztC2Za1oH3QVrHQ78-XabqR'
-  lat: 40.116398
-  level: 3
-  lon: -88.242485
-  name:  'Champaign Servicemen and Women Memorial'
 - ap: 2537
   img:  'http://lh5.ggpht.com/jz0XvZSSYKqKSa4lJDK-rludOns_o36jZ8ZTzfEr42piZamiTjSASTLdII6pkxgjZgnCwKirjhEouS77BPB8Dg'
   lat: 40.094288
