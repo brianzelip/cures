@@ -40,13 +40,6 @@
   lon: -88.646001
   mus: 80166
   name:  'aa63d75ca02440a28814416d7c062fab.16'
-- fields: 8+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.133743
-  level: '?'
-  lon: -88.162534
-  mus: 60443
-  name:  'The Apple Dumplin'
 - fields: 8
   img:  'http://lh5.ggpht.com/AEDNEBV89C8eZnLPzK5JIchcLMwZ3Ya2btWhSUFX2GmTXPf3AyqQBs9FYNVMDe-dGi4xbfJNjr2XMQaMo03_'
   lat: 40.079618
@@ -54,6 +47,13 @@
   lon: -88.185131
   mus: 60443
   name:  'South Ridge Park'
+- fields: 8+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.133743
+  level: '?'
+  lon: -88.162534
+  mus: 60443
+  name:  'The Apple Dumplin'
 - fields: 1
   img:  'http://lh4.ggpht.com/24wGJwnamMm4J20H07gbeT2nN7pTLWHh7lQjuFh6Nn5A67w8dzxKcAOw1_syPiuVU0VxmKs7MvN3FYyD52U_vg'
   lat: 40.112295
@@ -110,13 +110,20 @@
   lon: -88.20449
   mus: 7036
   name:  'Urbana Municipal Building Fountain'
-- fields: 2
+- fields: 3
   img:  'http://lh6.ggpht.com/u50xnbCiTMjKR5vu2fts6K0B7fFRkf_BgNZeZvqYNgLuF92RwApjI9Hl7UO5bZQK_fN7UjNb6ZzQlDv9BDJe'
   lat: 40.083744
   level: 6
   lon: -88.310745
-  mus: 2022
+  mus: 3696
   name:  'Champaign Fire Department'
+- fields: 3
+  img:  'http://lh5.ggpht.com/_eMBd3V1rEFztJvtBkssKVH7eM-jiU3l9VJJ-kj6SxGZMx_7Qo6G4yjfsws8T1FhIEFwk7yvoicm8XTVERh4'
+  lat: 40.084405
+  level: 4
+  lon: -88.297963
+  mus: 2590
+  name:  'Mount Sinai Temple'
 - fields: 2
   img:  'http://lh4.ggpht.com/N6E1iW7R1Dt6SCyd1q4Ym_HeSnFZ2mHHlXE-jkX1_YLy9BgSRPcDZK8ri2PWx6-sV1IEsClFGgMgpdI2Bgg'
   lat: 40.069187
@@ -124,6 +131,13 @@
   lon: -88.295335
   mus: 2022
   name:  'Friendship Lutheran Church of Joy'
+- fields: 3
+  img:  'http://lh6.ggpht.com/pRR6eCp2PyD3vDZlmHjKOeq8OKg0KhFPVnuWAP-pB7RR36eKA3TlQwYX5pwYfBjPyVyB4oPXXOomdbqpVcY'
+  lat: 40.116065
+  level: 7
+  lon: -88.313206
+  mus: 1802
+  name:  'Alan Green Memorial'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.054845
@@ -152,13 +166,6 @@
   lon: -88.315419
   mus: 1230
   name:  'First Christian Church'
-- fields: 1
-  img:  'http://lh5.ggpht.com/_eMBd3V1rEFztJvtBkssKVH7eM-jiU3l9VJJ-kj6SxGZMx_7Qo6G4yjfsws8T1FhIEFwk7yvoicm8XTVERh4'
-  lat: 40.084405
-  level: 4
-  lon: -88.297963
-  mus: 793
-  name:  'Mount Sinai Temple'
 - fields: 5
   img:  'http://lh3.ggpht.com/1yyUr0xGwID_g1F_OYHLjASRJrvJLD7e8r6IER_B6CliwGRrCH6cDWRVgtfWqJ0wHhNyjId_FX6mEVecAviV'
   lat: 40.11946
@@ -579,6 +586,13 @@
   lon: -88.223867
   mus: 129
   name:  'Dairy Experimental Plaque'
+- fields: 2
+  img:  'http://lh5.ggpht.com/bxjTJmHRd1_7x6zw7y1Eir0opWUqtbJOdAC4FxDOfOBVdUI1zEVV9wo5FiHzTxqR7hajj-4tQrnSyAe2b8Y'
+  lat: 40.113974
+  level: 7
+  lon: -88.311234
+  mus: 128
+  name:  'WBGL Radio Station Headquarters Plaque'
 - fields: 4
   img:  'http://lh5.ggpht.com/zUcdFy4LbfVjWynZZp4C5TfAppnK9Iiou6aV9idMEi-uHh7ZVcuIZxHz7Sqt4EqZY__obyqxWSrIBmWDtvwUpg'
   lat: 40.124036
@@ -1371,6 +1385,13 @@
   mus: 4
   name:  'Austin Cloyd Memorial Plaque'
 - fields: 1
+  img:  'http://lh3.ggpht.com/eFFdc4ogWkS9n6Texp4aw9BhK-M6FRxwvMRH-YkXj7JP7qSRQdo7E0-0O4P7NawgvduxpxgjnbGHbN1BjW2_'
+  lat: 40.114585
+  level: 7
+  lon: -88.311371
+  mus: 4
+  name:  'Joe''s Park'
+- fields: 1
   img:  'http://lh3.ggpht.com/UcqV7o_Yw8_GGaaDMgHbyjMkowFd6fLEvVZpZ-gK4c0MfVLeIyMGz3v8JvS0D0W9p0eGJpr66nn-6KdP6iQV'
   lat: 40.100335
   level: 6
@@ -1608,27 +1629,6 @@
   lon: -88.24957
   mus: 1
   name:  'Linda M. Wesolowski Memorial Sign'
-- fields: 1
-  img:  'http://lh5.ggpht.com/nirQKdy3s9r8TSV7cB7_B0l-0EsFXBkg1aitH05R0ttPhOEewGxlq1GRnlDvYFT2V8Z91hWnB9YD3WjxBvyZ'
-  lat: 40.11868
-  level: 2
-  lon: -88.243426
-  mus: 1
-  name:  '"Pointless"'
-- fields: 1
-  img:  'http://lh6.ggpht.com/nbUJivBo0zF8f8aBbk1GwakUpPbLUVOoEovTTETYwJvfNIHXwG9XUbwoV0x-ly4ZO5Hsyv5KPo3c9cE6Nh8'
-  lat: 40.118832
-  level: 2
-  lon: -88.243643
-  mus: 1
-  name:  'Tesla Ball'
-- fields: 1
-  img:  'http://lh6.ggpht.com/rGhR45ZFbHtxmrZSSy9V19eFoyHIDB42c6MK188isPJFWpUsW9ywNHayKt3acNvKNC8DAV6mDkUloj3aiS4'
-  lat: 40.118422
-  level: 2
-  lon: -88.24346
-  mus: 1
-  name:  'Entrance'
 - fields: 1
   img:  'http://lh5.ggpht.com/ZAQQMo0g8dPiNKbmyCGqg9AkmfoW8FzqAcUNP-9buWZIQhHPeijk0LUaIvIY2yZTCOy0nd-9jGV_uR7-XY8J'
   lat: 40.117334
