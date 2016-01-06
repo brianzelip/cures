@@ -334,6 +334,13 @@
   lon: -88.401509
   mus: 559
   name:  'Mahomet Area Community Center'
+- fields: 7
+  img:  'http://lh5.ggpht.com/_9uqsDQROIwqIhKx_URY4DdZAapoZBEWK6Eaclt5mM5vPsjwQAD-v8Bv-4b-Smq2F8X4zOgzLx2KwySkFWc'
+  lat: 40.118448
+  level: 6
+  lon: -88.25211
+  mus: 547
+  name:  'First Church of Christ, Scientist'
 - fields: 4
   img:  'http://lh6.ggpht.com/nRwew4OU3JNWRI1-xCyuN1xwDabajLFDuSlOZ-_M8BwJELli4V8o30JI0UyF6Kpc4gfDGdh10kJ6mD6ggMo'
   lat: 40.108561
@@ -355,13 +362,6 @@
   lon: -88.421294
   mus: 532
   name:  'Bridle Leash Park'
-- fields: 6
-  img:  'http://lh5.ggpht.com/_9uqsDQROIwqIhKx_URY4DdZAapoZBEWK6Eaclt5mM5vPsjwQAD-v8Bv-4b-Smq2F8X4zOgzLx2KwySkFWc'
-  lat: 40.118448
-  level: 6
-  lon: -88.25211
-  mus: 527
-  name:  'First Church of Christ, Scientist'
 - fields: 7
   img:  'http://lh3.googleusercontent.com/zcTaX3OHcGZu7CzBV1HvsKtB5RiAW7oMwxS_7phps0tjr70eNr8xbxrJ_P6agi_uXJtMNdHPnks9rZcrR6mG'
   lat: 40.127267
@@ -607,6 +607,13 @@
   lon: -88.246749
   mus: 200
   name:  'Queen Smith Memorial Garden'
+- fields: 4
+  img:  'http://lh3.ggpht.com/psgrRGIt786cUSq8EV7SBSDsS-aptrUKjaCXWv864H7OaJL2K71qJpxU9Iw-acwFMi52ZN2qpEmicGmlmhJq'
+  lat: 40.121061
+  level: 6
+  lon: -88.250227
+  mus: 198
+  name:  'Curtis F. Columbia Legacy Plaque'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.171295
@@ -621,13 +628,6 @@
   lon: -88.223867
   mus: 186
   name:  'Dairy Experimental Plaque'
-- fields: 3
-  img:  'http://lh3.ggpht.com/psgrRGIt786cUSq8EV7SBSDsS-aptrUKjaCXWv864H7OaJL2K71qJpxU9Iw-acwFMi52ZN2qpEmicGmlmhJq'
-  lat: 40.121061
-  level: 6
-  lon: -88.250227
-  mus: 178
-  name:  'Curtis F. Columbia Legacy Plaque'
 - fields: 5
   img:  'http://lh6.ggpht.com/CFr5FDgsztNbeSQUq6x63c17MTKeKxsaUoY7uq6eft3-_1XjCjDOPcpjtaA8iqU-gi7m9txMeWkfG0UuT6mv'
   lat: 40.099069
@@ -776,6 +776,13 @@
   mus: 93
   name:  'Champaign Church of Christ'
 - fields: 2
+  img:  'http://lh3.ggpht.com/K-b9T4FjMxrtkS2Awkze3fELfwY2Va92gMQloHtHf4bfeKPPRzOUJxaSYYi6-OHHQbpDVY3ONWwPgIa78fBX'
+  lat: 40.118332
+  level: 6
+  lon: -88.250276
+  mus: 93
+  name:  'Mckinley Aquatics Center'
+- fields: 2
   img:  'http://lh3.ggpht.com/Or_i3A5Lpw1MTemWGpqYDcp3d75CQeZ5SKOxpDiq5sqqAYEgpA2oj3z4w1k4IuUnXvSjSHET1wuLB0Vrb77S'
   lat: 40.112555
   level: 6
@@ -799,7 +806,7 @@
 - fields: 7
   img:  'http://lh3.ggpht.com/WWhYcmz7SmE72z0SL44DRgW7htbIekUCuGiMB3k2U4oqOpii2n2vl1T7LX91Izu4VR89_uvBjK0HYR2KBM8'
   lat: 40.100276
-  level: 6
+  level: 7
   lon: -88.223103
   mus: 86
   name:  'Taft House'
@@ -852,13 +859,6 @@
   lon: -88.288788
   mus: 73
   name:  'Student Union Building'
-- fields: 1
-  img:  'http://lh3.ggpht.com/K-b9T4FjMxrtkS2Awkze3fELfwY2Va92gMQloHtHf4bfeKPPRzOUJxaSYYi6-OHHQbpDVY3ONWwPgIa78fBX'
-  lat: 40.118332
-  level: 6
-  lon: -88.250276
-  mus: 73
-  name:  'Mckinley Aquatics Center'
 - fields: 9
   img:  'http://lh5.ggpht.com/oZQDrn1fO-Podf01z1Gb_GpmTXd3IRE2Zy0DnqvTWyDkEcOqkx-2w_hD2oHdf2AfJ614c2JL5ufvVEHhOug'
   lat: 40.117487
@@ -1352,10 +1352,31 @@
 - fields: 3
   img:  'http://lh4.ggpht.com/HPJCnjDX7RNIKo1Nb9pEeLm37UaylaBupc0bWDexHxCLAmBV-4-tYBf1Jof3ssNpFCmoyw3MrokNv4_zt20'
   lat: 40.108274
-  level: 5
+  level: 4
   lon: -88.219925
   mus: 11
   name:  'Memory Squares'
+- fields: 1
+  img:  'http://lh5.ggpht.com/WZc539Zuz4CnOeahoDxnw7bXfoXbAW8PlbPdBvZNK5s1q7hQoFcVebhZRoTQV6uPovHywWaXUsleNvoQP2wE'
+  lat: 40.113647
+  level: 5
+  lon: -88.227628
+  mus: 11
+  name:  'Micro and Nanotechnology Laboratory'
+- fields: 1
+  img:  'http://lh3.ggpht.com/b9HBD2zL4T02YqqDOnuBzYEU0UECTZDRgjLjZJV7cnX75wbmiWtc5yBUo_FZrZ8yBH69UsrbeJlq-VS-mPmi'
+  lat: 40.109438
+  level: 5
+  lon: -88.226301
+  mus: 11
+  name:  'Illite and Clay Mineralogy Plaque'
+- fields: 1
+  img:  'http://lh4.ggpht.com/nCIRPoMhADi7TL4q2u4MuBiXC1akVoL07As3dRfJNrhBjk7TMQ6R08CVcjyVIhHKHcOuAFQpwqld8JgdcgIB'
+  lat: 40.113961
+  level: 5
+  lon: -88.22709
+  mus: 11
+  name:  'Nathan M. Newmark Civil Engineering Laboratory'
 - fields: 3+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.195188
@@ -1755,6 +1776,20 @@
   lon: -88.402935
   mus: 1
   name:  'c87d5b6cf7ea4bae962a48d438be958c.16'
+- fields: 2
+  img:  'http://lh5.ggpht.com/orl0d4FNIpZ7xsdZmVyH_732dMd4uGM01fQ-P5V82KufzWBOMbpankzTgjeS3frZhS7apS3qCrS2o4jtw7pAkg'
+  lat: 40.105605
+  level: 5
+  lon: -88.227414
+  mus: 1
+  name:  'Charlene E. Haight Bench'
+- fields: 2
+  img:  'http://lh4.ggpht.com/Zom5xkViTBf5wGkPFjYta7PfPZDicQD2VL2bQItgdzMxvQ1x7zqM3Zgynd7a6XBMT6qMAMKagxWMdpMlPcveaw'
+  lat: 40.105849
+  level: 5
+  lon: -88.227679
+  mus: 1
+  name:  'Lincoln Scholarship Plaque'
 - fields: 1
   img:  'http://lh3.ggpht.com/jnMeoF6SBZ0Iinf5GnB2N90IMGTEQdGggLITfjWcIY6d5yipHaBN52a1NPxmn-VFwc_G1cHiMmyEDGg5nkwo'
   lat: 40.101623
@@ -1805,12 +1840,26 @@
   mus: 1
   name:  'Garden for the Gardener Plaque'
 - fields: 1
+  img:  'http://lh6.ggpht.com/T15jgBwdGgKfY5ZEkmL6_eEeGWALRclzodBAIpqOXMAO4sP9g1Mt8CwDQCh5tDr_sZan-95c8YRI6F-W63_-'
+  lat: 40.105692
+  level: 5
+  lon: -88.227097
+  mus: 1
+  name:  'A Son of Deucalion'
+- fields: 1
   img:  'http://lh6.ggpht.com/6yxAmr2FjIBpCnPpjbRv2_ffdjnZXpB2FX2OgDLnFT0Oay8HbNuXBErpWWje-HkjfKlf0OugYI9CAtbUcgPsA0B7aD9He4jy7otGJ1mBkF_9NwAA'
   lat: 40.111099
   level: 3
   lon: -88.209036
   mus: 1
   name:  'Ibidem Statue'
+- fields: 1
+  img:  'http://lh3.googleusercontent.com/zmBaxEMhC7WvQDOei5LjXnSrM2p368YlSMZPtCtSY0t6bGsHjg5Bc91PGGsJ0oGn_hifKeBSMB_3BKH3hbwP'
+  lat: 40.105567
+  level: 5
+  lon: -88.227662
+  mus: 1
+  name:  'Freedom of the Press Plaque'
 - fields: 1
   img:  'http://lh6.ggpht.com/MeCv4qKQEM7hI3rnTMzIC_AytAn5OGQnxUhLcZ_DJR11bMnKiD3m92pCPpibxE-qSpl8VqABge-WEqn0dyA'
   lat: 40.110654
