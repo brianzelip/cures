@@ -329,12 +329,6 @@
   lon: -88.248681
   name:  'Siti Sculpture'
 - ap: 5161
-  img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
-  lat: 40.100691
-  level: 7
-  lon: -88.251337
-  name:  'In Loving Memory of Zeus'
-- ap: 5161
   img:  'http://lh3.ggpht.com/VrbXGwlUosNLEkVdshWUFoVa3KtlJQoEU4yLYygvftYbPCmxo644Uvar_v8Kb9RS53hB0tXgvV44GotrxZyu'
   lat: 40.098592
   level: 7
@@ -346,6 +340,12 @@
   level: 8
   lon: -88.250539
   name:  'Hessel Park'
+- ap: 5161
+  img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
+  lat: 40.100691
+  level: 7
+  lon: -88.251337
+  name:  'In Loving Memory of Zeus'
 - ap: 4972
   img:  'http://lh4.ggpht.com/VZT9NM5dfGAaJAZj9cFhDmCgknQCF0UI4Hv3AwcaZedRlXhGb2wfVLTFOWjtoSJRG7MEsjv784wAB1XZgQqpBA'
   lat: 40.126642
@@ -538,24 +538,6 @@
   level: '?'
   lon: -88.643621
   name:  'United Methodist'
-- ap: 3474
-  img:  'http://lh5.ggpht.com/dnj__uItXDR_xj-g5PNpGYPNjJCPBFpsx3w9sWxvrOlayO6nyG_Qu8MygtuFZm9i4L2Gho0fkOACtzkGR_e2wQ'
-  lat: 40.098457
-  level: 5
-  lon: -88.276763
-  name:  'Mini Park IV'
-- ap: 3474
-  img:  'http://lh5.ggpht.com/KmcyHZbW-2yJsvLDA_XQCx9aOF3P9itxKi_I4fScJaaRqqojBriUII3Fp8SHNgup2Ab6_7r9jDEo_AzWSfI'
-  lat: 40.097028
-  level: 4
-  lon: -88.276646
-  name:  'Roby Recreation Trail'
-- ap: 3474
-  img:  'http://lh6.ggpht.com/wNRP75KigUqlahXLbqAEKGIz2n2kFEiPnl8N9wYTLbnMdYASRbhsFYo33DyVRETf0fgmad8RuO3z7j3tV50'
-  lat: 40.097001
-  level: 4
-  lon: -88.276242
-  name:  'Robert P. Simon Trail'
 - ap: 3474
   img:  'http://lh5.ggpht.com/tuo_ByFTbwLitFP5cBseOibqRxENxbCwOJ30dCnja5ijBI_qBv5vqNP7ZuZXnxhYM6ms_GbExZEwwKVUtwV2'
   lat: 40.093712
@@ -768,16 +750,16 @@
   name:  '729c628d20204be29ae39ffc8267cd86.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.766488
-  level: '?'
-  lon: -88.874945
-  name:  '1109d98226ff4c80937d8a18a1be2e14.11'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.769237
   level: '?'
   lon: -88.871316
   name:  '672de14a599b4fc8bbb8d8c175d70e77.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.766488
+  level: '?'
+  lon: -88.874945
+  name:  '1109d98226ff4c80937d8a18a1be2e14.11'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 39.443032
@@ -826,6 +808,18 @@
   level: 6
   lon: -88.243445
   name:  'Remembering Horeb'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/fly4_k-hAL6P3jBmh9Bjpyde3bA0j2nkFteyQKoxTVtVahQhnhkAkLokFJPorZXmicL5B_SfFQIi-AXR0fc'
+  lat: 40.11654
+  level: 5
+  lon: -88.205347
+  name:  'Astroterra'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/SBfXBUHhVCYeWAJfYerukWz8LsUK23PjqJjy2Ju0vy7BSdHawWeWl-wiy8KIVhqKGDeNGwFdmyUA0JVsHV6tDg'
+  lat: 40.129436
+  level: 5
+  lon: -88.219316
+  name:  'The Hope Center'
 - ap: 2537
   img:  'http://lh6.ggpht.com/uaO1clC1eOzxRVRPPU6mVM4lEPV2U6uxh64a8kJNRglHSObClWlHGEcfJTknzwB_7Wli3doxQJbZKiBHIXI'
   lat: 40.102834
