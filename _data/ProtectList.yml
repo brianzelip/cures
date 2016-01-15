@@ -68,19 +68,19 @@
   lon: -88.384378
   mus: 31478
   name:  'St Boniface Cemetary'
-- fields: 7
+- fields: 8
   img:  'http://lh5.ggpht.com/_eMBd3V1rEFztJvtBkssKVH7eM-jiU3l9VJJ-kj6SxGZMx_7Qo6G4yjfsws8T1FhIEFwk7yvoicm8XTVERh4'
   lat: 40.084405
   level: 5
   lon: -88.297963
-  mus: 27143
+  mus: 27170
   name:  'Mount Sinai Temple'
-- fields: 6
+- fields: 7
   img:  'http://lh5.ggpht.com/-NsKnESr9uZb4z_j68xVZ0wUqdmw2w55j8GyLVxett1cBDOwLzwVF7FZY3yZZyTPCZeRYEynakch-pYO6GhZ'
   lat: 40.084056
   level: 5
   lon: -88.328738
-  mus: 27114
+  mus: 27141
   name:  'Champaign Bark District'
 - fields: 13
   img:  'http://lh5.ggpht.com/KeE2mCastNpakZHF9Jh4QCUf9dxQOnMiQb2Rfki_4r4R_ry-Zyk4IfCIo0jybb89O-BG6bVz71u25L85nJ55'
@@ -264,12 +264,12 @@
   lon: -88.313206
   mus: 3955
   name:  'Alan Green Memorial'
-- fields: 7
+- fields: 9
   img:  'http://lh4.ggpht.com/-P9_K1M8m41FpGEgfyih0JNuexcc1mtm7Hq3LOuozksba15MIQWefDgfBs20Uuf61Txiy9-ALeKCMVWuBi4'
   lat: 40.083514
   level: 6
   lon: -88.276579
-  mus: 3637
+  mus: 3776
   name:  'Christie Clinic Hospital '
 - fields: 3+
   img: http://i.imgur.com/LujBo5P.png
@@ -551,12 +551,12 @@
   lon: -88.190413
   mus: 1117
   name:  'St Matthew Lutheran Church'
-- fields: 5
+- fields: 7
   img:  'http://lh6.ggpht.com/A3o1Nm3JPbfRGX8fs0D87GlAc2sSTKVl6IimAZxRyIfLyPcsMcbx7s4WqUTkMcz70wzyETv1zaJZtlBTRdBG'
   lat: 40.083723
   level: 6
   lon: -88.288027
-  mus: 1073
+  mus: 1093
   name:  'Windsor Road Christian Church'
 - fields: 14
   img:  'http://lh5.ggpht.com/KZJcVtx_m6ybJt7v2wXtmd--6BMUPvbKoZDQp6PECu5NOWi8YdxWsFRLQ6wmR5cRPRa67wrNsa7mcLFyAmVx'
@@ -1112,6 +1112,13 @@
   mus: 152
   name:  'Saint Mary''s Cemetery'
 - fields: 5
+  img:  'http://lh6.ggpht.com/u50xnbCiTMjKR5vu2fts6K0B7fFRkf_BgNZeZvqYNgLuF92RwApjI9Hl7UO5bZQK_fN7UjNb6ZzQlDv9BDJe'
+  lat: 40.083744
+  level: 5
+  lon: -88.310745
+  mus: 151
+  name:  'Champaign Fire Department'
+- fields: 5
   img:  'http://lh3.googleusercontent.com/8uMYuZy0Us1c6m26i0q3fiQ2sptx9Og4z2bMHuLtSt_Woc8U5yKYiXLiC2Oz38uiO4m3z3SU3svJ6uRX-_o'
   lat: 40.086941
   level: 7
@@ -1174,6 +1181,13 @@
   lon: -88.251419
   mus: 135
   name:  'Harlan E. Moore Park'
+- fields: 5
+  img:  'http://lh5.ggpht.com/NHSnrnnguNnzphuELCzs-TBkUrtUVtADf8g8hjx9Ws5Sy1xGl7dBrcU96Fy5liURNnxd7hWZgvAkQOpxS3zo'
+  lat: 40.08288
+  level: 5
+  lon: -88.31213
+  mus: 135
+  name:  'Joel Stephen Memorial Little League Field'
 - fields: 3
   img:  'http://lh6.ggpht.com/EtUHkhRjkZ9UYMDmCSuvHh6t4kcvcgYxxiEJZQqRcnjIDeG4E6RmW0mu5sRNQlBwOb4t6mkSGfGFTOHLR5qw'
   lat: 40.094317
@@ -1293,6 +1307,13 @@
   lon: -88.243473
   mus: 97
   name:  'Savoy Rotary Club Dedication'
+- fields: 3
+  img:  'http://lh3.googleusercontent.com/dnlQAi9ftw9Nx79Zq-2jo6-EvJCMD8vcxJZcy5NWGDJ3iOxzhM2gXtGvrqke6-N3F3kKBkK5Bev6RRF5RS7y'
+  lat: 40.08375
+  level: 7
+  lon: -88.294948
+  mus: 97
+  name:  'Park District Flower Island'
 - fields: 4
   img:  'http://lh4.ggpht.com/Ad3EyxZM9v5cjmOiED5nr8Hf1mHtOMXrJtjU_U63YfE8lgUjAteiDYuYxND-ybx6tARUErULHJBDhgoDIblz'
   lat: 40.077349
@@ -1300,13 +1321,6 @@
   lon: -88.20659
   mus: 96
   name:  'Bruno Schielzeth Plaque'
-- fields: 2
-  img:  'http://lh3.googleusercontent.com/dnlQAi9ftw9Nx79Zq-2jo6-EvJCMD8vcxJZcy5NWGDJ3iOxzhM2gXtGvrqke6-N3F3kKBkK5Bev6RRF5RS7y'
-  lat: 40.08375
-  level: 7
-  lon: -88.294948
-  mus: 95
-  name:  'Park District Flower Island'
 - fields: 5
   img:  'http://lh3.googleusercontent.com/Mh4TvEgm1KD2791bMhS_5scn90I7ItecDK_4cR71DUp3IcAnByKuziSm_RiBIqMb7QWx5NyyJtv3Wfvv5o7e'
   lat: 40.117555
@@ -1587,6 +1601,13 @@
   lon: -88.204823
   mus: 46
   name:  'Hamilton @ Meadowbrook Park'
+- fields: 5
+  img:  'http://lh4.ggpht.com/nYT8xXu54e_RpOMwge0741LJV8TXmsU6JtJkw4-eNbTQlG51DA0s20v0xTmtkvREh1GrXuaasrkSJL5c3E_K2Q'
+  lat: 40.082248
+  level: 6
+  lon: -88.312376
+  mus: 45
+  name:  'Pony League Field'
 - fields: 2
   img:  'http://lh6.ggpht.com/vqiOPPON1phvYOdOmbFDrxhN6cbYjeLHVgH42EV0XsJjVNd81EM1DKY_aRVM-rwJ9Il5tLc3QsL_gOS4qAkF'
   lat: 40.139891
@@ -1615,13 +1636,6 @@
   lon: -88.25211
   mus: 40
   name:  'First Church of Christ, Scientist'
-- fields: 3
-  img:  'http://lh4.ggpht.com/nYT8xXu54e_RpOMwge0741LJV8TXmsU6JtJkw4-eNbTQlG51DA0s20v0xTmtkvREh1GrXuaasrkSJL5c3E_K2Q'
-  lat: 40.082248
-  level: 6
-  lon: -88.312376
-  mus: 40
-  name:  'Pony League Field'
 - fields: 6
   img:  'http://lh6.ggpht.com/LVoGz75uEbzBIHab_ek4_2onuT-7Ow81Pj41mGU3rfgYArGKILIbviOC6pY-ZijVs4KcHd-ZD_WmLcCaImyC'
   lat: 40.119406
@@ -1755,6 +1769,13 @@
   lon: -88.220974
   mus: 27
   name:  'Astronomy Building'
+- fields: 1
+  img:  'http://lh6.ggpht.com/BUOz_9K6aZgOtyRb54zlioQbwPYQWrkeajX_5CubckGvYT-40T53nOZ5XVVrgNBMugNEjPHA0GgfWv5csos'
+  lat: 40.08433
+  level: 6
+  lon: -88.32355
+  mus: 27
+  name:  'Pipeline Trail'
 - fields: 2
   img:  'http://lh6.ggpht.com/cspFto0a9XfDVdl-Fqidc8Tfmq6jiYzEy-EH3_4t9noc0VwvurrqO2f0LBQ7OnHhVmZ4xvw0gRZBYmgSTFKK'
   lat: 40.08388
@@ -2126,6 +2147,13 @@
   lon: -88.209169
   mus: 10
   name:  'Wildflower Walk'
+- fields: 3
+  img:  'http://lh4.ggpht.com/x4szinl46UCjQ4FiOKdsQrr5OuNhuiDz-N7Hudes1XwubFw49qnWwOghJQ2JU1MSNUX_GD0u0pzbSP3sHwM4yw'
+  lat: 40.082475
+  level: 5
+  lon: -88.313826
+  mus: 10
+  name:  'Zahnd Park'
 - fields: 1
   img:  'http://lh5.ggpht.com/UqXYqye47hduomPQ0uDZzGn8oRDr3DxS9IPgrxwqDxyEL4inNje2y1x91U0amanBOJ-ktkcAawhfwRZqKWeF'
   lat: 40.064726
@@ -2259,13 +2287,6 @@
   lon: -88.204564
   mus: 7
   name:  'Diamonds Are Forever Statue'
-- fields: 2
-  img:  'http://lh5.ggpht.com/NHSnrnnguNnzphuELCzs-TBkUrtUVtADf8g8hjx9Ws5Sy1xGl7dBrcU96Fy5liURNnxd7hWZgvAkQOpxS3zo'
-  lat: 40.08288
-  level: 5
-  lon: -88.31213
-  mus: 7
-  name:  'Joel Stephen Memorial Little League Field'
 - fields: 1
   img:  'http://lh4.ggpht.com/z_Fp4CjBJYtN4kSA8B6McrcZLVB4_KD9Hti35M_32PXV6LsudmzxIitDELx-nbrk2VMgnhYGZ-Zc89L0OAR7'
   lat: 40.086676
@@ -2280,13 +2301,6 @@
   lon: -88.296083
   mus: 6
   name:  'Village at the Crossing Tower'
-- fields: 1
-  img:  'http://lh6.ggpht.com/u50xnbCiTMjKR5vu2fts6K0B7fFRkf_BgNZeZvqYNgLuF92RwApjI9Hl7UO5bZQK_fN7UjNb6ZzQlDv9BDJe'
-  lat: 40.083744
-  level: 5
-  lon: -88.310745
-  mus: 6
-  name:  'Champaign Fire Department'
 - fields: 3
   img:  'http://lh4.ggpht.com/ojeB36C4pFrkpUOLeRf1wlevsVasnc0hxMgCCqBw0bmWLkPKciRkj06rLhJaSpLFbnUhIn2WqKdmVVVYGBw'
   lat: 40.077334
@@ -2448,6 +2462,13 @@
   lon: -88.227765
   mus: 3
   name:  'Bardeen Quadrangle - North Side'
+- fields: 2
+  img:  'http://lh5.ggpht.com/cu2etg0fuCXE5105PXn-TXZ8NCus2roavRLIVgCeWnpc1cWicMkM7GVERquc10f1XdnsU66f9JYV86pKL3RC'
+  lat: 40.082596
+  level: 5
+  lon: -88.312425
+  mus: 3
+  name:  'Kiwanis Sports Complex'
 - fields: 1
   img:  'http://lh4.ggpht.com/zAxC11GCLRrj5wlF-U0mbjaisXjS5ukHSkGR5sVCfSWYKSlV2kxvtrD04m3n_XzT59XQ1xyf4ctzShUNem0'
   lat: 40.080381
@@ -2658,13 +2679,6 @@
   lon: -88.220991
   mus: 1
   name:  '"Prairie Fire" Sculpture'
-- fields: 1
-  img:  'http://lh5.ggpht.com/cu2etg0fuCXE5105PXn-TXZ8NCus2roavRLIVgCeWnpc1cWicMkM7GVERquc10f1XdnsU66f9JYV86pKL3RC'
-  lat: 40.082596
-  level: 5
-  lon: -88.312425
-  mus: 1
-  name:  'Kiwanis Sports Complex'
 - fields: 1
   img:  'http://lh3.ggpht.com/I8Cra-oBAq7td_84j0G8l8DIMXhxPP-O8A8xPb1WZb8O2s9DBapV_osKefRuzzDGDhcPRA9WT7yaPBvkGE4g'
   lat: 40.112836
