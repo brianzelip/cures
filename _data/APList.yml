@@ -107,17 +107,17 @@
   lon: -88.229031
   name:  'Illini Hall'
 - ap: 8722
-  img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
-  lat: 40.100078
-  level: 8
-  lon: -88.250683
-  name:  'Brian Clark Memorial Plaque'
-- ap: 8722
   img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
   lat: 40.101327
   level: 8
   lon: -88.251412
   name:  'Zeus Memorial'
+- ap: 8722
+  img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
+  lat: 40.100078
+  level: 8
+  lon: -88.250683
+  name:  'Brian Clark Memorial Plaque'
 - ap: 8720
   img:  'http://lh6.ggpht.com/WtqWBwqpYTSw3g9ru5NwcFn5iK5STxWgy2kv4OUTWqwtzx76-9Msz0eqoiw0qpEYE1U4zdt9rzzNZMDNagNg'
   lat: 40.107943
@@ -317,12 +317,6 @@
   lon: -88.244611
   name:  'Marketplace Mall Carousel'
 - ap: 6098
-  img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
-  lat: 40.098688
-  level: 8
-  lon: -88.25063
-  name:  '"New Holland Yellow Dinosaurs" at Hessel Park'
-- ap: 6098
   img:  'http://lh5.ggpht.com/DFa-Mh8ldMlU5wGTYmJIGYKPoSYUfYebRpnom9j15NFNRkwMdU5kDME0GYQUyA_LXnsNi9Jka-xidd302s93'
   lat: 40.099056
   level: 8
@@ -334,6 +328,12 @@
   level: 8
   lon: -88.251314
   name:  'Gabriel Patrick Maxeiner Memorial Plaque'
+- ap: 6098
+  img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
+  lat: 40.098688
+  level: 8
+  lon: -88.25063
+  name:  '"New Holland Yellow Dinosaurs" at Hessel Park'
 - ap: 5723
   img:  'http://lh5.ggpht.com/jQxBvX2jWXZCQP5ap9HmKaDDgG40pdH5nPpBNcYppZdxce6GWdxMRTYyqKrLxnk_TsmMAd7G6gRwJ6YI7S-v'
   lat: 40.107574
@@ -436,6 +436,12 @@
   level: 6
   lon: -88.234589
   name:  'Koinonia Plaque'
+- ap: 5346
+  img:  'http://lh5.ggpht.com/gkIcCbfmQWyJ7s9ryhzfOOn1K-oa8huqzZN80X2psVjx_6Iur5egjGncbUIAMLiAJAf9qG1Ac8lX2MomHYY'
+  lat: 40.108185
+  level: 5
+  lon: -88.225203
+  name:  'Statue at Medical Sciences'
 - ap: 5161
   img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
   lat: 40.100936
@@ -472,12 +478,6 @@
   level: 8
   lon: -88.251337
   name:  'In Loving Memory of Zeus'
-- ap: 5159
-  img:  'http://lh5.ggpht.com/gkIcCbfmQWyJ7s9ryhzfOOn1K-oa8huqzZN80X2psVjx_6Iur5egjGncbUIAMLiAJAf9qG1Ac8lX2MomHYY'
-  lat: 40.108185
-  level: 5
-  lon: -88.225203
-  name:  'Statue at Medical Sciences'
 - ap: 4972
   img:  'http://lh3.ggpht.com/2bCNiD7SWsS3uzFLMO2cZh-LpHUEMQGnfTmcNx5vJapXho2TuXke630-7zop2Sq4fuY8nWVqy4VCG23mvnIJ'
   lat: 40.104168
@@ -928,6 +928,12 @@
   level: 3
   lon: -88.256113
   name:  'Event Notice Board'
+- ap: 2537
+  img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
+  lat: 40.107629
+  level: 6
+  lon: -88.224484
+  name:  'Bucky Balls'
 - ap: 2537
   img:  'http://lh5.ggpht.com/MWJ2u6CgyftB6h05_WRqj_eYi-vhbwuOZ_9mxAS3eS-wY6XbpKlfBgzmohkwEj6Q2FoR0mm678IAtKTcei8'
   lat: 40.106846
