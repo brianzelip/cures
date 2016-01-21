@@ -5,12 +5,12 @@
   lon: -88.631854
   mus: 4730035
   name:  'Woodlawn Country Club'
-- fields: 7
+- fields: 5
   img:  'http://lh6.ggpht.com/_5uAVfIVUSl8LZbPdUo8NofNacgPArlxuX0AhFVfU2I3B-5ULKClKXB_ia2JZo1UjjJO7Mme5nB8HSWXKhrcpg'
   lat: 40.137727
   level: 6
   lon: -88.222417
-  mus: 15669
+  mus: 13920
   name:  'Eastern Illinois Food Bank'
 - fields: 10
   img:  'http://lh5.ggpht.com/vIWBGp8W4nwclMUOcj6ul2g5_qjF1rYSOjHsLZ8d4p11p_RXnhhEdDBZrLf_vBEMg1zCua7biM_GIGIOTew'
@@ -33,13 +33,6 @@
   lon: -88.366258
   mus: 10581
   name:  'Filippos Pizza and Italian Food'
-- fields: 6
-  img:  'http://lh3.ggpht.com/sEtB-WtZgmk9Bt0i07yNcTAXMhYB5KL6O1iQVnxq2V6mW6r89EY67NajUUF9c87CmLtzpwLsF_X2dYEcsDF4wA'
-  lat: 40.112935
-  level: 7
-  lon: -88.220489
-  mus: 9768
-  name:  'The HUB Campus Church'
 - fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.185093
@@ -61,6 +54,13 @@
   lon: -88.124466
   mus: 7705
   name:  'Mt. Olive Cemetary'
+- fields: 4
+  img:  'http://lh3.ggpht.com/sEtB-WtZgmk9Bt0i07yNcTAXMhYB5KL6O1iQVnxq2V6mW6r89EY67NajUUF9c87CmLtzpwLsF_X2dYEcsDF4wA'
+  lat: 40.112935
+  level: 7
+  lon: -88.220489
+  mus: 7596
+  name:  'The HUB Campus Church'
 - fields: 3
   img:  'http://lh6.ggpht.com/vqiOPPON1phvYOdOmbFDrxhN6cbYjeLHVgH42EV0XsJjVNd81EM1DKY_aRVM-rwJ9Il5tLc3QsL_gOS4qAkF'
   lat: 40.139891
@@ -132,13 +132,6 @@
   mus: 2793
   name:  'Weaver Park'
 - fields: 3
-  img:  'http://lh5.ggpht.com/RsXj0S9rbD_i4VFZmhxJtNtmwEeJOoYsmM8wyu90kB6srZMfUskP6iqrTY9eqFNQhhQrU50k92lCH4JEQ2w'
-  lat: 40.127358
-  level: 6
-  lon: -88.243851
-  mus: 2757
-  name:  'Stanchion'
-- fields: 3
   img:  'http://lh6.ggpht.com/Wwa41Q8FmECY78LQqYl0HhY_s03rOfYhUUaAkVLg7XnYaTMpUXddcxzmX4BDfUaLBp-kIIt-Y_PDKUBEApV7'
   lat: 40.112734
   level: 7
@@ -152,13 +145,13 @@
   lon: -88.244069
   mus: 2247
   name:  'Hazel Park Playground Dedication Plaque'
-- fields: 3
-  img:  'http://lh6.ggpht.com/ZpJuVeWuDsVo9oPzh9mGzFjeTz2FQluKlriJijNL29HFEEWmMBqok5fCxVis8MpHqJYCBQUhRLNU9yuE7luP'
-  lat: 40.129233
-  level: 4
-  lon: -88.238696
+- fields: 1
+  img:  'http://lh5.ggpht.com/RsXj0S9rbD_i4VFZmhxJtNtmwEeJOoYsmM8wyu90kB6srZMfUskP6iqrTY9eqFNQhhQrU50k92lCH4JEQ2w'
+  lat: 40.127358
+  level: 6
+  lon: -88.243851
   mus: 2226
-  name:  'Bristol Park'
+  name:  'Stanchion'
 - fields: 2
   img:  'http://lh3.ggpht.com/uGEfk-YTDTEJOgS8Ga12BCEyt9_7gEnf1VP3S28Ra2Cdx7fL-tEWnx8JKhwPLbvB-WfuyH-_I4xYNcHNyi-tJA'
   lat: 40.063508
@@ -558,7 +551,7 @@
   lon: -88.276537
   mus: 336
   name:  'The New Fellowship Corner'
-- fields: 3
+- fields: 4
   img:  'http://lh4.ggpht.com/IAi2A1ukQunZaoCY1OUJnvZC_MAEjnYzlg7vcsIuPQyLIB710_5ueVQ3El8Pok0aNvlB18-Tdo1euhYbaf0'
   lat: 40.115224
   level: 7
@@ -1419,27 +1412,6 @@
   lon: -88.28689
   mus: 17
   name:  'First Church of the Nazarene'
-- fields: 2
-  img:  'http://lh4.ggpht.com/u_MtizNv_keIXM4ITgtjqC8nr5JvB8UpDBg_5_08uQDTsQr44mwr6ZlkhTp0iKbvcV9xCJqXDeN66xYWaI0'
-  lat: 40.116227
-  level: 8
-  lon: -88.233833
-  mus: 17
-  name:  'Haley-Walker-Ginza Building'
-- fields: 2
-  img:  'http://lh6.ggpht.com/Nv0tMktEkkuoGtg1QEPS1N2nTcBPg8ipu31i72XPDTGQ4HQI5oL58Ig8kofXUH_aCC2aaJ-NylWKPkC3hIBS'
-  lat: 40.116218
-  level: 7
-  lon: -88.228757
-  mus: 17
-  name:  'The Presidents'' Walk'
-- fields: 1
-  img:  'http://lh3.ggpht.com/wcy4aX5svNHFpb_YQMEKlxqgq90G8mGhzcKlCtJWVVbTPwMhUz0Wfe3JNklLegEQOFEEA6dednkDNrEiiZ0h'
-  lat: 40.117003
-  level: 5
-  lon: -88.233513
-  mus: 16
-  name:  'Bethel African Methodist Episcopal Church'
 - fields: 1
   img:  'http://lh4.ggpht.com/fYq8Qzd7VmDjN_GIWRjblwSGoKKIaUFJTgmMNsJrfWO6c5cZu8xnJc4kDm35ITLO2ePeYakXEDKubdwi0x1K'
   lat: 40.105179
@@ -2057,6 +2029,20 @@
   mus: 1
   name:  'Japanese Dry Garden'
 - fields: 1
+  img:  'http://lh4.ggpht.com/9jXAzAxn0JZrLkU9VK9p-mNzjw3x_6QqwMAn4CAEBAHp_lo2iDZeV_y-hoUzP5CYwm8kOMyrTToZQOWJBRnw'
+  lat: 40.115095
+  level: 5
+  lon: -88.249052
+  mus: 1
+  name:  'Bayne & Schumacher Fountain'
+- fields: 1
+  img:  'http://lh6.ggpht.com/ZQaguxPyiC-6DeFDFa2niVKJz3ySxwxYaFCv8PRdNuoMYUfP-Xtirg-8pXCTdBCyH1BruprOVmqf3D1kdp7o'
+  lat: 40.115225
+  level: 6
+  lon: -88.248866
+  mus: 1
+  name:  'Holy Cross Catholic Church'
+- fields: 1
   img:  'http://lh6.ggpht.com/HvC073U-qgv-Zdd0zHS5_UQsybUORqZiuhnRY5V1bWxlRPwBG9564LEVab8tUebtP8OzNkBVp3K39WZkahjw'
   lat: 40.118119
   level: 6
@@ -2098,10 +2084,3 @@
   lon: -88.241616
   mus: 1
   name:  'Lincoln Building'
-- fields: 1
-  img:  'http://lh5.ggpht.com/ftmAzbnKocZkda7k1ZC-3gMqr3UiOKXsS9qFSxN8V4C6_DEZr79lkSpPL00EmiZn50-ZPzTQZZlBLlOdL4Rd'
-  lat: 40.116219
-  level: 8
-  lon: -88.23253
-  mus: 1
-  name:  'Skyward Railway'
