@@ -35,17 +35,17 @@
   lon: -88.251974
   name:  'Hessel Park'
 - ap: 10596
-  img:  'http://lh6.ggpht.com/YdeB0EKlsopL39a9YXWj4JBZgXNNLWHgfe4PQzdpWCNWc0fR1YTj8WjARDHnmrusvKWTqKLcGg8U9frhtsw'
-  lat: 40.09821
-  level: 8
-  lon: -88.249879
-  name:  'Hessel Park'
-- ap: 10596
   img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
   lat: 40.099852
   level: 8
   lon: -88.251947
   name:  'Our Friend Tim Palmer'
+- ap: 10596
+  img:  'http://lh6.ggpht.com/YdeB0EKlsopL39a9YXWj4JBZgXNNLWHgfe4PQzdpWCNWc0fR1YTj8WjARDHnmrusvKWTqKLcGg8U9frhtsw'
+  lat: 40.09821
+  level: 8
+  lon: -88.249879
+  name:  'Hessel Park'
 - ap: 10409
   img:  'http://lh6.ggpht.com/YVbqGVTjJuDMDdj71CP2mWvnUIdgO25PgoDdJwEGnEE_M9I1aDgKyjSr9JOZVU6UQTZQtfUo9RAWyz92n3jtCQ'
   lat: 40.098475
@@ -203,6 +203,12 @@
   lon: -88.228288
   name:  'Altgeld Hall'
 - ap: 6848
+  img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
+  lat: 40.099353
+  level: 8
+  lon: -88.251876
+  name:  'Raymond B. Cattell Memorial'
+- ap: 6848
   img:  'http://lh3.ggpht.com/VLipBehsKPCp8ewQnBV1ZCz7uE75zcY46iGDyFfFHgX1o55t3DONb3wcBcL5RMYSqABRK0TgIW3DluNy8y6WaA'
   lat: 40.101131
   level: 8
@@ -220,12 +226,6 @@
   level: 8
   lon: -88.251826
   name:  'Irina P. Stewart Memorial Plaque'
-- ap: 6848
-  img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
-  lat: 40.099353
-  level: 8
-  lon: -88.251876
-  name:  'Raymond B. Cattell Memorial'
 - ap: 6848
   img:  'http://lh5.ggpht.com/3t7XZHqwxLZ8Lc9YomR8FInm74U2PAA-DBk8kmdxXIrcXbKa1CoBDTlgdDJeO-_yVT3qNKRnNLzbdil1eH41iA'
   lat: 40.09935
@@ -574,7 +574,7 @@
   level: '?'
   lon: -88.263446
   name:  'University of Illinois Willard Airport'
-- ap: 3661
+- ap: 3511
   img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
   lat: 40.117107
   level: 4
@@ -676,10 +676,10 @@
   level: 5
   lon: -88.24263
   name:  'Cafe Kopi'
-- ap: 3474
+- ap: 3249
   img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
   lat: 40.116989
-  level: 5
+  level: 4
   lon: -88.242255
   name:  'Blind Pig'
 - ap: 3474
@@ -778,18 +778,6 @@
   level: '?'
   lon: -86.277385
   name:  'ae938e982c3347e288dc706cad526066.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.940356
-  level: '?'
-  lon: -89.633928
-  name:  '482bdeb486af4c33bf63a4476481eba8.12'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.214048
-  level: '?'
-  lon: -90.331066
-  name:  'bfeed7c9ddab4d91b4e8bfd6798d3e52.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.860637
@@ -917,12 +905,6 @@
   lon: -88.228706
   name:  'Leo Roy Tehon Memorial'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/N-xxTzGXK34K-VdTOWaWrFJeP9_SLZ7ZBluxK2mjP51yZx_5HOMi_mb4Nu2rWgo3gOqUb19_cPb662sI7td_'
-  lat: 40.105687
-  level: 4
-  lon: -88.225714
-  name:  'Smith Memorial Hall'
-- ap: 2537
   img:  'http://lh4.ggpht.com/q2L_InMJy4JZq79dX9LLf9XauoaXGOLl7SWvVyD9F_jIgyqpn7SsqHfY9EMYq1SLteTpj0cQDZN4f9x0IuvV5w'
   lat: 40.107273
   level: 5
@@ -965,9 +947,15 @@
   lon: -88.229031
   name:  'Illini Hall'
 - ap: 2537
+  img:  'http://lh4.ggpht.com/N-xxTzGXK34K-VdTOWaWrFJeP9_SLZ7ZBluxK2mjP51yZx_5HOMi_mb4Nu2rWgo3gOqUb19_cPb662sI7td_'
+  lat: 40.105687
+  level: 4
+  lon: -88.225714
+  name:  'Smith Memorial Hall'
+- ap: 2537
   img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
   lat: 40.108066
-  level: 6
+  level: 7
   lon: -88.230687
   name:  'Community United Church of Christ'
 - ap: 2537
