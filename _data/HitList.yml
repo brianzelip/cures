@@ -1,10 +1,3 @@
-- fields: 2
-  img:  'http://lh5.ggpht.com/OjHvATZsWSqcIG4MCHe5lUc8sE12iGmAJiQ_pp4ttXXy6QR3QTJ9OiFqGfdFxEbY6WMTgh_Vl2WcqFK0ptEn'
-  lat: 40.086227
-  level: 4
-  lon: -88.332388
-  mus: 1233
-  name:  'Spiral the Gate'
 - fields: 4
   img:  'http://lh3.googleusercontent.com/hJZWoErzM-MuXulq4FlhlZwMbJX1Isd81GBUBVKayd57jVIVxUle3itd-1DRKo2VaNXznWr1X639fa44Etk'
   lat: 40.141919
@@ -26,12 +19,12 @@
   lon: -88.312425
   mus: 59
   name:  'Kiwanis Sports Complex'
-- fields: 8
+- fields: 9
   img:  'http://lh5.ggpht.com/Lup2et0i5h8oHqtBffIdoyX5uclC2MBn9ZnnKnYPr4RIFSflf9bi78zBHK7QqycA0qgEev9qOk0zU-1o1hg'
   lat: 40.108451
   level: 8
   lon: -88.228733
-  mus: 51
+  mus: 53
   name:  'The Centennial Colophon'
 - fields: 3
   img:  'http://lh5.ggpht.com/FEi_8ic1_FXYTyUlXgNz6IOiBsLCPTURCMQCXc2T-lpcQV-d_wdBC3YEDYltNn09_oi76voYbhGSi8P6r6QZ'
@@ -110,6 +103,13 @@
   lon: -88.250141
   mus: 10
   name:  'Bob and Wilma Tinkham'
+- fields: 3
+  img:  'http://lh3.ggpht.com/pVUYGCf7vsAndVd4vhK_pC9p6e9OvGa4ZiWuZg0ELOFDWptBba4H2N4PNZPjQdHXnV1GQyLTpCXQWDMKDUqn'
+  lat: 40.108875
+  level: 7
+  lon: -88.227835
+  mus: 10
+  name:  'Lion''s Head Planter'
 - fields: 4
   img:  'http://lh3.ggpht.com/lzCSS0_tjwUV7JQ2fgLI0e05IrzPxlVUs-6aEPOwUv67IanQJSTi71gkw0SGm8asmoE_r3Xoh048Fd9xRpE'
   lat: 40.099169
@@ -124,13 +124,6 @@
   lon: -88.230145
   mus: 8
   name:  'University Lutheran Church'
-- fields: 3
-  img:  'http://lh4.ggpht.com/2tHD_AHYQu0kWuwLX2HMYWBG4txVkuWsBEfzWLL39npWp8kMSHiUKxSJM1E7yhimuMVUJ-RIlSSKsgjETvtr'
-  lat: 40.110524
-  level: 7
-  lon: -88.228706
-  mus: 7
-  name:  'Leo Roy Tehon Memorial'
 - fields: 6
   img:  'http://lh6.ggpht.com/YVbqGVTjJuDMDdj71CP2mWvnUIdgO25PgoDdJwEGnEE_M9I1aDgKyjSr9JOZVU6UQTZQtfUo9RAWyz92n3jtCQ'
   lat: 40.098475
@@ -160,6 +153,13 @@
   mus: 3
   name:  'Zeus Memorial'
 - fields: 3
+  img:  'http://lh4.ggpht.com/2tHD_AHYQu0kWuwLX2HMYWBG4txVkuWsBEfzWLL39npWp8kMSHiUKxSJM1E7yhimuMVUJ-RIlSSKsgjETvtr'
+  lat: 40.110524
+  level: 7
+  lon: -88.228706
+  mus: 3
+  name:  'Leo Roy Tehon Memorial'
+- fields: 3
   img:  'http://lh3.ggpht.com/J_h4tdb4wqy8bmmQfDuy5yqTR2IlkzKojfvsMOvlD-3tf1pKxbDlhA6W9Q8RX-JaSxhItMr4bmCxiUQXTLbz'
   lat: 40.10064
   level: 7
@@ -173,6 +173,13 @@
   lon: -88.230986
   mus: 2
   name:  'Alpha Phi Sorority'
+- fields: 1
+  img:  'http://lh4.ggpht.com/1LzO6yLZvWb6_g3FLduNKYb6d5TVljqsdNnQggC6Idh7XbUSLf4TOcuWChcYsVve_pt7N5f77mEJLTqUmA'
+  lat: 40.085878
+  level: 4
+  lon: -88.331166
+  mus: 2
+  name:  'Porter Family Park Dedication'
 - fields: 4
   img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
   lat: 40.098246
@@ -201,13 +208,13 @@
   lon: -88.251314
   mus: 1
   name:  'Gabriel Patrick Maxeiner Memorial Plaque'
-- fields: 1
-  img:  'http://lh4.ggpht.com/1viU2QjcAXgQcuyp6MBKY1751-1JGn5AfSHPcgvBGNOyXrKvvAXsCUrrW9_0w9LjaeyscKqh8v2rrMp3Gxoaeg'
-  lat: 40.117134
-  level: 2
-  lon: -88.244337
+- fields: 2
+  img:  'http://lh4.ggpht.com/6iTxW6HC8WFx3nf6xEGhZryWVxW9NNijqTsEKvcBCBkmkmLZdUjaDHKReKT58cl8RUaCwDCL7pMFmBEyj3Fc'
+  lat: 40.117602
+  level: 6
+  lon: -88.249943
   mus: 1
-  name:  'Downtown Flower Island'
+  name:  'Megan Schneider Patel Honorary Plaque'
 - fields: 1
   img:  'http://lh4.ggpht.com/OFVPvdgB3GVpaQknHdnt2okgP3xcQksAH3wvOGYVuP85MMlxo3bQ2SRpBb0hzNfjQoC_5LlRqaE6jLB-h9Gr'
   lat: 40.108092
