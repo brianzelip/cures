@@ -107,17 +107,17 @@
   lon: -88.243468
   name:  'Dog Heart'
 - ap: 7596
-  img:  'http://lh4.ggpht.com/0j8eeTKJgjnYhHpf4qH_70CZHLbujC5v-XP_ndcqh1xIR-5V2K_CGdjIe1ZfMbwvSyISxxYKoZynw1DaQcj8'
-  lat: 40.105874
-  level: 7
-  lon: -88.230562
-  name:  'St. John''s Rectory'
-- ap: 7596
   img:  'http://lh4.ggpht.com/2tHD_AHYQu0kWuwLX2HMYWBG4txVkuWsBEfzWLL39npWp8kMSHiUKxSJM1E7yhimuMVUJ-RIlSSKsgjETvtr'
   lat: 40.110524
   level: 7
   lon: -88.228706
   name:  'Leo Roy Tehon Memorial'
+- ap: 7596
+  img:  'http://lh4.ggpht.com/0j8eeTKJgjnYhHpf4qH_70CZHLbujC5v-XP_ndcqh1xIR-5V2K_CGdjIe1ZfMbwvSyISxxYKoZynw1DaQcj8'
+  lat: 40.105874
+  level: 7
+  lon: -88.230562
+  name:  'St. John''s Rectory'
 - ap: 7409
   img:  'http://lh4.ggpht.com/3_LELG2r-A5s2d-x2dWyz6h7HzfjVR_KZn9AG0vhih9EalQIG43iL6LdKqKNpnGdGwguP9ZfnGF0KMq_KDE'
   lat: 40.105799
@@ -437,6 +437,18 @@
   lon: -88.235244
   name:  'Bromley Hall'
 - ap: 4411
+  img:  'http://lh4.ggpht.com/RF7EbCh1YRbFHfis_PEc88NF1v4Ndhj-Rm7rrlY7F8s-Mrv1EMEFnajFbYiNffZ_3kMNL80Zv-_jtaMYMtLA'
+  lat: 40.110655
+  level: 6
+  lon: -88.22725
+  name:  'Gothic Brass'
+- ap: 4411
+  img:  'http://lh6.ggpht.com/RW34ntixvJkg7fD71TPYo_4KIsBzA0-a-6yXO0jKPbpGxX5gIGC7kBI-pXEF9OHhuolcAGW2fxyK3Pt42Iev'
+  lat: 40.110489
+  level: 6
+  lon: -88.227412
+  name:  'Bus Stop - Illini Union, Westbound'
+- ap: 4411
   img:  'http://lh5.ggpht.com/fHd4PN9y6K8vITWYf02HBqZwj7gTOYz9XqUVbI3_bHVW0KUAbFgY_jdyXgwKOFRz8VeKMD2BkELNjIedp5Le'
   lat: 40.108821
   level: 7
@@ -460,6 +472,12 @@
   level: 5
   lon: -88.295361
   name:  'Unity Baptist Church'
+- ap: 3848
+  img:  'http://lh5.ggpht.com/LLVKvcsTaSPmGBzaGFrvYIV4RhGzb6LqC_npAarehd2aLZSaVhjGzQV6T63Ke07reCQzO-GoZXmEfwZMOcM'
+  lat: 40.110569
+  level: 6
+  lon: -88.226784
+  name:  'Cubist Art at MSEB'
 - ap: 3661
   img:  'http://lh4.ggpht.com/q_3TPbqMU2mBbim_8VcSzRelOX4Q-vXphv_pi2EJl_eV-IlgOws-miPZ8zmUViRynx3TrvsbRYvi6_-6L9vc'
   lat: 40.10889
@@ -490,10 +508,10 @@
   level: 4
   lon: -88.219316
   name:  'The Hope Center'
-- ap: 3436
+- ap: 3586
   img:  'http://lh3.ggpht.com/QXNgz_dPkVpVuz9Qr0CZkUJDftEdF2Hs8m3XkLjsM8Q3YkwkWpxt0rmtqJ-fFylVNnP4_r193_ZhBl2kSfg'
   lat: 40.129216
-  level: 3
+  level: 5
   lon: -88.219323
   name:  'Angel Statue'
 - ap: 3474
@@ -617,29 +635,17 @@
   lon: -88.249648
   name:  'Max Overmyer Memorial Playground'
 - ap: 3474
-  img:  'http://lh3.ggpht.com/F-cwL1kpN8KTxTiRAdaaAFictKYDbMRhPltdDuO0_6jhG8_6fxg1_yHzy1kBs1WXPRZ8UQDrxqY1fCdmHXFU'
-  lat: 40.108042
-  level: 6
-  lon: -88.22808
-  name:  'Earl W Porter Memorial Tree'
-- ap: 3474
   img:  'http://lh5.ggpht.com/-OqC4qsxJReOCIM0nMbVjvfydYq6x9bfLc7fmyI-u3x_ygkr5RCE-Ct-uYn-wvhkpdLRjIXEkiODbTkV1iufX14GyE_Qzy1Vkz2mpimaCx26Bo8'
   lat: 40.109364
   level: 5
   lon: -88.227697
   name:  'The Diana Fountain'
 - ap: 3474
-  img:  'http://lh6.ggpht.com/RW34ntixvJkg7fD71TPYo_4KIsBzA0-a-6yXO0jKPbpGxX5gIGC7kBI-pXEF9OHhuolcAGW2fxyK3Pt42Iev'
-  lat: 40.110489
+  img:  'http://lh3.ggpht.com/F-cwL1kpN8KTxTiRAdaaAFictKYDbMRhPltdDuO0_6jhG8_6fxg1_yHzy1kBs1WXPRZ8UQDrxqY1fCdmHXFU'
+  lat: 40.108042
   level: 6
-  lon: -88.227412
-  name:  'Bus Stop - Illini Union, Westbound'
-- ap: 3474
-  img:  'http://lh4.ggpht.com/RF7EbCh1YRbFHfis_PEc88NF1v4Ndhj-Rm7rrlY7F8s-Mrv1EMEFnajFbYiNffZ_3kMNL80Zv-_jtaMYMtLA'
-  lat: 40.110655
-  level: 6
-  lon: -88.22725
-  name:  'Gothic Brass'
+  lon: -88.22808
+  name:  'Earl W Porter Memorial Tree'
 - ap: 3474
   img:  'http://lh6.ggpht.com/1El0oK6CWDh7rAQeFmPEW_dA252pdq7piTtjtuQCkZvwRa689NLjEafLqQ35TI5qCW3Lmhja9PLQqKxFs9Ha'
   lat: 40.110627
@@ -838,12 +844,6 @@
   level: 5
   lon: -88.238623
   name:  'Champaign County Historical Museum'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/LLVKvcsTaSPmGBzaGFrvYIV4RhGzb6LqC_npAarehd2aLZSaVhjGzQV6T63Ke07reCQzO-GoZXmEfwZMOcM'
-  lat: 40.110569
-  level: 6
-  lon: -88.226784
-  name:  'Cubist Art at MSEB'
 - ap: 2162
   img:  'http://lh6.ggpht.com/wt3gCGeGlsRNnOiaTX96Vh-viR16DO-cpnFyVgwzneUPTS5f0WHyCYLTRqDCgS7PRzg5IAEgkbnTLuc5782N'
   lat: 40.111681
@@ -893,17 +893,17 @@
   lon: -88.233833
   name:  'Haley-Walker-Ginza Building'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/1LUozaukItxu6cHk_7wORzYYNvskCHi_wUxbNOAcIXNbgLuYn7VElFG0tzY02e6pY-AEL8nNHAL6ewLCaLMH'
-  lat: 40.10567
-  level: 7
-  lon: -88.228634
-  name:  'Public Broadcasting Plaque'
-- ap: 2537
   img:  'http://lh6.ggpht.com/c2I39IJvSBKmCLonmhP_RN1vLEpYY1recBXFm8xpGHxES4bAN2kvAcda8ZzvT75uq0yWQCv7N_dzP6ce5-Tu'
   lat: 40.108043
   level: 5
   lon: -88.22469
   name:  'Building of Molecular and Cellular Biology Sculpture'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/1LUozaukItxu6cHk_7wORzYYNvskCHi_wUxbNOAcIXNbgLuYn7VElFG0tzY02e6pY-AEL8nNHAL6ewLCaLMH'
+  lat: 40.10567
+  level: 7
+  lon: -88.228634
+  name:  'Public Broadcasting Plaque'
 - ap: 2537
   img:  'http://lh6.ggpht.com/TXVMllOHjnPSJgg_7oE4ZuY82xJs56TE9AbaxAFxXWiD5yKwlOZUHfx74BaxCzczl9hTtaKqkaDsA4LeZ94'
   lat: 40.110617
@@ -940,6 +940,12 @@
   level: 7
   lon: -88.232116
   name:  'Illini Tower'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/LPlCgoOAlClRaVCl_B1sHDkn38OgDbXat-l5Q1bDZLP7mOUMfU8pK-o3N8BEqh0vHJcZBHo3iz2AMQKAhot7Tw'
+  lat: 40.110833
+  level: 6
+  lon: -88.227425
+  name:  'Engineering Class of 1975 Monument'
 - ap: 2537
   img:  'http://lh4.ggpht.com/q2L_InMJy4JZq79dX9LLf9XauoaXGOLl7SWvVyD9F_jIgyqpn7SsqHfY9EMYq1SLteTpj0cQDZN4f9x0IuvV5w'
   lat: 40.107273
