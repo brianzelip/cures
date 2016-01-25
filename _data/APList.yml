@@ -71,17 +71,17 @@
   lon: -88.249385
   name:  'Travis Marmion Memorial'
 - ap: 8722
-  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
-  lat: 40.101327
-  level: 8
-  lon: -88.251412
-  name:  'Zeus Memorial'
-- ap: 8722
   img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
   lat: 40.100078
   level: 8
   lon: -88.250683
   name:  'Brian Clark Memorial Plaque'
+- ap: 8722
+  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
+  lat: 40.101327
+  level: 8
+  lon: -88.251412
+  name:  'Zeus Memorial'
 - ap: 8346
   img:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
   lat: 40.108173
@@ -646,12 +646,6 @@
   level: 8
   lon: -88.249648
   name:  'Max Overmyer Memorial Playground'
-- ap: 3174
-  img:  'http://lh5.ggpht.com/NocB62Pnsk9rCOS8TWT0vfucrEDjwhiqaxl6SHRJjjHpHjSlG4IuSzbQb1B-SqYZVjQXekDUD0IZwmpMDycw'
-  lat: 40.11108
-  level: 2
-  lon: -88.227392
-  name:  'Stanley H. Pierce Memorial'
 - ap: 3474
   img:  'http://lh4.ggpht.com/vv-0g62EZ8ryJBOYgynNZeHVhnllOTH6Fw8BrvTexs05uFs36rXKpZSCWeaC20VpLm_Zo-ED-zIhjAO36RuG'
   lat: 40.111097
@@ -676,6 +670,12 @@
   level: 7
   lon: -88.228411
   name:  'John Milton Gregory''s Grave'
+- ap: 3174
+  img:  'http://lh5.ggpht.com/NocB62Pnsk9rCOS8TWT0vfucrEDjwhiqaxl6SHRJjjHpHjSlG4IuSzbQb1B-SqYZVjQXekDUD0IZwmpMDycw'
+  lat: 40.11108
+  level: 2
+  lon: -88.227392
+  name:  'Stanley H. Pierce Memorial'
 - ap: 3474
   img:  'http://lh3.ggpht.com/gS3gT_deXzbDvejCL-5ygs31dw9bLQqYr2nDcLPZiv6nQzahJl12awG1a2pwKbFuoTlsHQYxQ2O7HDXL4-8'
   lat: 40.110358
@@ -826,6 +826,18 @@
   level: 5
   lon: -88.218544
   name:  'The Vineyard Church'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/m6U-TO88Q5GMQfUN_VkhxMau1rCnKRk4Cq4wo4AL6VjfkLQYyM81LdKWD18uetEmGbgMRpaIUgSu68ybtTVr5Q'
+  lat: 40.124442
+  level: 4
+  lon: -88.260589
+  name:  'C Richard Vogel Memorial'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/U2bGo6sB1AGHiDjQ-rH7wSwqqEX_Rgttee-UbdQR48aDKUrWK3zDdefPtL7CTxHDIksKsqP-9K6AlK8Mjlhe'
+  lat: 40.125487
+  level: 5
+  lon: -88.260193
+  name:  'New Foundation Missionary Baptist Church'
 - ap: 2537
   img:  'http://lh6.ggpht.com/mKnh6CvhOm_8Kn26lJTmk71nbwSMS-i9VJ45CR83Z8wB6Qn-9JAiyt1GEfrWKkv51a_y-lbN8pO6R1L5EZWfzw'
   lat: 40.117349
