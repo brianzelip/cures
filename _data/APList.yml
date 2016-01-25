@@ -47,17 +47,17 @@
   lon: -88.228733
   name:  'The Centennial Colophon'
 - ap: 9846
-  img:  'http://lh6.ggpht.com/YdeB0EKlsopL39a9YXWj4JBZgXNNLWHgfe4PQzdpWCNWc0fR1YTj8WjARDHnmrusvKWTqKLcGg8U9frhtsw'
-  lat: 40.09821
-  level: 8
-  lon: -88.249879
-  name:  'Hessel Park'
-- ap: 9846
   img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
   lat: 40.099737
   level: 7
   lon: -88.251157
   name:  'Tyler Van Atkins Memorial'
+- ap: 9846
+  img:  'http://lh6.ggpht.com/YdeB0EKlsopL39a9YXWj4JBZgXNNLWHgfe4PQzdpWCNWc0fR1YTj8WjARDHnmrusvKWTqKLcGg8U9frhtsw'
+  lat: 40.09821
+  level: 8
+  lon: -88.249879
+  name:  'Hessel Park'
 - ap: 9659
   img:  'http://lh3.ggpht.com/lzCSS0_tjwUV7JQ2fgLI0e05IrzPxlVUs-6aEPOwUv67IanQJSTi71gkw0SGm8asmoE_r3Xoh048Fd9xRpE'
   lat: 40.099169
@@ -520,10 +520,10 @@
   level: 5
   lon: -88.276242
   name:  'Robert P. Simon Trail'
-- ap: 3661
+- ap: 3361
   img:  'http://lh5.ggpht.com/dnj__uItXDR_xj-g5PNpGYPNjJCPBFpsx3w9sWxvrOlayO6nyG_Qu8MygtuFZm9i4L2Gho0fkOACtzkGR_e2wQ'
   lat: 40.098457
-  level: 5
+  level: 3
   lon: -88.276763
   name:  'Mini Park IV'
 - ap: 3586
@@ -695,29 +695,29 @@
   lon: -88.224625
   name:  'Asian American Culture Center'
 - ap: 2724
-  img:  'http://lh6.ggpht.com/y10QgRCNt0Bsefqp3olKgJp98whQkS0-vWqPskj3421hcSq96BG-b_KROqsO1mBEcNiYtAKhXuXG0EV0eaUW'
-  lat: 40.107152
-  level: 5
-  lon: -88.235244
-  name:  'Bromley Hall'
-- ap: 2724
   img:  'http://lh4.ggpht.com/EsyXMnqVMX7wQ4YmoCFRiNljaJqaXrQvzyzzooqx2fPxCSkJMkdEssTbf618D8Qp9hh3E4Ud3hL1M3v-TsbO'
   lat: 40.104688
   level: 5
   lon: -88.230676
   name:  'Sousa Archives Center-Amer Music'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.58999
-  level: '?'
-  lon: -89.498405
-  name:  '827bc2df93e040e5b9a2d129c51e8b64.16'
+- ap: 2724
+  img:  'http://lh6.ggpht.com/y10QgRCNt0Bsefqp3olKgJp98whQkS0-vWqPskj3421hcSq96BG-b_KROqsO1mBEcNiYtAKhXuXG0EV0eaUW'
+  lat: 40.107152
+  level: 5
+  lon: -88.235244
+  name:  'Bromley Hall'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.88239
   level: '?'
   lon: -87.621065
   name:  '87d646e4636e42a294f6a99061ff6ca9.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.58999
+  level: '?'
+  lon: -89.498405
+  name:  '827bc2df93e040e5b9a2d129c51e8b64.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.311743
@@ -778,18 +778,6 @@
   level: '?'
   lon: -88.252345
   name:  'Toalson Park Basketball Hoop'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/m6U-TO88Q5GMQfUN_VkhxMau1rCnKRk4Cq4wo4AL6VjfkLQYyM81LdKWD18uetEmGbgMRpaIUgSu68ybtTVr5Q'
-  lat: 40.124442
-  level: 4
-  lon: -88.260589
-  name:  'C Richard Vogel Memorial'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/U2bGo6sB1AGHiDjQ-rH7wSwqqEX_Rgttee-UbdQR48aDKUrWK3zDdefPtL7CTxHDIksKsqP-9K6AlK8Mjlhe'
-  lat: 40.125487
-  level: 5
-  lon: -88.260193
-  name:  'New Foundation Missionary Baptist Church'
 - ap: 2537
   img:  'http://lh6.ggpht.com/Jj5dr0C8flwov23nPbKRDVme7HOE0xZvNC6JkRscLlNqRr6uxkxBExdu-rQUdt9kZtd9e5dvHsv6Vs1Hdtd9'
   lat: 40.117186
