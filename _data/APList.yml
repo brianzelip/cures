@@ -113,17 +113,17 @@
   lon: -88.228984
   name:  'Saint Andrew''s Church'
 - ap: 7035
-  img:  'http://lh6.ggpht.com/BKeORacgeVrG8XzxTuXmpq5UxomWpK-I2n7Xy0PVbdSciNx9MJl869TcibnFIiV5PJHGv5R3QOpX6ZgLUwU'
-  lat: 40.099706
-  level: 8
-  lon: -88.250065
-  name:  'Lois Barham Memorial Tree'
-- ap: 7035
   img:  'http://lh5.ggpht.com/fDRifvVcFT_dKhPuNBN4rR9lNHL0Q6NvbMnGr2-ZdiirR2rJrBcWRi4vyM3-DYNHymUs7bWchaWRaUtBpg'
   lat: 40.098541
   level: 8
   lon: -88.250389
   name:  'Dennis Robert Costello Memorial'
+- ap: 7035
+  img:  'http://lh6.ggpht.com/BKeORacgeVrG8XzxTuXmpq5UxomWpK-I2n7Xy0PVbdSciNx9MJl869TcibnFIiV5PJHGv5R3QOpX6ZgLUwU'
+  lat: 40.099706
+  level: 8
+  lon: -88.250065
+  name:  'Lois Barham Memorial Tree'
 - ap: 7035
   img:  'http://lh3.ggpht.com/GXyi2ghi2DR3h7uIHNYiEZPYixRhDo7LO0WHQ0PyEzb-150r7ar7JGeVjUoPuObC-GFWf22UWqnYCMtED0M-'
   lat: 40.100341
@@ -281,12 +281,6 @@
   lon: -88.224484
   name:  'Bucky Balls'
 - ap: 5161
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.006828
-  level: '?'
-  lon: -87.65519
-  name:  'f1155b4ff98f47a899c22acd70f130d5.16'
-- ap: 5161
   img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
   lat: 40.100936
   level: 8
@@ -335,12 +329,6 @@
   lon: -88.229005
   name:  'The Chapel of St. John the Divine'
 - ap: 4598
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.401374
-  level: '?'
-  lon: -86.288005
-  name:  '9c168d55307d46deafd3684ceac79063.16'
-- ap: 4598
   img:  'http://lh5.ggpht.com/NHSnrnnguNnzphuELCzs-TBkUrtUVtADf8g8hjx9Ws5Sy1xGl7dBrcU96Fy5liURNnxd7hWZgvAkQOpxS3zo'
   lat: 40.08288
   level: 5
@@ -358,18 +346,6 @@
   level: 5
   lon: -88.227425
   name:  'Engineering Class of 1975 Monument'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.115203
-  level: '?'
-  lon: -86.487071
-  name:  '9b10096c622043de93fff24506bf048b.16'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.115875
-  level: '?'
-  lon: -86.487903
-  name:  'afefdf768ede4cb4b1b6ffa7b9e7bdc7.16'
 - ap: 4411
   img:  'http://lh4.ggpht.com/nYT8xXu54e_RpOMwge0741LJV8TXmsU6JtJkw4-eNbTQlG51DA0s20v0xTmtkvREh1GrXuaasrkSJL5c3E_K2Q'
   lat: 40.082248
@@ -389,6 +365,12 @@
   lon: -88.249845
   name:  'Thomas R. Sandrock'
 - ap: 4411
+  img:  'http://lh5.ggpht.com/3t7XZHqwxLZ8Lc9YomR8FInm74U2PAA-DBk8kmdxXIrcXbKa1CoBDTlgdDJeO-_yVT3qNKRnNLzbdil1eH41iA'
+  lat: 40.09935
+  level: 8
+  lon: -88.249766
+  name:  'Jim Bickel Honorary Plaque'
+- ap: 4411
   img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
   lat: 40.100286
   level: 8
@@ -400,12 +382,6 @@
   level: 8
   lon: -88.249136
   name:  '"Cricket" and Bob Barger Memorial'
-- ap: 4411
-  img:  'http://lh5.ggpht.com/3t7XZHqwxLZ8Lc9YomR8FInm74U2PAA-DBk8kmdxXIrcXbKa1CoBDTlgdDJeO-_yVT3qNKRnNLzbdil1eH41iA'
-  lat: 40.09935
-  level: 8
-  lon: -88.249766
-  name:  'Jim Bickel Honorary Plaque'
 - ap: 4411
   img:  'http://lh5.ggpht.com/N1cFx79JwZqPlYPDW3HkNwRX8N4Auriii45qzYkAx9l-cKeK81qgZ6nuBpTBEIOyLzy4aIIhQKt2E7ZiysSjkg'
   lat: 40.10036
@@ -514,10 +490,10 @@
   level: 5
   lon: -88.219323
   name:  'Angel Statue'
-- ap: 3586
+- ap: 3436
   img:  'http://lh3.ggpht.com/l6drxc16dn91XarTz8Tkkeerjhu28Hf3x7nh-pHe05BLyOA6fuV75A5gB8UdUNt3cRN_eXIHmTE8c5Ypvcw'
   lat: 40.117248
-  level: 5
+  level: 4
   lon: -88.249929
   name:  '"Tootsie" at West Side Park'
 - ap: 3661
@@ -562,24 +538,24 @@
   level: 5
   lon: -88.291946
   name:  'Campus Solar System - Jupiter'
-- ap: 3474
+- ap: 3399
   img:  'http://lh3.ggpht.com/NuEE1yevEulYAFm9UHYKLrX8fVNrXyLgFXbQ8kTjAKuT9w-Fkj18Pop2B2wikf21LHDU24uSUkIvXbfKyvy2'
   lat: 40.11738
   level: 5
   lon: -88.250259
   name:  'Heath & Vaughn Funeral Home'
 - ap: 3474
-  img:  'http://lh3.googleusercontent.com/Tixp17uCaP682s77UzvCwWCOE6vg7iB2qEFLjACq7xtVJdHE0K3yKYsl3_SwKbiUfQWwgTQRbvfka3U0NvNc'
-  lat: 40.098819
-  level: 8
-  lon: -88.249214
-  name:  'Bette McKown Honorary'
-- ap: 3474
   img:  'http://lh5.ggpht.com/8zq5tMevCiipZK8N9-8SZw3vdsA2HwH0E02ormQshGxHVZrB2WPK7OPC8zt6pjLlgpXVuEYHVA_08_Q8fPw-'
   lat: 40.099647
   level: 8
   lon: -88.249648
   name:  'Max Overmyer Memorial Playground'
+- ap: 3474
+  img:  'http://lh3.googleusercontent.com/Tixp17uCaP682s77UzvCwWCOE6vg7iB2qEFLjACq7xtVJdHE0K3yKYsl3_SwKbiUfQWwgTQRbvfka3U0NvNc'
+  lat: 40.098819
+  level: 8
+  lon: -88.249214
+  name:  'Bette McKown Honorary'
 - ap: 3474
   img:  'http://lh4.ggpht.com/vv-0g62EZ8ryJBOYgynNZeHVhnllOTH6Fw8BrvTexs05uFs36rXKpZSCWeaC20VpLm_Zo-ED-zIhjAO36RuG'
   lat: 40.111097
@@ -647,18 +623,6 @@
   lon: -88.259966
   name:  'Goodwill Donation Center'
 - ap: 2724
-  img:  'http://lh6.ggpht.com/ZQaguxPyiC-6DeFDFa2niVKJz3ySxwxYaFCv8PRdNuoMYUfP-Xtirg-8pXCTdBCyH1BruprOVmqf3D1kdp7o'
-  lat: 40.115225
-  level: 6
-  lon: -88.248866
-  name:  'Holy Cross Catholic Church'
-- ap: 2724
-  img:  'http://lh4.ggpht.com/IAi2A1ukQunZaoCY1OUJnvZC_MAEjnYzlg7vcsIuPQyLIB710_5ueVQ3El8Pok0aNvlB18-Tdo1euhYbaf0'
-  lat: 40.115224
-  level: 6
-  lon: -88.24957
-  name:  'Linda M. Wesolowski Memorial Sign'
-- ap: 2724
   img:  'http://lh3.ggpht.com/2WMtYMnBjTlw-gPK9quwjMde6Heie7SQHCZT41kPiIpOwxXEIQWbB_euK-R5rZhqUcmGuZJ0tIBh_801KGyVsw'
   lat: 40.11453
   level: 5
@@ -714,10 +678,16 @@
   name:  'aba7700115524622ae69ffdf251908c3.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.452691
+  lat: 42.401374
   level: '?'
-  lon: -87.803507
-  name:  '41caea3f2f40410782551fa3ac12c2de.16'
+  lon: -86.288005
+  name:  '9c168d55307d46deafd3684ceac79063.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.006828
+  level: '?'
+  lon: -87.65519
+  name:  'f1155b4ff98f47a899c22acd70f130d5.16'
 - ap: 2537
   img:  'http://lh5.ggpht.com/TwKxvDv1ImbH5RTs7GHqqK_rPohVtqtgToH7YuDkkwa5BRFiMEcY1vWcFrJLkhaXW6cd2YVL0_Vro2JaA3K1'
   lat: 40.131575
@@ -772,18 +742,12 @@
   level: 5
   lon: -88.218544
   name:  'The Vineyard Church'
-- ap: 2462
+- ap: 2387
   img:  'http://lh4.ggpht.com/DXAAQEV-pW-laeGTPphalYn5MoUFYMOyKbjs7rL1bBgkOlCxtaEH7bLcuvNbiQTWzFZK1ZPcNbwuEjw20-od'
   lat: 40.116869
-  level: 5
+  level: 4
   lon: -88.249849
   name:  'Don and Ruth Dobbins Memorial'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/I2Up882o0nHzQof3uWaDFK7KQHkYOu1XgKoXUgQotITYJDh--80GzLnOSI8TxKF3RxsF32zcsYmRF8Fiugpt'
-  lat: 40.116413
-  level: 5
-  lon: -88.249814
-  name:  'West Side Park'
 - ap: 2162
   img:  'http://lh4.ggpht.com/1viU2QjcAXgQcuyp6MBKY1751-1JGn5AfSHPcgvBGNOyXrKvvAXsCUrrW9_0w9LjaeyscKqh8v2rrMp3Gxoaeg'
   lat: 40.117134
@@ -796,12 +760,6 @@
   level: 3
   lon: -88.243748
   name:  'Days of Venus'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/9jXAzAxn0JZrLkU9VK9p-mNzjw3x_6QqwMAn4CAEBAHp_lo2iDZeV_y-hoUzP5CYwm8kOMyrTToZQOWJBRnw'
-  lat: 40.115095
-  level: 5
-  lon: -88.249052
-  name:  'Bayne & Schumacher Fountain'
 - ap: 2537
   img:  'http://lh6.ggpht.com/n0f7lyo15OzZn5IJHsohIGAA58iioentPZGEY4zeMZCCoX4GjEEkqfaTCIbrx9OnezriThnbFV14kYcwKTgL1g'
   lat: 40.098444
@@ -827,17 +785,17 @@
   lon: -88.224091
   name:  'Institute of Aviation'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/1LUozaukItxu6cHk_7wORzYYNvskCHi_wUxbNOAcIXNbgLuYn7VElFG0tzY02e6pY-AEL8nNHAL6ewLCaLMH'
-  lat: 40.10567
-  level: 7
-  lon: -88.228634
-  name:  'Public Broadcasting Plaque'
-- ap: 2537
   img:  'http://lh4.ggpht.com/ZwDzLvPP0KTL_mUj9ta-0DRkbA4q3X7b-r02bm3rTibFkPbu00GKehClddYfSkXbwVuJ4pjt4T7yo7ou54ov'
   lat: 40.111869
   level: 5
   lon: -88.227932
   name:  'Talbot Lab Mural'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/1LUozaukItxu6cHk_7wORzYYNvskCHi_wUxbNOAcIXNbgLuYn7VElFG0tzY02e6pY-AEL8nNHAL6ewLCaLMH'
+  lat: 40.10567
+  level: 7
+  lon: -88.228634
+  name:  'Public Broadcasting Plaque'
 - ap: 2537
   img:  'http://lh4.ggpht.com/OKjZe5DNbqsjBvhTWI2C_GTSbIMUanllb49pzoadj3izBmngp5kFNgLokw6jbL1Y3BnreLD-LmzLdNEx-eRI'
   lat: 40.105694
