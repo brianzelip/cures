@@ -285,13 +285,6 @@
   lon: -88.253037
   mus: 264
   name:  'Fagen Truck Accessories'
-- fields: 4
-  img:  'http://lh6.ggpht.com/dzudBxNyxUB12jQt8DMYPfm1nc94wO0GiD8fhqGETiQF94uDlJ4UMhnW4DCCbA6TzoEEe--vXNP-DAskM3_W'
-  lat: 40.057678
-  level: 7
-  lon: -88.25174
-  mus: 259
-  name:  'Savoy Post Office'
 - fields: 5
   img:  'http://lh6.ggpht.com/yoGdHEqpRRqOE5pA5wHdi_ismU_TrB-kTiqVV63EO630KsU608TIfjLijcqJ38At7MyyrE2urWFMPY1Sops'
   lat: 40.118121
@@ -313,13 +306,6 @@
   lon: -88.207653
   mus: 249
   name:  'Chinese Goose Bridge Plaque'
-- fields: 2
-  img:  'http://lh5.ggpht.com/8tdoNA4odqt5Gs98YKUhpMqLLlihrG_guTUciwwcG8MkqhOEnp19hq3eCDKuUN11UIsWTNLibMDFGbR0QmaL'
-  lat: 40.061654
-  level: 6
-  lon: -88.242844
-  mus: 245
-  name:  'Lake Park Gardens'
 - fields: 2
   img:  'http://lh3.ggpht.com/nyMlzJGmc3oOWHxnwtb2MCi8kQtbe6k4aopwZNTdddDfAJ7X3VjPFR67k77bfDgL7hxNThJ1uE_0rjJjPFsfrA'
   lat: 40.127323
@@ -383,13 +369,6 @@
   lon: -88.256779
   mus: 201
   name:  'Framer''s Market'
-- fields: 1
-  img:  'http://lh5.ggpht.com/KeE2mCastNpakZHF9Jh4QCUf9dxQOnMiQb2Rfki_4r4R_ry-Zyk4IfCIo0jybb89O-BG6bVz71u25L85nJ55'
-  lat: 40.054264
-  level: 6
-  lon: -88.248287
-  mus: 179
-  name:  'Colbert Park'
 - fields: 4
   img:  'http://lh4.ggpht.com/53avgB1jGEftJ9eyV5l3nee16yHgYDAXkZoonzyXO3mwPLijOgz1uOtcxfKdCaRzaBqW-BQ4ft-Od3uZnja8'
   lat: 40.118436
@@ -551,6 +530,13 @@
   lon: -88.262565
   mus: 86
   name:  'Willard Airport Fountain'
+- fields: 3
+  img:  'http://lh6.ggpht.com/dzudBxNyxUB12jQt8DMYPfm1nc94wO0GiD8fhqGETiQF94uDlJ4UMhnW4DCCbA6TzoEEe--vXNP-DAskM3_W'
+  lat: 40.057678
+  level: 7
+  lon: -88.25174
+  mus: 81
+  name:  'Savoy Post Office'
 - fields: 2
   img:  'http://lh3.ggpht.com/hZulWSNApQFnDW-rnL3Fu95nMq2pO60CHDwUislaEOwUfLfJymLB8M4-WTugDbUq60zu72Cn2vLHMFFf5IxxNbp6rsbl9bAHHAlqFVlgckw_gJM'
   lat: 40.079765
@@ -635,6 +621,13 @@
   lon: -88.221381
   mus: 67
   name:  'McKinley Fountain'
+- fields: 1
+  img:  'http://lh5.ggpht.com/8tdoNA4odqt5Gs98YKUhpMqLLlihrG_guTUciwwcG8MkqhOEnp19hq3eCDKuUN11UIsWTNLibMDFGbR0QmaL'
+  lat: 40.061654
+  level: 6
+  lon: -88.242844
+  mus: 67
+  name:  'Lake Park Gardens'
 - fields: 5
   img:  'http://lh5.ggpht.com/ogCPXpztEJz9g9SqYcx7GPN1hAW6SSyzm2kS3ozjtVr0ZHGQtyGclfFRGF_5tPmngEnHH93xWdFcDL13cD72'
   lat: 40.083312
@@ -838,6 +831,13 @@
   lon: -88.225268
   mus: 35
   name:  'Institute of Genomic Biology Gateway'
+- fields: 5
+  img:  'http://lh3.ggpht.com/EGYOVzf1FmU6Mz8ck5GAJFFgeuTA6oTO3IOT84oXeO7EDtQ1lVD7VMiAxfWmaaW4Tg0x8IJ3GJnW-66LEgTN'
+  lat: 40.107237
+  level: 5
+  lon: -88.262891
+  mus: 35
+  name:  'Donna & Otis Myers Memorial'
 - fields: 1
   img:  'http://lh3.ggpht.com/-HtfCPsl6TBR07OSYeO879iOvq7SdMYFxEnoERPL5FVgGJEwLdiysHzEBNfVhjVLVD6bohjNTro7bbSOwgvj'
   lat: 40.094638
@@ -869,7 +869,7 @@
 - fields: 1
   img:  'http://lh4.ggpht.com/UsWzXzHhg7iWYqgGNNqj1XXLWp2Oj6pNxp7R0PwHI8tzNVuJwD2K0KgVwc0BR_9MEu4QalqL6x1cBnT_vz89'
   lat: 40.108739
-  level: 5
+  level: 6
   lon: -88.268838
   mus: 33
   name:  'New Generation Christian Fellowship Church'
@@ -894,6 +894,20 @@
   lon: -88.250276
   mus: 30
   name:  'Mckinley Aquatics Center'
+- fields: 2
+  img:  'http://lh6.ggpht.com/lcnaor8q6SYRZYMm-tUZtz1sXP81Bdwoa9Pf8LC0Vfggxa8JP98UTcgToQqXfmu99JegLd6L3Pb3aG6XjSQH'
+  lat: 40.106714
+  level: 5
+  lon: -88.267574
+  mus: 29
+  name:  'St. Peter''s United Church of Christ '
+- fields: 3
+  img:  'http://lh5.ggpht.com/zk2PoLrNJK2jAfA0HGQo37eMuSz1YwubD7DuFfadgkLsY_DmoY37jprPnm75I212dvrFjl_O2PQbZOLJL4Y'
+  lat: 40.107914
+  level: 5
+  lon: -88.262811
+  mus: 28
+  name:  'Russell and Louetta Reed Memorial in Clark Park'
 - fields: 6
   img:  'http://lh4.ggpht.com/kRHQwpjarX7HfwQLr4A30xQMO7de9l3eYpGLma1L5s-RekStFVQR9wmELAfa5uJPMOlf5gV2dSJD3kGjJYz1SLzbacRg2RpKXPScnDHAk2ncu1s'
   lat: 40.082189
@@ -1028,6 +1042,13 @@
   mus: 17
   name:  'Beautiful Storm'
 - fields: 1
+  img:  'http://lh6.ggpht.com/-I0G2D5ab8mTsL7xqBbC8ncqUMD5VZFPzUxONYaTcbt6ogXQnVlPsaSqnh7NHJyo89tDr3WOfkV90Mdpo9UTfA'
+  lat: 40.106457
+  level: 5
+  lon: -88.26247
+  mus: 16
+  name:  'Clark Park South Entrance'
+- fields: 1
   img:  'http://lh6.ggpht.com/nrAKluq6HmQX42cyEBf_ThQ4s-v7QYss-n-a2Ostt7_Qs96wIxHXwqh1JPiIwsuml0lnvn2M0pnIKX5ftwxFzg'
   lat: 40.112235
   level: 6
@@ -1048,13 +1069,6 @@
   lon: -88.222743
   mus: 15
   name:  'Fire Station'
-- fields: 2
-  img:  'http://lh5.ggpht.com/zk2PoLrNJK2jAfA0HGQo37eMuSz1YwubD7DuFfadgkLsY_DmoY37jprPnm75I212dvrFjl_O2PQbZOLJL4Y'
-  lat: 40.107914
-  level: 5
-  lon: -88.262811
-  mus: 15
-  name:  'Russell and Louetta Reed Memorial in Clark Park'
 - fields: 3
   img:  'http://lh3.ggpht.com/sMx0P-GO5ovW4D9GxUctotNYCfxZGhdOEhiL1DmdIK6HMtm6Q2YB4GNKL53HBW60hQRizKWO_neyW1gOFt4'
   lat: 40.068464
@@ -1307,13 +1321,6 @@
   lon: -88.240451
   mus: 7
   name:  'Bruce D. Nesbit African American Cultural Center'
-- fields: 3
-  img:  'http://lh3.ggpht.com/EGYOVzf1FmU6Mz8ck5GAJFFgeuTA6oTO3IOT84oXeO7EDtQ1lVD7VMiAxfWmaaW4Tg0x8IJ3GJnW-66LEgTN'
-  lat: 40.107237
-  level: 5
-  lon: -88.262891
-  mus: 7
-  name:  'Donna & Otis Myers Memorial'
 - fields: 1
   img:  'http://lh5.ggpht.com/cAVQ0bxfUIyyRsK2WMct_JL7PakeKZCfrM9_YQmE6gunhf9tFyzp6GXC7xVzzzKycFp-LpsvVyPsM9gSEcY'
   lat: 40.106685
@@ -1748,13 +1755,6 @@
   lon: -88.242666
   mus: 2
   name:  'Dohme Park Dedication Plaque'
-- fields: 3
-  img:  'http://lh5.ggpht.com/dRrlHXlT2nMNgZNHiYo52ha9L-Xay9DyOJR2Cpqs74hgAJ09abn9OTAtMzRVedt1_R9ObZllLO98vRhNMfgTgVsJCk1S-HJwX_XgiGpG4lz3a328'
-  lat: 40.11671
-  level: 7
-  lon: -88.24263
-  mus: 2
-  name:  'Cafe Kopi'
 - fields: 1
   img:  'http://lh3.ggpht.com/UWeM-kXUlZAe2JGWDlEh2q1Orpp53g_qVfSvCepKpOy5gVdmDkxbQ5mdsO8xAvDa7K8Iq1lg-gDoQCzy8sck'
   lat: 40.109127
@@ -1818,13 +1818,6 @@
   lon: -88.249558
   mus: 2
   name:  'Gerald Guest Memorial Tree'
-- fields: 2
-  img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
-  lat: 40.116553
-  level: 7
-  lon: -88.242268
-  mus: 2
-  name:  'Esquire Lounge'
 - fields: 1
   img:  'http://lh4.ggpht.com/WF3_fc0ms0XOrJBrSwqEEdmtfNLcSKu4S_zvn_t6zYNYwxsZY4UrAV04cTmXoYt3dRTr5wyRBPZVKsMAoSbZ'
   lat: 40.105315
@@ -1874,20 +1867,6 @@
   lon: -88.248459
   mus: 1
   name:  'Uppercutted Sculpture'
-- fields: 2
-  img:  'http://lh6.ggpht.com/2lDM_Uj6QcUJmWkmPhNWg-vfkJbBQAo6zb7eXC5qDTaJ5xAsoU7jPPqYmLo7zztC2Za1oH3QVrHQ78-XabqR'
-  lat: 40.116398
-  level: 7
-  lon: -88.242485
-  mus: 1
-  name:  'Champaign Servicemen and Women Memorial'
-- fields: 1
-  img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
-  lat: 40.116989
-  level: 7
-  lon: -88.242255
-  mus: 1
-  name:  'Blind Pig'
 - fields: 1
   img:  'http://lh5.ggpht.com/I3HJjY6jOYl6ivwUaejRmReBjka9NyCW1ufaILf7cfo4VGwjX6kNB9J6PlIZCBIuTfI1jb9arxjssMTa_hisxr2ObqDCJ55lCxXFccxme5erNEY2_g'
   lat: 40.116859
@@ -1958,13 +1937,6 @@
   lon: -88.24957
   mus: 1
   name:  'Linda M. Wesolowski Memorial Sign'
-- fields: 1
-  img:  'http://lh6.ggpht.com/cZVUlNaHjfsB6Lu5hnj8JjUk4lvsgOV7DFz4Nl47-RaQObW1VPRpos6hTDD6WgYrNxCh9UKfn5DFU-K7lRe9pQ'
-  lat: 40.1164
-  level: 5
-  lon: -88.242747
-  mus: 1
-  name:  'Sidewalk Art'
 - fields: 1
   img:  'http://lh6.ggpht.com/OeWiEqijQeAf256S5XDmv8VIj-SUQ0QHnet5J28ThcRwPEYY7-uk4CXixqualhlYxTcgKYe55FOcK_Ov7BE30jWvWzeBabSEra5jDLx3ZGj-XSs'
   lat: 40.08069
