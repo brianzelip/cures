@@ -335,17 +335,17 @@
   lon: -88.228733
   name:  'The Centennial Colophon'
 - ap: 4598
-  img:  'http://lh4.ggpht.com/x4szinl46UCjQ4FiOKdsQrr5OuNhuiDz-N7Hudes1XwubFw49qnWwOghJQ2JU1MSNUX_GD0u0pzbSP3sHwM4yw'
-  lat: 40.082475
-  level: 5
-  lon: -88.313826
-  name:  'Zahnd Park'
-- ap: 4598
   img:  'http://lh5.ggpht.com/NHSnrnnguNnzphuELCzs-TBkUrtUVtADf8g8hjx9Ws5Sy1xGl7dBrcU96Fy5liURNnxd7hWZgvAkQOpxS3zo'
   lat: 40.08288
   level: 5
   lon: -88.31213
   name:  'Joel Stephen Memorial Little League Field'
+- ap: 4598
+  img:  'http://lh4.ggpht.com/x4szinl46UCjQ4FiOKdsQrr5OuNhuiDz-N7Hudes1XwubFw49qnWwOghJQ2JU1MSNUX_GD0u0pzbSP3sHwM4yw'
+  lat: 40.082475
+  level: 5
+  lon: -88.313826
+  name:  'Zahnd Park'
 - ap: 4598
   img:  'http://lh5.ggpht.com/nWEtxuKQdy0teBBue1DYmG7P3SF5-3A6zlB7GwVHBWlolAZYGq6Br78lWcF9ltFy-KeSlozXie2RmU6JfCUX'
   lat: 40.142673
@@ -466,10 +466,10 @@
   level: 5
   lon: -88.25077
   name:  'Fox Development Corporation'
-- ap: 3661
+- ap: 3511
   img:  'http://lh4.ggpht.com/1LUozaukItxu6cHk_7wORzYYNvskCHi_wUxbNOAcIXNbgLuYn7VElFG0tzY02e6pY-AEL8nNHAL6ewLCaLMH'
   lat: 40.10567
-  level: 7
+  level: 5
   lon: -88.228634
   name:  'Public Broadcasting Plaque'
 - ap: 3661
@@ -515,6 +515,24 @@
   lon: -88.228125
   name:  'Class of 1902 Memorial'
 - ap: 3474
+  img:  'http://lh6.ggpht.com/MzDfG6eMMwVr56zIpVxRJKU2aoUq-95CLeBhoiEQQKzpC2zulq5jFDLv1IK0JcRy5Q0PhRAreZ1p2ElsdnNu'
+  lat: 40.108048
+  level: 5
+  lon: -88.226279
+  name:  'Nuclear Magnetic Resonance II Plaque'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/7U0YXCB_DIhnqPJyjyLpNn6kg4lU8HvKL87ddBKWq1sptvVLvCEiCuNEnghQtqDGSN2OBNcOUK9nZcYjY4Vr'
+  lat: 40.107887
+  level: 4
+  lon: -88.225998
+  name:  'Lifesaving Antibiotic Plaque'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/9hzMj8KV-HraIucojjHAEgyMZsJAR9TWvNS-QSBB5LTYBOTwwqfTQySJ_Sz88eP3eyFWFYhx5qDVY93t8fk'
+  lat: 40.108032
+  level: 4
+  lon: -88.225702
+  name:  'Centennial Court'
+- ap: 3474
   img:  'http://lh4.ggpht.com/J4angdYTKCPYybB0GhGqQPugzEy-7X48yLh6UFakxJsUTJY156aWvDAIxyqAbX9wGOUddPZcWQMvmhS10vVL'
   lat: 40.10391
   level: 1
@@ -550,10 +568,10 @@
   level: '?'
   lon: -88.403465
   name:  '9ac55f1a3bf140e5abc27bbc95fb2036.16'
-- ap: 2536
+- ap: 2911
   img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
   lat: 40.117976
-  level: 2
+  level: 6
   lon: -88.245082
   name:  'Robeson Building '
 - ap: 2724
@@ -562,18 +580,12 @@
   level: '?'
   lon: -88.253532
   name:  'Toalson Park'
-- ap: 2499
+- ap: 2724
   img:  'http://lh5.ggpht.com/9XV46K2cUd84oc6HPyqlj53LKJS8lVs0f0gPHSCBkkTwiHaxivu36dlAj5M38EzK-2U4xhvZJ7AiVvGM5yk'
   lat: 40.118175
-  level: 4
+  level: 6
   lon: -88.244562
   name:  'The Russell Building'
-- ap: 2724
-  img:  'http://lh6.ggpht.com/y10QgRCNt0Bsefqp3olKgJp98whQkS0-vWqPskj3421hcSq96BG-b_KROqsO1mBEcNiYtAKhXuXG0EV0eaUW'
-  lat: 40.107152
-  level: 5
-  lon: -88.235244
-  name:  'Bromley Hall'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.827362
@@ -713,23 +725,11 @@
   lon: -88.238339
   name:  'Boneyard Greenway'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/NUOCD82iNRGW1NGqEC4FKet1u5_cm4WRNc2c9_YABAjGf6-OSCLz7HgYkP1ZuVAbpMl6Qi10HRW16Oc9jNM2'
-  lat: 40.106401
-  level: 6
-  lon: -88.236182
-  name:  'Washington Park'
-- ap: 2537
   img:  'http://lh6.ggpht.com/yYW6Egg1lWn6UqqLzlgqwCQhtbuxiZSW4TmvI1XBPs33OTTJ0oh51XZXOIILxGI2juoO-E_YfG5UHmeb34rSOw'
   lat: 40.109165
   level: 7
   lon: -88.230269
   name:  'John Street Plaque'
-- ap: 2237
-  img:  'http://lh4.ggpht.com/OFVPvdgB3GVpaQknHdnt2okgP3xcQksAH3wvOGYVuP85MMlxo3bQ2SRpBb0hzNfjQoC_5LlRqaE6jLB-h9Gr'
-  lat: 40.108092
-  level: 3
-  lon: -88.234589
-  name:  'Koinonia Plaque'
 - ap: 2537
   img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
   lat: 40.108066
