@@ -47,17 +47,17 @@
   lon: -88.249385
   name:  'Travis Marmion Memorial'
 - ap: 9846
-  img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
-  lat: 40.099737
-  level: 7
-  lon: -88.251157
-  name:  'Tyler Van Atkins Memorial'
-- ap: 9846
   img:  'http://lh6.ggpht.com/YdeB0EKlsopL39a9YXWj4JBZgXNNLWHgfe4PQzdpWCNWc0fR1YTj8WjARDHnmrusvKWTqKLcGg8U9frhtsw'
   lat: 40.09821
   level: 8
   lon: -88.249879
   name:  'Hessel Park'
+- ap: 9846
+  img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
+  lat: 40.099737
+  level: 7
+  lon: -88.251157
+  name:  'Tyler Van Atkins Memorial'
 - ap: 9659
   img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
   lat: 40.100822
@@ -575,6 +575,24 @@
   lon: -88.331166
   name:  'Porter Family Park Dedication'
 - ap: 3474
+  img:  'http://lh5.ggpht.com/tuo_ByFTbwLitFP5cBseOibqRxENxbCwOJ30dCnja5ijBI_qBv5vqNP7ZuZXnxhYM6ms_GbExZEwwKVUtwV2'
+  lat: 40.093712
+  level: 5
+  lon: -88.281583
+  name:  'Brownfield Dedication'
+- ap: 3474
+  img:  'http://lh6.ggpht.com/p2F3xw4xL4UdiMM9aSy628ISSglrvjPexpF3j340tMAP9MX07yh_sJv7kHVkeud8lyFf2ZwDohw3zsRS2PSd'
+  lat: 40.093914
+  level: 5
+  lon: -88.281531
+  name:  'Terry M. Warmbier Memorial'
+- ap: 3474
+  img:  'http://lh6.ggpht.com/Jz3ahY5LQ13wKWLY9SEvexiinJa3GeO1eB_FynplikRpa77swLST6cUAJjPpqKDSq2KU4Dcyui-QBstz_Z3k'
+  lat: 40.094624
+  level: 5
+  lon: -88.282953
+  name:  'Greenbelt 2'
+- ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.152871
   level: '?'
@@ -755,18 +773,6 @@
   lon: -88.295051
   name:  'Midwest Believers Church'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/p2F3xw4xL4UdiMM9aSy628ISSglrvjPexpF3j340tMAP9MX07yh_sJv7kHVkeud8lyFf2ZwDohw3zsRS2PSd'
-  lat: 40.093914
-  level: 5
-  lon: -88.281531
-  name:  'Terry M. Warmbier Memorial'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/tuo_ByFTbwLitFP5cBseOibqRxENxbCwOJ30dCnja5ijBI_qBv5vqNP7ZuZXnxhYM6ms_GbExZEwwKVUtwV2'
-  lat: 40.093712
-  level: 5
-  lon: -88.281583
-  name:  'Brownfield Dedication'
-- ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.152192
   level: '?'
@@ -918,13 +924,13 @@
   name:  'Memory Squares'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.195019
-  level: '?'
-  lon: -88.402935
-  name:  'c87d5b6cf7ea4bae962a48d438be958c.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.194971
   level: '?'
   lon: -88.403465
   name:  '9ac55f1a3bf140e5abc27bbc95fb2036.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.195019
+  level: '?'
+  lon: -88.402935
+  name:  'c87d5b6cf7ea4bae962a48d438be958c.16'
