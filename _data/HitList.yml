@@ -5,13 +5,6 @@
   lon: -88.312425
   mus: 59
   name:  'Kiwanis Sports Complex'
-- fields: 3
-  img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
-  lat: 40.116164
-  level: 6
-  lon: -88.241661
-  mus: 45
-  name:  'Zipcar-45 E. University Avenue'
 - fields: 5
   img:  'http://lh3.ggpht.com/07XrBN-er6Ecleor0n9RJ4DfGO6B2yn-ZxjI-Uy8Ba46Jtb6cXNVmATPiPiGyk-1jZ4wxa7-EeIWbWUqArCG'
   lat: 40.142554
@@ -19,6 +12,13 @@
   lon: -88.243468
   mus: 42
   name:  'Dog Heart'
+- fields: 2
+  img:  'http://lh3.googleusercontent.com/vJ_iyOb44eFzOJUNpRouOPDI8rKgOESn7TWw9U9BR3OcWsb6Oak-SSfVH4iPPmtXJdk30rqet1D0KxVohiBC'
+  lat: 40.114712
+  level: 7
+  lon: -88.238392
+  mus: 34
+  name:  'Mexico Mural'
 - fields: 11
   img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
   lat: 40.099852
@@ -89,13 +89,6 @@
   lon: -88.248914
   mus: 7
   name:  'Boulware Trail'
-- fields: 6+
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.195188
-  level: '?'
-  lon: -88.40358
-  mus: 6
-  name:  '7cc24f4019674432a28f220ec66a8e73.16'
 - fields: 4
   img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
   lat: 40.100078
@@ -117,6 +110,13 @@
   lon: -88.230188
   mus: 4
   name:  'Color Glass Windows at the Newman Center'
+- fields: 2
+  img:  'http://lh5.ggpht.com/Lup2et0i5h8oHqtBffIdoyX5uclC2MBn9ZnnKnYPr4RIFSflf9bi78zBHK7QqycA0qgEev9qOk0zU-1o1hg'
+  lat: 40.108451
+  level: 8
+  lon: -88.228733
+  mus: 3
+  name:  'The Centennial Colophon'
 - fields: 2
   img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
   lat: 40.101062
@@ -152,13 +152,6 @@
   lon: -88.212367
   mus: 2
   name:  'Stalking Panther'
-- fields: 3
-  img:  'http://lh5.ggpht.com/PnX0W4nb5AYgeh3aSV1f6L1M6SXT5EDNNj-HZLlIrqeFoeMlVOlqnsY-fMyXYgvKn-Ac3RDPKf_iJCtYRmek'
-  lat: 40.194805
-  level: 5
-  lon: -88.401996
-  mus: 2
-  name:  'Leland Dollahan Memorial'
 - fields: 1
   img:  'http://lh4.ggpht.com/sz_e7469a1MnmlNIKBE9ABOh9Z5c-TMUKTj_dlubknMbwU0IKI_4hZ8QQtHWwjgbnkA_Plk1yb2bT4XQ3UjA'
   lat: 40.104561
@@ -166,6 +159,20 @@
   lon: -88.21207
   mus: 1
   name:  'Carle Park'
+- fields: 1+
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.152342
+  level: '?'
+  lon: -88.252345
+  mus: 1
+  name:  'Toalson Park Basketball Hoop'
+- fields: 2
+  img:  'http://lh6.ggpht.com/MzDfG6eMMwVr56zIpVxRJKU2aoUq-95CLeBhoiEQQKzpC2zulq5jFDLv1IK0JcRy5Q0PhRAreZ1p2ElsdnNu'
+  lat: 40.108048
+  level: 5
+  lon: -88.226279
+  mus: 1
+  name:  'Nuclear Magnetic Resonance II Plaque'
 - fields: 2
   img:  'http://lh6.ggpht.com/3o0ObAARFV_8mBVCC_QD0iLOPVzNkakXybhLnSVEuXIJfDLKMxeYj-EkWIw9NPoZIVRf5Dkrid2yf_NEQ-iE'
   lat: 40.100347
@@ -188,16 +195,16 @@
   mus: 1
   name:  'Gabriel Patrick Maxeiner Memorial Plaque'
 - fields: 1
-  img:  'http://lh5.ggpht.com/Lup2et0i5h8oHqtBffIdoyX5uclC2MBn9ZnnKnYPr4RIFSflf9bi78zBHK7QqycA0qgEev9qOk0zU-1o1hg'
-  lat: 40.108451
-  level: 8
-  lon: -88.228733
+  img:  'http://lh6.ggpht.com/PXc3YHSOsx0c_WrfpzvHHiHEl1FSv5RvbgXj7Ji3-xS7oBwJIkFCD8eQySiUega_iQvX8FiUBuDhXdK9l9QWIA'
+  lat: 40.116623
+  level: 3
+  lon: -88.240844
   mus: 1
-  name:  'The Centennial Colophon'
-- fields: 1
-  img:  'http://lh6.ggpht.com/MzDfG6eMMwVr56zIpVxRJKU2aoUq-95CLeBhoiEQQKzpC2zulq5jFDLv1IK0JcRy5Q0PhRAreZ1p2ElsdnNu'
-  lat: 40.108048
-  level: 5
-  lon: -88.226279
+  name:  'R. Forrest Colwell Memorial'
+- fields: 1+
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.195188
+  level: '?'
+  lon: -88.40358
   mus: 1
-  name:  'Nuclear Magnetic Resonance II Plaque'
+  name:  '7cc24f4019674432a28f220ec66a8e73.16'
