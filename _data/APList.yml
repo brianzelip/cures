@@ -229,7 +229,7 @@
 - ap: 4785
   img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
   lat: 40.102188
-  level: 6
+  level: 7
   lon: -88.251507
   name:  'Little Free Library Charter 5753'
 - ap: 4785
@@ -241,7 +241,7 @@
 - ap: 4785
   img:  'http://lh3.googleusercontent.com/enpZZ8JRREFPTvYd3jbeUlpS-mmcwKe5fsvoWRPkfMUj6PijyI-5tbR55UItBoNJAFSl9fAAOvXb6BpWCJT4'
   lat: 40.102495
-  level: 4
+  level: 6
   lon: -88.242132
   name:  'Nuclear Physics Lab'
 - ap: 4785
@@ -264,12 +264,6 @@
   name:  'The Centennial Colophon'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.894687
-  level: '?'
-  lon: -87.609994
-  name:  '71d41d0e027641a9a8ce927698097c51.12'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.891065
   level: '?'
   lon: -87.61055
@@ -286,6 +280,12 @@
   level: '?'
   lon: -87.610837
   name:  '0d73765c835d410a8a500d253f2ebbbd.16'
+- ap: 4411
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.894687
+  level: '?'
+  lon: -87.609994
+  name:  '71d41d0e027641a9a8ce927698097c51.12'
 - ap: 4411
   img:  'http://lh4.ggpht.com/g_stLAWJt4vh6oSK-cYOomfGV2PYXeZ-z4kRS0wAL0-3T-fr7DmmTloLnVl7__jD0xt28syhYVcTKRBjGI0'
   lat: 40.09139
@@ -516,12 +516,6 @@
   name:  '88b22f723d954699bdb089ff05d12bf6.16'
 - ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.409856
-  level: '?'
-  lon: -86.277039
-  name:  '8fafa20893ed4614b955d258fb37912f.16'
-- ap: 2724
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.566892
   level: '?'
   lon: -88.616741
@@ -532,6 +526,12 @@
   level: '?'
   lon: -88.472334
   name:  '7c86d5abdb2a4bd9a7f87774b070966d.16'
+- ap: 2724
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.312242
+  level: '?'
+  lon: -88.201368
+  name:  '2012 Employee Dedication Bench'
 - ap: 2724
   img:  'http://lh4.ggpht.com/78LP8oxHS3VkZv9nRG_fp7-dX1mJyVMGN29B6cQALGS7WQW1p1iP5Tufofe4FxyRkXxz_UPU8vhjWDdBja0'
   lat: 40.125895
@@ -606,28 +606,22 @@
   name:  'Covered Bridge Bike Trail Entrance'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 44.833921
-  level: '?'
-  lon: -87.344888
-  name:  '61b7cbaf51cd4cdb89cb78b92c245bc3.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.743491
   level: '?'
   lon: -88.718843
   name:  'a59cb6ccadb7428dbf88a6b84d77aa8b.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 45.668391
-  level: '?'
-  lon: -86.967081
-  name:  'bfc411bb9b6d471bb55b547b2fdb8c65.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.107613
   level: '?'
   lon: -88.426429
   name:  'US Post Office, N Main St, Seymour, IL'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.243795
+  level: '?'
+  lon: -88.185638
+  name:  '878ec3bb980447bd8fee19fe52f91177.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 43.75215
@@ -640,12 +634,6 @@
   level: '?'
   lon: -88.5585
   name:  'Lodge Christian Church'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.312242
-  level: '?'
-  lon: -88.201368
-  name:  '2012 Employee Dedication Bench'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.457257
@@ -793,7 +781,7 @@
 - ap: 2537
   img:  'http://lh4.ggpht.com/zZ2YpVpDiI1KdIQ9iI7mGJD_VtwFztJ4ZF1vRehD9OSnQ2K3433SIg22svwcqDJVfeO2fjE3fdT4eHAJWGpi'
   lat: 40.104339
-  level: 6
+  level: 7
   lon: -88.234788
   name:  'Pi Kappa Phi Fraternity'
 - ap: 2537
