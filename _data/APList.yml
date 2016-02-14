@@ -47,17 +47,17 @@
   lon: -88.242467
   name:  'Radio Maria'
 - ap: 7035
-  img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
-  lat: 40.115838
-  level: 6
-  lon: -88.241338
-  name:  'Illinois Terminal'
-- ap: 7035
   img:  'http://lh6.ggpht.com/2lDM_Uj6QcUJmWkmPhNWg-vfkJbBQAo6zb7eXC5qDTaJ5xAsoU7jPPqYmLo7zztC2Za1oH3QVrHQ78-XabqR'
   lat: 40.116398
   level: 7
   lon: -88.242485
   name:  'Champaign Servicemen and Women Memorial'
+- ap: 7035
+  img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
+  lat: 40.115838
+  level: 6
+  lon: -88.241338
+  name:  'Illinois Terminal'
 - ap: 6472
   img:  'http://lh5.ggpht.com/KuDVZqnpBQnne0a_UqpN4wpsQFlw3nVXAWtRKP_AdZ3CjQ0MHUBgU_2hE8hb71h31FTQbduYmB6DNuVKA0s'
   lat: 40.116822
@@ -348,12 +348,6 @@
   name:  '989fcb6380dd4613820891328bddd442.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.013323
-  level: '?'
-  lon: -90.384371
-  name:  '913fd3c10199419dba943ed7a486d8e9.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.233571
   level: '?'
   lon: -90.332896
@@ -400,6 +394,12 @@
   level: '?'
   lon: -88.331924
   name:  'd3747863b62e4161b818c8b5e75c79fc.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.013323
+  level: '?'
+  lon: -90.384371
+  name:  '913fd3c10199419dba943ed7a486d8e9.16'
 - ap: 2537
   img:  'http://lh3.ggpht.com/xSCQSCRT6pHyQi9LDI3OamMdZnhLQ06OSlHRHnJC0FkDo93VgOcr3gyAV0aPAKagwq9V5iViSSCgIr6_fWCB'
   lat: 40.134441
@@ -479,17 +479,17 @@
   lon: -88.230562
   name:  'St. John''s Rectory'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/kElaGOaV9aI8SrnM1D65gx9J0Ky1AKrN9Yo-pXVmDhELt2pee4MwVRiCqCmlqWzUWj5pS33GnEzAiXmiWKsw'
-  lat: 40.108111
-  level: 6
-  lon: -88.229625
-  name:  'Illini Sports Mural'
-- ap: 2537
   img:  'http://lh6.ggpht.com/yYW6Egg1lWn6UqqLzlgqwCQhtbuxiZSW4TmvI1XBPs33OTTJ0oh51XZXOIILxGI2juoO-E_YfG5UHmeb34rSOw'
   lat: 40.109165
   level: 4
   lon: -88.230269
   name:  'John Street Plaque'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/kElaGOaV9aI8SrnM1D65gx9J0Ky1AKrN9Yo-pXVmDhELt2pee4MwVRiCqCmlqWzUWj5pS33GnEzAiXmiWKsw'
+  lat: 40.108111
+  level: 6
+  lon: -88.229625
+  name:  'Illini Sports Mural'
 - ap: 2537
   img:  'http://lh4.ggpht.com/3_LELG2r-A5s2d-x2dWyz6h7HzfjVR_KZn9AG0vhih9EalQIG43iL6LdKqKNpnGdGwguP9ZfnGF0KMq_KDE'
   lat: 40.105799
