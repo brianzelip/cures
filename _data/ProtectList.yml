@@ -372,7 +372,7 @@
 - fields: 5
   img:  'http://lh3.ggpht.com/ehNwLdaa71H3Bylm063pawn4caIGz2rCdmmdBhAFWIuEt2kPjT8nWHDkSuoOidckWiM82FWpDSNGQqQMHiQ'
   lat: 40.098209
-  level: 6
+  level: 7
   lon: -88.28689
   mus: 658
   name:  'First Church of the Nazarene'
@@ -909,6 +909,13 @@
   mus: 123
   name:  'Champaign Church of Christ'
 - fields: 4
+  img:  'http://lh4.ggpht.com/maBwz4G9LJZ5aVuX_WF1Z73xSbqoFsm3l6oyrNQ16LkJMvaEbFa-amdfCpKDVDe7NzjReNu8IGnn7BAI8yef'
+  lat: 40.103534
+  level: 8
+  lon: -88.243478
+  mus: 120
+  name:  'McCollum Park'
+- fields: 4
   img:  'http://lh3.ggpht.com/-p1CR-MEw_nnGMNLqcKVLoq-lgaxNYTd37J_sxs5ORcWO0Rjnk88yp4BLGDPGeMvqIfxxcOQsFbxvS_PbqWynQ'
   lat: 40.101215
   level: 6
@@ -957,6 +964,13 @@
   lon: -88.210027
   mus: 98
   name:  'Darius E Phebus Administration Building'
+- fields: 3
+  img:  'http://lh5.ggpht.com/A4UxP6gQ9YAF5Z_VBcZdiGBLKP0JXFuX04xGfPB2jbHdrsk5ewYmNLutfrmKv8-MPAUO2Uf05aE0vBYczFBH3A'
+  lat: 40.094316
+  level: 6
+  lon: -88.244047
+  mus: 96
+  name:  'Saint Mary''s Cemetery'
 - fields: 4
   img:  'http://lh5.ggpht.com/IPe0K-5UxhP3pBLFh-Gt_TFpL9lqI4nyU9X57bSopcI-Ihm44-ebzRJG7oR76nOD5yRHtqc_x87jC08KCoqG'
   lat: 40.115697
@@ -985,6 +999,13 @@
   lon: -88.221178
   mus: 90
   name:  'Allen Residence Hall Unit One'
+- fields: 2
+  img:  'http://lh5.ggpht.com/H3lz_PbTP4RFYuRMUyZuMouxslODKZQ3RjFiZrITFZcpj2FuEb1K2VVlveQtOyUHG2rYZ114AGuGqK4rATI5jg'
+  lat: 40.097868
+  level: 5
+  lon: -88.242344
+  mus: 90
+  name:  'Campus Information Booth '
 - fields: 3
   img:  'http://lh3.ggpht.com/OCKiEBzmQ9VMmiVZuW498_1iUjQHiKo7krCcba5dOYnEpjzNQkGhJZr8d7jJuSxUSdkvKjjzN-gV47-buFSO'
   lat: 40.114488
@@ -1118,13 +1139,6 @@
   lon: -88.213173
   mus: 65
   name:  'The Betty J. Schroeder Grove'
-- fields: 3
-  img:  'http://lh4.ggpht.com/maBwz4G9LJZ5aVuX_WF1Z73xSbqoFsm3l6oyrNQ16LkJMvaEbFa-amdfCpKDVDe7NzjReNu8IGnn7BAI8yef'
-  lat: 40.103534
-  level: 8
-  lon: -88.243478
-  mus: 65
-  name:  'McCollum Park'
 - fields: 3
   img:  'http://lh3.googleusercontent.com/NfuReRkyOBC6TpPTQQuLpJGD0EXaLbvSJP45Seaf0Vqc8oZ93XZFHQiMEcbBC8vAZxWX_WA3_WBC2zxcvIs'
   lat: 40.065881
@@ -1356,13 +1370,6 @@
   lon: -88.241532
   mus: 41
   name:  'National Petascale Computing Facility'
-- fields: 2
-  img:  'http://lh5.ggpht.com/A4UxP6gQ9YAF5Z_VBcZdiGBLKP0JXFuX04xGfPB2jbHdrsk5ewYmNLutfrmKv8-MPAUO2Uf05aE0vBYczFBH3A'
-  lat: 40.094316
-  level: 5
-  lon: -88.244047
-  mus: 41
-  name:  'Saint Mary''s Cemetery'
 - fields: 3
   img:  'http://lh5.ggpht.com/_CP_-V0UvlMpMCqxcu9H9suYfz6p6k40F5AIKnuJ3QbMbi14OTTsoYC38b4Z2dg8FjHGQZJI7Vj7ClyH_eQ7'
   lat: 40.108108
@@ -1426,13 +1433,6 @@
   lon: -88.221303
   mus: 35
   name:  'Levis Faculty Center'
-- fields: 1
-  img:  'http://lh5.ggpht.com/H3lz_PbTP4RFYuRMUyZuMouxslODKZQ3RjFiZrITFZcpj2FuEb1K2VVlveQtOyUHG2rYZ114AGuGqK4rATI5jg'
-  lat: 40.097868
-  level: 5
-  lon: -88.242344
-  mus: 34
-  name:  'Campus Information Booth '
 - fields: 3
   img:  'http://lh3.ggpht.com/jnMeoF6SBZ0Iinf5GnB2N90IMGTEQdGggLITfjWcIY6d5yipHaBN52a1NPxmn-VFwc_G1cHiMmyEDGg5nkwo'
   lat: 40.101623
@@ -1499,7 +1499,7 @@
 - fields: 1
   img:  'http://lh6.ggpht.com/NMgUdPOdhvhvKZh7ugwXgybshZBZ2mkaEWMNKYdFPX6cfIYENSCqE9YpAXSNVuq_9VVWXJB-ShCBAPfF2Yvs'
   lat: 40.102513
-  level: 6
+  level: 7
   lon: -88.243679
   mus: 32
   name:  'Robert Hosier Memorial Garden'
@@ -1552,6 +1552,13 @@
   lon: -88.22709
   mus: 26
   name:  'Nathan M. Newmark Civil Engineering Laboratory'
+- fields: 3
+  img:  'http://lh6.ggpht.com/D4r1KWBUGF8ZJDUXBHVcNVeP66FVliNQrEX0n-jZkYyFnWUfZ_vfBIAt4padKNgvgmextrkL2-kxkv6JbS3u'
+  lat: 40.110394
+  level: 8
+  lon: -88.219509
+  mus: 26
+  name:  'University Of Illinois'
 - fields: 7
   img:  'http://lh4.ggpht.com/T8cP6LS3yE1CWQ8AZiv-orM6YL3VvmBONzxz8oYsPzyEa7zH7tQHp09pVdB3453usxexKJr-kZSuXASVTJEL'
   lat: 40.102177
@@ -1671,6 +1678,13 @@
   lon: -88.230676
   mus: 22
   name:  'Sousa Archives Center-Amer Music'
+- fields: 2
+  img:  'http://lh3.ggpht.com/UWeM-kXUlZAe2JGWDlEh2q1Orpp53g_qVfSvCepKpOy5gVdmDkxbQ5mdsO8xAvDa7K8Iq1lg-gDoQCzy8sck'
+  lat: 40.109127
+  level: 6
+  lon: -88.221387
+  mus: 22
+  name:  'Morton Weir Memorial '
 - fields: 1
   img:  'http://lh5.ggpht.com/vYay8RKsCV_BP_MkeFm7se0VZoYthm-1pThiATAADleBlTsPowobgZyUoU7DUto6p5cpg9adpCcTgNR6iop0Jw'
   lat: 40.120121
@@ -1819,13 +1833,6 @@
   mus: 15
   name:  'Jack and Marilyn Memorial Bench'
 - fields: 2
-  img:  'http://lh6.ggpht.com/D4r1KWBUGF8ZJDUXBHVcNVeP66FVliNQrEX0n-jZkYyFnWUfZ_vfBIAt4padKNgvgmextrkL2-kxkv6JbS3u'
-  lat: 40.110394
-  level: 8
-  lon: -88.219509
-  mus: 15
-  name:  'University Of Illinois'
-- fields: 2
   img:  'http://lh3.ggpht.com/rKv-1aQyD3_EmYdZWG7vYw8cs8J89rZ6nFgr0tzEY9dFNyVdXpy1qOnHT434i_rN90x2ZakG3V5iyZUlXFogwA'
   lat: 40.103623
   level: 6
@@ -1888,6 +1895,13 @@
   lon: -88.209995
   mus: 13
   name:  'Fly Fishing Sculpture'
+- fields: 2
+  img:  'http://lh3.ggpht.com/rt1AXuZl8jGPdfbkCHVe40c16QTdy7Fnli6-OVAu5U8AaOyetc4UKIl3-AqgrS9U310eFfeO0kvHNooTUHC2'
+  lat: 40.108342
+  level: 6
+  lon: -88.220239
+  mus: 13
+  name:  'Grand Fountain - University of Illinois'
 - fields: 1
   img:  'http://lh4.ggpht.com/rQD_MUFUx5IX5GhvurUrhiG2rCDy2Aiq_hvzN0YySpYA9cIb_aEAyBhyeFhFL7B0LdpEAAIDkqGcOv4wsVM2'
   lat: 40.077891
@@ -1982,7 +1996,7 @@
 - fields: 1
   img:  'http://lh5.ggpht.com/GN_FYcjKjamCNlfD8yA995MpcEHa9gIZVV6FBYtdeiNr_XgtCIN6gnN6_dSKwt-DenNMN_ZiJaG12iLuY6wt'
   lat: 40.103588
-  level: 5
+  level: 4
   lon: -88.233095
   mus: 11
   name:  'Huff Hall'
@@ -2014,13 +2028,6 @@
   lon: -88.256104
   mus: 11
   name:  'John L. Jones Park'
-- fields: 1
-  img:  'http://lh3.ggpht.com/UWeM-kXUlZAe2JGWDlEh2q1Orpp53g_qVfSvCepKpOy5gVdmDkxbQ5mdsO8xAvDa7K8Iq1lg-gDoQCzy8sck'
-  lat: 40.109127
-  level: 6
-  lon: -88.221387
-  mus: 10
-  name:  'Morton Weir Memorial '
 - fields: 1
   img:  'http://lh6.ggpht.com/jhMQ5IGo-EB8MiVSEIUKmHbHwagHnJzv5RKZvsbHLes_88gz9Kesj98eZWV29mufV0LSUVjs53V5hMFQOG2Q'
   lat: 40.11067
@@ -2357,6 +2364,13 @@
   lon: -88.204819
   mus: 5
   name:  'Molecular Reflection Statue'
+- fields: 2
+  img:  'http://lh6.ggpht.com/uAhsK1gCBrCPvIEZ8lZRhDGbO9Q75uu9su3qhSkktViExCuvIvXGCLwZXT-_riPd4rI3tTvsLqqn6XO3msF4'
+  lat: 40.116558
+  level: 6
+  lon: -88.249136
+  mus: 5
+  name:  'Babe and Gene Wilder Memorial Plaque'
 - fields: 8
   img:  'http://lh4.ggpht.com/3gTAX6rKgNjLmBOYvAVTgSPQej5yRF_38uRllp9H4n5N6pvwWo5kDMDwlIkFVPPl30BXPSGAlZ9pO9B4DMk'
   lat: 40.116218
@@ -2371,13 +2385,6 @@
   lon: -88.210576
   mus: 5
   name:  'Civil War Memorial'
-- fields: 1
-  img:  'http://lh6.ggpht.com/uAhsK1gCBrCPvIEZ8lZRhDGbO9Q75uu9su3qhSkktViExCuvIvXGCLwZXT-_riPd4rI3tTvsLqqn6XO3msF4'
-  lat: 40.116558
-  level: 6
-  lon: -88.249136
-  mus: 5
-  name:  'Babe and Gene Wilder Memorial Plaque'
 - fields: 1
   img:  'http://lh6.ggpht.com/hMOV7ym8XEIsqpMDPaoQ0zfvtxYc8wi6ViH7YTtHB2OBpFGMOEpqjeIs-_7tfCzioA-1WvQwRKfYcGvUqgM'
   lat: 40.098948
@@ -2960,13 +2967,6 @@
   mus: 1
   name:  'Nolda and Carl Dohme Memorial'
 - fields: 1
-  img:  'http://lh3.ggpht.com/rt1AXuZl8jGPdfbkCHVe40c16QTdy7Fnli6-OVAu5U8AaOyetc4UKIl3-AqgrS9U310eFfeO0kvHNooTUHC2'
-  lat: 40.108342
-  level: 6
-  lon: -88.220239
-  mus: 1
-  name:  'Grand Fountain - University of Illinois'
-- fields: 1
   img:  'http://lh4.ggpht.com/HPJCnjDX7RNIKo1Nb9pEeLm37UaylaBupc0bWDexHxCLAmBV-4-tYBf1Jof3ssNpFCmoyw3MrokNv4_zt20'
   lat: 40.108274
   level: 5
@@ -3008,6 +3008,20 @@
   lon: -88.245046
   mus: 1
   name:  'Eddie Thorpe''s Memorial Rock And Tree'
+- fields: 1
+  img:  'http://lh5.ggpht.com/I3HJjY6jOYl6ivwUaejRmReBjka9NyCW1ufaILf7cfo4VGwjX6kNB9J6PlIZCBIuTfI1jb9arxjssMTa_hisxr2ObqDCJ55lCxXFccxme5erNEY2_g'
+  lat: 40.116859
+  level: 5
+  lon: -88.249043
+  mus: 1
+  name:  'Bilbrey Bandstand'
+- fields: 1
+  img:  'http://lh6.ggpht.com/5NJ7qgqdGdq2TNgKDadFhTo4SudsgsHoSbhrgyc2axnUeV_4VOo4bzyr40gIwc1T_AvyH47lClwrz_V8Mtg'
+  lat: 40.117008
+  level: 5
+  lon: -88.249287
+  mus: 1
+  name:  'Terry R Bilbrey Memorial Bench'
 - fields: 1
   img:  'http://lh6.ggpht.com/4lSW4EwRiN3ZMZYjxrHWvIT7z6LDW-K6E686ImBYJg9AY_QNi-hZrn6ok63-XHe6Ls0E5tiQUt_QiGwGXvsqnA'
   lat: 40.116613
