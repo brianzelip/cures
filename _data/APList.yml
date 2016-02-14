@@ -29,17 +29,17 @@
   lon: -88.276579
   name:  'Christie Clinic Hospital '
 - ap: 4785
-  img:  'http://lh5.ggpht.com/KmcyHZbW-2yJsvLDA_XQCx9aOF3P9itxKi_I4fScJaaRqqojBriUII3Fp8SHNgup2Ab6_7r9jDEo_AzWSfI'
-  lat: 40.097028
-  level: 6
-  lon: -88.276646
-  name:  'Roby Recreation Trail'
-- ap: 4785
   img:  'http://lh6.ggpht.com/wNRP75KigUqlahXLbqAEKGIz2n2kFEiPnl8N9wYTLbnMdYASRbhsFYo33DyVRETf0fgmad8RuO3z7j3tV50'
   lat: 40.097001
   level: 6
   lon: -88.276242
   name:  'Robert P. Simon Trail'
+- ap: 4785
+  img:  'http://lh5.ggpht.com/KmcyHZbW-2yJsvLDA_XQCx9aOF3P9itxKi_I4fScJaaRqqojBriUII3Fp8SHNgup2Ab6_7r9jDEo_AzWSfI'
+  lat: 40.097028
+  level: 6
+  lon: -88.276646
+  name:  'Roby Recreation Trail'
 - ap: 4785
   img:  'http://lh6.ggpht.com/SCYK-XeMmOyfRrTt1-aQNoDA-2Sib4m5Ch26mTwo6XNdVeVnfi7W74Ik6IRLAPSoKzSS97pgwt50Jl9oSgGfP029USxZzQWKNJo3rbs-6YHBPBif'
   lat: 40.116792
@@ -65,17 +65,17 @@
   lon: -88.243468
   name:  'Dog Heart'
 - ap: 4411
-  img:  'http://lh3.googleusercontent.com/5FkLhIMVmAJJSslAXVxY1RNxi-4q5mNAVPK2XgU5LwRM8qcB8BGXOK0GmF6Y_xfgPOhwF_CrbcgVZlJx-Pza'
-  lat: 40.11652
-  level: 6
-  lon: -88.241845
-  name:  'Mike ''N Molly''s'
-- ap: 4411
   img:  'http://lh6.ggpht.com/2lDM_Uj6QcUJmWkmPhNWg-vfkJbBQAo6zb7eXC5qDTaJ5xAsoU7jPPqYmLo7zztC2Za1oH3QVrHQ78-XabqR'
   lat: 40.116398
   level: 6
   lon: -88.242485
   name:  'Champaign Servicemen and Women Memorial'
+- ap: 4411
+  img:  'http://lh3.googleusercontent.com/5FkLhIMVmAJJSslAXVxY1RNxi-4q5mNAVPK2XgU5LwRM8qcB8BGXOK0GmF6Y_xfgPOhwF_CrbcgVZlJx-Pza'
+  lat: 40.11652
+  level: 6
+  lon: -88.241845
+  name:  'Mike ''N Molly''s'
 - ap: 3661
   img:  'http://lh3.ggpht.com/ahylfFHnKd7tl8EDQopVPlqhdiJblx_p3TWsELUFACXM_9qS9N8agb-ypr7EOOemNFMUrRGaUQ23LY6F1ssb'
   lat: 40.095094
@@ -198,6 +198,12 @@
   name:  'Weaver Memorial Plaque'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.010913
+  level: '?'
+  lon: -90.382649
+  name:  '1d0f9709e7c749ae89c41688882c62dd.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.106513
   level: '?'
   lon: -88.5585
@@ -210,22 +216,10 @@
   name:  'Sangamon River Forest Preserve'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.010913
-  level: '?'
-  lon: -90.382649
-  name:  '1d0f9709e7c749ae89c41688882c62dd.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.454072
   level: '?'
   lon: -90.330661
   name:  '989fcb6380dd4613820891328bddd442.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.013323
-  level: '?'
-  lon: -90.384371
-  name:  '913fd3c10199419dba943ed7a486d8e9.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.233571
@@ -274,6 +268,12 @@
   level: '?'
   lon: -88.331924
   name:  'd3747863b62e4161b818c8b5e75c79fc.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.013323
+  level: '?'
+  lon: -90.384371
+  name:  '913fd3c10199419dba943ed7a486d8e9.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 39.040935
