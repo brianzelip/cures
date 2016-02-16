@@ -46,12 +46,6 @@
   level: 5
   lon: -88.231968
   name:  'Potbelly Mural'
-- ap: 6285
-  img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
-  lat: 40.107629
-  level: 6
-  lon: -88.224484
-  name:  'Bucky Balls'
 - ap: 5161
   img:  'http://lh5.ggpht.com/kElaGOaV9aI8SrnM1D65gx9J0Ky1AKrN9Yo-pXVmDhELt2pee4MwVRiCqCmlqWzUWj5pS33GnEzAiXmiWKsw'
   lat: 40.108111
@@ -76,12 +70,6 @@
   level: 5
   lon: -88.257672
   name:  'Friendship Crossing'
-- ap: 4785
-  img:  'http://lh4.ggpht.com/DTGKMEvXrKSLJVBZP6bN7EF-DMHt5l_x3o-C-Ln0FjrGCQcTdcLNaZDI2_OCwEzuqgh8HyyqJwyQkc4-0H8g'
-  lat: 40.106037
-  level: 5
-  lon: -88.226237
-  name:  'Triplets'
 - ap: 4785
   img:  'http://lh3.ggpht.com/whmQSPmix2tEoKcWwrVrV0H0JzNf1tzyuohI3ykSa-Qx4rUcLTf4686WcnJjygsMY2QPUWhvVVzlmMMHof94'
   lat: 40.105907
@@ -125,23 +113,29 @@
   lon: -88.228614
   name:  '1913 Pillars'
 - ap: 4411
-  img:  'http://lh6.ggpht.com/MzDfG6eMMwVr56zIpVxRJKU2aoUq-95CLeBhoiEQQKzpC2zulq5jFDLv1IK0JcRy5Q0PhRAreZ1p2ElsdnNu'
-  lat: 40.108048
-  level: 6
-  lon: -88.226279
-  name:  'Nuclear Magnetic Resonance II Plaque'
-- ap: 4411
   img:  'http://lh5.ggpht.com/Tn5ARN-X6VTc2q6atZ2WYq3c2g3gbSGXu6_vXf1MDwHfLpdTtnQ-CilBAVGvL6R-SHhq3fJ4WZI-yiJKmIId'
   lat: 40.110398
   level: 6
   lon: -88.235143
   name:  'US Post Office, E Green St, Champaign'
 - ap: 4411
+  img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
+  lat: 40.107629
+  level: 6
+  lon: -88.224484
+  name:  'Bucky Balls'
+- ap: 4411
   img:  'http://lh4.ggpht.com/3_LELG2r-A5s2d-x2dWyz6h7HzfjVR_KZn9AG0vhih9EalQIG43iL6LdKqKNpnGdGwguP9ZfnGF0KMq_KDE'
   lat: 40.105799
   level: 7
   lon: -88.230188
   name:  'Color Glass Windows at the Newman Center'
+- ap: 3848
+  img:  'http://lh3.googleusercontent.com/enpZZ8JRREFPTvYd3jbeUlpS-mmcwKe5fsvoWRPkfMUj6PijyI-5tbR55UItBoNJAFSl9fAAOvXb6BpWCJT4'
+  lat: 40.102495
+  level: 6
+  lon: -88.242132
+  name:  'Nuclear Physics Lab'
 - ap: 3848
   img:  'http://lh6.ggpht.com/3dciax4v-S3OKvaO4a0G1H6yuvp2pnzFQjCsu-OOQlDP45Xh_c19QLwzEh4YixwMVCCk9396VC26HkZpcaDX'
   lat: 40.069362
@@ -160,6 +154,12 @@
   level: 3
   lon: -88.227801
   name:  'Class of 1912 Pillar'
+- ap: 3848
+  img:  'http://lh4.ggpht.com/DTGKMEvXrKSLJVBZP6bN7EF-DMHt5l_x3o-C-Ln0FjrGCQcTdcLNaZDI2_OCwEzuqgh8HyyqJwyQkc4-0H8g'
+  lat: 40.106037
+  level: 5
+  lon: -88.226237
+  name:  'Triplets'
 - ap: 3661
   img:  'http://lh6.ggpht.com/duOeXcOSQLWosdD0JJXg3pWWQp4t5sL0x9qDHoTIBFNOzEW0t53Lt2cnwgV2E_Su0l1ajIQxPtVbbK_sDRaS'
   lat: 40.141775
@@ -172,6 +172,18 @@
   level: 6
   lon: -88.241422
   name:  'It''s A Mistree'
+- ap: 3661
+  img:  'http://lh5.ggpht.com/NUOCD82iNRGW1NGqEC4FKet1u5_cm4WRNc2c9_YABAjGf6-OSCLz7HgYkP1ZuVAbpMl6Qi10HRW16Oc9jNM2'
+  lat: 40.106401
+  level: 5
+  lon: -88.236182
+  name:  'Washington Park'
+- ap: 3661
+  img:  'http://lh3.ggpht.com/AD9d7JPmLdYRdpxESO9iORy1GRXAcN1jzn8dDNvm6FO7cIHVsjwAKI8LmbW4dico1Xe9jzJfsZZriP0CxXA46w'
+  lat: 40.104084
+  level: 5
+  lon: -88.241616
+  name:  'Honorary Memorial Steam Ventilation Pipe'
 - ap: 3661
   img:  'http://lh5.ggpht.com/-fll1h_4LwvAASQFuSFCPXineRQ-GTGggs2P9L5-qR50oQ1wGjy6dzP_D3SGA7esReq2lemp9JsZqg6uDO8P'
   lat: 40.071293
@@ -245,11 +257,11 @@
   lon: -88.242747
   name:  'Sidewalk Art'
 - ap: 3474
-  img:  'http://lh6.ggpht.com/c2I39IJvSBKmCLonmhP_RN1vLEpYY1recBXFm8xpGHxES4bAN2kvAcda8ZzvT75uq0yWQCv7N_dzP6ce5-Tu'
-  lat: 40.108043
+  img:  'http://lh5.ggpht.com/pnMcOl0FAs-A861T6mvs4EQGCm08ZQGxUcMdclhxsgyUThD6KymilbixZqTcT464ZFRUnjMoFee37DuNXxcm'
+  lat: 40.10719
   level: 6
-  lon: -88.22469
-  name:  'Building of Molecular and Cellular Biology Sculpture'
+  lon: -88.226585
+  name:  'College of Agriculture'
 - ap: 3474
   img:  'http://lh6.ggpht.com/yE7aPklOUj6Y4vlNLUrqm7uJbj0TAVjhl_vSEgy7CHGlkTo5yyJGeTCUnRsHYe2UAZq2h_Y3AD_m3y3i2B8'
   lat: 40.106876
@@ -268,12 +280,6 @@
   level: 7
   lon: -88.230209
   name:  'Mural on South Sixth Street'
-- ap: 3474
-  img:  'http://lh5.ggpht.com/pnMcOl0FAs-A861T6mvs4EQGCm08ZQGxUcMdclhxsgyUThD6KymilbixZqTcT464ZFRUnjMoFee37DuNXxcm'
-  lat: 40.10719
-  level: 6
-  lon: -88.226585
-  name:  'College of Agriculture'
 - ap: 2911
   img:  'http://lh3.googleusercontent.com/zcTaX3OHcGZu7CzBV1HvsKtB5RiAW7oMwxS_7phps0tjr70eNr8xbxrJ_P6agi_uXJtMNdHPnks9rZcrR6mG'
   lat: 40.127267
@@ -299,12 +305,6 @@
   lon: -88.252345
   name:  'Toalson Park Basketball Hoop'
 - ap: 2724
-  img:  'http://lh5.ggpht.com/NUOCD82iNRGW1NGqEC4FKet1u5_cm4WRNc2c9_YABAjGf6-OSCLz7HgYkP1ZuVAbpMl6Qi10HRW16Oc9jNM2'
-  lat: 40.106401
-  level: 5
-  lon: -88.236182
-  name:  'Washington Park'
-- ap: 2724
   img:  'http://lh6.ggpht.com/legLi0XmRjPurKft7y0doBF3_QTcQw48-2M6U6keO-igsaBwV7K7VsreZS75n5PFh4bAPNJhEMohwHvtJwOw'
   lat: 40.11277
   level: 5
@@ -328,12 +328,6 @@
   level: 4
   lon: -88.212586
   name:  'Yoga Institute Of C-U'
-- ap: 2724
-  img:  'http://lh3.ggpht.com/K5qZj-uO-zpcijGhj0zvMY32JVIupEaJXb2Q3V5NfXp4U-m0R9s-VuvATprE-DzGSfGEFEv3dmELuHHIKmDB'
-  lat: 40.111623
-  level: 5
-  lon: -88.211451
-  name:  'Saint Nicholas Antiochian Orthodox Church'
 - ap: 2724
   img:  'http://lh6.ggpht.com/JeyTR9Ntp2SxIdvTxHGqu5zXzMo7stGncs5TYYFLlRf0WEb6U4dc4EOvDZ1szjub_UqgSO_HgZ7tUKs9PUAkEQ'
   lat: 40.109634
@@ -461,23 +455,11 @@
   lon: -88.243367
   name:  'Bannon Mini Park'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/AD9d7JPmLdYRdpxESO9iORy1GRXAcN1jzn8dDNvm6FO7cIHVsjwAKI8LmbW4dico1Xe9jzJfsZZriP0CxXA46w'
-  lat: 40.104084
-  level: 5
-  lon: -88.241616
-  name:  'Honorary Memorial Steam Ventilation Pipe'
-- ap: 2537
   img:  'http://lh6.ggpht.com/uaO1clC1eOzxRVRPPU6mVM4lEPV2U6uxh64a8kJNRglHSObClWlHGEcfJTknzwB_7Wli3doxQJbZKiBHIXI'
   lat: 40.102834
   level: 6
   lon: -88.241672
   name:  'Rehabilitation Education Center'
-- ap: 2537
-  img:  'http://lh3.googleusercontent.com/enpZZ8JRREFPTvYd3jbeUlpS-mmcwKe5fsvoWRPkfMUj6PijyI-5tbR55UItBoNJAFSl9fAAOvXb6BpWCJT4'
-  lat: 40.102495
-  level: 6
-  lon: -88.242132
-  name:  'Nuclear Physics Lab'
 - ap: 2537
   img:  'http://lh4.ggpht.com/HMXgPSuj_Qc06z-u_ElF6pgeWVoxqEAZoT0woVULj2jB8M-G8a4In71YBTnsPrCaJTLx0DFoqB8lQ2847L9M'
   lat: 40.112187
@@ -503,23 +485,17 @@
   lon: -88.23549
   name:  'Red Lion'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/mtgiI5TKcuExETpmdSqIFabkYgVZTaXXLJnaIyzxeHPIunWoj_Fj8BqqwZG4nVQwSnngv15YxD-c_m9CHkr3'
-  lat: 40.111202
-  level: 5
-  lon: -88.226447
-  name:  'Boneyard Creek Memorial Streamflow Gaging Station'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/vlKOFCgVZb_8XoZHDdzD2X9Xsejb8QVVqEM5U4YfgnKJbQIIHHSK2hSpgycF7vqRkGKRYYnbjVTyKS8dsHF3ChRyF01faLh907jhNd__xiEkGTWx'
-  lat: 40.111225
-  level: 4
-  lon: -88.226537
-  name:  'Fire College Plaque'
-- ap: 2537
   img:  'http://lh5.ggpht.com/jQxBvX2jWXZCQP5ap9HmKaDDgG40pdH5nPpBNcYppZdxce6GWdxMRTYyqKrLxnk_TsmMAd7G6gRwJ6YI7S-v'
   lat: 40.107574
   level: 5
   lon: -88.227843
   name:  'Iconic Pillars'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/K5qZj-uO-zpcijGhj0zvMY32JVIupEaJXb2Q3V5NfXp4U-m0R9s-VuvATprE-DzGSfGEFEv3dmELuHHIKmDB'
+  lat: 40.111623
+  level: 5
+  lon: -88.211451
+  name:  'Saint Nicholas Antiochian Orthodox Church'
 - ap: 2537
   img:  'http://lh6.ggpht.com/LlpW022wV7lzYKZ3vPdegSJ5yfDa992j4CfqoWqSCvuvGoH_oQgMdheMd5Ug4DZabZO-WsZ8FO_bbsKKFp4'
   lat: 40.100992
@@ -527,23 +503,17 @@
   lon: -88.200602
   name:  'Pennsylvania Avenue Baptist Church'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/KnNYiTjbSfT8lzl-5r3OkJW1ptOP-d5JkDibk9pg1eydNzpy_IgdiC-kCRNUSoBP9nFsblvWr7t9IC4qMU0'
-  lat: 40.109369
-  level: 5
-  lon: -88.206018
-  name:  'Urbana Market Square'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/gzRmKQixkcp4cu1yDSKAOq_7_ipKvFWUCHT7BfpjE6VSSAq7Q08JJGg_jt4FCMWU3ie65fwweNlj4n6dg1aQIA'
-  lat: 40.111419
-  level: 5
-  lon: -88.209885
-  name:  'Megan''s Garden'
-- ap: 2537
   img:  'http://lh6.ggpht.com/PXNfY-rn4cS8Fcr7CkJnEI5-vb_hCYxTX_9VV9jNB78yHB-EjmmsP8_EiqK-icwqTxu2iRtDoSbBRCLanerX'
   lat: 40.110685
   level: 5
   lon: -88.206243
   name:  'Lincoln Square Fountain'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/KnNYiTjbSfT8lzl-5r3OkJW1ptOP-d5JkDibk9pg1eydNzpy_IgdiC-kCRNUSoBP9nFsblvWr7t9IC4qMU0'
+  lat: 40.109369
+  level: 5
+  lon: -88.206018
+  name:  'Urbana Market Square'
 - ap: 2537
   img:  'http://lh3.ggpht.com/PT4NTR04lFCXxqN8xnrhEQppaXrkIbW4n-WkUVikx4zfcqksHUun6eOqFNMG6c0UA_X97iSLI4EJTN5aHkf-aE-PnsYLjAgXkSjZEtL8BvQtGyg'
   lat: 40.112752
