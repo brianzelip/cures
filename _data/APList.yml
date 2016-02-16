@@ -1,21 +1,15 @@
-- ap: 10220
-  img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
-  lat: 40.107753
-  level: 7
-  lon: -88.228913
-  name:  'Zipcar-Wright Street & Daniel Street'
 - ap: 9096
   img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
   lat: 40.108066
   level: 7
   lon: -88.230687
   name:  'Community United Church of Christ'
-- ap: 7409
-  img:  'http://lh6.ggpht.com/cYQLNtCsiRGXd_y7-ZdI4jGlNRpC4oiy2Z7UT7etDH3FBvBRQDtOW_rY0NBvKLJMnTw_EXH75NDGMcI6UkeV'
-  lat: 40.105618
-  level: 6
-  lon: -88.229005
-  name:  'The Chapel of St. John the Divine'
+- ap: 8533
+  img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
+  lat: 40.107753
+  level: 7
+  lon: -88.228913
+  name:  'Zipcar-Wright Street & Daniel Street'
 - ap: 7222
   img:  'http://lh6.ggpht.com/yYW6Egg1lWn6UqqLzlgqwCQhtbuxiZSW4TmvI1XBPs33OTTJ0oh51XZXOIILxGI2juoO-E_YfG5UHmeb34rSOw'
   lat: 40.109165
@@ -28,18 +22,6 @@
   level: 6
   lon: -88.231532
   name:  'Graduate School of Library and Information Science'
-- ap: 6659
-  img:  'http://lh4.ggpht.com/0j8eeTKJgjnYhHpf4qH_70CZHLbujC5v-XP_ndcqh1xIR-5V2K_CGdjIe1ZfMbwvSyISxxYKoZynw1DaQcj8'
-  lat: 40.105874
-  level: 6
-  lon: -88.230562
-  name:  'St. John''s Rectory'
-- ap: 6472
-  img:  'http://lh5.ggpht.com/1fPvqpqXG5PDCkmegoWb9Tv9N5_MZh9XjmZpbyNEs5yPDsCscbrPB1cO_Pf8GT35HYrTF01FZ6s5VPIpjJ_20A'
-  lat: 40.107098
-  level: 7
-  lon: -88.228984
-  name:  'Saint Andrew''s Church'
 - ap: 6285
   img:  'http://lh4.ggpht.com/PmGpygZ2fBs43twk2Y44XZbgGcHWv0YimAq7Fp3vlIRRqUyLpSmDmFwcn1ucfmJarcQrAAXJjYAXAhNyxSrz'
   lat: 40.110049
@@ -52,12 +34,6 @@
   level: 7
   lon: -88.229625
   name:  'Illini Sports Mural'
-- ap: 5161
-  img:  'http://lh4.ggpht.com/lQtf71rwzXt5zHafbKPm8Czz3n2KwBWlEaNUh3-2JKrXTDueZ_JerHOPeSecqLaxLBWC09dTlPizrDMTafpT'
-  lat: 40.105618
-  level: 6
-  lon: -88.230986
-  name:  'Alpha Phi Sorority'
 - ap: 4785
   img:  'http://lh4.ggpht.com/F7jj0kd2tkXim3R2wPyhORp-2VKX925Q5s8CaHelAZMt9Kt5Yt63lVcgtb_6uXc0lcA29fL75LcZcdVsdtB4'
   lat: 40.062374
@@ -70,6 +46,18 @@
   level: 5
   lon: -88.257672
   name:  'Friendship Crossing'
+- ap: 4785
+  img:  'http://lh4.ggpht.com/0j8eeTKJgjnYhHpf4qH_70CZHLbujC5v-XP_ndcqh1xIR-5V2K_CGdjIe1ZfMbwvSyISxxYKoZynw1DaQcj8'
+  lat: 40.105874
+  level: 6
+  lon: -88.230562
+  name:  'St. John''s Rectory'
+- ap: 4785
+  img:  'http://lh5.ggpht.com/1fPvqpqXG5PDCkmegoWb9Tv9N5_MZh9XjmZpbyNEs5yPDsCscbrPB1cO_Pf8GT35HYrTF01FZ6s5VPIpjJ_20A'
+  lat: 40.107098
+  level: 7
+  lon: -88.228984
+  name:  'Saint Andrew''s Church'
 - ap: 4785
   img:  'http://lh3.ggpht.com/whmQSPmix2tEoKcWwrVrV0H0JzNf1tzyuohI3ykSa-Qx4rUcLTf4686WcnJjygsMY2QPUWhvVVzlmMMHof94'
   lat: 40.105907
@@ -107,12 +95,6 @@
   lon: -88.241661
   name:  'Zipcar-45 E. University Avenue'
 - ap: 4411
-  img:  'http://lh3.ggpht.com/u-v3itkeM0VuM3kSQsa0wO5TAPiR3fou2d-_1ukh5ZZQlHVDJyJ6vyb3Q3ONlRDfvaHf2Nw-aWwerNtqz3rH'
-  lat: 40.106197
-  level: 6
-  lon: -88.228614
-  name:  '1913 Pillars'
-- ap: 4411
   img:  'http://lh5.ggpht.com/Tn5ARN-X6VTc2q6atZ2WYq3c2g3gbSGXu6_vXf1MDwHfLpdTtnQ-CilBAVGvL6R-SHhq3fJ4WZI-yiJKmIId'
   lat: 40.110398
   level: 6
@@ -124,12 +106,6 @@
   level: 6
   lon: -88.224484
   name:  'Bucky Balls'
-- ap: 4411
-  img:  'http://lh4.ggpht.com/3_LELG2r-A5s2d-x2dWyz6h7HzfjVR_KZn9AG0vhih9EalQIG43iL6LdKqKNpnGdGwguP9ZfnGF0KMq_KDE'
-  lat: 40.105799
-  level: 7
-  lon: -88.230188
-  name:  'Color Glass Windows at the Newman Center'
 - ap: 3848
   img:  'http://lh3.googleusercontent.com/enpZZ8JRREFPTvYd3jbeUlpS-mmcwKe5fsvoWRPkfMUj6PijyI-5tbR55UItBoNJAFSl9fAAOvXb6BpWCJT4'
   lat: 40.102495
@@ -268,6 +244,12 @@
   level: 6
   lon: -88.228565
   name:  'Lincoln Hall Sigil'
+- ap: 3324
+  img:  'http://lh3.ggpht.com/u-v3itkeM0VuM3kSQsa0wO5TAPiR3fou2d-_1ukh5ZZQlHVDJyJ6vyb3Q3ONlRDfvaHf2Nw-aWwerNtqz3rH'
+  lat: 40.106197
+  level: 4
+  lon: -88.228614
+  name:  '1913 Pillars'
 - ap: 3474
   img:  'http://lh3.googleusercontent.com/ZEt3dzGoBmn_BW1MwPTE7MY4Jcoj66UkwEA7wA7H40hbb-SwJheC1V67Dh89eAbpG6H_SeWDV3E0X5lRAkQ'
   lat: 40.111342
@@ -280,6 +262,18 @@
   level: 7
   lon: -88.230209
   name:  'Mural on South Sixth Street'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/3_LELG2r-A5s2d-x2dWyz6h7HzfjVR_KZn9AG0vhih9EalQIG43iL6LdKqKNpnGdGwguP9ZfnGF0KMq_KDE'
+  lat: 40.105799
+  level: 7
+  lon: -88.230188
+  name:  'Color Glass Windows at the Newman Center'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/lQtf71rwzXt5zHafbKPm8Czz3n2KwBWlEaNUh3-2JKrXTDueZ_JerHOPeSecqLaxLBWC09dTlPizrDMTafpT'
+  lat: 40.105618
+  level: 6
+  lon: -88.230986
+  name:  'Alpha Phi Sorority'
 - ap: 2911
   img:  'http://lh3.googleusercontent.com/zcTaX3OHcGZu7CzBV1HvsKtB5RiAW7oMwxS_7phps0tjr70eNr8xbxrJ_P6agi_uXJtMNdHPnks9rZcrR6mG'
   lat: 40.127267
@@ -502,18 +496,6 @@
   level: 5
   lon: -88.206018
   name:  'Urbana Market Square'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/PT4NTR04lFCXxqN8xnrhEQppaXrkIbW4n-WkUVikx4zfcqksHUun6eOqFNMG6c0UA_X97iSLI4EJTN5aHkf-aE-PnsYLjAgXkSjZEtL8BvQtGyg'
-  lat: 40.112752
-  level: 5
-  lon: -88.196586
-  name:  'Victory Park'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/9nRBPBevoSH63TqH_TIguV2jgvD-cPd6EMEg6i9iTDzR_ciJpmWoK-FK3WDc0M9qnBhPQjn7uZEMwAT9icqY'
-  lat: 40.112227
-  level: 5
-  lon: -88.196705
-  name:  'Victory Park Neighborhood Gardens'
 - ap: 2537
   img:  'http://lh3.ggpht.com/ZrkQ9I09rQynLgNHgTWMc8sm29XEvwj5QcSQhhgTtN7hDh1pSZHSTI63mz6wWj1jkhlz1qYkKyHD0SJWPNMY'
   lat: 40.094863
