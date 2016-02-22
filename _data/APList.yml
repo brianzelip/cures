@@ -28,18 +28,18 @@
   level: 3
   lon: -88.243745
   name:  'Circle of Friends'
-- ap: 9094
-  img:  'http://lh5.ggpht.com/llyW63Gnxl-lT-L_MhXsl4mdbmv29RvYTWcLt1R7JxibVPORq5Wd_UHIdT-vQ0XaUqZVQiN2mXkV4KJpp5sm'
-  lat: 40.1159
-  level: 7
-  lon: -88.238508
-  name:  'Dallas & Co: Costumes and Magic'
 - ap: 8909
   img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
   lat: 40.115838
   level: 6
   lon: -88.241338
   name:  'Illinois Terminal'
+- ap: 8907
+  img:  'http://lh5.ggpht.com/llyW63Gnxl-lT-L_MhXsl4mdbmv29RvYTWcLt1R7JxibVPORq5Wd_UHIdT-vQ0XaUqZVQiN2mXkV4KJpp5sm'
+  lat: 40.1159
+  level: 7
+  lon: -88.238508
+  name:  'Dallas & Co: Costumes and Magic'
 - ap: 8720
   img:  'http://lh4.ggpht.com/N-xxTzGXK34K-VdTOWaWrFJeP9_SLZ7ZBluxK2mjP51yZx_5HOMi_mb4Nu2rWgo3gOqUb19_cPb662sI7td_'
   lat: 40.105687
@@ -58,18 +58,12 @@
   level: 6
   lon: -88.219746
   name:  'Family Video'
-- ap: 7409
+- ap: 7596
   img:  'http://lh6.ggpht.com/MzDfG6eMMwVr56zIpVxRJKU2aoUq-95CLeBhoiEQQKzpC2zulq5jFDLv1IK0JcRy5Q0PhRAreZ1p2ElsdnNu'
   lat: 40.108048
   level: 7
   lon: -88.226279
   name:  'Nuclear Magnetic Resonance II Plaque'
-- ap: 6846
-  img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
-  lat: 40.106921
-  level: 7
-  lon: -88.230145
-  name:  'University Lutheran Church'
 - ap: 6846
   img:  'http://lh4.ggpht.com/x_fyYrN-YfUnpF38UMPMPIyK1ThV0rTPAz-5LMZToKmKVkfKUeOv6ZWafmef3MKmOBO59QDQUmr_CoCWsa4'
   lat: 40.121714
@@ -137,17 +131,17 @@
   lon: -88.219635
   name:  'King Park 1967'
 - ap: 5722
-  img:  'http://lh6.ggpht.com/PXc3YHSOsx0c_WrfpzvHHiHEl1FSv5RvbgXj7Ji3-xS7oBwJIkFCD8eQySiUega_iQvX8FiUBuDhXdK9l9QWIA'
-  lat: 40.116623
-  level: 6
-  lon: -88.240844
-  name:  'R. Forrest Colwell Memorial'
-- ap: 5722
   img:  'http://lh6.ggpht.com/yYW6Egg1lWn6UqqLzlgqwCQhtbuxiZSW4TmvI1XBPs33OTTJ0oh51XZXOIILxGI2juoO-E_YfG5UHmeb34rSOw'
   lat: 40.109165
   level: 6
   lon: -88.230269
   name:  'John Street Plaque'
+- ap: 5722
+  img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
+  lat: 40.106921
+  level: 8
+  lon: -88.230145
+  name:  'University Lutheran Church'
 - ap: 5535
   img:  'http://lh5.ggpht.com/KuDVZqnpBQnne0a_UqpN4wpsQFlw3nVXAWtRKP_AdZ3CjQ0MHUBgU_2hE8hb71h31FTQbduYmB6DNuVKA0s'
   lat: 40.116822
@@ -160,6 +154,12 @@
   level: 6
   lon: -88.241752
   name:  'WEFT 90.1 FM Community Radio'
+- ap: 5535
+  img:  'http://lh6.ggpht.com/PXc3YHSOsx0c_WrfpzvHHiHEl1FSv5RvbgXj7Ji3-xS7oBwJIkFCD8eQySiUega_iQvX8FiUBuDhXdK9l9QWIA'
+  lat: 40.116623
+  level: 6
+  lon: -88.240844
+  name:  'R. Forrest Colwell Memorial'
 - ap: 5535
   img:  'http://lh5.ggpht.com/Lup2et0i5h8oHqtBffIdoyX5uclC2MBn9ZnnKnYPr4RIFSflf9bi78zBHK7QqycA0qgEev9qOk0zU-1o1hg'
   lat: 40.108451
@@ -226,12 +226,6 @@
   level: 1
   lon: -88.221449
   name:  'King Park Pavilion'
-- ap: 4972
-  img:  'http://lh3.ggpht.com/2bCNiD7SWsS3uzFLMO2cZh-LpHUEMQGnfTmcNx5vJapXho2TuXke630-7zop2Sq4fuY8nWVqy4VCG23mvnIJ'
-  lat: 40.104168
-  level: 7
-  lon: -88.238808
-  name:  'Alpha Gamma Rho'
 - ap: 4785
   img:  'http://lh3.ggpht.com/07XrBN-er6Ecleor0n9RJ4DfGO6B2yn-ZxjI-Uy8Ba46Jtb6cXNVmATPiPiGyk-1jZ4wxa7-EeIWbWUqArCG'
   lat: 40.142554
@@ -256,12 +250,6 @@
   level: 3
   lon: -88.243748
   name:  'Days of Venus'
-- ap: 4598
-  img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
-  lat: 40.106706
-  level: 7
-  lon: -88.232116
-  name:  'Illini Tower'
 - ap: 4598
   img:  'http://lh6.ggpht.com/PiB8PRAHD8uaXl3NbmvOjNpjcWXEode4Q28Nm3_K-PEvYC0AQBRSmkYqtPwh5WEOESVXuy9kCB1hZVsMqVcb'
   lat: 40.119946
@@ -347,12 +335,6 @@
   lon: -88.238675
   name:  'Emerald City Lounge'
 - ap: 3848
-  img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
-  lat: 40.097979
-  level: 5
-  lon: -88.247785
-  name:  'Jarling''s Custard Cup'
-- ap: 3848
   img:  'http://lh3.ggpht.com/OwtLBhgC6DoVKIQig8B4LZitIgWrx8rj8ejtnl3FyU2bAwcsRbcardVZSCLCP7U9es_sHo_Ee-iwR_mxOt_V'
   lat: 40.121852
   level: 1
@@ -385,7 +367,7 @@
 - ap: 3661
   img:  'http://lh3.googleusercontent.com/3nkY0B9PDqzlWJ_EKh5GnTZ8z0U6X9-2dI5dapKA5Q3F4iKrE99AJZoy6NSvh2nU1WTG2hL70276yJjJ0G8'
   lat: 40.141598
-  level: 5
+  level: 6
   lon: -88.238817
   name:  'Red Shield Center'
 - ap: 3661
@@ -407,23 +389,17 @@
   lon: -88.238392
   name:  'Mexico Mural'
 - ap: 3661
-  img:  'http://lh3.googleusercontent.com/enpZZ8JRREFPTvYd3jbeUlpS-mmcwKe5fsvoWRPkfMUj6PijyI-5tbR55UItBoNJAFSl9fAAOvXb6BpWCJT4'
-  lat: 40.102495
-  level: 7
-  lon: -88.242132
-  name:  'Nuclear Physics Lab'
-- ap: 3436
-  img:  'http://lh4.ggpht.com/maBwz4G9LJZ5aVuX_WF1Z73xSbqoFsm3l6oyrNQ16LkJMvaEbFa-amdfCpKDVDe7NzjReNu8IGnn7BAI8yef'
-  lat: 40.103534
-  level: 4
-  lon: -88.243478
-  name:  'McCollum Park'
-- ap: 3661
   img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
   lat: 40.098239
   level: 6
   lon: -88.25376
   name:  'Hessel Park Christian Reformed Church'
+- ap: 3661
+  img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
+  lat: 40.097979
+  level: 5
+  lon: -88.247785
+  name:  'Jarling''s Custard Cup'
 - ap: 3661
   img:  'http://lh5.ggpht.com/EoSf8hHJu8u_sZNBmm3S1GHAWAxUzBsmXEWMMBkHb0fpzxtjz5RHwnclV42-DDwyDr2BION1zqJ4sLIkaiw'
   lat: 40.121818
@@ -484,6 +460,12 @@
   level: 6
   lon: -88.244122
   name:  'Artistic Graffiti at MCS'
+- ap: 3474
+  img:  'http://lh3.googleusercontent.com/M1BXbCtfOfi1ipACxyQaE2jCbcLCxQTsJVIUli8GgprQaS2WmnVuSsqMoFaWub8LM6VF7KK4wSH9SSGdrXM'
+  lat: 40.117287
+  level: 5
+  lon: -88.242984
+  name:  'Mural for the Blind Pig Brewery'
 - ap: 3174
   img:  'http://lh5.ggpht.com/BPYtoLzDqibtj79fwGYxizNqHsBoJp5OzVO4Z-75rudKppazgw7D0eoXHOpH20iQd2Uc9MHXs72-r7fOJDNzpz3KRHIpZwzmXBope3LI8GA4SfsY'
   lat: 40.117754
@@ -502,12 +484,6 @@
   level: 5
   lon: -88.243433
   name:  'Christ Community Church'
-- ap: 3474
-  img:  'http://lh3.googleusercontent.com/M1BXbCtfOfi1ipACxyQaE2jCbcLCxQTsJVIUli8GgprQaS2WmnVuSsqMoFaWub8LM6VF7KK4wSH9SSGdrXM'
-  lat: 40.117287
-  level: 5
-  lon: -88.242984
-  name:  'Mural for the Blind Pig Brewery'
 - ap: 3474
   img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
   lat: 40.098246
@@ -532,6 +508,12 @@
   level: 6
   lon: -88.228156
   name:  'Creation of Research Library Plaque'
+- ap: 3474
+  img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
+  lat: 40.106706
+  level: 7
+  lon: -88.232116
+  name:  'Illini Tower'
 - ap: 2911
   img: http://i.imgur.com/5j1qaiT.png
   lat: 39.793243
@@ -575,6 +557,12 @@
   lon: -88.252345
   name:  'Toalson Park Basketball Hoop'
 - ap: 2724
+  img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
+  lat: 40.117976
+  level: 7
+  lon: -88.245082
+  name:  'Robeson Building '
+- ap: 2724
   img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
   lat: 40.101062
   level: 5
@@ -592,48 +580,18 @@
   level: 2
   lon: -88.226388
   name:  'Illinois State Water Survey Plaque'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.050441
-  level: '?'
-  lon: -88.56847
-  name:  '985b9a8077bf43bf9e9757857a510243.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.106513
-  level: '?'
-  lon: -88.5585
-  name:  'Lodge Christian Church'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.612535
-  level: '?'
-  lon: -87.69336
-  name:  'b8531f6668b0449c8d92d1b9c19d2aae.12'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.234223
-  level: '?'
-  lon: -90.332861
-  name:  'd3b32d87c3a6483ba43a88907da410cf.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.425863
-  level: '?'
-  lon: -89.779365
-  name:  '8d1ecd0d235f41d281f4597d3354c74c.12'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.879006
-  level: '?'
-  lon: -89.678385
-  name:  'dfd505725e8e416399c71659c1a0c3ed.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.402834
-  level: '?'
-  lon: -89.907733
-  name:  '3bb8a4d598d34aca9722747cff4019d8.12'
+- ap: 2724
+  img:  'http://lh4.ggpht.com/p1kbhH-3K08NNqTt_6-223uI0PurGUV2HeAWGYPRx3OnNYMY-kARoW1zZ2pZBHthAYRZbIgf6ioRawHi0BmUx786y5ffm0kmZsskaOiluDUhSIiI'
+  lat: 40.106173
+  level: 6
+  lon: -88.22719
+  name:  'Foellinger Auditorium'
+- ap: 2724
+  img:  'http://lh6.ggpht.com/T15jgBwdGgKfY5ZEkmL6_eEeGWALRclzodBAIpqOXMAO4sP9g1Mt8CwDQCh5tDr_sZan-95c8YRI6F-W63_-'
+  lat: 40.105692
+  level: 6
+  lon: -88.227097
+  name:  'A Son of Deucalion'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 39.941083
@@ -648,16 +606,58 @@
   name:  '7268d4cdcf554b3ea4dc1e92bab021c4.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.106513
+  level: '?'
+  lon: -88.5585
+  name:  'Lodge Christian Church'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.612535
+  level: '?'
+  lon: -87.69336
+  name:  'b8531f6668b0449c8d92d1b9c19d2aae.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.049305
   level: '?'
   lon: -88.572718
   name:  'f4149826d3724504a438cc75a5179d71.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.050441
+  level: '?'
+  lon: -88.56847
+  name:  '985b9a8077bf43bf9e9757857a510243.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.234223
+  level: '?'
+  lon: -90.332861
+  name:  'd3b32d87c3a6483ba43a88907da410cf.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.425863
+  level: '?'
+  lon: -89.779365
+  name:  '8d1ecd0d235f41d281f4597d3354c74c.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.054116
   level: '?'
   lon: -88.559883
   name:  '2046c1b467af43c69e75eed0b046551b.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.879006
+  level: '?'
+  lon: -89.678385
+  name:  'dfd505725e8e416399c71659c1a0c3ed.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.402834
+  level: '?'
+  lon: -89.907733
+  name:  '3bb8a4d598d34aca9722747cff4019d8.12'
 - ap: 2537
   img:  'http://lh5.ggpht.com/QruW49d2dc1uhQlK1BaZIeo6ruDNkqQfmvZz83eQ-1aC9ytGUcpFaHnKRTnXRc70F2EZ0-pVKGr9Slo0_9RfxA'
   lat: 40.139749
@@ -689,6 +689,12 @@
   lon: -88.243702
   name:  'Cycles of Love'
 - ap: 2537
+  img:  'http://lh3.ggpht.com/0IkSOblVdAgYOJ2Bk2QqvqWjdstWNQgp7g9oSz1Sq70jG6cLusjwYW76irF9h-c7cafatMcyGsjw85xwYgPQyw'
+  lat: 40.118353
+  level: 5
+  lon: -88.246658
+  name:  'First United Methodist Church'
+- ap: 2537
   img:  'http://lh5.ggpht.com/nirQKdy3s9r8TSV7cB7_B0l-0EsFXBkg1aitH05R0ttPhOEewGxlq1GRnlDvYFT2V8Z91hWnB9YD3WjxBvyZ'
   lat: 40.11868
   level: 6
@@ -701,6 +707,12 @@
   lon: -88.243643
   name:  'Tesla Ball'
 - ap: 2537
+  img:  'http://lh4.ggpht.com/PfcTU4XsA06ThtmCWydIWhTsN3gR4jrqnrKxu0O5lhyibhRdKMEaf3jM8VNhViF8qLf13b01E71wr_ajxn0'
+  lat: 40.118465
+  level: 5
+  lon: -88.245077
+  name:  'Mural at Nitaya'
+- ap: 2537
   img:  'http://lh4.ggpht.com/0JuC7vEVtmbgkx1FUhaTylcKfKuYoGNdW2P5GNZzGbeOzxEH0Q-9gP9gmmBzx2bkLNA0dnw9FiEJYiHjWXM'
   lat: 40.121329
   level: 7
@@ -712,12 +724,6 @@
   level: 7
   lon: -88.245318
   name:  'The Old Residential Block'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/uaO1clC1eOzxRVRPPU6mVM4lEPV2U6uxh64a8kJNRglHSObClWlHGEcfJTknzwB_7Wli3doxQJbZKiBHIXI'
-  lat: 40.102834
-  level: 6
-  lon: -88.241672
-  name:  'Rehabilitation Education Center'
 - ap: 2537
   img:  'http://lh6.ggpht.com/DPmYFBmWaf_8hYO8H8Y1aQLQ6bnStpWMkvOlq0Ge7AQEaBH5HpB8NUqD0dL0H2oki1yWhRoFC2aDerp9-t_c'
   lat: 40.114514
@@ -766,12 +772,6 @@
   level: 4
   lon: -88.227679
   name:  'Lincoln Scholarship Plaque'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/T15jgBwdGgKfY5ZEkmL6_eEeGWALRclzodBAIpqOXMAO4sP9g1Mt8CwDQCh5tDr_sZan-95c8YRI6F-W63_-'
-  lat: 40.105692
-  level: 6
-  lon: -88.227097
-  name:  'A Son of Deucalion'
 - ap: 2537
   img:  'http://lh5.ggpht.com/dgQfoxxVeHT5ODqLiUYHV45qvkC_BMS0kIFRqvHvE2GO0TduZ0-XzhW8RE80LtPDK0Ay5xwA6PtjM7G3C9U8'
   lat: 40.108947
