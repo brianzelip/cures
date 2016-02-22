@@ -221,17 +221,17 @@
   lon: -88.226237
   name:  'Triplets'
 - ap: 4411
-  img:  'http://lh3.ggpht.com/g1H1SJintXK5Zb7ng6DN7wix1q5otnzMK5JCJDnecwuIiohJmhXLJs1XzItxaTSYEuPPOqd4x-dGqd0WK5YU'
-  lat: 40.13349
-  level: 4
-  lon: -88.313072
-  name:  'Sunset Skate Park'
-- ap: 4411
   img:  'http://lh5.ggpht.com/6W_b3aoHNnxViA4TkycmE5hhV5q_VHfypLNlgG4sAyw2eJ5Meyzi2-vwTA8miyKA5pZApxbfpAa7uc0zlCM'
   lat: 40.134758
   level: 6
   lon: -88.313172
   name:  'Sunset Ridge Prairie '
+- ap: 4411
+  img:  'http://lh3.ggpht.com/g1H1SJintXK5Zb7ng6DN7wix1q5otnzMK5JCJDnecwuIiohJmhXLJs1XzItxaTSYEuPPOqd4x-dGqd0WK5YU'
+  lat: 40.13349
+  level: 4
+  lon: -88.313072
+  name:  'Sunset Skate Park'
 - ap: 4411
   img:  'http://lh5.ggpht.com/ek0AuIkZd5CWKmIdjFjq5gOvptOzC8VJUnyatNG8ZyUoT8-mvkd4seW8Gpbl4kkgiatIbr57h5kK_5z6NSGD'
   lat: 40.131581
@@ -394,12 +394,6 @@
   level: 6
   lon: -88.244122
   name:  'Artistic Graffiti at MCS'
-- ap: 3324
-  img:  'http://lh5.ggpht.com/KuDVZqnpBQnne0a_UqpN4wpsQFlw3nVXAWtRKP_AdZ3CjQ0MHUBgU_2hE8hb71h31FTQbduYmB6DNuVKA0s'
-  lat: 40.116822
-  level: 3
-  lon: -88.243445
-  name:  'Remembering Horeb'
 - ap: 3174
   img:  'http://lh3.ggpht.com/GGBe9Hug3fUbRCRAMs_kO1fg2HHQ95ZDBdW0S2tAHakvhQbWxlttanjhGNJJcyVRruUlL7zjQnPGI2bu8Wc4'
   lat: 40.117905
@@ -412,6 +406,12 @@
   level: 5
   lon: -88.242984
   name:  'Mural for the Blind Pig Brewery'
+- ap: 3324
+  img:  'http://lh5.ggpht.com/KuDVZqnpBQnne0a_UqpN4wpsQFlw3nVXAWtRKP_AdZ3CjQ0MHUBgU_2hE8hb71h31FTQbduYmB6DNuVKA0s'
+  lat: 40.116822
+  level: 3
+  lon: -88.243445
+  name:  'Remembering Horeb'
 - ap: 3474
   img:  'http://lh6.ggpht.com/pYay9oPZwUNKfLdWJ1JMI5tA9-Gd0vsBddLTz7fXN6wUW7F23hLMWRwFZNnXyomRkc2f9sqCGMxNWuYHPFZx'
   lat: 40.109142
@@ -516,16 +516,10 @@
   name:  'Foellinger Auditorium'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.941083
+  lat: 40.050441
   level: '?'
-  lon: -88.460102
-  name:  'St Joseph Catholic Church'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.024616
-  level: '?'
-  lon: -88.571179
-  name:  '7268d4cdcf554b3ea4dc1e92bab021c4.16'
+  lon: -88.56847
+  name:  '985b9a8077bf43bf9e9757857a510243.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.106513
@@ -540,34 +534,22 @@
   name:  'b8531f6668b0449c8d92d1b9c19d2aae.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.941083
+  level: '?'
+  lon: -88.460102
+  name:  'St Joseph Catholic Church'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.024616
+  level: '?'
+  lon: -88.571179
+  name:  '7268d4cdcf554b3ea4dc1e92bab021c4.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.049305
   level: '?'
   lon: -88.572718
   name:  'f4149826d3724504a438cc75a5179d71.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.050441
-  level: '?'
-  lon: -88.56847
-  name:  '985b9a8077bf43bf9e9757857a510243.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.234223
-  level: '?'
-  lon: -90.332861
-  name:  'd3b32d87c3a6483ba43a88907da410cf.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.425863
-  level: '?'
-  lon: -89.779365
-  name:  '8d1ecd0d235f41d281f4597d3354c74c.12'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.054116
-  level: '?'
-  lon: -88.559883
-  name:  '2046c1b467af43c69e75eed0b046551b.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.879006
@@ -580,6 +562,24 @@
   level: '?'
   lon: -89.907733
   name:  '3bb8a4d598d34aca9722747cff4019d8.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.054116
+  level: '?'
+  lon: -88.559883
+  name:  '2046c1b467af43c69e75eed0b046551b.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.234223
+  level: '?'
+  lon: -90.332861
+  name:  'd3b32d87c3a6483ba43a88907da410cf.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.425863
+  level: '?'
+  lon: -89.779365
+  name:  '8d1ecd0d235f41d281f4597d3354c74c.12'
 - ap: 2537
   img:  'http://lh5.ggpht.com/QruW49d2dc1uhQlK1BaZIeo6ruDNkqQfmvZz83eQ-1aC9ytGUcpFaHnKRTnXRc70F2EZ0-pVKGr9Slo0_9RfxA'
   lat: 40.139749
@@ -718,18 +718,18 @@
   level: 4
   lon: -88.227571
   name:  'The Ray Bulinski Room'
-- ap: 2462
-  img:  'http://lh3.ggpht.com/KxQsev6i7POmNh1IadCWwWQSMdCuLIYpPwIdenSlVtzum523D1R-1kfeTbuOGTkt_jDwn4jswCu1edkumm2-'
-  lat: 40.110037
-  level: 3
-  lon: -88.23549
-  name:  'Red Lion'
 - ap: 2537
   img:  'http://lh5.ggpht.com/dgQfoxxVeHT5ODqLiUYHV45qvkC_BMS0kIFRqvHvE2GO0TduZ0-XzhW8RE80LtPDK0Ay5xwA6PtjM7G3C9U8'
   lat: 40.108947
   level: 6
   lon: -88.232251
   name:  'McKinley Church'
+- ap: 2462
+  img:  'http://lh3.ggpht.com/KxQsev6i7POmNh1IadCWwWQSMdCuLIYpPwIdenSlVtzum523D1R-1kfeTbuOGTkt_jDwn4jswCu1edkumm2-'
+  lat: 40.110037
+  level: 3
+  lon: -88.23549
+  name:  'Red Lion'
 - ap: 2537
   img:  'http://lh3.ggpht.com/LR76HrJqriPFUoc2XSs7jb2SotnStZv20kI7rgUx8B5HqhmetnTW4MA1tCp1ws4g5gw0sf9g7M3Lwq4VwfpD'
   lat: 40.111687
