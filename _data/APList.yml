@@ -64,12 +64,6 @@
   level: 7
   lon: -88.225702
   name:  'Centennial Court'
-- ap: 6285
-  img:  'http://lh6.ggpht.com/eeOtj4-6PU8Dt6QXk_TJjgkoEGRW9L8YzUqZE8QV5ZMCHnqA5CzoQoxKpnjCvXwaIflUUvPJmO_S7BdvMhcuzw'
-  lat: 40.117588
-  level: 6
-  lon: -88.241787
-  name:  'Adam & Eve Mourning Over the Soul of Abel'
 - ap: 5985
   img:  'http://lh4.ggpht.com/xS51--rXA9M_IHpXWgFQxKZU-YbD-1zk-nug6k7RyKl8rYeam_YFwMmLNWRRHHzI-rOTGyhTJQQ314WudSQJ'
   lat: 40.117132
@@ -137,12 +131,18 @@
   lon: -88.314568
   name:  'Sunset Ridge Park'
 - ap: 5348
+  img:  'http://lh6.ggpht.com/eeOtj4-6PU8Dt6QXk_TJjgkoEGRW9L8YzUqZE8QV5ZMCHnqA5CzoQoxKpnjCvXwaIflUUvPJmO_S7BdvMhcuzw'
+  lat: 40.117588
+  level: 6
+  lon: -88.241787
+  name:  'Adam & Eve Mourning Over the Soul of Abel'
+- ap: 5348
   img:  'http://lh6.ggpht.com/XsUl74M1oxj6ptAvGEBOMH2wivRhxBNns62UJSGcPiQkuJIgPrmUYxMpSZZUfXRMMjrwoxlFK_DbAM78UrOh'
   lat: 40.113499
   level: 6
   lon: -88.244374
   name:  'Shatterglass Studios Mural'
-- ap: 5198
+- ap: 5123
   img:  'http://lh5.ggpht.com/6qIQAtIoPbAVQ1O3BoOnGg6gtTa9fd0JIkxt6P1kmSimVswLaPpCRaLEudsNcMfP_kKb4SCE1By1o3lhYevmIA'
   lat: 40.1172
   level: 2
@@ -202,10 +202,10 @@
   level: 6
   lon: -88.243766
   name:  'Mural on South Neil St.'
-- ap: 4523
+- ap: 4298
   img:  'http://lh6.ggpht.com/SCYK-XeMmOyfRrTt1-aQNoDA-2Sib4m5Ch26mTwo6XNdVeVnfi7W74Ik6IRLAPSoKzSS97pgwt50Jl9oSgGfP029USxZzQWKNJo3rbs-6YHBPBif'
   lat: 40.116792
-  level: 6
+  level: 3
   lon: -88.241752
   name:  'WEFT 90.1 FM Community Radio'
 - ap: 4598
@@ -257,12 +257,6 @@
   lon: -88.244603
   name:  'Italian Statue'
 - ap: 4411
-  img:  'http://lh6.ggpht.com/yoVMhDWju7bkAa8CImnlTqi4n2uH0odsX-LgEGeq_lqcXSmf2HQxX-c00NB1noOlmnFs51tZqBQXBLIJRfr8'
-  lat: 40.117495
-  level: 5
-  lon: -88.241616
-  name:  'Lincoln Building'
-- ap: 4411
   img:  'http://lh4.ggpht.com/ZEK-DXu7TJqsrt7cbLRjXyr3JbENJCn1FaKxH4Oi6kEvo4K0Yzm5qzMddhRLNlXvokAwQoeG4EKaNkXnJDA'
   lat: 40.114015
   level: 6
@@ -298,10 +292,10 @@
   level: 3
   lon: -88.272279
   name:  'Jonathan C. Severns Memorial'
-- ap: 3848
+- ap: 3623
   img:  'http://lh5.ggpht.com/jD3fyZcK_XLR3cBYgBiPlPRHxgXkV7p-31HKznWRUaSIX1Ab3bLTdk6O-0Oxyb6f8FKzPAHpjW56jkIQ-839'
   lat: 40.116876
-  level: 6
+  level: 4
   lon: -88.238675
   name:  'Emerald City Lounge'
 - ap: 3848
@@ -406,16 +400,22 @@
   level: 5
   lon: -88.282953
   name:  'Greenbelt 2'
+- ap: 3399
+  img:  'http://lh6.ggpht.com/yoVMhDWju7bkAa8CImnlTqi4n2uH0odsX-LgEGeq_lqcXSmf2HQxX-c00NB1noOlmnFs51tZqBQXBLIJRfr8'
+  lat: 40.117495
+  level: 4
+  lon: -88.241616
+  name:  'Lincoln Building'
 - ap: 3474
   img:  'http://lh6.ggpht.com/Jltxi7PZ9OVi8hBCUxdt9oxXQk9zmbrtHpM_jru2WhVYyY0UkNZ8h5SU3CdwMRNzZ1ZKabPR8hDCPz7p3Ms'
   lat: 40.114439
   level: 5
   lon: -88.245013
   name:  'New Covenant Fellowship'
-- ap: 3474
+- ap: 3399
   img:  'http://lh4.ggpht.com/wbrbzDCo3C4qFJyHTWOST5o8B7kwZSWePUWOboIlYrdvxjrhWLqVQ1MqUF5-Hy4nt26x_oHQq9f8EbfdEjVK'
   lat: 40.117382
-  level: 3
+  level: 2
   lon: -88.243748
   name:  'Days of Venus'
 - ap: 3474
@@ -424,12 +424,12 @@
   level: 6
   lon: -88.244122
   name:  'Artistic Graffiti at MCS'
-- ap: 3174
-  img:  'http://lh5.ggpht.com/BPYtoLzDqibtj79fwGYxizNqHsBoJp5OzVO4Z-75rudKppazgw7D0eoXHOpH20iQd2Uc9MHXs72-r7fOJDNzpz3KRHIpZwzmXBope3LI8GA4SfsY'
-  lat: 40.117754
+- ap: 3324
+  img:  'http://lh5.ggpht.com/KuDVZqnpBQnne0a_UqpN4wpsQFlw3nVXAWtRKP_AdZ3CjQ0MHUBgU_2hE8hb71h31FTQbduYmB6DNuVKA0s'
+  lat: 40.116822
   level: 3
-  lon: -88.241676
-  name:  'Jos. Kuhn and Co. Building'
+  lon: -88.243445
+  name:  'Remembering Horeb'
 - ap: 3174
   img:  'http://lh3.ggpht.com/GGBe9Hug3fUbRCRAMs_kO1fg2HHQ95ZDBdW0S2tAHakvhQbWxlttanjhGNJJcyVRruUlL7zjQnPGI2bu8Wc4'
   lat: 40.117905
@@ -442,12 +442,6 @@
   level: 5
   lon: -88.242984
   name:  'Mural for the Blind Pig Brewery'
-- ap: 3474
-  img:  'http://lh5.ggpht.com/KuDVZqnpBQnne0a_UqpN4wpsQFlw3nVXAWtRKP_AdZ3CjQ0MHUBgU_2hE8hb71h31FTQbduYmB6DNuVKA0s'
-  lat: 40.116822
-  level: 4
-  lon: -88.243445
-  name:  'Remembering Horeb'
 - ap: 3474
   img:  'http://lh6.ggpht.com/pYay9oPZwUNKfLdWJ1JMI5tA9-Gd0vsBddLTz7fXN6wUW7F23hLMWRwFZNnXyomRkc2f9sqCGMxNWuYHPFZx'
   lat: 40.109142
@@ -503,12 +497,6 @@
   lon: -88.2772
   name:  'Mattis Ave Free Methodist Church '
 - ap: 2724
-  img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
-  lat: 40.101062
-  level: 5
-  lon: -88.249275
-  name:  'Narayan & Shanti Achanta Memorial Plaque'
-- ap: 2724
   img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
   lat: 40.097979
   level: 5
@@ -527,17 +515,17 @@
   lon: -88.226751
   name:  'Class Of 1917 Plaque'
 - ap: 2724
-  img:  'http://lh4.ggpht.com/p1kbhH-3K08NNqTt_6-223uI0PurGUV2HeAWGYPRx3OnNYMY-kARoW1zZ2pZBHthAYRZbIgf6ioRawHi0BmUx786y5ffm0kmZsskaOiluDUhSIiI'
-  lat: 40.106173
-  level: 6
-  lon: -88.22719
-  name:  'Foellinger Auditorium'
-- ap: 2724
   img:  'http://lh6.ggpht.com/T15jgBwdGgKfY5ZEkmL6_eEeGWALRclzodBAIpqOXMAO4sP9g1Mt8CwDQCh5tDr_sZan-95c8YRI6F-W63_-'
   lat: 40.105692
   level: 6
   lon: -88.227097
   name:  'A Son of Deucalion'
+- ap: 2724
+  img:  'http://lh4.ggpht.com/p1kbhH-3K08NNqTt_6-223uI0PurGUV2HeAWGYPRx3OnNYMY-kARoW1zZ2pZBHthAYRZbIgf6ioRawHi0BmUx786y5ffm0kmZsskaOiluDUhSIiI'
+  lat: 40.106173
+  level: 6
+  lon: -88.22719
+  name:  'Foellinger Auditorium'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 39.941083
@@ -671,17 +659,17 @@
   lon: -88.243729
   name:  'The Phoenix'
 - ap: 2537
+  img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
+  lat: 40.101062
+  level: 5
+  lon: -88.249275
+  name:  'Narayan & Shanti Achanta Memorial Plaque'
+- ap: 2537
   img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
   lat: 40.098246
   level: 7
   lon: -88.251974
   name:  'Hessel Park'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
-  lat: 40.102188
-  level: 7
-  lon: -88.251507
-  name:  'Little Free Library Charter 5753'
 - ap: 2537
   img:  'http://lh6.ggpht.com/0IsQORyEW-bPA7sEbGspygtoI7ixEshm_2fUw5oeh9AeXg6JN5w0ypYIshpuKm-C0nG4Vm2XmpLvtWTZzWzd'
   lat: 40.111607
@@ -700,6 +688,12 @@
   level: 5
   lon: -88.213565
   name:  'Horse Sculpture'
+- ap: 2237
+  img:  'http://lh4.ggpht.com/Zom5xkViTBf5wGkPFjYta7PfPZDicQD2VL2bQItgdzMxvQ1x7zqM3Zgynd7a6XBMT6qMAMKagxWMdpMlPcveaw'
+  lat: 40.105849
+  level: 3
+  lon: -88.227679
+  name:  'Lincoln Scholarship Plaque'
 - ap: 2462
   img:  'http://lh3.googleusercontent.com/vRH1cgHOuzbgU69F49MdsOQye4VG9lH8rjDcYQWGq9_8VcBu010oHhoinNmA_Dn9JZGLmS7ehSQJ9h1uDMGBaw'
   lat: 40.107087
@@ -736,12 +730,6 @@
   level: 3
   lon: -88.23549
   name:  'Red Lion'
-- ap: 2237
-  img:  'http://lh4.ggpht.com/Zom5xkViTBf5wGkPFjYta7PfPZDicQD2VL2bQItgdzMxvQ1x7zqM3Zgynd7a6XBMT6qMAMKagxWMdpMlPcveaw'
-  lat: 40.105849
-  level: 3
-  lon: -88.227679
-  name:  'Lincoln Scholarship Plaque'
 - ap: 2537
   img:  'http://lh5.ggpht.com/dgQfoxxVeHT5ODqLiUYHV45qvkC_BMS0kIFRqvHvE2GO0TduZ0-XzhW8RE80LtPDK0Ay5xwA6PtjM7G3C9U8'
   lat: 40.108947
@@ -751,12 +739,12 @@
 - ap: 2537
   img:  'http://lh3.ggpht.com/LR76HrJqriPFUoc2XSs7jb2SotnStZv20kI7rgUx8B5HqhmetnTW4MA1tCp1ws4g5gw0sf9g7M3Lwq4VwfpD'
   lat: 40.111687
-  level: 5
+  level: 6
   lon: -88.225353
   name:  'Transportation Building - University Of Illinois'
 - ap: 2537
   img:  'http://lh5.ggpht.com/4eagHlnlpVbtFi_knZN73PIs2A--Ipj6SOlkQADePlfnzfOnJn-cAv0IoNNv4qR8WrbUFImUKHBknyaoAewO'
   lat: 40.111383
-  level: 5
+  level: 6
   lon: -88.225675
   name:  'Only Rain Down The Drain'
