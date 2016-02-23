@@ -383,18 +383,6 @@
   lon: -88.226125
   name:  'U of I Observatory'
 - ap: 3474
-  img:  'http://lh4.ggpht.com/q2L_InMJy4JZq79dX9LLf9XauoaXGOLl7SWvVyD9F_jIgyqpn7SsqHfY9EMYq1SLteTpj0cQDZN4f9x0IuvV5w'
-  lat: 40.107273
-  level: 6
-  lon: -88.222942
-  name:  'Tryon Festival Theater'
-- ap: 3474
-  img:  'http://lh3.ggpht.com/oSQ_YOHo2mfYjOa8bPK9ellznKK29UluW-SeXoGYra9VFg8dJp6YQRdHbHHaTExqXs1qUMBNmpI2hUPcC4GI'
-  lat: 40.106789
-  level: 6
-  lon: -88.222992
-  name:  'Beginnings of Computer Music Plaque'
-- ap: 3474
   img:  'http://lh3.ggpht.com/b9HBD2zL4T02YqqDOnuBzYEU0UECTZDRgjLjZJV7cnX75wbmiWtc5yBUo_FZrZ8yBH69UsrbeJlq-VS-mPmi'
   lat: 40.109438
   level: 5
@@ -406,6 +394,18 @@
   level: 7
   lon: -88.230687
   name:  'Community United Church of Christ'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/q2L_InMJy4JZq79dX9LLf9XauoaXGOLl7SWvVyD9F_jIgyqpn7SsqHfY9EMYq1SLteTpj0cQDZN4f9x0IuvV5w'
+  lat: 40.107273
+  level: 6
+  lon: -88.222942
+  name:  'Tryon Festival Theater'
+- ap: 3474
+  img:  'http://lh3.ggpht.com/oSQ_YOHo2mfYjOa8bPK9ellznKK29UluW-SeXoGYra9VFg8dJp6YQRdHbHHaTExqXs1qUMBNmpI2hUPcC4GI'
+  lat: 40.106789
+  level: 6
+  lon: -88.222992
+  name:  'Beginnings of Computer Music Plaque'
 - ap: 3474
   img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
   lat: 40.107629
@@ -437,6 +437,12 @@
   lon: -88.250227
   name:  'Curtis F. Columbia Legacy Plaque'
 - ap: 2724
+  img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
+  lat: 40.117976
+  level: 7
+  lon: -88.245082
+  name:  'Robeson Building '
+- ap: 2724
   img:  'http://lh4.ggpht.com/9jXAzAxn0JZrLkU9VK9p-mNzjw3x_6QqwMAn4CAEBAHp_lo2iDZeV_y-hoUzP5CYwm8kOMyrTToZQOWJBRnw'
   lat: 40.115095
   level: 3
@@ -448,12 +454,6 @@
   level: 5
   lon: -88.251967
   name:  'Sesquicentennial Neighborhood Sign'
-- ap: 2724
-  img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
-  lat: 40.117976
-  level: 7
-  lon: -88.245082
-  name:  'Robeson Building '
 - ap: 2724
   img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
   lat: 40.097979
@@ -550,18 +550,18 @@
   level: 5
   lon: -88.2772
   name:  'Mattis Ave Free Methodist Church '
-- ap: 2537
-  img:  'http://lh4.ggpht.com/IAi2A1ukQunZaoCY1OUJnvZC_MAEjnYzlg7vcsIuPQyLIB710_5ueVQ3El8Pok0aNvlB18-Tdo1euhYbaf0'
-  lat: 40.115224
-  level: 5
-  lon: -88.24957
-  name:  'Linda M. Wesolowski Memorial Sign'
 - ap: 2387
   img:  'http://lh6.ggpht.com/cnBQN3RYcZFSdxYB52bvMYRD2aTSlDG0_cqBQ8coo0ueKTtGxldE0xGjNPF6xlYJtnba8oUyEKwBeYbO8CY5'
   lat: 40.116631
   level: 4
   lon: -88.246951
   name:  'Lyle Blue Memorial'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/IAi2A1ukQunZaoCY1OUJnvZC_MAEjnYzlg7vcsIuPQyLIB710_5ueVQ3El8Pok0aNvlB18-Tdo1euhYbaf0'
+  lat: 40.115224
+  level: 5
+  lon: -88.24957
+  name:  'Linda M. Wesolowski Memorial Sign'
 - ap: 2537
   img:  'http://lh6.ggpht.com/ZQaguxPyiC-6DeFDFa2niVKJz3ySxwxYaFCv8PRdNuoMYUfP-Xtirg-8pXCTdBCyH1BruprOVmqf3D1kdp7o'
   lat: 40.115225
