@@ -73,7 +73,7 @@
 - ap: 5722
   img:  'http://lh5.ggpht.com/0m1i3CJSj3bKhLj5BgXi8SFpgoihNsBoN6fpccgDU2tjtPcA5BqB1IxvR0yAX9FWkgt3_Q8gbAyGfdJDliGP'
   lat: 40.115142
-  level: 5
+  level: 6
   lon: -88.238658
   name:  'First Street Antiques'
 - ap: 5722
@@ -161,17 +161,17 @@
   lon: -88.226237
   name:  'Triplets'
 - ap: 4411
-  img:  'http://lh3.ggpht.com/g1H1SJintXK5Zb7ng6DN7wix1q5otnzMK5JCJDnecwuIiohJmhXLJs1XzItxaTSYEuPPOqd4x-dGqd0WK5YU'
-  lat: 40.13349
-  level: 4
-  lon: -88.313072
-  name:  'Sunset Skate Park'
-- ap: 4411
   img:  'http://lh5.ggpht.com/6W_b3aoHNnxViA4TkycmE5hhV5q_VHfypLNlgG4sAyw2eJ5Meyzi2-vwTA8miyKA5pZApxbfpAa7uc0zlCM'
   lat: 40.134758
   level: 6
   lon: -88.313172
   name:  'Sunset Ridge Prairie '
+- ap: 4411
+  img:  'http://lh3.ggpht.com/g1H1SJintXK5Zb7ng6DN7wix1q5otnzMK5JCJDnecwuIiohJmhXLJs1XzItxaTSYEuPPOqd4x-dGqd0WK5YU'
+  lat: 40.13349
+  level: 4
+  lon: -88.313072
+  name:  'Sunset Skate Park'
 - ap: 4411
   img:  'http://lh5.ggpht.com/ek0AuIkZd5CWKmIdjFjq5gOvptOzC8VJUnyatNG8ZyUoT8-mvkd4seW8Gpbl4kkgiatIbr57h5kK_5z6NSGD'
   lat: 40.131581
@@ -191,17 +191,17 @@
   lon: -88.244603
   name:  'Italian Statue'
 - ap: 4411
-  img:  'http://lh6.ggpht.com/2lDM_Uj6QcUJmWkmPhNWg-vfkJbBQAo6zb7eXC5qDTaJ5xAsoU7jPPqYmLo7zztC2Za1oH3QVrHQ78-XabqR'
-  lat: 40.116398
-  level: 6
-  lon: -88.242485
-  name:  'Champaign Servicemen and Women Memorial'
-- ap: 4411
   img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
   lat: 40.116553
   level: 6
   lon: -88.242268
   name:  'Esquire Lounge'
+- ap: 4411
+  img:  'http://lh6.ggpht.com/2lDM_Uj6QcUJmWkmPhNWg-vfkJbBQAo6zb7eXC5qDTaJ5xAsoU7jPPqYmLo7zztC2Za1oH3QVrHQ78-XabqR'
+  lat: 40.116398
+  level: 6
+  lon: -88.242485
+  name:  'Champaign Servicemen and Women Memorial'
 - ap: 4411
   img:  'http://lh6.ggpht.com/fBCIw-ohQqPYmU_DWfwbcZnXqbmVh6zOWlUta8mx1F53zxG1Wxr08J9-fOCaz1B9i_8Nb3Il_kqdxzdyRyc'
   lat: 40.109043
@@ -365,12 +365,6 @@
   lon: -88.226301
   name:  'Illite and Clay Mineralogy Plaque'
 - ap: 3474
-  img:  'http://lh3.googleusercontent.com/EwXPPCiuVPRkECPKlJtyqReSySoJKEdwrx1MkNVUy6EM9xWU_fet1Z-sLfx_P2_c54DeJcApxdl-hKg9vGVEtw'
-  lat: 40.108224
-  level: 6
-  lon: -88.223549
-  name:  'Colwell Playhouse'
-- ap: 3474
   img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
   lat: 40.108066
   level: 7
@@ -395,6 +389,12 @@
   lon: -88.224484
   name:  'Bucky Balls'
 - ap: 3474
+  img:  'http://lh3.googleusercontent.com/EwXPPCiuVPRkECPKlJtyqReSySoJKEdwrx1MkNVUy6EM9xWU_fet1Z-sLfx_P2_c54DeJcApxdl-hKg9vGVEtw'
+  lat: 40.108224
+  level: 6
+  lon: -88.223549
+  name:  'Colwell Playhouse'
+- ap: 3474
   img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
   lat: 40.106706
   level: 7
@@ -406,7 +406,7 @@
   level: '?'
   lon: -88.287824
   name:  'c78eb078bcd84dd4992321f803c24096.12'
-- ap: 2911
+- ap: 2724
   img:  'http://lh3.ggpht.com/psgrRGIt786cUSq8EV7SBSDsS-aptrUKjaCXWv864H7OaJL2K71qJpxU9Iw-acwFMi52ZN2qpEmicGmlmhJq'
   lat: 40.121061
   level: 5
@@ -425,35 +425,11 @@
   lon: -88.249052
   name:  'Bayne & Schumacher Fountain'
 - ap: 2724
-  img:  'http://lh5.ggpht.com/vYay8RKsCV_BP_MkeFm7se0VZoYthm-1pThiATAADleBlTsPowobgZyUoU7DUto6p5cpg9adpCcTgNR6iop0Jw'
-  lat: 40.120121
-  level: 5
-  lon: -88.251967
-  name:  'Sesquicentennial Neighborhood Sign'
-- ap: 2724
   img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
   lat: 40.097979
   level: 5
   lon: -88.247785
   name:  'Jarling''s Custard Cup'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.050441
-  level: '?'
-  lon: -88.56847
-  name:  '985b9a8077bf43bf9e9757857a510243.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.106513
-  level: '?'
-  lon: -88.5585
-  name:  'Lodge Christian Church'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.612535
-  level: '?'
-  lon: -87.69336
-  name:  'b8531f6668b0449c8d92d1b9c19d2aae.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 39.941083
@@ -468,10 +444,28 @@
   name:  '7268d4cdcf554b3ea4dc1e92bab021c4.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.106513
+  level: '?'
+  lon: -88.5585
+  name:  'Lodge Christian Church'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.612535
+  level: '?'
+  lon: -87.69336
+  name:  'b8531f6668b0449c8d92d1b9c19d2aae.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.049305
   level: '?'
   lon: -88.572718
   name:  'f4149826d3724504a438cc75a5179d71.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.050441
+  level: '?'
+  lon: -88.56847
+  name:  '985b9a8077bf43bf9e9757857a510243.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.234223
@@ -521,11 +515,29 @@
   lon: -88.246951
   name:  'Lyle Blue Memorial'
 - ap: 2537
+  img:  'http://lh4.ggpht.com/0JuC7vEVtmbgkx1FUhaTylcKfKuYoGNdW2P5GNZzGbeOzxEH0Q-9gP9gmmBzx2bkLNA0dnw9FiEJYiHjWXM'
+  lat: 40.121329
+  level: 7
+  lon: -88.24558
+  name:  'The Gregory'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/ik1uVZ-KWyRH4dh51LJI7gFmnM7bmfSZ-1YqfELbVQEvuo-gEx2QpG6jQpFPeAlFPi2rVPAuzRmXMD0Whsm2HA'
+  lat: 40.122038
+  level: 7
+  lon: -88.245318
+  name:  'The Old Residential Block'
+- ap: 2537
   img:  'http://lh4.ggpht.com/IAi2A1ukQunZaoCY1OUJnvZC_MAEjnYzlg7vcsIuPQyLIB710_5ueVQ3El8Pok0aNvlB18-Tdo1euhYbaf0'
   lat: 40.115224
   level: 5
   lon: -88.24957
   name:  'Linda M. Wesolowski Memorial Sign'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/cZVUlNaHjfsB6Lu5hnj8JjUk4lvsgOV7DFz4Nl47-RaQObW1VPRpos6hTDD6WgYrNxCh9UKfn5DFU-K7lRe9pQ'
+  lat: 40.1164
+  level: 6
+  lon: -88.242747
+  name:  'Sidewalk Art'
 - ap: 2537
   img:  'http://lh6.ggpht.com/ZQaguxPyiC-6DeFDFa2niVKJz3ySxwxYaFCv8PRdNuoMYUfP-Xtirg-8pXCTdBCyH1BruprOVmqf3D1kdp7o'
   lat: 40.115225
@@ -539,47 +551,23 @@
   lon: -88.24306
   name:  'Indigo Art Gallery'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/UTu16bRRNKyJj2cFsU4mRCMkGJbH7YCAm0gQdiJKjnnZtB00kMEb_-Lhf6AnAXRia4MH6FBrWQGkBCrMUz8'
-  lat: 40.120135
-  level: 5
-  lon: -88.253121
-  name:  'Rain Garden'
-- ap: 2537
   img:  'http://lh5.ggpht.com/hjAc940kWyt9QT4G_BJyJKaTef3jL_Njnm8ubUtQD7u6qVsD9_7TiJbgZpKeqAv60kNw8FYspVxkn-Bt1cxYBw'
   lat: 40.109959
   level: 8
   lon: -88.24318
   name:  'Mini Park II Sculpture'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/cZVUlNaHjfsB6Lu5hnj8JjUk4lvsgOV7DFz4Nl47-RaQObW1VPRpos6hTDD6WgYrNxCh9UKfn5DFU-K7lRe9pQ'
-  lat: 40.1164
-  level: 6
-  lon: -88.242747
-  name:  'Sidewalk Art'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/0JuC7vEVtmbgkx1FUhaTylcKfKuYoGNdW2P5GNZzGbeOzxEH0Q-9gP9gmmBzx2bkLNA0dnw9FiEJYiHjWXM'
-  lat: 40.121329
+  img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
+  lat: 40.098246
   level: 7
-  lon: -88.24558
-  name:  'The Gregory'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/ik1uVZ-KWyRH4dh51LJI7gFmnM7bmfSZ-1YqfELbVQEvuo-gEx2QpG6jQpFPeAlFPi2rVPAuzRmXMD0Whsm2HA'
-  lat: 40.122038
-  level: 7
-  lon: -88.245318
-  name:  'The Old Residential Block'
+  lon: -88.251974
+  name:  'Hessel Park'
 - ap: 2537
   img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
   lat: 40.101062
   level: 5
   lon: -88.249275
   name:  'Narayan & Shanti Achanta Memorial Plaque'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
-  lat: 40.098246
-  level: 7
-  lon: -88.251974
-  name:  'Hessel Park'
 - ap: 2162
   img:  'http://lh4.ggpht.com/Zom5xkViTBf5wGkPFjYta7PfPZDicQD2VL2bQItgdzMxvQ1x7zqM3Zgynd7a6XBMT6qMAMKagxWMdpMlPcveaw'
   lat: 40.105849
