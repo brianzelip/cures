@@ -341,17 +341,17 @@
   lon: -88.226301
   name:  'Illite and Clay Mineralogy Plaque'
 - ap: 3474
-  img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
-  lat: 40.108066
-  level: 7
-  lon: -88.230687
-  name:  'Community United Church of Christ'
-- ap: 3474
   img:  'http://lh3.googleusercontent.com/EwXPPCiuVPRkECPKlJtyqReSySoJKEdwrx1MkNVUy6EM9xWU_fet1Z-sLfx_P2_c54DeJcApxdl-hKg9vGVEtw'
   lat: 40.108224
   level: 6
   lon: -88.223549
   name:  'Colwell Playhouse'
+- ap: 3474
+  img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
+  lat: 40.108066
+  level: 7
+  lon: -88.230687
+  name:  'Community United Church of Christ'
 - ap: 3474
   img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
   lat: 40.106706
@@ -424,12 +424,6 @@
   level: 5
   lon: -88.247785
   name:  'Jarling''s Custard Cup'
-- ap: 2724
-  img:  'http://lh5.ggpht.com/Tn5ARN-X6VTc2q6atZ2WYq3c2g3gbSGXu6_vXf1MDwHfLpdTtnQ-CilBAVGvL6R-SHhq3fJ4WZI-yiJKmIId'
-  lat: 40.110398
-  level: 2
-  lon: -88.235143
-  name:  'US Post Office, E Green St, Champaign'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.050441
@@ -450,6 +444,18 @@
   name:  'b8531f6668b0449c8d92d1b9c19d2aae.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.234223
+  level: '?'
+  lon: -90.332861
+  name:  'd3b32d87c3a6483ba43a88907da410cf.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.425863
+  level: '?'
+  lon: -89.779365
+  name:  '8d1ecd0d235f41d281f4597d3354c74c.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 39.941083
   level: '?'
   lon: -88.460102
@@ -466,18 +472,6 @@
   level: '?'
   lon: -88.572718
   name:  'f4149826d3724504a438cc75a5179d71.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.234223
-  level: '?'
-  lon: -90.332861
-  name:  'd3b32d87c3a6483ba43a88907da410cf.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.425863
-  level: '?'
-  lon: -89.779365
-  name:  '8d1ecd0d235f41d281f4597d3354c74c.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.879006
@@ -611,12 +605,6 @@
   lon: -88.238675
   name:  'Emerald City Lounge'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/0IsQORyEW-bPA7sEbGspygtoI7ixEshm_2fUw5oeh9AeXg6JN5w0ypYIshpuKm-C0nG4Vm2XmpLvtWTZzWzd'
-  lat: 40.111607
-  level: 3
-  lon: -88.233753
-  name:  'Chabad Menorah'
-- ap: 2537
   img:  'http://lh4.ggpht.com/q2L_InMJy4JZq79dX9LLf9XauoaXGOLl7SWvVyD9F_jIgyqpn7SsqHfY9EMYq1SLteTpj0cQDZN4f9x0IuvV5w'
   lat: 40.107273
   level: 6
@@ -658,6 +646,12 @@
   level: 5
   lon: -88.223135
   name:  'String Project Plaque'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/Tn5ARN-X6VTc2q6atZ2WYq3c2g3gbSGXu6_vXf1MDwHfLpdTtnQ-CilBAVGvL6R-SHhq3fJ4WZI-yiJKmIId'
+  lat: 40.110398
+  level: 2
+  lon: -88.235143
+  name:  'US Post Office, E Green St, Champaign'
 - ap: 2462
   img:  'http://lh3.ggpht.com/KxQsev6i7POmNh1IadCWwWQSMdCuLIYpPwIdenSlVtzum523D1R-1kfeTbuOGTkt_jDwn4jswCu1edkumm2-'
   lat: 40.110037
