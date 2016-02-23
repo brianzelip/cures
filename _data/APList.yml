@@ -401,24 +401,6 @@
   lon: -88.226125
   name:  'U of I Observatory'
 - ap: 3474
-  img:  'http://lh3.ggpht.com/b9HBD2zL4T02YqqDOnuBzYEU0UECTZDRgjLjZJV7cnX75wbmiWtc5yBUo_FZrZ8yBH69UsrbeJlq-VS-mPmi'
-  lat: 40.109438
-  level: 5
-  lon: -88.226301
-  name:  'Illite and Clay Mineralogy Plaque'
-- ap: 3474
-  img:  'http://lh3.googleusercontent.com/EwXPPCiuVPRkECPKlJtyqReSySoJKEdwrx1MkNVUy6EM9xWU_fet1Z-sLfx_P2_c54DeJcApxdl-hKg9vGVEtw'
-  lat: 40.108224
-  level: 6
-  lon: -88.223549
-  name:  'Colwell Playhouse'
-- ap: 3474
-  img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
-  lat: 40.108066
-  level: 7
-  lon: -88.230687
-  name:  'Community United Church of Christ'
-- ap: 3474
   img:  'http://lh4.ggpht.com/q2L_InMJy4JZq79dX9LLf9XauoaXGOLl7SWvVyD9F_jIgyqpn7SsqHfY9EMYq1SLteTpj0cQDZN4f9x0IuvV5w'
   lat: 40.107273
   level: 6
@@ -431,11 +413,29 @@
   lon: -88.222992
   name:  'Beginnings of Computer Music Plaque'
 - ap: 3474
+  img:  'http://lh3.ggpht.com/b9HBD2zL4T02YqqDOnuBzYEU0UECTZDRgjLjZJV7cnX75wbmiWtc5yBUo_FZrZ8yBH69UsrbeJlq-VS-mPmi'
+  lat: 40.109438
+  level: 5
+  lon: -88.226301
+  name:  'Illite and Clay Mineralogy Plaque'
+- ap: 3474
+  img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
+  lat: 40.108066
+  level: 7
+  lon: -88.230687
+  name:  'Community United Church of Christ'
+- ap: 3474
   img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
   lat: 40.107629
   level: 7
   lon: -88.224484
   name:  'Bucky Balls'
+- ap: 3474
+  img:  'http://lh3.googleusercontent.com/EwXPPCiuVPRkECPKlJtyqReSySoJKEdwrx1MkNVUy6EM9xWU_fet1Z-sLfx_P2_c54DeJcApxdl-hKg9vGVEtw'
+  lat: 40.108224
+  level: 6
+  lon: -88.223549
+  name:  'Colwell Playhouse'
 - ap: 3474
   img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
   lat: 40.106706
@@ -486,6 +486,42 @@
   name:  '985b9a8077bf43bf9e9757857a510243.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.941083
+  level: '?'
+  lon: -88.460102
+  name:  'St Joseph Catholic Church'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.024616
+  level: '?'
+  lon: -88.571179
+  name:  '7268d4cdcf554b3ea4dc1e92bab021c4.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.049305
+  level: '?'
+  lon: -88.572718
+  name:  'f4149826d3724504a438cc75a5179d71.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.054116
+  level: '?'
+  lon: -88.559883
+  name:  '2046c1b467af43c69e75eed0b046551b.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.879006
+  level: '?'
+  lon: -89.678385
+  name:  'dfd505725e8e416399c71659c1a0c3ed.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.402834
+  level: '?'
+  lon: -89.907733
+  name:  '3bb8a4d598d34aca9722747cff4019d8.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.106513
   level: '?'
   lon: -88.5585
@@ -508,42 +544,6 @@
   level: '?'
   lon: -89.779365
   name:  '8d1ecd0d235f41d281f4597d3354c74c.12'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.941083
-  level: '?'
-  lon: -88.460102
-  name:  'St Joseph Catholic Church'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.024616
-  level: '?'
-  lon: -88.571179
-  name:  '7268d4cdcf554b3ea4dc1e92bab021c4.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.049305
-  level: '?'
-  lon: -88.572718
-  name:  'f4149826d3724504a438cc75a5179d71.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.879006
-  level: '?'
-  lon: -89.678385
-  name:  'dfd505725e8e416399c71659c1a0c3ed.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.402834
-  level: '?'
-  lon: -89.907733
-  name:  '3bb8a4d598d34aca9722747cff4019d8.12'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.054116
-  level: '?'
-  lon: -88.559883
-  name:  '2046c1b467af43c69e75eed0b046551b.12'
 - ap: 2537
   img:  'http://lh5.ggpht.com/QruW49d2dc1uhQlK1BaZIeo6ruDNkqQfmvZz83eQ-1aC9ytGUcpFaHnKRTnXRc70F2EZ0-pVKGr9Slo0_9RfxA'
   lat: 40.139749
@@ -659,17 +659,17 @@
   lon: -88.228706
   name:  'Leo Roy Tehon Memorial'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/dgQfoxxVeHT5ODqLiUYHV45qvkC_BMS0kIFRqvHvE2GO0TduZ0-XzhW8RE80LtPDK0Ay5xwA6PtjM7G3C9U8'
-  lat: 40.108947
-  level: 6
-  lon: -88.232251
-  name:  'McKinley Church'
-- ap: 2537
   img:  'http://lh3.ggpht.com/0HyRE6hI-Dp8OIZWrGjSBLw06g4xLl3H3SxdYDO-wm20QdpGQtvQ1-GBpxfAE5WNcC0D_aY-oOfGM1Wj1--EvQ'
   lat: 40.106092
   level: 5
   lon: -88.223135
   name:  'String Project Plaque'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/dgQfoxxVeHT5ODqLiUYHV45qvkC_BMS0kIFRqvHvE2GO0TduZ0-XzhW8RE80LtPDK0Ay5xwA6PtjM7G3C9U8'
+  lat: 40.108947
+  level: 6
+  lon: -88.232251
+  name:  'McKinley Church'
 - ap: 2537
   img:  'http://lh3.ggpht.com/LR76HrJqriPFUoc2XSs7jb2SotnStZv20kI7rgUx8B5HqhmetnTW4MA1tCp1ws4g5gw0sf9g7M3Lwq4VwfpD'
   lat: 40.111687
