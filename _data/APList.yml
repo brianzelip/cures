@@ -449,17 +449,17 @@
   lon: -88.244611
   name:  'Marketplace Mall Carousel'
 - ap: 4598
-  img:  'http://lh6.ggpht.com/T15jgBwdGgKfY5ZEkmL6_eEeGWALRclzodBAIpqOXMAO4sP9g1Mt8CwDQCh5tDr_sZan-95c8YRI6F-W63_-'
-  lat: 40.105692
-  level: 5
-  lon: -88.227097
-  name:  'A Son of Deucalion'
-- ap: 4598
   img:  'http://lh4.ggpht.com/Zom5xkViTBf5wGkPFjYta7PfPZDicQD2VL2bQItgdzMxvQ1x7zqM3Zgynd7a6XBMT6qMAMKagxWMdpMlPcveaw'
   lat: 40.105849
   level: 5
   lon: -88.227679
   name:  'Lincoln Scholarship Plaque'
+- ap: 4598
+  img:  'http://lh6.ggpht.com/T15jgBwdGgKfY5ZEkmL6_eEeGWALRclzodBAIpqOXMAO4sP9g1Mt8CwDQCh5tDr_sZan-95c8YRI6F-W63_-'
+  lat: 40.105692
+  level: 5
+  lon: -88.227097
+  name:  'A Son of Deucalion'
 - ap: 4411
   img:  'http://lh5.ggpht.com/6W_b3aoHNnxViA4TkycmE5hhV5q_VHfypLNlgG4sAyw2eJ5Meyzi2-vwTA8miyKA5pZApxbfpAa7uc0zlCM'
   lat: 40.134758
@@ -575,18 +575,6 @@
   lon: -88.348907
   name:  '9e87bde25e4742e6a2802b1d7b1617a0.16'
 - ap: 3474
-  img:  'http://lh6.ggpht.com/xmgP6_TbSrlLRJsCZSQjC_DLNjFvpQZvEQ1HG5OqrNlNx6ze282h78In-2DEf_6Czi85r3XRa99MH0Ird8qu'
-  lat: 40.085035
-  level: 5
-  lon: -88.33118
-  name:  'Environmental Plaque - Pond'
-- ap: 3474
-  img:  'http://lh5.ggpht.com/Dnxa0uyF4RKoIJbGj2tdvyDNb0rGtuO_uRKbU5rlo_G2o90ZQh1TJPY85qrIuM3pseJmLtXNbo0wS6tvowaz'
-  lat: 40.08479
-  level: 5
-  lon: -88.331095
-  name:  'Butterfly Bridge'
-- ap: 3474
   img:  'http://lh6.ggpht.com/prg5Oedqi1_YJMN9GAesf7bmbUwbMGc9v7E3SYkm-TYdudfpX9SwuC1J4D4zkb1K4yrvF2ZPNWDoUniixORu'
   lat: 40.086493
   level: 5
@@ -598,6 +586,18 @@
   level: 5
   lon: -88.332388
   name:  'Spiral the Gate'
+- ap: 3474
+  img:  'http://lh6.ggpht.com/xmgP6_TbSrlLRJsCZSQjC_DLNjFvpQZvEQ1HG5OqrNlNx6ze282h78In-2DEf_6Czi85r3XRa99MH0Ird8qu'
+  lat: 40.085035
+  level: 5
+  lon: -88.33118
+  name:  'Environmental Plaque - Pond'
+- ap: 3474
+  img:  'http://lh5.ggpht.com/Dnxa0uyF4RKoIJbGj2tdvyDNb0rGtuO_uRKbU5rlo_G2o90ZQh1TJPY85qrIuM3pseJmLtXNbo0wS6tvowaz'
+  lat: 40.08479
+  level: 5
+  lon: -88.331095
+  name:  'Butterfly Bridge'
 - ap: 3474
   img:  'http://lh4.ggpht.com/vKkSwERLa3zQO2UUIiYl1AEruAx1QTPcP4jSmPt89PG4AviJ1WhlVVH8qmqJ0aY2gqJmHcqdZFcM2pQconc'
   lat: 40.139375
@@ -671,12 +671,6 @@
   lon: -88.251685
   name:  'Curtis William McKinney Memorial'
 - ap: 3474
-  img:  'http://lh4.ggpht.com/fYq8Qzd7VmDjN_GIWRjblwSGoKKIaUFJTgmMNsJrfWO6c5cZu8xnJc4kDm35ITLO2ePeYakXEDKubdwi0x1K'
-  lat: 40.105179
-  level: 4
-  lon: -88.226931
-  name:  'Astronomy Department Sundial'
-- ap: 3474
   img:  'http://lh3.ggpht.com/mRCpYiTnH0rrWGXaOj5qrhYjnvlhpQ8iY4UG3vy_gu2HW2GChgp0aXQ0Uih6XRZcUOJVyzyPggWicFdh7sHrfA'
   lat: 40.106179
   level: 5
@@ -694,6 +688,12 @@
   level: 5
   lon: -88.227412
   name:  'Bus Stop - Illini Union, Westbound'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/fYq8Qzd7VmDjN_GIWRjblwSGoKKIaUFJTgmMNsJrfWO6c5cZu8xnJc4kDm35ITLO2ePeYakXEDKubdwi0x1K'
+  lat: 40.105179
+  level: 4
+  lon: -88.226931
+  name:  'Astronomy Department Sundial'
 - ap: 3474
   img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
   lat: 40.107751
