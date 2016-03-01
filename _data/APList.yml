@@ -413,17 +413,17 @@
   lon: -88.2772
   name:  'Mattis Ave Free Methodist Church '
 - ap: 4598
-  img:  'http://lh6.ggpht.com/T15jgBwdGgKfY5ZEkmL6_eEeGWALRclzodBAIpqOXMAO4sP9g1Mt8CwDQCh5tDr_sZan-95c8YRI6F-W63_-'
-  lat: 40.105692
-  level: 5
-  lon: -88.227097
-  name:  'A Son of Deucalion'
-- ap: 4598
   img:  'http://lh4.ggpht.com/Zom5xkViTBf5wGkPFjYta7PfPZDicQD2VL2bQItgdzMxvQ1x7zqM3Zgynd7a6XBMT6qMAMKagxWMdpMlPcveaw'
   lat: 40.105849
   level: 5
   lon: -88.227679
   name:  'Lincoln Scholarship Plaque'
+- ap: 4598
+  img:  'http://lh6.ggpht.com/T15jgBwdGgKfY5ZEkmL6_eEeGWALRclzodBAIpqOXMAO4sP9g1Mt8CwDQCh5tDr_sZan-95c8YRI6F-W63_-'
+  lat: 40.105692
+  level: 5
+  lon: -88.227097
+  name:  'A Son of Deucalion'
 - ap: 4411
   img:  'http://lh5.ggpht.com/6W_b3aoHNnxViA4TkycmE5hhV5q_VHfypLNlgG4sAyw2eJ5Meyzi2-vwTA8miyKA5pZApxbfpAa7uc0zlCM'
   lat: 40.134758
@@ -437,6 +437,12 @@
   lon: -88.313072
   name:  'Sunset Skate Park'
 - ap: 4411
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.966802
+  level: '?'
+  lon: -88.34467
+  name:  '4559bb0f45f9470b8b155f0f3b6c9056.12'
+- ap: 4411
   img:  'http://lh3.ggpht.com/j0Yx7yuvUTJbnHtY38VFaty8xpyZMMDS_bSmvbHQx_2nQBiLqF4PGpLNdTGXkRgA3-OANQgASvn1mPGcuJi6HA'
   lat: 40.131715
   level: 4
@@ -448,12 +454,6 @@
   level: 4
   lon: -88.314062
   name:  'Mark L. Rambow Memorial'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.966802
-  level: '?'
-  lon: -88.34467
-  name:  '4559bb0f45f9470b8b155f0f3b6c9056.12'
 - ap: 4411
   img:  'http://lh3.googleusercontent.com/zmBaxEMhC7WvQDOei5LjXnSrM2p368YlSMZPtCtSY0t6bGsHjg5Bc91PGGsJ0oGn_hifKeBSMB_3BKH3hbwP'
   lat: 40.105567
@@ -511,7 +511,7 @@
 - ap: 3661
   img:  'http://lh5.ggpht.com/1yq3oFq9p_Yl5cUf5h7IEfZPAbae2MT7lA0DFo1DHwPWPZJJ-Ez-2AE2oTzHEHWsEJQVUcUwh3j_d3kOYgDS'
   lat: 40.110095
-  level: 6
+  level: 7
   lon: -88.22862
   name:  'Alma Mater Plaza'
 - ap: 3661
@@ -599,17 +599,17 @@
   lon: -88.251685
   name:  'Curtis William McKinney Memorial'
 - ap: 3474
-  img:  'http://lh4.ggpht.com/fYq8Qzd7VmDjN_GIWRjblwSGoKKIaUFJTgmMNsJrfWO6c5cZu8xnJc4kDm35ITLO2ePeYakXEDKubdwi0x1K'
-  lat: 40.105179
-  level: 4
-  lon: -88.226931
-  name:  'Astronomy Department Sundial'
-- ap: 3474
   img:  'http://lh3.ggpht.com/mRCpYiTnH0rrWGXaOj5qrhYjnvlhpQ8iY4UG3vy_gu2HW2GChgp0aXQ0Uih6XRZcUOJVyzyPggWicFdh7sHrfA'
   lat: 40.106179
   level: 5
   lon: -88.227593
   name:  'Charles P. Wolff Memorial and Tree'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/fYq8Qzd7VmDjN_GIWRjblwSGoKKIaUFJTgmMNsJrfWO6c5cZu8xnJc4kDm35ITLO2ePeYakXEDKubdwi0x1K'
+  lat: 40.105179
+  level: 4
+  lon: -88.226931
+  name:  'Astronomy Department Sundial'
 - ap: 3474
   img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
   lat: 40.107751
@@ -622,6 +622,12 @@
   level: 5
   lon: -88.227414
   name:  'Charlene E. Haight Bench'
+- ap: 2911
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.312242
+  level: '?'
+  lon: -88.201368
+  name:  '2012 Employee Dedication Bench'
 - ap: 2724
   img:  'http://lh4.ggpht.com/zZ2YpVpDiI1KdIQ9iI7mGJD_VtwFztJ4ZF1vRehD9OSnQ2K3433SIg22svwcqDJVfeO2fjE3fdT4eHAJWGpi'
   lat: 40.104339
@@ -636,10 +642,10 @@
   name:  'The Diana Fountain'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.312242
+  lat: 40.025725
   level: '?'
-  lon: -88.201368
-  name:  '2012 Employee Dedication Bench'
+  lon: -88.077886
+  name:  'Sidney Dairy Barn'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.252514
@@ -707,17 +713,11 @@
   lon: -88.247875
   name:  'The Church of Scientology'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/nWEtxuKQdy0teBBue1DYmG7P3SF5-3A6zlB7GwVHBWlolAZYGq6Br78lWcF9ltFy-KeSlozXie2RmU6JfCUX'
-  lat: 40.142673
-  level: 5
-  lon: -88.244603
-  name:  'Italian Statue'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/07XrBN-er6Ecleor0n9RJ4DfGO6B2yn-ZxjI-Uy8Ba46Jtb6cXNVmATPiPiGyk-1jZ4wxa7-EeIWbWUqArCG'
-  lat: 40.142554
-  level: 7
-  lon: -88.243468
-  name:  'Dog Heart'
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.167518
+  level: '?'
+  lon: -88.295979
+  name:  'Alto Vineyards and Winery'
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/ZyXHLNlediISMVLqM9sUeZ0FEft3El4ni5P7GPOy5UF2YYBkTywnN5g1lkaer_lDNSvBUvg7bQ5yA_4Wd9qRWg'
   lat: 40.113521
