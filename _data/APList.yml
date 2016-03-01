@@ -299,6 +299,12 @@
   lon: -88.249136
   name:  '"Cricket" and Bob Barger Memorial'
 - ap: 5909
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.312242
+  level: '?'
+  lon: -88.201368
+  name:  '2012 Employee Dedication Bench'
+- ap: 5909
   img:  'http://lh3.ggpht.com/AD9d7JPmLdYRdpxESO9iORy1GRXAcN1jzn8dDNvm6FO7cIHVsjwAKI8LmbW4dico1Xe9jzJfsZZriP0CxXA46w'
   lat: 40.104084
   level: 6
@@ -370,6 +376,24 @@
   level: 6
   lon: -88.242132
   name:  'Nuclear Physics Lab'
+- ap: 5161
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.040518
+  level: '?'
+  lon: -88.384748
+  name:  'St Boniface Catholic Church'
+- ap: 5161
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.025725
+  level: '?'
+  lon: -88.077886
+  name:  'Sidney Dairy Barn'
+- ap: 5161
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.04101
+  level: '?'
+  lon: -88.384378
+  name:  'St Boniface Cemetary'
 - ap: 5161
   img:  'http://lh5.ggpht.com/8zq5tMevCiipZK8N9-8SZw3vdsA2HwH0E02ormQshGxHVZrB2WPK7OPC8zt6pjLlgpXVuEYHVA_08_Q8fPw-'
   lat: 40.099647
@@ -449,29 +473,29 @@
   lon: -88.244611
   name:  'Marketplace Mall Carousel'
 - ap: 4598
-  img:  'http://lh4.ggpht.com/Zom5xkViTBf5wGkPFjYta7PfPZDicQD2VL2bQItgdzMxvQ1x7zqM3Zgynd7a6XBMT6qMAMKagxWMdpMlPcveaw'
-  lat: 40.105849
-  level: 5
-  lon: -88.227679
-  name:  'Lincoln Scholarship Plaque'
-- ap: 4598
   img:  'http://lh6.ggpht.com/T15jgBwdGgKfY5ZEkmL6_eEeGWALRclzodBAIpqOXMAO4sP9g1Mt8CwDQCh5tDr_sZan-95c8YRI6F-W63_-'
   lat: 40.105692
   level: 5
   lon: -88.227097
   name:  'A Son of Deucalion'
-- ap: 4411
-  img:  'http://lh5.ggpht.com/6W_b3aoHNnxViA4TkycmE5hhV5q_VHfypLNlgG4sAyw2eJ5Meyzi2-vwTA8miyKA5pZApxbfpAa7uc0zlCM'
-  lat: 40.134758
-  level: 6
-  lon: -88.313172
-  name:  'Sunset Ridge Prairie '
+- ap: 4598
+  img:  'http://lh4.ggpht.com/Zom5xkViTBf5wGkPFjYta7PfPZDicQD2VL2bQItgdzMxvQ1x7zqM3Zgynd7a6XBMT6qMAMKagxWMdpMlPcveaw'
+  lat: 40.105849
+  level: 5
+  lon: -88.227679
+  name:  'Lincoln Scholarship Plaque'
 - ap: 4411
   img:  'http://lh3.ggpht.com/g1H1SJintXK5Zb7ng6DN7wix1q5otnzMK5JCJDnecwuIiohJmhXLJs1XzItxaTSYEuPPOqd4x-dGqd0WK5YU'
   lat: 40.13349
   level: 4
   lon: -88.313072
   name:  'Sunset Skate Park'
+- ap: 4411
+  img:  'http://lh5.ggpht.com/6W_b3aoHNnxViA4TkycmE5hhV5q_VHfypLNlgG4sAyw2eJ5Meyzi2-vwTA8miyKA5pZApxbfpAa7uc0zlCM'
+  lat: 40.134758
+  level: 6
+  lon: -88.313172
+  name:  'Sunset Ridge Prairie '
 - ap: 4411
   img:  'http://lh3.ggpht.com/j0Yx7yuvUTJbnHtY38VFaty8xpyZMMDS_bSmvbHQx_2nQBiLqF4PGpLNdTGXkRgA3-OANQgASvn1mPGcuJi6HA'
   lat: 40.131715
@@ -671,6 +695,12 @@
   lon: -88.251685
   name:  'Curtis William McKinney Memorial'
 - ap: 3474
+  img:  'http://lh4.ggpht.com/fYq8Qzd7VmDjN_GIWRjblwSGoKKIaUFJTgmMNsJrfWO6c5cZu8xnJc4kDm35ITLO2ePeYakXEDKubdwi0x1K'
+  lat: 40.105179
+  level: 4
+  lon: -88.226931
+  name:  'Astronomy Department Sundial'
+- ap: 3474
   img:  'http://lh3.ggpht.com/mRCpYiTnH0rrWGXaOj5qrhYjnvlhpQ8iY4UG3vy_gu2HW2GChgp0aXQ0Uih6XRZcUOJVyzyPggWicFdh7sHrfA'
   lat: 40.106179
   level: 5
@@ -689,29 +719,17 @@
   lon: -88.227412
   name:  'Bus Stop - Illini Union, Westbound'
 - ap: 3474
-  img:  'http://lh4.ggpht.com/fYq8Qzd7VmDjN_GIWRjblwSGoKKIaUFJTgmMNsJrfWO6c5cZu8xnJc4kDm35ITLO2ePeYakXEDKubdwi0x1K'
-  lat: 40.105179
-  level: 4
-  lon: -88.226931
-  name:  'Astronomy Department Sundial'
+  img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
+  lat: 40.107751
+  level: 5
+  lon: -88.231532
+  name:  'Graduate School of Library and Information Science'
 - ap: 3474
   img:  'http://lh5.ggpht.com/orl0d4FNIpZ7xsdZmVyH_732dMd4uGM01fQ-P5V82KufzWBOMbpankzTgjeS3frZhS7apS3qCrS2o4jtw7pAkg'
   lat: 40.105605
   level: 5
   lon: -88.227414
   name:  'Charlene E. Haight Bench'
-- ap: 3474
-  img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
-  lat: 40.107751
-  level: 5
-  lon: -88.231532
-  name:  'Graduate School of Library and Information Science'
-- ap: 3285
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.312242
-  level: '?'
-  lon: -88.201368
-  name:  '2012 Employee Dedication Bench'
 - ap: 2537
   img:  'http://lh6.ggpht.com/JgD9-vk2pVIQENqssLAn_4Smd4aFydCLSHsQWVF4D4gn8xxgO5PTgDfjr0DKtVdau2_ZQc7RR-gYrOaMwStSRg'
   lat: 40.143345
@@ -730,12 +748,6 @@
   level: 5
   lon: -88.276148
   name:  'Illinois Heartland Library System'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.025725
-  level: '?'
-  lon: -88.077886
-  name:  'Sidney Dairy Barn'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.252514
@@ -808,30 +820,18 @@
   level: 7
   lon: -88.243766
   name:  'Mural on South Neil St.'
-- ap: 2237
+- ap: 2162
   img:  'http://lh4.ggpht.com/PfcTU4XsA06ThtmCWydIWhTsN3gR4jrqnrKxu0O5lhyibhRdKMEaf3jM8VNhViF8qLf13b01E71wr_ajxn0'
   lat: 40.118465
-  level: 3
+  level: 2
   lon: -88.245077
   name:  'Mural at Nitaya'
-- ap: 2537
+- ap: 2462
   img:  'http://lh4.ggpht.com/4_MOw_NKr2wZ2lzAzG2FlLtA3tfOfWqBZpNVP43LfN6ilD6qHRfZ-_wA1Xk8BnCqHKqKdqodC70X09pqtNXXqmNtK-uqo-fC9SZyOjT6ERfJorzg'
   lat: 40.118388
-  level: 6
+  level: 5
   lon: -88.245358
   name:  'Springer Cultural Center'
-- ap: 2312
-  img:  'http://lh6.ggpht.com/nbUJivBo0zF8f8aBbk1GwakUpPbLUVOoEovTTETYwJvfNIHXwG9XUbwoV0x-ly4ZO5Hsyv5KPo3c9cE6Nh8'
-  lat: 40.118832
-  level: 4
-  lon: -88.243643
-  name:  'Tesla Ball'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/D9O580D9hlBOqeMvt2V4nL-eHP62h4vG4YFgk-WTw7GunusU9AOffFuHZ9XYWoB8YrGxpCMu2Y77-LCAgcdT'
-  lat: 40.119328
-  level: 6
-  lon: -88.243755
-  name:  'Birthplace of Champaign / Beautiful Beardsley Hotel'
 - ap: 2537
   img:  'http://lh3.ggpht.com/2bCNiD7SWsS3uzFLMO2cZh-LpHUEMQGnfTmcNx5vJapXho2TuXke630-7zop2Sq4fuY8nWVqy4VCG23mvnIJ'
   lat: 40.104168
@@ -869,6 +869,12 @@
   lon: -88.230562
   name:  'St. John''s Rectory'
 - ap: 2537
+  img:  'http://lh4.ggpht.com/3_LELG2r-A5s2d-x2dWyz6h7HzfjVR_KZn9AG0vhih9EalQIG43iL6LdKqKNpnGdGwguP9ZfnGF0KMq_KDE'
+  lat: 40.105799
+  level: 6
+  lon: -88.230188
+  name:  'Color Glass Windows at the Newman Center'
+- ap: 2537
   img:  'http://lh3.ggpht.com/pVUYGCf7vsAndVd4vhK_pC9p6e9OvGa4ZiWuZg0ELOFDWptBba4H2N4PNZPjQdHXnV1GQyLTpCXQWDMKDUqn'
   lat: 40.108875
   level: 5
@@ -880,12 +886,6 @@
   level: 5
   lon: -88.228248
   name:  'Everitt Lab'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/3_LELG2r-A5s2d-x2dWyz6h7HzfjVR_KZn9AG0vhih9EalQIG43iL6LdKqKNpnGdGwguP9ZfnGF0KMq_KDE'
-  lat: 40.105799
-  level: 6
-  lon: -88.230188
-  name:  'Color Glass Windows at the Newman Center'
 - ap: 2537
   img:  'http://lh5.ggpht.com/jQxBvX2jWXZCQP5ap9HmKaDDgG40pdH5nPpBNcYppZdxce6GWdxMRTYyqKrLxnk_TsmMAd7G6gRwJ6YI7S-v'
   lat: 40.107574
