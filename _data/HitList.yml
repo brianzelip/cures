@@ -27,19 +27,19 @@
   mus: 22
   name:  'Hessel Park'
 - fields: 9
+  img:  'http://lh3.ggpht.com/KzADjdPRAvwycpfTBdAeDwFJ0AxZJG2dPmbPWkXq55QLV9PfpJ_-DsXWIlVgsISUApRdJ5cAxRWx0k0W2hI'
+  lat: 40.09979
+  level: 8
+  lon: -88.249107
+  mus: 14
+  name:  'Jerome Cook Memorial'
+- fields: 7
   img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
   lat: 40.100078
   level: 7
   lon: -88.250683
-  mus: 15
-  name:  'Brian Clark Memorial Plaque'
-- fields: 9
-  img:  'http://lh3.ggpht.com/KzADjdPRAvwycpfTBdAeDwFJ0AxZJG2dPmbPWkXq55QLV9PfpJ_-DsXWIlVgsISUApRdJ5cAxRWx0k0W2hI'
-  lat: 40.09979
-  level: 7
-  lon: -88.249107
   mus: 14
-  name:  'Jerome Cook Memorial'
+  name:  'Brian Clark Memorial Plaque'
 - fields: 3
   img:  'http://lh3.ggpht.com/xSCQSCRT6pHyQi9LDI3OamMdZnhLQ06OSlHRHnJC0FkDo93VgOcr3gyAV0aPAKagwq9V5iViSSCgIr6_fWCB'
   lat: 40.134441
@@ -85,7 +85,7 @@
 - fields: 6
   img:  'http://lh6.ggpht.com/YdeB0EKlsopL39a9YXWj4JBZgXNNLWHgfe4PQzdpWCNWc0fR1YTj8WjARDHnmrusvKWTqKLcGg8U9frhtsw'
   lat: 40.09821
-  level: 7
+  level: 8
   lon: -88.249879
   mus: 9
   name:  'Hessel Park'
@@ -94,7 +94,7 @@
   lat: 40.10064
   level: 7
   lon: -88.24958
-  mus: 9
+  mus: 8
   name:  'Edward A. Cousins Plaque'
 - fields: 5
   img:  'http://lh3.ggpht.com/lzCSS0_tjwUV7JQ2fgLI0e05IrzPxlVUs-6aEPOwUv67IanQJSTi71gkw0SGm8asmoE_r3Xoh048Fd9xRpE'
@@ -117,24 +117,10 @@
   lon: -88.249603
   mus: 5
   name:  'Chef Ra Memorial Plaque'
-- fields: 5
-  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
-  lat: 40.100936
-  level: 8
-  lon: -88.250855
-  mus: 5
-  name:  'Donald F. Bresnan Memorial'
-- fields: 5
-  img:  'http://lh3.googleusercontent.com/qiCzk44kbJr1T0epQjDTIa6YFH1inC0xyPQblqRhSmRcgE4SKEEL6VSPLefcs5myDM3psr50I2E4lQRne_wL'
-  lat: 40.09991
-  level: 7
-  lon: -88.249899
-  mus: 4
-  name:  'Benjamin Biddle Memorial Plaque'
 - fields: 3
   img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
   lat: 40.101062
-  level: 7
+  level: 8
   lon: -88.249275
   mus: 4
   name:  'Narayan & Shanti Achanta Memorial Plaque'
@@ -153,12 +139,26 @@
   mus: 3
   name:  'Blessings from Devon Elaine Cattell'
 - fields: 3
+  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
+  lat: 40.100936
+  level: 8
+  lon: -88.250855
+  mus: 3
+  name:  'Donald F. Bresnan Memorial'
+- fields: 3
   img:  'http://lh3.googleusercontent.com/Tixp17uCaP682s77UzvCwWCOE6vg7iB2qEFLjACq7xtVJdHE0K3yKYsl3_SwKbiUfQWwgTQRbvfka3U0NvNc'
   lat: 40.098819
-  level: 7
+  level: 8
   lon: -88.249214
   mus: 3
   name:  'Bette McKown Honorary'
+- fields: 3
+  img:  'http://lh3.googleusercontent.com/qiCzk44kbJr1T0epQjDTIa6YFH1inC0xyPQblqRhSmRcgE4SKEEL6VSPLefcs5myDM3psr50I2E4lQRne_wL'
+  lat: 40.09991
+  level: 7
+  lon: -88.249899
+  mus: 2
+  name:  'Benjamin Biddle Memorial Plaque'
 - fields: 1
   img:  'http://lh3.ggpht.com/AD9d7JPmLdYRdpxESO9iORy1GRXAcN1jzn8dDNvm6FO7cIHVsjwAKI8LmbW4dico1Xe9jzJfsZZriP0CxXA46w'
   lat: 40.104084
