@@ -443,12 +443,6 @@
   lon: -88.233688
   name:  'University Baptist Church'
 - ap: 3661
-  img:  'http://lh4.ggpht.com/p1kbhH-3K08NNqTt_6-223uI0PurGUV2HeAWGYPRx3OnNYMY-kARoW1zZ2pZBHthAYRZbIgf6ioRawHi0BmUx786y5ffm0kmZsskaOiluDUhSIiI'
-  lat: 40.106173
-  level: 6
-  lon: -88.22719
-  name:  'Foellinger Auditorium'
-- ap: 3661
   img:  'http://lh5.ggpht.com/MWJ2u6CgyftB6h05_WRqj_eYi-vhbwuOZ_9mxAS3eS-wY6XbpKlfBgzmohkwEj6Q2FoR0mm678IAtKTcei8'
   lat: 40.106846
   level: 6
@@ -550,6 +544,12 @@
   level: 8
   lon: -88.251685
   name:  'Curtis William McKinney Memorial'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/p1kbhH-3K08NNqTt_6-223uI0PurGUV2HeAWGYPRx3OnNYMY-kARoW1zZ2pZBHthAYRZbIgf6ioRawHi0BmUx786y5ffm0kmZsskaOiluDUhSIiI'
+  lat: 40.106173
+  level: 6
+  lon: -88.22719
+  name:  'Foellinger Auditorium'
 - ap: 3474
   img:  'http://lh6.ggpht.com/pYay9oPZwUNKfLdWJ1JMI5tA9-Gd0vsBddLTz7fXN6wUW7F23hLMWRwFZNnXyomRkc2f9sqCGMxNWuYHPFZx'
   lat: 40.109142
@@ -659,6 +659,18 @@
   lon: -88.236182
   name:  'Washington Park'
 - ap: 2537
+  img:  'http://lh6.ggpht.com/5tR3GirLCJ25x9j0BfwipsCOjlPMYGMmFrzEkhsJ4eGZ84FFe1_KnUmW3OBzAKAzQgPWPxt1WLJG2DvjFy6W'
+  lat: 40.109015
+  level: 5
+  lon: -88.224982
+  name:  'John J. Morris Jr. Memorial'
+- ap: 2312
+  img:  'http://lh6.ggpht.com/rnWumKyBYpVW5hCfQDlvRaT_666UPI5lo3k6HGdxWuLVsDbD8c7l-BU1HwhBqiGeCW28iEghSQtvZFzqK4w'
+  lat: 40.109013
+  level: 3
+  lon: -88.22587
+  name:  'Understanding Photosynthesis Plaque'
+- ap: 2537
   img:  'http://lh6.ggpht.com/j712bbvDknzGlAU87nZA1Bx45Ng-0MGA9Uvuv-3WzIKA3W51mXOZpJ-TzVSbuU3uE2AsJ5wcO7_B6WDpdRr0'
   lat: 40.110684
   level: 5
@@ -677,18 +689,6 @@
   lon: -88.22945
   name:  'Pineapple Pillar'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/5tR3GirLCJ25x9j0BfwipsCOjlPMYGMmFrzEkhsJ4eGZ84FFe1_KnUmW3OBzAKAzQgPWPxt1WLJG2DvjFy6W'
-  lat: 40.109015
-  level: 5
-  lon: -88.224982
-  name:  'John J. Morris Jr. Memorial'
-- ap: 2312
-  img:  'http://lh6.ggpht.com/rnWumKyBYpVW5hCfQDlvRaT_666UPI5lo3k6HGdxWuLVsDbD8c7l-BU1HwhBqiGeCW28iEghSQtvZFzqK4w'
-  lat: 40.109013
-  level: 3
-  lon: -88.22587
-  name:  'Understanding Photosynthesis Plaque'
-- ap: 2537
   img:  'http://lh6.ggpht.com/yYW6Egg1lWn6UqqLzlgqwCQhtbuxiZSW4TmvI1XBPs33OTTJ0oh51XZXOIILxGI2juoO-E_YfG5UHmeb34rSOw'
   lat: 40.109165
   level: 6
@@ -700,9 +700,3 @@
   level: 3
   lon: -88.22808
   name:  'Earl W Porter Memorial Tree'
-- ap: 2312
-  img:  'http://lh6.ggpht.com/T15jgBwdGgKfY5ZEkmL6_eEeGWALRclzodBAIpqOXMAO4sP9g1Mt8CwDQCh5tDr_sZan-95c8YRI6F-W63_-'
-  lat: 40.105692
-  level: 4
-  lon: -88.227097
-  name:  'A Son of Deucalion'
