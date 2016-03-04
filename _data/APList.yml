@@ -95,17 +95,17 @@
   lon: -88.241752
   name:  'WEFT 90.1 FM Community Radio'
 - ap: 8346
-  img:  'http://lh5.ggpht.com/dRrlHXlT2nMNgZNHiYo52ha9L-Xay9DyOJR2Cpqs74hgAJ09abn9OTAtMzRVedt1_R9ObZllLO98vRhNMfgTgVsJCk1S-HJwX_XgiGpG4lz3a328'
-  lat: 40.11671
-  level: 5
-  lon: -88.24263
-  name:  'Cafe Kopi'
-- ap: 8346
   img:  'http://lh3.ggpht.com/oHMQr2Z5LayQFbZOwOZK4ZbYQ1OVxs85-qNTvSj8epsP72vQiOdrzVmkuMPFQtCSf9Rr0oqcnSLFjLn-sPw'
   lat: 40.116592
   level: 6
   lon: -88.243236
   name:  'Champaign City Bldg. Landmark Plaque'
+- ap: 8346
+  img:  'http://lh5.ggpht.com/dRrlHXlT2nMNgZNHiYo52ha9L-Xay9DyOJR2Cpqs74hgAJ09abn9OTAtMzRVedt1_R9ObZllLO98vRhNMfgTgVsJCk1S-HJwX_XgiGpG4lz3a328'
+  lat: 40.11671
+  level: 5
+  lon: -88.24263
+  name:  'Cafe Kopi'
 - ap: 8159
   img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
   lat: 40.116989
@@ -509,6 +509,12 @@
   lon: -88.243468
   name:  'Dog Heart'
 - ap: 4411
+  img:  'http://lh6.ggpht.com/hmDofhQgtMboyY40gAShyf0g__uH_qYaFzVKnGKShUBNn-JjwpN526PPOYKyq8kvusIGRrMQIZ7ozPedDVm4iA'
+  lat: 40.117495
+  level: 5
+  lon: -88.241616
+  name:  'Lincoln Building'
+- ap: 4411
   img:  'http://lh6.ggpht.com/uJ6kk4uQVfzQ22nbmRS5caadkRcM8fSpAlbvgM8KacYRDBYZtQTBKIHX7ju9ejvrdRG_oIr5QDELOwvb7L0'
   lat: 40.121759
   level: 6
@@ -521,23 +527,17 @@
   lon: -88.241338
   name:  'Illinois Terminal'
 - ap: 4411
-  img:  'http://lh3.ggpht.com/qkbAVT5J9ZNQHzzLNSiw9MN3XrDX3B8bj-xJzu8jKrFdykdTZdsEIlzOKXKVfJ5dZNrhJmG8VHZNeF5pR1G6'
-  lat: 40.119977
-  level: 4
-  lon: -88.242247
-  name:  'Seed House Historic'
-- ap: 4411
   img:  'http://lh5.ggpht.com/BPYtoLzDqibtj79fwGYxizNqHsBoJp5OzVO4Z-75rudKppazgw7D0eoXHOpH20iQd2Uc9MHXs72-r7fOJDNzpz3KRHIpZwzmXBope3LI8GA4SfsY'
   lat: 40.117754
   level: 5
   lon: -88.241676
   name:  'Jos. Kuhn and Co. Building'
 - ap: 4411
-  img:  'http://lh6.ggpht.com/hmDofhQgtMboyY40gAShyf0g__uH_qYaFzVKnGKShUBNn-JjwpN526PPOYKyq8kvusIGRrMQIZ7ozPedDVm4iA'
-  lat: 40.117495
-  level: 5
-  lon: -88.241616
-  name:  'Lincoln Building'
+  img:  'http://lh3.ggpht.com/qkbAVT5J9ZNQHzzLNSiw9MN3XrDX3B8bj-xJzu8jKrFdykdTZdsEIlzOKXKVfJ5dZNrhJmG8VHZNeF5pR1G6'
+  lat: 40.119977
+  level: 4
+  lon: -88.242247
+  name:  'Seed House Historic'
 - ap: 4411
   img:  'http://lh6.ggpht.com/BKeORacgeVrG8XzxTuXmpq5UxomWpK-I2n7Xy0PVbdSciNx9MJl869TcibnFIiV5PJHGv5R3QOpX6ZgLUwU'
   lat: 40.099706
@@ -768,18 +768,6 @@
   name:  'John J. Morris Jr. Memorial'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.312242
-  level: '?'
-  lon: -88.201368
-  name:  '2012 Employee Dedication Bench'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.252514
-  level: '?'
-  lon: -88.377523
-  name:  'a5dadfdfc93e4cf5975f1cd907a2bffa.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.561018
   level: '?'
   lon: -88.900234
@@ -796,6 +784,18 @@
   level: '?'
   lon: -89.017729
   name:  '6a13ff6987ce4ce891f691c1f40a3d6b.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.312242
+  level: '?'
+  lon: -88.201368
+  name:  '2012 Employee Dedication Bench'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.252514
+  level: '?'
+  lon: -88.377523
+  name:  'a5dadfdfc93e4cf5975f1cd907a2bffa.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.052274
