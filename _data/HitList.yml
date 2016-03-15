@@ -1,10 +1,3 @@
-- fields: 4
-  img:  'http://lh5.ggpht.com/kElaGOaV9aI8SrnM1D65gx9J0Ky1AKrN9Yo-pXVmDhELt2pee4MwVRiCqCmlqWzUWj5pS33GnEzAiXmiWKsw'
-  lat: 40.108111
-  level: 5
-  lon: -88.229625
-  mus: 44
-  name:  'Illini Sports Mural'
 - fields: 11
   img:  'http://lh5.ggpht.com/T0WLAJf0s4nu2Phxax31eu6pO6zNoA4JpvHMLyfMKttzJALEWB8EAWOziQwgjdWE3YjBbG1XjGYsgihqCSX9'
   lat: 40.100414
@@ -19,6 +12,13 @@
   lon: -88.25063
   mus: 14
   name:  '"New Holland Yellow Dinosaurs" at Hessel Park'
+- fields: 3
+  img:  'http://lh5.ggpht.com/jQxBvX2jWXZCQP5ap9HmKaDDgG40pdH5nPpBNcYppZdxce6GWdxMRTYyqKrLxnk_TsmMAd7G6gRwJ6YI7S-v'
+  lat: 40.107574
+  level: 4
+  lon: -88.227843
+  mus: 12
+  name:  'Iconic Pillars'
 - fields: 9
   img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
   lat: 40.099852
@@ -26,13 +26,6 @@
   lon: -88.251947
   mus: 11
   name:  'Our Friend Tim Palmer'
-- fields: 5
-  img:  'http://lh3.googleusercontent.com/vRH1cgHOuzbgU69F49MdsOQye4VG9lH8rjDcYQWGq9_8VcBu010oHhoinNmA_Dn9JZGLmS7ehSQJ9h1uDMGBaw'
-  lat: 40.107087
-  level: 6
-  lon: -88.227801
-  mus: 10
-  name:  'Class of 1912 Pillar'
 - fields: 7
   img:  'http://lh3.ggpht.com/VLipBehsKPCp8ewQnBV1ZCz7uE75zcY46iGDyFfFHgX1o55t3DONb3wcBcL5RMYSqABRK0TgIW3DluNy8y6WaA'
   lat: 40.101131
@@ -40,20 +33,27 @@
   lon: -88.250539
   mus: 10
   name:  'Hessel Park'
-- fields: 7
-  img:  'http://lh3.ggpht.com/sisvfsphxy7AK_2qrrqb7lNJk3_7ciHSVJyodINYITBc-UqugyNOooCxKupgJKEg5m_x95eZwouSO2WCmN60ew'
-  lat: 40.098579
+- fields: 5
+  img:  'http://lh6.ggpht.com/YdeB0EKlsopL39a9YXWj4JBZgXNNLWHgfe4PQzdpWCNWc0fR1YTj8WjARDHnmrusvKWTqKLcGg8U9frhtsw'
+  lat: 40.09821
   level: 7
-  lon: -88.249603
-  mus: 8
-  name:  'Chef Ra Memorial Plaque'
+  lon: -88.249879
+  mus: 10
+  name:  'Hessel Park'
 - fields: 6
-  img:  'http://lh6.ggpht.com/BKeORacgeVrG8XzxTuXmpq5UxomWpK-I2n7Xy0PVbdSciNx9MJl869TcibnFIiV5PJHGv5R3QOpX6ZgLUwU'
-  lat: 40.099706
+  img:  'http://lh3.googleusercontent.com/E2FfrLzJb3mHfXBany5NUYpw8tvRpjHxGQ7W0BTKFPVcMupabCQ2fXgQfa0jajRZbLswWOYbEkCO3hUGbIGD'
+  lat: 40.099056
   level: 7
-  lon: -88.250065
+  lon: -88.249136
+  mus: 7
+  name:  '"Cricket" and Bob Barger Memorial'
+- fields: 4
+  img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
+  lat: 40.098959
+  level: 7
+  lon: -88.250141
   mus: 6
-  name:  'Lois Barham Memorial Tree'
+  name:  'Bob and Wilma Tinkham'
 - fields: 3
   img:  'http://lh5.ggpht.com/llyW63Gnxl-lT-L_MhXsl4mdbmv29RvYTWcLt1R7JxibVPORq5Wd_UHIdT-vQ0XaUqZVQiN2mXkV4KJpp5sm'
   lat: 40.1159
@@ -61,27 +61,20 @@
   lon: -88.238508
   mus: 6
   name:  'Dallas & Co: Costumes and Magic'
-- fields: 3
-  img:  'http://lh6.ggpht.com/YVbqGVTjJuDMDdj71CP2mWvnUIdgO25PgoDdJwEGnEE_M9I1aDgKyjSr9JOZVU6UQTZQtfUo9RAWyz92n3jtCQ'
-  lat: 40.098475
+- fields: 6
+  img:  'http://lh3.googleusercontent.com/qiCzk44kbJr1T0epQjDTIa6YFH1inC0xyPQblqRhSmRcgE4SKEEL6VSPLefcs5myDM3psr50I2E4lQRne_wL'
+  lat: 40.09991
   level: 7
-  lon: -88.249208
-  mus: 5
-  name:  'In Fond Memory of William Moore Jr'
-- fields: 3
-  img:  'http://lh6.ggpht.com/3o0ObAARFV_8mBVCC_QD0iLOPVzNkakXybhLnSVEuXIJfDLKMxeYj-EkWIw9NPoZIVRf5Dkrid2yf_NEQ-iE'
-  lat: 40.100347
-  level: 7
-  lon: -88.249385
-  mus: 5
-  name:  'Travis Marmion Memorial'
+  lon: -88.249899
+  mus: 6
+  name:  'Benjamin Biddle Memorial Plaque'
 - fields: 4
-  img:  'http://lh5.ggpht.com/N1cFx79JwZqPlYPDW3HkNwRX8N4Auriii45qzYkAx9l-cKeK81qgZ6nuBpTBEIOyLzy4aIIhQKt2E7ZiysSjkg'
-  lat: 40.10036
-  level: 7
-  lon: -88.250515
+  img:  'http://lh4.ggpht.com/RweWMyuvBgAFSULZ8Wlp43vydPiEhELt6PCp8R9_ZJHCPvMTutxfO2z4hDsrhsFAYbjrh4a1uZeaOz6mWCJD'
+  lat: 40.106958
+  level: 5
+  lon: -88.228125
   mus: 4
-  name:  'Mark Foutch Pavilion'
+  name:  'Engraved Poetry on the Lincoln Hall'
 - fields: 5
   img:  'http://lh4.ggpht.com/4LxsGZZMk3DnpJXUvqzrL54CHSP5TDXjUnDJyHmCCTtCJIjGEI7kxT9g4uxfSPh0X6yGLgQo1jfqbu7B8VEr'
   lat: 40.099084
@@ -90,12 +83,26 @@
   mus: 3
   name:  'Irina P. Stewart Memorial Plaque'
 - fields: 3
+  img:  'http://lh6.ggpht.com/YVbqGVTjJuDMDdj71CP2mWvnUIdgO25PgoDdJwEGnEE_M9I1aDgKyjSr9JOZVU6UQTZQtfUo9RAWyz92n3jtCQ'
+  lat: 40.098475
+  level: 7
+  lon: -88.249208
+  mus: 3
+  name:  'In Fond Memory of William Moore Jr'
+- fields: 3
   img:  'http://lh5.ggpht.com/1fPvqpqXG5PDCkmegoWb9Tv9N5_MZh9XjmZpbyNEs5yPDsCscbrPB1cO_Pf8GT35HYrTF01FZ6s5VPIpjJ_20A'
   lat: 40.107098
   level: 6
   lon: -88.228984
   mus: 3
   name:  'Saint Andrew''s Church'
+- fields: 3
+  img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
+  lat: 40.100521
+  level: 6
+  lon: -88.250864
+  mus: 2
+  name:  'Gabriel Patrick Maxeiner Memorial'
 - fields: 3
   img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
   lat: 40.100941
@@ -110,13 +117,6 @@
   lon: -88.281531
   mus: 2
   name:  'Terry M. Warmbier Memorial'
-- fields: 2
-  img:  'http://lh5.ggpht.com/uP38yDCg4dPRI1F0r0ALGArEc8Q9eoRuaxkfxZTafZZr9tMcbLUZek1hZRbLUxHJVGPcLSf_JKbotbTBeR7nfA'
-  lat: 40.107226
-  level: 5
-  lon: -88.22858
-  mus: 2
-  name:  'Class of 1897 Tree'
 - fields: 1
   img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
   lat: 40.099737
@@ -124,13 +124,6 @@
   lon: -88.251157
   mus: 2
   name:  'Tyler Van Atkins Memorial'
-- fields: 1
-  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
-  lat: 40.100936
-  level: 7
-  lon: -88.250855
-  mus: 1
-  name:  'Donald F. Bresnan Memorial'
 - fields: 2
   img:  'http://lh3.ggpht.com/VrbXGwlUosNLEkVdshWUFoVa3KtlJQoEU4yLYygvftYbPCmxo644Uvar_v8Kb9RS53hB0tXgvV44GotrxZyu'
   lat: 40.098592
@@ -146,19 +139,12 @@
   mus: 1
   name:  'First Street Antiques'
 - fields: 1
-  img:  'http://lh3.googleusercontent.com/E2FfrLzJb3mHfXBany5NUYpw8tvRpjHxGQ7W0BTKFPVcMupabCQ2fXgQfa0jajRZbLswWOYbEkCO3hUGbIGD'
-  lat: 40.099056
-  level: 7
-  lon: -88.249136
+  img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
+  lat: 40.107753
+  level: 6
+  lon: -88.228913
   mus: 1
-  name:  '"Cricket" and Bob Barger Memorial'
-- fields: 1
-  img:  'http://lh4.ggpht.com/2tHD_AHYQu0kWuwLX2HMYWBG4txVkuWsBEfzWLL39npWp8kMSHiUKxSJM1E7yhimuMVUJ-RIlSSKsgjETvtr'
-  lat: 40.110524
-  level: 2
-  lon: -88.228706
-  mus: 1
-  name:  'Leo Roy Tehon Memorial'
+  name:  'Zipcar-Wright Street & Daniel Street'
 - fields: 1+
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.203703
