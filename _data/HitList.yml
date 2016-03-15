@@ -1,10 +1,3 @@
-- fields: 4
-  img:  'http://lh5.ggpht.com/0m1i3CJSj3bKhLj5BgXi8SFpgoihNsBoN6fpccgDU2tjtPcA5BqB1IxvR0yAX9FWkgt3_Q8gbAyGfdJDliGP'
-  lat: 40.115142
-  level: 5
-  lon: -88.238658
-  mus: 28
-  name:  'First Street Antiques'
 - fields: 11
   img:  'http://lh5.ggpht.com/T0WLAJf0s4nu2Phxax31eu6pO6zNoA4JpvHMLyfMKttzJALEWB8EAWOziQwgjdWE3YjBbG1XjGYsgihqCSX9'
   lat: 40.100414
@@ -12,6 +5,13 @@
   lon: -88.249061
   mus: 21
   name:  'Randy William Auteberry Memorial'
+- fields: 3
+  img:  'http://lh5.ggpht.com/kElaGOaV9aI8SrnM1D65gx9J0Ky1AKrN9Yo-pXVmDhELt2pee4MwVRiCqCmlqWzUWj5pS33GnEzAiXmiWKsw'
+  lat: 40.108111
+  level: 5
+  lon: -88.229625
+  mus: 19
+  name:  'Illini Sports Mural'
 - fields: 7
   img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
   lat: 40.098688
@@ -19,13 +19,6 @@
   lon: -88.25063
   mus: 14
   name:  '"New Holland Yellow Dinosaurs" at Hessel Park'
-- fields: 4
-  img:  'http://lh5.ggpht.com/jQxBvX2jWXZCQP5ap9HmKaDDgG40pdH5nPpBNcYppZdxce6GWdxMRTYyqKrLxnk_TsmMAd7G6gRwJ6YI7S-v'
-  lat: 40.107574
-  level: 4
-  lon: -88.227843
-  mus: 13
-  name:  'Iconic Pillars'
 - fields: 9
   img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
   lat: 40.099852
@@ -47,6 +40,13 @@
   lon: -88.249879
   mus: 10
   name:  'Hessel Park'
+- fields: 2
+  img:  'http://lh3.googleusercontent.com/vRH1cgHOuzbgU69F49MdsOQye4VG9lH8rjDcYQWGq9_8VcBu010oHhoinNmA_Dn9JZGLmS7ehSQJ9h1uDMGBaw'
+  lat: 40.107087
+  level: 6
+  lon: -88.227801
+  mus: 7
+  name:  'Class of 1912 Pillar'
 - fields: 6
   img:  'http://lh3.googleusercontent.com/E2FfrLzJb3mHfXBany5NUYpw8tvRpjHxGQ7W0BTKFPVcMupabCQ2fXgQfa0jajRZbLswWOYbEkCO3hUGbIGD'
   lat: 40.099056
@@ -68,13 +68,6 @@
   lon: -88.249899
   mus: 6
   name:  'Benjamin Biddle Memorial Plaque'
-- fields: 5
-  img:  'http://lh4.ggpht.com/RweWMyuvBgAFSULZ8Wlp43vydPiEhELt6PCp8R9_ZJHCPvMTutxfO2z4hDsrhsFAYbjrh4a1uZeaOz6mWCJD'
-  lat: 40.106958
-  level: 5
-  lon: -88.228125
-  mus: 5
-  name:  'Engraved Poetry on the Lincoln Hall'
 - fields: 2
   img:  'http://lh5.ggpht.com/w9vRSV8NBR1gsi8ndeSUNJN2X-ftwCCQ7Jd3dcLVhPw6r1w0x1QE4hNgpCJBKimUeq-HToz_yq9S3rYkzC5bjw'
   lat: 40.114687
@@ -96,13 +89,6 @@
   lon: -88.249208
   mus: 3
   name:  'In Fond Memory of William Moore Jr'
-- fields: 3
-  img:  'http://lh5.ggpht.com/1fPvqpqXG5PDCkmegoWb9Tv9N5_MZh9XjmZpbyNEs5yPDsCscbrPB1cO_Pf8GT35HYrTF01FZ6s5VPIpjJ_20A'
-  lat: 40.107098
-  level: 6
-  lon: -88.228984
-  mus: 3
-  name:  'Saint Andrew''s Church'
 - fields: 3
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
@@ -131,13 +117,6 @@
   lon: -88.251157
   mus: 2
   name:  'Tyler Van Atkins Memorial'
-- fields: 1
-  img:  'http://lh6.ggpht.com/o-Si4_DCq7Qwa_fFJhaTZ0-zCScbl7wDS4PHIFGMbnP9TuPVe9ZauXV3lAreyYvxN7B7n8mlrOR2SsPzXmU'
-  lat: 40.115703
-  level: 5
-  lon: -88.239504
-  mus: 1
-  name:  'Chester Street Bar'
 - fields: 2
   img:  'http://lh3.ggpht.com/VrbXGwlUosNLEkVdshWUFoVa3KtlJQoEU4yLYygvftYbPCmxo644Uvar_v8Kb9RS53hB0tXgvV44GotrxZyu'
   lat: 40.098592
@@ -146,12 +125,12 @@
   mus: 1
   name:  'Ruth and Fred Steigmann Plaque'
 - fields: 1
-  img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
-  lat: 40.107753
+  img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
+  lat: 40.107751
   level: 6
-  lon: -88.228913
+  lon: -88.231532
   mus: 1
-  name:  'Zipcar-Wright Street & Daniel Street'
+  name:  'Graduate School of Library and Information Science'
 - fields: 1+
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.203703
