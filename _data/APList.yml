@@ -77,17 +77,17 @@
   lon: -88.250065
   name:  'Lois Barham Memorial Tree'
 - ap: 7972
-  img:  'http://lh3.ggpht.com/GXyi2ghi2DR3h7uIHNYiEZPYixRhDo7LO0WHQ0PyEzb-150r7ar7JGeVjUoPuObC-GFWf22UWqnYCMtED0M-'
-  lat: 40.100341
-  level: 7
-  lon: -88.249937
-  name:  'Alice Marie Weber Plaque'
-- ap: 7972
   img:  'http://lh6.ggpht.com/3o0ObAARFV_8mBVCC_QD0iLOPVzNkakXybhLnSVEuXIJfDLKMxeYj-EkWIw9NPoZIVRf5Dkrid2yf_NEQ-iE'
   lat: 40.100347
   level: 7
   lon: -88.249385
   name:  'Travis Marmion Memorial'
+- ap: 7972
+  img:  'http://lh3.ggpht.com/GXyi2ghi2DR3h7uIHNYiEZPYixRhDo7LO0WHQ0PyEzb-150r7ar7JGeVjUoPuObC-GFWf22UWqnYCMtED0M-'
+  lat: 40.100341
+  level: 7
+  lon: -88.249937
+  name:  'Alice Marie Weber Plaque'
 - ap: 7972
   img:  'http://lh5.ggpht.com/aeGh3iXJqJ7skg-2JHEpngMSfcp1qDIEPoLMxzQNqbS5Y7HcxN7oE789bXiVFoFIcdCn7-3AhLPtxT_WE2E'
   lat: 40.0985
@@ -155,17 +155,17 @@
   lon: -88.249208
   name:  'In Fond Memory of William Moore Jr'
 - ap: 7035
-  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
-  lat: 40.100936
-  level: 7
-  lon: -88.250855
-  name:  'Donald F. Bresnan Memorial'
-- ap: 7035
   img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
   lat: 40.100691
   level: 6
   lon: -88.251337
   name:  'In Loving Memory of Zeus'
+- ap: 7035
+  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
+  lat: 40.100936
+  level: 7
+  lon: -88.250855
+  name:  'Donald F. Bresnan Memorial'
 - ap: 7035
   img:  'http://lh4.ggpht.com/4LxsGZZMk3DnpJXUvqzrL54CHSP5TDXjUnDJyHmCCTtCJIjGEI7kxT9g4uxfSPh0X6yGLgQo1jfqbu7B8VEr'
   lat: 40.099084
@@ -203,17 +203,17 @@
   lon: -88.251747
   name:  'Tennis Anyone'
 - ap: 6098
-  img:  'http://lh3.googleusercontent.com/Tixp17uCaP682s77UzvCwWCOE6vg7iB2qEFLjACq7xtVJdHE0K3yKYsl3_SwKbiUfQWwgTQRbvfka3U0NvNc'
-  lat: 40.098819
-  level: 7
-  lon: -88.249214
-  name:  'Bette McKown Honorary'
-- ap: 6098
   img:  'http://lh5.ggpht.com/8zq5tMevCiipZK8N9-8SZw3vdsA2HwH0E02ormQshGxHVZrB2WPK7OPC8zt6pjLlgpXVuEYHVA_08_Q8fPw-'
   lat: 40.099647
   level: 7
   lon: -88.249648
   name:  'Max Overmyer Memorial Playground'
+- ap: 6098
+  img:  'http://lh3.googleusercontent.com/Tixp17uCaP682s77UzvCwWCOE6vg7iB2qEFLjACq7xtVJdHE0K3yKYsl3_SwKbiUfQWwgTQRbvfka3U0NvNc'
+  lat: 40.098819
+  level: 7
+  lon: -88.249214
+  name:  'Bette McKown Honorary'
 - ap: 5161
   img:  'http://lh6.ggpht.com/nbUJivBo0zF8f8aBbk1GwakUpPbLUVOoEovTTETYwJvfNIHXwG9XUbwoV0x-ly4ZO5Hsyv5KPo3c9cE6Nh8'
   lat: 40.118832
@@ -275,6 +275,12 @@
   lon: -88.22862
   name:  'Alma Mater Plaza'
 - ap: 3661
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.986171
+  level: '?'
+  lon: -87.649506
+  name:  '04c6c22af52c457898048b9fda6418bd.16'
+- ap: 3661
   img:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
   lat: 40.108173
   level: 6
@@ -294,22 +300,16 @@
   name:  '1ab1edcdd05447019675c2b4b0d30cbb.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.037391
+  lat: 42.396552
   level: '?'
-  lon: -88.262565
-  name:  'Willard Airport Fountain'
+  lon: -86.283274
+  name:  'Kids Corner Park'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.494884
+  lat: 41.986444
   level: '?'
-  lon: -88.38382
-  name:  '33cf7c7b21244fec949791f921bb26cf.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.494107
-  level: '?'
-  lon: -88.381575
-  name:  '1ea1fe040a96436495c7b8cb8fa0b830.16'
+  lon: -87.653963
+  name:  'ae7fbad6a58542efbe677f520e8950cf.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.552796
@@ -328,6 +328,24 @@
   level: '?'
   lon: -90.061165
   name:  '6604fa07bd3248b08f340e379c5358b0.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.037391
+  level: '?'
+  lon: -88.262565
+  name:  'Willard Airport Fountain'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.494884
+  level: '?'
+  lon: -88.38382
+  name:  '33cf7c7b21244fec949791f921bb26cf.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.494107
+  level: '?'
+  lon: -88.381575
+  name:  '1ea1fe040a96436495c7b8cb8fa0b830.16'
 - ap: 3474
   img:  'http://lh5.ggpht.com/tuo_ByFTbwLitFP5cBseOibqRxENxbCwOJ30dCnja5ijBI_qBv5vqNP7ZuZXnxhYM6ms_GbExZEwwKVUtwV2'
   lat: 40.093712
@@ -420,34 +438,28 @@
   name:  'f9e5b291bd504b41ac3ecf098b9738a3.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.40148
-  level: '?'
-  lon: -86.287044
-  name:  'be78c15683554893a96f56b528eb8f83.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.006828
-  level: '?'
-  lon: -87.65519
-  name:  'f1155b4ff98f47a899c22acd70f130d5.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.12211
   level: '?'
   lon: -88.646234
   name:  'e2b45c656b534c16be39673202767781.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.986444
+  lat: 42.397541
   level: '?'
-  lon: -87.653963
-  name:  'ae7fbad6a58542efbe677f520e8950cf.16'
+  lon: -86.277385
+  name:  'ae938e982c3347e288dc706cad526066.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.396552
+  lat: 40.581967
   level: '?'
-  lon: -86.283274
-  name:  'Kids Corner Park'
+  lon: -89.340268
+  name:  '3f6be7d1773348cd98a3e7605e6da161.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.873822
+  level: '?'
+  lon: -88.646106
+  name:  '48c9d6133823423796c94e34eab373eb.16'
 - ap: 2537
   img:  'http://lh5.ggpht.com/MwbHU_6JdAac15Ib0VOJTtJRdw2MIV0lECEtvsSecHinX2DiCU3_vEl-ooEQWQBPpRPpFOiCiKawsLz6ChsJ'
   lat: 40.113496
@@ -534,12 +546,6 @@
   name:  'National Center for Supercomputing Applications'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.203562
-  level: '?'
-  lon: -88.395264
-  name:  'Blue Star Memorial By-Way'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.203973
   level: '?'
   lon: -88.393369
@@ -550,3 +556,9 @@
   level: '?'
   lon: -88.394249
   name:  'c47c86e036934462bff379850cb47aca.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.203562
+  level: '?'
+  lon: -88.395264
+  name:  'Blue Star Memorial By-Way'
