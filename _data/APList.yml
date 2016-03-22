@@ -35,17 +35,23 @@
   lon: -88.225268
   name:  'Institute of Genomic Biology Gateway'
 - ap: 5535
-  img:  'http://lh6.ggpht.com/pRR6eCp2PyD3vDZlmHjKOeq8OKg0KhFPVnuWAP-pB7RR36eKA3TlQwYX5pwYfBjPyVyB4oPXXOomdbqpVcY'
-  lat: 40.116065
-  level: 5
-  lon: -88.313206
-  name:  'Alan Green Memorial'
-- ap: 5535
   img:  'http://lh3.ggpht.com/eFFdc4ogWkS9n6Texp4aw9BhK-M6FRxwvMRH-YkXj7JP7qSRQdo7E0-0O4P7NawgvduxpxgjnbGHbN1BjW2_'
   lat: 40.114585
   level: 6
   lon: -88.311371
   name:  'Joe''s Park'
+- ap: 5535
+  img:  'http://lh6.ggpht.com/pRR6eCp2PyD3vDZlmHjKOeq8OKg0KhFPVnuWAP-pB7RR36eKA3TlQwYX5pwYfBjPyVyB4oPXXOomdbqpVcY'
+  lat: 40.116065
+  level: 5
+  lon: -88.313206
+  name:  'Alan Green Memorial'
+- ap: 4785
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.312242
+  level: '?'
+  lon: -88.201368
+  name:  '2012 Employee Dedication Bench'
 - ap: 4785
   img:  'http://lh3.googleusercontent.com/hJZWoErzM-MuXulq4FlhlZwMbJX1Isd81GBUBVKayd57jVIVxUle3itd-1DRKo2VaNXznWr1X639fa44Etk'
   lat: 40.141919
@@ -101,18 +107,6 @@
   lon: -88.226519
   name:  'The Morrow Plots'
 - ap: 4411
-  img:  'http://lh5.ggpht.com/Ezq3ovJZ5M4i8wxOtoPoHEBF_o5ur2tH3Hdb0QU-JmlxR71RxAS_K5h14xYHSyI2WOF0RuBy_hZZeslYhNNe'
-  lat: 40.102329
-  level: 5
-  lon: -88.221381
-  name:  'McKinley Fountain'
-- ap: 4411
-  img:  'http://lh4.ggpht.com/qRXj_26gyasJAkfT6wSZkP0QYn8-yZkHAYRVxmC-hjk-7pn88goOR99xRnB4SfG-Gq8xh-qbVgQwYmJeT2PrTA'
-  lat: 40.103186
-  level: 5
-  lon: -88.220991
-  name:  '"Prairie Fire" Sculpture'
-- ap: 4411
   img:  'http://lh6.ggpht.com/SOEkawCv91wHrlqOJdkbN9KzhF3V8Uc1_VE_5V-PUNZhbJ9jXtSHQLjSEP4PGO091UFjUtYxX4Ikg7x6rE0LNawabllL4qbEUfQY-thKMrIXW2E'
   lat: 40.100186
   level: 5
@@ -142,12 +136,6 @@
   level: 6
   lon: -88.224484
   name:  'Bucky Balls'
-- ap: 3661
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.312242
-  level: '?'
-  lon: -88.201368
-  name:  '2012 Employee Dedication Bench'
 - ap: 3661
   img:  'http://lh6.ggpht.com/duOeXcOSQLWosdD0JJXg3pWWQp4t5sL0x9qDHoTIBFNOzEW0t53Lt2cnwgV2E_Su0l1ajIQxPtVbbK_sDRaS'
   lat: 40.141775
@@ -179,6 +167,18 @@
   lon: -88.244603
   name:  'Italian Statue'
 - ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.040518
+  level: '?'
+  lon: -88.384748
+  name:  'St Boniface Catholic Church'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.010962
+  level: '?'
+  lon: -88.159775
+  name:  'Hale Park'
+- ap: 3474
   img:  'http://lh3.ggpht.com/oHMQr2Z5LayQFbZOwOZK4ZbYQ1OVxs85-qNTvSj8epsP72vQiOdrzVmkuMPFQtCSf9Rr0oqcnSLFjLn-sPw'
   lat: 40.116592
   level: 4
@@ -208,12 +208,18 @@
   level: 6
   lon: -88.223687
   name:  'ERML'
-- ap: 3099
-  img:  'http://lh6.ggpht.com/453A5_wF0LdRJVZ1XnGIiUxghQgaxxiiv105HgvefLvU1eXqU6MLfIs0sLt0LGyVMugGuMvm0AKXq91t2sxZGEV2kNlMux2B3vOeFxvmUX2SQLUm'
-  lat: 40.100927
-  level: 1
-  lon: -88.220124
-  name:  'Illini Grove Shelter House'
+- ap: 3474
+  img:  'http://lh5.ggpht.com/Ezq3ovJZ5M4i8wxOtoPoHEBF_o5ur2tH3Hdb0QU-JmlxR71RxAS_K5h14xYHSyI2WOF0RuBy_hZZeslYhNNe'
+  lat: 40.102329
+  level: 5
+  lon: -88.221381
+  name:  'McKinley Fountain'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/qRXj_26gyasJAkfT6wSZkP0QYn8-yZkHAYRVxmC-hjk-7pn88goOR99xRnB4SfG-Gq8xh-qbVgQwYmJeT2PrTA'
+  lat: 40.103186
+  level: 5
+  lon: -88.220991
+  name:  '"Prairie Fire" Sculpture'
 - ap: 3474
   img:  'http://lh4.ggpht.com/j8joGoDXiT8G5MyyFw23RcsYV5nW1rGWTXw-1LPdy1zgRVuKUlM2poC1GcTVA3NV1F_20cCRgX4G6jx_HYc'
   lat: 40.103488
@@ -244,10 +250,10 @@
   level: 7
   lon: -88.28778
   name:  'Campus Solar System - Saturn'
-- ap: 2724
+- ap: 2499
   img:  'http://lh4.ggpht.com/eFO1Un8Ok94pb7zpQzu1gaszKnoOPV7PujLsj3Nvvw9YX3VRly6XdazsGI8YuEDSZLGkX8PJn6lam3m0GTQ'
   lat: 40.099979
-  level: 5
+  level: 3
   lon: -88.220461
   name:  'Barbecue Mural'
 - ap: 2537
@@ -346,9 +352,9 @@
   level: 5
   lon: -88.225347
   name:  'The Red Herring Vegetarian'
-- ap: 2312
+- ap: 2162
   img:  'http://lh6.ggpht.com/uuDZEurp-UqLKU1BShf2vQxSG1vwpk-MDBizyO6dIijDD3nTavBfEGfQ4lPiXtDc-2867s28mDJ0ko7kvC3sxQ'
   lat: 40.100485
-  level: 3
+  level: 2
   lon: -88.219408
   name:  'Pennsylvania Avenue Residence Halls'
