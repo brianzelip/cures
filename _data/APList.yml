@@ -35,17 +35,17 @@
   lon: -88.225268
   name:  'Institute of Genomic Biology Gateway'
 - ap: 5535
-  img:  'http://lh3.ggpht.com/eFFdc4ogWkS9n6Texp4aw9BhK-M6FRxwvMRH-YkXj7JP7qSRQdo7E0-0O4P7NawgvduxpxgjnbGHbN1BjW2_'
-  lat: 40.114585
-  level: 6
-  lon: -88.311371
-  name:  'Joe''s Park'
-- ap: 5535
   img:  'http://lh6.ggpht.com/pRR6eCp2PyD3vDZlmHjKOeq8OKg0KhFPVnuWAP-pB7RR36eKA3TlQwYX5pwYfBjPyVyB4oPXXOomdbqpVcY'
   lat: 40.116065
   level: 5
   lon: -88.313206
   name:  'Alan Green Memorial'
+- ap: 5535
+  img:  'http://lh3.ggpht.com/eFFdc4ogWkS9n6Texp4aw9BhK-M6FRxwvMRH-YkXj7JP7qSRQdo7E0-0O4P7NawgvduxpxgjnbGHbN1BjW2_'
+  lat: 40.114585
+  level: 6
+  lon: -88.311371
+  name:  'Joe''s Park'
 - ap: 4785
   img:  'http://lh3.googleusercontent.com/hJZWoErzM-MuXulq4FlhlZwMbJX1Isd81GBUBVKayd57jVIVxUle3itd-1DRKo2VaNXznWr1X639fa44Etk'
   lat: 40.141919
@@ -125,12 +125,6 @@
   lon: -88.205422
   name:  'Ann and Ben Schrumpf Memorial'
 - ap: 3848
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.937449
-  level: '?'
-  lon: -89.67381
-  name:  '14ac1a5ebddf4e9d92a1d2fecc4eaba8.16'
-- ap: 3848
   img:  'http://lh3.googleusercontent.com/Nj5Ai888qxXriCQAeWkG8SbHbFuOlsYYCL3FjX-pCkblSOg30VuNF9lK9SQj4UDlg9R8XMYXpAcWyE9xIcA'
   lat: 40.135716
   level: 6
@@ -166,18 +160,6 @@
   level: 7
   lon: -88.251685
   name:  'Curtis William McKinney Memorial'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.160008
-  level: '?'
-  lon: -89.387825
-  name:  '7bb0a855a0ad476da15c867fae0f4350.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.448264
-  level: '?'
-  lon: -89.029353
-  name:  'Pepper Ridge Park'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.045869
@@ -226,18 +208,18 @@
   level: 6
   lon: -88.223687
   name:  'ERML'
-- ap: 3474
-  img:  'http://lh4.ggpht.com/j8joGoDXiT8G5MyyFw23RcsYV5nW1rGWTXw-1LPdy1zgRVuKUlM2poC1GcTVA3NV1F_20cCRgX4G6jx_HYc'
-  lat: 40.103488
-  level: 5
-  lon: -88.22119
-  name:  'Red Oak Rain Garden'
 - ap: 3099
   img:  'http://lh6.ggpht.com/453A5_wF0LdRJVZ1XnGIiUxghQgaxxiiv105HgvefLvU1eXqU6MLfIs0sLt0LGyVMugGuMvm0AKXq91t2sxZGEV2kNlMux2B3vOeFxvmUX2SQLUm'
   lat: 40.100927
   level: 1
   lon: -88.220124
   name:  'Illini Grove Shelter House'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/j8joGoDXiT8G5MyyFw23RcsYV5nW1rGWTXw-1LPdy1zgRVuKUlM2poC1GcTVA3NV1F_20cCRgX4G6jx_HYc'
+  lat: 40.103488
+  level: 5
+  lon: -88.22119
+  name:  'Red Oak Rain Garden'
 - ap: 3474
   img:  'http://lh5.ggpht.com/_7T_9npLcYDGVQxXhXrsFORj35gQQEYqiUxwW949h0mVOq-jNHvpY7g9JscyWOIX-Km5HQ4RLRKtUI2nR7Nw'
   lat: 40.099589
@@ -270,12 +252,6 @@
   name:  'Barbecue Mural'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.292103
-  level: '?'
-  lon: -90.296861
-  name:  '89cc1b95492e49a79ab539f8b87e6024.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.302131
   level: '?'
   lon: -88.159032
@@ -292,12 +268,6 @@
   level: '?'
   lon: -88.534663
   name:  'Ross And Hughes Cemetary'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.156624
-  level: '?'
-  lon: -88.652708
-  name:  '4538577824a247e0bbfca4392d741846.12'
 - ap: 2537
   img:  'http://lh6.ggpht.com/v2m1E6vVK4ZRaRPhGli7jCsG7xZQZ7I3vV_5AogdEpPU_A1vz9WEkH0vZ-vau2IAdmydYJcXrOA6SMr7vUfT'
   lat: 40.128726
