@@ -1,9 +1,9 @@
-- fields: 2+
+- fields: 3+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.110982
   level: '?'
   lon: -88.163907
-  mus: 24280
+  mus: 25293
   name:  'Urbana Post Office'
 - fields: 2+
   img: http://i.imgur.com/LujBo5P.png
@@ -61,6 +61,13 @@
   lon: -88.314706
   mus: 4164
   name:  'Grandview Memorial Gardens'
+- fields: 4
+  img:  'http://lh3.ggpht.com/ZrkQ9I09rQynLgNHgTWMc8sm29XEvwj5QcSQhhgTtN7hDh1pSZHSTI63mz6wWj1jkhlz1qYkKyHD0SJWPNMY'
+  lat: 40.094863
+  level: 6
+  lon: -88.190535
+  mus: 3689
+  name:  'Splintering Continuity'
 - fields: 3
   img:  'http://lh4.ggpht.com/-P9_K1M8m41FpGEgfyih0JNuexcc1mtm7Hq3LOuozksba15MIQWefDgfBs20Uuf61Txiy9-ALeKCMVWuBi4'
   lat: 40.083514
@@ -89,13 +96,6 @@
   lon: -88.257755
   mus: 2833
   name:  'Market View Fountain'
-- fields: 3
-  img:  'http://lh3.ggpht.com/ZrkQ9I09rQynLgNHgTWMc8sm29XEvwj5QcSQhhgTtN7hDh1pSZHSTI63mz6wWj1jkhlz1qYkKyHD0SJWPNMY'
-  lat: 40.094863
-  level: 6
-  lon: -88.190535
-  mus: 2676
-  name:  'Splintering Continuity'
 - fields: 12
   img:  'http://lh6.ggpht.com/y9bxecO9Wm4VrE6p2LRWA8XIIUlHlYWbTSZJ6GrJrTpeVtxB7wI7cWjdLkM6gjq_eOk7n-nJOlSJ9WzGjgfG'
   lat: 40.137123
@@ -236,6 +236,13 @@
   lon: -88.300592
   mus: 1214
   name:  'Jo Ann Powell Memorial Tree'
+- fields: 3
+  img:  'http://lh5.ggpht.com/MQR_ZzKDnOCzhArYVQvSq3fm-6zcOGn3bneYKT9cpAuejbSEQDZBYeUPwN8D3OBLklSTSl0TJASS2zUJjUUd'
+  lat: 40.105522
+  level: 7
+  lon: -88.188493
+  mus: 1192
+  name:  'Lierman Neighborhood Community Garden'
 - fields: 6
   img:  'http://lh6.ggpht.com/WA_L9RXB_ZwCyxpgQ7Lyjp1-4xTl5O-BQohOBQcoEMnP7-wKp--MGUdnY_DPuCGZ78-x0LtEWc8FT2n9QMPS'
   lat: 40.148879
@@ -393,7 +400,7 @@
 - fields: 9
   img:  'http://lh5.ggpht.com/tZ1lEGRzdFJ7k1jwj0PTGd3tWVTGqCHIb1LcRdjc2pF5IJjsuYFFPQgwEWSBaPapa89oOEPXO_g2XWQxQl2h'
   lat: 40.110212
-  level: 7
+  level: 4
   lon: -88.276899
   mus: 703
   name:  'St John Lutheran Church'
@@ -918,7 +925,7 @@
 - fields: 2
   img:  'http://lh4.ggpht.com/HEEvU2OlgWiV5huAu3cvNKaI-C8YKYTO3qB8WMTO7EbsjTO84KS6jLjbGCq7THZq6l63UiUKCSEqY2IADYns'
   lat: 40.091766
-  level: 7
+  level: 8
   lon: -88.250003
   mus: 245
   name:  '"The Cranes" at Fox Corporate Center'
@@ -995,7 +1002,7 @@
 - fields: 10
   img:  'http://lh3.ggpht.com/R3skA_zNDTXP9NfdUIB9j7cOpSKo7-iKXHX1WzPcl8wmPKII84LwCLSADJDdEHEq7GIDwfE1THFMg6nPD7Py0Q'
   lat: 40.104098
-  level: 5
+  level: 6
   lon: -88.221178
   mus: 207
   name:  'Allen Residence Hall Unit One'
@@ -1055,13 +1062,6 @@
   lon: -88.242452
   mus: 180
   name:  'Water Survey Research Center L'
-- fields: 2
-  img:  'http://lh5.ggpht.com/MQR_ZzKDnOCzhArYVQvSq3fm-6zcOGn3bneYKT9cpAuejbSEQDZBYeUPwN8D3OBLklSTSl0TJASS2zUJjUUd'
-  lat: 40.105522
-  level: 7
-  lon: -88.188493
-  mus: 179
-  name:  'Lierman Neighborhood Community Garden'
 - fields: 6
   img:  'http://lh6.ggpht.com/JVdE8szLcx_14HOE9g6m82pfCMg53vfCWujo8nzB4Pyc7KYp6k0YdPcEdqYcFfQlvAP-vh_nNoglAAZ_Wsc'
   lat: 40.093943
@@ -2553,6 +2553,13 @@
   lon: -88.228521
   mus: 7
   name:  'Red Lines Sculpture'
+- fields: 4
+  img:  'http://lh5.ggpht.com/i_8huo_CxMxwTgcukj2dHefx7TgK3uMShcy5UJPAMHS9EfTTWEsWq2FpQew2G7N3KnatQxJjlQekJmvjhqc'
+  lat: 40.078738
+  level: 6
+  lon: -88.208631
+  mus: 7
+  name:  'Open at Meadowbrook '
 - fields: 1
   img:  'http://lh3.ggpht.com/x5fBw8MRogV8dm3kPO5zKNkUrQxn0dM7d1PIoASdX1_Rc8H5Duex4iZdOoIlqazCGll25TmptsWIRq1JFmj6'
   lat: 40.112135
@@ -2630,6 +2637,13 @@
   lon: -88.292671
   mus: 6
   name:  'Campus Solar System - Mercury'
+- fields: 3
+  img:  'http://lh5.ggpht.com/9T9y0bpvBrwNNyvb142IyTeakSgjhepOOFAf15hGx0cHg_jgDEhSwReqANYrDhl7giaXpGBSRLV2dRn0Or3R'
+  lat: 40.077839
+  level: 6
+  lon: -88.209091
+  mus: 6
+  name:  '"Niantic" at Meadowbrook'
 - fields: 2
   img:  'http://lh5.ggpht.com/Rbncx1cCR848JJRHJEZP1LBPjeBES8v3loG6KcPp_EZibzeb9m2nHSS7tN8FkCjMCfjJavG5jZd3NgYEuKE'
   lat: 40.119468
@@ -2658,6 +2672,13 @@
   lon: -88.205936
   mus: 5
   name:  'Blair Park Center Stone'
+- fields: 3
+  img:  'http://lh6.ggpht.com/XqG3n3J3bCj61mM2c6ByPJaWYXv51nQkx7me8714asRsez8kx_rSW4mwH2Rm8Y6Yibx71YB6kMcbAYpGch4'
+  lat: 40.079324
+  level: 6
+  lon: -88.209124
+  mus: 5
+  name:  'Timpone Family Ornamental Tree Grove'
 - fields: 4
   img:  'http://lh3.googleusercontent.com/E2FfrLzJb3mHfXBany5NUYpw8tvRpjHxGQ7W0BTKFPVcMupabCQ2fXgQfa0jajRZbLswWOYbEkCO3hUGbIGD'
   lat: 40.099056
@@ -3050,6 +3071,13 @@
   lon: -88.229415
   mus: 2
   name:  'The Pioneers'
+- fields: 2
+  img:  'http://lh3.ggpht.com/N3joo2vGiOAq-hh0peo2upcDO7iyxx1XC_6L1CBWIQ2PhXEpR1UI3dtCOYHcM8pchVwGj0GyVko-qxrGx3Q'
+  lat: 40.078315
+  level: 7
+  lon: -88.208939
+  mus: 2
+  name:  'Sunstruck'
 - fields: 1
   img:  'http://lh3.googleusercontent.com/9QA69H7Pr4YSLDo8gKmXgbDNGmrnheNC-3AgVL1eiVhh8ZUtZ9IaPMQtiOWlxjY2OSbHxN03GWTETFj-wzM'
   lat: 40.098416
@@ -3071,6 +3099,13 @@
   lon: -88.20463
   mus: 2
   name:  'Swift'
+- fields: 1
+  img:  'http://lh6.ggpht.com/UXx9XSWX3zuym6SdX68IXNFYcpnbhGuF7Zk3taO-TJ2VI_LvwmooNWjUHb8OIgKsjyto3PT7YU0D-Y7HW7c'
+  lat: 40.077643
+  level: 6
+  lon: -88.208694
+  mus: 2
+  name:  'El-Ahrairah'
 - fields: 1
   img:  'http://lh3.ggpht.com/LR76HrJqriPFUoc2XSs7jb2SotnStZv20kI7rgUx8B5HqhmetnTW4MA1tCp1ws4g5gw0sf9g7M3Lwq4VwfpD'
   lat: 40.111687
@@ -3323,13 +3358,6 @@
   lon: -88.224091
   mus: 1
   name:  'Institute of Aviation'
-- fields: 1
-  img:  'http://lh6.ggpht.com/XqG3n3J3bCj61mM2c6ByPJaWYXv51nQkx7me8714asRsez8kx_rSW4mwH2Rm8Y6Yibx71YB6kMcbAYpGch4'
-  lat: 40.079324
-  level: 6
-  lon: -88.209124
-  mus: 1
-  name:  'Timpone Family Ornamental Tree Grove'
 - fields: 1
   img:  'http://lh6.ggpht.com/ARxGPDwwD9zGWfT9onLvNXRMYpYW0G7tL4osRfuUfWaG2wAJR486QSRQ_1dw-pJZMHccKUnSShoDVMijLRTh5g'
   lat: 40.07961

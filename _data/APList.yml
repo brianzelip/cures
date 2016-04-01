@@ -149,12 +149,6 @@
   lon: -88.235749
   name:  'Fountain at Scott Park'
 - ap: 3848
-  img:  'http://lh4.ggpht.com/DJiaqGgwCaKSjYczELIcjQOeBtoEqd--7TZYBJWO9_Nd16vjKwlco9tKatJTdAKT1CPoO7Cj39_rZvp8p0Ch'
-  lat: 40.087241
-  level: 7
-  lon: -88.248222
-  name:  'NCSA Blue Waters'
-- ap: 3848
   img:  'http://lh5.ggpht.com/2PB1u3cNuASfw9D_MIUzI1JvNofebK7zsuGqKoUApr-nUWYZ8y5CzxH6g7CdcY7ShBaVGrBrurkbwrdUPD7JBk55TH0Ouao5b_g2jUI1saBNUE8'
   lat: 40.106744
   level: 6
@@ -184,12 +178,6 @@
   level: 5
   lon: -88.242671
   name:  'Marketplace Mall Fountain'
-- ap: 3661
-  img:  'http://lh4.ggpht.com/-2q6p_jcZ5xVswdwpO98pGsMWXnqxUlsBmhWA2F6xs0MbwejV7FTN7-kHSb4nlsfg3uUsrvdDmUM5v1lQ-Ia'
-  lat: 40.086252
-  level: 5
-  lon: -88.249351
-  name:  'A Lady Waiting for the Bus'
 - ap: 3661
   img:  'http://lh6.ggpht.com/0IsQORyEW-bPA7sEbGspygtoI7ixEshm_2fUw5oeh9AeXg6JN5w0ypYIshpuKm-C0nG4Vm2XmpLvtWTZzWzd'
   lat: 40.111607
@@ -240,6 +228,24 @@
   name:  '6096c5e5bdc14679aaecf942915edbd3.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.052212
+  level: '?'
+  lon: -87.669411
+  name:  '104d9a0bac384f00b3dfa667adecb86a.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.961753
+  level: '?'
+  lon: -87.635149
+  name:  '6c2507186ab34c85872712308bb809fe.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.202628
+  level: '?'
+  lon: -86.392483
+  name:  '39a9032107e6424a8a59b273eda6764b.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.148025
   level: '?'
   lon: -88.95752
@@ -250,12 +256,6 @@
   level: 5
   lon: -88.244603
   name:  'Italian Statue'
-- ap: 3474
-  img:  'http://lh5.ggpht.com/yK94cjys6dDm62pDsBwEKJP8ioxZEFbb2oelmT5ZMmaNZPkqAXW00NHP3_7fvtyG796u2ZhKGfbY7To9Sdtz'
-  lat: 40.088063
-  level: 8
-  lon: -88.248271
-  name:  'Still Waters'
 - ap: 3474
   img:  'http://lh5.ggpht.com/szWXjFVU67N6nJHeZbrcsC2b8J7kXF7nBh_RooZZ5-ezcJsxWUvA7NZrGjJxfwTzVkc2HYMYLwh19UaYEbm3-Vmu4ZAG8959ZOG44cpeeyoUHtkD'
   lat: 40.108422
@@ -311,12 +311,6 @@
   lon: -88.238508
   name:  'Dallas & Co: Costumes and Magic'
 - ap: 2724
-  img:  'http://lh3.ggpht.com/Jjm7ZUINFebdUQM0ZQth9oP9Uyw8xFVkOvgyZHQPHJ1pHk0-WPWHpdBULljg6f9GLhbmItzSwpavqyrf1zXwIQ'
-  lat: 40.087721
-  level: 8
-  lon: -88.248276
-  name:  'Work And Play'
-- ap: 2724
   img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
   lat: 40.107753
   level: 7
@@ -347,6 +341,18 @@
   lon: -88.52144
   name:  '37b8010f3577489a917b0fbc9441ffff.16'
 - ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.180563
+  level: '?'
+  lon: -90.315498
+  name:  'd5763602abe64e69aa74bed131a30d0e.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.509049
+  level: '?'
+  lon: -89.717087
+  name:  '46e177b2f1b54714bacdebf10ad715af.16'
+- ap: 2537
   img:  'http://lh5.ggpht.com/n8MFM2pb-tE5i9EziJdygPPUK8VqEZ4BHGQaywz4lwe3WjwdgO0ohBCPZmiMoL00r3mVPmYnbCunJDeFbyk'
   lat: 40.118593
   level: 5
@@ -364,10 +370,10 @@
   level: 5
   lon: -88.244122
   name:  'Artistic Graffiti at MCS'
-- ap: 2537
+- ap: 2087
   img:  'http://lh6.ggpht.com/eeOtj4-6PU8Dt6QXk_TJjgkoEGRW9L8YzUqZE8QV5ZMCHnqA5CzoQoxKpnjCvXwaIflUUvPJmO_S7BdvMhcuzw'
   lat: 40.117588
-  level: 4
+  level: 1
   lon: -88.241787
   name:  'Adam & Eve Mourning Over the Soul of Abel'
 - ap: 2537
@@ -389,6 +395,18 @@
   lon: -88.238808
   name:  'Alpha Gamma Rho'
 - ap: 2537
+  img:  'http://lh3.ggpht.com/Jjm7ZUINFebdUQM0ZQth9oP9Uyw8xFVkOvgyZHQPHJ1pHk0-WPWHpdBULljg6f9GLhbmItzSwpavqyrf1zXwIQ'
+  lat: 40.087721
+  level: 8
+  lon: -88.248276
+  name:  'Work And Play'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/-2q6p_jcZ5xVswdwpO98pGsMWXnqxUlsBmhWA2F6xs0MbwejV7FTN7-kHSb4nlsfg3uUsrvdDmUM5v1lQ-Ia'
+  lat: 40.086252
+  level: 6
+  lon: -88.249351
+  name:  'A Lady Waiting for the Bus'
+- ap: 2537
   img:  'http://lh6.ggpht.com/2NvBiEF5E3wBXJ0JKc8NUUbuZm1PhUhLId32Sc_hNjaonDtojWnGWZRYwJgz-UJwMgucV2NHBfCK_51gIyU'
   lat: 40.084725
   level: 4
@@ -400,12 +418,6 @@
   level: 4
   lon: -88.252891
   name:  'The Church of Latter Day Saints'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/qq3QmeyCYxWnJF_DzzI5wVvHF4foNyr_bF3_j5eVPHJ1omSbD2INOifPJEO3pjz4X1l4_wMGD4uOT1_w6Tid'
-  lat: 40.086713
-  level: 8
-  lon: -88.248293
-  name:  'Garden Patio'
 - ap: 2312
   img:  'http://lh4.ggpht.com/IZUCSooIdo5qUAG278Al-JEKCRv842M0uDMusE78yaL4p-QCYu2A4UXE6X2jTFemr_w8ZfD6g_lQqjwbdg'
   lat: 40.109702
