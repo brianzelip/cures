@@ -143,6 +143,12 @@
   lon: -88.22858
   name:  'Class of 1897 Tree'
 - ap: 3848
+  img:  'http://lh4.ggpht.com/7U0YXCB_DIhnqPJyjyLpNn6kg4lU8HvKL87ddBKWq1sptvVLvCEiCuNEnghQtqDGSN2OBNcOUK9nZcYjY4Vr'
+  lat: 40.107887
+  level: 5
+  lon: -88.225998
+  name:  'Lifesaving Antibiotic Plaque'
+- ap: 3848
   img:  'http://lh6.ggpht.com/q48Oqk2mm3dXQ2ppK-aYGXKjIiTAOEZfrFkiLK9LXRz2uN9hSKihKeCwfg33q1Z2zMTIMjqJRjPA1U_V3pbR6Q'
   lat: 40.104417
   level: 7
@@ -154,12 +160,6 @@
   level: 6
   lon: -88.228125
   name:  'Engraved Poetry on the Lincoln Hall'
-- ap: 3848
-  img:  'http://lh4.ggpht.com/7U0YXCB_DIhnqPJyjyLpNn6kg4lU8HvKL87ddBKWq1sptvVLvCEiCuNEnghQtqDGSN2OBNcOUK9nZcYjY4Vr'
-  lat: 40.107887
-  level: 5
-  lon: -88.225998
-  name:  'Lifesaving Antibiotic Plaque'
 - ap: 3661
   img:  'http://lh6.ggpht.com/duOeXcOSQLWosdD0JJXg3pWWQp4t5sL0x9qDHoTIBFNOzEW0t53Lt2cnwgV2E_Su0l1ajIQxPtVbbK_sDRaS'
   lat: 40.141775
@@ -275,18 +275,6 @@
   lon: -88.962554
   name:  '6096c5e5bdc14679aaecf942915edbd3.16'
 - ap: 2537
-  img:  'http://lh3.googleusercontent.com/mLqVBFC7xDFMCE6vvQLt7bEwzmAtOWSfPoxCDNPJ0aagTDdQtJZKZTbPDs_QXPyKJ-tqZHYr89xorZ0Aa0M'
-  lat: 40.128515
-  level: 6
-  lon: -88.212038
-  name:  'Busey Woods Trail - A Helping Hand'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.977391
-  level: '?'
-  lon: -87.646804
-  name:  'd4dc315b36cf4a80a9dd9237fc9116b1.16'
-- ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.180563
   level: '?'
@@ -299,11 +287,23 @@
   lon: -89.717087
   name:  '46e177b2f1b54714bacdebf10ad715af.16'
 - ap: 2537
+  img:  'http://lh3.googleusercontent.com/mLqVBFC7xDFMCE6vvQLt7bEwzmAtOWSfPoxCDNPJ0aagTDdQtJZKZTbPDs_QXPyKJ-tqZHYr89xorZ0Aa0M'
+  lat: 40.128515
+  level: 6
+  lon: -88.212038
+  name:  'Busey Woods Trail - A Helping Hand'
+- ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.312242
   level: '?'
   lon: -88.201368
   name:  '2012 Employee Dedication Bench'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.977391
+  level: '?'
+  lon: -87.646804
+  name:  'd4dc315b36cf4a80a9dd9237fc9116b1.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.997372
@@ -448,18 +448,18 @@
   level: 6
   lon: -88.22469
   name:  'Building of Molecular and Cellular Biology Sculpture'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/gkIcCbfmQWyJ7s9ryhzfOOn1K-oa8huqzZN80X2psVjx_6Iur5egjGncbUIAMLiAJAf9qG1Ac8lX2MomHYY'
-  lat: 40.108185
-  level: 6
-  lon: -88.225203
-  name:  'Statue at Medical Sciences'
 - ap: 2312
   img:  'http://lh4.ggpht.com/IZUCSooIdo5qUAG278Al-JEKCRv842M0uDMusE78yaL4p-QCYu2A4UXE6X2jTFemr_w8ZfD6g_lQqjwbdg'
   lat: 40.109702
   level: 3
   lon: -88.227571
   name:  'The Ray Bulinski Room'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/gkIcCbfmQWyJ7s9ryhzfOOn1K-oa8huqzZN80X2psVjx_6Iur5egjGncbUIAMLiAJAf9qG1Ac8lX2MomHYY'
+  lat: 40.108185
+  level: 6
+  lon: -88.225203
+  name:  'Statue at Medical Sciences'
 - ap: 2537
   img:  'http://lh6.ggpht.com/pYay9oPZwUNKfLdWJ1JMI5tA9-Gd0vsBddLTz7fXN6wUW7F23hLMWRwFZNnXyomRkc2f9sqCGMxNWuYHPFZx'
   lat: 40.109142
