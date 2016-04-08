@@ -4,6 +4,12 @@
   level: 7
   lon: -88.233753
   name:  'Chabad Menorah'
+- ap: 7783
+  img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
+  lat: 40.106706
+  level: 4
+  lon: -88.232116
+  name:  'Illini Tower'
 - ap: 7033
   img:  'http://lh3.ggpht.com/UCJEg0nnZFNSfAC4NfT2gp9OudEjLUlBiuDJTG4gHlqqHWj8gXAlFIR92jIPXQa3I6VnEMYSwenr5PMJylrt'
   lat: 40.104077
@@ -22,24 +28,24 @@
   level: 5
   lon: -88.235143
   name:  'US Post Office, E Green St, Champaign'
-- ap: 6659
-  img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
-  lat: 40.106706
-  level: 4
-  lon: -88.232116
-  name:  'Illini Tower'
+- ap: 6472
+  img:  'http://lh4.ggpht.com/mHAXKPtOyg_DWRs5A_0yhGeDsfU4f4o3xJvzziri7o3ksPPKtMAHUkUBOb0JJ78gArdP5Q6O-UiXNDG3RHaIYQ'
+  lat: 40.109339
+  level: 5
+  lon: -88.234149
+  name:  'Alpha Delta Phi Fraternity House'
 - ap: 6096
   img:  'http://lh5.ggpht.com/0m1i3CJSj3bKhLj5BgXi8SFpgoihNsBoN6fpccgDU2tjtPcA5BqB1IxvR0yAX9FWkgt3_Q8gbAyGfdJDliGP'
   lat: 40.115142
   level: 7
   lon: -88.238658
   name:  'First Street Antiques'
-- ap: 5722
-  img:  'http://lh4.ggpht.com/mHAXKPtOyg_DWRs5A_0yhGeDsfU4f4o3xJvzziri7o3ksPPKtMAHUkUBOb0JJ78gArdP5Q6O-UiXNDG3RHaIYQ'
-  lat: 40.109339
-  level: 5
-  lon: -88.234149
-  name:  'Alpha Delta Phi Fraternity House'
+- ap: 6096
+  img:  'http://lh4.ggpht.com/PmGpygZ2fBs43twk2Y44XZbgGcHWv0YimAq7Fp3vlIRRqUyLpSmDmFwcn1ucfmJarcQrAAXJjYAXAhNyxSrz'
+  lat: 40.110049
+  level: 6
+  lon: -88.231968
+  name:  'Potbelly Mural'
 - ap: 5535
   img:  'http://lh5.ggpht.com/kElaGOaV9aI8SrnM1D65gx9J0Ky1AKrN9Yo-pXVmDhELt2pee4MwVRiCqCmlqWzUWj5pS33GnEzAiXmiWKsw'
   lat: 40.108111
@@ -52,16 +58,10 @@
   level: 5
   lon: -88.209927
   name:  'Lincoln the Lawyer'
-- ap: 5159
-  img:  'http://lh4.ggpht.com/PmGpygZ2fBs43twk2Y44XZbgGcHWv0YimAq7Fp3vlIRRqUyLpSmDmFwcn1ucfmJarcQrAAXJjYAXAhNyxSrz'
-  lat: 40.110049
-  level: 6
-  lon: -88.231968
-  name:  'Potbelly Mural'
-- ap: 4785
+- ap: 4972
   img:  'http://lh3.ggpht.com/gS3gT_deXzbDvejCL-5ygs31dw9bLQqYr2nDcLPZiv6nQzahJl12awG1a2pwKbFuoTlsHQYxQ2O7HDXL4-8'
   lat: 40.110358
-  level: 6
+  level: 7
   lon: -88.230181
   name:  'Murphy''s Pub '
 - ap: 4785
@@ -275,6 +275,12 @@
   lon: -88.232251
   name:  'McKinley Church'
 - ap: 2724
+  img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
+  lat: 40.106921
+  level: 5
+  lon: -88.230145
+  name:  'University Lutheran Church'
+- ap: 2724
   img:  'http://lh6.ggpht.com/PJNZOMCQPAWy2UMMUz7FvQhEb9zSo2mg1ImzZDYViGOn1FI2EqJX2AwZe_uOwiAKSL2QYkbPfTaRsdL2VvmG'
   lat: 40.103204
   level: 4
@@ -329,12 +335,6 @@
   lon: -88.330182
   name:  'Metal Mesh '
 - ap: 2537
-  img:  'http://lh4.ggpht.com/1LzO6yLZvWb6_g3FLduNKYb6d5TVljqsdNnQggC6Idh7XbUSLf4TOcuWChcYsVve_pt7N5f77mEJLTqUmA'
-  lat: 40.085878
-  level: 5
-  lon: -88.331166
-  name:  'Porter Family Park Dedication'
-- ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.189082
   level: '?'
@@ -359,23 +359,17 @@
   lon: -90.158941
   name:  '3c9e20e71e1b47fd8133b5688f92e429.16'
 - ap: 2537
+  img:  'http://lh4.ggpht.com/1LzO6yLZvWb6_g3FLduNKYb6d5TVljqsdNnQggC6Idh7XbUSLf4TOcuWChcYsVve_pt7N5f77mEJLTqUmA'
+  lat: 40.085878
+  level: 5
+  lon: -88.331166
+  name:  'Porter Family Park Dedication'
+- ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.12211
   level: '?'
   lon: -88.646234
   name:  'e2b45c656b534c16be39673202767781.16'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/g1H1SJintXK5Zb7ng6DN7wix1q5otnzMK5JCJDnecwuIiohJmhXLJs1XzItxaTSYEuPPOqd4x-dGqd0WK5YU'
-  lat: 40.13349
-  level: 5
-  lon: -88.313072
-  name:  'Sunset Skate Park'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/ocpQF23CdY7CXPOYMbPL3wLLV7Rc0VayvSyooA07il2lG0oiiQDbDCnsKqO1ysXJAVlzGikCKS-kVOLb6rog'
-  lat: 40.135079
-  level: 5
-  lon: -88.314559
-  name:  'Sunset Ridge Decorative Gate'
 - ap: 2537
   img:  'http://lh5.ggpht.com/6W_b3aoHNnxViA4TkycmE5hhV5q_VHfypLNlgG4sAyw2eJ5Meyzi2-vwTA8miyKA5pZApxbfpAa7uc0zlCM'
   lat: 40.134758
@@ -388,6 +382,18 @@
   level: 5
   lon: -88.314067
   name:  'Seasons Within the Wetland Environmental Sign'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/ocpQF23CdY7CXPOYMbPL3wLLV7Rc0VayvSyooA07il2lG0oiiQDbDCnsKqO1ysXJAVlzGikCKS-kVOLb6rog'
+  lat: 40.135079
+  level: 5
+  lon: -88.314559
+  name:  'Sunset Ridge Decorative Gate'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/g1H1SJintXK5Zb7ng6DN7wix1q5otnzMK5JCJDnecwuIiohJmhXLJs1XzItxaTSYEuPPOqd4x-dGqd0WK5YU'
+  lat: 40.13349
+  level: 5
+  lon: -88.313072
+  name:  'Sunset Skate Park'
 - ap: 2162
   img:  'http://lh5.ggpht.com/TwKxvDv1ImbH5RTs7GHqqK_rPohVtqtgToH7YuDkkwa5BRFiMEcY1vWcFrJLkhaXW6cd2YVL0_Vro2JaA3K1'
   lat: 40.131575
@@ -443,11 +449,11 @@
   lon: -88.225639
   name:  'Walk of Life 2007'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
-  lat: 40.106921
+  img:  'http://lh6.ggpht.com/wt3gCGeGlsRNnOiaTX96Vh-viR16DO-cpnFyVgwzneUPTS5f0WHyCYLTRqDCgS7PRzg5IAEgkbnTLuc5782N'
+  lat: 40.111681
   level: 5
-  lon: -88.230145
-  name:  'University Lutheran Church'
+  lon: -88.229683
+  name:  'Shelford Vivarium'
 - ap: 2537
   img:  'http://lh6.ggpht.com/SOEkawCv91wHrlqOJdkbN9KzhF3V8Uc1_VE_5V-PUNZhbJ9jXtSHQLjSEP4PGO091UFjUtYxX4Ikg7x6rE0LNawabllL4qbEUfQY-thKMrIXW2E'
   lat: 40.100186
