@@ -4,18 +4,18 @@
   level: 7
   lon: -88.233753
   name:  'Chabad Menorah'
-- ap: 7970
-  img:  'http://lh5.ggpht.com/3RfiPeOzF67ubNX-vkwUJ6-EYld6BKuoBernq0_9kOjlIsSPr3saR9FIQzN7uiw7ouF0CpNflOnL0mUj9zbqdQ'
-  lat: 40.109452
-  level: 6
-  lon: -88.229031
-  name:  'Illini Hall'
 - ap: 7033
   img:  'http://lh3.ggpht.com/UCJEg0nnZFNSfAC4NfT2gp9OudEjLUlBiuDJTG4gHlqqHWj8gXAlFIR92jIPXQa3I6VnEMYSwenr5PMJylrt'
   lat: 40.104077
   level: 4
   lon: -88.212367
   name:  'Stalking Panther'
+- ap: 6846
+  img:  'http://lh5.ggpht.com/3RfiPeOzF67ubNX-vkwUJ6-EYld6BKuoBernq0_9kOjlIsSPr3saR9FIQzN7uiw7ouF0CpNflOnL0mUj9zbqdQ'
+  lat: 40.109452
+  level: 6
+  lon: -88.229031
+  name:  'Illini Hall'
 - ap: 6659
   img:  'http://lh5.ggpht.com/Tn5ARN-X6VTc2q6atZ2WYq3c2g3gbSGXu6_vXf1MDwHfLpdTtnQ-CilBAVGvL6R-SHhq3fJ4WZI-yiJKmIId'
   lat: 40.110398
@@ -34,12 +34,6 @@
   level: 7
   lon: -88.238658
   name:  'First Street Antiques'
-- ap: 5909
-  img:  'http://lh3.ggpht.com/gS3gT_deXzbDvejCL-5ygs31dw9bLQqYr2nDcLPZiv6nQzahJl12awG1a2pwKbFuoTlsHQYxQ2O7HDXL4-8'
-  lat: 40.110358
-  level: 6
-  lon: -88.230181
-  name:  'Murphy''s Pub '
 - ap: 5722
   img:  'http://lh4.ggpht.com/mHAXKPtOyg_DWRs5A_0yhGeDsfU4f4o3xJvzziri7o3ksPPKtMAHUkUBOb0JJ78gArdP5Q6O-UiXNDG3RHaIYQ'
   lat: 40.109339
@@ -64,6 +58,12 @@
   level: 6
   lon: -88.231968
   name:  'Potbelly Mural'
+- ap: 4785
+  img:  'http://lh3.ggpht.com/gS3gT_deXzbDvejCL-5ygs31dw9bLQqYr2nDcLPZiv6nQzahJl12awG1a2pwKbFuoTlsHQYxQ2O7HDXL4-8'
+  lat: 40.110358
+  level: 6
+  lon: -88.230181
+  name:  'Murphy''s Pub '
 - ap: 4785
   img:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
   lat: 40.108173
@@ -149,6 +149,12 @@
   lon: -88.21116
   name:  'Carle Park Pavilion'
 - ap: 3661
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.401374
+  level: '?'
+  lon: -86.288005
+  name:  '9c168d55307d46deafd3684ceac79063.16'
+- ap: 3661
   img:  'http://lh4.ggpht.com/A15Qc2ImqJFORKlDItFStr3pkJ1pX5dRyG8VO6RoziKIqMOMMTQdJa-fUInsxL4o7Yxg1XNHfexBZuNAyLG0yw'
   lat: 40.132021
   level: 5
@@ -160,12 +166,6 @@
   level: 5
   lon: -88.242671
   name:  'Marketplace Mall Fountain'
-- ap: 3436
-  img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
-  lat: 40.107629
-  level: 4
-  lon: -88.224484
-  name:  'Bucky Balls'
 - ap: 3661
   img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
   lat: 40.107751
@@ -202,12 +202,6 @@
   level: '?'
   lon: -87.609818
   name:  '9751404135d14a20835126ddf4d017dc.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.401374
-  level: '?'
-  lon: -86.288005
-  name:  '9c168d55307d46deafd3684ceac79063.16'
 - ap: 3324
   img:  'http://lh3.ggpht.com/j0Yx7yuvUTJbnHtY38VFaty8xpyZMMDS_bSmvbHQx_2nQBiLqF4PGpLNdTGXkRgA3-OANQgASvn1mPGcuJi6HA'
   lat: 40.131715
@@ -300,6 +294,12 @@
   name:  'Butterfly Bridge'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.423996
+  level: '?'
+  lon: -87.805104
+  name:  'f6ce9c20b12d4a0da308f34f80359429.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.745375
   level: '?'
   lon: -88.627723
@@ -365,18 +365,6 @@
   lon: -88.646234
   name:  'e2b45c656b534c16be39673202767781.16'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/6W_b3aoHNnxViA4TkycmE5hhV5q_VHfypLNlgG4sAyw2eJ5Meyzi2-vwTA8miyKA5pZApxbfpAa7uc0zlCM'
-  lat: 40.134758
-  level: 5
-  lon: -88.313172
-  name:  'Sunset Ridge Prairie '
-- ap: 2537
-  img:  'http://lh3.ggpht.com/xSCQSCRT6pHyQi9LDI3OamMdZnhLQ06OSlHRHnJC0FkDo93VgOcr3gyAV0aPAKagwq9V5iViSSCgIr6_fWCB'
-  lat: 40.134441
-  level: 5
-  lon: -88.314067
-  name:  'Seasons Within the Wetland Environmental Sign'
-- ap: 2537
   img:  'http://lh3.ggpht.com/g1H1SJintXK5Zb7ng6DN7wix1q5otnzMK5JCJDnecwuIiohJmhXLJs1XzItxaTSYEuPPOqd4x-dGqd0WK5YU'
   lat: 40.13349
   level: 5
@@ -388,6 +376,18 @@
   level: 5
   lon: -88.314559
   name:  'Sunset Ridge Decorative Gate'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/6W_b3aoHNnxViA4TkycmE5hhV5q_VHfypLNlgG4sAyw2eJ5Meyzi2-vwTA8miyKA5pZApxbfpAa7uc0zlCM'
+  lat: 40.134758
+  level: 5
+  lon: -88.313172
+  name:  'Sunset Ridge Prairie '
+- ap: 2537
+  img:  'http://lh3.ggpht.com/xSCQSCRT6pHyQi9LDI3OamMdZnhLQ06OSlHRHnJC0FkDo93VgOcr3gyAV0aPAKagwq9V5iViSSCgIr6_fWCB'
+  lat: 40.134441
+  level: 5
+  lon: -88.314067
+  name:  'Seasons Within the Wetland Environmental Sign'
 - ap: 2162
   img:  'http://lh5.ggpht.com/TwKxvDv1ImbH5RTs7GHqqK_rPohVtqtgToH7YuDkkwa5BRFiMEcY1vWcFrJLkhaXW6cd2YVL0_Vro2JaA3K1'
   lat: 40.131575
@@ -448,12 +448,6 @@
   level: 5
   lon: -88.230145
   name:  'University Lutheran Church'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/3_LELG2r-A5s2d-x2dWyz6h7HzfjVR_KZn9AG0vhih9EalQIG43iL6LdKqKNpnGdGwguP9ZfnGF0KMq_KDE'
-  lat: 40.105799
-  level: 5
-  lon: -88.230188
-  name:  'Color Glass Windows at the Newman Center'
 - ap: 2537
   img:  'http://lh6.ggpht.com/SOEkawCv91wHrlqOJdkbN9KzhF3V8Uc1_VE_5V-PUNZhbJ9jXtSHQLjSEP4PGO091UFjUtYxX4Ikg7x6rE0LNawabllL4qbEUfQY-thKMrIXW2E'
   lat: 40.100186
