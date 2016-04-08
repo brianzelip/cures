@@ -23,17 +23,17 @@
   lon: -88.234149
   name:  'Alpha Delta Phi Fraternity House'
 - ap: 5348
-  img:  'http://lh6.ggpht.com/tOF7Ft9RlLtyZFsF5nnPXT-iYLimviXLPuiXL8F6KbEzsFuJAOd95jsFivR8L_bnMpbJ6W-tXEZmSYXHE_Ix'
-  lat: 40.104008
-  level: 5
-  lon: -88.209927
-  name:  'Lincoln the Lawyer'
-- ap: 4598
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.964336
   level: '?'
   lon: -87.633564
   name:  '7fbe13944b5d4af78e982aada5eda453.16'
+- ap: 5348
+  img:  'http://lh6.ggpht.com/tOF7Ft9RlLtyZFsF5nnPXT-iYLimviXLPuiXL8F6KbEzsFuJAOd95jsFivR8L_bnMpbJ6W-tXEZmSYXHE_Ix'
+  lat: 40.104008
+  level: 5
+  lon: -88.209927
+  name:  'Lincoln the Lawyer'
 - ap: 4598
   img:  'http://lh3.googleusercontent.com/hJZWoErzM-MuXulq4FlhlZwMbJX1Isd81GBUBVKayd57jVIVxUle3itd-1DRKo2VaNXznWr1X639fa44Etk'
   lat: 40.141919
@@ -64,6 +64,18 @@
   level: 5
   lon: -88.230687
   name:  'Community United Church of Christ'
+- ap: 4411
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.401374
+  level: '?'
+  lon: -86.288005
+  name:  '9c168d55307d46deafd3684ceac79063.16'
+- ap: 4411
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.588123
+  level: '?'
+  lon: -87.807579
+  name:  'c106cbaedc2348069ff32d60674e1d91.16'
 - ap: 4411
   img:  'http://lh3.ggpht.com/07XrBN-er6Ecleor0n9RJ4DfGO6B2yn-ZxjI-Uy8Ba46Jtb6cXNVmATPiPiGyk-1jZ4wxa7-EeIWbWUqArCG'
   lat: 40.142554
@@ -186,28 +198,16 @@
   name:  '9e3af3afef824ee6aee179175a7845c4.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.588123
-  level: '?'
-  lon: -87.807579
-  name:  'c106cbaedc2348069ff32d60674e1d91.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.96281
-  level: '?'
-  lon: -87.633579
-  name:  'cc56bc5b86aa487ab97e385a3b7aa9e8.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.89196
   level: '?'
   lon: -87.609818
   name:  '9751404135d14a20835126ddf4d017dc.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.401374
+  lat: 41.96281
   level: '?'
-  lon: -86.288005
-  name:  '9c168d55307d46deafd3684ceac79063.16'
+  lon: -87.633579
+  name:  'cc56bc5b86aa487ab97e385a3b7aa9e8.16'
 - ap: 3324
   img:  'http://lh3.ggpht.com/j0Yx7yuvUTJbnHtY38VFaty8xpyZMMDS_bSmvbHQx_2nQBiLqF4PGpLNdTGXkRgA3-OANQgASvn1mPGcuJi6HA'
   lat: 40.131715
@@ -274,12 +274,6 @@
   level: 4
   lon: -88.212443
   name:  'Serviceberry'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/gSkiCCAxYwrqFAngG83B_LFqd6Nhlw0xIRsGwVPkAD2N-u-qOYoHAUbgxP6laZhFqbIoQevsE0daWcUAMtbW'
-  lat: 40.085688
-  level: 5
-  lon: -88.330182
-  name:  'Metal Mesh '
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.745375
@@ -352,6 +346,12 @@
   level: '?'
   lon: -88.64272
   name:  '35252310c13c4ecbae30db6ca0ec8aae.16'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/gSkiCCAxYwrqFAngG83B_LFqd6Nhlw0xIRsGwVPkAD2N-u-qOYoHAUbgxP6laZhFqbIoQevsE0daWcUAMtbW'
+  lat: 40.085688
+  level: 5
+  lon: -88.330182
+  name:  'Metal Mesh '
 - ap: 2537
   img:  'http://lh3.ggpht.com/g1H1SJintXK5Zb7ng6DN7wix1q5otnzMK5JCJDnecwuIiohJmhXLJs1XzItxaTSYEuPPOqd4x-dGqd0WK5YU'
   lat: 40.13349
