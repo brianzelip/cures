@@ -187,13 +187,6 @@
   lon: -88.185131
   mus: 1372
   name:  'South Ridge Park'
-- fields: 12
-  img:  'http://lh5.ggpht.com/KmcyHZbW-2yJsvLDA_XQCx9aOF3P9itxKi_I4fScJaaRqqojBriUII3Fp8SHNgup2Ab6_7r9jDEo_AzWSfI'
-  lat: 40.097028
-  level: 7
-  lon: -88.276646
-  mus: 1356
-  name:  'Roby Recreation Trail'
 - fields: 8
   img:  'http://lh5.ggpht.com/JWnYHkJG0nab4r1ficE77w9SnzFDf6DTZ-6WlD1TC1LZp1KDiEjRqUlET-pWAycwMENIelAYkMxQJCx4Niil'
   lat: 40.098104
@@ -201,6 +194,13 @@
   lon: -88.292802
   mus: 1304
   name:  'Stratford Park Bible Chapel'
+- fields: 11
+  img:  'http://lh5.ggpht.com/KmcyHZbW-2yJsvLDA_XQCx9aOF3P9itxKi_I4fScJaaRqqojBriUII3Fp8SHNgup2Ab6_7r9jDEo_AzWSfI'
+  lat: 40.097028
+  level: 7
+  lon: -88.276646
+  mus: 1302
+  name:  'Roby Recreation Trail'
 - fields: 8
   img:  'http://lh4.ggpht.com/U2bGo6sB1AGHiDjQ-rH7wSwqqEX_Rgttee-UbdQR48aDKUrWK3zDdefPtL7CTxHDIksKsqP-9K6AlK8Mjlhe'
   lat: 40.125487
@@ -1048,13 +1048,13 @@
   lon: -88.209395
   mus: 161
   name:  'Boneyard Whales Sculpture'
-- fields: 2
-  img:  'http://lh3.ggpht.com/swF7asGHDD1L9hslewSBg2z-tocpd_HXkIYuOmz739SWxCj8KBqf-kcOPOFPoE8pLXKDxR6Z8jAJ8Kx7Fbnc'
-  lat: 40.089334
-  level: 5
-  lon: -88.253652
-  mus: 160
-  name:  'Mattis Park'
+- fields: 15
+  img:  'http://lh3.ggpht.com/xId6g6VicbS3F1vf-TwfkAOcAj2J4qElQNbgW1wmhWy5cxh-ZSjfN5a3K9w7mGOmQymgNDrLMQCjkUPl_ifzcA'
+  lat: 40.111517
+  level: 7
+  lon: -88.224103
+  mus: 158
+  name:  'Ceramics Building'
 - fields: 9
   img:  'http://lh3.ggpht.com/R3skA_zNDTXP9NfdUIB9j7cOpSKo7-iKXHX1WzPcl8wmPKII84LwCLSADJDdEHEq7GIDwfE1THFMg6nPD7Py0Q'
   lat: 40.104098
@@ -1083,13 +1083,6 @@
   lon: -88.279062
   mus: 147
   name:  'Champaign County Workers Memorial'
-- fields: 13
-  img:  'http://lh3.ggpht.com/xId6g6VicbS3F1vf-TwfkAOcAj2J4qElQNbgW1wmhWy5cxh-ZSjfN5a3K9w7mGOmQymgNDrLMQCjkUPl_ifzcA'
-  lat: 40.111517
-  level: 7
-  lon: -88.224103
-  mus: 144
-  name:  'Ceramics Building'
 - fields: 7
   img:  'http://lh6.ggpht.com/JVdE8szLcx_14HOE9g6m82pfCMg53vfCWujo8nzB4Pyc7KYp6k0YdPcEdqYcFfQlvAP-vh_nNoglAAZ_Wsc'
   lat: 40.093943
@@ -1174,6 +1167,13 @@
   lon: -88.280335
   mus: 118
   name:  'Prairie Grid'
+- fields: 11
+  img:  'http://lh5.ggpht.com/244-kBAz29TDfOH8muwt4hhbFTCEXkddZJR6jpzYeuL8UDht0s9QJJhZL40ner3EhKhzBQFqTTeRrYDZoF0'
+  lat: 40.104331
+  level: 8
+  lon: -88.222064
+  mus: 115
+  name:  'Campus Recreation Center East'
 - fields: 3
   img:  'http://lh3.googleusercontent.com/Nj5Ai888qxXriCQAeWkG8SbHbFuOlsYYCL3FjX-pCkblSOg30VuNF9lK9SQj4UDlg9R8XMYXpAcWyE9xIcA'
   lat: 40.135716
@@ -1195,6 +1195,13 @@
   lon: -88.249275
   mus: 107
   name:  'Narayan & Shanti Achanta Memorial Plaque'
+- fields: 1
+  img:  'http://lh3.ggpht.com/swF7asGHDD1L9hslewSBg2z-tocpd_HXkIYuOmz739SWxCj8KBqf-kcOPOFPoE8pLXKDxR6Z8jAJ8Kx7Fbnc'
+  lat: 40.089334
+  level: 5
+  lon: -88.253652
+  mus: 106
+  name:  'Mattis Park'
 - fields: 6
   img:  'http://lh6.ggpht.com/Pvgc8EILl7jWftQ3dvPTZTa98KpCUdaq9yHkecl-ZIKR_whDQCQrKSwrdX56lqH7d7ma5TsbyH70RvcdhLSp-T_4IjJqzXAbRhLMMkEpNo9gayrY'
   lat: 40.080493
@@ -1370,13 +1377,6 @@
   lon: -88.249061
   mus: 82
   name:  'Randy William Auteberry Memorial'
-- fields: 6
-  img:  'http://lh5.ggpht.com/244-kBAz29TDfOH8muwt4hhbFTCEXkddZJR6jpzYeuL8UDht0s9QJJhZL40ner3EhKhzBQFqTTeRrYDZoF0'
-  lat: 40.104331
-  level: 8
-  lon: -88.222064
-  mus: 81
-  name:  'Campus Recreation Center East'
 - fields: 4
   img:  'http://lh4.ggpht.com/4pxL0jEBlvHiFP3fcYdIWIAHRpyhg2RaH6Ikze3DLOSsA509375IHgRzptCjWZryzLqpuDEYLZTFDbwSKmE'
   lat: 40.117343
@@ -1559,13 +1559,13 @@
   lon: -88.224601
   mus: 56
   name:  'Darrell A. Miller Memorial Tree'
-- fields: 2
-  img:  'http://lh5.ggpht.com/xcqe13f85fuXohGUUBZkNrUU1PunkcZ6xMNmHpAp0GJBtydVqCCGj5MqP3Uax4M7Qq4JzDFGqICFrFb6PNEXRw'
-  lat: 40.08932
+- fields: 6
+  img:  'http://lh4.ggpht.com/4rZUtsKLzttseF-bliT_X7wEGP_joarKKLt8DNtp99fViYcqD4TAWTfZ_Ur6oEdBJdT-1JeZl4tnk_sTtgN0'
+  lat: 40.116361
   level: 7
-  lon: -88.251883
+  lon: -88.247369
   mus: 55
-  name:  'Boulware Trail'
+  name:  'Gerry Schriefer Plaque'
 - fields: 1
   img:  'http://lh5.ggpht.com/hjAc940kWyt9QT4G_BJyJKaTef3jL_Njnm8ubUtQD7u6qVsD9_7TiJbgZpKeqAv60kNw8FYspVxkn-Bt1cxYBw'
   lat: 40.109959
@@ -1573,13 +1573,6 @@
   lon: -88.24318
   mus: 53
   name:  'Mini Park II Sculpture'
-- fields: 5
-  img:  'http://lh4.ggpht.com/4rZUtsKLzttseF-bliT_X7wEGP_joarKKLt8DNtp99fViYcqD4TAWTfZ_Ur6oEdBJdT-1JeZl4tnk_sTtgN0'
-  lat: 40.116361
-  level: 7
-  lon: -88.247369
-  mus: 53
-  name:  'Gerry Schriefer Plaque'
 - fields: 3
   img:  'http://lh3.ggpht.com/urNQaRe_wrjSAoW-Iis4CKHBvHhg6xwTvUcQPw4MqlQNK9ZuhMKEVtca2hGJnOCbyCC7ehJNuG00XZlaGXo'
   lat: 40.118898
@@ -1636,6 +1629,13 @@
   lon: -88.241045
   mus: 47
   name:  'In Memory of E. Lynn Meisenfelter'
+- fields: 5
+  img:  'http://lh3.googleusercontent.com/EwXPPCiuVPRkECPKlJtyqReSySoJKEdwrx1MkNVUy6EM9xWU_fet1Z-sLfx_P2_c54DeJcApxdl-hKg9vGVEtw'
+  lat: 40.108224
+  level: 7
+  lon: -88.223549
+  mus: 45
+  name:  'Colwell Playhouse'
 - fields: 1
   img:  'http://lh3.googleusercontent.com/X-2m2SMNXEpNuoDLiSA2e9pj_qzasz4kIVOwbJk_I_VcUa_bDOFKvFxeTYW4DJ2FzZXO9ocG4eG2ov_x-V3b'
   lat: 40.097261
@@ -1783,6 +1783,13 @@
   lon: -88.281912
   mus: 34
   name:  'Westminster Presbyterian Church'
+- fields: 4
+  img:  'http://lh4.ggpht.com/l4w3T1e27S5zPAMN3Mr-LqJ51cbm26ThR-ubvfUFHpl28dkeRb_CQThuhJ_HSNhdYt_dX9NTAN9hKFsDeWJQ'
+  lat: 40.108295
+  level: 7
+  lon: -88.224083
+  mus: 34
+  name:  'The Landing'
 - fields: 1
   img:  'http://lh4.ggpht.com/UsWzXzHhg7iWYqgGNNqj1XXLWp2Oj6pNxp7R0PwHI8tzNVuJwD2K0KgVwc0BR_9MEu4QalqL6x1cBnT_vz89'
   lat: 40.108739
@@ -1790,6 +1797,20 @@
   lon: -88.268838
   mus: 33
   name:  'New Generation Christian Fellowship Church'
+- fields: 6
+  img:  'http://lh6.ggpht.com/j712bbvDknzGlAU87nZA1Bx45Ng-0MGA9Uvuv-3WzIKA3W51mXOZpJ-TzVSbuU3uE2AsJ5wcO7_B6WDpdRr0'
+  lat: 40.110684
+  level: 8
+  lon: -88.226053
+  mus: 33
+  name:  'BCS Superconductivity Theory Plaque'
+- fields: 10
+  img:  'http://lh3.ggpht.com/hBux3yLZOMWBK1dtc47OrhISfV3SPojGgtZOxqqf7-yoc82f280WMG1r2mi43iZQsqfwzmN53VJHHHEFVs0'
+  lat: 40.116458
+  level: 8
+  lon: -88.247065
+  mus: 33
+  name:  'West Side Park Entrance'
 - fields: 5
   img:  'http://lh5.ggpht.com/66S0h0KtQgEkBk3cEFIwsuX-gQRN4MlpAiUVMDd1Wu9p_OVTUxuDF6WcaoAwETeEQka1hyd6WhQ-qndZlg5Sng'
   lat: 40.091249
@@ -1811,13 +1832,6 @@
   lon: -88.201552
   mus: 31
   name:  'The Flag that Will Not Burn'
-- fields: 9
-  img:  'http://lh3.ggpht.com/hBux3yLZOMWBK1dtc47OrhISfV3SPojGgtZOxqqf7-yoc82f280WMG1r2mi43iZQsqfwzmN53VJHHHEFVs0'
-  lat: 40.116458
-  level: 8
-  lon: -88.247065
-  mus: 31
-  name:  'West Side Park Entrance'
 - fields: 2
   img:  'http://lh6.ggpht.com/Jltxi7PZ9OVi8hBCUxdt9oxXQk9zmbrtHpM_jru2WhVYyY0UkNZ8h5SU3CdwMRNzZ1ZKabPR8hDCPz7p3Ms'
   lat: 40.114439
@@ -1937,13 +1951,6 @@
   lon: -88.26799
   mus: 26
   name:  'Peggy A Valentine Plaque'
-- fields: 3
-  img:  'http://lh3.googleusercontent.com/EwXPPCiuVPRkECPKlJtyqReSySoJKEdwrx1MkNVUy6EM9xWU_fet1Z-sLfx_P2_c54DeJcApxdl-hKg9vGVEtw'
-  lat: 40.108224
-  level: 7
-  lon: -88.223549
-  mus: 26
-  name:  'Colwell Playhouse'
 - fields: 2
   img:  'http://lh5.ggpht.com/ZDv0mHiZcEfLxGVibvfnMCu7reJceCVnxa4GeBjK2DO4Y4a0x-M7C2M0rEam-_bPlr2e2476RXe15pRY48s'
   lat: 40.114351
@@ -2056,13 +2063,6 @@
   lon: -88.228963
   mus: 20
   name:  'Architectural Education Plaque'
-- fields: 4
-  img:  'http://lh6.ggpht.com/j712bbvDknzGlAU87nZA1Bx45Ng-0MGA9Uvuv-3WzIKA3W51mXOZpJ-TzVSbuU3uE2AsJ5wcO7_B6WDpdRr0'
-  lat: 40.110684
-  level: 8
-  lon: -88.226053
-  mus: 20
-  name:  'BCS Superconductivity Theory Plaque'
 - fields: 8
   img:  'http://lh4.ggpht.com/MwwvfldFODGbgQvly97peMlV1Ggftr7Cz_qnZi6Xts08-O6InkPyV8c78QXZkgd-opgO2p1ER6wONxA3Zfs'
   lat: 40.092492
@@ -2259,6 +2259,13 @@
   lon: -88.201047
   mus: 14
   name:  'Mommy''s Little Stars'
+- fields: 3
+  img:  'http://lh3.ggpht.com/9aQBG-poFARclK9XL7iFIvWePkawZwWhv4Sh0zQhQ0Sy9gdDD508d4gCtpcUP9UNoYM6uztea0aQ05RPd9rZLg'
+  lat: 40.115412
+  level: 7
+  lon: -88.245046
+  mus: 14
+  name:  'Eddie Thorpe''s Memorial Rock And Tree'
 - fields: 4
   img:  'http://lh6.ggpht.com/BsXdEO7HLxNLSdztPo_4GNNcbxZCxswiDT4pmmcfDQ8YO2SFVW-VnwyEZBvkuhf1rxKAtoKNLvV4rDJ-YVCYUK1qiX-dId_R8P-JskyFYAK9ruM-'
   lat: 40.110234
@@ -2287,13 +2294,6 @@
   lon: -88.248459
   mus: 14
   name:  'Uppercutted Sculpture'
-- fields: 2
-  img:  'http://lh4.ggpht.com/l4w3T1e27S5zPAMN3Mr-LqJ51cbm26ThR-ubvfUFHpl28dkeRb_CQThuhJ_HSNhdYt_dX9NTAN9hKFsDeWJQ'
-  lat: 40.108295
-  level: 7
-  lon: -88.224083
-  mus: 13
-  name:  'The Landing'
 - fields: 3
   img:  'http://lh3.ggpht.com/y0AorXifGZDC_iY8fEpHU0L9ehL0jyxjOAWWnkYyba2FpprGdmigPcoayrthLbakZQQlURVaeJHoNB98IIve'
   lat: 40.094061
@@ -2343,13 +2343,6 @@
   lon: -88.233133
   mus: 12
   name:  'Sunken Cube at Art and Design Building'
-- fields: 2
-  img:  'http://lh3.ggpht.com/9aQBG-poFARclK9XL7iFIvWePkawZwWhv4Sh0zQhQ0Sy9gdDD508d4gCtpcUP9UNoYM6uztea0aQ05RPd9rZLg'
-  lat: 40.115412
-  level: 7
-  lon: -88.245046
-  mus: 12
-  name:  'Eddie Thorpe''s Memorial Rock And Tree'
 - fields: 1
   img:  'http://lh6.ggpht.com/8xR11KYEi2D1gcNqy1KNK_EGDGo3JbHOYXjXP_zTNk4AIqUwf0pZrSSkt9bx8xccXhiMSzvt-qFnVq-CGEOxbw'
   lat: 40.055189
@@ -2815,10 +2808,17 @@
 - fields: 1
   img:  'http://lh6.ggpht.com/BCoBN1k9qdgU4oqqht_93bj9zxyhLJFkws-e6kAP1Zoz97AaCfbgSYLSVeMERRNl3hLBAVTbcCUn41RUxMmC'
   lat: 40.116203
-  level: 6
+  level: 5
   lon: -88.23781
   mus: 4
   name:  'Habitat For Humanity'
+- fields: 2
+  img:  'http://lh6.ggpht.com/g00CHgvPQnSjjPtDBIePwTKCNdh3HB7MmvYFvkSM7tmZuoBJ4WaKiltQhrfxIflpUy2xiNU-Z_Z2PGCTnXfK'
+  lat: 40.110725
+  level: 7
+  lon: -88.223784
+  mus: 4
+  name:  'Anthony Leggett Superfluidity Nobel Prize Memorial Plaque'
 - fields: 4
   img:  'http://lh6.ggpht.com/UMaVDs4JUJ1obZF_7bkt3YUS02KJCdBmvRnU0gXqrvHeFd-6jyR_VGDBUgiXtVFoAj95F7sZrvFJ1l9fe4S3sBUkt__qi77W2_jm8KR0IU_iwOYcIg'
   lat: 40.080791
@@ -2994,13 +2994,6 @@
   lon: -88.26221
   mus: 2
   name:  'Fraker Memorial Fountain   '
-- fields: 3
-  img:  'http://lh5.ggpht.com/EaT0PxhOud4vjm0kHYMit1zq4b2aTjV4M2olWNI-rM0oUVFeEI4kgeWGcrbk_EvcGBz6hwrN_wYLDLK3CUBi'
-  lat: 40.088861
-  level: 6
-  lon: -88.251811
-  mus: 2
-  name:  'A Flagstone Garden in Mattis Park'
 - fields: 2
   img:  'http://lh4.ggpht.com/qj7RZgjywjmhALnf1YyB5hWBrpO3hxjXZJdOzfE7YYV0p_vq9KA8GrgL9SfBHf_Ry3MVzMy1iJ6pAOkYL_lT'
   lat: 40.119118
@@ -3051,6 +3044,27 @@
   mus: 2
   name:  'Pillars at Wohlers Hall'
 - fields: 1
+  img:  'http://lh3.ggpht.com/nGhmCwJD6bTZSD4fk-6vnaRZfPq8CI7zLMEDuUZFl7no1ZUFie42aJKdxr5r-212vPk5feGwGFfkMrb_IBc'
+  lat: 40.195177
+  level: 6
+  lon: -88.401915
+  mus: 2
+  name:  'Fire Fighters Pavilion'
+- fields: 1+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.195019
+  level: '?'
+  lon: -88.402935
+  mus: 2
+  name:  'c87d5b6cf7ea4bae962a48d438be958c.16'
+- fields: 1
+  img:  'http://lh5.ggpht.com/PnX0W4nb5AYgeh3aSV1f6L1M6SXT5EDNNj-HZLlIrqeFoeMlVOlqnsY-fMyXYgvKn-Ac3RDPKf_iJCtYRmek'
+  lat: 40.194805
+  level: 6
+  lon: -88.401996
+  mus: 2
+  name:  'Leland Dollahan Memorial'
+- fields: 1
   img:  'http://lh5.ggpht.com/D9O580D9hlBOqeMvt2V4nL-eHP62h4vG4YFgk-WTw7GunusU9AOffFuHZ9XYWoB8YrGxpCMu2Y77-LCAgcdT'
   lat: 40.119328
   level: 7
@@ -3079,19 +3093,19 @@
   mus: 2
   name:  'Illinois Natural History Survey'
 - fields: 2
+  img:  'http://lh5.ggpht.com/EaT0PxhOud4vjm0kHYMit1zq4b2aTjV4M2olWNI-rM0oUVFeEI4kgeWGcrbk_EvcGBz6hwrN_wYLDLK3CUBi'
+  lat: 40.088861
+  level: 3
+  lon: -88.251811
+  mus: 2
+  name:  'A Flagstone Garden in Mattis Park'
+- fields: 2
   img:  'http://lh6.ggpht.com/PrKWQe_StHjP7QQeyxlKiMSxAelIQlmbHzFMejewhMdVT0J-uvMpZCUGvQy_dZfrqfDnkmrIZYWkZORSGrnp'
   lat: 40.088449
   level: 3
   lon: -88.251396
   mus: 2
   name:  'Boots''s Garden'
-- fields: 2
-  img:  'http://lh3.ggpht.com/DpFBT6YsInBvoo-6DUZeryDpITUgNnrw3j-iMPdeg6S2h9pL4DSqJLbMzsMqmLRwgJKLHa-xMVjHKDoSqwE'
-  lat: 40.089107
-  level: 6
-  lon: -88.251579
-  mus: 2
-  name:  'Donald M. Decker Memorial'
 - fields: 2
   img:  'http://lh4.ggpht.com/YCJnxuMsSs6lLn7vcBFVH6H2GT4I6LBrYLND5MlgY0qXgcTqxN7kKceFSMO3J8URkRBQyXOMtgosb78QK3iA'
   lat: 40.104011
@@ -3156,6 +3170,13 @@
   mus: 1
   name:  'Lyle Blue Memorial'
 - fields: 1
+  img:  'http://lh3.ggpht.com/DpFBT6YsInBvoo-6DUZeryDpITUgNnrw3j-iMPdeg6S2h9pL4DSqJLbMzsMqmLRwgJKLHa-xMVjHKDoSqwE'
+  lat: 40.089107
+  level: 3
+  lon: -88.251579
+  mus: 1
+  name:  'Donald M. Decker Memorial'
+- fields: 1
   img:  'http://lh4.ggpht.com/FAqopsayR2vfoblDs12USLGHxH0S1lfng6IlvgMPO2k4a1fKXYQnDWf0Lbf3zAqLfMU0aGaHpSZxycRqft9pmQ'
   lat: 40.119381
   level: 6
@@ -3170,13 +3191,6 @@
   mus: 1
   name:  'Wildflower Walk'
 - fields: 1
-  img:  'http://lh6.ggpht.com/g00CHgvPQnSjjPtDBIePwTKCNdh3HB7MmvYFvkSM7tmZuoBJ4WaKiltQhrfxIflpUy2xiNU-Z_Z2PGCTnXfK'
-  lat: 40.110725
-  level: 7
-  lon: -88.223784
-  mus: 1
-  name:  'Anthony Leggett Superfluidity Nobel Prize Memorial Plaque'
-- fields: 1
   img:  'http://lh3.googleusercontent.com/U_-4hKnh83ZT50dnywqzC7jR6ialVAMHwoWLMsG5km5adHpOU2FNmfe58sV_IDOBaVBAJbKZafokPWLzKLGgTQ'
   lat: 40.111268
   level: 7
@@ -3190,6 +3204,13 @@
   lon: -88.218903
   mus: 1
   name:  'Farmhouse Illinois Chapter'
+- fields: 1
+  img:  'http://lh6.ggpht.com/5tR3GirLCJ25x9j0BfwipsCOjlPMYGMmFrzEkhsJ4eGZ84FFe1_KnUmW3OBzAKAzQgPWPxt1WLJG2DvjFy6W'
+  lat: 40.109015
+  level: 5
+  lon: -88.224982
+  mus: 1
+  name:  'John J. Morris Jr. Memorial'
 - fields: 1
   img:  'http://lh4.ggpht.com/4_MOw_NKr2wZ2lzAzG2FlLtA3tfOfWqBZpNVP43LfN6ilD6qHRfZ-_wA1Xk8BnCqHKqKdqodC70X09pqtNXXqmNtK-uqo-fC9SZyOjT6ERfJorzg'
   lat: 40.118388
