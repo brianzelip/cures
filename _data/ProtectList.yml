@@ -1,31 +1,24 @@
-- fields: 3+
+- fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.31102
   level: '?'
   lon: -88.347952
-  mus: 73497
+  mus: 43808
   name:  '2e46d29f95ad4952af896e0e0619aa07.16'
-- fields: 2+
+- fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.286148
   level: '?'
   lon: -88.126397
-  mus: 59618
+  mus: 43808
   name:  'b7462fe79c874282b8ca4240ac1d6f55.16'
-- fields: 2+
+- fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.336241
   level: '?'
   lon: -88.136271
-  mus: 57687
+  mus: 43808
   name:  'Brookhill Golf Course'
-- fields: 2+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.312242
-  level: '?'
-  lon: -88.201368
-  mus: 29689
-  name:  '2012 Employee Dedication Bench'
 - fields: 7
   img:  'http://lh3.googleusercontent.com/GDPeCcTdJQAFt7LgbquPo-YOAp7bq5HCFbElMBeXztI4hraTGO-j1GcNOwKaaSRRLcEHG13Gu-VDboEG4a7-'
   lat: 40.149097
@@ -607,6 +600,13 @@
   lon: -88.282083
   mus: 400
   name:  'Flower Island'
+- fields: 4
+  img:  'http://lh3.ggpht.com/ei2Kly4PJYB7wpv5MtMVvHz793oQIWOLbz-mjq2ICitv-6BTGVsfA0kPQXiwg3O2Mi__LvZvuashS63u2rwa'
+  lat: 40.117638
+  level: 7
+  lon: -88.227214
+  mus: 387
+  name:  'Under the Sea Mural at Presence Covenant'
 - fields: 8
   img:  'http://lh6.ggpht.com/Nv0tMktEkkuoGtg1QEPS1N2nTcBPg8ipu31i72XPDTGQ4HQI5oL58Ig8kofXUH_aCC2aaJ-NylWKPkC3hIBS'
   lat: 40.116218
@@ -663,13 +663,6 @@
   lon: -88.255085
   mus: 319
   name:  'Burwash Park'
-- fields: 3
-  img:  'http://lh3.ggpht.com/ei2Kly4PJYB7wpv5MtMVvHz793oQIWOLbz-mjq2ICitv-6BTGVsfA0kPQXiwg3O2Mi__LvZvuashS63u2rwa'
-  lat: 40.117638
-  level: 7
-  lon: -88.227214
-  mus: 299
-  name:  'Under the Sea Mural at Presence Covenant'
 - fields: 6
   img:  'http://lh3.ggpht.com/PT4NTR04lFCXxqN8xnrhEQppaXrkIbW4n-WkUVikx4zfcqksHUun6eOqFNMG6c0UA_X97iSLI4EJTN5aHkf-aE-PnsYLjAgXkSjZEtL8BvQtGyg'
   lat: 40.112752
@@ -929,6 +922,13 @@
   lon: -88.248086
   mus: 168
   name:  'The Hartford'
+- fields: 3
+  img:  'http://lh3.ggpht.com/OtT56RocwPxPgcve6b9P9h4GvUFT5XVlsBBqmCg-K8i6I1c-3RVRip5KtAoqlaUqE2BUkSwl8clISDit9EU'
+  lat: 40.119453
+  level: 7
+  lon: -88.219746
+  mus: 163
+  name:  'Family Video'
 - fields: 1
   img:  'http://lh4.ggpht.com/yi9OPnLGsLTvtOMNuOUfed6edO9tB6h0QmSHJaKKaiMyEXC8Aj2hz9hIvgh8C2DY76mVgNHw4S0gsYpkPpkt'
   lat: 40.148692
@@ -964,6 +964,13 @@
   lon: -88.24366
   mus: 152
   name:  'King''s Assembly Church'
+- fields: 9
+  img:  'http://lh5.ggpht.com/cHXnlWuRvdsWlYl544dN4Z4dFmU3Wzw1BEovUj84953CC59BdwR-5pDK8MUkpnAECo3RjUVQMAS0elR08dvD'
+  lat: 40.115302
+  level: 8
+  lon: -88.224932
+  mus: 152
+  name:  'National Center for Supercomputing Applications'
 - fields: 3
   img:  'http://lh6.ggpht.com/y9bxecO9Wm4VrE6p2LRWA8XIIUlHlYWbTSZJ6GrJrTpeVtxB7wI7cWjdLkM6gjq_eOk7n-nJOlSJ9WzGjgfG'
   lat: 40.137123
@@ -1307,13 +1314,6 @@
   lon: -88.238753
   mus: 76
   name:  'Research Park at the University of Illinois'
-- fields: 2
-  img:  'http://lh3.ggpht.com/OtT56RocwPxPgcve6b9P9h4GvUFT5XVlsBBqmCg-K8i6I1c-3RVRip5KtAoqlaUqE2BUkSwl8clISDit9EU'
-  lat: 40.119453
-  level: 7
-  lon: -88.219746
-  mus: 76
-  name:  'Family Video'
 - fields: 5
   img:  'http://lh6.ggpht.com/rtLHUbXR9wV-bg61ME3b4T_AzlSb_WLUcikui1KvTVyQ1KaoRp3iXrTUqGLu1CRfBRM2zpsmcm1dEmLeIeXqyg'
   lat: 40.109722
@@ -1377,13 +1377,6 @@
   lon: -88.250276
   mus: 67
   name:  'Mckinley Aquatics Center'
-- fields: 8
-  img:  'http://lh5.ggpht.com/cHXnlWuRvdsWlYl544dN4Z4dFmU3Wzw1BEovUj84953CC59BdwR-5pDK8MUkpnAECo3RjUVQMAS0elR08dvD'
-  lat: 40.115302
-  level: 8
-  lon: -88.224932
-  mus: 65
-  name:  'National Center for Supercomputing Applications'
 - fields: 4
   img:  'http://lh6.ggpht.com/yyeYUYh4CQUjDkChdMYxhBGtyVNFeOxie-Qo2rFmwnp6dxmIx6wYlfyU88vIxtwULKprz84mi2fmqu2vMOo'
   lat: 40.114764
@@ -1793,7 +1786,7 @@
 - fields: 3
   img:  'http://lh6.ggpht.com/3fVcmJ2u-5Mnni1a2NQuYee7Li3LXX1-Iih3NUqXYB8H0qCYAU7OEXBG0ysoYX44R9K5zwbI6c4G8fRDoZJY'
   lat: 40.101768
-  level: 6
+  level: 4
   lon: -88.234922
   mus: 28
   name:  'Snyder Hall'
@@ -2227,7 +2220,7 @@
 - fields: 2
   img:  'http://lh5.ggpht.com/2jocF-ooKfacyT7HSwrwNcZTSN02yFkcmXBkPx777CYuD5O6sHPHwyUabblNOl_37YOxba1Gjid-TOwLVBlJ8g'
   lat: 40.116448
-  level: 6
+  level: 7
   lon: -88.248459
   mus: 14
   name:  'Uppercutted Sculpture'
@@ -2953,19 +2946,19 @@
   mus: 2
   name:  'A Flagstone Garden in Mattis Park'
 - fields: 2
-  img:  'http://lh4.ggpht.com/qj7RZgjywjmhALnf1YyB5hWBrpO3hxjXZJdOzfE7YYV0p_vq9KA8GrgL9SfBHf_Ry3MVzMy1iJ6pAOkYL_lT'
-  lat: 40.119118
-  level: 5
-  lon: -88.24584
-  mus: 2
-  name:  'Amvets Post 3'
-- fields: 2
   img:  'http://lh6.ggpht.com/5m_DdlbswQXPJueGjlDknXPY3RqwtwdrWAsNLBfbSNENcdAw3oafNYp_YTPk5KmZZpY5M4zwdxKoE9Tq5kDv'
   lat: 40.118985
   level: 5
   lon: -88.245285
   mus: 2
   name:  'The Little Brick Memorial'
+- fields: 2
+  img:  'http://lh4.ggpht.com/qj7RZgjywjmhALnf1YyB5hWBrpO3hxjXZJdOzfE7YYV0p_vq9KA8GrgL9SfBHf_Ry3MVzMy1iJ6pAOkYL_lT'
+  lat: 40.119118
+  level: 5
+  lon: -88.24584
+  mus: 2
+  name:  'Amvets Post 3'
 - fields: 2
   img:  'http://lh5.ggpht.com/fV0EN-O-ZnvYxldL2VCz5p99G1LNJnijI_B_4Erzqyiv3LRx6_oxldoqltlIl7BTh3mAIyiasfxb0k9QgjZP'
   lat: 40.083585
