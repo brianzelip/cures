@@ -145,20 +145,6 @@
   lon: -88.310362
   mus: 1752
   name:  'Stephens Family YMCA'
-- fields: 2+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.185093
-  level: '?'
-  lon: -88.296792
-  mus: 1584
-  name:  'Hensley Township Town Hall'
-- fields: 2+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.167518
-  level: '?'
-  lon: -88.295979
-  mus: 1584
-  name:  'Alto Vineyards and Winery'
 - fields: 11
   img:  'http://lh3.ggpht.com/1yyUr0xGwID_g1F_OYHLjASRJrvJLD7e8r6IER_B6CliwGRrCH6cDWRVgtfWqJ0wHhNyjId_FX6mEVecAviV'
   lat: 40.11946
@@ -166,13 +152,13 @@
   lon: -88.276623
   mus: 1509
   name:  'Glenn Park'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.190284
-  level: '?'
-  lon: -88.277366
-  mus: 1396
-  name:  'd2edc11c08c048e9918a023af234652f.16'
+- fields: 5
+  img:  'http://lh3.ggpht.com/7sJlWdBFFcLCXWnnfB6SVTzCCDM0Q7KyV5jALfrWG3ICtkw7HXrjzaRrnzSiv19wIswpZoTxKYudzYiZnT9Shg'
+  lat: 40.112536
+  level: 6
+  lon: -88.256779
+  mus: 1367
+  name:  'Framer''s Market'
 - fields: 7
   img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
   lat: 40.102188
@@ -180,13 +166,6 @@
   lon: -88.251507
   mus: 1298
   name:  'Little Free Library Charter 5753'
-- fields: 4
-  img:  'http://lh3.ggpht.com/7sJlWdBFFcLCXWnnfB6SVTzCCDM0Q7KyV5jALfrWG3ICtkw7HXrjzaRrnzSiv19wIswpZoTxKYudzYiZnT9Shg'
-  lat: 40.112536
-  level: 6
-  lon: -88.256779
-  mus: 1297
-  name:  'Framer''s Market'
 - fields: 9
   img:  'http://lh4.ggpht.com/U2bGo6sB1AGHiDjQ-rH7wSwqqEX_Rgttee-UbdQR48aDKUrWK3zDdefPtL7CTxHDIksKsqP-9K6AlK8Mjlhe'
   lat: 40.125487
@@ -236,6 +215,13 @@
   lon: -88.26247
   mus: 1131
   name:  'Clark Park South Entrance'
+- fields: 9
+  img:  'http://lh5.ggpht.com/tZ1lEGRzdFJ7k1jwj0PTGd3tWVTGqCHIb1LcRdjc2pF5IJjsuYFFPQgwEWSBaPapa89oOEPXO_g2XWQxQl2h'
+  lat: 40.110212
+  level: 7
+  lon: -88.276899
+  mus: 1100
+  name:  'St John Lutheran Church'
 - fields: 6
   img:  'http://lh4.ggpht.com/Tpl5ga1h9vBjG88A6xRDnvBxx7F1epdVZYUY-FNnoOS6H_0OkWXC-RqCtNsk5WSZcOBwMvdY56QCHo0hvoE'
   lat: 40.102744
@@ -243,13 +229,6 @@
   lon: -88.277916
   mus: 1098
   name:  'Church of God in Christ'
-- fields: 8
-  img:  'http://lh5.ggpht.com/tZ1lEGRzdFJ7k1jwj0PTGd3tWVTGqCHIb1LcRdjc2pF5IJjsuYFFPQgwEWSBaPapa89oOEPXO_g2XWQxQl2h'
-  lat: 40.110212
-  level: 7
-  lon: -88.276899
-  mus: 1030
-  name:  'St John Lutheran Church'
 - fields: 8
   img:  'http://lh3.ggpht.com/nGhmCwJD6bTZSD4fk-6vnaRZfPq8CI7zLMEDuUZFl7no1ZUFie42aJKdxr5r-212vPk5feGwGFfkMrb_IBc'
   lat: 40.195177
@@ -770,11 +749,25 @@
   name:  'Boneyard Whales Sculpture'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
+  lat: 40.185093
+  level: '?'
+  lon: -88.296792
+  mus: 189
+  name:  'Hensley Township Town Hall'
+- fields: 1+
+  img: http://i.imgur.com/LujBo5P.png
   lat: 40.154669
   level: '?'
   lon: -88.298035
   mus: 189
   name:  'New Horizon Methodist Church'
+- fields: 1+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.167518
+  level: '?'
+  lon: -88.295979
+  mus: 189
+  name:  'Alto Vineyards and Winery'
 - fields: 10
   img:  'http://lh3.ggpht.com/R3skA_zNDTXP9NfdUIB9j7cOpSKo7-iKXHX1WzPcl8wmPKII84LwCLSADJDdEHEq7GIDwfE1THFMg6nPD7Py0Q'
   lat: 40.104098
@@ -1188,6 +1181,13 @@
   lon: -88.207767
   mus: 71
   name:  'Crystal Lake Park'
+- fields: 1
+  img:  'http://lh6.ggpht.com/QhX7LQjknZJxL4GjIVRORINW4Ftw5F854uaMsoIWpHQNzoc_1c8nRxsoxw27U0InC7UZkcxueRyo8sqyTD7-iA'
+  lat: 40.113262
+  level: 6
+  lon: -88.257966
+  mus: 71
+  name:  'Grace Lutheran Church'
 - fields: 6
   img:  'http://lh5.ggpht.com/5UaLE3V21PH3K-ll263IWHlDVaOq4PYO9XS1VbHCODkFpHVo0mhfw8Aa7fYVnaZEV2GjenVIF0xrznTiQAbfkw'
   lat: 40.112948
@@ -2106,6 +2106,20 @@
   mus: 8
   name:  'Memory Squares'
 - fields: 3
+  img:  'http://lh3.ggpht.com/LR76HrJqriPFUoc2XSs7jb2SotnStZv20kI7rgUx8B5HqhmetnTW4MA1tCp1ws4g5gw0sf9g7M3Lwq4VwfpD'
+  lat: 40.111687
+  level: 7
+  lon: -88.225353
+  mus: 8
+  name:  'Transportation Building - University Of Illinois'
+- fields: 3
+  img:  'http://lh5.ggpht.com/f710C9AvOEB7ieCI4f382wWUP4OgDxiqPzbxqxct6Ugf2PWBfyXyDpG_JcRQ6PaZ_jS0jpXXBhNSt_u9rFA'
+  lat: 40.113864
+  level: 7
+  lon: -88.224839
+  mus: 8
+  name:  'Plato: A Social Networking Revolution Begins'
+- fields: 3
   img:  'http://lh6.ggpht.com/dmdoQn_snqIn6BdQ3XJFlx9FymfRalBxsT7fXXRSopbRaxiMoWzdC-LZBD-OymkgnPuGleuDWaQ_Ou_cqX0y'
   lat: 40.112912
   level: 8
@@ -2246,6 +2260,13 @@
   mus: 6
   name:  'Kaufman Lake'
 - fields: 2
+  img:  'http://lh3.ggpht.com/x5fBw8MRogV8dm3kPO5zKNkUrQxn0dM7d1PIoASdX1_Rc8H5Duex4iZdOoIlqazCGll25TmptsWIRq1JFmj6'
+  lat: 40.112135
+  level: 7
+  lon: -88.225762
+  mus: 6
+  name:  'Computer Based Education Plaque'
+- fields: 2
   img:  'http://lh6.ggpht.com/dtC5OmH9appnQkJoKvvi2W3ru58HSF6qKL5k4FlhqdViYAjOcPv3PKxyfPj5cbX4OAJC-23f_3fLi2mIcsp5'
   lat: 40.110561
   level: 5
@@ -2378,13 +2399,6 @@
   lon: -88.249899
   mus: 4
   name:  'Benjamin Biddle Memorial Plaque'
-- fields: 2
-  img:  'http://lh3.ggpht.com/LR76HrJqriPFUoc2XSs7jb2SotnStZv20kI7rgUx8B5HqhmetnTW4MA1tCp1ws4g5gw0sf9g7M3Lwq4VwfpD'
-  lat: 40.111687
-  level: 7
-  lon: -88.225353
-  mus: 4
-  name:  'Transportation Building - University Of Illinois'
 - fields: 1
   img:  'http://lh4.ggpht.com/ETgOsKlMmsv5wRT-aM33VVVEgFvp3ZoMxqXmYKxROpFAYnfPqjWhltqYBG7ajEuM8XKf3mVeSaF7r9grm2t8'
   lat: 40.113448
@@ -2532,13 +2546,6 @@
   lon: -88.224492
   mus: 3
   name:  'Siebel Courtyard Structure'
-- fields: 1
-  img:  'http://lh5.ggpht.com/f710C9AvOEB7ieCI4f382wWUP4OgDxiqPzbxqxct6Ugf2PWBfyXyDpG_JcRQ6PaZ_jS0jpXXBhNSt_u9rFA'
-  lat: 40.113864
-  level: 7
-  lon: -88.224839
-  mus: 3
-  name:  'Plato: A Social Networking Revolution Begins'
 - fields: 2
   img:  'http://lh6.ggpht.com/uuDZEurp-UqLKU1BShf2vQxSG1vwpk-MDBizyO6dIijDD3nTavBfEGfQ4lPiXtDc-2867s28mDJ0ko7kvC3sxQ'
   lat: 40.100485
@@ -2638,13 +2645,6 @@
   mus: 2
   name:  'Hays Recreation Center'
 - fields: 1
-  img:  'http://lh3.ggpht.com/x5fBw8MRogV8dm3kPO5zKNkUrQxn0dM7d1PIoASdX1_Rc8H5Duex4iZdOoIlqazCGll25TmptsWIRq1JFmj6'
-  lat: 40.112135
-  level: 7
-  lon: -88.225762
-  mus: 2
-  name:  'Computer Based Education Plaque'
-- fields: 1
   img:  'http://lh6.ggpht.com/PJNZOMCQPAWy2UMMUz7FvQhEb9zSo2mg1ImzZDYViGOn1FI2EqJX2AwZe_uOwiAKSL2QYkbPfTaRsdL2VvmG'
   lat: 40.103204
   level: 4
@@ -2686,6 +2686,20 @@
   lon: -88.265186
   mus: 1
   name:  'Shield of Chichen Itza'
+- fields: 1
+  img:  'http://lh5.ggpht.com/w9vRSV8NBR1gsi8ndeSUNJN2X-ftwCCQ7Jd3dcLVhPw6r1w0x1QE4hNgpCJBKimUeq-HToz_yq9S3rYkzC5bjw'
+  lat: 40.114687
+  level: 7
+  lon: -88.22473
+  mus: 1
+  name:  'Web Browser Plaque'
+- fields: 1
+  img:  'http://lh5.ggpht.com/cHXnlWuRvdsWlYl544dN4Z4dFmU3Wzw1BEovUj84953CC59BdwR-5pDK8MUkpnAECo3RjUVQMAS0elR08dvD'
+  lat: 40.115302
+  level: 6
+  lon: -88.224932
+  mus: 1
+  name:  'National Center for Supercomputing Applications'
 - fields: 1
   img:  'http://lh5.ggpht.com/2zEYZdL0tuQhUP5HHcOYFsPQfjx-nNDHhi8DMJEzzkjbEA9hODz2iDCcmj4S9NEGBsHW4nYYR010lA_6kyhk'
   lat: 40.10038
@@ -2794,7 +2808,7 @@
 - fields: 1
   img:  'http://lh3.ggpht.com/7bgelseGarzAjQzGod3J4OO3H3gx7YcHuwtoT6Lx2LrV84TbmH4I8GW92yROJO9sJFi_vFLaKy0frUM7C31B_Q'
   lat: 40.083561
-  level: 4
+  level: 6
   lon: -88.203382
   mus: 1
   name:  'Yikes'
