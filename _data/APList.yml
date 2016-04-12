@@ -185,17 +185,17 @@
   lon: -88.232116
   name:  'Illini Tower'
 - ap: 4035
-  img:  'http://lh5.ggpht.com/-aOZyLFNK96FhUdQBYhmRPZrs_PB1oiLRcrPjKwFBANQ42LxLbbHfTZVw_F01meecQXfNQwJYy7qqVh8Q0gR9g'
-  lat: 40.133768
-  level: 5
-  lon: -88.281275
-  name:  'Butterfly'
-- ap: 3848
   img:  'http://lh6.ggpht.com/prg5Oedqi1_YJMN9GAesf7bmbUwbMGc9v7E3SYkm-TYdudfpX9SwuC1J4D4zkb1K4yrvF2ZPNWDoUniixORu'
   lat: 40.086493
   level: 5
   lon: -88.330828
   name:  'Environmental Plaque - Prairie '
+- ap: 4035
+  img:  'http://lh5.ggpht.com/-aOZyLFNK96FhUdQBYhmRPZrs_PB1oiLRcrPjKwFBANQ42LxLbbHfTZVw_F01meecQXfNQwJYy7qqVh8Q0gR9g'
+  lat: 40.133768
+  level: 5
+  lon: -88.281275
+  name:  'Butterfly'
 - ap: 3848
   img:  'http://lh6.ggpht.com/btym2_WGYuFNu2SNiR8qif7GXLMOPT7XpuHE7RPOipPC9Q5lEPfImKAzf2vm9RUe2rN0u3TePq4pM0IuZiLS'
   lat: 40.116436
@@ -229,7 +229,7 @@
 - ap: 3661
   img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
   lat: 40.098688
-  level: 6
+  level: 7
   lon: -88.25063
   name:  '"New Holland Yellow Dinosaurs" at Hessel Park'
 - ap: 3661
@@ -276,6 +276,12 @@
   name:  'Woodlawn Country Club'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.236023
+  level: '?'
+  lon: -88.64272
+  name:  '35252310c13c4ecbae30db6ca0ec8aae.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.122039
   level: '?'
   lon: -88.645081
@@ -286,12 +292,6 @@
   level: '?'
   lon: -88.645323
   name:  '9e3af3afef824ee6aee179175a7845c4.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.236023
-  level: '?'
-  lon: -88.64272
-  name:  '35252310c13c4ecbae30db6ca0ec8aae.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 39.984882
@@ -383,6 +383,18 @@
   lon: -88.225203
   name:  'Statue at Medical Sciences'
 - ap: 2724
+  img:  'http://lh4.ggpht.com/MnvRIwYBCscNCKIRmPyogxsZdt_OF6dC0mIsI1_2fddZFlc88Sg9wNyU9Ne9q-cY0RUa5VFafv4C5f5-pxVpWg'
+  lat: 40.069376
+  level: 5
+  lon: -88.257672
+  name:  'Friendship Crossing'
+- ap: 2724
+  img:  'http://lh4.ggpht.com/N6E1iW7R1Dt6SCyd1q4Ym_HeSnFZ2mHHlXE-jkX1_YLy9BgSRPcDZK8ri2PWx6-sV1IEsClFGgMgpdI2Bgg'
+  lat: 40.069187
+  level: 5
+  lon: -88.295335
+  name:  'Friendship Lutheran Church of Joy'
+- ap: 2724
   img:  'http://lh3.ggpht.com/oHMQr2Z5LayQFbZOwOZK4ZbYQ1OVxs85-qNTvSj8epsP72vQiOdrzVmkuMPFQtCSf9Rr0oqcnSLFjLn-sPw'
   lat: 40.116592
   level: 2
@@ -418,6 +430,12 @@
   level: 2
   lon: -88.229089
   name:  'Lee Williamson Memorial'
+- ap: 2724
+  img:  'http://lh6.ggpht.com/MzDfG6eMMwVr56zIpVxRJKU2aoUq-95CLeBhoiEQQKzpC2zulq5jFDLv1IK0JcRy5Q0PhRAreZ1p2ElsdnNu'
+  lat: 40.108048
+  level: 3
+  lon: -88.226279
+  name:  'Nuclear Magnetic Resonance II Plaque'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.106513
@@ -460,6 +478,12 @@
   level: '?'
   lon: -87.997967
   name:  'Gilman Amtrak Station'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/Y-1z4Z6omM2DNHuIAI8mnNq6VGjJqmgna_Auu_O3S8JPHj9NvZCN3-g4Zh99rgYZHTf-Scllt67AhCsevf7JuA'
+  lat: 40.069447
+  level: 5
+  lon: -88.289932
+  name:  'Curtis Road Church of God'
 - ap: 2537
   img:  'http://lh6.ggpht.com/gSkiCCAxYwrqFAngG83B_LFqd6Nhlw0xIRsGwVPkAD2N-u-qOYoHAUbgxP6laZhFqbIoQevsE0daWcUAMtbW'
   lat: 40.085688
@@ -505,7 +529,7 @@
 - ap: 2537
   img:  'http://lh5.ggpht.com/fDRifvVcFT_dKhPuNBN4rR9lNHL0Q6NvbMnGr2-ZdiirR2rJrBcWRi4vyM3-DYNHymUs7bWchaWRaUtBpg'
   lat: 40.098541
-  level: 6
+  level: 7
   lon: -88.250389
   name:  'Dennis Robert Costello Memorial'
 - ap: 2537
@@ -515,11 +539,11 @@
   lon: -88.246611
   name:  'Fountain at Illini Plaza'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/MzDfG6eMMwVr56zIpVxRJKU2aoUq-95CLeBhoiEQQKzpC2zulq5jFDLv1IK0JcRy5Q0PhRAreZ1p2ElsdnNu'
-  lat: 40.108048
-  level: 3
-  lon: -88.226279
-  name:  'Nuclear Magnetic Resonance II Plaque'
+  img:  'http://lh4.ggpht.com/7U0YXCB_DIhnqPJyjyLpNn6kg4lU8HvKL87ddBKWq1sptvVLvCEiCuNEnghQtqDGSN2OBNcOUK9nZcYjY4Vr'
+  lat: 40.107887
+  level: 2
+  lon: -88.225998
+  name:  'Lifesaving Antibiotic Plaque'
 - ap: 2537
   img:  'http://lh6.ggpht.com/WtqWBwqpYTSw3g9ru5NwcFn5iK5STxWgy2kv4OUTWqwtzx76-9Msz0eqoiw0qpEYE1U4zdt9rzzNZMDNagNg'
   lat: 40.107943
