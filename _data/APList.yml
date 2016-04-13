@@ -130,10 +130,10 @@
   level: 5
   lon: -88.232116
   name:  'Illini Tower'
-- ap: 4409
+- ap: 3922
   img:  'http://lh5.ggpht.com/1yq3oFq9p_Yl5cUf5h7IEfZPAbae2MT7lA0DFo1DHwPWPZJJ-Ez-2AE2oTzHEHWsEJQVUcUwh3j_d3kOYgDS'
   lat: 40.110095
-  level: 6
+  level: 3
   lon: -88.22862
   name:  'Alma Mater Plaza'
 - ap: 4035
@@ -172,12 +172,6 @@
   level: 5
   lon: -88.227238
   name:  'Flow'
-- ap: 3286
-  img:  'http://lh6.ggpht.com/RW34ntixvJkg7fD71TPYo_4KIsBzA0-a-6yXO0jKPbpGxX5gIGC7kBI-pXEF9OHhuolcAGW2fxyK3Pt42Iev'
-  lat: 40.110489
-  level: 2
-  lon: -88.227412
-  name:  'Bus Stop - Illini Union, Westbound'
 - ap: 3661
   img:  'http://lh6.ggpht.com/rnWumKyBYpVW5hCfQDlvRaT_666UPI5lo3k6HGdxWuLVsDbD8c7l-BU1HwhBqiGeCW28iEghSQtvZFzqK4w'
   lat: 40.109013
@@ -286,6 +280,12 @@
   level: 7
   lon: -88.250864
   name:  'Gabriel Patrick Maxeiner Memorial'
+- ap: 3099
+  img:  'http://lh6.ggpht.com/RW34ntixvJkg7fD71TPYo_4KIsBzA0-a-6yXO0jKPbpGxX5gIGC7kBI-pXEF9OHhuolcAGW2fxyK3Pt42Iev'
+  lat: 40.110489
+  level: 2
+  lon: -88.227412
+  name:  'Bus Stop - Illini Union, Westbound'
 - ap: 3474
   img:  'http://lh3.ggpht.com/1JgqaWx4DIU04ms-XmufSumQ5BDP07SB97-kBjzxDePlLQR9HagCTfqdviW9ErxCqpvXgynqeosQhERhCat6'
   lat: 40.108781
@@ -407,6 +407,18 @@
   lon: -88.243729
   name:  'The Phoenix'
 - ap: 2537
+  img:  'http://lh6.ggpht.com/mKnh6CvhOm_8Kn26lJTmk71nbwSMS-i9VJ45CR83Z8wB6Qn-9JAiyt1GEfrWKkv51a_y-lbN8pO6R1L5EZWfzw'
+  lat: 40.117349
+  level: 2
+  lon: -88.244537
+  name:  'Flower Island'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
+  lat: 40.117976
+  level: 2
+  lon: -88.245082
+  name:  'Robeson Building '
+- ap: 2537
   img:  'http://lh5.ggpht.com/fDRifvVcFT_dKhPuNBN4rR9lNHL0Q6NvbMnGr2-ZdiirR2rJrBcWRi4vyM3-DYNHymUs7bWchaWRaUtBpg'
   lat: 40.098541
   level: 7
@@ -430,18 +442,12 @@
   level: 4
   lon: -88.237287
   name:  'Stone Arch Bridge'
-- ap: 2537
+- ap: 2387
   img:  'http://lh4.ggpht.com/2tHD_AHYQu0kWuwLX2HMYWBG4txVkuWsBEfzWLL39npWp8kMSHiUKxSJM1E7yhimuMVUJ-RIlSSKsgjETvtr'
   lat: 40.110524
-  level: 4
+  level: 3
   lon: -88.228706
   name:  'Leo Roy Tehon Memorial'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/kElaGOaV9aI8SrnM1D65gx9J0Ky1AKrN9Yo-pXVmDhELt2pee4MwVRiCqCmlqWzUWj5pS33GnEzAiXmiWKsw'
-  lat: 40.108111
-  level: 3
-  lon: -88.229625
-  name:  'Illini Sports Mural'
 - ap: 2537
   img:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
   lat: 40.108173
@@ -466,6 +472,12 @@
   level: 5
   lon: -88.230176
   name:  'U of I Mural'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/kElaGOaV9aI8SrnM1D65gx9J0Ky1AKrN9Yo-pXVmDhELt2pee4MwVRiCqCmlqWzUWj5pS33GnEzAiXmiWKsw'
+  lat: 40.108111
+  level: 3
+  lon: -88.229625
+  name:  'Illini Sports Mural'
 - ap: 2312
   img:  'http://lh4.ggpht.com/YkAjLbUQwdId1pIn7-0sv7p3fU5sUakSrInODEYBL40IL2O6a6iP0KdmXupzcZMPqJ3arf7sss9irQ7NDzzF'
   lat: 40.110882
