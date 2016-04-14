@@ -89,6 +89,20 @@
   lon: -88.295155
   mus: 2154
   name:  'Savoy United Methodist Church'
+- fields: 8
+  img:  'http://lh6.ggpht.com/nRwew4OU3JNWRI1-xCyuN1xwDabajLFDuSlOZ-_M8BwJELli4V8o30JI0UyF6Kpc4gfDGdh10kJ6mD6ggMo'
+  lat: 40.108561
+  level: 7
+  lon: -88.250039
+  mus: 2112
+  name:  'Harris Park'
+- fields: 9
+  img:  'http://lh5.ggpht.com/BiCieN-kLaA8XtzYGa1FowWTlW2QzWtnxSCf1y1ChY9WXw1kN0r1Co49FI5D_xcWRrgO-_wOvqfduWQ2o337'
+  lat: 40.092411
+  level: 8
+  lon: -88.257688
+  mus: 2111
+  name:  'Champaign Fire Department'
 - fields: 6
   img:  'http://lh3.googleusercontent.com/dnlQAi9ftw9Nx79Zq-2jo6-EvJCMD8vcxJZcy5NWGDJ3iOxzhM2gXtGvrqke6-N3F3kKBkK5Bev6RRF5RS7y'
   lat: 40.08375
@@ -96,20 +110,6 @@
   lon: -88.294948
   mus: 2105
   name:  'Park District Flower Island'
-- fields: 8
-  img:  'http://lh5.ggpht.com/BiCieN-kLaA8XtzYGa1FowWTlW2QzWtnxSCf1y1ChY9WXw1kN0r1Co49FI5D_xcWRrgO-_wOvqfduWQ2o337'
-  lat: 40.092411
-  level: 8
-  lon: -88.257688
-  mus: 2009
-  name:  'Champaign Fire Department'
-- fields: 6
-  img:  'http://lh6.ggpht.com/nRwew4OU3JNWRI1-xCyuN1xwDabajLFDuSlOZ-_M8BwJELli4V8o30JI0UyF6Kpc4gfDGdh10kJ6mD6ggMo'
-  lat: 40.108561
-  level: 7
-  lon: -88.250039
-  mus: 1809
-  name:  'Harris Park'
 - fields: 4
   img:  'http://lh5.ggpht.com/e6wN_SlFuF59rOEwuU8BCPeT0WsXneW_OcsXpZ75pgQd0PQSfnKhmLyrK5PDkisRwjV2DfAfVp7T3ryHoGKX4A'
   lat: 40.076779
@@ -593,6 +593,13 @@
   lon: -88.242132
   mus: 345
   name:  'Nuclear Physics Lab'
+- fields: 2
+  img:  'http://lh6.ggpht.com/tenpgw5pr4OCsrdIgmmHP_sx4RHH2ywHdbNxw556d5JpHC4u64HFYqCdRSeAJgfTN_7BcUv11v8NtBdlaUV8'
+  lat: 40.100717
+  level: 8
+  lon: -88.243989
+  mus: 330
+  name:  'Rainbow Garden'
 - fields: 3
   img:  'http://lh5.ggpht.com/dnj__uItXDR_xj-g5PNpGYPNjJCPBFpsx3w9sWxvrOlayO6nyG_Qu8MygtuFZm9i4L2Gho0fkOACtzkGR_e2wQ'
   lat: 40.098457
@@ -621,6 +628,13 @@
   lon: -88.188478
   mus: 305
   name:  'Brookens Administrative Center'
+- fields: 2
+  img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
+  lat: 40.102188
+  level: 5
+  lon: -88.251507
+  mus: 304
+  name:  'Little Free Library Charter 5753'
 - fields: 2
   img:  'http://lh4.ggpht.com/7Nqa47hr7fGsLlGODwM5wZ-HxHiGAz1aCc5kf53Tl_9yWg_eH1xf1s8KyDn3SMg5pFQuLaSb_ZYR_5ejO-Y'
   lat: 40.100824
@@ -894,13 +908,6 @@
   lon: -88.28586
   mus: 129
   name:  'Emmerson Dexter Field'
-- fields: 1
-  img:  'http://lh6.ggpht.com/tenpgw5pr4OCsrdIgmmHP_sx4RHH2ywHdbNxw556d5JpHC4u64HFYqCdRSeAJgfTN_7BcUv11v8NtBdlaUV8'
-  lat: 40.100717
-  level: 8
-  lon: -88.243989
-  mus: 128
-  name:  'Rainbow Garden'
 - fields: 1
   img:  'http://lh6.ggpht.com/Sz4BABPqyoIyZVGpSBEM1QNIxPngQLl7hopqjyVJi_fak1xgpFAX_X7TbK6tICEaYnLrvC1hV2jv-AwPofQX'
   lat: 40.090038
@@ -1653,7 +1660,7 @@
 - fields: 2
   img:  'http://lh4.ggpht.com/maBwz4G9LJZ5aVuX_WF1Z73xSbqoFsm3l6oyrNQ16LkJMvaEbFa-amdfCpKDVDe7NzjReNu8IGnn7BAI8yef'
   lat: 40.103534
-  level: 4
+  level: 5
   lon: -88.243478
   mus: 18
   name:  'McCollum Park'
@@ -2486,7 +2493,7 @@
 - fields: 1
   img:  'http://lh3.ggpht.com/D_Ys-MQsKIFD3lXdFelPZDmzAyMO2oiZJCacCqycQkFOyn5qZ46YhurTmbZ2Smtbf95wU3or0FEr2JvhuMrVWjXTRxJN2EmHBT4fWRhPsDLRFdmA'
   lat: 40.110978
-  level: 5
+  level: 4
   lon: -88.208313
   mus: 2
   name:  'Urbana Landmark Hotel'
@@ -2644,27 +2651,6 @@
   lon: -88.224492
   mus: 1
   name:  'Siebel Courtyard Structure'
-- fields: 1
-  img:  'http://lh6.ggpht.com/gKoAVfAXPNcc0cL_CNbiCdHIsPyUbMbJmy6o9XlvmyVEcG71RrD0Zj1NmWw9sbPBd957NYMtr7u-eLKY8jGQHw'
-  lat: 40.083528
-  level: 8
-  lon: -88.202233
-  mus: 1
-  name:  'Fathers & Sons'
-- fields: 1
-  img:  'http://lh5.ggpht.com/fV0EN-O-ZnvYxldL2VCz5p99G1LNJnijI_B_4Erzqyiv3LRx6_oxldoqltlIl7BTh3mAIyiasfxb0k9QgjZP'
-  lat: 40.083585
-  level: 7
-  lon: -88.201439
-  mus: 1
-  name:  'Meadowbrook Park '
-- fields: 1
-  img:  'http://lh3.ggpht.com/7bgelseGarzAjQzGod3J4OO3H3gx7YcHuwtoT6Lx2LrV84TbmH4I8GW92yROJO9sJFi_vFLaKy0frUM7C31B_Q'
-  lat: 40.083561
-  level: 6
-  lon: -88.203382
-  mus: 1
-  name:  'Yikes'
 - fields: 1
   img:  'http://lh6.ggpht.com/PXc3YHSOsx0c_WrfpzvHHiHEl1FSv5RvbgXj7Ji3-xS7oBwJIkFCD8eQySiUega_iQvX8FiUBuDhXdK9l9QWIA'
   lat: 40.116623
