@@ -40,6 +40,18 @@
   level: 6
   lon: -88.209474
   name:  'Give Creeks A Chance Street Art'
+- ap: 6098
+  img:  'http://lh4.ggpht.com/4_MOw_NKr2wZ2lzAzG2FlLtA3tfOfWqBZpNVP43LfN6ilD6qHRfZ-_wA1Xk8BnCqHKqKdqodC70X09pqtNXXqmNtK-uqo-fC9SZyOjT6ERfJorzg'
+  lat: 40.118388
+  level: 5
+  lon: -88.245358
+  name:  'Springer Cultural Center'
+- ap: 6098
+  img:  'http://lh3.ggpht.com/PKHUaHtGQlwpb8q3mUpPJtjb51_am_ieb_9X0u8g1PI_eg7NxFQU2fqeV8XjnIIDy0rCMtqsfMJLerOBo8M'
+  lat: 40.118579
+  level: 5
+  lon: -88.244588
+  name:  'Mural on Art Theatre'
 - ap: 5535
   img:  'http://lh3.googleusercontent.com/mLqVBFC7xDFMCE6vvQLt7bEwzmAtOWSfPoxCDNPJ0aagTDdQtJZKZTbPDs_QXPyKJ-tqZHYr89xorZ0Aa0M'
   lat: 40.128515
@@ -58,6 +70,18 @@
   level: 6
   lon: -88.209117
   name:  'Water Sculpture'
+- ap: 5161
+  img:  'http://lh4.ggpht.com/PfcTU4XsA06ThtmCWydIWhTsN3gR4jrqnrKxu0O5lhyibhRdKMEaf3jM8VNhViF8qLf13b01E71wr_ajxn0'
+  lat: 40.118465
+  level: 5
+  lon: -88.245077
+  name:  'Mural at Nitaya'
+- ap: 5161
+  img:  'http://lh3.googleusercontent.com/oYQaQpOQ2HICancOs0DcaCqX1KiTJEoAeKp6EUWBs5u-TjTKqJlzTSzA0QMldAg6HLWb3rX4m4_cwKwGCtpV'
+  lat: 40.118684
+  level: 5
+  lon: -88.244894
+  name:  'Farren''s Pub and Eatery'
 - ap: 4972
   img:  'http://lh3.googleusercontent.com/5Te-dafekqHMAY-HjKfNk0CcYyFpxK86OuYWSOTFv8saT6pfl_rqyJMVlnF2ccsu1T2mA6ScXOl5SUPIMypR'
   lat: 40.126769
@@ -91,7 +115,7 @@
 - ap: 4598
   img:  'http://lh4.ggpht.com/p1kbhH-3K08NNqTt_6-223uI0PurGUV2HeAWGYPRx3OnNYMY-kARoW1zZ2pZBHthAYRZbIgf6ioRawHi0BmUx786y5ffm0kmZsskaOiluDUhSIiI'
   lat: 40.106173
-  level: 5
+  level: 6
   lon: -88.22719
   name:  'Foellinger Auditorium'
 - ap: 4411
@@ -118,10 +142,10 @@
   level: 5
   lon: -88.22808
   name:  'Earl W Porter Memorial Tree'
-- ap: 4186
+- ap: 4411
   img:  'http://lh4.ggpht.com/GCS0-CwKl9SLe2zfeL7FPDuKv5ZFDhlnX3hMXZSJLvK-u73RlgWbn_FgnOHZi-0wqMk52z_YLSAMReYTSaoP'
   lat: 40.10659
-  level: 3
+  level: 6
   lon: -88.227679
   name:  'Lincoln Hall'
 - ap: 4411
@@ -136,24 +160,6 @@
   level: 6
   lon: -88.209948
   name:  'Busey Woods Gateway Trail'
-- ap: 3848
-  img:  'http://lh3.ggpht.com/PKHUaHtGQlwpb8q3mUpPJtjb51_am_ieb_9X0u8g1PI_eg7NxFQU2fqeV8XjnIIDy0rCMtqsfMJLerOBo8M'
-  lat: 40.118579
-  level: 5
-  lon: -88.244588
-  name:  'Mural on Art Theatre'
-- ap: 3848
-  img:  'http://lh6.ggpht.com/yYW6Egg1lWn6UqqLzlgqwCQhtbuxiZSW4TmvI1XBPs33OTTJ0oh51XZXOIILxGI2juoO-E_YfG5UHmeb34rSOw'
-  lat: 40.109165
-  level: 4
-  lon: -88.230269
-  name:  'John Street Plaque'
-- ap: 3848
-  img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
-  lat: 40.108066
-  level: 5
-  lon: -88.230687
-  name:  'Community United Church of Christ'
 - ap: 3661
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.272743
@@ -222,6 +228,12 @@
   name:  '9a7e2748618f4613b9fbe346efa65b8d.12'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.561018
+  level: '?'
+  lon: -88.900234
+  name:  '2e4c86f3add64206bd90a57bd8fa10af.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.878365
   level: '?'
   lon: -88.777245
@@ -232,12 +244,6 @@
   level: '?'
   lon: -88.900302
   name:  'dea434f7da6f437386ae98f3a4035d31.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.561018
-  level: '?'
-  lon: -88.900234
-  name:  '2e4c86f3add64206bd90a57bd8fa10af.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 39.984882
@@ -281,23 +287,11 @@
   lon: -88.244603
   name:  'Italian Statue'
 - ap: 3474
-  img:  'http://lh4.ggpht.com/PfcTU4XsA06ThtmCWydIWhTsN3gR4jrqnrKxu0O5lhyibhRdKMEaf3jM8VNhViF8qLf13b01E71wr_ajxn0'
-  lat: 40.118465
+  img:  'http://lh3.googleusercontent.com/W5PjcRhelt3420IFjpSdOXtmIiv0M99Qv9Xupe6lckHDJDW4zHE9GyACkz8wXBF0_OIO2Jex9d7S8UQ4FJLa'
+  lat: 40.118361
   level: 5
-  lon: -88.245077
-  name:  'Mural at Nitaya'
-- ap: 3474
-  img:  'http://lh3.googleusercontent.com/oYQaQpOQ2HICancOs0DcaCqX1KiTJEoAeKp6EUWBs5u-TjTKqJlzTSzA0QMldAg6HLWb3rX4m4_cwKwGCtpV'
-  lat: 40.118684
-  level: 5
-  lon: -88.244894
-  name:  'Farren''s Pub and Eatery'
-- ap: 3474
-  img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
-  lat: 40.107751
-  level: 3
-  lon: -88.231532
-  name:  'Graduate School of Library and Information Science'
+  lon: -88.244573
+  name:  'Art Theater'
 - ap: 3474
   img:  'http://lh3.googleusercontent.com/IjFn38FDtBJH-mPUV2G-iLjG9eOxcQ0m6Go6BOImGLXhu03Bd5Vs8EtAzPrfKH7uQFYlI_S8eQCZkaZp7kTO'
   lat: 40.125757
@@ -396,12 +390,6 @@
   name:  'ebaa4a5573f7449399263066d9248473.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.12211
-  level: '?'
-  lon: -88.646234
-  name:  'e2b45c656b534c16be39673202767781.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.743666
   level: '?'
   lon: -88.504875
@@ -443,6 +431,12 @@
   lon: -87.669411
   name:  '104d9a0bac384f00b3dfa667adecb86a.16'
 - ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.12211
+  level: '?'
+  lon: -88.646234
+  name:  'e2b45c656b534c16be39673202767781.16'
+- ap: 2537
   img:  'http://lh3.ggpht.com/waYCvQnciDHIQoBYQqAoe2ioBs3DAhMQQsBboKyfNVNSWibmmRTf0SLvaoU5EwCFyWydn7rCCfrLXtLqQfA8'
   lat: 40.135683
   level: 4
@@ -454,18 +448,6 @@
   level: 4
   lon: -88.273074
   name:  'Garden Hills Park'
-- ap: 2537
-  img:  'http://lh3.googleusercontent.com/W5PjcRhelt3420IFjpSdOXtmIiv0M99Qv9Xupe6lckHDJDW4zHE9GyACkz8wXBF0_OIO2Jex9d7S8UQ4FJLa'
-  lat: 40.118361
-  level: 5
-  lon: -88.244573
-  name:  'Art Theater'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/4_MOw_NKr2wZ2lzAzG2FlLtA3tfOfWqBZpNVP43LfN6ilD6qHRfZ-_wA1Xk8BnCqHKqKdqodC70X09pqtNXXqmNtK-uqo-fC9SZyOjT6ERfJorzg'
-  lat: 40.118388
-  level: 5
-  lon: -88.245358
-  name:  'Springer Cultural Center'
 - ap: 2537
   img:  'http://lh3.ggpht.com/-xag7tp3BReTAhfRmVAvpMw1Af15prESg4rve7QnsiIC5IKmKjBszxDIj8F212BmRU1apH_2u_9wAmq58_91'
   lat: 40.114157
@@ -490,30 +472,6 @@
   level: 6
   lon: -88.237287
   name:  'Stone Arch Bridge'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
-  lat: 40.106921
-  level: 6
-  lon: -88.230145
-  name:  'University Lutheran Church'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/kElaGOaV9aI8SrnM1D65gx9J0Ky1AKrN9Yo-pXVmDhELt2pee4MwVRiCqCmlqWzUWj5pS33GnEzAiXmiWKsw'
-  lat: 40.108111
-  level: 5
-  lon: -88.229625
-  name:  'Illini Sports Mural'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
-  lat: 40.108173
-  level: 5
-  lon: -88.230209
-  name:  'Mural on South Sixth Street'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
-  lat: 40.106706
-  level: 5
-  lon: -88.232116
-  name:  'Illini Tower'
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/3Myf6CnmcDIYbRC1TWtiQ0Q34tm-r8kQZQ8GjoGZ4AI5ome7PHiB7E6Maihk_SvkVJF8LPW5RSjo36Bsa7VM'
   lat: 40.12807
