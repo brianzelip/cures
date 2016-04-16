@@ -71,6 +71,12 @@
   lon: -88.218544
   name:  'The Vineyard Church'
 - ap: 6098
+  img:  'http://lh4.ggpht.com/JVNlRlxb-5k_pDpi5lUduOZu2NO-CKdaVaa4Jj_IHDLIxC31OEc6zpyO8qklRI58_wB2fH1m8LUHOJW_GME'
+  lat: 40.125389
+  level: 5
+  lon: -88.209627
+  name:  'Crystal Lake Tree House Club'
+- ap: 6098
   img:  'http://lh6.ggpht.com/dIDmkL7jHZb1am2ptK9LrO6Ht_8jTKb3IOvGamBqIYzLXPgtEoPCV_9dMsqLxrgz8_MSq3UsEy9t49y_pqOd'
   lat: 40.125715
   level: 7
@@ -82,12 +88,6 @@
   level: 7
   lon: -88.209117
   name:  'Water Sculpture'
-- ap: 6098
-  img:  'http://lh4.ggpht.com/JVNlRlxb-5k_pDpi5lUduOZu2NO-CKdaVaa4Jj_IHDLIxC31OEc6zpyO8qklRI58_wB2fH1m8LUHOJW_GME'
-  lat: 40.125389
-  level: 5
-  lon: -88.209627
-  name:  'Crystal Lake Tree House Club'
 - ap: 5535
   img:  'http://lh3.googleusercontent.com/uMbzVioq9unnFDGacYnsGny4JTtrKoGuPJj22cChPVUqowmnw1xksjfIosvYJ09QV75VuGd5-rq60N1a6BxG'
   lat: 40.127017
@@ -324,6 +324,12 @@
   name:  'fa303e162e1349c7ac2d93cf3df18bf0.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.392777
+  level: '?'
+  lon: -88.872222
+  name:  '457d173f728846fbaf0e7d83f3625cba.11'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 39.80624
   level: '?'
   lon: -87.673321
@@ -334,12 +340,6 @@
   level: '?'
   lon: -88.504875
   name:  '2d719dd62f7e491b860a85095e05d959.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.392777
-  level: '?'
-  lon: -88.872222
-  name:  '457d173f728846fbaf0e7d83f3625cba.11'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.987551
@@ -430,18 +430,18 @@
   level: 3
   lon: -88.204927
   name:  '"Is It Too Late" @ Meadowbrook'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/fV0EN-O-ZnvYxldL2VCz5p99G1LNJnijI_B_4Erzqyiv3LRx6_oxldoqltlIl7BTh3mAIyiasfxb0k9QgjZP'
-  lat: 40.083585
-  level: 7
-  lon: -88.201439
-  name:  'Meadowbrook Park '
 - ap: 2237
   img:  'http://lh3.ggpht.com/Du0TJmMI1dnX36-rCGs6310UXd29Ay1bttUFdbpIrAA2wGtULNMGT_z3Un2VNx9iV4CxY5Tg8ZO5GpMjnmAQ'
   lat: 40.083189
   level: 3
   lon: -88.202092
   name:  'Twiddle This'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/fV0EN-O-ZnvYxldL2VCz5p99G1LNJnijI_B_4Erzqyiv3LRx6_oxldoqltlIl7BTh3mAIyiasfxb0k9QgjZP'
+  lat: 40.083585
+  level: 7
+  lon: -88.201439
+  name:  'Meadowbrook Park '
 - ap: 2537
   img:  'http://lh5.ggpht.com/prfJ78X11LQhmc4oqt5BIM1mvF3nq_ZyuHqdzh9Ab7lz5aRQqfjllde4UKCFCQguDMa0Nl63SsnEstu2uaw'
   lat: 40.083271
