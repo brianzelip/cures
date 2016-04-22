@@ -5,12 +5,12 @@
   lon: -88.163907
   mus: 499888
   name:  'Urbana Post Office'
-- fields: 12+
+- fields: 13+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.002464
   level: '?'
   lon: -88.156482
-  mus: 271522
+  mus: 300344
   name:  'Hazen Park'
 - fields: 15
   img:  'http://lh3.googleusercontent.com/klY7LlKB5LBTfRC8P4oBlzzOKMP_YM_h2twKQVnFocg0IyQsM140Vz0T7KED59pIwOKy1Xze-Q7u8w9cvqug'
@@ -19,6 +19,13 @@
   lon: -88.239758
   mus: 242669
   name:  'Lake Park Prairie Restoration'
+- fields: 7
+  img:  'http://lh3.ggpht.com/W8FBEELyDwLQMeanXFx-Fgunxvd31WdpPq5IhpOEXVv-NygLJqO5o8a74hVaiQzxEGWm3XPPu4IWJEUcJQzN'
+  lat: 40.055019
+  level: 7
+  lon: -88.295155
+  mus: 109810
+  name:  'Savoy United Methodist Church'
 - fields: 14+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.010962
@@ -33,13 +40,6 @@
   lon: -88.597489
   mus: 102571
   name:  '65280cab18ee4058be768e1ca02c5dfe.16'
-- fields: 5
-  img:  'http://lh3.ggpht.com/W8FBEELyDwLQMeanXFx-Fgunxvd31WdpPq5IhpOEXVv-NygLJqO5o8a74hVaiQzxEGWm3XPPu4IWJEUcJQzN'
-  lat: 40.055019
-  level: 7
-  lon: -88.295155
-  mus: 80981
-  name:  'Savoy United Methodist Church'
 - fields: 3
   img:  'http://lh4.ggpht.com/MnvRIwYBCscNCKIRmPyogxsZdt_OF6dC0mIsI1_2fddZFlc88Sg9wNyU9Ne9q-cY0RUa5VFafv4C5f5-pxVpWg'
   lat: 40.069376
@@ -110,6 +110,13 @@
   lon: -88.1589
   mus: 32788
   name:  '9d59faab402e4056a9eb9fb8b842b465.16'
+- fields: 1+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 39.995577
+  level: '?'
+  lon: -88.274172
+  mus: 28822
+  name:  'd7806384ba5c4b188545849044478522.16'
 - fields: 3
   img:  'http://lh4.ggpht.com/bt261V8sct8HMdZl4ckTcRY_H_hIF2eSIbeM-IkO-Tfx3NrbIUqQeoZs5tlk3Gzb5tXZ1toPUA3-iWayISuOdQ'
   lat: 40.075588
@@ -145,12 +152,12 @@
   lon: -88.169688
   mus: 6193
   name:  '9b5959945a1d4c84be40982a99b0e943.16'
-- fields: 6
+- fields: 7
   img:  'http://lh5.ggpht.com/e6wN_SlFuF59rOEwuU8BCPeT0WsXneW_OcsXpZ75pgQd0PQSfnKhmLyrK5PDkisRwjV2DfAfVp7T3ryHoGKX4A'
   lat: 40.076779
   level: 8
   lon: -88.249144
-  mus: 4684
+  mus: 4690
   name:  'Triptych Brewing'
 - fields: 10
   img:  'http://lh3.googleusercontent.com/dnlQAi9ftw9Nx79Zq-2jo6-EvJCMD8vcxJZcy5NWGDJ3iOxzhM2gXtGvrqke6-N3F3kKBkK5Bev6RRF5RS7y'
@@ -657,6 +664,13 @@
   mus: 154
   name:  'Brookens Administrative Center'
 - fields: 2
+  img:  'http://lh5.ggpht.com/Fl-qbQtlziD-8zSe_WfUrflOcIFP-whkkS2IjEkT19sDskVzbx-bKvw1k0Y8qaNjUpwOCjy3E4DYDTh4Er7B'
+  lat: 40.074003
+  level: 6
+  lon: -88.255085
+  mus: 150
+  name:  'Burwash Park'
+- fields: 2
   img:  'http://lh4.ggpht.com/bLuibWEcmeUmu61mSq5nuycU5SqWJ2L9WYTDkbGx3BPNZR7xlyJvPLg4XbJ70eIdsey-aj5_dlff9NWuId0'
   lat: 40.095956
   level: 6
@@ -670,13 +684,6 @@
   lon: -88.259583
   mus: 144
   name:  'Noel Park'
-- fields: 1
-  img:  'http://lh5.ggpht.com/Fl-qbQtlziD-8zSe_WfUrflOcIFP-whkkS2IjEkT19sDskVzbx-bKvw1k0Y8qaNjUpwOCjy3E4DYDTh4Er7B'
-  lat: 40.074003
-  level: 6
-  lon: -88.255085
-  mus: 144
-  name:  'Burwash Park'
 - fields: 9
   img:  'http://lh5.ggpht.com/oZQDrn1fO-Podf01z1Gb_GpmTXd3IRE2Zy0DnqvTWyDkEcOqkx-2w_hD2oHdf2AfJ614c2JL5ufvVEHhOug'
   lat: 40.117487
@@ -1429,7 +1436,7 @@
 - fields: 2
   img:  'http://lh5.ggpht.com/ftmAzbnKocZkda7k1ZC-3gMqr3UiOKXsS9qFSxN8V4C6_DEZr79lkSpPL00EmiZn50-ZPzTQZZlBLlOdL4Rd'
   lat: 40.116219
-  level: 6
+  level: 7
   lon: -88.23253
   mus: 30
   name:  'Skyward Railway'
@@ -1569,7 +1576,7 @@
 - fields: 1
   img:  'http://lh6.ggpht.com/Nv0tMktEkkuoGtg1QEPS1N2nTcBPg8ipu31i72XPDTGQ4HQI5oL58Ig8kofXUH_aCC2aaJ-NylWKPkC3hIBS'
   lat: 40.116218
-  level: 7
+  level: 8
   lon: -88.228757
   mus: 22
   name:  'The Presidents'' Walk'
