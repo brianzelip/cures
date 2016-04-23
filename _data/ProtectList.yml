@@ -2903,13 +2903,6 @@
   lon: -88.286198
   mus: 2
   name:  'Weighted'
-- fields: 3
-  img:  'http://lh6.ggpht.com/2lDM_Uj6QcUJmWkmPhNWg-vfkJbBQAo6zb7eXC5qDTaJ5xAsoU7jPPqYmLo7zztC2Za1oH3QVrHQ78-XabqR'
-  lat: 40.116398
-  level: 6
-  lon: -88.242485
-  mus: 2
-  name:  'Champaign Servicemen and Women Memorial'
 - fields: 2
   img:  'http://lh3.ggpht.com/UoqoA4-SqK1X44o_0alM-QL57jhssYrhXZdeS1Ph9C5k_PjEXhPB_rJsbzTZ2hWbGDdartAlnZnfw3vb7DAG'
   lat: 40.099177
@@ -2927,10 +2920,17 @@
 - fields: 3
   img:  'http://lh6.ggpht.com/oTEawnC2cPnZ7T10vs9tiueaLsN0ILM7tgPLWVfa0njwvTDrUvS-w8x5SK4iMDd0tuHYP2w5a-H0AQ4NaAyU'
   lat: 40.116388
-  level: 4
+  level: 2
   lon: -88.243702
   mus: 1
   name:  'Cycles of Love'
+- fields: 2
+  img:  'http://lh6.ggpht.com/2lDM_Uj6QcUJmWkmPhNWg-vfkJbBQAo6zb7eXC5qDTaJ5xAsoU7jPPqYmLo7zztC2Za1oH3QVrHQ78-XabqR'
+  lat: 40.116398
+  level: 6
+  lon: -88.242485
+  mus: 1
+  name:  'Champaign Servicemen and Women Memorial'
 - fields: 2
   img:  'http://lh4.ggpht.com/3gTAX6rKgNjLmBOYvAVTgSPQej5yRF_38uRllp9H4n5N6pvwWo5kDMDwlIkFVPPl30BXPSGAlZ9pO9B4DMk'
   lat: 40.116218
@@ -2945,13 +2945,6 @@
   lon: -88.225191
   mus: 1
   name:  'Eleanor Hammers Boner'
-- fields: 2
-  img:  'http://lh3.googleusercontent.com/5FkLhIMVmAJJSslAXVxY1RNxi-4q5mNAVPK2XgU5LwRM8qcB8BGXOK0GmF6Y_xfgPOhwF_CrbcgVZlJx-Pza'
-  lat: 40.11652
-  level: 5
-  lon: -88.241845
-  mus: 1
-  name:  'Mike ''N Molly''s'
 - fields: 1
   img:  'http://lh4.ggpht.com/GsF83mQilY6LIEvSeaGzU2sGjQnFmNgTzi6gPFGKt1K-Yd40nunFYDQs97tOMf-RgMbeGBl2pwi33cd0L11U'
   lat: 40.126708
@@ -3023,6 +3016,13 @@
   mus: 1
   name:  'Skull And Wagon Wheel'
 - fields: 1
+  img:  'http://lh3.googleusercontent.com/5FkLhIMVmAJJSslAXVxY1RNxi-4q5mNAVPK2XgU5LwRM8qcB8BGXOK0GmF6Y_xfgPOhwF_CrbcgVZlJx-Pza'
+  lat: 40.11652
+  level: 5
+  lon: -88.241845
+  mus: 1
+  name:  'Mike ''N Molly''s'
+- fields: 1
   img:  'http://lh5.ggpht.com/EKJxNTFOuD40jrzyfaaZo27LcnbJVBBxKH8MoiDi1tC4TahCXMGYOMqy4lUVaR-z2Z4Guhp4berNdA0t0x0'
   lat: 40.117598
   level: 3
@@ -3032,7 +3032,7 @@
 - fields: 1
   img:  'http://lh5.ggpht.com/KuDVZqnpBQnne0a_UqpN4wpsQFlw3nVXAWtRKP_AdZ3CjQ0MHUBgU_2hE8hb71h31FTQbduYmB6DNuVKA0s'
   lat: 40.116822
-  level: 4
+  level: 3
   lon: -88.243445
   mus: 1
   name:  'Remembering Horeb'
@@ -3046,7 +3046,7 @@
 - fields: 1
   img:  'http://lh3.ggpht.com/fvQtXA7uQ_ump_R8JixzV9ndFr5gVzIttL7RP9cD1MYPv5sui8NvcUwgkO7V83M9DpRjiqE505roZ62DjPgHCQ'
   lat: 40.122254
-  level: 5
+  level: 4
   lon: -88.219635
   mus: 1
   name:  'King Park 1967'
@@ -3123,7 +3123,7 @@
 - fields: 2
   img:  'http://lh6.ggpht.com/btym2_WGYuFNu2SNiR8qif7GXLMOPT7XpuHE7RPOipPC9Q5lEPfImKAzf2vm9RUe2rN0u3TePq4pM0IuZiLS'
   lat: 40.116436
-  level: 5
+  level: 3
   lon: -88.243459
   mus: 1
   name:  'Champaign City Building'
@@ -3186,17 +3186,10 @@
 - fields: 1
   img:  'http://lh3.ggpht.com/-MRGQEVV5mNMzB4sb8JAsgVC56kTzYaFEf3mpRsfXAiO4KIrLw3LGFkt7Au97yDwY-AUSfghHcri53Zpmn-Z4Q'
   lat: 40.11621
-  level: 6
+  level: 3
   lon: -88.242535
   mus: 1
   name:  'Inman Building Historic Plaque'
-- fields: 1
-  img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
-  lat: 40.116553
-  level: 5
-  lon: -88.242268
-  mus: 1
-  name:  'Esquire Lounge'
 - fields: 1
   img:  'http://lh6.ggpht.com/fhMd686ql-IYC_DqSfUdbHHl3jAaBKjkykuSJ_Lx5nPI46OaE-pA_penftiqIC_r-xDmrFhRZU5vmcweUncZ'
   lat: 40.127665
@@ -3214,7 +3207,7 @@
 - fields: 1
   img:  'http://lh5.ggpht.com/FeG7Xn052FyJtG43yF0j2iYs3BdENjAx_oZUTzI70y4H0qeexU7B8NrXaT20cmXSKwnWV8xFSc3OlG_KQU09pE8fyCAYXWWPbTzC0_GZ1aynCFni'
   lat: 40.116185
-  level: 3
+  level: 2
   lon: -88.243429
   mus: 1
   name:  'C.V. Lloyde'
