@@ -83,17 +83,17 @@
   lon: -88.251685
   name:  'Curtis William McKinney Memorial'
 - ap: 6098
-  img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
-  lat: 40.100691
-  level: 7
-  lon: -88.251337
-  name:  'In Loving Memory of Zeus'
-- ap: 6098
   img:  'http://lh3.ggpht.com/VrbXGwlUosNLEkVdshWUFoVa3KtlJQoEU4yLYygvftYbPCmxo644Uvar_v8Kb9RS53hB0tXgvV44GotrxZyu'
   lat: 40.098592
   level: 7
   lon: -88.251676
   name:  'Ruth and Fred Steigmann Plaque'
+- ap: 6098
+  img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
+  lat: 40.100691
+  level: 7
+  lon: -88.251337
+  name:  'In Loving Memory of Zeus'
 - ap: 5909
   img:  'http://lh5.ggpht.com/pSVHjk6puyYdv3ztHlpJGnbkZyGsGsirMnxkDhlt8UMko4AhtTQbrzwInBCu5lK4Ttf7furE5pNW2AZh8HuSZQ'
   lat: 40.138109
@@ -181,7 +181,7 @@
 - ap: 4411
   img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
   lat: 40.100936
-  level: 5
+  level: 6
   lon: -88.250855
   name:  'Donald F. Bresnan Memorial'
 - ap: 4411
@@ -193,7 +193,7 @@
 - ap: 4411
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
-  level: 5
+  level: 6
   lon: -88.250864
   name:  'Gabriel Patrick Maxeiner Memorial'
 - ap: 4411
@@ -294,16 +294,16 @@
   name:  'Walker Grove'
 - ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.179831
-  level: '?'
-  lon: -90.320602
-  name:  '7900c25ce4c349f5a896d6119a0fbbcd.16'
-- ap: 2724
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.106513
   level: '?'
   lon: -88.5585
   name:  'Lodge Christian Church'
+- ap: 2724
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.179831
+  level: '?'
+  lon: -90.320602
+  name:  '7900c25ce4c349f5a896d6119a0fbbcd.16'
 - ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.312242
@@ -348,6 +348,12 @@
   name:  'ffb1c8830f184f8b9886fbf7c7604a37.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.124247
+  level: '?'
+  lon: -88.926356
+  name:  '774e54070f3d48e3804045a925ac7c05.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.76942
   level: '?'
   lon: -89.682978
@@ -370,12 +376,6 @@
   level: '?'
   lon: -89.650933
   name:  '3a45fd306eda4e65b42f9e07672cd0cf.12'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.124247
-  level: '?'
-  lon: -88.926356
-  name:  '774e54070f3d48e3804045a925ac7c05.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.154669
