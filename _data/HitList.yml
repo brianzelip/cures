@@ -1,17 +1,10 @@
-- fields: 12
+- fields: 11
   img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
   lat: 40.106706
   level: 6
   lon: -88.232116
   mus: 125
   name:  'Illini Tower'
-- fields: 5
-  img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
-  lat: 40.107629
-  level: 6
-  lon: -88.224484
-  mus: 90
-  name:  'Bucky Balls'
 - fields: 3
   img:  'http://lh5.ggpht.com/ek0AuIkZd5CWKmIdjFjq5gOvptOzC8VJUnyatNG8ZyUoT8-mvkd4seW8Gpbl4kkgiatIbr57h5kK_5z6NSGD'
   lat: 40.131581
@@ -19,6 +12,13 @@
   lon: -88.312816
   mus: 88
   name:  'Sunset Ridge Park'
+- fields: 3
+  img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
+  lat: 40.107629
+  level: 6
+  lon: -88.224484
+  mus: 72
+  name:  'Bucky Balls'
 - fields: 4
   img:  'http://lh3.ggpht.com/g1H1SJintXK5Zb7ng6DN7wix1q5otnzMK5JCJDnecwuIiohJmhXLJs1XzItxaTSYEuPPOqd4x-dGqd0WK5YU'
   lat: 40.13349
@@ -48,6 +48,13 @@
   mus: 11
   name:  'Savoy Post Office'
 - fields: 5
+  img:  'http://lh6.ggpht.com/RW34ntixvJkg7fD71TPYo_4KIsBzA0-a-6yXO0jKPbpGxX5gIGC7kBI-pXEF9OHhuolcAGW2fxyK3Pt42Iev'
+  lat: 40.110489
+  level: 6
+  lon: -88.227412
+  mus: 10
+  name:  'Bus Stop - Illini Union, Westbound'
+- fields: 5
   img:  'http://lh5.ggpht.com/Lup2et0i5h8oHqtBffIdoyX5uclC2MBn9ZnnKnYPr4RIFSflf9bi78zBHK7QqycA0qgEev9qOk0zU-1o1hg'
   lat: 40.108451
   level: 6
@@ -76,26 +83,12 @@
   mus: 7
   name:  'Lyman Larson Memorial'
 - fields: 4
-  img:  'http://lh5.ggpht.com/3RfiPeOzF67ubNX-vkwUJ6-EYld6BKuoBernq0_9kOjlIsSPr3saR9FIQzN7uiw7ouF0CpNflOnL0mUj9zbqdQ'
-  lat: 40.109452
-  level: 7
-  lon: -88.229031
-  mus: 7
-  name:  'Illini Hall'
-- fields: 4
   img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
   lat: 40.101327
   level: 7
   lon: -88.251412
   mus: 6
   name:  'Zeus Memorial'
-- fields: 3
-  img:  'http://lh6.ggpht.com/j712bbvDknzGlAU87nZA1Bx45Ng-0MGA9Uvuv-3WzIKA3W51mXOZpJ-TzVSbuU3uE2AsJ5wcO7_B6WDpdRr0'
-  lat: 40.110684
-  level: 7
-  lon: -88.226053
-  mus: 5
-  name:  'BCS Superconductivity Theory Plaque'
 - fields: 2
   img:  'http://lh4.ggpht.com/zAxC11GCLRrj5wlF-U0mbjaisXjS5ukHSkGR5sVCfSWYKSlV2kxvtrD04m3n_XzT59XQ1xyf4ctzShUNem0'
   lat: 40.080381
@@ -103,6 +96,13 @@
   lon: -88.209174
   mus: 4
   name:  'Meadowbrook Park'
+- fields: 2
+  img:  'http://lh6.ggpht.com/j712bbvDknzGlAU87nZA1Bx45Ng-0MGA9Uvuv-3WzIKA3W51mXOZpJ-TzVSbuU3uE2AsJ5wcO7_B6WDpdRr0'
+  lat: 40.110684
+  level: 7
+  lon: -88.226053
+  mus: 4
+  name:  'BCS Superconductivity Theory Plaque'
 - fields: 4
   img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
   lat: 40.100691
@@ -124,6 +124,13 @@
   lon: -88.228984
   mus: 3
   name:  'Saint Andrew''s Church'
+- fields: 2
+  img:  'http://lh5.ggpht.com/3RfiPeOzF67ubNX-vkwUJ6-EYld6BKuoBernq0_9kOjlIsSPr3saR9FIQzN7uiw7ouF0CpNflOnL0mUj9zbqdQ'
+  lat: 40.109452
+  level: 7
+  lon: -88.229031
+  mus: 3
+  name:  'Illini Hall'
 - fields: 3
   img:  'http://lh4.ggpht.com/4LxsGZZMk3DnpJXUvqzrL54CHSP5TDXjUnDJyHmCCTtCJIjGEI7kxT9g4uxfSPh0X6yGLgQo1jfqbu7B8VEr'
   lat: 40.099084
@@ -160,13 +167,6 @@
   mus: 1
   name:  'Ruth Haasis Memorial'
 - fields: 1
-  img:  'http://lh5.ggpht.com/fHd4PN9y6K8vITWYf02HBqZwj7gTOYz9XqUVbI3_bHVW0KUAbFgY_jdyXgwKOFRz8VeKMD2BkELNjIedp5Le'
-  lat: 40.108821
-  level: 5
-  lon: -88.228411
-  mus: 1
-  name:  'John Milton Gregory''s Grave'
-- fields: 1
   img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
   lat: 40.100936
   level: 7
@@ -187,13 +187,6 @@
   lon: -88.241616
   mus: 1
   name:  'Honorary Memorial Steam Ventilation Pipe'
-- fields: 1
-  img:  'http://lh6.ggpht.com/1El0oK6CWDh7rAQeFmPEW_dA252pdq7piTtjtuQCkZvwRa689NLjEafLqQ35TI5qCW3Lmhja9PLQqKxFs9Ha'
-  lat: 40.110627
-  level: 3
-  lon: -88.227584
-  mus: 1
-  name:  'Tau Beta Pi Statue'
 - fields: 1
   img:  'http://lh5.ggpht.com/orl0d4FNIpZ7xsdZmVyH_732dMd4uGM01fQ-P5V82KufzWBOMbpankzTgjeS3frZhS7apS3qCrS2o4jtw7pAkg'
   lat: 40.105605
