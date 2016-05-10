@@ -1,9 +1,9 @@
-- fields: 6+
+- fields: 7+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.31899
   level: '?'
   lon: -88.282717
-  mus: 58870
+  mus: 71729
   name:  'Dewey Post Office'
 - fields: 3+
   img: http://i.imgur.com/LujBo5P.png
@@ -75,6 +75,20 @@
   lon: -88.222417
   mus: 13295
   name:  'Eastern Illinois Food Bank'
+- fields: 1+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.336241
+  level: '?'
+  lon: -88.136271
+  mus: 12859
+  name:  'Brookhill Golf Course'
+- fields: 1+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.312159
+  level: '?'
+  lon: -88.156046
+  mus: 12859
+  name:  '9297f40b0d01406a92460883428ee9b1.16'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.004161
@@ -568,7 +582,7 @@
 - fields: 2
   img:  'http://lh5.ggpht.com/93SMm7gYjGLu_6bFOqGL5MXKxKF_NsnHuxiDyywI_Jrhz-LaQoNlm0yw7lG0I9rhp5vnHkATk01A_CNYmYf-'
   lat: 40.128358
-  level: 6
+  level: 7
   lon: -88.243471
   mus: 330
   name:  'Champaign Church of the Bretheren'
@@ -663,13 +677,6 @@
   lon: -88.184077
   mus: 270
   name:  'Quaker Meeting House'
-- fields: 5
-  img:  'http://lh6.ggpht.com/_MJDV4NA2u24dbhr1ulyabSdnTuUBUv1xFpOPKbit_dHtoaRkFxqDHaRZBZ196LNyiSHUE5lNT4MCbhqCrzh'
-  lat: 40.098459
-  level: 8
-  lon: -88.282083
-  mus: 268
-  name:  'Flower Island'
 - fields: 3
   img:  'http://lh4.ggpht.com/u_MtizNv_keIXM4ITgtjqC8nr5JvB8UpDBg_5_08uQDTsQr44mwr6ZlkhTp0iKbvcV9xCJqXDeN66xYWaI0'
   lat: 40.116227
@@ -677,6 +684,13 @@
   lon: -88.233833
   mus: 268
   name:  'Haley-Walker-Ginza Building'
+- fields: 4
+  img:  'http://lh6.ggpht.com/_MJDV4NA2u24dbhr1ulyabSdnTuUBUv1xFpOPKbit_dHtoaRkFxqDHaRZBZ196LNyiSHUE5lNT4MCbhqCrzh'
+  lat: 40.098459
+  level: 8
+  lon: -88.282083
+  mus: 267
+  name:  'Flower Island'
 - fields: 5
   img:  'http://lh6.ggpht.com/B4G90nKtVQc7jPOxaA1XcAIKA2UJlU15MIPZLitQmNBNAtfIc9qCPpe75YFHYaZN3YUpU6b4CNMOPsBrg1Q'
   lat: 40.100489
@@ -1055,12 +1069,12 @@
   lon: -88.219106
   mus: 116
   name:  'Axiom Christian Church Ministry'
-- fields: 10
+- fields: 9
   img:  'http://lh4.ggpht.com/EveE1r4LU3oEoTrxc2hAzywPFArsSkIcAydfuBtNSmnwv76V6mqWgNEpe7srr7g3ZAOILSYHsfCdLLlwzU-9VA'
   lat: 40.110716
   level: 6
   lon: -88.207208
-  mus: 114
+  mus: 112
   name:  'Seasons Mural'
 - fields: 5
   img:  'http://lh3.googleusercontent.com/m4BfhR8F_biDdmGv1YgOItIkuAJVJbk8uEG-3oLHTGRyzY6G0nbW_Kaf4gQqQdlj439JNrBoINARSmM_VMZcVQ'
@@ -1205,7 +1219,7 @@
 - fields: 4
   img:  'http://lh5.ggpht.com/ftmAzbnKocZkda7k1ZC-3gMqr3UiOKXsS9qFSxN8V4C6_DEZr79lkSpPL00EmiZn50-ZPzTQZZlBLlOdL4Rd'
   lat: 40.116219
-  level: 7
+  level: 6
   lon: -88.23253
   mus: 86
   name:  'Skyward Railway'
@@ -1405,13 +1419,6 @@
   lon: -88.228593
   mus: 44
   name:  'Cascading Brick Fountain'
-- fields: 4
-  img:  'http://lh5.ggpht.com/9VuH5-qaoobAtdEZFkn2uoAcJS5Luq9QLXRevRpv9WAzkjoAB_9hftbELGCCm8M4rxAJ5xTfJWd6E6kb0Or7'
-  lat: 40.102016
-  level: 4
-  lon: -88.281983
-  mus: 43
-  name:  'Centennial Park'
 - fields: 2
   img:  'http://lh3.ggpht.com/rKv-1aQyD3_EmYdZWG7vYw8cs8J89rZ6nFgr0tzEY9dFNyVdXpy1qOnHT434i_rN90x2ZakG3V5iyZUlXFogwA'
   lat: 40.103623
@@ -1454,13 +1461,20 @@
   lon: -88.285144
   mus: 38
   name:  'Champaign Fire Department'
-- fields: 2
+- fields: 1
   img:  'http://lh5.ggpht.com/uICg1AgxErKugaXSVrAGclLigtqDUyOsaOIldV_S086SuGvckMN90PIxdZehZMktOsdxW3Ok9k7Hcx5UJSd9ZA'
   lat: 40.102217
-  level: 5
+  level: 4
   lon: -88.283855
   mus: 38
   name:  'Lisa Dodds Memorial'
+- fields: 1
+  img:  'http://lh5.ggpht.com/9VuH5-qaoobAtdEZFkn2uoAcJS5Luq9QLXRevRpv9WAzkjoAB_9hftbELGCCm8M4rxAJ5xTfJWd6E6kb0Or7'
+  lat: 40.102016
+  level: 4
+  lon: -88.281983
+  mus: 38
+  name:  'Centennial Park'
 - fields: 6
   img:  'http://lh4.ggpht.com/8AjeZD8uLKBGqzwnDcp2t-wWRFmqZ03RVBIV2jccyPae0uVMwvjHgEmRfdS_lvnxJTIwosCM3Xlfpw-vIwZOdw'
   lat: 40.118549
@@ -1755,13 +1769,6 @@
   lon: -88.248459
   mus: 23
   name:  'Uppercutted Sculpture'
-- fields: 4
-  img:  'http://lh3.ggpht.com/Fy0nzLr1Q8bRnwu-jzHctS6qpGCOG01KiNnG1-Dpea_zukqvudRLdbZjtk1ECbtWLHSMqCNMzPz49KPgJkGK5QtTRyyUgUwPVUe5DNtWeIt2AluLBw'
-  lat: 40.111292
-  level: 8
-  lon: -88.205182
-  mus: 23
-  name:  'Champaign County Courthouse'
 - fields: 2
   img:  'http://lh6.ggpht.com/0IsQORyEW-bPA7sEbGspygtoI7ixEshm_2fUw5oeh9AeXg6JN5w0ypYIshpuKm-C0nG4Vm2XmpLvtWTZzWzd'
   lat: 40.111607
@@ -1818,6 +1825,13 @@
   lon: -88.239353
   mus: 20
   name:  'U.S. Representative Memorial'
+- fields: 3
+  img:  'http://lh3.ggpht.com/Fy0nzLr1Q8bRnwu-jzHctS6qpGCOG01KiNnG1-Dpea_zukqvudRLdbZjtk1ECbtWLHSMqCNMzPz49KPgJkGK5QtTRyyUgUwPVUe5DNtWeIt2AluLBw'
+  lat: 40.111292
+  level: 8
+  lon: -88.205182
+  mus: 20
+  name:  'Champaign County Courthouse'
 - fields: 4
   img:  'http://lh5.ggpht.com/Ezq3ovJZ5M4i8wxOtoPoHEBF_o5ur2tH3Hdb0QU-JmlxR71RxAS_K5h14xYHSyI2WOF0RuBy_hZZeslYhNNe'
   lat: 40.102329
@@ -2210,13 +2224,6 @@
   lon: -88.250389
   mus: 10
   name:  'Dennis Robert Costello Memorial'
-- fields: 4
-  img:  'http://lh6.ggpht.com/aHhLEb8O6JqkElC1drnlJBmq8qeC2WzA4W48qkRQwuE9B6opSfHVKARNHu-uAZN-jvPRznVdmobggqRbw9E'
-  lat: 40.100674
-  level: 6
-  lon: -88.281589
-  mus: 10
-  name:  'Catherine Josephine Feinen Memorial'
 - fields: 6
   img:  'http://lh6.ggpht.com/RH3MbwozH7YnjZhF6W7_9XqmrK02-9MNQd_3QdyYWQZ9OkYL4uEh1afAxpqy_DfYXl_LAIhTAmpIL_8JG68'
   lat: 40.111284
@@ -2231,13 +2238,6 @@
   lon: -88.250259
   mus: 9
   name:  'Heath & Vaughn Funeral Home'
-- fields: 4
-  img:  'http://lh5.ggpht.com/_quRYtw1nQsDlSn7VjdJ72LlgiwnF7tlWU9s2H40vdM6ILPMiOgmzt_fUXz7ocFI5MT7YWs-smZ9a6H7XR0'
-  lat: 40.101822
-  level: 5
-  lon: -88.282612
-  mus: 9
-  name:  'Winifred Nielubowski Memorial Plaque'
 - fields: 2
   img:  'http://lh4.ggpht.com/IAi2A1ukQunZaoCY1OUJnvZC_MAEjnYzlg7vcsIuPQyLIB710_5ueVQ3El8Pok0aNvlB18-Tdo1euhYbaf0'
   lat: 40.115224
@@ -2280,13 +2280,6 @@
   lon: -88.247614
   mus: 9
   name:  'Mary Shaw Memorial Tree'
-- fields: 4
-  img:  'http://lh4.ggpht.com/8Yhp3k9rCZps2AgalC_ip3F4DfS_sWuoDsILaXrP4RmZLhthvaiibjiEOn68zQ_QZyQu1Jyj8yb2lmNUNmrR'
-  lat: 40.101186
-  level: 5
-  lon: -88.282524
-  mus: 9
-  name:  'Rotary Shelter'
 - fields: 5
   img:  'http://lh5.ggpht.com/FSk5On23hkt2tKQwxmnQmTBsfFpI2Fo62zmSDud2TYOwYe4SjDViMIp_ehdmFSJM-i4vLJr7i74gM7L7FXNR'
   lat: 40.107119
@@ -2469,13 +2462,6 @@
   lon: -88.332388
   mus: 6
   name:  'Spiral the Gate'
-- fields: 4
-  img:  'http://lh4.ggpht.com/Iw1zFYmvkp5-xEIthuGSfIqcCRd0lVw_uGS4y_I5DIg6xQ0CUp4_S4GL3JOWv7XFZLFqFH9O572bGCNhB78IMQ'
-  lat: 40.102126
-  level: 5
-  lon: -88.283224
-  mus: 6
-  name:  'Leonhard Recreation Center'
 - fields: 3
   img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
   lat: 40.098959
@@ -2504,13 +2490,6 @@
   lon: -88.224198
   mus: 5
   name:  'Siebel Center for Computer Science'
-- fields: 2
-  img:  'http://lh3.ggpht.com/LI2lDP17lvIghR6Sltj6ECmzcCBHl8dTLBG7BVkPOqTkM9h8PGuXRp7mS8x3bxL-pbQzjV2HyP1y8XWbUzi4'
-  lat: 40.100762
-  level: 5
-  lon: -88.282846
-  mus: 5
-  name:  'Sholem Aquatic Center '
 - fields: 4
   img:  'http://lh3.ggpht.com/J_h4tdb4wqy8bmmQfDuy5yqTR2IlkzKojfvsMOvlD-3tf1pKxbDlhA6W9Q8RX-JaSxhItMr4bmCxiUQXTLbz'
   lat: 40.10064
@@ -2700,13 +2679,6 @@
   lon: -88.288788
   mus: 3
   name:  'Student Union Building'
-- fields: 1
-  img:  'http://lh6.ggpht.com/PXNfY-rn4cS8Fcr7CkJnEI5-vb_hCYxTX_9VV9jNB78yHB-EjmmsP8_EiqK-icwqTxu2iRtDoSbBRCLanerX'
-  lat: 40.110685
-  level: 5
-  lon: -88.206243
-  mus: 3
-  name:  'Lincoln Square Fountain'
 - fields: 2
   img:  'http://lh6.ggpht.com/NKXSF6GiNQjQkGMo2cwszdfKruFPx3kqSmhOnKewgIS5FYC7jBNc3zKfRlEWtCBj-XBFLZM0fjURljdmMCGHTp6XADSQdWjVAmjnaudxBI5YSWFw'
   lat: 40.110465
@@ -2973,13 +2945,6 @@
   lon: -88.209207
   mus: 1
   name:  'Urbana Free Library'
-- fields: 1
-  img:  'http://lh6.ggpht.com/ukIJOts1W6BPpII4XC4_Q5Wh8Gz8aCNeGUuAtaLknm7OKhNYvlDd71ZN8hcxCRcJDhDjV0qBZgFRyYMGNeS6'
-  lat: 40.100203
-  level: 3
-  lon: -88.281602
-  mus: 1
-  name:  'Karlee Elizabeth Feinen Memorial'
 - fields: 1
   img:  'http://lh6.ggpht.com/UMaVDs4JUJ1obZF_7bkt3YUS02KJCdBmvRnU0gXqrvHeFd-6jyR_VGDBUgiXtVFoAj95F7sZrvFJ1l9fe4S3sBUkt__qi77W2_jm8KR0IU_iwOYcIg'
   lat: 40.080791
