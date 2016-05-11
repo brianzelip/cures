@@ -142,18 +142,18 @@
   level: 6
   lon: -88.228913
   name:  'Zipcar-Wright Street & Daniel Street'
-- ap: 4785
-  img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
-  lat: 40.107629
-  level: 6
-  lon: -88.224484
-  name:  'Bucky Balls'
 - ap: 4598
   img:  'http://lh6.ggpht.com/ocpQF23CdY7CXPOYMbPL3wLLV7Rc0VayvSyooA07il2lG0oiiQDbDCnsKqO1ysXJAVlzGikCKS-kVOLb6rog'
   lat: 40.135079
   level: 5
   lon: -88.314559
   name:  'Sunset Ridge Decorative Gate'
+- ap: 4598
+  img:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
+  lat: 40.108173
+  level: 6
+  lon: -88.230209
+  name:  'Mural on South Sixth Street'
 - ap: 4411
   img:  'http://lh5.ggpht.com/ek0AuIkZd5CWKmIdjFjq5gOvptOzC8VJUnyatNG8ZyUoT8-mvkd4seW8Gpbl4kkgiatIbr57h5kK_5z6NSGD'
   lat: 40.131581
@@ -178,10 +178,10 @@
   level: 6
   lon: -88.25376
   name:  'Hessel Park Christian Reformed Church'
-- ap: 3660
+- ap: 4222
   img:  'http://lh6.ggpht.com/WtqWBwqpYTSw3g9ru5NwcFn5iK5STxWgy2kv4OUTWqwtzx76-9Msz0eqoiw0qpEYE1U4zdt9rzzNZMDNagNg'
   lat: 40.107943
-  level: 2
+  level: 6
   lon: -88.226751
   name:  'Class Of 1917 Plaque'
 - ap: 3661
@@ -197,23 +197,23 @@
   lon: -88.256104
   name:  'John L. Jones Park'
 - ap: 3661
-  img:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
-  lat: 40.108173
+  img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
+  lat: 40.107629
   level: 6
-  lon: -88.230209
-  name:  'Mural on South Sixth Street'
+  lon: -88.224484
+  name:  'Bucky Balls'
+- ap: 3661
+  img:  'http://lh5.ggpht.com/ucFkWovrZBr6wFMicSGD78p44tqzcyfJCvQuAocYo0do3ODoHsOeAMphZZferoOLkGfuJPQVlILRzKG1vAPg'
+  lat: 40.109172
+  level: 3
+  lon: -88.231151
+  name:  'Illini Life Christian Fellowship'
 - ap: 3361
-  img:  'http://lh6.ggpht.com/cYQLNtCsiRGXd_y7-ZdI4jGlNRpC4oiy2Z7UT7etDH3FBvBRQDtOW_rY0NBvKLJMnTw_EXH75NDGMcI6UkeV'
-  lat: 40.105618
-  level: 3
-  lon: -88.229005
-  name:  'The Chapel of St. John the Divine'
-- ap: 3511
-  img:  'http://lh4.ggpht.com/1LUozaukItxu6cHk_7wORzYYNvskCHi_wUxbNOAcIXNbgLuYn7VElFG0tzY02e6pY-AEL8nNHAL6ewLCaLMH'
-  lat: 40.10567
-  level: 3
-  lon: -88.228634
-  name:  'Public Broadcasting Plaque'
+  img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
+  lat: 40.108066
+  level: 2
+  lon: -88.230687
+  name:  'Community United Church of Christ'
 - ap: 3474
   img:  'http://lh5.ggpht.com/TwKxvDv1ImbH5RTs7GHqqK_rPohVtqtgToH7YuDkkwa5BRFiMEcY1vWcFrJLkhaXW6cd2YVL0_Vro2JaA3K1'
   lat: 40.131575
@@ -256,12 +256,6 @@
   level: '?'
   lon: -86.202078
   name:  '193db228ecc047efb4d1c7d373ad83dd.16'
-- ap: 2911
-  img:  'http://lh5.ggpht.com/ucFkWovrZBr6wFMicSGD78p44tqzcyfJCvQuAocYo0do3ODoHsOeAMphZZferoOLkGfuJPQVlILRzKG1vAPg'
-  lat: 40.109172
-  level: 3
-  lon: -88.231151
-  name:  'Illini Life Christian Fellowship'
 - ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.106513
@@ -293,6 +287,12 @@
   lon: -88.231532
   name:  'Graduate School of Library and Information Science'
 - ap: 2724
+  img:  'http://lh6.ggpht.com/MzDfG6eMMwVr56zIpVxRJKU2aoUq-95CLeBhoiEQQKzpC2zulq5jFDLv1IK0JcRy5Q0PhRAreZ1p2ElsdnNu'
+  lat: 40.108048
+  level: 5
+  lon: -88.226279
+  name:  'Nuclear Magnetic Resonance II Plaque'
+- ap: 2724
   img:  'http://lh5.ggpht.com/lagLH-yy6la5yqn0YoNwS7uxRSPXDfSP2QwvgnDmG-ZcaxqMNKYlASfYjw50kzq9GOOJ-0nmAa-3IlmGe-A'
   lat: 40.105777
   level: 1
@@ -304,12 +304,6 @@
   level: 6
   lon: -88.234991
   name:  'Acacia House'
-- ap: 2649
-  img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
-  lat: 40.108066
-  level: 4
-  lon: -88.230687
-  name:  'Community United Church of Christ'
 - ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.205206
@@ -436,6 +430,12 @@
   level: 3
   lon: -88.221497
   name:  'Gove Plaza'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/7U0YXCB_DIhnqPJyjyLpNn6kg4lU8HvKL87ddBKWq1sptvVLvCEiCuNEnghQtqDGSN2OBNcOUK9nZcYjY4Vr'
+  lat: 40.107887
+  level: 5
+  lon: -88.225998
+  name:  'Lifesaving Antibiotic Plaque'
 - ap: 2387
   img:  'http://lh6.ggpht.com/rraU1rTd14rCyJXSoh2e6C2u94YDda9-bQvNx5QNAyqzNwDF1MB6ZmCYgnUrC1--QxP8_xEw0oI9iqEy1gto'
   lat: 40.108
