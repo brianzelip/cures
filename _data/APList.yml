@@ -77,6 +77,12 @@
   lon: -88.313072
   name:  'Sunset Skate Park'
 - ap: 6285
+  img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
+  lat: 40.100521
+  level: 7
+  lon: -88.250864
+  name:  'Gabriel Patrick Maxeiner Memorial'
+- ap: 6285
   img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
   lat: 40.100078
   level: 7
@@ -88,12 +94,6 @@
   level: 8
   lon: -88.25063
   name:  '"New Holland Yellow Dinosaurs" at Hessel Park'
-- ap: 6285
-  img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
-  lat: 40.100521
-  level: 7
-  lon: -88.250864
-  name:  'Gabriel Patrick Maxeiner Memorial'
 - ap: 6098
   img:  'http://lh3.ggpht.com/xSCQSCRT6pHyQi9LDI3OamMdZnhLQ06OSlHRHnJC0FkDo93VgOcr3gyAV0aPAKagwq9V5iViSSCgIr6_fWCB'
   lat: 40.134441
@@ -107,35 +107,53 @@
   lon: -88.251685
   name:  'Curtis William McKinney Memorial'
 - ap: 6098
-  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
-  lat: 40.101327
-  level: 7
-  lon: -88.251412
-  name:  'Zeus Memorial'
-- ap: 6098
   img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
   lat: 40.100691
   level: 7
   lon: -88.251337
   name:  'In Loving Memory of Zeus'
 - ap: 6098
+  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
+  lat: 40.101327
+  level: 7
+  lon: -88.251412
+  name:  'Zeus Memorial'
+- ap: 6098
   img:  'http://lh3.ggpht.com/VrbXGwlUosNLEkVdshWUFoVa3KtlJQoEU4yLYygvftYbPCmxo644Uvar_v8Kb9RS53hB0tXgvV44GotrxZyu'
   lat: 40.098592
   level: 8
   lon: -88.251676
   name:  'Ruth and Fred Steigmann Plaque'
+- ap: 6096
+  img:  'http://lh6.ggpht.com/WtqWBwqpYTSw3g9ru5NwcFn5iK5STxWgy2kv4OUTWqwtzx76-9Msz0eqoiw0qpEYE1U4zdt9rzzNZMDNagNg'
+  lat: 40.107943
+  level: 4
+  lon: -88.226751
+  name:  'Class Of 1917 Plaque'
 - ap: 5722
   img:  'http://lh4.ggpht.com/A15Qc2ImqJFORKlDItFStr3pkJ1pX5dRyG8VO6RoziKIqMOMMTQdJa-fUInsxL4o7Yxg1XNHfexBZuNAyLG0yw'
   lat: 40.132021
   level: 5
   lon: -88.31285
   name:  'Sunset Ridge Park Dedication'
+- ap: 5722
+  img:  'http://lh5.ggpht.com/Lup2et0i5h8oHqtBffIdoyX5uclC2MBn9ZnnKnYPr4RIFSflf9bi78zBHK7QqycA0qgEev9qOk0zU-1o1hg'
+  lat: 40.108451
+  level: 5
+  lon: -88.228733
+  name:  'The Centennial Colophon'
 - ap: 5535
   img:  'http://lh5.ggpht.com/6W_b3aoHNnxViA4TkycmE5hhV5q_VHfypLNlgG4sAyw2eJ5Meyzi2-vwTA8miyKA5pZApxbfpAa7uc0zlCM'
   lat: 40.134758
   level: 5
   lon: -88.313172
   name:  'Sunset Ridge Prairie '
+- ap: 5535
+  img:  'http://lh4.ggpht.com/d3UqrcK5M1wuOe19dIaBUOkrXF4C9IxhOWfxqzM4zIHkGsUIRb1mckNapOMRkkCtVIe0rzJumb1OVDVc1_Y'
+  lat: 40.108055
+  level: 5
+  lon: -88.233688
+  name:  'University Baptist Church'
 - ap: 5348
   img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
   lat: 40.100936
@@ -143,29 +161,29 @@
   lon: -88.250855
   name:  'Donald F. Bresnan Memorial'
 - ap: 5348
-  img:  'http://lh4.ggpht.com/d3UqrcK5M1wuOe19dIaBUOkrXF4C9IxhOWfxqzM4zIHkGsUIRb1mckNapOMRkkCtVIe0rzJumb1OVDVc1_Y'
-  lat: 40.108055
-  level: 5
-  lon: -88.233688
-  name:  'University Baptist Church'
-- ap: 5348
   img:  'http://lh4.ggpht.com/OFVPvdgB3GVpaQknHdnt2okgP3xcQksAH3wvOGYVuP85MMlxo3bQ2SRpBb0hzNfjQoC_5LlRqaE6jLB-h9Gr'
   lat: 40.108092
   level: 3
   lon: -88.234589
   name:  'Koinonia Plaque'
 - ap: 5159
-  img:  'http://lh6.ggpht.com/WtqWBwqpYTSw3g9ru5NwcFn5iK5STxWgy2kv4OUTWqwtzx76-9Msz0eqoiw0qpEYE1U4zdt9rzzNZMDNagNg'
-  lat: 40.107943
-  level: 4
-  lon: -88.226751
-  name:  'Class Of 1917 Plaque'
+  img:  'http://lh5.ggpht.com/ucFkWovrZBr6wFMicSGD78p44tqzcyfJCvQuAocYo0do3ODoHsOeAMphZZferoOLkGfuJPQVlILRzKG1vAPg'
+  lat: 40.109172
+  level: 3
+  lon: -88.231151
+  name:  'Illini Life Christian Fellowship'
 - ap: 4785
   img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
   lat: 40.107629
   level: 6
   lon: -88.224484
   name:  'Bucky Balls'
+- ap: 4785
+  img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
+  lat: 40.106921
+  level: 5
+  lon: -88.230145
+  name:  'University Lutheran Church'
 - ap: 4598
   img:  'http://lh6.ggpht.com/ocpQF23CdY7CXPOYMbPL3wLLV7Rc0VayvSyooA07il2lG0oiiQDbDCnsKqO1ysXJAVlzGikCKS-kVOLb6rog'
   lat: 40.135079
@@ -196,6 +214,12 @@
   level: 6
   lon: -88.235521
   name:  'Evans Scholars'
+- ap: 4598
+  img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
+  lat: 40.108066
+  level: 5
+  lon: -88.230687
+  name:  'Community United Church of Christ'
 - ap: 4598
   img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
   lat: 40.107751
@@ -244,18 +268,6 @@
   level: 7
   lon: -88.236182
   name:  'Washington Park'
-- ap: 4411
-  img:  'http://lh5.ggpht.com/Lup2et0i5h8oHqtBffIdoyX5uclC2MBn9ZnnKnYPr4RIFSflf9bi78zBHK7QqycA0qgEev9qOk0zU-1o1hg'
-  lat: 40.108451
-  level: 5
-  lon: -88.228733
-  name:  'The Centennial Colophon'
-- ap: 3848
-  img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
-  lat: 40.106921
-  level: 5
-  lon: -88.230145
-  name:  'University Lutheran Church'
 - ap: 3661
   img:  'http://lh6.ggpht.com/8xR11KYEi2D1gcNqy1KNK_EGDGo3JbHOYXjXP_zTNk4AIqUwf0pZrSSkt9bx8xccXhiMSzvt-qFnVq-CGEOxbw'
   lat: 40.055189
@@ -292,12 +304,6 @@
   level: 5
   lon: -88.229625
   name:  'Illini Sports Mural'
-- ap: 3661
-  img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
-  lat: 40.108066
-  level: 5
-  lon: -88.230687
-  name:  'Community United Church of Christ'
 - ap: 3474
   img:  'http://lh5.ggpht.com/TwKxvDv1ImbH5RTs7GHqqK_rPohVtqtgToH7YuDkkwa5BRFiMEcY1vWcFrJLkhaXW6cd2YVL0_Vro2JaA3K1'
   lat: 40.131575
@@ -347,12 +353,6 @@
   lon: -88.228614
   name:  '1913 Pillars'
 - ap: 2911
-  img:  'http://lh4.ggpht.com/RF7EbCh1YRbFHfis_PEc88NF1v4Ndhj-Rm7rrlY7F8s-Mrv1EMEFnajFbYiNffZ_3kMNL80Zv-_jtaMYMtLA'
-  lat: 40.110655
-  level: 4
-  lon: -88.22725
-  name:  'Gothic Brass'
-- ap: 2911
   img:  'http://lh6.ggpht.com/cYQLNtCsiRGXd_y7-ZdI4jGlNRpC4oiy2Z7UT7etDH3FBvBRQDtOW_rY0NBvKLJMnTw_EXH75NDGMcI6UkeV'
   lat: 40.105618
   level: 4
@@ -370,12 +370,18 @@
   level: '?'
   lon: -87.610524
   name:  '78cd733e94584d94ac0e1cd4d0a20cc4.16'
-- ap: 2424
-  img:  'http://lh6.ggpht.com/PXNfY-rn4cS8Fcr7CkJnEI5-vb_hCYxTX_9VV9jNB78yHB-EjmmsP8_EiqK-icwqTxu2iRtDoSbBRCLanerX'
-  lat: 40.110685
+- ap: 2724
+  img:  'http://lh3.ggpht.com/MhImfPRi7WC74Qg-w4TCrNnC1hTih4TLCipNyUswQRp6HDkM5XS2cJqL0vrBH5sb7VdgzafkvLVAVEk3R-W6'
+  lat: 40.105511
   level: 3
-  lon: -88.206243
-  name:  'Lincoln Square Fountain'
+  lon: -88.227195
+  name:  'Bruce Perona Memorial Plaque'
+- ap: 2724
+  img:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
+  lat: 40.108173
+  level: 5
+  lon: -88.230209
+  name:  'Mural on South Sixth Street'
 - ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.205206
@@ -508,6 +514,12 @@
   level: 3
   lon: -88.239595
   name:  'Campus Post Office Services'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/T15jgBwdGgKfY5ZEkmL6_eEeGWALRclzodBAIpqOXMAO4sP9g1Mt8CwDQCh5tDr_sZan-95c8YRI6F-W63_-'
+  lat: 40.105692
+  level: 3
+  lon: -88.227097
+  name:  'A Son of Deucalion'
 - ap: 2312
   img:  'http://lh6.ggpht.com/MzDfG6eMMwVr56zIpVxRJKU2aoUq-95CLeBhoiEQQKzpC2zulq5jFDLv1IK0JcRy5Q0PhRAreZ1p2ElsdnNu'
   lat: 40.108048
@@ -515,23 +527,11 @@
   lon: -88.226279
   name:  'Nuclear Magnetic Resonance II Plaque'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/RW34ntixvJkg7fD71TPYo_4KIsBzA0-a-6yXO0jKPbpGxX5gIGC7kBI-pXEF9OHhuolcAGW2fxyK3Pt42Iev'
-  lat: 40.110489
-  level: 3
-  lon: -88.227412
-  name:  'Bus Stop - Illini Union, Westbound'
-- ap: 2537
   img:  'http://lh4.ggpht.com/7NJ1wKtp4ioJudcPhY5qErw0Nh7MKYhm0RnQXURwQtlyukI7tbSb4MQT3Ob6P7qz3QCAyNwOSzkjcvBjw4FpZw'
   lat: 40.10565
   level: 3
   lon: -88.221497
   name:  'Gove Plaza'
-- ap: 2537
-  img:  'http://lh3.googleusercontent.com/vw4Js8jf11Ok889K1stO5ujNjIO9Ah9DEbsg1xBTrVbaeyBetcG75B8YS8CkQA0KVC8NA5Z02n220SI1UzdB'
-  lat: 40.10985
-  level: 3
-  lon: -88.227236
-  name:  'Illini Union'
 - ap: 2537
   img:  'http://lh4.ggpht.com/1LUozaukItxu6cHk_7wORzYYNvskCHi_wUxbNOAcIXNbgLuYn7VElFG0tzY02e6pY-AEL8nNHAL6ewLCaLMH'
   lat: 40.10567
@@ -539,17 +539,17 @@
   lon: -88.228634
   name:  'Public Broadcasting Plaque'
 - ap: 2537
+  img:  'http://lh5.ggpht.com/orl0d4FNIpZ7xsdZmVyH_732dMd4uGM01fQ-P5V82KufzWBOMbpankzTgjeS3frZhS7apS3qCrS2o4jtw7pAkg'
+  lat: 40.105605
+  level: 3
+  lon: -88.227414
+  name:  'Charlene E. Haight Bench'
+- ap: 2537
   img:  'http://lh4.ggpht.com/0j8eeTKJgjnYhHpf4qH_70CZHLbujC5v-XP_ndcqh1xIR-5V2K_CGdjIe1ZfMbwvSyISxxYKoZynw1DaQcj8'
   lat: 40.105874
   level: 4
   lon: -88.230562
   name:  'St. John''s Rectory'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
-  lat: 40.108173
-  level: 5
-  lon: -88.230209
-  name:  'Mural on South Sixth Street'
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/__dofGL-oELNLYymrJ5VDONThxrG0oMe5aQcopgTFJgu56wHeV1y-scJDNms_C4LRoqDe-qKwDBNRNkCiJnNUQ'
   lat: 40.127703
@@ -562,18 +562,6 @@
   level: 5
   lon: -88.210509
   name:  'Trail Marker in Busey Woods'
-- ap: 2462
-  img:  'http://lh6.ggpht.com/JeyTR9Ntp2SxIdvTxHGqu5zXzMo7stGncs5TYYFLlRf0WEb6U4dc4EOvDZ1szjub_UqgSO_HgZ7tUKs9PUAkEQ'
-  lat: 40.109634
-  level: 5
-  lon: -88.206203
-  name:  'Zeb'
-- ap: 2237
-  img:  'http://lh4.ggpht.com/jSz2CxoxUTCD1-qpHHu_6jtdCngFAYA2Ex-nNx-uEvRBtsBmmqhT7ogZI_ZTarMG8NrQs7M1EQzKjZhqGjyZrIw_TvFm885uc6c31FSL3bihglbs'
-  lat: 40.111538
-  level: 3
-  lon: -88.206591
-  name:  'Independent Media Center'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.205583
