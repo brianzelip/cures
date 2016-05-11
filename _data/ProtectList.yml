@@ -320,34 +320,6 @@
   lon: -88.242344
   mus: 608
   name:  'Campus Information Booth '
-- fields: 1
-  img:  'http://lh3.googleusercontent.com/X-2m2SMNXEpNuoDLiSA2e9pj_qzasz4kIVOwbJk_I_VcUa_bDOFKvFxeTYW4DJ2FzZXO9ocG4eG2ov_x-V3b'
-  lat: 40.097261
-  level: 6
-  lon: -88.201992
-  mus: 596
-  name:  'Sunnycrest Park'
-- fields: 1
-  img:  'http://lh6.ggpht.com/LlpW022wV7lzYKZ3vPdegSJ5yfDa992j4CfqoWqSCvuvGoH_oQgMdheMd5Ug4DZabZO-WsZ8FO_bbsKKFp4'
-  lat: 40.100992
-  level: 7
-  lon: -88.200602
-  mus: 596
-  name:  'Pennsylvania Avenue Baptist Church'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.036075
-  level: '?'
-  lon: -88.264318
-  mus: 596
-  name:  '9f2f971836014926a61e41b7cbd64fb0.16'
-- fields: 4
-  img:  'http://lh3.ggpht.com/my_h4qixFMd6jwP9asxucVH5iZ3ZW1oV4DbCKeys_8MAAp1-KYNV0YFzZtZTEd9L0ZaMl1OqucHJTPdwROI'
-  lat: 40.127447
-  level: 7
-  lon: -88.244069
-  mus: 593
-  name:  'Hazel Park Playground Dedication Plaque'
 - fields: 6
   img:  'http://lh4.ggpht.com/Tpl5ga1h9vBjG88A6xRDnvBxx7F1epdVZYUY-FNnoOS6H_0OkWXC-RqCtNsk5WSZcOBwMvdY56QCHo0hvoE'
   lat: 40.102744
@@ -379,10 +351,17 @@
 - fields: 7
   img:  'http://lh6.ggpht.com/tenpgw5pr4OCsrdIgmmHP_sx4RHH2ywHdbNxw556d5JpHC4u64HFYqCdRSeAJgfTN_7BcUv11v8NtBdlaUV8'
   lat: 40.100717
-  level: 6
+  level: 7
   lon: -88.243989
   mus: 458
   name:  'Rainbow Garden'
+- fields: 3
+  img:  'http://lh3.ggpht.com/my_h4qixFMd6jwP9asxucVH5iZ3ZW1oV4DbCKeys_8MAAp1-KYNV0YFzZtZTEd9L0ZaMl1OqucHJTPdwROI'
+  lat: 40.127447
+  level: 7
+  lon: -88.244069
+  mus: 454
+  name:  'Hazel Park Playground Dedication Plaque'
 - fields: 3
   img:  'http://lh5.ggpht.com/zUcdFy4LbfVjWynZZp4C5TfAppnK9Iiou6aV9idMEi-uHh7ZVcuIZxHz7Sqt4EqZY__obyqxWSrIBmWDtvwUpg'
   lat: 40.124036
@@ -936,20 +915,6 @@
   lon: -88.262938
   mus: 142
   name:  'A.C. HumKo Mural'
-- fields: 3
-  img:  'http://lh3.ggpht.com/rm0mJKw5ksUEH6_YQLi-f3uo56Wv-4h1P-Q_Ws61holRtnLG9Qt0NObbSBzDxPm3tvIhWgzHLvftIMBC_5dZ'
-  lat: 40.118435
-  level: 3
-  lon: -88.247677
-  mus: 141
-  name:  'Burnham Athenaeum'
-- fields: 2
-  img:  'http://lh3.ggpht.com/9aQBG-poFARclK9XL7iFIvWePkawZwWhv4Sh0zQhQ0Sy9gdDD508d4gCtpcUP9UNoYM6uztea0aQ05RPd9rZLg'
-  lat: 40.115412
-  level: 2
-  lon: -88.245046
-  mus: 140
-  name:  'Eddie Thorpe''s Memorial Rock And Tree'
 - fields: 4
   img:  'http://lh6.ggpht.com/vEN9GcvyvnN9TcF7V_jt__S6kOXIMX-XvLg5_iKqPHWpkT7sHe-QYFue_eGZ1OH6XJsPAb-jowAUKnHmkh4'
   lat: 40.110029
@@ -2087,7 +2052,7 @@
 - fields: 1
   img:  'http://lh3.ggpht.com/2wN9MWxEFPbMzRPAzNmaAiCOQJj_EFr94Y1YkQP_wMlyajkajmcw00gqW-EluMvpQmvnGgcQ-WdPxjcYTmr2'
   lat: 40.106519
-  level: 6
+  level: 7
   lon: -88.223748
   mus: 15
   name:  'Thunderbird Theatre Mosaic'
@@ -2395,7 +2360,7 @@
 - fields: 2
   img:  'http://lh5.ggpht.com/ONr7OWgjlaWwJELaKTJEC1ZVpkIkuN-2c01D2AligYZC9Zbt8lH0SMkirhrWfHdjmVDmCtzhJWoVxoZM-NM'
   lat: 40.116766
-  level: 3
+  level: 2
   lon: -88.247614
   mus: 9
   name:  'Mary Shaw Memorial Tree'
@@ -2651,7 +2616,7 @@
   lon: -88.228963
   mus: 4
   name:  'Architectural Education Plaque'
-- fields: 3
+- fields: 2
   img:  'http://lh6.ggpht.com/ZB8W5NNUt_ghaLF4gE_7_e_uguOocj1k6qCQvq2eAsayVQyZFUsUA3H5SFkHOwg20GluChbe2MSO_xWoB0bk8g'
   lat: 40.11813
   level: 2
@@ -2896,6 +2861,20 @@
   lon: -88.241437
   mus: 2
   name:  'Dohme Park Shelter'
+- fields: 2
+  img:  'http://lh3.googleusercontent.com/f62tSihW5G72uRy0PfvA-4wcxkmu_3xeA12zk2qCzZvqgw1E0E1F0XbpMYq7Ci6XdguPCFcYhhXZXTyxk6bP'
+  lat: 40.1122
+  level: 7
+  lon: -88.209066
+  mus: 2
+  name:  'Lincoln & Photography'
+- fields: 2
+  img:  'http://lh4.ggpht.com/24wGJwnamMm4J20H07gbeT2nN7pTLWHh7lQjuFh6Nn5A67w8dzxKcAOw1_syPiuVU0VxmKs7MvN3FYyD52U_vg'
+  lat: 40.112295
+  level: 6
+  lon: -88.208208
+  mus: 2
+  name:  'Crane Alley'
 - fields: 1
   img:  'http://lh4.ggpht.com/ykcBOYTGpoR392b8KhoJ1HeCMQKdls6__qGzmBtOaVho1L5T2KYhV8130wLVGDT_Hr-dhJX4tl1qSQdDtLZj'
   lat: 40.085955
@@ -2966,6 +2945,13 @@
   lon: -88.225076
   mus: 2
   name:  'Darwin''s Playground'
+- fields: 1
+  img:  'http://lh3.ggpht.com/rm0mJKw5ksUEH6_YQLi-f3uo56Wv-4h1P-Q_Ws61holRtnLG9Qt0NObbSBzDxPm3tvIhWgzHLvftIMBC_5dZ'
+  lat: 40.118435
+  level: 3
+  lon: -88.247677
+  mus: 2
+  name:  'Burnham Athenaeum'
 - fields: 3
   img:  'http://lh6.ggpht.com/NXptd9bdifQT6cVxz-SPGUsryPaznp8rV3omDk0J50MnN5Mmu6oiYNa0FXIgG8FnFreUVsSPzRvQNZXYcO6G'
   lat: 40.11817
@@ -2973,6 +2959,13 @@
   lon: -88.249381
   mus: 2
   name:  'Bicentennial Tree'
+- fields: 1
+  img:  'http://lh3.ggpht.com/K5qZj-uO-zpcijGhj0zvMY32JVIupEaJXb2Q3V5NfXp4U-m0R9s-VuvATprE-DzGSfGEFEv3dmELuHHIKmDB'
+  lat: 40.111623
+  level: 5
+  lon: -88.211451
+  mus: 2
+  name:  'Saint Nicholas Antiochian Orthodox Church'
 - fields: 2
   img:  'http://lh4.ggpht.com/g8tAznMB64NxNMd4eYtF27DhNprtAqnBEt_llGcKp1qpKQeUvyHBi8p5QuGURqAGieaeJscmQPi6Wosmutg'
   lat: 40.111328
@@ -3029,6 +3022,13 @@
   lon: -88.20502
   mus: 1
   name:  'Tango at Meadowbrook Park'
+- fields: 1
+  img:  'http://lh3.ggpht.com/KWHNT4EiiNGpY2l5u1PUHpwnZQcM-ACjcmsF_Ud469mGwgvKWxlH5LM7vyX0NwuZxEcytY7HhFwRRn9onRocwg'
+  lat: 40.112532
+  level: 6
+  lon: -88.208181
+  mus: 1
+  name:  'Urbana Cinema'
 - fields: 1
   img:  'http://lh5.ggpht.com/gzRmKQixkcp4cu1yDSKAOq_7_ipKvFWUCHT7BfpjE6VSSAq7Q08JJGg_jt4FCMWU3ie65fwweNlj4n6dg1aQIA'
   lat: 40.111419
