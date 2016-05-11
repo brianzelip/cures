@@ -95,17 +95,17 @@
   lon: -88.314067
   name:  'Seasons Within the Wetland Environmental Sign'
 - ap: 6098
-  img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
-  lat: 40.100691
-  level: 7
-  lon: -88.251337
-  name:  'In Loving Memory of Zeus'
-- ap: 6098
   img:  'http://lh4.ggpht.com/B_I1b0Jy3vW41RX8jjCNPP68AULplU0Pf8ddolyKmpEWCfBVShQkmjF1HfTPzDjmBBQGgOs0jHW-rUR0mv8BkA'
   lat: 40.098789
   level: 8
   lon: -88.251685
   name:  'Curtis William McKinney Memorial'
+- ap: 6098
+  img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
+  lat: 40.100691
+  level: 7
+  lon: -88.251337
+  name:  'In Loving Memory of Zeus'
 - ap: 6098
   img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
   lat: 40.101327
@@ -160,12 +160,6 @@
   level: 6
   lon: -88.232116
   name:  'Illini Tower'
-- ap: 4785
-  img:  'http://lh3.ggpht.com/LR76HrJqriPFUoc2XSs7jb2SotnStZv20kI7rgUx8B5HqhmetnTW4MA1tCp1ws4g5gw0sf9g7M3Lwq4VwfpD'
-  lat: 40.111687
-  level: 7
-  lon: -88.225353
-  name:  'Transportation Building - University Of Illinois'
 - ap: 4598
   img:  'http://lh6.ggpht.com/ocpQF23CdY7CXPOYMbPL3wLLV7Rc0VayvSyooA07il2lG0oiiQDbDCnsKqO1ysXJAVlzGikCKS-kVOLb6rog'
   lat: 40.135079
@@ -184,6 +178,24 @@
   level: 4
   lon: -88.311234
   name:  'WBGL Radio Station Headquarters Plaque'
+- ap: 4598
+  img:  'http://lh4.ggpht.com/yi9OPnLGsLTvtOMNuOUfed6edO9tB6h0QmSHJaKKaiMyEXC8Aj2hz9hIvgh8C2DY76mVgNHw4S0gsYpkPpkt'
+  lat: 40.148692
+  level: 5
+  lon: -88.248724
+  name:  'Fountain Town Center'
+- ap: 4598
+  img:  'http://lh4.ggpht.com/T-65fHAmnGmht8xdcXCF8weDy3uDecS4uOASIFtQBn7v84jrUpS3m9_rbJ1MNz5Syzjr8g_zO6YPklMYjlZQ'
+  lat: 40.13695
+  level: 5
+  lon: -88.259966
+  name:  'Goodwill Donation Center'
+- ap: 4598
+  img:  'http://lh4.ggpht.com/2yAZ6-P6I71p-12hssm1IxBNtLfIhmKLPomEg7xtttoqIwFEqF6Xl9qqolPamswYL-X3elu01rQhhVFZLF7Umw'
+  lat: 40.107552
+  level: 1
+  lon: -88.220685
+  name:  'University-Illinois Spurlock Museum'
 - ap: 4598
   img:  'http://lh4.ggpht.com/OFVPvdgB3GVpaQknHdnt2okgP3xcQksAH3wvOGYVuP85MMlxo3bQ2SRpBb0hzNfjQoC_5LlRqaE6jLB-h9Gr'
   lat: 40.108092
@@ -221,11 +233,11 @@
   lon: -88.234245
   name:  'Stratford House'
 - ap: 4411
-  img:  'http://lh6.ggpht.com/j712bbvDknzGlAU87nZA1Bx45Ng-0MGA9Uvuv-3WzIKA3W51mXOZpJ-TzVSbuU3uE2AsJ5wcO7_B6WDpdRr0'
-  lat: 40.110684
-  level: 7
-  lon: -88.226053
-  name:  'BCS Superconductivity Theory Plaque'
+  img:  'http://lh6.ggpht.com/rraU1rTd14rCyJXSoh2e6C2u94YDda9-bQvNx5QNAyqzNwDF1MB6ZmCYgnUrC1--QxP8_xEw0oI9iqEy1gto'
+  lat: 40.108
+  level: 2
+  lon: -88.2219
+  name:  'Foellinger Great Hall'
 - ap: 3661
   img:  'http://lh3.ggpht.com/NfT2lF-sDianTwLMh0ZBNPZJd2GwFyVqBX9dYM60Ql-AgN58IA8dbfX2J1dT72YJPSDbyqB16mie75kI--nG'
   lat: 40.094327
@@ -251,29 +263,41 @@
   lon: -88.256104
   name:  'John L. Jones Park'
 - ap: 3661
-  img:  'http://lh6.ggpht.com/BsXdEO7HLxNLSdztPo_4GNNcbxZCxswiDT4pmmcfDQ8YO2SFVW-VnwyEZBvkuhf1rxKAtoKNLvV4rDJ-YVCYUK1qiX-dId_R8P-JskyFYAK9ruM-'
-  lat: 40.110234
-  level: 8
-  lon: -88.224055
-  name:  'The Etc'
+  img:  'http://lh5.ggpht.com/lagLH-yy6la5yqn0YoNwS7uxRSPXDfSP2QwvgnDmG-ZcaxqMNKYlASfYjw50kzq9GOOJ-0nmAa-3IlmGe-A'
+  lat: 40.105777
+  level: 1
+  lon: -88.222002
+  name:  'Preschool Learning Plaque'
+- ap: 3661
+  img:  'http://lh6.ggpht.com/SWgJIqzWO4D-WJuie3oK3_c-FlsPgkHT6nTrwvL8tqzOB6T_SSY3Nf11r1AEuKu1dsfgj0v47NqVSSTBP2k'
+  lat: 40.107745
+  level: 1
+  lon: -88.220994
+  name:  'Japanese Dry Garden'
 - ap: 3661
   img:  'http://lh6.ggpht.com/hPutcAvS7zQN-tagfEY-fvkvdlgj7j5sZwUSLY883Twc7tHyslIAp7lzWYciJmCytDfsbFQtavAlzqGwCgFZkw'
   lat: 40.105562
   level: 6
   lon: -88.234991
   name:  'Acacia House'
-- ap: 3661
-  img:  'http://lh5.ggpht.com/4eagHlnlpVbtFi_knZN73PIs2A--Ipj6SOlkQADePlfnzfOnJn-cAv0IoNNv4qR8WrbUFImUKHBknyaoAewO'
-  lat: 40.111383
-  level: 6
-  lon: -88.225675
-  name:  'Only Rain Down The Drain'
 - ap: 3474
   img:  'http://lh6.ggpht.com/pRR6eCp2PyD3vDZlmHjKOeq8OKg0KhFPVnuWAP-pB7RR36eKA3TlQwYX5pwYfBjPyVyB4oPXXOomdbqpVcY'
   lat: 40.116065
   level: 5
   lon: -88.313206
   name:  'Alan Green Memorial'
+- ap: 3474
+  img:  'http://lh3.googleusercontent.com/3nkY0B9PDqzlWJ_EKh5GnTZ8z0U6X9-2dI5dapKA5Q3F4iKrE99AJZoy6NSvh2nU1WTG2hL70276yJjJ0G8'
+  lat: 40.141598
+  level: 5
+  lon: -88.238817
+  name:  'Red Shield Center'
+- ap: 3474
+  img:  'http://lh6.ggpht.com/WA_L9RXB_ZwCyxpgQ7Lyjp1-4xTl5O-BQohOBQcoEMnP7-wKp--MGUdnY_DPuCGZ78-x0LtEWc8FT2n9QMPS'
+  lat: 40.148879
+  level: 5
+  lon: -88.258423
+  name:  'War Veteran Memorial'
 - ap: 3474
   img:  'http://lh5.ggpht.com/tuo_ByFTbwLitFP5cBseOibqRxENxbCwOJ30dCnja5ijBI_qBv5vqNP7ZuZXnxhYM6ms_GbExZEwwKVUtwV2'
   lat: 40.093712
@@ -316,6 +340,12 @@
   level: 6
   lon: -88.231532
   name:  'Graduate School of Library and Information Science'
+- ap: 3285
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.767748
+  level: '?'
+  lon: -86.202078
+  name:  '193db228ecc047efb4d1c7d373ad83dd.16'
 - ap: 2686
   img:  'http://lh3.ggpht.com/u-v3itkeM0VuM3kSQsa0wO5TAPiR3fou2d-_1ukh5ZZQlHVDJyJ6vyb3Q3ONlRDfvaHf2Nw-aWwerNtqz3rH'
   lat: 40.106197
@@ -329,11 +359,11 @@
   lon: -88.5585
   name:  'Lodge Christian Church'
 - ap: 2724
-  img:  'http://lh3.googleusercontent.com/EwXPPCiuVPRkECPKlJtyqReSySoJKEdwrx1MkNVUy6EM9xWU_fet1Z-sLfx_P2_c54DeJcApxdl-hKg9vGVEtw'
-  lat: 40.108224
-  level: 6
-  lon: -88.223549
-  name:  'Colwell Playhouse'
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.890714
+  level: '?'
+  lon: -87.610524
+  name:  '78cd733e94584d94ac0e1cd4d0a20cc4.16'
 - ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.205206
@@ -342,22 +372,16 @@
   name:  'ffb1c8830f184f8b9886fbf7c7604a37.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.154669
-  level: '?'
-  lon: -88.298035
-  name:  'New Horizon Methodist Church'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/ZevI283-hdNmxCDG58ggAccDFE_BgYgPK-Hwc6pMCOMdhClXrMtmBtTONxbI0Y_iV-SVdkgRT28tdz-T-6Vt'
-  lat: 40.146982
-  level: 5
-  lon: -88.28914
-  name:  'Champaign Kingdom Hall of Jehovah''s Witnesses'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.247118
   level: '?'
   lon: -88.631854
   name:  'Woodlawn Country Club'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.9686
+  level: '?'
+  lon: -87.630978
+  name:  '47ea0a512aca4efc981ddb89e220e8b4.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.565188
@@ -372,16 +396,10 @@
   name:  '48c9d6133823423796c94e34eab373eb.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.651103
+  lat: 41.891383
   level: '?'
-  lon: -89.651637
-  name:  '150c86e5e5c545f0bd6e56abb3cde54d.12'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.907861
-  level: '?'
-  lon: -90.284772
-  name:  '1960a1d6b52a45afb823147d603b4bce.16'
+  lon: -87.610138
+  name:  '8490a15bbc6d40e68d80c7d9626f193c.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.613727
@@ -400,6 +418,48 @@
   level: '?'
   lon: -88.751354
   name:  '9f93787a0621442c8c1ee66acfdf2317.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.651103
+  level: '?'
+  lon: -89.651637
+  name:  '150c86e5e5c545f0bd6e56abb3cde54d.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.907861
+  level: '?'
+  lon: -90.284772
+  name:  '1960a1d6b52a45afb823147d603b4bce.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.891065
+  level: '?'
+  lon: -87.61055
+  name:  '5f5a1a66edbd45a5bcdb4032a5f5d782.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.89196
+  level: '?'
+  lon: -87.609818
+  name:  '9751404135d14a20835126ddf4d017dc.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.154669
+  level: '?'
+  lon: -88.298035
+  name:  'New Horizon Methodist Church'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/ZevI283-hdNmxCDG58ggAccDFE_BgYgPK-Hwc6pMCOMdhClXrMtmBtTONxbI0Y_iV-SVdkgRT28tdz-T-6Vt'
+  lat: 40.146982
+  level: 5
+  lon: -88.28914
+  name:  'Champaign Kingdom Hall of Jehovah''s Witnesses'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.769139
+  level: '?'
+  lon: -86.198122
+  name:  '205905dd6da642b199ffa546b73cb03e.16'
 - ap: 2537
   img:  'http://lh3.ggpht.com/j0Yx7yuvUTJbnHtY38VFaty8xpyZMMDS_bSmvbHQx_2nQBiLqF4PGpLNdTGXkRgA3-OANQgASvn1mPGcuJi6HA'
   lat: 40.131715
@@ -430,6 +490,18 @@
   level: 6
   lon: -88.287899
   name:  'Greenbelt Bikeway'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/dRrlHXlT2nMNgZNHiYo52ha9L-Xay9DyOJR2Cpqs74hgAJ09abn9OTAtMzRVedt1_R9ObZllLO98vRhNMfgTgVsJCk1S-HJwX_XgiGpG4lz3a328'
+  lat: 40.11671
+  level: 4
+  lon: -88.24263
+  name:  'Cafe Kopi'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
+  lat: 40.116553
+  level: 5
+  lon: -88.242268
+  name:  'Esquire Lounge'
 - ap: 2537
   img:  'http://lh5.ggpht.com/n8MFM2pb-tE5i9EziJdygPPUK8VqEZ4BHGQaywz4lwe3WjwdgO0ohBCPZmiMoL00r3mVPmYnbCunJDeFbyk'
   lat: 40.118593
@@ -485,23 +557,29 @@
   lon: -88.230145
   name:  'University Lutheran Church'
 - ap: 2537
+  img:  'http://lh4.ggpht.com/7NJ1wKtp4ioJudcPhY5qErw0Nh7MKYhm0RnQXURwQtlyukI7tbSb4MQT3Ob6P7qz3QCAyNwOSzkjcvBjw4FpZw'
+  lat: 40.10565
+  level: 3
+  lon: -88.221497
+  name:  'Gove Plaza'
+- ap: 2537
   img:  'http://lh6.ggpht.com/c2I39IJvSBKmCLonmhP_RN1vLEpYY1recBXFm8xpGHxES4bAN2kvAcda8ZzvT75uq0yWQCv7N_dzP6ce5-Tu'
   lat: 40.108043
   level: 6
   lon: -88.22469
   name:  'Building of Molecular and Cellular Biology Sculpture'
 - ap: 2537
+  img:  'http://lh3.googleusercontent.com/EwXPPCiuVPRkECPKlJtyqReSySoJKEdwrx1MkNVUy6EM9xWU_fet1Z-sLfx_P2_c54DeJcApxdl-hKg9vGVEtw'
+  lat: 40.108224
+  level: 6
+  lon: -88.223549
+  name:  'Colwell Playhouse'
+- ap: 2537
   img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
   lat: 40.107629
   level: 6
   lon: -88.224484
   name:  'Bucky Balls'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/x5fBw8MRogV8dm3kPO5zKNkUrQxn0dM7d1PIoASdX1_Rc8H5Duex4iZdOoIlqazCGll25TmptsWIRq1JFmj6'
-  lat: 40.112135
-  level: 7
-  lon: -88.225762
-  name:  'Computer Based Education Plaque'
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/__dofGL-oELNLYymrJ5VDONThxrG0oMe5aQcopgTFJgu56wHeV1y-scJDNms_C4LRoqDe-qKwDBNRNkCiJnNUQ'
   lat: 40.127703
