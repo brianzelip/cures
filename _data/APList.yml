@@ -143,17 +143,17 @@
   lon: -88.250855
   name:  'Donald F. Bresnan Memorial'
 - ap: 4785
-  img:  'http://lh4.ggpht.com/BDVsIEWOaH0zZsTgU8IbvmVNJTrl3EljfhNXeVt4C2BILNtXm5hpAq_6mLrTl66aJcUyYv4hFJKhxedLkKo'
-  lat: 40.11679
-  level: 5
-  lon: -88.281854
-  name:  'International Society of Arboriculture'
-- ap: 4785
   img:  'http://lh3.ggpht.com/rgh_2qJQUPC1OrARUkiQqPKoNReiqZYOimm5Nszb77pDh72OszuyiJBKn-vDxHUuyjO2XTeKU9GBHc3oHIYr'
   lat: 40.115283
   level: 6
   lon: -88.287899
   name:  'Greenbelt Bikeway'
+- ap: 4785
+  img:  'http://lh4.ggpht.com/BDVsIEWOaH0zZsTgU8IbvmVNJTrl3EljfhNXeVt4C2BILNtXm5hpAq_6mLrTl66aJcUyYv4hFJKhxedLkKo'
+  lat: 40.11679
+  level: 5
+  lon: -88.281854
+  name:  'International Society of Arboriculture'
 - ap: 4785
   img:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
   lat: 40.108173
@@ -179,17 +179,17 @@
   lon: -88.232116
   name:  'Illini Tower'
 - ap: 3661
-  img:  'http://lh4.ggpht.com/iF9ok9WK8tu0rwNJsbJggC_OqQxiqKIF9QRpGOgIrlZa4Dr4JYrLxWeFDe43Js9WGFiKCOlMNMZapd_SBQ5T'
-  lat: 40.111945
-  level: 5
-  lon: -88.282707
-  name:  'Champaign Cycle'
-- ap: 3661
   img:  'http://lh3.googleusercontent.com/E_ZPlSyleqUMg0OilyQYOVjaoZT-y4SbH4plEyw9dIUNETTaaR5s71RJOIy8h5u1Ae97gUfiLGrIdMPXjNQ'
   lat: 40.11727
   level: 6
   lon: -88.286997
   name:  'Kaufman Lake'
+- ap: 3661
+  img:  'http://lh4.ggpht.com/iF9ok9WK8tu0rwNJsbJggC_OqQxiqKIF9QRpGOgIrlZa4Dr4JYrLxWeFDe43Js9WGFiKCOlMNMZapd_SBQ5T'
+  lat: 40.111945
+  level: 5
+  lon: -88.282707
+  name:  'Champaign Cycle'
 - ap: 3661
   img:  'http://lh6.ggpht.com/8xR11KYEi2D1gcNqy1KNK_EGDGo3JbHOYXjXP_zTNk4AIqUwf0pZrSSkt9bx8xccXhiMSzvt-qFnVq-CGEOxbw'
   lat: 40.055189
@@ -251,12 +251,6 @@
   lon: -88.25174
   name:  'Savoy Post Office'
 - ap: 3474
-  img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
-  lat: 40.107751
-  level: 6
-  lon: -88.231532
-  name:  'Graduate School of Library and Information Science'
-- ap: 3474
   img:  'http://lh4.ggpht.com/7U0YXCB_DIhnqPJyjyLpNn6kg4lU8HvKL87ddBKWq1sptvVLvCEiCuNEnghQtqDGSN2OBNcOUK9nZcYjY4Vr'
   lat: 40.107887
   level: 4
@@ -268,6 +262,12 @@
   level: 5
   lon: -88.225702
   name:  'Centennial Court'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
+  lat: 40.107751
+  level: 6
+  lon: -88.231532
+  name:  'Graduate School of Library and Information Science'
 - ap: 3474
   img:  'http://lh5.ggpht.com/ucFkWovrZBr6wFMicSGD78p44tqzcyfJCvQuAocYo0do3ODoHsOeAMphZZferoOLkGfuJPQVlILRzKG1vAPg'
   lat: 40.109172
@@ -286,6 +286,12 @@
   level: '?'
   lon: -88.5585
   name:  'Lodge Christian Church'
+- ap: 2724
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.482133
+  level: '?'
+  lon: -87.80197
+  name:  '79b9ada5198248c1aa34ae25454ca493.16'
 - ap: 2724
   img:  'http://lh3.ggpht.com/A87H2Ev-nSq_HCpnUCxDLdRG04MKhj9Uap_0Ii4kdUx_db5SwcKhAAOey5ls43XiDLYaw7uYymdNMcsAXfNo'
   lat: 40.106182
@@ -370,6 +376,18 @@
   level: '?'
   lon: -88.751354
   name:  '9f93787a0621442c8c1ee66acfdf2317.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.890712
+  level: '?'
+  lon: -87.609676
+  name:  'a58dd97f83164002962074eae16fb67c.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.767852
+  level: '?'
+  lon: -86.202976
+  name:  '008ad68521fa4a23bf7a536bf812ed37.16'
 - ap: 2537
   img:  'http://lh5.ggpht.com/d_xORafhhRGmWQQYxORFs1dW_6uXGimDkw117yVoO46fU96UHRY1GWk3ln65AsNRtevh1vFgECrCK8gJD4Y'
   lat: 40.133113
