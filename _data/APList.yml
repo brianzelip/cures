@@ -142,7 +142,7 @@
   level: 6
   lon: -88.232116
   name:  'Illini Tower'
-- ap: 3661
+- ap: 3848
   img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
   lat: 40.116553
   level: 5
@@ -193,7 +193,7 @@
 - ap: 3474
   img:  'http://lh6.ggpht.com/SCYK-XeMmOyfRrTt1-aQNoDA-2Sib4m5Ch26mTwo6XNdVeVnfi7W74Ik6IRLAPSoKzSS97pgwt50Jl9oSgGfP029USxZzQWKNJo3rbs-6YHBPBif'
   lat: 40.116792
-  level: 6
+  level: 5
   lon: -88.241752
   name:  'WEFT 90.1 FM Community Radio'
 - ap: 3249
@@ -282,6 +282,18 @@
   name:  '48c9d6133823423796c94e34eab373eb.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.651103
+  level: '?'
+  lon: -89.651637
+  name:  '150c86e5e5c545f0bd6e56abb3cde54d.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.907861
+  level: '?'
+  lon: -90.284772
+  name:  '1960a1d6b52a45afb823147d603b4bce.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.613727
   level: '?'
   lon: -90.172905
@@ -311,18 +323,6 @@
   lon: -88.751354
   name:  '9f93787a0621442c8c1ee66acfdf2317.12'
 - ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.651103
-  level: '?'
-  lon: -89.651637
-  name:  '150c86e5e5c545f0bd6e56abb3cde54d.12'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.907861
-  level: '?'
-  lon: -90.284772
-  name:  '1960a1d6b52a45afb823147d603b4bce.16'
-- ap: 2537
   img:  'http://lh5.ggpht.com/d_xORafhhRGmWQQYxORFs1dW_6uXGimDkw117yVoO46fU96UHRY1GWk3ln65AsNRtevh1vFgECrCK8gJD4Y'
   lat: 40.133113
   level: 3
@@ -347,11 +347,17 @@
   lon: -88.287899
   name:  'Greenbelt Bikeway'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/-MJc8fCVxpxV7prlhkP3sXPWZ7jsr8Behc29zUJqdz_V57jSg7SzyMUUv7B9Frzu36mJhM2PQkr_LJk-zyM'
-  lat: 40.117729
-  level: 3
-  lon: -88.243645
-  name:  'Watson''s'
+  img:  'http://lh3.ggpht.com/9aQBG-poFARclK9XL7iFIvWePkawZwWhv4Sh0zQhQ0Sy9gdDD508d4gCtpcUP9UNoYM6uztea0aQ05RPd9rZLg'
+  lat: 40.115412
+  level: 5
+  lon: -88.245046
+  name:  'Eddie Thorpe''s Memorial Rock And Tree'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/uJ6kk4uQVfzQ22nbmRS5caadkRcM8fSpAlbvgM8KacYRDBYZtQTBKIHX7ju9ejvrdRG_oIr5QDELOwvb7L0'
+  lat: 40.121759
+  level: 5
+  lon: -88.24366
+  name:  'King''s Assembly Church'
 - ap: 2462
   img:  'http://lh5.ggpht.com/Lup2et0i5h8oHqtBffIdoyX5uclC2MBn9ZnnKnYPr4RIFSflf9bi78zBHK7QqycA0qgEev9qOk0zU-1o1hg'
   lat: 40.108451
