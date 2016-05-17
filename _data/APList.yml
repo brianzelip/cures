@@ -125,17 +125,17 @@
   lon: -88.250855
   name:  'Donald F. Bresnan Memorial'
 - ap: 6098
-  img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
-  lat: 40.099353
-  level: 8
-  lon: -88.251876
-  name:  'Raymond B. Cattell Memorial'
-- ap: 6098
   img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
   lat: 40.099737
   level: 7
   lon: -88.251157
   name:  'Tyler Van Atkins Memorial'
+- ap: 6098
+  img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
+  lat: 40.099353
+  level: 8
+  lon: -88.251876
+  name:  'Raymond B. Cattell Memorial'
 - ap: 5909
   img:  'http://lh3.ggpht.com/PijfKs7HCJf1vVcIxcTF1HPOYaa5iS4ZECXZUQ2dDDSn9ZCXSd8FGHThRUiEIC-oMNmClt0seIzn8FsaGPER'
   lat: 40.112752
@@ -425,12 +425,6 @@
   lon: -88.242671
   name:  'Marketplace Mall Fountain'
 - ap: 3661
-  img:  'http://lh3.ggpht.com/wkPcdDupubV3THJo6r2OpMtshziiIkqBISPTCPe8boa-8nH33u83Mznkr1yYWNR_l60RCy8HO_obqrdNGUI'
-  lat: 40.093633
-  level: 6
-  lon: -88.246611
-  name:  'Fountain at Illini Plaza'
-- ap: 3661
   img:  'http://lh3.googleusercontent.com/gCJN301o7TKMPpTwXYpuWceaR0wtjm4S3By0SJ5ubrMNK0UEKo6bMcldlreNdLDqpnrYOFmjqByM6vCJDCT-'
   lat: 40.086378
   level: 1
@@ -508,6 +502,12 @@
   level: 8
   lon: -88.251724
   name:  'Blessings from Devon Elaine Cattell'
+- ap: 3474
+  img:  'http://lh3.ggpht.com/wkPcdDupubV3THJo6r2OpMtshziiIkqBISPTCPe8boa-8nH33u83Mznkr1yYWNR_l60RCy8HO_obqrdNGUI'
+  lat: 40.093633
+  level: 6
+  lon: -88.246611
+  name:  'Fountain at Illini Plaza'
 - ap: 3474
   img:  'http://lh5.ggpht.com/FeahTnHcc-Tb0sWOd6cQiYz5QrczzT5-Behz0KlyeiGyzYhvAlNlhPI72BVkREal1tU_4g4r2UklF7lcQgKr'
   lat: 40.087292
@@ -646,12 +646,6 @@
   level: 5
   lon: -88.282707
   name:  'Champaign Cycle'
-- ap: 2537
-  img:  'http://lh3.googleusercontent.com/enpZZ8JRREFPTvYd3jbeUlpS-mmcwKe5fsvoWRPkfMUj6PijyI-5tbR55UItBoNJAFSl9fAAOvXb6BpWCJT4'
-  lat: 40.102495
-  level: 7
-  lon: -88.242132
-  name:  'Nuclear Physics Lab'
 - ap: 2537
   img:  'http://lh3.ggpht.com/WDQ55kRMYCIrw9Pm69IuV6cBTI2nx7Z1gU9yxX2oE2oH9EdPnO1ltxSROAjUmHmBu84SEtHmLKregkDqlLYzUg'
   lat: 40.117126
