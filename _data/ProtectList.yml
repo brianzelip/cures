@@ -958,13 +958,6 @@
   mus: 146
   name:  'Copper Creek Church'
 - fields: 3
-  img:  'http://lh4.ggpht.com/d3UqrcK5M1wuOe19dIaBUOkrXF4C9IxhOWfxqzM4zIHkGsUIRb1mckNapOMRkkCtVIe0rzJumb1OVDVc1_Y'
-  lat: 40.108055
-  level: 6
-  lon: -88.233688
-  mus: 146
-  name:  'University Baptist Church'
-- fields: 3
   img:  'http://lh3.ggpht.com/fvQtXA7uQ_ump_R8JixzV9ndFr5gVzIttL7RP9cD1MYPv5sui8NvcUwgkO7V83M9DpRjiqE505roZ62DjPgHCQ'
   lat: 40.122254
   level: 6
@@ -978,13 +971,6 @@
   lon: -88.240632
   mus: 143
   name:  'Wire Animals'
-- fields: 5
-  img:  'http://lh6.ggpht.com/f43AXqkZOVuig6JgnORI4vC7QZWr2a0lnTW39-gMaRiWW13AuK6U0ZSoFc1k6xi2YvZU6ad6EC-xTq404ZM'
-  lat: 40.103258
-  level: 6
-  lon: -88.241752
-  mus: 136
-  name:  'Medical Services'
 - fields: 5
   img:  'http://lh6.ggpht.com/wucaQM-REDZu6ZBHVOIE5T1apjBrc_Fk_qdbyLPPCmXafFHKlIC0w--Wrd507L8Jh2CgIKpFz9loqhrmmVzG'
   lat: 40.117429
@@ -1020,6 +1006,13 @@
   lon: -88.190535
   mus: 129
   name:  'Splintering Continuity'
+- fields: 2
+  img:  'http://lh4.ggpht.com/d3UqrcK5M1wuOe19dIaBUOkrXF4C9IxhOWfxqzM4zIHkGsUIRb1mckNapOMRkkCtVIe0rzJumb1OVDVc1_Y'
+  lat: 40.108055
+  level: 6
+  lon: -88.233688
+  mus: 128
+  name:  'University Baptist Church'
 - fields: 3
   img:  'http://lh6.ggpht.com/DPmYFBmWaf_8hYO8H8Y1aQLQ6bnStpWMkvOlq0Ge7AQEaBH5HpB8NUqD0dL0H2oki1yWhRoFC2aDerp9-t_c'
   lat: 40.114514
@@ -1069,6 +1062,13 @@
   lon: -88.243624
   mus: 118
   name:  'Lake Park Prairie Restoration'
+- fields: 2
+  img:  'http://lh6.ggpht.com/f43AXqkZOVuig6JgnORI4vC7QZWr2a0lnTW39-gMaRiWW13AuK6U0ZSoFc1k6xi2YvZU6ad6EC-xTq404ZM'
+  lat: 40.103258
+  level: 5
+  lon: -88.241752
+  mus: 117
+  name:  'Medical Services'
 - fields: 2
   img:  'http://lh6.ggpht.com/MTA_e4qROhbvq0DM0fK-MDV_Q9UP_4tg1c8aElTEpn-rFf6ESmOnvNXtFgISg3MiW889YcO3pP2tgCk2UcZP-g'
   lat: 40.127376
@@ -1650,13 +1650,6 @@
   lon: -88.29022
   mus: 37
   name:  'Dr. Ray Braun Memorial'
-- fields: 5
-  img:  'http://lh5.ggpht.com/GN_FYcjKjamCNlfD8yA995MpcEHa9gIZVV6FBYtdeiNr_XgtCIN6gnN6_dSKwt-DenNMN_ZiJaG12iLuY6wt'
-  lat: 40.103588
-  level: 7
-  lon: -88.233095
-  mus: 37
-  name:  'Huff Hall'
 - fields: 6
   img:  'http://lh5.ggpht.com/66S0h0KtQgEkBk3cEFIwsuX-gQRN4MlpAiUVMDd1Wu9p_OVTUxuDF6WcaoAwETeEQka1hyd6WhQ-qndZlg5Sng'
   lat: 40.091249
@@ -1769,13 +1762,13 @@
   lon: -88.292671
   mus: 29
   name:  'Campus Solar System - Mercury'
-- fields: 5
-  img:  'http://lh4.ggpht.com/EsyXMnqVMX7wQ4YmoCFRiNljaJqaXrQvzyzzooqx2fPxCSkJMkdEssTbf618D8Qp9hh3E4Ud3hL1M3v-TsbO'
-  lat: 40.104688
+- fields: 3
+  img:  'http://lh5.ggpht.com/GN_FYcjKjamCNlfD8yA995MpcEHa9gIZVV6FBYtdeiNr_XgtCIN6gnN6_dSKwt-DenNMN_ZiJaG12iLuY6wt'
+  lat: 40.103588
   level: 7
-  lon: -88.230676
+  lon: -88.233095
   mus: 29
-  name:  'Sousa Archives Center-Amer Music'
+  name:  'Huff Hall'
 - fields: 2
   img:  'http://lh6.ggpht.com/0vHaOKrH35vUHDfapI4QDvHSJLenhiXHIhdWBwVKzEB741Ky8B7mMeXnUtOlIYycCbLUO-dRzHZFrPQFFbFZ'
   lat: 40.085791
@@ -1790,13 +1783,6 @@
   lon: -88.227238
   mus: 28
   name:  'Flow'
-- fields: 5
-  img:  'http://lh4.ggpht.com/bYrhTw8QophdiqDG-upqJ6JX2g2tZYX4N1jC4d_cciIj4ep8oQvIgjJlfge2VCmzSZe9irj-BTpbj9Jcv7U'
-  lat: 40.103009
-  level: 7
-  lon: -88.233215
-  mus: 28
-  name:  'Mac and Diana Garret Memorial Tree'
 - fields: 6
   img:  'http://lh6.ggpht.com/UXx9XSWX3zuym6SdX68IXNFYcpnbhGuF7Zk3taO-TJ2VI_LvwmooNWjUHb8OIgKsjyto3PT7YU0D-Y7HW7c'
   lat: 40.077643
@@ -2015,12 +2001,19 @@
   mus: 20
   name:  'U.S. Representative Memorial'
 - fields: 3
-  img:  'http://lh3.googleusercontent.com/enpZZ8JRREFPTvYd3jbeUlpS-mmcwKe5fsvoWRPkfMUj6PijyI-5tbR55UItBoNJAFSl9fAAOvXb6BpWCJT4'
-  lat: 40.102495
+  img:  'http://lh4.ggpht.com/EsyXMnqVMX7wQ4YmoCFRiNljaJqaXrQvzyzzooqx2fPxCSkJMkdEssTbf618D8Qp9hh3E4Ud3hL1M3v-TsbO'
+  lat: 40.104688
   level: 7
-  lon: -88.242132
+  lon: -88.230676
   mus: 20
-  name:  'Nuclear Physics Lab'
+  name:  'Sousa Archives Center-Amer Music'
+- fields: 3
+  img:  'http://lh4.ggpht.com/bYrhTw8QophdiqDG-upqJ6JX2g2tZYX4N1jC4d_cciIj4ep8oQvIgjJlfge2VCmzSZe9irj-BTpbj9Jcv7U'
+  lat: 40.103009
+  level: 7
+  lon: -88.233215
+  mus: 20
+  name:  'Mac and Diana Garret Memorial Tree'
 - fields: 3
   img:  'http://lh4.ggpht.com/IAi2A1ukQunZaoCY1OUJnvZC_MAEjnYzlg7vcsIuPQyLIB710_5ueVQ3El8Pok0aNvlB18-Tdo1euhYbaf0'
   lat: 40.115224
@@ -2049,13 +2042,6 @@
   lon: -88.248866
   mus: 19
   name:  'Holy Cross Catholic Church'
-- fields: 2
-  img:  'http://lh3.ggpht.com/AD9d7JPmLdYRdpxESO9iORy1GRXAcN1jzn8dDNvm6FO7cIHVsjwAKI8LmbW4dico1Xe9jzJfsZZriP0CxXA46w'
-  lat: 40.104084
-  level: 5
-  lon: -88.241616
-  mus: 19
-  name:  'Honorary Memorial Steam Ventilation Pipe'
 - fields: 1
   img:  'http://lh3.googleusercontent.com/ZEt3dzGoBmn_BW1MwPTE7MY4Jcoj66UkwEA7wA7H40hbb-SwJheC1V67Dh89eAbpG6H_SeWDV3E0X5lRAkQ'
   lat: 40.111342
@@ -2070,13 +2056,6 @@
   lon: -88.225191
   mus: 18
   name:  'Eleanor Hammers Boner'
-- fields: 5
-  img:  'http://lh6.ggpht.com/q48Oqk2mm3dXQ2ppK-aYGXKjIiTAOEZfrFkiLK9LXRz2uN9hSKihKeCwfg33q1Z2zMTIMjqJRjPA1U_V3pbR6Q'
-  lat: 40.104417
-  level: 6
-  lon: -88.231962
-  mus: 18
-  name:  '1926 Sigil'
 - fields: 2
   img:  'http://lh3.ggpht.com/iNMAz0-m_4vKRplVmM-jN4emAlfbH4biugBkvpJek2yyfdCason9iB3DuRYl6LbXxwbtaUgKe9a6uqVe1Tc'
   lat: 40.099669
@@ -2084,6 +2063,13 @@
   lon: -88.226006
   mus: 18
   name:  'Burnham Family Memorial'
+- fields: 1
+  img:  'http://lh3.ggpht.com/AD9d7JPmLdYRdpxESO9iORy1GRXAcN1jzn8dDNvm6FO7cIHVsjwAKI8LmbW4dico1Xe9jzJfsZZriP0CxXA46w'
+  lat: 40.104084
+  level: 5
+  lon: -88.241616
+  mus: 18
+  name:  'Honorary Memorial Steam Ventilation Pipe'
 - fields: 2
   img:  'http://lh5.ggpht.com/dgQfoxxVeHT5ODqLiUYHV45qvkC_BMS0kIFRqvHvE2GO0TduZ0-XzhW8RE80LtPDK0Ay5xwA6PtjM7G3C9U8'
   lat: 40.108947
@@ -2168,13 +2154,6 @@
   lon: -88.248031
   mus: 14
   name:  'Lincoln Megalith'
-- fields: 4
-  img:  'http://lh6.ggpht.com/yUOWOqDbf6AO83PFdgc9HePIDDDb-Ti1NAzLec_4AwYrO5NsnWsGH7K7MDb5q22wdtUh6uqekxpMHYjlnfRLEQ'
-  lat: 40.104673
-  level: 7
-  lon: -88.233278
-  mus: 14
-  name:  'University of Illinois Armory'
 - fields: 3
   img:  'http://lh3.googleusercontent.com/XlZcRhaeaiHLSH5SjL6gcn60xeJ1h3aS5Etz67B8I-P7qbPjnPznf2IQkXfCblA1gkqCM8lBEdmxOk_3Xnge'
   lat: 40.080163
@@ -2462,6 +2441,13 @@
   lon: -88.313172
   mus: 7
   name:  'Sunset Ridge Prairie '
+- fields: 2
+  img:  'http://lh6.ggpht.com/yUOWOqDbf6AO83PFdgc9HePIDDDb-Ti1NAzLec_4AwYrO5NsnWsGH7K7MDb5q22wdtUh6uqekxpMHYjlnfRLEQ'
+  lat: 40.104673
+  level: 7
+  lon: -88.233278
+  mus: 7
+  name:  'University of Illinois Armory'
 - fields: 6
   img:  'http://lh6.ggpht.com/BKeORacgeVrG8XzxTuXmpq5UxomWpK-I2n7Xy0PVbdSciNx9MJl869TcibnFIiV5PJHGv5R3QOpX6ZgLUwU'
   lat: 40.099706
@@ -2735,13 +2721,6 @@
   lon: -88.242666
   mus: 4
   name:  'Dohme Park Dedication Plaque'
-- fields: 3
-  img:  'http://lh5.ggpht.com/d55SFGnpg6Ia5aPchxqYJDOsY_nJCJIdAOO9qxXzD_vObYZGhCLcunBb0a6G5qAhu9RPf5WSQIkysqGMrb7T'
-  lat: 40.104743
-  level: 4
-  lon: -88.232979
-  mus: 4
-  name:  'Vietnam War Memorial and Flagpole'
 - fields: 2
   img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
   lat: 40.101062
@@ -3057,13 +3036,6 @@
   lon: -88.276582
   mus: 1
   name:  'Seventh-Day Adventist Church'
-- fields: 1
-  img:  'http://lh6.ggpht.com/uaO1clC1eOzxRVRPPU6mVM4lEPV2U6uxh64a8kJNRglHSObClWlHGEcfJTknzwB_7Wli3doxQJbZKiBHIXI'
-  lat: 40.102834
-  level: 7
-  lon: -88.241672
-  mus: 1
-  name:  'Rehabilitation Education Center'
 - fields: 3
   img:  'http://lh4.ggpht.com/wyM69v5COeXPWWt_LnfNM6UlZe8vhGenr3i6cKAsnyELc0kC82jEE4kljcMgjf5IByJFesORVLdjdKjLoAON'
   lat: 40.068553
@@ -3197,3 +3169,10 @@
   lon: -88.290536
   mus: 1
   name:  'In Memory of David Foster Wallace'
+- fields: 1
+  img:  'http://lh5.ggpht.com/d55SFGnpg6Ia5aPchxqYJDOsY_nJCJIdAOO9qxXzD_vObYZGhCLcunBb0a6G5qAhu9RPf5WSQIkysqGMrb7T'
+  lat: 40.104743
+  level: 4
+  lon: -88.232979
+  mus: 1
+  name:  'Vietnam War Memorial and Flagpole'
