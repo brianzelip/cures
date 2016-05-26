@@ -190,7 +190,7 @@
 - fields: 5
   img:  'http://lh3.ggpht.com/ZrkQ9I09rQynLgNHgTWMc8sm29XEvwj5QcSQhhgTtN7hDh1pSZHSTI63mz6wWj1jkhlz1qYkKyHD0SJWPNMY'
   lat: 40.094863
-  level: 5
+  level: 6
   lon: -88.190535
   mus: 2506
   name:  'Splintering Continuity'
@@ -1331,7 +1331,7 @@
 - fields: 6
   img:  'http://lh6.ggpht.com/BgudsSY0vPHxgxXELEIEROiOQIlMUEEycmutMqr-xgbLBf4OkD1cCogkqAOqKSfh1GR3pPAhW2bTe5FGfEvO'
   lat: 40.102058
-  level: 6
+  level: 7
   lon: -88.224635
   mus: 83
   name:  'Champaign-Urbana Community Fab Lab'
@@ -1492,7 +1492,7 @@
 - fields: 5
   img:  'http://lh4.ggpht.com/vdGNLZFnObxuCivCqYJZTZij0viFyuNB9iTlybZbb50b4Pqt_d-phv7dphv2G5JgU8Y7mc1RIokgw6SVPo-B'
   lat: 40.093415
-  level: 6
+  level: 7
   lon: -88.236748
   mus: 63
   name:  '"Springville Portal" at Research Park'
@@ -2840,6 +2840,13 @@
   lon: -88.248407
   mus: 4
   name:  'The Americans Creed'
+- fields: 6
+  img:  'http://lh3.ggpht.com/CwgYIhVaivHHg_U6yqu5KSGhSh9ipRBDu7G192KiQfrnXc7C8uh7UOh6MP91vhZJ3LZdiTaFwpvFukvIaj6J'
+  lat: 40.117445
+  level: 5
+  lon: -88.243409
+  mus: 4
+  name:  'From Swords to Plowshares'
 - fields: 1
   img:  'http://lh4.ggpht.com/8P--9BInbKIFscFZs2s_o1E9ucKlZlX9qxMu7aBxNJVOQDrVE0q27OE7h1idojQv2vaHjxT6h5F6Nvi7I-A'
   lat: 40.1016
@@ -2932,12 +2939,26 @@
   mus: 2
   name:  'Dohme Park Shelter'
 - fields: 3
+  img:  'http://lh4.ggpht.com/-MJc8fCVxpxV7prlhkP3sXPWZ7jsr8Behc29zUJqdz_V57jSg7SzyMUUv7B9Frzu36mJhM2PQkr_LJk-zyM'
+  lat: 40.117729
+  level: 5
+  lon: -88.243645
+  mus: 2
+  name:  'Watson''s'
+- fields: 3
   img:  'http://lh5.ggpht.com/tVkUyAJPzoQiIilJCSPpwPCqNYSC70DZydpa07fwbCQM-10lVGa41u-oM_7ZXsORl1gYlycrI78KlMpubKMg'
   lat: 40.079691
   level: 7
   lon: -88.208765
   mus: 2
   name:  'Bruno Schielzeth Memorial'
+- fields: 2
+  img:  'http://lh5.ggpht.com/KuDVZqnpBQnne0a_UqpN4wpsQFlw3nVXAWtRKP_AdZ3CjQ0MHUBgU_2hE8hb71h31FTQbduYmB6DNuVKA0s'
+  lat: 40.116822
+  level: 5
+  lon: -88.243445
+  mus: 2
+  name:  'Remembering Horeb'
 - fields: 2
   img:  'http://lh5.ggpht.com/Nn1kM6sYdUcyplObjDuNOxFLN-NHspntEdET54AzrcZuO71RCmdq-UQeroMQ5JNEno_XDutkdBoVuAm7HQM'
   lat: 40.083054
@@ -2973,6 +2994,13 @@
   lon: -88.238879
   mus: 2
   name:  'Prow 2'
+- fields: 2
+  img:  'http://lh4.ggpht.com/wbrbzDCo3C4qFJyHTWOST5o8B7kwZSWePUWOboIlYrdvxjrhWLqVQ1MqUF5-Hy4nt26x_oHQq9f8EbfdEjVK'
+  lat: 40.117382
+  level: 5
+  lon: -88.243748
+  mus: 2
+  name:  'Days of Venus'
 - fields: 1
   img:  'http://lh3.ggpht.com/auODcSEEyS_cmdCKFpepPDD0gW_kEaFOoOpOfD8jnhCfcVh_700SftAr3yhsnLkr63Ac_MetCRRjp36GkKw'
   lat: 40.096302
@@ -2994,13 +3022,6 @@
   lon: -88.184083
   mus: 2
   name:  'Lohmann Park Disc Golf Course'
-- fields: 3
-  img:  'http://lh3.ggpht.com/CwgYIhVaivHHg_U6yqu5KSGhSh9ipRBDu7G192KiQfrnXc7C8uh7UOh6MP91vhZJ3LZdiTaFwpvFukvIaj6J'
-  lat: 40.117445
-  level: 5
-  lon: -88.243409
-  mus: 2
-  name:  'From Swords to Plowshares'
 - fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.152192
@@ -3093,12 +3114,12 @@
   mus: 2
   name:  'Meadowbrook Park'
 - fields: 1
-  img:  'http://lh5.ggpht.com/KuDVZqnpBQnne0a_UqpN4wpsQFlw3nVXAWtRKP_AdZ3CjQ0MHUBgU_2hE8hb71h31FTQbduYmB6DNuVKA0s'
-  lat: 40.116822
+  img:  'http://lh6.ggpht.com/mKnh6CvhOm_8Kn26lJTmk71nbwSMS-i9VJ45CR83Z8wB6Qn-9JAiyt1GEfrWKkv51a_y-lbN8pO6R1L5EZWfzw'
+  lat: 40.117349
   level: 5
-  lon: -88.243445
+  lon: -88.244537
   mus: 2
-  name:  'Remembering Horeb'
+  name:  'Flower Island'
 - fields: 1
   img:  'http://lh5.ggpht.com/_7T_9npLcYDGVQxXhXrsFORj35gQQEYqiUxwW949h0mVOq-jNHvpY7g9JscyWOIX-Km5HQ4RLRKtUI2nR7Nw'
   lat: 40.099589
@@ -3162,6 +3183,20 @@
   lon: -88.243226
   mus: 1
   name:  'Nolda and Carl Dohme Memorial'
+- fields: 1
+  img:  'http://lh5.ggpht.com/6qIQAtIoPbAVQ1O3BoOnGg6gtTa9fd0JIkxt6P1kmSimVswLaPpCRaLEudsNcMfP_kKb4SCE1By1o3lhYevmIA'
+  lat: 40.1172
+  level: 5
+  lon: -88.243745
+  mus: 1
+  name:  'Circle of Friends'
+- fields: 3
+  img:  'http://lh3.googleusercontent.com/M1BXbCtfOfi1ipACxyQaE2jCbcLCxQTsJVIUli8GgprQaS2WmnVuSsqMoFaWub8LM6VF7KK4wSH9SSGdrXM'
+  lat: 40.117287
+  level: 6
+  lon: -88.242984
+  mus: 1
+  name:  'Mural for the Blind Pig Brewery'
 - fields: 1
   img:  'http://lh6.ggpht.com/UMaVDs4JUJ1obZF_7bkt3YUS02KJCdBmvRnU0gXqrvHeFd-6jyR_VGDBUgiXtVFoAj95F7sZrvFJ1l9fe4S3sBUkt__qi77W2_jm8KR0IU_iwOYcIg'
   lat: 40.080791
@@ -3232,13 +3267,6 @@
   lon: -88.249052
   mus: 1
   name:  'Bayne & Schumacher Fountain'
-- fields: 2
-  img:  'http://lh3.googleusercontent.com/M1BXbCtfOfi1ipACxyQaE2jCbcLCxQTsJVIUli8GgprQaS2WmnVuSsqMoFaWub8LM6VF7KK4wSH9SSGdrXM'
-  lat: 40.117287
-  level: 5
-  lon: -88.242984
-  mus: 1
-  name:  'Mural for the Blind Pig Brewery'
 - fields: 1
   img:  'http://lh5.ggpht.com/kcTMx3CqTnXQqNvx00fF4K5HQ34eOunlWHiU7JEB4nKyl3U14EbEpsqxVT2opoz78bQFDtIZR0IKDuewhKCG'
   lat: 40.119409
