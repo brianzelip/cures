@@ -16,12 +16,6 @@
   level: 8
   lon: -88.250864
   name:  'Gabriel Patrick Maxeiner Memorial'
-- ap: 8834
-  img:  'http://lh5.ggpht.com/DDClbLn6LNW1_Kr2O24_eIFuz6BfPSolc8s9i2SV9KvgoE8D_n6SY1mOzPFAUoLMe9HHKhD-azeRgoyYPNcaPw'
-  lat: 40.115917
-  level: 5
-  lon: -88.243438
-  name:  'Shay Memorial Plaque'
 - ap: 8909
   img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
   lat: 40.099737
@@ -34,6 +28,12 @@
   level: 8
   lon: -88.251974
   name:  'Hessel Park'
+- ap: 7597
+  img:  'http://lh5.ggpht.com/DDClbLn6LNW1_Kr2O24_eIFuz6BfPSolc8s9i2SV9KvgoE8D_n6SY1mOzPFAUoLMe9HHKhD-azeRgoyYPNcaPw'
+  lat: 40.115917
+  level: 2
+  lon: -88.243438
+  name:  'Shay Memorial Plaque'
 - ap: 7972
   img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
   lat: 40.099353
@@ -58,12 +58,6 @@
   level: 6
   lon: -88.242467
   name:  'Radio Maria'
-- ap: 7222
-  img:  'http://lh6.ggpht.com/XsUl74M1oxj6ptAvGEBOMH2wivRhxBNns62UJSGcPiQkuJIgPrmUYxMpSZZUfXRMMjrwoxlFK_DbAM78UrOh'
-  lat: 40.113499
-  level: 6
-  lon: -88.244374
-  name:  'Shatterglass Studios Mural'
 - ap: 7035
   img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
   lat: 40.101327
@@ -94,10 +88,10 @@
   level: 5
   lon: -88.31369
   name:  'Mark L. Rambow Tree'
-- ap: 6659
+- ap: 6509
   img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
   lat: 40.116553
-  level: 5
+  level: 4
   lon: -88.242268
   name:  'Esquire Lounge'
 - ap: 6285
@@ -148,18 +142,18 @@
   level: 5
   lon: -88.314568
   name:  'Sunset Ridge Park'
-- ap: 5722
-  img:  'http://lh4.ggpht.com/xS51--rXA9M_IHpXWgFQxKZU-YbD-1zk-nug6k7RyKl8rYeam_YFwMmLNWRRHHzI-rOTGyhTJQQ314WudSQJ'
-  lat: 40.117132
-  level: 5
-  lon: -88.243009
-  name:  'Fountain in the Alley'
 - ap: 5535
   img: http://i.imgur.com/5j1qaiT.png
   lat: 44.607633
   level: '?'
   lon: -87.43205
   name:  '8e6a8255e7c342e8806313a728bf9918.12'
+- ap: 5535
+  img:  'http://lh4.ggpht.com/xS51--rXA9M_IHpXWgFQxKZU-YbD-1zk-nug6k7RyKl8rYeam_YFwMmLNWRRHHzI-rOTGyhTJQQ314WudSQJ'
+  lat: 40.117132
+  level: 5
+  lon: -88.243009
+  name:  'Fountain in the Alley'
 - ap: 5535
   img:  'http://lh5.ggpht.com/1fPvqpqXG5PDCkmegoWb9Tv9N5_MZh9XjmZpbyNEs5yPDsCscbrPB1cO_Pf8GT35HYrTF01FZ6s5VPIpjJ_20A'
   lat: 40.107098
@@ -185,15 +179,21 @@
   lon: -87.178294
   name:  'd45d47f7d3a34245812bec73013df8d1.16'
 - ap: 5348
+  img:  'http://lh6.ggpht.com/XsUl74M1oxj6ptAvGEBOMH2wivRhxBNns62UJSGcPiQkuJIgPrmUYxMpSZZUfXRMMjrwoxlFK_DbAM78UrOh'
+  lat: 40.113499
+  level: 6
+  lon: -88.244374
+  name:  'Shatterglass Studios Mural'
+- ap: 5348
   img:  'http://lh6.ggpht.com/yE7aPklOUj6Y4vlNLUrqm7uJbj0TAVjhl_vSEgy7CHGlkTo5yyJGeTCUnRsHYe2UAZq2h_Y3AD_m3y3i2B8'
   lat: 40.106876
   level: 5
   lon: -88.228565
   name:  'Lincoln Hall Sigil'
-- ap: 5161
+- ap: 4936
   img:  'http://lh3.ggpht.com/LunaMtSKD9yiLQClolDY-Iqh0ENm9AgJdL4D1QxGs0j6TXPgqxDZea35x5ilAfeI5_0TGh5x1q1EqRsJsLFi'
   lat: 40.114111
-  level: 5
+  level: 4
   lon: -88.243697
   name:  'Champaign Surplus'
 - ap: 5161
@@ -268,36 +268,30 @@
   level: 6
   lon: -88.243468
   name:  'Dog Heart'
-- ap: 4111
-  img:  'http://lh5.ggpht.com/FeG7Xn052FyJtG43yF0j2iYs3BdENjAx_oZUTzI70y4H0qeexU7B8NrXaT20cmXSKwnWV8xFSc3OlG_KQU09pE8fyCAYXWWPbTzC0_GZ1aynCFni'
-  lat: 40.116185
-  level: 3
-  lon: -88.243429
-  name:  'C.V. Lloyde'
 - ap: 4411
   img:  'http://lh3.googleusercontent.com/5FkLhIMVmAJJSslAXVxY1RNxi-4q5mNAVPK2XgU5LwRM8qcB8BGXOK0GmF6Y_xfgPOhwF_CrbcgVZlJx-Pza'
   lat: 40.11652
   level: 6
   lon: -88.241845
   name:  'Mike ''N Molly''s'
-- ap: 4411
-  img:  'http://lh3.googleusercontent.com/tWUxy7KQ-q_qBBIgLzTjjezrBpWPSJ_z3FWnvbB8Y5wIiYZW1I5ioL0Tzq60VyalCaIwOk4UI3agM8tFaykY'
-  lat: 40.117427
-  level: 5
-  lon: -88.243235
-  name:  'Cowboy Monkey'
-- ap: 4261
-  img:  'http://lh4.ggpht.com/1BgYrJYdcGdepVZ6ibhTjtjZ6MyzKnQzLL4wxEnn_CEPnrJmOKHzPXm1qinGRA78MqKq11gKRlprm3Z7mDr0'
-  lat: 40.115645
-  level: 4
-  lon: -88.243036
-  name:  'The Art Party Studio'
-- ap: 4411
+- ap: 4186
   img:  'http://lh6.ggpht.com/4K7T7_gGrfag_-Hep7ygH_rklKsjale4oo2CqJAFTpPB5EM4Dv8ZGyz7i_qUOuLnt16GWxDSJWCS8TZYyGY'
   lat: 40.115421
   level: 4
   lon: -88.243168
   name:  'Walnut Street Tea Co.'
+- ap: 4186
+  img:  'http://lh4.ggpht.com/1BgYrJYdcGdepVZ6ibhTjtjZ6MyzKnQzLL4wxEnn_CEPnrJmOKHzPXm1qinGRA78MqKq11gKRlprm3Z7mDr0'
+  lat: 40.115645
+  level: 3
+  lon: -88.243036
+  name:  'The Art Party Studio'
+- ap: 4261
+  img:  'http://lh3.googleusercontent.com/tWUxy7KQ-q_qBBIgLzTjjezrBpWPSJ_z3FWnvbB8Y5wIiYZW1I5ioL0Tzq60VyalCaIwOk4UI3agM8tFaykY'
+  lat: 40.117427
+  level: 4
+  lon: -88.243235
+  name:  'Cowboy Monkey'
 - ap: 4411
   img:  'http://lh3.googleusercontent.com/M1BXbCtfOfi1ipACxyQaE2jCbcLCxQTsJVIUli8GgprQaS2WmnVuSsqMoFaWub8LM6VF7KK4wSH9SSGdrXM'
   lat: 40.117287
@@ -376,12 +370,6 @@
   level: 5
   lon: -88.242671
   name:  'Marketplace Mall Fountain'
-- ap: 3361
-  img:  'http://lh6.ggpht.com/oTEawnC2cPnZ7T10vs9tiueaLsN0ILM7tgPLWVfa0njwvTDrUvS-w8x5SK4iMDd0tuHYP2w5a-H0AQ4NaAyU'
-  lat: 40.116388
-  level: 3
-  lon: -88.243702
-  name:  'Cycles of Love'
 - ap: 3661
   img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
   lat: 40.115838
@@ -508,7 +496,7 @@
   level: 6
   lon: -88.244122
   name:  'Artistic Graffiti at MCS'
-- ap: 3249
+- ap: 3174
   img:  'http://lh4.ggpht.com/3gTAX6rKgNjLmBOYvAVTgSPQej5yRF_38uRllp9H4n5N6pvwWo5kDMDwlIkFVPPl30BXPSGAlZ9pO9B4DMk'
   lat: 40.116218
   level: 3
@@ -532,22 +520,10 @@
   level: 4
   lon: -88.21093
   name:  'A Fountain in the Forest'
-- ap: 2499
-  img:  'http://lh5.ggpht.com/KuDVZqnpBQnne0a_UqpN4wpsQFlw3nVXAWtRKP_AdZ3CjQ0MHUBgU_2hE8hb71h31FTQbduYmB6DNuVKA0s'
-  lat: 40.116822
-  level: 4
-  lon: -88.243445
-  name:  'Remembering Horeb'
-- ap: 2724
-  img:  'http://lh6.ggpht.com/btym2_WGYuFNu2SNiR8qif7GXLMOPT7XpuHE7RPOipPC9Q5lEPfImKAzf2vm9RUe2rN0u3TePq4pM0IuZiLS'
-  lat: 40.116436
-  level: 4
-  lon: -88.243459
-  name:  'Champaign City Building'
-- ap: 2724
+- ap: 2649
   img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
   lat: 40.116989
-  level: 5
+  level: 4
   lon: -88.242255
   name:  'Blind Pig'
 - ap: 2537
@@ -574,18 +550,6 @@
   level: '?'
   lon: -88.201368
   name:  '2012 Employee Dedication Bench'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.340435
-  level: '?'
-  lon: -89.009855
-  name:  '4968d9cce15f4e6ba00aac5e0a2065fe.12'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.858577
-  level: '?'
-  lon: -89.49253
-  name:  'b41049c5149b4eb8be8e681131fdc326.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.129839
