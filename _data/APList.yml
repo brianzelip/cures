@@ -100,6 +100,12 @@
   level: '?'
   lon: -87.43205
   name:  '8e6a8255e7c342e8806313a728bf9918.12'
+- ap: 5535
+  img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
+  lat: 40.116553
+  level: 6
+  lon: -88.242268
+  name:  'Esquire Lounge'
 - ap: 5348
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.634356
@@ -124,12 +130,6 @@
   level: 5
   lon: -88.242535
   name:  'Inman Building Historic Plaque'
-- ap: 5348
-  img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
-  lat: 40.116553
-  level: 6
-  lon: -88.242268
-  name:  'Esquire Lounge'
 - ap: 5161
   img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
   lat: 40.100691
@@ -257,17 +257,17 @@
   lon: -88.244122
   name:  'Artistic Graffiti at MCS'
 - ap: 3661
-  img:  'http://lh3.ggpht.com/gS3gT_deXzbDvejCL-5ygs31dw9bLQqYr2nDcLPZiv6nQzahJl12awG1a2pwKbFuoTlsHQYxQ2O7HDXL4-8'
-  lat: 40.110358
-  level: 5
-  lon: -88.230181
-  name:  'Murphy''s Pub '
-- ap: 3661
   img:  'http://lh5.ggpht.com/kElaGOaV9aI8SrnM1D65gx9J0Ky1AKrN9Yo-pXVmDhELt2pee4MwVRiCqCmlqWzUWj5pS33GnEzAiXmiWKsw'
   lat: 40.108111
   level: 3
   lon: -88.229625
   name:  'Illini Sports Mural'
+- ap: 3661
+  img:  'http://lh3.ggpht.com/gS3gT_deXzbDvejCL-5ygs31dw9bLQqYr2nDcLPZiv6nQzahJl12awG1a2pwKbFuoTlsHQYxQ2O7HDXL4-8'
+  lat: 40.110358
+  level: 5
+  lon: -88.230181
+  name:  'Murphy''s Pub '
 - ap: 3661
   img:  'http://lh6.ggpht.com/z-rN7V9azKlrBiQyHrvOp3PTu3nhMGzTUfdYLK_BUobDrl_-Ju4DX9nOO8TdIRRFz5lcPVF9n15VyvlHhKEk'
   lat: 40.122406
@@ -414,18 +414,6 @@
   name:  '241acffcb8da45708f917c5c0f75ebb1.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.769443
-  level: '?'
-  lon: -89.618157
-  name:  '54dcccefd9ef4f3ebb71cbd4359ea0a3.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.259817
-  level: '?'
-  lon: -89.235238
-  name:  '589347474d63444d9db3193cd2316457.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.33848
   level: '?'
   lon: -88.738199
@@ -436,6 +424,18 @@
   level: '?'
   lon: -88.472334
   name:  '7c86d5abdb2a4bd9a7f87774b070966d.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.769443
+  level: '?'
+  lon: -89.618157
+  name:  '54dcccefd9ef4f3ebb71cbd4359ea0a3.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.259817
+  level: '?'
+  lon: -89.235238
+  name:  '589347474d63444d9db3193cd2316457.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.124533
@@ -496,6 +496,12 @@
   level: 8
   lon: -88.24318
   name:  'Mini Park II Sculpture'
+- ap: 2537
+  img:  'http://lh3.googleusercontent.com/5FkLhIMVmAJJSslAXVxY1RNxi-4q5mNAVPK2XgU5LwRM8qcB8BGXOK0GmF6Y_xfgPOhwF_CrbcgVZlJx-Pza'
+  lat: 40.11652
+  level: 5
+  lon: -88.241845
+  name:  'Mike ''N Molly''s'
 - ap: 2312
   img:  'http://lh4.ggpht.com/3_LELG2r-A5s2d-x2dWyz6h7HzfjVR_KZn9AG0vhih9EalQIG43iL6LdKqKNpnGdGwguP9ZfnGF0KMq_KDE'
   lat: 40.105799
