@@ -163,7 +163,7 @@
 - ap: 4598
   img:  'http://lh5.ggpht.com/dRrlHXlT2nMNgZNHiYo52ha9L-Xay9DyOJR2Cpqs74hgAJ09abn9OTAtMzRVedt1_R9ObZllLO98vRhNMfgTgVsJCk1S-HJwX_XgiGpG4lz3a328'
   lat: 40.11671
-  level: 6
+  level: 7
   lon: -88.24263
   name:  'Cafe Kopi'
 - ap: 4411
@@ -318,6 +318,12 @@
   name:  'a68d07bb69a84c36ab96b1ad2344e1ab.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 44.60816
+  level: '?'
+  lon: -87.43351
+  name:  '41a1ec1acaa74845946b1bfdd6ce1f91.12'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.396282
   level: '?'
   lon: -88.87253
@@ -328,12 +334,6 @@
   level: '?'
   lon: -88.872321
   name:  'c89035b00e8f49cd9942782aefaa86de.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 44.60816
-  level: '?'
-  lon: -87.43351
-  name:  '41a1ec1acaa74845946b1bfdd6ce1f91.12'
 - ap: 3474
   img:  'http://lh5.ggpht.com/M86zCVcXjmwIC0SQgJ3q_heSiWsj4BJoAcO4SpBWLGzt7XQ3kJMk_1GdLAM_SOt_OkZnGrAEV9_g2KSQCguZ'
   lat: 40.133808
@@ -414,10 +414,16 @@
   name:  'f6e8c1b0f696478baedb348ac0feaf2c.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.392777
+  lat: 39.769443
   level: '?'
-  lon: -88.872222
-  name:  '457d173f728846fbaf0e7d83f3625cba.11'
+  lon: -89.618157
+  name:  '54dcccefd9ef4f3ebb71cbd4359ea0a3.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.259817
+  level: '?'
+  lon: -89.235238
+  name:  '589347474d63444d9db3193cd2316457.16'
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/Nj5Ai888qxXriCQAeWkG8SbHbFuOlsYYCL3FjX-pCkblSOg30VuNF9lK9SQj4UDlg9R8XMYXpAcWyE9xIcA'
   lat: 40.135716
@@ -444,12 +450,6 @@
   name:  'eae64e982e3e4a5d98b3ed05ec13d3a2.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 44.601813
-  level: '?'
-  lon: -87.439551
-  name:  '241acffcb8da45708f917c5c0f75ebb1.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.33848
   level: '?'
   lon: -88.738199
@@ -462,16 +462,16 @@
   name:  '7c86d5abdb2a4bd9a7f87774b070966d.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.769443
+  lat: 44.601813
   level: '?'
-  lon: -89.618157
-  name:  '54dcccefd9ef4f3ebb71cbd4359ea0a3.16'
+  lon: -87.439551
+  name:  '241acffcb8da45708f917c5c0f75ebb1.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.259817
+  lat: 40.392777
   level: '?'
-  lon: -89.235238
-  name:  '589347474d63444d9db3193cd2316457.16'
+  lon: -88.872222
+  name:  '457d173f728846fbaf0e7d83f3625cba.11'
 - ap: 2537
   img:  'http://lh3.ggpht.com/ZOALJqKi7gNpN7e2IXnkcpGhKdME-MIGNVz09KJfsruk0ix30Xa_lWaNAMj06IpkfgGbmbNvDXRdDkLgGGA9'
   lat: 40.090629
