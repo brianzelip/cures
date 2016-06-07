@@ -47,12 +47,12 @@
   lon: -88.264318
   mus: 3749
   name:  '9f2f971836014926a61e41b7cbd64fb0.16'
-- fields: 15
+- fields: 12
   img:  'http://lh5.ggpht.com/dnj__uItXDR_xj-g5PNpGYPNjJCPBFpsx3w9sWxvrOlayO6nyG_Qu8MygtuFZm9i4L2Gho0fkOACtzkGR_e2wQ'
   lat: 40.098457
   level: 8
   lon: -88.276763
-  mus: 3307
+  mus: 2744
   name:  'Mini Park IV'
 - fields: 2
   img:  'http://lh5.ggpht.com/iGgKBm2iX-ESxdJCVC__kcME5ANzWrJAWKYDZ7raOh1txpeonGpAAdCVG15UFKtMNe6W7Ech14scH5wnh0ZxVA'
@@ -61,13 +61,6 @@
   lon: -88.193397
   mus: 2569
   name:  'Barnhart Prairie Restoration'
-- fields: 5
-  img:  'http://lh4.ggpht.com/-P9_K1M8m41FpGEgfyih0JNuexcc1mtm7Hq3LOuozksba15MIQWefDgfBs20Uuf61Txiy9-ALeKCMVWuBi4'
-  lat: 40.083514
-  level: 6
-  lon: -88.276579
-  mus: 2362
-  name:  'Christie Clinic Hospital '
 - fields: 3
   img:  'http://lh3.googleusercontent.com/dnlQAi9ftw9Nx79Zq-2jo6-EvJCMD8vcxJZcy5NWGDJ3iOxzhM2gXtGvrqke6-N3F3kKBkK5Bev6RRF5RS7y'
   lat: 40.08375
@@ -75,6 +68,13 @@
   lon: -88.294948
   mus: 1982
   name:  'Park District Flower Island'
+- fields: 2
+  img:  'http://lh4.ggpht.com/-P9_K1M8m41FpGEgfyih0JNuexcc1mtm7Hq3LOuozksba15MIQWefDgfBs20Uuf61Txiy9-ALeKCMVWuBi4'
+  lat: 40.083514
+  level: 4
+  lon: -88.276579
+  mus: 1799
+  name:  'Christie Clinic Hospital '
 - fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.110982
@@ -159,13 +159,6 @@
   lon: -88.281854
   mus: 1261
   name:  'International Society of Arboriculture'
-- fields: 6
-  img:  'http://lh3.ggpht.com/pYhzsdnsrgDuN3LdAiJYrUWqAbZHhF2jEnBDmKvHwMl6qZL8nVL0L1K5vQCZtbH7G3vWuLY0_VaMSEc1Jjo'
-  lat: 40.089056
-  level: 7
-  lon: -88.267905
-  mus: 1108
-  name:  'Apostolic Christian Church'
 - fields: 6
   img:  'http://lh3.ggpht.com/M33LbHvLXVjhHiz7MUGGLGsBwB3EGR0z2vYVf5Qrx3pdnmpATwUuU0kEGUobPn2AKoGNpQKgvlIpyJoSHLzv'
   lat: 40.127501
@@ -362,6 +355,13 @@
   lon: -88.408076
   mus: 598
   name:  'Community Free Church'
+- fields: 5
+  img:  'http://lh3.ggpht.com/pYhzsdnsrgDuN3LdAiJYrUWqAbZHhF2jEnBDmKvHwMl6qZL8nVL0L1K5vQCZtbH7G3vWuLY0_VaMSEc1Jjo'
+  lat: 40.089056
+  level: 7
+  lon: -88.267905
+  mus: 580
+  name:  'Apostolic Christian Church'
 - fields: 3
   img:  'http://lh5.ggpht.com/jwu_GyddG2hU2-J2NqQUB_w5s034VhQHXb2PcHvvH0bLBmy8uhFA-n8IkB2sfkZRVuQ_rj8s4Sg-inu8uiEr'
   lat: 40.108986
@@ -1881,13 +1881,6 @@
   lon: -88.224635
   mus: 33
   name:  'Champaign-Urbana Community Fab Lab'
-- fields: 2
-  img:  'http://lh5.ggpht.com/85ocsFOsYnsbHN6oArmm1YbxgxazeWF3emIoJ0iPpi_H3TV7Vm4-_M2sEEiyfmFp6Z3hSQP8mfxrU190YlU'
-  lat: 40.097001
-  level: 7
-  lon: -88.276242
-  mus: 33
-  name:  'Robert P. Simon Trail'
 - fields: 4
   img:  'http://lh6.ggpht.com/X4iXokslnWFDeqwj8O471yVpY1yt3JaXPzv5dxVokmSQVqso_Ouz7xzlKgu986CiYn1RE6zBANqvPf2F3-fjPA'
   lat: 40.103188
@@ -2295,27 +2288,6 @@
   mus: 13
   name:  'Mommy''s Little Stars'
 - fields: 1
-  img:  'http://lh5.ggpht.com/nWEtxuKQdy0teBBue1DYmG7P3SF5-3A6zlB7GwVHBWlolAZYGq6Br78lWcF9ltFy-KeSlozXie2RmU6JfCUX'
-  lat: 40.142673
-  level: 6
-  lon: -88.244603
-  mus: 13
-  name:  'Italian Statue'
-- fields: 1
-  img:  'http://lh4.ggpht.com/yi9OPnLGsLTvtOMNuOUfed6edO9tB6h0QmSHJaKKaiMyEXC8Aj2hz9hIvgh8C2DY76mVgNHw4S0gsYpkPpkt'
-  lat: 40.148692
-  level: 7
-  lon: -88.248724
-  mus: 13
-  name:  'Fountain Town Center'
-- fields: 1
-  img:  'http://lh3.googleusercontent.com/hJZWoErzM-MuXulq4FlhlZwMbJX1Isd81GBUBVKayd57jVIVxUle3itd-1DRKo2VaNXznWr1X639fa44Etk'
-  lat: 40.141919
-  level: 5
-  lon: -88.244611
-  mus: 13
-  name:  'Marketplace Mall Carousel'
-- fields: 1
   img:  'http://lh5.ggpht.com/QY3-GLhJdz61itX17DuQSrIrTixLDL5l-k33n2ZriKEspP8A7RooZfj3ocL-d6IC1S-Q81PABhuYHEkorzQ'
   lat: 40.121262
   level: 6
@@ -2553,13 +2525,6 @@
   lon: -88.218417
   mus: 9
   name:  '50 Cherry Trees'
-- fields: 2
-  img:  'http://lh5.ggpht.com/KmcyHZbW-2yJsvLDA_XQCx9aOF3P9itxKi_I4fScJaaRqqojBriUII3Fp8SHNgup2Ab6_7r9jDEo_AzWSfI'
-  lat: 40.097028
-  level: 7
-  lon: -88.276646
-  mus: 9
-  name:  'Roby Recreation Trail'
 - fields: 5
   img:  'http://lh5.ggpht.com/FSk5On23hkt2tKQwxmnQmTBsfFpI2Fo62zmSDud2TYOwYe4SjDViMIp_ehdmFSJM-i4vLJr7i74gM7L7FXNR'
   lat: 40.107119
@@ -3162,6 +3127,20 @@
   lon: -88.207706
   mus: 3
   name:  'Alfred D. Costello Dedication'
+- fields: 1
+  img:  'http://lh5.ggpht.com/KmcyHZbW-2yJsvLDA_XQCx9aOF3P9itxKi_I4fScJaaRqqojBriUII3Fp8SHNgup2Ab6_7r9jDEo_AzWSfI'
+  lat: 40.097028
+  level: 7
+  lon: -88.276646
+  mus: 3
+  name:  'Roby Recreation Trail'
+- fields: 1
+  img:  'http://lh5.ggpht.com/85ocsFOsYnsbHN6oArmm1YbxgxazeWF3emIoJ0iPpi_H3TV7Vm4-_M2sEEiyfmFp6Z3hSQP8mfxrU190YlU'
+  lat: 40.097001
+  level: 7
+  lon: -88.276242
+  mus: 3
+  name:  'Robert P. Simon Trail'
 - fields: 1
   img:  'http://lh4.ggpht.com/EveE1r4LU3oEoTrxc2hAzywPFArsSkIcAydfuBtNSmnwv76V6mqWgNEpe7srr7g3ZAOILSYHsfCdLLlwzU-9VA'
   lat: 40.110716
