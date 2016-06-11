@@ -89,6 +89,12 @@
   lon: -88.251685
   name:  'Curtis William McKinney Memorial'
 - ap: 5348
+  img:  'http://lh3.ggpht.com/-MRGQEVV5mNMzB4sb8JAsgVC56kTzYaFEf3mpRsfXAiO4KIrLw3LGFkt7Au97yDwY-AUSfghHcri53Zpmn-Z4Q'
+  lat: 40.11621
+  level: 6
+  lon: -88.242535
+  name:  'Inman Building Historic Plaque'
+- ap: 5348
   img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
   lat: 40.098688
   level: 8
@@ -100,12 +106,6 @@
   level: 8
   lon: -88.251426
   name:  'Ruth Haasis Memorial'
-- ap: 5348
-  img:  'http://lh4.ggpht.com/9hzMj8KV-HraIucojjHAEgyMZsJAR9TWvNS-QSBB5LTYBOTwwqfTQySJ_Sz88eP3eyFWFYhx5qDVY93t8fk'
-  lat: 40.108032
-  level: 6
-  lon: -88.225702
-  name:  'Centennial Court'
 - ap: 5161
   img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
   lat: 40.11784
@@ -124,24 +124,6 @@
   level: 8
   lon: -88.251337
   name:  'In Loving Memory of Zeus'
-- ap: 4785
-  img:  'http://lh6.ggpht.com/MzDfG6eMMwVr56zIpVxRJKU2aoUq-95CLeBhoiEQQKzpC2zulq5jFDLv1IK0JcRy5Q0PhRAreZ1p2ElsdnNu'
-  lat: 40.108048
-  level: 6
-  lon: -88.226279
-  name:  'Nuclear Magnetic Resonance II Plaque'
-- ap: 4783
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.396552
-  level: '?'
-  lon: -86.283274
-  name:  'Kids Corner Park'
-- ap: 4598
-  img:  'http://lh3.googleusercontent.com/vMuPZQrBjsuqibkb-FCbuVrZzyuUSOhjlXxxxRc9hq0Y7prkP-Fpk1Hh6o5Eq8BhT6s7GRP5S5z2KFUL7hJY'
-  lat: 40.113606
-  level: 7
-  lon: -88.243766
-  name:  'Mural on South Neil St.'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.392777
@@ -167,11 +149,17 @@
   lon: -88.777245
   name:  'a58a2b0d69594c249e6fa1e2f1d103b1.12'
 - ap: 4411
-  img:  'http://lh6.ggpht.com/XsUl74M1oxj6ptAvGEBOMH2wivRhxBNns62UJSGcPiQkuJIgPrmUYxMpSZZUfXRMMjrwoxlFK_DbAM78UrOh'
-  lat: 40.113499
+  img:  'http://lh6.ggpht.com/cZVUlNaHjfsB6Lu5hnj8JjUk4lvsgOV7DFz4Nl47-RaQObW1VPRpos6hTDD6WgYrNxCh9UKfn5DFU-K7lRe9pQ'
+  lat: 40.1164
   level: 6
-  lon: -88.244374
-  name:  'Shatterglass Studios Mural'
+  lon: -88.242747
+  name:  'Sidewalk Art'
+- ap: 4411
+  img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
+  lat: 40.116553
+  level: 6
+  lon: -88.242268
+  name:  'Esquire Lounge'
 - ap: 4411
   img:  'http://lh3.ggpht.com/VrbXGwlUosNLEkVdshWUFoVa3KtlJQoEU4yLYygvftYbPCmxo644Uvar_v8Kb9RS53hB0tXgvV44GotrxZyu'
   lat: 40.098592
@@ -196,36 +184,24 @@
   level: 8
   lon: -88.251876
   name:  'Raymond B. Cattell Memorial'
-- ap: 4411
-  img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
-  lat: 40.107629
-  level: 6
-  lon: -88.224484
-  name:  'Bucky Balls'
-- ap: 4411
-  img:  'http://lh4.ggpht.com/7U0YXCB_DIhnqPJyjyLpNn6kg4lU8HvKL87ddBKWq1sptvVLvCEiCuNEnghQtqDGSN2OBNcOUK9nZcYjY4Vr'
-  lat: 40.107887
-  level: 4
-  lon: -88.225998
-  name:  'Lifesaving Antibiotic Plaque'
-- ap: 3848
-  img:  'http://lh6.ggpht.com/WtqWBwqpYTSw3g9ru5NwcFn5iK5STxWgy2kv4OUTWqwtzx76-9Msz0eqoiw0qpEYE1U4zdt9rzzNZMDNagNg'
-  lat: 40.107943
-  level: 6
-  lon: -88.226751
-  name:  'Class Of 1917 Plaque'
-- ap: 3848
-  img:  'http://lh4.ggpht.com/EsyXMnqVMX7wQ4YmoCFRiNljaJqaXrQvzyzzooqx2fPxCSkJMkdEssTbf618D8Qp9hh3E4Ud3hL1M3v-TsbO'
-  lat: 40.104688
-  level: 6
-  lon: -88.230676
-  name:  'Sousa Archives Center-Amer Music'
 - ap: 3661
-  img:  'http://lh5.ggpht.com/wX6-mbTE7nT00T6ildapKbI5ZrnhPIt4l91DhMseyo3GYFrgQIuqbjh8ntZY6NxGZ-qa6fKWlyoBOPdIdNIt'
-  lat: 40.114653
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.517758
+  level: '?'
+  lon: -88.070712
+  name:  '6223016ce96e4292aed4a7e32d42e535.12'
+- ap: 3661
+  img:  'http://lh5.ggpht.com/XQVr2AUWddJQMpYbapEIpcTLBeBvcpgmW016VjkAOXrp8_P2VsMxQY8FVhtDhA73iTCXCPiydjFIJcbcSa8_'
+  lat: 40.116206
+  level: 4
+  lon: -88.24306
+  name:  'Indigo Art Gallery'
+- ap: 3661
+  img:  'http://lh3.googleusercontent.com/5FkLhIMVmAJJSslAXVxY1RNxi-4q5mNAVPK2XgU5LwRM8qcB8BGXOK0GmF6Y_xfgPOhwF_CrbcgVZlJx-Pza'
+  lat: 40.11652
   level: 6
-  lon: -88.243729
-  name:  'The Phoenix'
+  lon: -88.241845
+  name:  'Mike ''N Molly''s'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.51766
@@ -234,40 +210,28 @@
   name:  '250c208763b7499a83ba1257a22011c2.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.517758
-  level: '?'
-  lon: -88.070712
-  name:  '6223016ce96e4292aed4a7e32d42e535.12'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.172593
   level: '?'
   lon: -88.239993
   name:  'Faith Baptist Church'
 - ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 45.038748
-  level: '?'
-  lon: -87.128949
-  name:  '07eaafca0eef4e3b8a53deeebdaa54b0.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.588822
-  level: '?'
-  lon: -87.808612
-  name:  '1a06a4773281409988a725e35a8c720f.16'
-- ap: 3474
-  img:  'http://lh3.googleusercontent.com/ZyXHLNlediISMVLqM9sUeZ0FEft3El4ni5P7GPOy5UF2YYBkTywnN5g1lkaer_lDNSvBUvg7bQ5yA_4Wd9qRWg'
-  lat: 40.113521
-  level: 5
-  lon: -88.244122
-  name:  'Artistic Graffiti at MCS'
-- ap: 3399
-  img:  'http://lh5.ggpht.com/gkIcCbfmQWyJ7s9ryhzfOOn1K-oa8huqzZN80X2psVjx_6Iur5egjGncbUIAMLiAJAf9qG1Ac8lX2MomHYY'
-  lat: 40.108185
+  img:  'http://lh6.ggpht.com/2lDM_Uj6QcUJmWkmPhNWg-vfkJbBQAo6zb7eXC5qDTaJ5xAsoU7jPPqYmLo7zztC2Za1oH3QVrHQ78-XabqR'
+  lat: 40.116398
   level: 6
-  lon: -88.225203
-  name:  'Statue at Medical Sciences'
+  lon: -88.242485
+  name:  'Champaign Servicemen and Women Memorial'
+- ap: 3474
+  img:  'http://lh6.ggpht.com/ea6HxAw7m0OhhPqJJkZR9u60pR1sab_JdxaOyEltqmQd-63FFJzPY72jEnu08g9Gcjjj5cf3jyyS_M1E7OIbfg'
+  lat: 40.11616
+  level: 5
+  lon: -88.241422
+  name:  'It''s A Mistree'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
+  lat: 40.116164
+  level: 4
+  lon: -88.241661
+  name:  'Zipcar-45 E. University Avenue'
 - ap: 3098
   img:  'http://lh3.ggpht.com/waYCvQnciDHIQoBYQqAoe2ioBs3DAhMQQsBboKyfNVNSWibmmRTf0SLvaoU5EwCFyWydn7rCCfrLXtLqQfA8'
   lat: 40.135683
@@ -280,6 +244,12 @@
   level: 5
   lon: -88.272375
   name:  'Jericho Missionary Baptist Church'
+- ap: 2911
+  img:  'http://lh5.ggpht.com/FeG7Xn052FyJtG43yF0j2iYs3BdENjAx_oZUTzI70y4H0qeexU7B8NrXaT20cmXSKwnWV8xFSc3OlG_KQU09pE8fyCAYXWWPbTzC0_GZ1aynCFni'
+  lat: 40.116185
+  level: 5
+  lon: -88.243429
+  name:  'C.V. Lloyde'
 - ap: 2911
   img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
   lat: 40.106706
@@ -335,11 +305,41 @@
   lon: -88.273074
   name:  'Garden Hills Park'
 - ap: 2724
-  img:  'http://lh3.ggpht.com/LunaMtSKD9yiLQClolDY-Iqh0ENm9AgJdL4D1QxGs0j6TXPgqxDZea35x5ilAfeI5_0TGh5x1q1EqRsJsLFi'
-  lat: 40.114111
-  level: 7
-  lon: -88.243697
-  name:  'Champaign Surplus'
+  img:  'http://lh6.ggpht.com/btym2_WGYuFNu2SNiR8qif7GXLMOPT7XpuHE7RPOipPC9Q5lEPfImKAzf2vm9RUe2rN0u3TePq4pM0IuZiLS'
+  lat: 40.116436
+  level: 4
+  lon: -88.243459
+  name:  'Champaign City Building'
+- ap: 2724
+  img:  'http://lh6.ggpht.com/4K7T7_gGrfag_-Hep7ygH_rklKsjale4oo2CqJAFTpPB5EM4Dv8ZGyz7i_qUOuLnt16GWxDSJWCS8TZYyGY'
+  lat: 40.115421
+  level: 5
+  lon: -88.243168
+  name:  'Walnut Street Tea Co.'
+- ap: 2724
+  img:  'http://lh6.ggpht.com/D-AymiJdf5gt94o_wgUJbOD9Fpl4V7PijJOjkztpP0_J2k82i1TBLDAaqcH_SUTUFe9VlllfQCsXFg_J0uAPeA'
+  lat: 40.11569
+  level: 5
+  lon: -88.243433
+  name:  'Christ Community Church'
+- ap: 2724
+  img:  'http://lh5.ggpht.com/dRrlHXlT2nMNgZNHiYo52ha9L-Xay9DyOJR2Cpqs74hgAJ09abn9OTAtMzRVedt1_R9ObZllLO98vRhNMfgTgVsJCk1S-HJwX_XgiGpG4lz3a328'
+  lat: 40.11671
+  level: 4
+  lon: -88.24263
+  name:  'Cafe Kopi'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.588822
+  level: '?'
+  lon: -87.808612
+  name:  '1a06a4773281409988a725e35a8c720f.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 45.038748
+  level: '?'
+  lon: -87.128949
+  name:  '07eaafca0eef4e3b8a53deeebdaa54b0.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.37168
@@ -352,24 +352,6 @@
   level: '?'
   lon: -89.461309
   name:  'fd2af0e93c084aa19be07f93e4a11add.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.9686
-  level: '?'
-  lon: -87.630978
-  name:  '47ea0a512aca4efc981ddb89e220e8b4.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.890712
-  level: '?'
-  lon: -87.609676
-  name:  'a58dd97f83164002962074eae16fb67c.12'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.11635
-  level: '?'
-  lon: -86.494605
-  name:  'b14006f6283943feb0976cc5c909a006.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.113248
@@ -390,18 +372,6 @@
   name:  '9bd857ba387a45deae057200986a1abe.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.896156
-  level: '?'
-  lon: -87.610071
-  name:  'ac0239c3ac404385984dd819cebf734a.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.894684
-  level: '?'
-  lon: -87.609949
-  name:  'e0c230a8f2f746f7b6edf98c71091250.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.991918
   level: '?'
   lon: -88.73085
@@ -414,22 +384,28 @@
   name:  '169a8b5495e948da95777c575c22d0a6.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.892269
+  lat: 42.11635
   level: '?'
-  lon: -87.609873
-  name:  '93a1b13c02d04db99ebaf46f118bef83.16'
+  lon: -86.494605
+  name:  'b14006f6283943feb0976cc5c909a006.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.89196
+  lat: 40.106513
   level: '?'
-  lon: -87.609818
-  name:  '9751404135d14a20835126ddf4d017dc.16'
+  lon: -88.5585
+  name:  'Lodge Christian Church'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/Grxyg_zomjoDZLoj8DA7B5ihU9z_yv5o34_Co7-Hc3S48ewgPkfdEPyerhdYVMscKiE2ilRDMH2aGOJQrB1V'
+  lat: 40.127758
+  level: 5
+  lon: -88.330704
+  name:  'Champaign SDA School'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.895544
+  lat: 40.312242
   level: '?'
-  lon: -87.609918
-  name:  '69b5b12452284cfe80ee2aa3f5052d16.16'
+  lon: -88.201368
+  name:  '2012 Employee Dedication Bench'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.314339
@@ -473,6 +449,24 @@
   lon: -88.282547
   name:  'Heritage Park'
 - ap: 2537
+  img:  'http://lh3.ggpht.com/LunaMtSKD9yiLQClolDY-Iqh0ENm9AgJdL4D1QxGs0j6TXPgqxDZea35x5ilAfeI5_0TGh5x1q1EqRsJsLFi'
+  lat: 40.114111
+  level: 7
+  lon: -88.243697
+  name:  'Champaign Surplus'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/wX6-mbTE7nT00T6ildapKbI5ZrnhPIt4l91DhMseyo3GYFrgQIuqbjh8ntZY6NxGZ-qa6fKWlyoBOPdIdNIt'
+  lat: 40.114653
+  level: 6
+  lon: -88.243729
+  name:  'The Phoenix'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/oTEawnC2cPnZ7T10vs9tiueaLsN0ILM7tgPLWVfa0njwvTDrUvS-w8x5SK4iMDd0tuHYP2w5a-H0AQ4NaAyU'
+  lat: 40.116388
+  level: 4
+  lon: -88.243702
+  name:  'Cycles of Love'
+- ap: 2537
   img:  'http://lh5.ggpht.com/J6mcCWpzY1HtqSgO5x_y5aVz-YFsC8M7QP6HkXPiD48zj2LwljZvVXDN2m_K8oMn6mei5g6B8PphiUGrXGDG6g'
   lat: 40.119305
   level: 5
@@ -484,6 +478,42 @@
   level: 5
   lon: -88.243755
   name:  'Birthplace of Champaign / Beautiful Beardsley Hotel'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/Jj5dr0C8flwov23nPbKRDVme7HOE0xZvNC6JkRscLlNqRr6uxkxBExdu-rQUdt9kZtd9e5dvHsv6Vs1Hdtd9'
+  lat: 40.117186
+  level: 4
+  lon: -88.241556
+  name:  'Champaign Limestone Sidewalk'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/DDClbLn6LNW1_Kr2O24_eIFuz6BfPSolc8s9i2SV9KvgoE8D_n6SY1mOzPFAUoLMe9HHKhD-azeRgoyYPNcaPw'
+  lat: 40.115917
+  level: 5
+  lon: -88.243438
+  name:  'Shay Memorial Plaque'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
+  lat: 40.117107
+  level: 4
+  lon: -88.242467
+  name:  'Radio Maria'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/1BgYrJYdcGdepVZ6ibhTjtjZ6MyzKnQzLL4wxEnn_CEPnrJmOKHzPXm1qinGRA78MqKq11gKRlprm3Z7mDr0'
+  lat: 40.115645
+  level: 5
+  lon: -88.243036
+  name:  'The Art Party Studio'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
+  lat: 40.116989
+  level: 4
+  lon: -88.242255
+  name:  'Blind Pig'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/oHMQr2Z5LayQFbZOwOZK4ZbYQ1OVxs85-qNTvSj8epsP72vQiOdrzVmkuMPFQtCSf9Rr0oqcnSLFjLn-sPw'
+  lat: 40.116592
+  level: 4
+  lon: -88.243236
+  name:  'Champaign City Bldg. Landmark Plaque'
 - ap: 2537
   img:  'http://lh6.ggpht.com/uaO1clC1eOzxRVRPPU6mVM4lEPV2U6uxh64a8kJNRglHSObClWlHGEcfJTknzwB_7Wli3doxQJbZKiBHIXI'
   lat: 40.102834
@@ -497,17 +527,11 @@
   lon: -88.242132
   name:  'Nuclear Physics Lab'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/e6wN_SlFuF59rOEwuU8BCPeT0WsXneW_OcsXpZ75pgQd0PQSfnKhmLyrK5PDkisRwjV2DfAfVp7T3ryHoGKX4A'
-  lat: 40.076779
-  level: 8
-  lon: -88.249144
-  name:  'Triptych Brewing'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/xN5qaZ1d4qIQE8TID35MPTmzahhM09EYDVLbu2aeCpRJz9XntEf7R0XswEdQDOmdMpZxIEyNyqsC5qll3vfv'
-  lat: 40.082343
-  level: 8
-  lon: -88.247404
-  name:  'Larry Kanfer Gallery'
+  img:  'http://lh4.ggpht.com/EsyXMnqVMX7wQ4YmoCFRiNljaJqaXrQvzyzzooqx2fPxCSkJMkdEssTbf618D8Qp9hh3E4Ud3hL1M3v-TsbO'
+  lat: 40.104688
+  level: 6
+  lon: -88.230676
+  name:  'Sousa Archives Center-Amer Music'
 - ap: 2537
   img:  'http://lh5.ggpht.com/OF0rdXnVnZe6syFsa4G9CE6iyvhfoYQN3QH9RESyB78MTKDC2NXYJuVd0TAnACMccmsKXhNcBH6qzWy9DPQ'
   lat: 40.105073
