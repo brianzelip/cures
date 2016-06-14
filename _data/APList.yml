@@ -23,29 +23,23 @@
   lon: -88.251419
   name:  'Lyman Larson Memorial'
 - ap: 7035
-  img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
-  lat: 40.099593
-  level: 8
-  lon: -88.251724
-  name:  'Blessings from Devon Elaine Cattell'
-- ap: 7035
   img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
   lat: 40.101327
   level: 8
   lon: -88.251412
   name:  'Zeus Memorial'
+- ap: 7035
+  img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
+  lat: 40.099593
+  level: 8
+  lon: -88.251724
+  name:  'Blessings from Devon Elaine Cattell'
 - ap: 6848
   img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
   lat: 40.100941
   level: 8
   lon: -88.251314
   name:  'Gabriel Patrick Maxeiner Memorial Plaque'
-- ap: 6285
-  img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
-  lat: 40.099852
-  level: 8
-  lon: -88.251947
-  name:  'Our Friend Tim Palmer'
 - ap: 6285
   img:  'http://lh4.ggpht.com/4LxsGZZMk3DnpJXUvqzrL54CHSP5TDXjUnDJyHmCCTtCJIjGEI7kxT9g4uxfSPh0X6yGLgQo1jfqbu7B8VEr'
   lat: 40.099084
@@ -58,6 +52,12 @@
   level: 8
   lon: -88.250683
   name:  'Brian Clark Memorial Plaque'
+- ap: 6285
+  img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
+  lat: 40.099852
+  level: 8
+  lon: -88.251947
+  name:  'Our Friend Tim Palmer'
 - ap: 6098
   img:  'http://lh4.ggpht.com/B_I1b0Jy3vW41RX8jjCNPP68AULplU0Pf8ddolyKmpEWCfBVShQkmjF1HfTPzDjmBBQGgOs0jHW-rUR0mv8BkA'
   lat: 40.098789
@@ -131,12 +131,6 @@
   lon: -88.288274
   name:  'f0ae5f8377c046e2b413e075d00bedcb.16'
 - ap: 4411
-  img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
-  lat: 40.099353
-  level: 8
-  lon: -88.251876
-  name:  'Raymond B. Cattell Memorial'
-- ap: 4411
   img:  'http://lh3.ggpht.com/VrbXGwlUosNLEkVdshWUFoVa3KtlJQoEU4yLYygvftYbPCmxo644Uvar_v8Kb9RS53hB0tXgvV44GotrxZyu'
   lat: 40.098592
   level: 8
@@ -154,6 +148,12 @@
   level: 8
   lon: -88.250855
   name:  'Donald F. Bresnan Memorial'
+- ap: 4411
+  img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
+  lat: 40.099353
+  level: 8
+  lon: -88.251876
+  name:  'Raymond B. Cattell Memorial'
 - ap: 3848
   img:  'http://lh3.ggpht.com/tXuCgd1tvCtlonW_e1jLC_5DH6g4Qh6zIUKhJeoBZuLvyB0ql69PlymRU3Ywf5lq_8PFYNylEKOiC_qJnnzJpg'
   lat: 40.138006
@@ -190,24 +190,6 @@
   level: 5
   lon: -88.242671
   name:  'Marketplace Mall Fountain'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.972403
-  level: '?'
-  lon: -87.517102
-  name:  '8182cb4ef9a24e2a8e975ee139129755.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.634356
-  level: '?'
-  lon: -87.178294
-  name:  'd45d47f7d3a34245812bec73013df8d1.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.702689
-  level: '?'
-  lon: -87.559838
-  name:  '91cc10cca66d4c76aca909de0ef20dfd.16'
 - ap: 3099
   img:  'http://lh3.ggpht.com/uMCsrCj0b8EWJ6Hinp58rZ4hjaPm9kBAK5q0aDNtkP3e1Zk6Gh_0COjtW2YYBNzPxGDjJLB4DIXmiyvmrCJkRA'
   lat: 40.128083
@@ -226,24 +208,6 @@
   level: 6
   lon: -88.244603
   name:  'Italian Statue'
-- ap: 3474
-  img:  'http://lh6.ggpht.com/RW34ntixvJkg7fD71TPYo_4KIsBzA0-a-6yXO0jKPbpGxX5gIGC7kBI-pXEF9OHhuolcAGW2fxyK3Pt42Iev'
-  lat: 40.110489
-  level: 6
-  lon: -88.227412
-  name:  'Bus Stop - Illini Union, Westbound'
-- ap: 3474
-  img:  'http://lh4.ggpht.com/RF7EbCh1YRbFHfis_PEc88NF1v4Ndhj-Rm7rrlY7F8s-Mrv1EMEFnajFbYiNffZ_3kMNL80Zv-_jtaMYMtLA'
-  lat: 40.110655
-  level: 6
-  lon: -88.22725
-  name:  'Gothic Brass'
-- ap: 3474
-  img:  'http://lh5.ggpht.com/LPlCgoOAlClRaVCl_B1sHDkn38OgDbXat-l5Q1bDZLP7mOUMfU8pK-o3N8BEqh0vHJcZBHo3iz2AMQKAhot7Tw'
-  lat: 40.110833
-  level: 6
-  lon: -88.227425
-  name:  'Engineering Class of 1975 Monument'
 - ap: 3098
   img: http://i.imgur.com/5j1qaiT.png
   lat: 44.607633
@@ -353,6 +317,18 @@
   lon: -88.283274
   name:  'Austin Cloyd Memorial Plaque'
 - ap: 2537
+  img:  'http://lh4.ggpht.com/4_MOw_NKr2wZ2lzAzG2FlLtA3tfOfWqBZpNVP43LfN6ilD6qHRfZ-_wA1Xk8BnCqHKqKdqodC70X09pqtNXXqmNtK-uqo-fC9SZyOjT6ERfJorzg'
+  lat: 40.118388
+  level: 4
+  lon: -88.245358
+  name:  'Springer Cultural Center'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
+  lat: 40.117976
+  level: 4
+  lon: -88.245082
+  name:  'Robeson Building '
+- ap: 2537
   img:  'http://lh6.ggpht.com/uaO1clC1eOzxRVRPPU6mVM4lEPV2U6uxh64a8kJNRglHSObClWlHGEcfJTknzwB_7Wli3doxQJbZKiBHIXI'
   lat: 40.102834
   level: 7
@@ -391,7 +367,7 @@
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
   lat: 40.107629
-  level: 6
+  level: 7
   lon: -88.224484
   name:  'Bucky Balls'
 - ap: 2312
