@@ -112,24 +112,6 @@
   level: 4
   lon: -88.277467
   name:  'Dodds Park'
-- ap: 4785
-  img:  'http://lh3.googleusercontent.com/hJZWoErzM-MuXulq4FlhlZwMbJX1Isd81GBUBVKayd57jVIVxUle3itd-1DRKo2VaNXznWr1X639fa44Etk'
-  lat: 40.141919
-  level: 6
-  lon: -88.244611
-  name:  'Marketplace Mall Carousel'
-- ap: 4785
-  img:  'http://lh6.ggpht.com/RR0i4QdfoY8NkTQtssdOtDLhAEaCR7e-R4ipk5NzdKe9lTGDq2nyKI_7sF2BCXrgCZAZ2zEEtIzS7vg6Pu0hzA'
-  lat: 40.126458
-  level: 7
-  lon: -88.218544
-  name:  'The Vineyard Church'
-- ap: 4785
-  img:  'http://lh6.ggpht.com/duOeXcOSQLWosdD0JJXg3pWWQp4t5sL0x9qDHoTIBFNOzEW0t53Lt2cnwgV2E_Su0l1ajIQxPtVbbK_sDRaS'
-  lat: 40.141775
-  level: 5
-  lon: -88.242671
-  name:  'Marketplace Mall Fountain'
 - ap: 4598
   img:  'http://lh6.ggpht.com/MA9eCvz-pj6K00ulfaZfIA2Saj3yQDg484VkIpdvKwCwb2VWMg7rq15hjirk-2ea3j-2MfOnszGDTopXgf3N'
   lat: 40.12735
@@ -190,12 +172,6 @@
   level: 5
   lon: -88.272375
   name:  'Jericho Missionary Baptist Church'
-- ap: 3848
-  img:  'http://lh3.ggpht.com/TNDkyQnVEXdm2c8_gpZa0jhlwhKtO0T8Yaqx9BCnvpjJHBRKYMu71Kz7U4wOp-eSKD5jlReyruVEwFyyvRLuZQ'
-  lat: 40.129028
-  level: 5
-  lon: -88.218345
-  name:  'Flagpole Dedication'
 - ap: 3436
   img:  'http://lh5.ggpht.com/M2qxWsTwaMcr-AB3UJByAcCokQ0ptyf7KOh8-SmB1Rsu9ZR9D_hI6lWNZF3oGtoU6FzZVeT08h3IEn-e-_8'
   lat: 40.1279
@@ -209,11 +185,17 @@
   lon: -88.283365
   name:  'Heritage Lake Fishing Regulations'
 - ap: 3661
-  img:  'http://lh3.ggpht.com/QXNgz_dPkVpVuz9Qr0CZkUJDftEdF2Hs8m3XkLjsM8Q3YkwkWpxt0rmtqJ-fFylVNnP4_r193_ZhBl2kSfg'
-  lat: 40.129216
+  img:  'http://lh3.googleusercontent.com/hJZWoErzM-MuXulq4FlhlZwMbJX1Isd81GBUBVKayd57jVIVxUle3itd-1DRKo2VaNXznWr1X639fa44Etk'
+  lat: 40.141919
+  level: 6
+  lon: -88.244611
+  name:  'Marketplace Mall Carousel'
+- ap: 3661
+  img:  'http://lh6.ggpht.com/duOeXcOSQLWosdD0JJXg3pWWQp4t5sL0x9qDHoTIBFNOzEW0t53Lt2cnwgV2E_Su0l1ajIQxPtVbbK_sDRaS'
+  lat: 40.141775
   level: 5
-  lon: -88.219323
-  name:  'Angel Statue'
+  lon: -88.242671
+  name:  'Marketplace Mall Fountain'
 - ap: 3099
   img:  'http://lh3.ggpht.com/uMCsrCj0b8EWJ6Hinp58rZ4hjaPm9kBAK5q0aDNtkP3e1Zk6Gh_0COjtW2YYBNzPxGDjJLB4DIXmiyvmrCJkRA'
   lat: 40.128083
@@ -359,18 +341,6 @@
   lon: -87.813488
   name:  '87e6b7fcb07746b5a09fb3a68424e565.16'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/_5uAVfIVUSl8LZbPdUo8NofNacgPArlxuX0AhFVfU2I3B-5ULKClKXB_ia2JZo1UjjJO7Mme5nB8HSWXKhrcpg'
-  lat: 40.137727
-  level: 5
-  lon: -88.222417
-  name:  'Eastern Illinois Food Bank'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.312242
-  level: '?'
-  lon: -88.201368
-  name:  '2012 Employee Dedication Bench'
-- ap: 2537
   img:  'http://lh5.ggpht.com/V9AFUiWKES88x0FruZILBXEBv1d476XQMgH8JsCHDQgvjDvk95Mgjf5vcl-Nx7CkPvfhwVGIrvB1EA5Tlh2j'
   lat: 40.132437
   level: 4
@@ -502,3 +472,15 @@
   level: 4
   lon: -88.230188
   name:  'Color Glass Windows at the Newman Center'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/QXNgz_dPkVpVuz9Qr0CZkUJDftEdF2Hs8m3XkLjsM8Q3YkwkWpxt0rmtqJ-fFylVNnP4_r193_ZhBl2kSfg'
+  lat: 40.129216
+  level: 5
+  lon: -88.219323
+  name:  'Angel Statue'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/TNDkyQnVEXdm2c8_gpZa0jhlwhKtO0T8Yaqx9BCnvpjJHBRKYMu71Kz7U4wOp-eSKD5jlReyruVEwFyyvRLuZQ'
+  lat: 40.129028
+  level: 5
+  lon: -88.218345
+  name:  'Flagpole Dedication'
