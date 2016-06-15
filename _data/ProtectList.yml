@@ -768,12 +768,12 @@
   lon: -88.242452
   mus: 511
   name:  'Water Survey Research Center L'
-- fields: 7
+- fields: 8
   img:  'http://lh6.ggpht.com/3fVcmJ2u-5Mnni1a2NQuYee7Li3LXX1-Iih3NUqXYB8H0qCYAU7OEXBG0ysoYX44R9K5zwbI6c4G8fRDoZJY'
   lat: 40.101768
   level: 7
   lon: -88.234922
-  mus: 503
+  mus: 504
   name:  'Snyder Hall'
 - fields: 7
   img:  'http://lh3.ggpht.com/jr89yrsC941ycnfQPQzYkTPCedQ8Suo8eiPCcNLvq0n0fw48_pywxGTqTsKaVh_KXAiza3ke5pjMejqiaD0'
@@ -1933,7 +1933,7 @@
 - fields: 7
   img:  'http://lh6.ggpht.com/u5RIUNNvwmfVVArV3aMq1pfZJL1wQGlrpTVT3RVePYtS4tBgEWn6bO4_vXXd-PLfnv4OMHGt9iMRSOvNt7dr'
   lat: 40.103116
-  level: 4
+  level: 5
   lon: -88.229909
   mus: 54
   name:  'Night Train'
@@ -1951,6 +1951,13 @@
   lon: -88.192642
   mus: 48
   name:  'The Silver Bullet'
+- fields: 6
+  img:  'http://lh3.ggpht.com/-p1CR-MEw_nnGMNLqcKVLoq-lgaxNYTd37J_sxs5ORcWO0Rjnk88yp4BLGDPGeMvqIfxxcOQsFbxvS_PbqWynQ'
+  lat: 40.101215
+  level: 6
+  lon: -88.229077
+  mus: 45
+  name:  'Illinois State Geological Survey'
 - fields: 5
   img:  'http://lh6.ggpht.com/ZQaguxPyiC-6DeFDFa2niVKJz3ySxwxYaFCv8PRdNuoMYUfP-Xtirg-8pXCTdBCyH1BruprOVmqf3D1kdp7o'
   lat: 40.115225
@@ -1958,6 +1965,13 @@
   lon: -88.248866
   mus: 45
   name:  'Holy Cross Catholic Church'
+- fields: 5
+  img:  'http://www.panoramio.com/photos/small/52867363.jpg'
+  lat: 40.101676
+  level: 5
+  lon: -88.231098
+  mus: 44
+  name:  'Sculpture, Krannert Art Museum'
 - fields: 1
   img:  'http://lh4.ggpht.com/Ww9lgcscjGtB0ieiqyf2qK2ZzV0y3mZVpoi5ZZdPpArkbOa2B5aNli_k7t86GjD7eAeEFOw8W0oZvfr61S6Kxg'
   lat: 40.139196
@@ -1986,13 +2000,6 @@
   lon: -88.201552
   mus: 43
   name:  'The Flag that Will Not Burn'
-- fields: 3
-  img:  'http://www.panoramio.com/photos/small/52867363.jpg'
-  lat: 40.101676
-  level: 5
-  lon: -88.231098
-  mus: 42
-  name:  'Sculpture, Krannert Art Museum'
 - fields: 8
   img:  'http://lh5.ggpht.com/2jocF-ooKfacyT7HSwrwNcZTSN02yFkcmXBkPx777CYuD5O6sHPHwyUabblNOl_37YOxba1Gjid-TOwLVBlJ8g'
   lat: 40.116448
@@ -2014,13 +2021,6 @@
   lon: -88.226962
   mus: 40
   name:  'Mount Hope'
-- fields: 3
-  img:  'http://lh3.ggpht.com/-p1CR-MEw_nnGMNLqcKVLoq-lgaxNYTd37J_sxs5ORcWO0Rjnk88yp4BLGDPGeMvqIfxxcOQsFbxvS_PbqWynQ'
-  lat: 40.101215
-  level: 6
-  lon: -88.229077
-  mus: 40
-  name:  'Illinois State Geological Survey'
 - fields: 3
   img:  'http://lh3.ggpht.com/rKv-1aQyD3_EmYdZWG7vYw8cs8J89rZ6nFgr0tzEY9dFNyVdXpy1qOnHT434i_rN90x2ZakG3V5iyZUlXFogwA'
   lat: 40.103623
@@ -2115,7 +2115,7 @@
 - fields: 5
   img:  'http://lh4.ggpht.com/bzammNalrLYQbAwP5Ew5bAQaHGCI66Kp-8jZPpP5NbZjGD8XEYDtBU8klBoz02YVlCFikl0HxGoj-_S1RUvfb9sg6s4y5EGPLyyyPcTriLzsOALb'
   lat: 40.102721
-  level: 5
+  level: 6
   lon: -88.229137
   mus: 32
   name:  'Tree of Life Fantasy'
@@ -2458,7 +2458,7 @@
 - fields: 5
   img:  'http://lh5.ggpht.com/bn1QhOHMJIwrHxpNZALrFL6cmRhPKJulhFAokXJaYr2OuKQr8pAI5rK4Ww47E1jvpgkK68rKyvRjzRRPefLEPg'
   lat: 40.103121
-  level: 5
+  level: 6
   lon: -88.228963
   mus: 18
   name:  'Architectural Education Plaque'
@@ -3169,6 +3169,20 @@
   lon: -88.225654
   mus: 6
   name:  'Frank Kern Robeson Memorial'
+- fields: 2
+  img:  'http://lh4.ggpht.com/zAxC11GCLRrj5wlF-U0mbjaisXjS5ukHSkGR5sVCfSWYKSlV2kxvtrD04m3n_XzT59XQ1xyf4ctzShUNem0'
+  lat: 40.080381
+  level: 6
+  lon: -88.209174
+  mus: 6
+  name:  'Meadowbrook Park'
+- fields: 2
+  img:  'http://lh3.googleusercontent.com/XlZcRhaeaiHLSH5SjL6gcn60xeJ1h3aS5Etz67B8I-P7qbPjnPznf2IQkXfCblA1gkqCM8lBEdmxOk_3Xnge'
+  lat: 40.080163
+  level: 8
+  lon: -88.207829
+  mus: 6
+  name:  'Windmill at Meadowbrook Park'
 - fields: 7
   img:  'http://lh5.ggpht.com/ONr7OWgjlaWwJELaKTJEC1ZVpkIkuN-2c01D2AligYZC9Zbt8lH0SMkirhrWfHdjmVDmCtzhJWoVxoZM-NM'
   lat: 40.116766
@@ -3211,6 +3225,13 @@
   lon: -88.22564
   mus: 5
   name:  'Andrew De Grado Memorial'
+- fields: 3
+  img:  'http://lh3.ggpht.com/jnMeoF6SBZ0Iinf5GnB2N90IMGTEQdGggLITfjWcIY6d5yipHaBN52a1NPxmn-VFwc_G1cHiMmyEDGg5nkwo'
+  lat: 40.101623
+  level: 5
+  lon: -88.231761
+  mus: 5
+  name:  'Metal Spire'
 - fields: 2
   img:  'http://lh5.ggpht.com/sIbYMQQ_Zap8IM-0OSNfDcmhqlGrLw12pnC_OdD-CIksN6uBVuBi0m-ZNPiXF3Eijc8dtCbZLYdv_yX_qGKR'
   lat: 40.114982
@@ -3372,6 +3393,13 @@
   lon: -88.242666
   mus: 4
   name:  'Dohme Park Dedication Plaque'
+- fields: 1
+  img:  'http://lh5.ggpht.com/tVkUyAJPzoQiIilJCSPpwPCqNYSC70DZydpa07fwbCQM-10lVGa41u-oM_7ZXsORl1gYlycrI78KlMpubKMg'
+  lat: 40.079691
+  level: 5
+  lon: -88.208765
+  mus: 4
+  name:  'Bruno Schielzeth Memorial'
 - fields: 2
   img:  'http://lh4.ggpht.com/oknWvsn3j_8LLqgIevkEiU6a-r9RO-ylFPYVgOPQ6wBXGmnyvWFCGC4eG8qo7Z28JPMEoBE4DUFq2FPfFdXR9Q'
   lat: 40.112908
@@ -3379,6 +3407,13 @@
   lon: -88.237287
   mus: 4
   name:  'Stone Arch Bridge'
+- fields: 2
+  img:  'http://lh5.ggpht.com/85X0vnlHzLPww3OziBoMSVfkwq66eKQNZ9Mn6qsjghvteOQZiAVlsY80NVcsErHao0QYd9IyF7PDJyp-jaQ'
+  lat: 40.101632
+  level: 7
+  lon: -88.233133
+  mus: 4
+  name:  'Sunken Cube at Art and Design Building'
 - fields: 2
   img:  'http://lh4.ggpht.com/YSOz0a5ifhwbxTlrDnBNW-U35O1enndhsHgwgpJnFstBSqc8aMARC9BgIATLkd4Gd-lqDL_U6i3kdjCl7L3v'
   lat: 40.117969
@@ -3578,7 +3613,7 @@
 - fields: 5
   img:  'http://lh6.ggpht.com/tEtHQ3gjXHp940OLn9txVBSOCdT8UfYUs3C29Cgx6HiCLrS3KBboU3Wms2rEVMQWEf7lf67xfK7MIUmimDw'
   lat: 40.116631
-  level: 6
+  level: 7
   lon: -88.247334
   mus: 3
   name:  'Jack C. Richmond Lion''s Club Bench'
@@ -3610,6 +3645,13 @@
   lon: -88.227097
   mus: 2
   name:  'A Son of Deucalion'
+- fields: 1
+  img:  'http://lh5.ggpht.com/W3y0aDYTuLZ7E0KYzawIeqddSRPOrY1oAV8peDaDhUsxn_hKEJ1O4XyO_JF2p0ORGwae1oEwE5oTkJ_1TMDA'
+  lat: 40.080601
+  level: 5
+  lon: -88.208399
+  mus: 2
+  name:  'Urbana Parks Department Gardens'
 - fields: 3
   img:  'http://lh6.ggpht.com/rjO65LTfxlehqnFITx_AAA2JKpsmpj8hWVQifyHaji2E1suLvQntKGeHtT8TjDg7CZ94W3wDKW2MrfGY45k'
   lat: 40.11699
@@ -3799,6 +3841,13 @@
   lon: -88.227195
   mus: 2
   name:  'Bruce Perona Memorial Plaque'
+- fields: 1
+  img:  'http://lh3.ggpht.com/by946OhJ5ooOkbG4f662qjbXqvrQAd98E36mSJLgTsLgL_tb8GDpNxTOEhtgsjEhY-OzKmRxAmLFbYPscSH6'
+  lat: 40.101619
+  level: 7
+  lon: -88.233644
+  mus: 2
+  name:  'Taft-Van Doren Hall'
 - fields: 2
   img:  'http://lh5.ggpht.com/EaT0PxhOud4vjm0kHYMit1zq4b2aTjV4M2olWNI-rM0oUVFeEI4kgeWGcrbk_EvcGBz6hwrN_wYLDLK3CUBi'
   lat: 40.088861
