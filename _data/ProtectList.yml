@@ -1,17 +1,17 @@
 - fields: 2+
   img: http://i.imgur.com/LujBo5P.png
-  lat: 40.185093
-  level: '?'
-  lon: -88.296792
-  mus: 121650
-  name:  'Hensley Township Town Hall'
-- fields: 2+
-  img: http://i.imgur.com/LujBo5P.png
   lat: 40.196926
   level: '?'
   lon: -88.366258
   mus: 121650
   name:  'Filippos Pizza and Italian Food'
+- fields: 2+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.185093
+  level: '?'
+  lon: -88.296792
+  mus: 121650
+  name:  'Hensley Township Town Hall'
 - fields: 6+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.110982
@@ -960,7 +960,7 @@
 - fields: 5
   img:  'http://lh6.ggpht.com/P5Q3TM1HY9mqPQbQNDUn_h5cdo4MVdphUfMLaEb25EJWIN2xAqYTkLQUtPy4sY-0hHFESUrH5Nn0KYogzjM'
   lat: 40.104921
-  level: 5
+  level: 6
   lon: -88.192636
   mus: 295
   name:  'Boomerangs Bar And Grill '
@@ -1518,6 +1518,13 @@
   mus: 127
   name:  'The Presidents'' Walk'
 - fields: 4
+  img:  'http://lh5.ggpht.com/oCw3ZC6UKF3aiK6dkbz72dhzUsJNhOmfVjVsXJET_YP5e1p53pLTa8Dep24gLqeY9FghWE0kaAB64vvn7nq0'
+  lat: 40.105008
+  level: 8
+  lon: -88.243265
+  mus: 126
+  name:  'McCollum Park Peacock'
+- fields: 4
   img:  'http://lh6.ggpht.com/fyGq_et8CMSgV7DC-8ojjd4BvSmo7hPghtkd4Mn0dZS5eLOW8xkBuuEKcy2udoGdbodjc61c6IAeb0g3DrQ'
   lat: 40.110498
   level: 6
@@ -1574,6 +1581,13 @@
   mus: 109
   name:  'Crystal Lake Tree House Club'
 - fields: 2
+  img:  'http://lh6.ggpht.com/0IsQORyEW-bPA7sEbGspygtoI7ixEshm_2fUw5oeh9AeXg6JN5w0ypYIshpuKm-C0nG4Vm2XmpLvtWTZzWzd'
+  lat: 40.111607
+  level: 5
+  lon: -88.233753
+  mus: 106
+  name:  'Chabad Menorah'
+- fields: 2
   img:  'http://lh4.ggpht.com/rQD_MUFUx5IX5GhvurUrhiG2rCDy2Aiq_hvzN0YySpYA9cIb_aEAyBhyeFhFL7B0LdpEAAIDkqGcOv4wsVM2'
   lat: 40.077891
   level: 7
@@ -1594,6 +1608,13 @@
   lon: -88.287039
   mus: 105
   name:  'Parkland College'
+- fields: 2
+  img:  'http://lh3.googleusercontent.com/0hydzoUNO41CcF2qZhlhMbaEgMVFjql3_RSDgrJLVIToqRsqh2aBcAoXsrxAlwXqgTcB1R71HZiHrjq1KdnXgA'
+  lat: 40.11243
+  level: 6
+  lon: -88.235749
+  mus: 104
+  name:  'Fountain at Scott Park'
 - fields: 4
   img:  'http://lh3.ggpht.com/Vp7PDYUbvhYR-H_iLAC14Htc5LSwwKOw_KKekJtNC51XildqIseSO3uFQmNX0fVHVuMx8gedACxSzGvyoDA'
   lat: 40.094202
@@ -2280,6 +2301,13 @@
   lon: -88.401764
   mus: 23
   name:  'Mahomet Community Pavillion'
+- fields: 2
+  img:  'http://lh4.ggpht.com/AC0e3VVFenyh_tf4lpcee6alCTlto3O4cqychnUlTFCiLaMi6RUVh6BAC1-pjf7f7foTLFALejQiRxf1kKtS'
+  lat: 40.104417
+  level: 8
+  lon: -88.24332
+  mus: 23
+  name:  'Wayland Smith Estate Garden'
 - fields: 5
   img:  'http://lh3.ggpht.com/IKYzmqr6aeIX2d99jn1dQHjjq0-h7glRdyPEPoTdQnggoAgc8uutzh3X4OYjcCllXVp5r9rYyYnVPwNALI8B'
   lat: 40.115178
@@ -2315,13 +2343,6 @@
   lon: -88.244556
   mus: 20
   name:  'Citizens Honor Tom Dodsworth'
-- fields: 2
-  img:  'http://lh5.ggpht.com/oCw3ZC6UKF3aiK6dkbz72dhzUsJNhOmfVjVsXJET_YP5e1p53pLTa8Dep24gLqeY9FghWE0kaAB64vvn7nq0'
-  lat: 40.105008
-  level: 8
-  lon: -88.243265
-  mus: 20
-  name:  'McCollum Park Peacock'
 - fields: 8
   img:  'http://lh4.ggpht.com/MwwvfldFODGbgQvly97peMlV1Ggftr7Cz_qnZi6Xts08-O6InkPyV8c78QXZkgd-opgO2p1ER6wONxA3Zfs'
   lat: 40.092492
@@ -2357,13 +2378,6 @@
   lon: -88.230176
   mus: 20
   name:  'U of I Mural'
-- fields: 1
-  img:  'http://lh3.googleusercontent.com/0hydzoUNO41CcF2qZhlhMbaEgMVFjql3_RSDgrJLVIToqRsqh2aBcAoXsrxAlwXqgTcB1R71HZiHrjq1KdnXgA'
-  lat: 40.11243
-  level: 6
-  lon: -88.235749
-  mus: 19
-  name:  'Fountain at Scott Park'
 - fields: 1
   img:  'http://lh3.ggpht.com/161K1avC8teYs8PtJMANd0cBrff72XYRYh2Gjg2_KhkEh6_F6MLd3cfHIXwK8zegd65ISEVxmEoD5THpeY-Q'
   lat: 40.112553
@@ -3424,7 +3438,7 @@
 - fields: 2
   img:  'http://lh6.ggpht.com/6yxAmr2FjIBpCnPpjbRv2_ffdjnZXpB2FX2OgDLnFT0Oay8HbNuXBErpWWje-HkjfKlf0OugYI9CAtbUcgPsA0B7aD9He4jy7otGJ1mBkF_9NwAA'
   lat: 40.111099
-  level: 6
+  level: 5
   lon: -88.209036
   mus: 3
   name:  'Ibidem Statue'
@@ -3522,7 +3536,7 @@
 - fields: 3
   img:  'http://lh3.ggpht.com/CwgYIhVaivHHg_U6yqu5KSGhSh9ipRBDu7G192KiQfrnXc7C8uh7UOh6MP91vhZJ3LZdiTaFwpvFukvIaj6J'
   lat: 40.117445
-  level: 6
+  level: 5
   lon: -88.243409
   mus: 3
   name:  'From Swords to Plowshares'
@@ -3800,13 +3814,6 @@
   mus: 1
   name:  'West Side Park Entrance'
 - fields: 1
-  img:  'http://lh4.ggpht.com/AC0e3VVFenyh_tf4lpcee6alCTlto3O4cqychnUlTFCiLaMi6RUVh6BAC1-pjf7f7foTLFALejQiRxf1kKtS'
-  lat: 40.104417
-  level: 8
-  lon: -88.24332
-  mus: 1
-  name:  'Wayland Smith Estate Garden'
-- fields: 1
   img:  'http://lh3.ggpht.com/0-BDoSYQzYfR7AHH26pmRGbZ4VmB4kdhLKm3x_AV4WOsaSFFLgJwMVN-bWTz9oopIx6IJQMxGvtl5C3svl0C'
   lat: 40.104061
   level: 5
@@ -3977,21 +3984,21 @@
 - fields: 1
   img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
   lat: 40.11784
-  level: 5
+  level: 4
   lon: -88.24286
   mus: 1
   name:  'Kaufman Memorial'
 - fields: 1
   img:  'http://lh3.ggpht.com/GGBe9Hug3fUbRCRAMs_kO1fg2HHQ95ZDBdW0S2tAHakvhQbWxlttanjhGNJJcyVRruUlL7zjQnPGI2bu8Wc4'
   lat: 40.117905
-  level: 6
+  level: 5
   lon: -88.242149
   mus: 1
   name:  'Read All About It'
 - fields: 1
   img:  'http://lh5.ggpht.com/KYppjeOoIlb4lbowRrrC5qRdYW7_KU8rzjtDMpvhh-Q_c6VZOTtVmOqmmxChJA2hjlpS5dJ1JnhUQcKUAXDWHA'
   lat: 40.117976
-  level: 6
+  level: 5
   lon: -88.242642
   mus: 1
   name:  'Stevick Building'
