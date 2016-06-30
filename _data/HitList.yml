@@ -1,3 +1,10 @@
+- fields: 6
+  img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
+  lat: 40.115838
+  level: 5
+  lon: -88.241338
+  mus: 108
+  name:  'Illinois Terminal'
 - fields: 1
   img:  'http://lh4.ggpht.com/cXzBVEYwsBuU4BX2Fkwi_8TwqSW6ExF6m7IyyHAOrdCMru_sr74MrtK8iGVa0zj3YFt--pdhmI5xwUIeJw'
   lat: 40.120191
@@ -26,13 +33,6 @@
   lon: -88.251685
   mus: 9
   name:  'Curtis William McKinney Memorial'
-- fields: 4
-  img:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
-  lat: 40.108173
-  level: 6
-  lon: -88.230209
-  mus: 9
-  name:  'Mural on South Sixth Street'
 - fields: 1
   img:  'http://lh5.ggpht.com/Dnxa0uyF4RKoIJbGj2tdvyDNb0rGtuO_uRKbU5rlo_G2o90ZQh1TJPY85qrIuM3pseJmLtXNbo0wS6tvowaz'
   lat: 40.08479
@@ -48,19 +48,26 @@
   mus: 8
   name:  'Tyler Van Atkins Memorial'
 - fields: 1
-  img:  'http://lh5.ggpht.com/J6mcCWpzY1HtqSgO5x_y5aVz-YFsC8M7QP6HkXPiD48zj2LwljZvVXDN2m_K8oMn6mei5g6B8PphiUGrXGDG6g'
-  lat: 40.119305
-  level: 4
-  lon: -88.244122
-  mus: 7
-  name:  'Women''s Town Club Building'
-- fields: 2
-  img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
-  lat: 40.107751
+  img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
+  lat: 40.11784
   level: 3
-  lon: -88.231532
+  lon: -88.24286
+  mus: 6
+  name:  'Kaufman Memorial'
+- fields: 5
+  img:  'http://lh3.googleusercontent.com/tWUxy7KQ-q_qBBIgLzTjjezrBpWPSJ_z3FWnvbB8Y5wIiYZW1I5ioL0Tzq60VyalCaIwOk4UI3agM8tFaykY'
+  lat: 40.117427
+  level: 3
+  lon: -88.243235
+  mus: 5
+  name:  'Cowboy Monkey'
+- fields: 2
+  img:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
+  lat: 40.108173
+  level: 6
+  lon: -88.230209
   mus: 4
-  name:  'Graduate School of Library and Information Science'
+  name:  'Mural on South Sixth Street'
 - fields: 1
   img:  'http://lh4.ggpht.com/FOqmWFqpxmpdNn358B7Xko5DVp_H3_qI49Lw-6NI8lusw3iqZM-wuMsxRn82L8WFxV7TKpxjxwwzvqLHR0QF'
   lat: 40.087474
@@ -68,13 +75,6 @@
   lon: -88.329182
   mus: 3
   name:  'Environmental Plaque - Woodland'
-- fields: 4
-  img:  'http://lh3.googleusercontent.com/tWUxy7KQ-q_qBBIgLzTjjezrBpWPSJ_z3FWnvbB8Y5wIiYZW1I5ioL0Tzq60VyalCaIwOk4UI3agM8tFaykY'
-  lat: 40.117427
-  level: 4
-  lon: -88.243235
-  mus: 3
-  name:  'Cowboy Monkey'
 - fields: 5
   img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
   lat: 40.098246
@@ -82,13 +82,6 @@
   lon: -88.251974
   mus: 3
   name:  'Hessel Park'
-- fields: 4
-  img:  'http://lh4.ggpht.com/wbrbzDCo3C4qFJyHTWOST5o8B7kwZSWePUWOboIlYrdvxjrhWLqVQ1MqUF5-Hy4nt26x_oHQq9f8EbfdEjVK'
-  lat: 40.117382
-  level: 3
-  lon: -88.243748
-  mus: 2
-  name:  'Days of Venus'
 - fields: 3
   img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
   lat: 40.116553
@@ -103,6 +96,13 @@
   lon: -88.219925
   mus: 2
   name:  'Memory Squares'
+- fields: 1
+  img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
+  lat: 40.107751
+  level: 3
+  lon: -88.231532
+  mus: 2
+  name:  'Graduate School of Library and Information Science'
 - fields: 2
   img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
   lat: 40.099353
