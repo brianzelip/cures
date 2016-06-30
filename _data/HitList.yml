@@ -1,10 +1,3 @@
-- fields: 6
-  img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
-  lat: 40.115838
-  level: 5
-  lon: -88.241338
-  mus: 108
-  name:  'Illinois Terminal'
 - fields: 1
   img:  'http://lh4.ggpht.com/cXzBVEYwsBuU4BX2Fkwi_8TwqSW6ExF6m7IyyHAOrdCMru_sr74MrtK8iGVa0zj3YFt--pdhmI5xwUIeJw'
   lat: 40.120191
@@ -12,6 +5,13 @@
   lon: -88.215485
   mus: 70
   name:  'Champaign County Fairgrounds'
+- fields: 2
+  img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
+  lat: 40.115838
+  level: 5
+  lon: -88.241338
+  mus: 22
+  name:  'Illinois Terminal'
 - fields: 12
   img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
   lat: 40.101327
@@ -47,20 +47,6 @@
   lon: -88.251157
   mus: 8
   name:  'Tyler Van Atkins Memorial'
-- fields: 1
-  img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
-  lat: 40.11784
-  level: 3
-  lon: -88.24286
-  mus: 6
-  name:  'Kaufman Memorial'
-- fields: 5
-  img:  'http://lh3.googleusercontent.com/tWUxy7KQ-q_qBBIgLzTjjezrBpWPSJ_z3FWnvbB8Y5wIiYZW1I5ioL0Tzq60VyalCaIwOk4UI3agM8tFaykY'
-  lat: 40.117427
-  level: 3
-  lon: -88.243235
-  mus: 5
-  name:  'Cowboy Monkey'
 - fields: 2
   img:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
   lat: 40.108173
@@ -76,6 +62,13 @@
   mus: 3
   name:  'Environmental Plaque - Woodland'
 - fields: 5
+  img:  'http://lh6.ggpht.com/rGhR45ZFbHtxmrZSSy9V19eFoyHIDB42c6MK188isPJFWpUsW9ywNHayKt3acNvKNC8DAV6mDkUloj3aiS4'
+  lat: 40.118422
+  level: 4
+  lon: -88.24346
+  mus: 3
+  name:  'Entrance'
+- fields: 5
   img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
   lat: 40.098246
   level: 8
@@ -83,16 +76,23 @@
   mus: 3
   name:  'Hessel Park'
 - fields: 3
-  img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
-  lat: 40.116553
-  level: 4
-  lon: -88.242268
+  img:  'http://lh5.ggpht.com/H6c2QR_sGnIrBNnlkreE_k9AGNNj03EgBFOn2L-D_occ8syrKvx4f0LJ3s-YNtw6SyGGI9htmM5uD6aWWbRQ'
+  lat: 40.103403
+  level: 5
+  lon: -88.211706
   mus: 2
-  name:  'Esquire Lounge'
+  name:  'Brian L. Larson Memorial'
+- fields: 2
+  img:  'http://lh5.ggpht.com/POqHe98NzuBf0a60NvZTCOYoC0L6aw_FSOZMaxr88kV1-papt0D2DM7cRXxDK-_qXTmzSJspa4Zzh9ao7rOaN0iWFYVm5G01GVzh-4gAlR8OFvTH'
+  lat: 40.09976
+  level: 5
+  lon: -88.205422
+  mus: 2
+  name:  'Ann and Ben Schrumpf Memorial'
 - fields: 1
   img:  'http://lh4.ggpht.com/HPJCnjDX7RNIKo1Nb9pEeLm37UaylaBupc0bWDexHxCLAmBV-4-tYBf1Jof3ssNpFCmoyw3MrokNv4_zt20'
   lat: 40.108274
-  level: 6
+  level: 4
   lon: -88.219925
   mus: 2
   name:  'Memory Squares'
@@ -104,16 +104,30 @@
   mus: 2
   name:  'Graduate School of Library and Information Science'
 - fields: 2
+  img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
+  lat: 40.116553
+  level: 3
+  lon: -88.242268
+  mus: 2
+  name:  'Esquire Lounge'
+- fields: 2
   img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
   lat: 40.099353
   level: 8
   lon: -88.251876
   mus: 1
   name:  'Raymond B. Cattell Memorial'
-- fields: 1
-  img:  'http://lh6.ggpht.com/btym2_WGYuFNu2SNiR8qif7GXLMOPT7XpuHE7RPOipPC9Q5lEPfImKAzf2vm9RUe2rN0u3TePq4pM0IuZiLS'
-  lat: 40.116436
-  level: 3
-  lon: -88.243459
+- fields: 2
+  img:  'http://lh3.ggpht.com/gJYGj7_wDDnnkZAlCFgChMLxPptIEvTDKzPJQqVLWhygPTnHHPEe9YrX22kkUU6oScgCqoGv_Sb_cKdY6V32'
+  lat: 40.10395
+  level: 5
+  lon: -88.211413
   mus: 1
-  name:  'Champaign City Building'
+  name:  'Carle Park Fountain'
+- fields: 2
+  img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
+  lat: 40.11784
+  level: 5
+  lon: -88.24286
+  mus: 1
+  name:  'Kaufman Memorial'
