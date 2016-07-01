@@ -269,12 +269,6 @@
   lon: -88.205286
   name:  'Blair Park Viewing Pavillion'
 - ap: 3848
-  img:  'http://lh6.ggpht.com/nbUJivBo0zF8f8aBbk1GwakUpPbLUVOoEovTTETYwJvfNIHXwG9XUbwoV0x-ly4ZO5Hsyv5KPo3c9cE6Nh8'
-  lat: 40.118832
-  level: 5
-  lon: -88.243643
-  name:  'Tesla Ball'
-- ap: 3848
   img:  'http://lh4.ggpht.com/cXzBVEYwsBuU4BX2Fkwi_8TwqSW6ExF6m7IyyHAOrdCMru_sr74MrtK8iGVa0zj3YFt--pdhmI5xwUIeJw'
   lat: 40.120191
   level: 2
@@ -286,6 +280,12 @@
   level: 4
   lon: -88.218544
   name:  'The Vineyard Church'
+- ap: 3848
+  img:  'http://lh6.ggpht.com/nbUJivBo0zF8f8aBbk1GwakUpPbLUVOoEovTTETYwJvfNIHXwG9XUbwoV0x-ly4ZO5Hsyv5KPo3c9cE6Nh8'
+  lat: 40.118832
+  level: 5
+  lon: -88.243643
+  name:  'Tesla Ball'
 - ap: 3661
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.020795
@@ -472,12 +472,6 @@
   level: 6
   lon: -88.241338
   name:  'Illinois Terminal'
-- ap: 2724
-  img:  'http://lh6.ggpht.com/2lDM_Uj6QcUJmWkmPhNWg-vfkJbBQAo6zb7eXC5qDTaJ5xAsoU7jPPqYmLo7zztC2Za1oH3QVrHQ78-XabqR'
-  lat: 40.116398
-  level: 4
-  lon: -88.242485
-  name:  'Champaign Servicemen and Women Memorial'
 - ap: 2574
   img:  'http://lh5.ggpht.com/Jp7IxKww4URJW7CuBmWK-wgnCfMK0iUJrKL_UoRhWCyoVY0_cHasH1WH_nYzDpInelHY0uL_3K-u3czrBCY'
   lat: 40.11949
@@ -498,6 +492,12 @@
   name:  'fd2af0e93c084aa19be07f93e4a11add.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.719395
+  level: '?'
+  lon: -90.247862
+  name:  '532ad3dc3fe14846ab862abf425a5b4e.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.784611
   level: '?'
   lon: -89.966766
@@ -508,12 +508,6 @@
   level: '?'
   lon: -91.099301
   name:  '96e6aca35b894d7b9c51daf1942e5d82.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.719395
-  level: '?'
-  lon: -90.247862
-  name:  '532ad3dc3fe14846ab862abf425a5b4e.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.106513
@@ -550,12 +544,6 @@
   level: 5
   lon: -88.243702
   name:  'Cycles of Love'
-- ap: 2462
-  img:  'http://lh3.googleusercontent.com/5FkLhIMVmAJJSslAXVxY1RNxi-4q5mNAVPK2XgU5LwRM8qcB8BGXOK0GmF6Y_xfgPOhwF_CrbcgVZlJx-Pza'
-  lat: 40.11652
-  level: 4
-  lon: -88.241845
-  name:  'Mike ''N Molly''s'
 - ap: 2387
   img:  'http://lh5.ggpht.com/qXsP4-THlaQ8DmIiopsvR0dY2hqwPjIHoy1A1b_CUmqmADgED0FAkXDjkBzS-PY4jNfThICrCaXGja5OH8bWF4ghh7lBwJz0FzKz_zOvaiwHohU_'
   lat: 40.11945
@@ -587,11 +575,29 @@
   lon: -88.243669
   name:  'Colonel Sidney Gauntlett Cornerstone'
 - ap: 2537
+  img:  'http://lh3.googleusercontent.com/5FkLhIMVmAJJSslAXVxY1RNxi-4q5mNAVPK2XgU5LwRM8qcB8BGXOK0GmF6Y_xfgPOhwF_CrbcgVZlJx-Pza'
+  lat: 40.11652
+  level: 4
+  lon: -88.241845
+  name:  'Mike ''N Molly''s'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/SCYK-XeMmOyfRrTt1-aQNoDA-2Sib4m5Ch26mTwo6XNdVeVnfi7W74Ik6IRLAPSoKzSS97pgwt50Jl9oSgGfP029USxZzQWKNJo3rbs-6YHBPBif'
+  lat: 40.116792
+  level: 4
+  lon: -88.241752
+  name:  'WEFT 90.1 FM Community Radio'
+- ap: 2462
   img:  'http://lh6.ggpht.com/cZVUlNaHjfsB6Lu5hnj8JjUk4lvsgOV7DFz4Nl47-RaQObW1VPRpos6hTDD6WgYrNxCh9UKfn5DFU-K7lRe9pQ'
   lat: 40.1164
-  level: 4
+  level: 3
   lon: -88.242747
   name:  'Sidewalk Art'
+- ap: 2237
+  img:  'http://lh6.ggpht.com/2lDM_Uj6QcUJmWkmPhNWg-vfkJbBQAo6zb7eXC5qDTaJ5xAsoU7jPPqYmLo7zztC2Za1oH3QVrHQ78-XabqR'
+  lat: 40.116398
+  level: 2
+  lon: -88.242485
+  name:  'Champaign Servicemen and Women Memorial'
 - ap: 2537
   img:  'http://lh3.ggpht.com/AD9d7JPmLdYRdpxESO9iORy1GRXAcN1jzn8dDNvm6FO7cIHVsjwAKI8LmbW4dico1Xe9jzJfsZZriP0CxXA46w'
   lat: 40.104084
