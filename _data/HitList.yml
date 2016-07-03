@@ -5,6 +5,13 @@
   lon: -88.291946
   mus: 170
   name:  'Campus Solar System - Jupiter'
+- fields: 5
+  img:  'http://lh3.ggpht.com/3WnMbDq1Vm3HiqAM5qk1r9m3OqcO-YUN0nCOt2yRfUxVWLZ-8huxevlCI0JnIJgpSBZN4mtw0gxJnrGtuaS9iUf7k-JFfmRGRkBXQafWO9MIk_oJ'
+  lat: 40.115491
+  level: 7
+  lon: -88.227358
+  mus: 86
+  name:  'Arnold O. Beckman Statue'
 - fields: 4
   img:  'http://lh4.ggpht.com/nxDeNwbXxYuo1VyX_qnfxvSql7bfLS5wokO9KwPy6x9CPdTsbILpEr9jM-sXHDsic6WPJnbvWci9eDEcNOWo'
   lat: 40.129554
@@ -12,13 +19,6 @@
   lon: -88.286025
   mus: 80
   name:  'Dodds Park Soccer Fields'
-- fields: 2
-  img:  'http://lh3.ggpht.com/S2DoIWxkTKxG56hK4lv2QLq8peGyxtsYcpRM7vWxcHOxECyRXDdeMhD-3E7munflftWVVu_FusxLxzJKIOI'
-  lat: 40.110892
-  level: 4
-  lon: -88.241745
-  mus: 72
-  name:  'Twin City Bible Church Midtown'
 - fields: 6
   img:  'http://lh4.ggpht.com/CuRKYla63wCvLaTdKqGMMAd1Mr0_HK3v2iQjltrJwmsOownFtry6TsHMkAeHmOP6ULUYA53u4MUP61rgLzs6'
   lat: 40.1097
@@ -69,19 +69,40 @@
   mus: 10
   name:  'Little Free Library Charter 5753'
 - fields: 4
+  img:  'http://lh5.ggpht.com/WZc539Zuz4CnOeahoDxnw7bXfoXbAW8PlbPdBvZNK5s1q7hQoFcVebhZRoTQV6uPovHywWaXUsleNvoQP2wE'
+  lat: 40.113647
+  level: 6
+  lon: -88.227628
+  mus: 9
+  name:  'Micro and Nanotechnology Laboratory'
+- fields: 4
   img:  'http://lh5.ggpht.com/3RfiPeOzF67ubNX-vkwUJ6-EYld6BKuoBernq0_9kOjlIsSPr3saR9FIQzN7uiw7ouF0CpNflOnL0mUj9zbqdQ'
   lat: 40.109452
   level: 7
   lon: -88.229031
   mus: 9
   name:  'Illini Hall'
-- fields: 3
-  img:  'http://lh5.ggpht.com/d_xORafhhRGmWQQYxORFs1dW_6uXGimDkw117yVoO46fU96UHRY1GWk3ln65AsNRtevh1vFgECrCK8gJD4Y'
-  lat: 40.133113
+- fields: 4
+  img:  'http://lh5.ggpht.com/ZDv0mHiZcEfLxGVibvfnMCu7reJceCVnxa4GeBjK2DO4Y4a0x-M7C2M0rEam-_bPlr2e2476RXe15pRY48s'
+  lat: 40.114351
   level: 6
-  lon: -88.279062
-  mus: 6
-  name:  'Champaign County Workers Memorial'
+  lon: -88.227096
+  mus: 8
+  name:  'Chi Epsilon Civil Engineering'
+- fields: 5
+  img:  'http://lh4.ggpht.com/ezHSw_hRdts3U3bzkEEn46LneS1miDpbSGoxg0v1TqG_W82bvfR2uSTZeDFfhG0kmPJAkOblWP_ZilA6TP8'
+  lat: 40.112523
+  level: 4
+  lon: -88.227765
+  mus: 7
+  name:  'Bardeen Quadrangle - North Side'
+- fields: 5
+  img:  'http://lh5.ggpht.com/w9vRSV8NBR1gsi8ndeSUNJN2X-ftwCCQ7Jd3dcLVhPw6r1w0x1QE4hNgpCJBKimUeq-HToz_yq9S3rYkzC5bjw'
+  lat: 40.114687
+  level: 6
+  lon: -88.22473
+  mus: 7
+  name:  'Web Browser Plaque'
 - fields: 1
   img:  'http://lh5.ggpht.com/THzk1iE4eBFdHkEgW_OGBWS54BbJw46faUZQS1Ad_IROHGgmVaXrphXJuL1O8N9k4G8_jaDT4P9tmLxMNi0W'
   lat: 40.131713
@@ -89,13 +110,20 @@
   lon: -88.29276
   mus: 6
   name:  'Campus Solar System - Sun'
-- fields: 3
-  img:  'http://lh3.ggpht.com/yeYI3q7rDQLA5xBcWfH-Caw2Uh740ZPRQjjyvOrZz7ZyLI-gxBpi8yqxqDrlOBzG9YHs6YlxdgX0obTpXlQ'
-  lat: 40.117681
+- fields: 2
+  img:  'http://lh5.ggpht.com/d_xORafhhRGmWQQYxORFs1dW_6uXGimDkw117yVoO46fU96UHRY1GWk3ln65AsNRtevh1vFgECrCK8gJD4Y'
+  lat: 40.133113
+  level: 6
+  lon: -88.279062
+  mus: 5
+  name:  'Champaign County Workers Memorial'
+- fields: 1
+  img:  'http://lh3.ggpht.com/S2DoIWxkTKxG56hK4lv2QLq8peGyxtsYcpRM7vWxcHOxECyRXDdeMhD-3E7munflftWVVu_FusxLxzJKIOI'
+  lat: 40.110892
   level: 5
-  lon: -88.241405
+  lon: -88.241745
   mus: 4
-  name:  'Jupiter''s Downtown'
+  name:  'Twin City Bible Church Midtown'
 - fields: 4
   img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
   lat: 40.101327
@@ -145,6 +173,27 @@
   lon: -88.251826
   mus: 2
   name:  'Irina P. Stewart Memorial Plaque'
+- fields: 2
+  img:  'http://lh4.ggpht.com/Mr8XeGiDafWk47NSkxDW3WManlpDnqzQWOT1VE2j0f0jFdh3tCvvntj45n1BJEnHylldZRnpPEOJ8OLeFZI'
+  lat: 40.114405
+  level: 6
+  lon: -88.224198
+  mus: 2
+  name:  'Siebel Center for Computer Science'
+- fields: 1
+  img:  'http://lh3.ggpht.com/aHqOXq4BX_XXhSNRFJn0768z_1bjWEniMumNJ4FMy9Nv5j3AefPsZDiAGCehCguZ1HFOBMBXxRI4mOXd077e'
+  lat: 40.112957
+  level: 6
+  lon: -88.227127
+  mus: 2
+  name:  'Early Computers Plaque'
+- fields: 3
+  img:  'http://lh3.ggpht.com/yeYI3q7rDQLA5xBcWfH-Caw2Uh740ZPRQjjyvOrZz7ZyLI-gxBpi8yqxqDrlOBzG9YHs6YlxdgX0obTpXlQ'
+  lat: 40.117681
+  level: 5
+  lon: -88.241405
+  mus: 2
+  name:  'Jupiter''s Downtown'
 - fields: 1
   img:  'http://lh3.ggpht.com/OwtLBhgC6DoVKIQig8B4LZitIgWrx8rj8ejtnl3FyU2bAwcsRbcardVZSCLCP7U9es_sHo_Ee-iwR_mxOt_V'
   lat: 40.121852
@@ -152,6 +201,20 @@
   lon: -88.219695
   mus: 1
   name:  'Preston Jackson Byways to Equality'
+- fields: 1
+  img:  'http://lh3.ggpht.com/kAxEWb1VdMZ1-OTPwyl-CGWs0lF3FNth0gbxr6aqk6BaG_tfbCZM31s6UWKUY8aFtUA3j2GFL2z6yvu95yz3'
+  lat: 40.115068
+  level: 6
+  lon: -88.228451
+  mus: 1
+  name:  'Electrical and Computer Engineering Building'
+- fields: 1
+  img:  'http://lh5.ggpht.com/f710C9AvOEB7ieCI4f382wWUP4OgDxiqPzbxqxct6Ugf2PWBfyXyDpG_JcRQ6PaZ_jS0jpXXBhNSt_u9rFA'
+  lat: 40.113864
+  level: 6
+  lon: -88.224839
+  mus: 1
+  name:  'Plato: A Social Networking Revolution Begins'
 - fields: 1
   img:  'http://lh5.ggpht.com/EaT0PxhOud4vjm0kHYMit1zq4b2aTjV4M2olWNI-rM0oUVFeEI4kgeWGcrbk_EvcGBz6hwrN_wYLDLK3CUBi'
   lat: 40.088861
