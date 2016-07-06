@@ -119,17 +119,17 @@
   lon: -88.230209
   name:  'Mural on South Sixth Street'
 - ap: 4411
-  img:  'http://lh5.ggpht.com/Zoidr1eUAO2UEM6SyifBpkC3K42Ctl355Krd3S2ZU3BbbIMt1XFKF4C35huJT7a-K1PMF6JCK3ztTnr2Wbc9zw'
-  lat: 40.109178
-  level: 1
-  lon: -88.22945
-  name:  'Pineapple Pillar'
-- ap: 4411
   img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
   lat: 40.108066
   level: 5
   lon: -88.230687
   name:  'Community United Church of Christ'
+- ap: 4411
+  img:  'http://lh5.ggpht.com/Zoidr1eUAO2UEM6SyifBpkC3K42Ctl355Krd3S2ZU3BbbIMt1XFKF4C35huJT7a-K1PMF6JCK3ztTnr2Wbc9zw'
+  lat: 40.109178
+  level: 1
+  lon: -88.22945
+  name:  'Pineapple Pillar'
 - ap: 3661
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.245226
@@ -174,6 +174,18 @@
   name:  'Boots''s Garden'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.243914
+  level: '?'
+  lon: -88.643621
+  name:  'United Methodist'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.24314
+  level: '?'
+  lon: -88.642466
+  name:  '49318246285449e19ab7b796855d480d.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.642323
   level: '?'
   lon: -90.018219
@@ -190,18 +202,6 @@
   level: '?'
   lon: -88.739423
   name:  '67cfdf05d1fe40b597fb0386eb6fb382.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.243914
-  level: '?'
-  lon: -88.643621
-  name:  'United Methodist'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.24314
-  level: '?'
-  lon: -88.642466
-  name:  '49318246285449e19ab7b796855d480d.16'
 - ap: 3474
   img:  'http://lh6.ggpht.com/y9bxecO9Wm4VrE6p2LRWA8XIIUlHlYWbTSZJ6GrJrTpeVtxB7wI7cWjdLkM6gjq_eOk7n-nJOlSJ9WzGjgfG'
   lat: 40.137123
@@ -275,12 +275,6 @@
   lon: -88.251299
   name:  'Amdocs Shelter'
 - ap: 2724
-  img:  'http://lh6.ggpht.com/1El0oK6CWDh7rAQeFmPEW_dA252pdq7piTtjtuQCkZvwRa689NLjEafLqQ35TI5qCW3Lmhja9PLQqKxFs9Ha'
-  lat: 40.110627
-  level: 3
-  lon: -88.227584
-  name:  'Tau Beta Pi Statue'
-- ap: 2724
   img:  'http://lh5.ggpht.com/LPlCgoOAlClRaVCl_B1sHDkn38OgDbXat-l5Q1bDZLP7mOUMfU8pK-o3N8BEqh0vHJcZBHo3iz2AMQKAhot7Tw'
   lat: 40.110833
   level: 4
@@ -293,6 +287,12 @@
   lon: -88.22725
   name:  'Gothic Brass'
 - ap: 2724
+  img:  'http://lh6.ggpht.com/1El0oK6CWDh7rAQeFmPEW_dA252pdq7piTtjtuQCkZvwRa689NLjEafLqQ35TI5qCW3Lmhja9PLQqKxFs9Ha'
+  lat: 40.110627
+  level: 3
+  lon: -88.227584
+  name:  'Tau Beta Pi Statue'
+- ap: 2724
   img:  'http://lh6.ggpht.com/RW34ntixvJkg7fD71TPYo_4KIsBzA0-a-6yXO0jKPbpGxX5gIGC7kBI-pXEF9OHhuolcAGW2fxyK3Pt42Iev'
   lat: 40.110489
   level: 4
@@ -304,6 +304,18 @@
   level: '?'
   lon: -86.277039
   name:  '8fafa20893ed4614b955d258fb37912f.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.04524
+  level: '?'
+  lon: -88.566794
+  name:  '538a09295d354762bf16129fa1b7c7ed.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.931405
+  level: '?'
+  lon: -88.304279
+  name:  'Illini Prairie Historic Plaque'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.312242
@@ -336,6 +348,12 @@
   name:  '3a45fd306eda4e65b42f9e07672cd0cf.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 44.142266
+  level: '?'
+  lon: -87.569224
+  name:  'd42134e4908e4894a099b7dddd44bf31.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.106513
   level: '?'
   lon: -88.5585
@@ -346,24 +364,6 @@
   level: '?'
   lon: -88.369764
   name:  'Bondville United Methodist Church'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 44.142266
-  level: '?'
-  lon: -87.569224
-  name:  'd42134e4908e4894a099b7dddd44bf31.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.04524
-  level: '?'
-  lon: -88.566794
-  name:  '538a09295d354762bf16129fa1b7c7ed.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.931405
-  level: '?'
-  lon: -88.304279
-  name:  'Illini Prairie Historic Plaque'
 - ap: 2537
   img:  'http://lh5.ggpht.com/tuo_ByFTbwLitFP5cBseOibqRxENxbCwOJ30dCnja5ijBI_qBv5vqNP7ZuZXnxhYM6ms_GbExZEwwKVUtwV2'
   lat: 40.093712
@@ -394,21 +394,9 @@
   level: 4
   lon: -88.252282
   name:  'Elsie Mattis Springer Memorial'
-- ap: 2237
+- ap: 2537
   img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
   lat: 40.106921
-  level: 3
+  level: 6
   lon: -88.230145
   name:  'University Lutheran Church'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/2wN9MWxEFPbMzRPAzNmaAiCOQJj_EFr94Y1YkQP_wMlyajkajmcw00gqW-EluMvpQmvnGgcQ-WdPxjcYTmr2'
-  lat: 40.106519
-  level: 7
-  lon: -88.223748
-  name:  'Thunderbird Theatre Mosaic'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/lGjbP2iz0XvlEWLhgCBNqkWukvjrBowKmX-1_O44U1A3_4b3-vuXzkfp7rasqU81TcPBoQO82gAzEGtBBYcR'
-  lat: 40.106058
-  level: 4
-  lon: -88.223672
-  name:  'Music Building'
