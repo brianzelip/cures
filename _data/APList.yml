@@ -119,17 +119,17 @@
   lon: -88.230209
   name:  'Mural on South Sixth Street'
 - ap: 4411
-  img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
-  lat: 40.108066
-  level: 5
-  lon: -88.230687
-  name:  'Community United Church of Christ'
-- ap: 4411
   img:  'http://lh5.ggpht.com/Zoidr1eUAO2UEM6SyifBpkC3K42Ctl355Krd3S2ZU3BbbIMt1XFKF4C35huJT7a-K1PMF6JCK3ztTnr2Wbc9zw'
   lat: 40.109178
   level: 1
   lon: -88.22945
   name:  'Pineapple Pillar'
+- ap: 4411
+  img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
+  lat: 40.108066
+  level: 5
+  lon: -88.230687
+  name:  'Community United Church of Christ'
 - ap: 3661
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.245226
@@ -275,6 +275,12 @@
   lon: -88.251299
   name:  'Amdocs Shelter'
 - ap: 2724
+  img:  'http://lh6.ggpht.com/1El0oK6CWDh7rAQeFmPEW_dA252pdq7piTtjtuQCkZvwRa689NLjEafLqQ35TI5qCW3Lmhja9PLQqKxFs9Ha'
+  lat: 40.110627
+  level: 3
+  lon: -88.227584
+  name:  'Tau Beta Pi Statue'
+- ap: 2724
   img:  'http://lh5.ggpht.com/LPlCgoOAlClRaVCl_B1sHDkn38OgDbXat-l5Q1bDZLP7mOUMfU8pK-o3N8BEqh0vHJcZBHo3iz2AMQKAhot7Tw'
   lat: 40.110833
   level: 4
@@ -286,12 +292,6 @@
   level: 4
   lon: -88.22725
   name:  'Gothic Brass'
-- ap: 2724
-  img:  'http://lh6.ggpht.com/1El0oK6CWDh7rAQeFmPEW_dA252pdq7piTtjtuQCkZvwRa689NLjEafLqQ35TI5qCW3Lmhja9PLQqKxFs9Ha'
-  lat: 40.110627
-  level: 3
-  lon: -88.227584
-  name:  'Tau Beta Pi Statue'
 - ap: 2724
   img:  'http://lh6.ggpht.com/RW34ntixvJkg7fD71TPYo_4KIsBzA0-a-6yXO0jKPbpGxX5gIGC7kBI-pXEF9OHhuolcAGW2fxyK3Pt42Iev'
   lat: 40.110489
@@ -330,12 +330,6 @@
   name:  'f87bcd5251964920aeee2b3093ac8a54.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.196926
-  level: '?'
-  lon: -88.366258
-  name:  'Filippos Pizza and Italian Food'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.353743
   level: '?'
   lon: -90.371755
@@ -364,6 +358,12 @@
   level: '?'
   lon: -88.369764
   name:  'Bondville United Methodist Church'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.196926
+  level: '?'
+  lon: -88.366258
+  name:  'Filippos Pizza and Italian Food'
 - ap: 2537
   img:  'http://lh5.ggpht.com/tuo_ByFTbwLitFP5cBseOibqRxENxbCwOJ30dCnja5ijBI_qBv5vqNP7ZuZXnxhYM6ms_GbExZEwwKVUtwV2'
   lat: 40.093712
