@@ -736,7 +736,7 @@
 - fields: 1
   img:  'http://lh5.ggpht.com/UqXYqye47hduomPQ0uDZzGn8oRDr3DxS9IPgrxwqDxyEL4inNje2y1x91U0amanBOJ-ktkcAawhfwRZqKWeF'
   lat: 40.064726
-  level: 7
+  level: 4
   lon: -88.250272
   mus: 319
   name:  'Elks Lodge #2497'
@@ -914,7 +914,7 @@
   level: 6
   lon: -88.205286
   mus: 224
-  name:  'Blair Park Viewing Pavillion'
+  name:  'Blair Park Viewing Pavilion'
 - fields: 2
   img:  'http://lh5.ggpht.com/xcqe13f85fuXohGUUBZkNrUU1PunkcZ6xMNmHpAp0GJBtydVqCCGj5MqP3Uax4M7Qq4JzDFGqICFrFb6PNEXRw'
   lat: 40.08932
@@ -1037,7 +1037,7 @@
 - fields: 2
   img:  'http://lh3.ggpht.com/fvQtXA7uQ_ump_R8JixzV9ndFr5gVzIttL7RP9cD1MYPv5sui8NvcUwgkO7V83M9DpRjiqE505roZ62DjPgHCQ'
   lat: 40.122254
-  level: 5
+  level: 6
   lon: -88.219635
   mus: 185
   name:  'King Park 1967'
@@ -1219,7 +1219,7 @@
 - fields: 2
   img:  'http://lh3.ggpht.com/OtT56RocwPxPgcve6b9P9h4GvUFT5XVlsBBqmCg-K8i6I1c-3RVRip5KtAoqlaUqE2BUkSwl8clISDit9EU'
   lat: 40.119453
-  level: 5
+  level: 6
   lon: -88.219746
   mus: 118
   name:  'Family Video'
@@ -1240,7 +1240,7 @@
 - fields: 2
   img:  'http://lh3.ggpht.com/OwtLBhgC6DoVKIQig8B4LZitIgWrx8rj8ejtnl3FyU2bAwcsRbcardVZSCLCP7U9es_sHo_Ee-iwR_mxOt_V'
   lat: 40.121852
-  level: 5
+  level: 6
   lon: -88.219695
   mus: 113
   name:  'Preston Jackson Byways to Equality'
@@ -1776,6 +1776,13 @@
   lon: -88.249381
   mus: 33
   name:  'Bicentennial Tree'
+- fields: 2
+  img:  'http://lh6.ggpht.com/s0NjKuARUySFKyN76g9Vr1UymiO5a-Ev822C0UEiLqAFzFggW39lRKoYierDtj89xVWRDioyodaQ1Ve0SGBBXA'
+  lat: 40.121861
+  level: 3
+  lon: -88.198042
+  mus: 33
+  name:  'Chief Shemauger Park'
 - fields: 3
   img:  'http://lh4.ggpht.com/m41WytddHvUQZQvwN8vv-Mf6LHne1_3LkN4y39ZCxrwY2v0-Q7lDbE63wlDSkhpMjG7OxDM0LO5Sh9DNyjo4lbZBu-mAykPo3qPOd6orSfwlfucL'
   lat: 40.099946
@@ -1951,13 +1958,6 @@
   lon: -88.209395
   mus: 21
   name:  'Boneyard Whales Sculpture'
-- fields: 1
-  img:  'http://lh6.ggpht.com/s0NjKuARUySFKyN76g9Vr1UymiO5a-Ev822C0UEiLqAFzFggW39lRKoYierDtj89xVWRDioyodaQ1Ve0SGBBXA'
-  lat: 40.121861
-  level: 3
-  lon: -88.198042
-  mus: 20
-  name:  'Chief Shemauger Park'
 - fields: 4
   img:  'http://lh3.ggpht.com/mH9oKWk-phPYmQF0ge48xB3OAch9161ZF0yJS5uGLtF8Hv4c7JZjcHweRyEF7yWhjzuN4sLJzH5MIu2dLa_F'
   lat: 40.084503
@@ -2119,6 +2119,20 @@
   lon: -88.249061
   mus: 14
   name:  'Randy William Auteberry Memorial'
+- fields: 1
+  img:  'http://lh4.ggpht.com/lmmAipLLlemZCx_GvFWKPFhu7DSZrKSc3OxReeZJ15aabG51w3_L9IdcpKrku-QUoKanND7aZEBZIToeu8ha'
+  lat: 40.120805
+  level: 3
+  lon: -88.201892
+  mus: 14
+  name:  'American Veterans Memorial'
+- fields: 1
+  img:  'http://lh4.ggpht.com/vKiU-Z9PbuWMTBST_ry96h11Nf1d5ooex1Fl5imVUtCPpaeGwy3JDVmhziEnAAySe8NXWHfT5stQGA2BQg9J1g'
+  lat: 40.122111
+  level: 3
+  lon: -88.200203
+  mus: 14
+  name:  'Dane Michael Sherr Memorial '
 - fields: 2
   img:  'http://lh5.ggpht.com/V9AFUiWKES88x0FruZILBXEBv1d476XQMgH8JsCHDQgvjDvk95Mgjf5vcl-Nx7CkPvfhwVGIrvB1EA5Tlh2j'
   lat: 40.132437
