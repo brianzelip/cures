@@ -1555,7 +1555,7 @@
 - fields: 1
   img:  'http://lh4.ggpht.com/7Nqa47hr7fGsLlGODwM5wZ-HxHiGAz1aCc5kf53Tl_9yWg_eH1xf1s8KyDn3SMg5pFQuLaSb_ZYR_5ejO-Y'
   lat: 40.100824
-  level: 7
+  level: 5
   lon: -88.270121
   mus: 55
   name:  'Mayfair Park'
@@ -1734,13 +1734,6 @@
   lon: -88.249381
   mus: 33
   name:  'Bicentennial Tree'
-- fields: 2
-  img:  'http://lh6.ggpht.com/s0NjKuARUySFKyN76g9Vr1UymiO5a-Ev822C0UEiLqAFzFggW39lRKoYierDtj89xVWRDioyodaQ1Ve0SGBBXA'
-  lat: 40.121861
-  level: 3
-  lon: -88.198042
-  mus: 33
-  name:  'Chief Shemauger Park'
 - fields: 3
   img:  'http://lh4.ggpht.com/m41WytddHvUQZQvwN8vv-Mf6LHne1_3LkN4y39ZCxrwY2v0-Q7lDbE63wlDSkhpMjG7OxDM0LO5Sh9DNyjo4lbZBu-mAykPo3qPOd6orSfwlfucL'
   lat: 40.099946
@@ -1916,6 +1909,13 @@
   lon: -88.209395
   mus: 21
   name:  'Boneyard Whales Sculpture'
+- fields: 1
+  img:  'http://lh6.ggpht.com/s0NjKuARUySFKyN76g9Vr1UymiO5a-Ev822C0UEiLqAFzFggW39lRKoYierDtj89xVWRDioyodaQ1Ve0SGBBXA'
+  lat: 40.121861
+  level: 3
+  lon: -88.198042
+  mus: 20
+  name:  'Chief Shemauger Park'
 - fields: 4
   img:  'http://lh3.ggpht.com/mH9oKWk-phPYmQF0ge48xB3OAch9161ZF0yJS5uGLtF8Hv4c7JZjcHweRyEF7yWhjzuN4sLJzH5MIu2dLa_F'
   lat: 40.084503
@@ -1926,7 +1926,7 @@
 - fields: 4
   img:  'http://lh5.ggpht.com/NV7qwJUoztAVld_2ohxeFi790MJW_YB_4wO5YfsQW08MmR00yciAjfep2xtLeKFLE8QDlUFSiwbp3Rw2jjag'
   lat: 40.09841
-  level: 6
+  level: 7
   lon: -88.205103
   mus: 19
   name:  'J C Blair Monument '
@@ -2077,20 +2077,6 @@
   lon: -88.249061
   mus: 14
   name:  'Randy William Auteberry Memorial'
-- fields: 1
-  img:  'http://lh4.ggpht.com/lmmAipLLlemZCx_GvFWKPFhu7DSZrKSc3OxReeZJ15aabG51w3_L9IdcpKrku-QUoKanND7aZEBZIToeu8ha'
-  lat: 40.120805
-  level: 3
-  lon: -88.201892
-  mus: 14
-  name:  'American Veterans Memorial'
-- fields: 1
-  img:  'http://lh4.ggpht.com/vKiU-Z9PbuWMTBST_ry96h11Nf1d5ooex1Fl5imVUtCPpaeGwy3JDVmhziEnAAySe8NXWHfT5stQGA2BQg9J1g'
-  lat: 40.122111
-  level: 4
-  lon: -88.200203
-  mus: 14
-  name:  'Dane Michael Sherr Memorial '
 - fields: 2
   img:  'http://lh5.ggpht.com/V9AFUiWKES88x0FruZILBXEBv1d476XQMgH8JsCHDQgvjDvk95Mgjf5vcl-Nx7CkPvfhwVGIrvB1EA5Tlh2j'
   lat: 40.132437
@@ -3365,6 +3351,27 @@
   lon: -88.208554
   mus: 1
   name:  'Error Records'
+- fields: 1
+  img:  'http://lh4.ggpht.com/qj7RZgjywjmhALnf1YyB5hWBrpO3hxjXZJdOzfE7YYV0p_vq9KA8GrgL9SfBHf_Ry3MVzMy1iJ6pAOkYL_lT'
+  lat: 40.119118
+  level: 6
+  lon: -88.24584
+  mus: 1
+  name:  'Amvets Post 3'
+- fields: 1
+  img:  'http://lh6.ggpht.com/5m_DdlbswQXPJueGjlDknXPY3RqwtwdrWAsNLBfbSNENcdAw3oafNYp_YTPk5KmZZpY5M4zwdxKoE9Tq5kDv'
+  lat: 40.118985
+  level: 4
+  lon: -88.245285
+  mus: 1
+  name:  'The Little Brick Memorial'
+- fields: 1
+  img:  'http://lh4.ggpht.com/FAqopsayR2vfoblDs12USLGHxH0S1lfng6IlvgMPO2k4a1fKXYQnDWf0Lbf3zAqLfMU0aGaHpSZxycRqft9pmQ'
+  lat: 40.119381
+  level: 5
+  lon: -88.24555
+  mus: 1
+  name:  'The Lodge on Hill'
 - fields: 1
   img:  'http://lh6.ggpht.com/453A5_wF0LdRJVZ1XnGIiUxghQgaxxiiv105HgvefLvU1eXqU6MLfIs0sLt0LGyVMugGuMvm0AKXq91t2sxZGEV2kNlMux2B3vOeFxvmUX2SQLUm'
   lat: 40.100927
