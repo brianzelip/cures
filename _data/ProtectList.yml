@@ -722,7 +722,7 @@
 - fields: 4
   img:  'http://lh5.ggpht.com/BiCieN-kLaA8XtzYGa1FowWTlW2QzWtnxSCf1y1ChY9WXw1kN0r1Co49FI5D_xcWRrgO-_wOvqfduWQ2o337'
   lat: 40.092411
-  level: 6
+  level: 7
   lon: -88.257688
   mus: 537
   name:  'Champaign Fire Department'
@@ -778,7 +778,7 @@
 - fields: 3
   img:  'http://lh5.ggpht.com/ol0RXlyBNe6HMdo476xfY8RSKSHpownpuvzXzt79iXCP5m5YSzxfK5L7hdm7bLVjLavR90KL_lSCQnAXcrQ'
   lat: 40.075288
-  level: 7
+  level: 3
   lon: -88.256822
   mus: 513
   name:  'First Baptist Church of Savoy'
@@ -1846,6 +1846,13 @@
   lon: -88.226519
   mus: 73
   name:  'The Morrow Plots'
+- fields: 3
+  img:  'http://lh3.googleusercontent.com/JtDKcaLvXa-az4aUAoga4ikpwAKEsCsSIgnN9eVPp7q2Tiynz0iyg5e2mk0InXRsJclU6axBXOMi3NcfABUd'
+  lat: 40.110065
+  level: 7
+  lon: -88.225155
+  mus: 73
+  name:  'Wesley United Methodist Church'
 - fields: 10
   img:  'http://lh5.ggpht.com/6iSvulYqf18jvvkjbKbtokZ1zczL5ZsEsgNJtpDT61eVwi5FIfifwQk2brM7UkcTtJNOdADLVtXIO7HCrlQ'
   lat: 40.068731
@@ -1986,6 +1993,13 @@
   lon: -88.238588
   mus: 57
   name:  'Beautiful Storm'
+- fields: 3
+  img:  'http://lh3.ggpht.com/lGjbP2iz0XvlEWLhgCBNqkWukvjrBowKmX-1_O44U1A3_4b3-vuXzkfp7rasqU81TcPBoQO82gAzEGtBBYcR'
+  lat: 40.106058
+  level: 6
+  lon: -88.223672
+  mus: 56
+  name:  'Music Building'
 - fields: 3+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.204951
@@ -2070,6 +2084,13 @@
   lon: -88.257966
   mus: 48
   name:  'Grace Lutheran Church'
+- fields: 5
+  img:  'http://lh6.ggpht.com/-flzg4lDDrUKk9tz52QmAPy1_59-9KbIO96Br3rNDxK1nmopyzD21z31JQVdJNJHB-Cy6IsEX0VwBbVwvd5r'
+  lat: 40.104256
+  level: 7
+  lon: -88.225268
+  mus: 48
+  name:  'Institute of Genomic Biology Gateway'
 - fields: 4
   img:  'http://lh5.ggpht.com/fXiNwkXmSX8fZHrMNMMOKDwrDe3QmmqOh1_M_Ycr5y5MtYCkhec8mczY1v29LvWHTFwsN9dS5HYQnaX-NGjoAQ'
   lat: 40.118435
@@ -2133,13 +2154,6 @@
   lon: -88.222487
   mus: 36
   name:  'Alpha Tau Omega Fraternity'
-- fields: 2
-  img:  'http://lh3.googleusercontent.com/JtDKcaLvXa-az4aUAoga4ikpwAKEsCsSIgnN9eVPp7q2Tiynz0iyg5e2mk0InXRsJclU6axBXOMi3NcfABUd'
-  lat: 40.110065
-  level: 7
-  lon: -88.225155
-  mus: 36
-  name:  'Wesley United Methodist Church'
 - fields: 2
   img:  'http://lh3.googleusercontent.com/gpGzJr91_lgUUP0yFzOw7f73u1KCTHGmlMUsqeRxgh0ghaH52FLAkmqJBZR18ygp-a1LnrhcY88SB4VhPTqd'
   lat: 40.191274
@@ -2413,13 +2427,6 @@
   lon: -88.240632
   mus: 21
   name:  'Wire Animals'
-- fields: 2
-  img:  'http://lh3.ggpht.com/lGjbP2iz0XvlEWLhgCBNqkWukvjrBowKmX-1_O44U1A3_4b3-vuXzkfp7rasqU81TcPBoQO82gAzEGtBBYcR'
-  lat: 40.106058
-  level: 6
-  lon: -88.223672
-  mus: 20
-  name:  'Music Building'
 - fields: 4
   img:  'http://lh3.ggpht.com/nEmxwddo6XwjpSBtzzXHCx_v9wYD5ITuVRx4VF0emrxiLFZGpsBb4HkcXFS4BAR3ZhrmD8t2YDKEWF7NGxV7'
   lat: 40.099595
@@ -2707,13 +2714,6 @@
   lon: -88.402047
   mus: 11
   name:  'Cornbelt Fire Fighter''s Memorial'
-- fields: 4
-  img:  'http://lh6.ggpht.com/-flzg4lDDrUKk9tz52QmAPy1_59-9KbIO96Br3rNDxK1nmopyzD21z31JQVdJNJHB-Cy6IsEX0VwBbVwvd5r'
-  lat: 40.104256
-  level: 7
-  lon: -88.225268
-  mus: 11
-  name:  'Institute of Genomic Biology Gateway'
 - fields: 3
   img:  'http://lh3.ggpht.com/RPwmqKgDoVBfLknuC-LM6Vvni6av9IgVxpZapS8lQSDH-fHokPS_j6pH-R9dax4sKqOB5naETVESobfZWDrC'
   lat: 40.102705
