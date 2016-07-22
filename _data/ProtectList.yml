@@ -575,7 +575,7 @@
 - fields: 8
   img:  'http://lh3.ggpht.com/7sJlWdBFFcLCXWnnfB6SVTzCCDM0Q7KyV5jALfrWG3ICtkw7HXrjzaRrnzSiv19wIswpZoTxKYudzYiZnT9Shg'
   lat: 40.112536
-  level: 7
+  level: 8
   lon: -88.256779
   mus: 746
   name:  'Framer''s Market'
@@ -1212,7 +1212,7 @@
 - fields: 4
   img:  'http://lh6.ggpht.com/bVah4kWjWmyX3pJo6Wm113MfLITgNjQ1c4_n3VyikOfFhFyfe_ThgjbzN3rwaiI5fnN_pS87hFb9PEAdBsZaBQ'
   lat: 40.107945
-  level: 6
+  level: 7
   lon: -88.188527
   mus: 219
   name:  'Brookens Administrative Center'
@@ -1737,7 +1737,7 @@
 - fields: 4
   img:  'http://lh3.ggpht.com/_CmMOfi2PqTv1S_kKyTIXg3gslk5AbH-pFLizpe8WbXoFdbGuJr3TPxjhKMQ-S_aFIIqHqtyZcTahtz_9DVe'
   lat: 40.105857
-  level: 6
+  level: 7
   lon: -88.188478
   mus: 85
   name:  'Brookens Administrative Center'
@@ -1811,13 +1811,6 @@
   lon: -88.237181
   mus: 75
   name:  'Illinois National Guard Armory'
-- fields: 7
-  img:  'http://lh4.ggpht.com/EsyXMnqVMX7wQ4YmoCFRiNljaJqaXrQvzyzzooqx2fPxCSkJMkdEssTbf618D8Qp9hh3E4Ud3hL1M3v-TsbO'
-  lat: 40.104688
-  level: 7
-  lon: -88.230676
-  mus: 75
-  name:  'Sousa Archives Center-Amer Music'
 - fields: 1
   img:  'http://lh3.ggpht.com/txXhB2-_UCJMArJ1qjOILOTPjtbhyo6om4p4YXyjlOzzr2enJIG2FUjsjF1HqF3ydLX8gPkmxC6cdia0zaBh'
   lat: 40.110333
@@ -1825,6 +1818,13 @@
   lon: -88.20874
   mus: 75
   name:  'First United Methodist Church of Urbana'
+- fields: 6
+  img:  'http://lh4.ggpht.com/EsyXMnqVMX7wQ4YmoCFRiNljaJqaXrQvzyzzooqx2fPxCSkJMkdEssTbf618D8Qp9hh3E4Ud3hL1M3v-TsbO'
+  lat: 40.104688
+  level: 7
+  lon: -88.230676
+  mus: 74
+  name:  'Sousa Archives Center-Amer Music'
 - fields: 2
   img:  'http://lh3.ggpht.com/5jYVsmaWJU0f8zVo2s_GfQ8mtVZTRQdgkF6Lz4nZKshBOXkqOj2I-34881x1ViUkWSd5_DHAtnoHpOzyGkMwnw'
   lat: 40.100785
@@ -2836,7 +2836,7 @@
 - fields: 2
   img:  'http://lh6.ggpht.com/yyeYUYh4CQUjDkChdMYxhBGtyVNFeOxie-Qo2rFmwnp6dxmIx6wYlfyU88vIxtwULKprz84mi2fmqu2vMOo'
   lat: 40.114764
-  level: 6
+  level: 3
   lon: -88.20772
   mus: 10
   name:  'Station Theatre Memory Bench  '
@@ -3127,13 +3127,6 @@
   lon: -88.231968
   mus: 6
   name:  'Potbelly Mural'
-- fields: 2
-  img:  'http://lh4.ggpht.com/lHmHpXRMH_OkQ_ZaCBKOe_1H4uKjbGtrlIrp1IWJE3ziHuH5jCVNEfDGTtuhBxGehg_MsT9WcAUXhpI692Y6_Q'
-  lat: 40.103269
-  level: 6
-  lon: -88.231487
-  mus: 6
-  name:  'Culture on the Prairie'
 - fields: 5
   img:  'http://lh4.ggpht.com/kikXgFanbehTzblqLlN2WzEcVgfnP2HD4JE7GI1GOKTu44g13lknkSsdu9prj71y0zKIBFJv_0RIkFW3vXY'
   lat: 40.117574
@@ -3225,6 +3218,13 @@
   lon: -88.247614
   mus: 5
   name:  'Mary Shaw Memorial Tree'
+- fields: 1
+  img:  'http://lh4.ggpht.com/lHmHpXRMH_OkQ_ZaCBKOe_1H4uKjbGtrlIrp1IWJE3ziHuH5jCVNEfDGTtuhBxGehg_MsT9WcAUXhpI692Y6_Q'
+  lat: 40.103269
+  level: 6
+  lon: -88.231487
+  mus: 5
+  name:  'Culture on the Prairie'
 - fields: 6
   img:  'http://lh6.ggpht.com/QKHOcl5WKE1EB7Y8PfPqhuJQN7SxpWIvLb13vJp2KJC61ToSi1evTEpgeOtPjAfKuIlQnBq1tApVM5TwJHI'
   lat: 40.118042
@@ -3736,13 +3736,6 @@
   lon: -88.228411
   mus: 1
   name:  'John Milton Gregory''s Grave'
-- fields: 1
-  img:  'http://lh4.ggpht.com/tLX-6Ub72fZQHiUgdDlTCFdgJMzvyICnd3BUZ2CkMd1kPhODSr7FDW_rVkZTBZ11U6gjZULvMZGnHcm4p1wo'
-  lat: 40.10309
-  level: 6
-  lon: -88.23142
-  mus: 1
-  name:  'Gelvin Garden'
 - fields: 1
   img:  'http://lh6.ggpht.com/rbEeQxbZyvrUu5nCQma0PzHtlA4cmaa9jItLke0b5KBmVlYP0q0d9OYg0_jrSi-8RiYOSdJklSevnYpoyjBWgA'
   lat: 40.118265
