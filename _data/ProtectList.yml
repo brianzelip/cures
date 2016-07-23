@@ -82,13 +82,6 @@
   lon: -88.163907
   mus: 4892
   name:  'Urbana Post Office'
-- fields: 5
-  img:  'http://lh4.ggpht.com/MnvRIwYBCscNCKIRmPyogxsZdt_OF6dC0mIsI1_2fddZFlc88Sg9wNyU9Ne9q-cY0RUa5VFafv4C5f5-pxVpWg'
-  lat: 40.069376
-  level: 7
-  lon: -88.257672
-  mus: 4819
-  name:  'Friendship Crossing'
 - fields: 10
   img:  'http://lh4.ggpht.com/vbIH-PkUCBuwDTIRXA4p5jtGQ86SqYlc1e-g3Y9Ef2zaSb0ozkDD41Iq51orLhtPyShj4UzC6CPn0Unt8SY'
   lat: 40.145108
@@ -110,6 +103,13 @@
   lon: -88.191486
   mus: 4392
   name:  'First Baptist Church'
+- fields: 4
+  img:  'http://lh4.ggpht.com/MnvRIwYBCscNCKIRmPyogxsZdt_OF6dC0mIsI1_2fddZFlc88Sg9wNyU9Ne9q-cY0RUa5VFafv4C5f5-pxVpWg'
+  lat: 40.069376
+  level: 7
+  lon: -88.257672
+  mus: 4292
+  name:  'Friendship Crossing'
 - fields: 16
   img:  'http://lh5.ggpht.com/e6wN_SlFuF59rOEwuU8BCPeT0WsXneW_OcsXpZ75pgQd0PQSfnKhmLyrK5PDkisRwjV2DfAfVp7T3ryHoGKX4A'
   lat: 40.076779
@@ -817,20 +817,6 @@
   lon: -88.295589
   mus: 534
   name:  'First Church of God'
-- fields: 1
-  img:  'http://lh3.ggpht.com/tdu3bjmeuTXiLc7ATdhBIJ1GSsUFTH_HZjBM8a6z1ApCHAB_h-CHksIMvnOlXJER3hvbQ6mShDusY6szFHxI'
-  lat: 40.057709
-  level: 7
-  lon: -88.25608
-  mus: 527
-  name:  'Savoy Recreation Center'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.036075
-  level: '?'
-  lon: -88.264318
-  mus: 527
-  name:  '9f2f971836014926a61e41b7cbd64fb0.16'
 - fields: 5
   img:  'http://lh6.ggpht.com/9ocSZtxwhI0ZOXkGFEbDOH1572LrymOwYpROz-hP90Uk4BAS8FIjCB4GXt2ndpQrlEV-tG4qc0zoMlk9693z'
   lat: 40.12977
@@ -2577,7 +2563,7 @@
 - fields: 4
   img:  'http://lh3.googleusercontent.com/EvLov_3eYLGHotkWec9w3T1VCPQri5SR8JLZjbJUaxRsyGPLS4YQNXf90xlPoKjxGYlml9N8IDYKwpNvVIWlVA'
   lat: 40.114563
-  level: 5
+  level: 6
   lon: -88.228735
   mus: 18
   name:  'End Caps Sculpture at ECE'
@@ -3732,7 +3718,7 @@
 - fields: 1
   img:  'http://lh5.ggpht.com/kFv3Fx8zK5B4yXG5EhAGfNrmlQna8VDnlFgMaIk7ajlsW3Ny-Yfw29Cr2OQ2sWLRpbmRiiylV_DipCt1ozA5'
   lat: 40.116215
-  level: 5
+  level: 6
   lon: -88.238153
   mus: 2
   name:  'Knoxville Station'
