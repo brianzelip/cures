@@ -103,13 +103,6 @@
   lon: -88.257672
   mus: 4292
   name:  'Friendship Crossing'
-- fields: 10
-  img:  'http://lh5.ggpht.com/JWnYHkJG0nab4r1ficE77w9SnzFDf6DTZ-6WlD1TC1LZp1KDiEjRqUlET-pWAycwMENIelAYkMxQJCx4Niil'
-  lat: 40.098104
-  level: 6
-  lon: -88.292802
-  mus: 4233
-  name:  'Stratford Park Bible Chapel'
 - fields: 15
   img:  'http://lh5.ggpht.com/e6wN_SlFuF59rOEwuU8BCPeT0WsXneW_OcsXpZ75pgQd0PQSfnKhmLyrK5PDkisRwjV2DfAfVp7T3ryHoGKX4A'
   lat: 40.076779
@@ -117,6 +110,13 @@
   lon: -88.249144
   mus: 4092
   name:  'Triptych Brewing'
+- fields: 8
+  img:  'http://lh5.ggpht.com/JWnYHkJG0nab4r1ficE77w9SnzFDf6DTZ-6WlD1TC1LZp1KDiEjRqUlET-pWAycwMENIelAYkMxQJCx4Niil'
+  lat: 40.098104
+  level: 6
+  lon: -88.292802
+  mus: 3961
+  name:  'Stratford Park Bible Chapel'
 - fields: 11
   img:  'http://lh6.ggpht.com/m3dZgxR8wnyRzox-3ZP4-LHNEEdyXpj_mwwFjAQW2cC5O2CtFGT8EpOlrSvwGKeBt7Kl5vhdHNZlui0wBGLPMg'
   lat: 40.090953
@@ -404,13 +404,6 @@
   lon: -88.190413
   mus: 1072
   name:  'St Matthew Lutheran Church'
-- fields: 8
-  img:  'http://lh5.ggpht.com/tZ1lEGRzdFJ7k1jwj0PTGd3tWVTGqCHIb1LcRdjc2pF5IJjsuYFFPQgwEWSBaPapa89oOEPXO_g2XWQxQl2h'
-  lat: 40.110212
-  level: 8
-  lon: -88.276899
-  mus: 1024
-  name:  'St John Lutheran Church'
 - fields: 5
   img:  'http://lh5.ggpht.com/_eMBd3V1rEFztJvtBkssKVH7eM-jiU3l9VJJ-kj6SxGZMx_7Qo6G4yjfsws8T1FhIEFwk7yvoicm8XTVERh4'
   lat: 40.084405
@@ -510,26 +503,12 @@
   mus: 771
   name:  'Illinois American Water Tower'
 - fields: 4
-  img:  'http://lh5.ggpht.com/dnj__uItXDR_xj-g5PNpGYPNjJCPBFpsx3w9sWxvrOlayO6nyG_Qu8MygtuFZm9i4L2Gho0fkOACtzkGR_e2wQ'
-  lat: 40.098457
-  level: 7
-  lon: -88.276763
-  mus: 748
-  name:  'Mini Park IV'
-- fields: 4
   img:  'http://lh4.ggpht.com/0pYkppjw5D-G0gCZ1pULK83NAqN9qsyzbBnG8K8YMyMekJwqUrZQDRpTqgqB3rrRD6zJezplE_wlFOTPLovb'
   lat: 40.127745
   level: 7
   lon: -88.287039
   mus: 739
   name:  'Parkland College'
-- fields: 2
-  img:  'http://lh3.ggpht.com/M4bKZ-CKQxZ9kYbwoDe79j6v5hIrWVwAcRzAUm9hg6fREm0ubCBwul695BAa_BhnyxOXdXIub7UvBaqxHnk'
-  lat: 40.098803
-  level: 4
-  lon: -88.283425
-  mus: 706
-  name:  'Taylor Memorial'
 - fields: 9
   img:  'http://lh6.ggpht.com/yoGdHEqpRRqOE5pA5wHdi_ismU_TrB-kTiqVV63EO630KsU608TIfjLijcqJ38At7MyyrE2urWFMPY1Sops'
   lat: 40.118121
@@ -558,6 +537,13 @@
   lon: -88.273
   mus: 656
   name:  'Wisegarver Park'
+- fields: 6
+  img:  'http://lh5.ggpht.com/tZ1lEGRzdFJ7k1jwj0PTGd3tWVTGqCHIb1LcRdjc2pF5IJjsuYFFPQgwEWSBaPapa89oOEPXO_g2XWQxQl2h'
+  lat: 40.110212
+  level: 8
+  lon: -88.276899
+  mus: 653
+  name:  'St John Lutheran Church'
 - fields: 7
   img:  'http://lh4.ggpht.com/BDVsIEWOaH0zZsTgU8IbvmVNJTrl3EljfhNXeVt4C2BILNtXm5hpAq_6mLrTl66aJcUyYv4hFJKhxedLkKo'
   lat: 40.11679
@@ -565,20 +551,20 @@
   lon: -88.281854
   mus: 643
   name:  'International Society of Arboriculture'
-- fields: 4
-  img:  'http://lh4.ggpht.com/Tpl5ga1h9vBjG88A6xRDnvBxx7F1epdVZYUY-FNnoOS6H_0OkWXC-RqCtNsk5WSZcOBwMvdY56QCHo0hvoE'
-  lat: 40.102744
+- fields: 3
+  img:  'http://lh5.ggpht.com/dnj__uItXDR_xj-g5PNpGYPNjJCPBFpsx3w9sWxvrOlayO6nyG_Qu8MygtuFZm9i4L2Gho0fkOACtzkGR_e2wQ'
+  lat: 40.098457
   level: 7
-  lon: -88.277916
-  mus: 641
-  name:  'Church of God in Christ'
-- fields: 4
-  img:  'http://lh5.ggpht.com/sqU8xLyuUa0qEs4nseR0qEri8aqhKKeM_ImO5hcv327_AbtUCg1inFfdyRyJKj965p6zJaQ4jKefkCYkKOY'
-  lat: 40.101536
-  level: 3
-  lon: -88.28494
-  mus: 606
-  name:  'Patricia H. Leonhard Recreation Center'
+  lon: -88.276763
+  mus: 621
+  name:  'Mini Park IV'
+- fields: 1
+  img:  'http://lh3.ggpht.com/M4bKZ-CKQxZ9kYbwoDe79j6v5hIrWVwAcRzAUm9hg6fREm0ubCBwul695BAa_BhnyxOXdXIub7UvBaqxHnk'
+  lat: 40.098803
+  level: 4
+  lon: -88.283425
+  mus: 599
+  name:  'Taylor Memorial'
 - fields: 4
   img:  'http://lh3.ggpht.com/ZKYFxa4_Jj-OpytEiNkFmQOVv42zvLK_5wEHxLncanKrdr7RjjSoG_UYFDX0CmCUupuU2d0MGQ3l1pbl0zF1'
   lat: 40.083873
@@ -992,6 +978,13 @@
   lon: -88.30035
   mus: 310
   name:  'Barb Babb Memorial Plaque'
+- fields: 2
+  img:  'http://lh4.ggpht.com/Tpl5ga1h9vBjG88A6xRDnvBxx7F1epdVZYUY-FNnoOS6H_0OkWXC-RqCtNsk5WSZcOBwMvdY56QCHo0hvoE'
+  lat: 40.102744
+  level: 7
+  lon: -88.277916
+  mus: 307
+  name:  'Church of God in Christ'
 - fields: 10
   img:  'http://lh3.ggpht.com/WWhYcmz7SmE72z0SL44DRgW7htbIekUCuGiMB3k2U4oqOpii2n2vl1T7LX91Izu4VR89_uvBjK0HYR2KBM8'
   lat: 40.100276
