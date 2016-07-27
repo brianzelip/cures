@@ -15,7 +15,7 @@
 - fields: 8
   img:  'http://lh5.ggpht.com/-NsKnESr9uZb4z_j68xVZ0wUqdmw2w55j8GyLVxett1cBDOwLzwVF7FZY3yZZyTPCZeRYEynakch-pYO6GhZ'
   lat: 40.084056
-  level: 4
+  level: 2
   lon: -88.328738
   mus: 13016
   name:  'Champaign Bark District'
@@ -194,6 +194,13 @@
   lon: -88.330704
   mus: 2655
   name:  'Champaign SDA School'
+- fields: 6+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.186782
+  level: '?'
+  lon: -88.375899
+  mus: 2591
+  name:  'Mahomet Public Library'
 - fields: 9
   img:  'http://lh4.ggpht.com/Oy0NzvODUpd5270gnNUQqxf4w1YUNzMwDdncW6PvKUb3y_ptImObTW3rbbHp_OYEUKTR37L61q3yuYr1GRSV'
   lat: 40.090259
@@ -229,6 +236,13 @@
   lon: -88.295155
   mus: 2155
   name:  'Savoy United Methodist Church'
+- fields: 4+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.178925
+  level: '?'
+  lon: -88.408076
+  mus: 2153
+  name:  'Community Free Church'
 - fields: 4
   img:  'http://lh6.ggpht.com/u50xnbCiTMjKR5vu2fts6K0B7fFRkf_BgNZeZvqYNgLuF92RwApjI9Hl7UO5bZQK_fN7UjNb6ZzQlDv9BDJe'
   lat: 40.083744
@@ -285,13 +299,13 @@
   lon: -88.418247
   mus: 1622
   name:  'c4f1bdcf000d43b8b7234a2bbb69e70c.16'
-- fields: 5+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.186782
-  level: '?'
-  lon: -88.375899
-  mus: 1588
-  name:  'Mahomet Public Library'
+- fields: 6
+  img:  'http://lh6.ggpht.com/EpDmgl9Bi8qdvvRTrGPo2oNcd7kOJPiS2S30s9QEI-CzsTS1vWcWU1xds42YMD4AxCuLpDoKvGSeGtvjDNu-'
+  lat: 40.189224
+  level: 5
+  lon: -88.397522
+  mus: 1536
+  name:  'Lions Pavilion at Barber Park'
 - fields: 10
   img:  'http://lh3.ggpht.com/1yyUr0xGwID_g1F_OYHLjASRJrvJLD7e8r6IER_B6CliwGRrCH6cDWRVgtfWqJ0wHhNyjId_FX6mEVecAviV'
   lat: 40.11946
@@ -348,13 +362,6 @@
   lon: -88.366258
   mus: 1177
   name:  'Filippos Pizza and Italian Food'
-- fields: 3+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.178925
-  level: '?'
-  lon: -88.408076
-  mus: 1150
-  name:  'Community Free Church'
 - fields: 4
   img:  'http://lh5.ggpht.com/wQyraalmgEp26SShKVGNr0ml10w26IdIPI1i69jVu5rNlfxc2tsEd_j5gzVSRd7ArXrlx2OlBLGkvCsgh__yPEvCKd94_Ihv7T8bWqMW7ZWLRuRv'
   lat: 40.083568
@@ -615,13 +622,6 @@
   mus: 537
   name:  'Champaign Fire Department'
 - fields: 5
-  img:  'http://lh6.ggpht.com/EpDmgl9Bi8qdvvRTrGPo2oNcd7kOJPiS2S30s9QEI-CzsTS1vWcWU1xds42YMD4AxCuLpDoKvGSeGtvjDNu-'
-  lat: 40.189224
-  level: 5
-  lon: -88.397522
-  mus: 533
-  name:  'Lions Pavilion at Barber Park'
-- fields: 5
   img:  'http://lh6.ggpht.com/9ocSZtxwhI0ZOXkGFEbDOH1572LrymOwYpROz-hP90Uk4BAS8FIjCB4GXt2ndpQrlEV-tG4qc0zoMlk9693z'
   lat: 40.12977
   level: 7
@@ -649,13 +649,6 @@
   lon: -88.295589
   mus: 511
   name:  'First Church of God'
-- fields: 8
-  img:  'http://lh6.ggpht.com/t9_eydZD2uZIBwEmrNcPR2FWXjyVKK06CTbNoZQ682AuvHAsWKBewlbzTqH7yqOjuPMBBkqOGwETeqt6hoU'
-  lat: 40.194618
-  level: 7
-  lon: -88.401509
-  mus: 510
-  name:  'Mahomet Area Community Center'
 - fields: 3
   img:  'http://lh6.ggpht.com/WA_L9RXB_ZwCyxpgQ7Lyjp1-4xTl5O-BQohOBQcoEMnP7-wKp--MGUdnY_DPuCGZ78-x0LtEWc8FT2n9QMPS'
   lat: 40.148879
@@ -663,6 +656,13 @@
   lon: -88.258423
   mus: 509
   name:  'War Veteran Memorial'
+- fields: 6
+  img:  'http://lh6.ggpht.com/t9_eydZD2uZIBwEmrNcPR2FWXjyVKK06CTbNoZQ682AuvHAsWKBewlbzTqH7yqOjuPMBBkqOGwETeqt6hoU'
+  lat: 40.194618
+  level: 7
+  lon: -88.401509
+  mus: 507
+  name:  'Mahomet Area Community Center'
 - fields: 2
   img:  'http://lh5.ggpht.com/dpsEP8PFhsghyhulqyixJWOBciNBQP3X10g1YPnE63hnUhWZvxZBXplQAcjQI71ddCRWVkuJ8Af_AIfDpGnF'
   lat: 40.086929
@@ -729,7 +729,7 @@
 - fields: 3
   img:  'http://lh6.ggpht.com/B4G90nKtVQc7jPOxaA1XcAIKA2UJlU15MIPZLitQmNBNAtfIc9qCPpe75YFHYaZN3YUpU6b4CNMOPsBrg1Q'
   lat: 40.100489
-  level: 8
+  level: 5
   lon: -88.218903
   mus: 466
   name:  'Farmhouse Illinois Chapter'
@@ -1321,20 +1321,6 @@
   lon: -88.249275
   mus: 151
   name:  'Narayan & Shanti Achanta Memorial Plaque'
-- fields: 5
-  img:  'http://lh5.ggpht.com/Ezq3ovJZ5M4i8wxOtoPoHEBF_o5ur2tH3Hdb0QU-JmlxR71RxAS_K5h14xYHSyI2WOF0RuBy_hZZeslYhNNe'
-  lat: 40.102329
-  level: 7
-  lon: -88.221381
-  mus: 150
-  name:  'McKinley Fountain'
-- fields: 4
-  img:  'http://lh6.ggpht.com/NgnydTt337ADxVuRuFnimA4_Ifff2E49IzKzpqchxzsfFOWhZolCGjl48IjFWzsJYEgVBSM5nurntToYOMT7'
-  lat: 40.100488
-  level: 8
-  lon: -88.221702
-  mus: 146
-  name:  'Sigma Nu Fraternity House'
 - fields: 3
   img:  'http://lh4.ggpht.com/U2bGo6sB1AGHiDjQ-rH7wSwqqEX_Rgttee-UbdQR48aDKUrWK3zDdefPtL7CTxHDIksKsqP-9K6AlK8Mjlhe'
   lat: 40.125487
@@ -1377,6 +1363,13 @@
   lon: -88.219672
   mus: 130
   name:  'Mennonite Church'
+- fields: 3
+  img:  'http://lh6.ggpht.com/NgnydTt337ADxVuRuFnimA4_Ifff2E49IzKzpqchxzsfFOWhZolCGjl48IjFWzsJYEgVBSM5nurntToYOMT7'
+  lat: 40.100488
+  level: 8
+  lon: -88.221702
+  mus: 129
+  name:  'Sigma Nu Fraternity House'
 - fields: 6
   img:  'http://lh5.ggpht.com/zk2PoLrNJK2jAfA0HGQo37eMuSz1YwubD7DuFfadgkLsY_DmoY37jprPnm75I212dvrFjl_O2PQbZOLJL4Y'
   lat: 40.107914
@@ -1580,6 +1573,13 @@
   lon: -88.281892
   mus: 78
   name:  'Fluid Event Center'
+- fields: 3
+  img:  'http://lh5.ggpht.com/Ezq3ovJZ5M4i8wxOtoPoHEBF_o5ur2tH3Hdb0QU-JmlxR71RxAS_K5h14xYHSyI2WOF0RuBy_hZZeslYhNNe'
+  lat: 40.102329
+  level: 7
+  lon: -88.221381
+  mus: 77
+  name:  'McKinley Fountain'
 - fields: 11
   img:  'http://lh3.ggpht.com/nYd-393_D14GP4fiHeIzBxBwiribibe3KkVkqwo0A2KaBz3imkWBgyq_wiisXL0-RLbEESu9vTa02HbR5KcMQw'
   lat: 40.092652
@@ -1608,13 +1608,6 @@
   lon: -88.20874
   mus: 75
   name:  'First United Methodist Church of Urbana'
-- fields: 2
-  img:  'http://lh3.ggpht.com/5jYVsmaWJU0f8zVo2s_GfQ8mtVZTRQdgkF6Lz4nZKshBOXkqOj2I-34881x1ViUkWSd5_DHAtnoHpOzyGkMwnw'
-  lat: 40.100785
-  level: 6
-  lon: -88.219477
-  mus: 74
-  name:  'Weaver Memorial Plaque'
 - fields: 2
   img:  'http://lh6.ggpht.com/fucvhGlnRoH9QYMkBK1r2Qy9oOUZI9LZdwLXsHqHS7XxfmsgA664AxnJIiuZbPqBqjL4bEh26NiX3a3QfkoIY--DKozCDKry192H0Pl_l_XL4Mk'
   lat: 40.118481
@@ -1678,13 +1671,6 @@
   lon: -88.242282
   mus: 59
   name:  'Dohme Park Flags & Mural'
-- fields: 1
-  img:  'http://lh4.ggpht.com/vv-0g62EZ8ryJBOYgynNZeHVhnllOTH6Fw8BrvTexs05uFs36rXKpZSCWeaC20VpLm_Zo-ED-zIhjAO36RuG'
-  lat: 40.111097
-  level: 5
-  lon: -88.223019
-  mus: 58
-  name:  'Original 24 MeV Betatron'
 - fields: 6
   img:  'http://lh6.ggpht.com/a7U3RDd7velreml5bufqdV_G7UTGp85wW8w5LWXCJNvNYvu-iW5nUdDbsA6y0gODhhOWdwxltnQQgvTSRFA'
   lat: 40.093084
@@ -1812,13 +1798,6 @@
   mus: 35
   name:  'Shield of Chichen Itza'
 - fields: 8
-  img:  'http://lh5.ggpht.com/ncfefTWsVvZWHVozJVxFU0p2EzGdz74tJxMRB96Xaqo9wYsBbi01bALm5uOAn14GkFMSo3o_d1TAcvcUa2JYRg'
-  lat: 40.193851
-  level: 6
-  lon: -88.403214
-  mus: 34
-  name:  'Brooks-Warfel Memorial Park'
-- fields: 8
   img:  'http://lh5.ggpht.com/2zEYZdL0tuQhUP5HHcOYFsPQfjx-nNDHhi8DMJEzzkjbEA9hODz2iDCcmj4S9NEGBsHW4nYYR010lA_6kyhk'
   lat: 40.10038
   level: 7
@@ -1867,13 +1846,6 @@
   lon: -88.257367
   mus: 29
   name:  'Market View Baby Fountain'
-- fields: 7+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.195019
-  level: '?'
-  lon: -88.402935
-  mus: 29
-  name:  'c87d5b6cf7ea4bae962a48d438be958c.16'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.204175
@@ -1881,6 +1853,13 @@
   lon: -88.36719
   mus: 28
   name:  '3c2a813899014ad39734810fd8fa70a8.16'
+- fields: 6
+  img:  'http://lh5.ggpht.com/ncfefTWsVvZWHVozJVxFU0p2EzGdz74tJxMRB96Xaqo9wYsBbi01bALm5uOAn14GkFMSo3o_d1TAcvcUa2JYRg'
+  lat: 40.193851
+  level: 6
+  lon: -88.403214
+  mus: 28
+  name:  'Brooks-Warfel Memorial Park'
 - fields: 4
   img:  'http://lh6.ggpht.com/VGq5_qMrAE5FbP2m0Maszw451m-OfbmuUYDIryB0OyOe4-R92nr43XAmU-Rl5GExMkQzJHBA2a45SDWOypA'
   lat: 40.118224
@@ -1958,6 +1937,13 @@
   lon: -88.257764
   mus: 22
   name:  'Faith United Methodist Church'
+- fields: 5+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.195019
+  level: '?'
+  lon: -88.402935
+  mus: 22
+  name:  'c87d5b6cf7ea4bae962a48d438be958c.16'
 - fields: 2
   img:  'http://lh6.ggpht.com/NMgUdPOdhvhvKZh7ugwXgybshZBZ2mkaEWMNKYdFPX6cfIYENSCqE9YpAXSNVuq_9VVWXJB-ShCBAPfF2Yvs'
   lat: 40.102513
@@ -2007,13 +1993,6 @@
   lon: -88.231761
   mus: 20
   name:  'Metal Spire'
-- fields: 5
-  img:  'http://lh5.ggpht.com/PnX0W4nb5AYgeh3aSV1f6L1M6SXT5EDNNj-HZLlIrqeFoeMlVOlqnsY-fMyXYgvKn-Ac3RDPKf_iJCtYRmek'
-  lat: 40.194805
-  level: 7
-  lon: -88.401996
-  mus: 20
-  name:  'Leland Dollahan Memorial'
 - fields: 3
   img:  'http://lh6.ggpht.com/yyeYUYh4CQUjDkChdMYxhBGtyVNFeOxie-Qo2rFmwnp6dxmIx6wYlfyU88vIxtwULKprz84mi2fmqu2vMOo'
   lat: 40.114764
@@ -2077,6 +2056,13 @@
   lon: -88.294589
   mus: 16
   name:  'Hallbeck Park Shelter'
+- fields: 3
+  img:  'http://lh5.ggpht.com/PnX0W4nb5AYgeh3aSV1f6L1M6SXT5EDNNj-HZLlIrqeFoeMlVOlqnsY-fMyXYgvKn-Ac3RDPKf_iJCtYRmek'
+  lat: 40.194805
+  level: 7
+  lon: -88.401996
+  mus: 16
+  name:  'Leland Dollahan Memorial'
 - fields: 10
   img:  'http://lh5.ggpht.com/T0WLAJf0s4nu2Phxax31eu6pO6zNoA4JpvHMLyfMKttzJALEWB8EAWOziQwgjdWE3YjBbG1XjGYsgihqCSX9'
   lat: 40.100414
@@ -2133,13 +2119,6 @@
   lon: -88.29276
   mus: 14
   name:  'Campus Solar System - Sun'
-- fields: 6
-  img:  'http://lh6.ggpht.com/BjKL2L9ZzUTddDfIfeyClWu3tx12soMCpmNX8YkTMs-UqHGRUSmCHKtXCiiRT7J0N6vdUFyi_T_av5X2_-OX'
-  lat: 40.194134
-  level: 2
-  lon: -88.402333
-  mus: 14
-  name:  'Mahomet Armed Forces Memorial'
 - fields: 3
   img:  'http://lh4.ggpht.com/hKTQKnNhAOAoqWMFWE-zWItmI_v3PVVR_V2kmFC3WPQmltzm1M9hhF4OpYjQ4FX8zgYjQl5csIpybTeQwPt5'
   lat: 40.085468
@@ -2175,13 +2154,6 @@
   lon: -88.403465
   mus: 12
   name:  '9ac55f1a3bf140e5abc27bbc95fb2036.16'
-- fields: 4
-  img:  'http://lh5.ggpht.com/Sa4t_FLqsuadZd4RyfS5FznLzW1YZs5cIEJUIXYjMflRQZCjBh3_A5CB7dFPI_3fx_uz5SkqYXNFt3i98E2o'
-  lat: 40.193498
-  level: 2
-  lon: -88.402047
-  mus: 11
-  name:  'Cornbelt Fire Fighter''s Memorial'
 - fields: 1
   img:  'http://lh6.ggpht.com/bFwJFYYW2YoT3hMGr1ejzv_Vuifm5-ZJzMPcWnpZkQQ9dQSdupKPZDVNHvroawUBMuTAHOJBxvmai305qSe31Q'
   lat: 40.097523
@@ -2301,13 +2273,6 @@
   lon: -88.248681
   mus: 10
   name:  'Siti Sculpture'
-- fields: 4
-  img:  'http://lh6.ggpht.com/jzcknzJD--LvlqQqPBMjG5p5MOsy0bVOqavN3G5IS_o5-rYQyZDSv-dIiYpewV2Odmjeq9dpcCnS9xfpo4aRxQ'
-  lat: 40.194684
-  level: 6
-  lon: -88.401764
-  mus: 9
-  name:  'Mahomet Community Pavillion'
 - fields: 9
   img:  'http://lh3.googleusercontent.com/qiCzk44kbJr1T0epQjDTIa6YFH1inC0xyPQblqRhSmRcgE4SKEEL6VSPLefcs5myDM3psr50I2E4lQRne_wL'
   lat: 40.09991
@@ -2357,6 +2322,13 @@
   lon: -88.239616
   mus: 8
   name:  'Praying Mantis'
+- fields: 2
+  img:  'http://lh6.ggpht.com/jzcknzJD--LvlqQqPBMjG5p5MOsy0bVOqavN3G5IS_o5-rYQyZDSv-dIiYpewV2Odmjeq9dpcCnS9xfpo4aRxQ'
+  lat: 40.194684
+  level: 6
+  lon: -88.401764
+  mus: 8
+  name:  'Mahomet Community Pavillion'
 - fields: 5
   img:  'http://lh5.ggpht.com/N1cFx79JwZqPlYPDW3HkNwRX8N4Auriii45qzYkAx9l-cKeK81qgZ6nuBpTBEIOyLzy4aIIhQKt2E7ZiysSjkg'
   lat: 40.10036
@@ -2441,6 +2413,13 @@
   lon: -88.243265
   mus: 6
   name:  'McCollum Park Peacock'
+- fields: 2
+  img:  'http://lh5.ggpht.com/Sa4t_FLqsuadZd4RyfS5FznLzW1YZs5cIEJUIXYjMflRQZCjBh3_A5CB7dFPI_3fx_uz5SkqYXNFt3i98E2o'
+  lat: 40.193498
+  level: 2
+  lon: -88.402047
+  mus: 6
+  name:  'Cornbelt Fire Fighter''s Memorial'
 - fields: 6
   img:  'http://lh3.ggpht.com/sisvfsphxy7AK_2qrrqb7lNJk3_7ciHSVJyodINYITBc-UqugyNOooCxKupgJKEg5m_x95eZwouSO2WCmN60ew'
   lat: 40.098579
@@ -2850,7 +2829,7 @@
 - fields: 1
   img:  'http://lh5.ggpht.com/uGI8dsLALKC4whob3iDpTDuQyfZfu4RdWJ8TuuC3tHPSbL9FymkqT9N1398Fs82_j06ucoxwZHqAhVSsvI8'
   lat: 40.111219
-  level: 6
+  level: 2
   lon: -88.204757
   mus: 1
   name:  'Goodyear Mural'
