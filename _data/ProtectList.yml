@@ -33,6 +33,13 @@
   lon: -88.192636
   mus: 5678
   name:  'Boomerangs Bar And Grill '
+- fields: 10
+  img:  'http://lh3.googleusercontent.com/eGP4sxnePximEFk88kdcqNxeClf1LjUbwiPTwKmCfStyP9CAq9qGtzAsbEcVWEaS0KyG8LQn7SgS3X07OU4f'
+  lat: 40.122643
+  level: 5
+  lon: -88.300552
+  mus: 5434
+  name:  'Powell Park'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.200642
@@ -48,12 +55,12 @@
   mus: 5288
   name:  'd2edc11c08c048e9918a023af234652f.16'
 - fields: 9
-  img:  'http://lh3.googleusercontent.com/eGP4sxnePximEFk88kdcqNxeClf1LjUbwiPTwKmCfStyP9CAq9qGtzAsbEcVWEaS0KyG8LQn7SgS3X07OU4f'
-  lat: 40.122643
-  level: 5
-  lon: -88.300552
-  mus: 4668
-  name:  'Powell Park'
+  img:  'http://lh5.ggpht.com/JWnYHkJG0nab4r1ficE77w9SnzFDf6DTZ-6WlD1TC1LZp1KDiEjRqUlET-pWAycwMENIelAYkMxQJCx4Niil'
+  lat: 40.098104
+  level: 6
+  lon: -88.292802
+  mus: 4727
+  name:  'Stratford Park Bible Chapel'
 - fields: 4
   img:  'http://lh4.ggpht.com/MnvRIwYBCscNCKIRmPyogxsZdt_OF6dC0mIsI1_2fddZFlc88Sg9wNyU9Ne9q-cY0RUa5VFafv4C5f5-pxVpWg'
   lat: 40.069376
@@ -68,13 +75,6 @@
   lon: -88.249144
   mus: 4092
   name:  'Triptych Brewing'
-- fields: 8
-  img:  'http://lh5.ggpht.com/JWnYHkJG0nab4r1ficE77w9SnzFDf6DTZ-6WlD1TC1LZp1KDiEjRqUlET-pWAycwMENIelAYkMxQJCx4Niil'
-  lat: 40.098104
-  level: 6
-  lon: -88.292802
-  mus: 3961
-  name:  'Stratford Park Bible Chapel'
 - fields: 12
   img:  'http://lh6.ggpht.com/m3dZgxR8wnyRzox-3ZP4-LHNEEdyXpj_mwwFjAQW2cC5O2CtFGT8EpOlrSvwGKeBt7Kl5vhdHNZlui0wBGLPMg'
   lat: 40.090953
@@ -271,6 +271,13 @@
   lon: -88.262892
   mus: 1212
   name:  'New Life of Champaign United Pentecostal Church'
+- fields: 3
+  img:  'http://lh3.ggpht.com/PijfKs7HCJf1vVcIxcTF1HPOYaa5iS4ZECXZUQ2dDDSn9ZCXSd8FGHThRUiEIC-oMNmClt0seIzn8FsaGPER'
+  lat: 40.112752
+  level: 7
+  lon: -88.289696
+  mus: 1207
+  name:  'El Toro Fountain'
 - fields: 4
   img:  'http://lh3.ggpht.com/XaZzWDP5U-vtL8yEkxaNwCrU_q6qIysJDlNoqZkR09RTjO2B2mFufW-372cRUjNpbXhYkuz7AfTbsVHnxUIT'
   lat: 40.189527
@@ -677,13 +684,6 @@
   lon: -88.282707
   mus: 455
   name:  'Champaign Cycle'
-- fields: 2
-  img:  'http://lh3.ggpht.com/PijfKs7HCJf1vVcIxcTF1HPOYaa5iS4ZECXZUQ2dDDSn9ZCXSd8FGHThRUiEIC-oMNmClt0seIzn8FsaGPER'
-  lat: 40.112752
-  level: 7
-  lon: -88.289696
-  mus: 441
-  name:  'El Toro Fountain'
 - fields: 8
   img:  'http://lh3.googleusercontent.com/8uMYuZy0Us1c6m26i0q3fiQ2sptx9Og4z2bMHuLtSt_Woc8U5yKYiXLiC2Oz38uiO4m3z3SU3svJ6uRX-_o'
   lat: 40.086941
@@ -2798,6 +2798,27 @@
   lon: -88.249929
   mus: 2
   name:  '"Tootsie" at West Side Park'
+- fields: 1
+  img:  'http://lh4.ggpht.com/PmGpygZ2fBs43twk2Y44XZbgGcHWv0YimAq7Fp3vlIRRqUyLpSmDmFwcn1ucfmJarcQrAAXJjYAXAhNyxSrz'
+  lat: 40.110049
+  level: 6
+  lon: -88.231968
+  mus: 2
+  name:  'Potbelly Mural'
+- fields: 1
+  img:  'http://lh5.ggpht.com/fGRHfMAqdWrUnPE8GStKSdMkgQmu9qvuxAC4VzcU1v2KyxQu2BeuJKhvhefSeFNTkgFh6YdR-F4P6plMbh0'
+  lat: 40.110194
+  level: 6
+  lon: -88.231488
+  mus: 2
+  name:  'Fighting Illini Memorial'
+- fields: 1
+  img:  'http://lh6.ggpht.com/SboHv2_AWJ6ll559fK1A5a1UIAKf04oIHrgidra_E6L8gDK_mQ-DaM7hKYkv7MT6ZAA8pzgPxv_Vy-eNN7g'
+  lat: 40.110608
+  level: 5
+  lon: -88.231957
+  mus: 2
+  name:  '217 Tattoo Co.'
 - fields: 1
   img:  'http://lh6.ggpht.com/Jltxi7PZ9OVi8hBCUxdt9oxXQk9zmbrtHpM_jru2WhVYyY0UkNZ8h5SU3CdwMRNzZ1ZKabPR8hDCPz7p3Ms'
   lat: 40.114439
