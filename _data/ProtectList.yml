@@ -789,12 +789,12 @@
   lon: -88.215485
   mus: 128
   name:  'Champaign County Fairgrounds'
-- fields: 7
+- fields: 6
   img:  'http://lh4.ggpht.com/ZEK-DXu7TJqsrt7cbLRjXyr3JbENJCn1FaKxH4Oi6kEvo4K0Yzm5qzMddhRLNlXvokAwQoeG4EKaNkXnJDA'
   lat: 40.114015
   level: 6
   lon: -88.245256
-  mus: 127
+  mus: 126
   name:  'Firefighters Park'
 - fields: 2
   img:  'http://lh6.ggpht.com/NgnydTt337ADxVuRuFnimA4_Ifff2E49IzKzpqchxzsfFOWhZolCGjl48IjFWzsJYEgVBSM5nurntToYOMT7'
@@ -985,12 +985,12 @@
   lon: -88.238588
   mus: 62
   name:  'Beautiful Storm'
-- fields: 4
+- fields: 3
   img:  'http://lh3.ggpht.com/9aQBG-poFARclK9XL7iFIvWePkawZwWhv4Sh0zQhQ0Sy9gdDD508d4gCtpcUP9UNoYM6uztea0aQ05RPd9rZLg'
   lat: 40.115412
   level: 6
   lon: -88.245046
-  mus: 57
+  mus: 56
   name:  'Eddie Thorpe''s Memorial Rock And Tree'
 - fields: 1
   img:  'http://lh4.ggpht.com/x4szinl46UCjQ4FiOKdsQrr5OuNhuiDz-N7Hudes1XwubFw49qnWwOghJQ2JU1MSNUX_GD0u0pzbSP3sHwM4yw'
@@ -1559,6 +1559,13 @@
   lon: -88.227115
   mus: 13
   name:  'Defenders Of The Flag'
+- fields: 6
+  img:  'http://lh4.ggpht.com/DTGKMEvXrKSLJVBZP6bN7EF-DMHt5l_x3o-C-Ln0FjrGCQcTdcLNaZDI2_OCwEzuqgh8HyyqJwyQkc4-0H8g'
+  lat: 40.106037
+  level: 5
+  lon: -88.226237
+  mus: 12
+  name:  'Triplets'
 - fields: 8
   img:  'http://lh6.ggpht.com/PJNZOMCQPAWy2UMMUz7FvQhEb9zSo2mg1ImzZDYViGOn1FI2EqJX2AwZe_uOwiAKSL2QYkbPfTaRsdL2VvmG'
   lat: 40.103204
@@ -1653,7 +1660,7 @@
 - fields: 4
   img:  'http://lh5.ggpht.com/cHXnlWuRvdsWlYl544dN4Z4dFmU3Wzw1BEovUj84953CC59BdwR-5pDK8MUkpnAECo3RjUVQMAS0elR08dvD'
   lat: 40.115302
-  level: 5
+  level: 6
   lon: -88.224932
   mus: 11
   name:  'National Center for Supercomputing Applications'
@@ -1706,13 +1713,6 @@
   lon: -88.210576
   mus: 10
   name:  'Civil War Memorial'
-- fields: 5
-  img:  'http://lh4.ggpht.com/DTGKMEvXrKSLJVBZP6bN7EF-DMHt5l_x3o-C-Ln0FjrGCQcTdcLNaZDI2_OCwEzuqgh8HyyqJwyQkc4-0H8g'
-  lat: 40.106037
-  level: 5
-  lon: -88.226237
-  mus: 10
-  name:  'Triplets'
 - fields: 1
   img:  'http://lh6.ggpht.com/CFr5FDgsztNbeSQUq6x63c17MTKeKxsaUoY7uq6eft3-_1XjCjDOPcpjtaA8iqU-gi7m9txMeWkfG0UuT6mv'
   lat: 40.099069
@@ -1930,6 +1930,13 @@
   lon: -88.21207
   mus: 7
   name:  'Carle Park'
+- fields: 2
+  img:  'http://lh5.ggpht.com/2PB1u3cNuASfw9D_MIUzI1JvNofebK7zsuGqKoUApr-nUWYZ8y5CzxH6g7CdcY7ShBaVGrBrurkbwrdUPD7JBk55TH0Ouao5b_g2jUI1saBNUE8'
+  lat: 40.106744
+  level: 4
+  lon: -88.225347
+  mus: 7
+  name:  'The Red Herring Vegetarian'
 - fields: 4
   img:  'http://lh3.ggpht.com/nHykU-r6nAcUQliLD4vcs6UTayaoX6Aay87D-bgyrRjGaqMQQYuxIbHuVKSTH0vbqNO9g2sBdp_ZBWLM3LDYeQ'
   lat: 40.103044
@@ -2190,13 +2197,6 @@
   mus: 5
   name:  'Carle Park Fountain'
 - fields: 1
-  img:  'http://lh5.ggpht.com/2PB1u3cNuASfw9D_MIUzI1JvNofebK7zsuGqKoUApr-nUWYZ8y5CzxH6g7CdcY7ShBaVGrBrurkbwrdUPD7JBk55TH0Ouao5b_g2jUI1saBNUE8'
-  lat: 40.106744
-  level: 4
-  lon: -88.225347
-  mus: 5
-  name:  'The Red Herring Vegetarian'
-- fields: 1
   img:  'http://lh5.ggpht.com/S_72RqBcpwyaqDotOOM3zyRvzzZXNgZUSEfOLLDYY9tEvWcEksixMnIL7N-7FO1EpE-CXGydpsChqEkBjX_I'
   lat: 40.131279
   level: 5
@@ -2309,6 +2309,27 @@
   mus: 4
   name:  'Environmental Plaque - Stream'
 - fields: 2
+  img:  'http://lh6.ggpht.com/xlmWV_JFnISAH2cEQRszPcaoEou9mnNoHtf1b61XQ1hlV3iUuUpLOcLqkzw92FimYmk3VynvhWrTBxJ5G9nt'
+  lat: 40.103577
+  level: 6
+  lon: -88.229261
+  mus: 4
+  name:  'Architectural Fragment'
+- fields: 2
+  img:  'http://lh4.ggpht.com/bzammNalrLYQbAwP5Ew5bAQaHGCI66Kp-8jZPpP5NbZjGD8XEYDtBU8klBoz02YVlCFikl0HxGoj-_S1RUvfb9sg6s4y5EGPLyyyPcTriLzsOALb'
+  lat: 40.102721
+  level: 6
+  lon: -88.229137
+  mus: 4
+  name:  'Tree of Life Fantasy'
+- fields: 2
+  img:  'http://lh5.ggpht.com/bn1QhOHMJIwrHxpNZALrFL6cmRhPKJulhFAokXJaYr2OuKQr8pAI5rK4Ww47E1jvpgkK68rKyvRjzRRPefLEPg'
+  lat: 40.103121
+  level: 5
+  lon: -88.228963
+  mus: 4
+  name:  'Architectural Education Plaque'
+- fields: 2
   img:  'http://lh5.ggpht.com/fDRifvVcFT_dKhPuNBN4rR9lNHL0Q6NvbMnGr2-ZdiirR2rJrBcWRi4vyM3-DYNHymUs7bWchaWRaUtBpg'
   lat: 40.098541
   level: 7
@@ -2353,7 +2374,7 @@
 - fields: 1
   img:  'http://lh5.ggpht.com/244-kBAz29TDfOH8muwt4hhbFTCEXkddZJR6jpzYeuL8UDht0s9QJJhZL40ner3EhKhzBQFqTTeRrYDZoF0'
   lat: 40.104331
-  level: 7
+  level: 5
   lon: -88.222064
   mus: 3
   name:  'Campus Recreation Center East'
@@ -2372,12 +2393,12 @@
   mus: 3
   name:  'Babe and Gene Wilder Memorial Plaque'
 - fields: 1
-  img:  'http://lh5.ggpht.com/bn1QhOHMJIwrHxpNZALrFL6cmRhPKJulhFAokXJaYr2OuKQr8pAI5rK4Ww47E1jvpgkK68rKyvRjzRRPefLEPg'
-  lat: 40.103121
-  level: 5
-  lon: -88.228963
+  img:  'http://lh6.ggpht.com/u5RIUNNvwmfVVArV3aMq1pfZJL1wQGlrpTVT3RVePYtS4tBgEWn6bO4_vXXd-PLfnv4OMHGt9iMRSOvNt7dr'
+  lat: 40.103116
+  level: 3
+  lon: -88.229909
   mus: 3
-  name:  'Architectural Education Plaque'
+  name:  'Night Train'
 - fields: 1
   img:  'http://lh4.ggpht.com/fsiB6WgZi3nqrUsbGpwpdNX2HKV1YsNECGrmvuGGjZk2CSsA5AHYM6iJLYo6O0yYgQUMQRdm_LZJCL8KI98Isw'
   lat: 40.104617
@@ -2402,7 +2423,7 @@
 - fields: 1
   img:  'http://lh5.ggpht.com/sIbYMQQ_Zap8IM-0OSNfDcmhqlGrLw12pnC_OdD-CIksN6uBVuBi0m-ZNPiXF3Eijc8dtCbZLYdv_yX_qGKR'
   lat: 40.114982
-  level: 5
+  level: 6
   lon: -88.223894
   mus: 3
   name:  'Campbell Hall'
@@ -2434,6 +2455,13 @@
   lon: -88.249043
   mus: 3
   name:  'Bilbrey Bandstand'
+- fields: 1
+  img:  'http://lh3.ggpht.com/whmQSPmix2tEoKcWwrVrV0H0JzNf1tzyuohI3ykSa-Qx4rUcLTf4686WcnJjygsMY2QPUWhvVVzlmMMHof94'
+  lat: 40.105907
+  level: 6
+  lon: -88.22564
+  mus: 3
+  name:  'Andrew De Grado Memorial'
 - fields: 3
   img:  'http://lh5.ggpht.com/QIB27P8JrbHvcI2jjqXw1iJb1eAsho-lDFm2y_3Q_DEoS5b0toaYJuhD2F_qzMm2aOiNxEX-imTK4O_fRR2L'
   lat: 40.093464
@@ -2560,13 +2588,6 @@
   lon: -88.227414
   mus: 2
   name:  'Charlene E. Haight Bench'
-- fields: 1
-  img:  'http://lh6.ggpht.com/Jltxi7PZ9OVi8hBCUxdt9oxXQk9zmbrtHpM_jru2WhVYyY0UkNZ8h5SU3CdwMRNzZ1ZKabPR8hDCPz7p3Ms'
-  lat: 40.114439
-  level: 3
-  lon: -88.245013
-  mus: 2
-  name:  'New Covenant Fellowship'
 - fields: 1
   img:  'http://lh6.ggpht.com/rbEeQxbZyvrUu5nCQma0PzHtlA4cmaa9jItLke0b5KBmVlYP0q0d9OYg0_jrSi-8RiYOSdJklSevnYpoyjBWgA'
   lat: 40.118265
