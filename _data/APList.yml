@@ -161,17 +161,17 @@
   lon: -88.244894
   name:  'Farren''s Pub and Eatery'
 - ap: 4411
-  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
-  lat: 40.100936
-  level: 8
-  lon: -88.250855
-  name:  'Donald F. Bresnan Memorial'
-- ap: 4411
   img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
   lat: 40.098688
   level: 8
   lon: -88.25063
   name:  '"New Holland Yellow Dinosaurs" at Hessel Park'
+- ap: 4411
+  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
+  lat: 40.100936
+  level: 8
+  lon: -88.250855
+  name:  'Donald F. Bresnan Memorial'
 - ap: 4411
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
@@ -413,18 +413,6 @@
   lon: -87.634756
   name:  '247a6de775a146a4accf8b1a11a1e0cc.16'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/2JNDO54Hu2KzjIaEeCIFVgD7gEa5VXNBsIemFYp6cgiTUbsSpOwLTc-HqZb__uut24jHpVnQVokRVtL00ozu'
-  lat: 40.132056
-  level: 6
-  lon: -88.292671
-  name:  'Campus Solar System - Mercury'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/_Tp5JJFIIlt0iHHyC_A_gnEm1sxUEKDHmQr0oby74HL0rnFZ5JrnuvOTPk6_vulsU_GJue_7RAAX2Y7I2Wxw4A'
-  lat: 40.132354
-  level: 6
-  lon: -88.292578
-  name:  'Campus Solar System - Venus'
-- ap: 2537
   img:  'http://lh4.ggpht.com/5txoAy04NNtnz6QSex0YGvE4fib5tN9AelUxKSPreLTzkNO9Qbn9E1-AEPqCWm-PFDk16_WEe4H9CoGt-e_NOg'
   lat: 40.128294
   level: 6
@@ -436,6 +424,18 @@
   level: 6
   lon: -88.290287
   name:  'McMillen Ehler Homestead'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/2JNDO54Hu2KzjIaEeCIFVgD7gEa5VXNBsIemFYp6cgiTUbsSpOwLTc-HqZb__uut24jHpVnQVokRVtL00ozu'
+  lat: 40.132056
+  level: 6
+  lon: -88.292671
+  name:  'Campus Solar System - Mercury'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/_Tp5JJFIIlt0iHHyC_A_gnEm1sxUEKDHmQr0oby74HL0rnFZ5JrnuvOTPk6_vulsU_GJue_7RAAX2Y7I2Wxw4A'
+  lat: 40.132354
+  level: 6
+  lon: -88.292578
+  name:  'Campus Solar System - Venus'
 - ap: 2537
   img:  'http://lh6.ggpht.com/dIDmkL7jHZb1am2ptK9LrO6Ht_8jTKb3IOvGamBqIYzLXPgtEoPCV_9dMsqLxrgz8_MSq3UsEy9t49y_pqOd'
   lat: 40.125715
@@ -497,17 +497,29 @@
   lon: -88.223683
   name:  'Louise Freer Hall'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/n_LMwtvxbWlYfCgK6MerzbQVpmDR9rqxJUrEnA8OAeCIYBi6zbeLqYCldCtXZDSV1IHsYOpgoO60Od3TGJ3h'
-  lat: 40.103207
-  level: 5
-  lon: -88.224601
-  name:  'Darrell A. Miller Memorial Tree'
+  img:  'http://lh4.ggpht.com/ZwDzLvPP0KTL_mUj9ta-0DRkbA4q3X7b-r02bm3rTibFkPbu00GKehClddYfSkXbwVuJ4pjt4T7yo7ou54ov'
+  lat: 40.111869
+  level: 4
+  lon: -88.227932
+  name:  'Talbot Lab Mural'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/28al1CSkHNCrM9Sb57TYmawr1uFh6r5raWMJKD4QjLCj6N5YHEYIIizONs_hHF3pHuIppLjqxbTFcvrI9Dq9'
+  lat: 40.111205
+  level: 6
+  lon: -88.227583
+  name:  'Theory of Superconductivity Plaque'
 - ap: 2537
   img:  'http://lh5.ggpht.com/TuurdPruJDIWIyKi1waxpMqv7i_ja0MxHI7a5qPFMEXIzfQM34f3qyOAbkcCbxDZfi2xr8lWDeSR0u8Tmw'
   lat: 40.102754
   level: 5
   lon: -88.222848
   name:  'Plant Science Lab'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/n_LMwtvxbWlYfCgK6MerzbQVpmDR9rqxJUrEnA8OAeCIYBi6zbeLqYCldCtXZDSV1IHsYOpgoO60Od3TGJ3h'
+  lat: 40.103207
+  level: 5
+  lon: -88.224601
+  name:  'Darrell A. Miller Memorial Tree'
 - ap: 2537
   img:  'http://lh5.ggpht.com/ZDv0mHiZcEfLxGVibvfnMCu7reJceCVnxa4GeBjK2DO4Y4a0x-M7C2M0rEam-_bPlr2e2476RXe15pRY48s'
   lat: 40.114351
