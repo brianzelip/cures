@@ -143,17 +143,17 @@
   lon: -88.243408
   name:  'Downtown Fountain'
 - ap: 4411
-  img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
-  lat: 40.098688
-  level: 8
-  lon: -88.25063
-  name:  '"New Holland Yellow Dinosaurs" at Hessel Park'
-- ap: 4411
   img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
   lat: 40.100936
   level: 8
   lon: -88.250855
   name:  'Donald F. Bresnan Memorial'
+- ap: 4411
+  img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
+  lat: 40.098688
+  level: 8
+  lon: -88.25063
+  name:  '"New Holland Yellow Dinosaurs" at Hessel Park'
 - ap: 4411
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
@@ -226,10 +226,10 @@
   level: 5
   lon: -88.244611
   name:  'Marketplace Mall Carousel'
-- ap: 3249
+- ap: 3474
   img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
   lat: 40.11784
-  level: 1
+  level: 2
   lon: -88.24286
   name:  'Kaufman Memorial'
 - ap: 3474
@@ -390,16 +390,16 @@
   name:  '13d63d6da6bb41fb858b8e714d957975.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.962826
-  level: '?'
-  lon: -87.634756
-  name:  '247a6de775a146a4accf8b1a11a1e0cc.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.9686
   level: '?'
   lon: -87.630978
   name:  '47ea0a512aca4efc981ddb89e220e8b4.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.962826
+  level: '?'
+  lon: -87.634756
+  name:  '247a6de775a146a4accf8b1a11a1e0cc.16'
 - ap: 2537
   img:  'http://lh4.ggpht.com/5txoAy04NNtnz6QSex0YGvE4fib5tN9AelUxKSPreLTzkNO9Qbn9E1-AEPqCWm-PFDk16_WEe4H9CoGt-e_NOg'
   lat: 40.128294
@@ -442,6 +442,18 @@
   level: 5
   lon: -88.2091
   name:  'Crystal Lake Park Aquatic Center'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/CwgYIhVaivHHg_U6yqu5KSGhSh9ipRBDu7G192KiQfrnXc7C8uh7UOh6MP91vhZJ3LZdiTaFwpvFukvIaj6J'
+  lat: 40.117445
+  level: 2
+  lon: -88.243409
+  name:  'From Swords to Plowshares'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/PXc3YHSOsx0c_WrfpzvHHiHEl1FSv5RvbgXj7Ji3-xS7oBwJIkFCD8eQySiUega_iQvX8FiUBuDhXdK9l9QWIA'
+  lat: 40.116623
+  level: 3
+  lon: -88.240844
+  name:  'R. Forrest Colwell Memorial'
 - ap: 2537
   img:  'http://lh5.ggpht.com/QNdE7Z3gNcz1M-mzDms1aMrHPZpKr43FIfnMxwfwdp6kP1N6fPKwUzIx5qrt3k_KBeBFRmcD-PXCWq7V2Ygo'
   lat: 40.119969
