@@ -23,17 +23,17 @@
   lon: -88.216448
   name:  'Lichen Covered Honeylocust Plaque'
 - ap: 7222
-  img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
-  lat: 40.099852
-  level: 8
-  lon: -88.251947
-  name:  'Our Friend Tim Palmer'
-- ap: 7222
   img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
   lat: 40.098246
   level: 8
   lon: -88.251974
   name:  'Hessel Park'
+- ap: 7222
+  img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
+  lat: 40.099852
+  level: 8
+  lon: -88.251947
+  name:  'Our Friend Tim Palmer'
 - ap: 7035
   img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
   lat: 40.101327
@@ -148,10 +148,10 @@
   level: '?'
   lon: -87.670779
   name:  '906955eb184f41c38b6a9615828f203f.16'
-- ap: 4411
+- ap: 4186
   img:  'http://lh5.ggpht.com/KadNuhjGK6FUXezGHW1W1kfPOQV5l7gJP594EQm5nPZFLTgcTsjl4ixa-j7XitgtyJyou3q0pTfMr4i2E_avIA'
   lat: 40.118013
-  level: 4
+  level: 3
   lon: -88.243445
   name:  'Clock at Neil and Main'
 - ap: 4411
@@ -161,17 +161,17 @@
   lon: -88.244894
   name:  'Farren''s Pub and Eatery'
 - ap: 4411
-  img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
-  lat: 40.098688
-  level: 8
-  lon: -88.25063
-  name:  '"New Holland Yellow Dinosaurs" at Hessel Park'
-- ap: 4411
   img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
   lat: 40.100936
   level: 8
   lon: -88.250855
   name:  'Donald F. Bresnan Memorial'
+- ap: 4411
+  img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
+  lat: 40.098688
+  level: 8
+  lon: -88.25063
+  name:  '"New Holland Yellow Dinosaurs" at Hessel Park'
 - ap: 4411
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
@@ -190,12 +190,6 @@
   level: 5
   lon: -88.243468
   name:  'Dog Heart'
-- ap: 3661
-  img:  'http://lh3.ggpht.com/bltQwmnzp2vSKYhLpzNLqB4iddy6ie0kWk9G7Wce4U9qmW3CABxbXAhF7v0oG9QLFD2q57UZuVqZCMgN3MHZfA'
-  lat: 40.118335
-  level: 3
-  lon: -88.243408
-  name:  'Downtown Fountain'
 - ap: 3661
   img:  'http://lh3.ggpht.com/POVqVDorpNyT78a1jNBYargU2WzX94oR7tmPRWdJpIYV2w5OZwXO5M0mJU_sIMCB-b3l1-mcCmck-f87iAw4'
   lat: 40.090059
@@ -232,6 +226,12 @@
   level: 5
   lon: -88.244611
   name:  'Marketplace Mall Carousel'
+- ap: 3399
+  img:  'http://lh3.ggpht.com/bltQwmnzp2vSKYhLpzNLqB4iddy6ie0kWk9G7Wce4U9qmW3CABxbXAhF7v0oG9QLFD2q57UZuVqZCMgN3MHZfA'
+  lat: 40.118335
+  level: 3
+  lon: -88.243408
+  name:  'Downtown Fountain'
 - ap: 3099
   img:  'http://lh3.ggpht.com/oAhplQsltGmJyd6-FfScd0PFPwkg1lJn96dHQNw4VxgOy__gt2IaqcXddSDJHyFfu2JMrCFWTHHXbHhHnTU'
   lat: 40.119636
@@ -396,16 +396,16 @@
   name:  '7fbe13944b5d4af78e982aada5eda453.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.964092
-  level: '?'
-  lon: -87.633659
-  name:  '16dd983c6c30490faf1c45bfd3e1ff1e.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 39.984616
   level: '?'
   lon: -88.263266
   name:  '6fc2b246c1ea47d0ba7c8aaacc073f38.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.964092
+  level: '?'
+  lon: -87.633659
+  name:  '16dd983c6c30490faf1c45bfd3e1ff1e.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.24314
@@ -461,12 +461,6 @@
   lon: -88.2091
   name:  'Crystal Lake Park Aquatic Center'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/_jAAuDi8SO5uupi8JlB3HZaFG40S15izNv_3vqOt7ro2rRHuXrfdEKfEFvRESdAjCEz3RVDpyrxJGSIrju5d'
-  lat: 40.117916
-  level: 2
-  lon: -88.243087
-  name:  'Sholem Building'
-- ap: 2537
   img:  'http://lh6.ggpht.com/5m_DdlbswQXPJueGjlDknXPY3RqwtwdrWAsNLBfbSNENcdAw3oafNYp_YTPk5KmZZpY5M4zwdxKoE9Tq5kDv'
   lat: 40.118985
   level: 2
@@ -521,17 +515,17 @@
   lon: -88.223683
   name:  'Louise Freer Hall'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/n_LMwtvxbWlYfCgK6MerzbQVpmDR9rqxJUrEnA8OAeCIYBi6zbeLqYCldCtXZDSV1IHsYOpgoO60Od3TGJ3h'
-  lat: 40.103207
-  level: 5
-  lon: -88.224601
-  name:  'Darrell A. Miller Memorial Tree'
-- ap: 2537
   img:  'http://lh5.ggpht.com/TuurdPruJDIWIyKi1waxpMqv7i_ja0MxHI7a5qPFMEXIzfQM34f3qyOAbkcCbxDZfi2xr8lWDeSR0u8Tmw'
   lat: 40.102754
   level: 5
   lon: -88.222848
   name:  'Plant Science Lab'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/n_LMwtvxbWlYfCgK6MerzbQVpmDR9rqxJUrEnA8OAeCIYBi6zbeLqYCldCtXZDSV1IHsYOpgoO60Od3TGJ3h'
+  lat: 40.103207
+  level: 5
+  lon: -88.224601
+  name:  'Darrell A. Miller Memorial Tree'
 - ap: 2312
   img:  'http://lh5.ggpht.com/3RfiPeOzF67ubNX-vkwUJ6-EYld6BKuoBernq0_9kOjlIsSPr3saR9FIQzN7uiw7ouF0CpNflOnL0mUj9zbqdQ'
   lat: 40.109452
