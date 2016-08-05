@@ -179,17 +179,17 @@
   lon: -88.243235
   name:  'Cowboy Monkey'
 - ap: 4411
-  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
-  lat: 40.100936
-  level: 8
-  lon: -88.250855
-  name:  'Donald F. Bresnan Memorial'
-- ap: 4411
   img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
   lat: 40.098688
   level: 8
   lon: -88.25063
   name:  '"New Holland Yellow Dinosaurs" at Hessel Park'
+- ap: 4411
+  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
+  lat: 40.100936
+  level: 8
+  lon: -88.250855
+  name:  'Donald F. Bresnan Memorial'
 - ap: 4411
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
@@ -233,6 +233,18 @@
   lon: -88.242373
   name:  'Richard D James Mural'
 - ap: 3661
+  img:  'http://lh6.ggpht.com/cUV2o6ZPyJSFnHYl7jePeUIS7BrVr1H5D8Zbf7B3B8ALrTq7pTI3e271i1DHztqUGXITpiA399P3vNP83fk0'
+  lat: 40.105767
+  level: 3
+  lon: -88.223378
+  name:  'Busey Hall'
+- ap: 3661
+  img:  'http://lh3.ggpht.com/0HyRE6hI-Dp8OIZWrGjSBLw06g4xLl3H3SxdYDO-wm20QdpGQtvQ1-GBpxfAE5WNcC0D_aY-oOfGM1Wj1--EvQ'
+  lat: 40.106092
+  level: 3
+  lon: -88.223135
+  name:  'String Project Plaque'
+- ap: 3661
   img:  'http://lh3.ggpht.com/POVqVDorpNyT78a1jNBYargU2WzX94oR7tmPRWdJpIYV2w5OZwXO5M0mJU_sIMCB-b3l1-mcCmck-f87iAw4'
   lat: 40.090059
   level: 5
@@ -264,6 +276,12 @@
   name:  '03529f570068489080b8c82d78888886.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.964572
+  level: '?'
+  lon: -87.635157
+  name:  '725b1323c80b40b1b04c3054a81e4ecf.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.8529
   level: '?'
   lon: -89.118525
@@ -274,12 +292,6 @@
   level: '?'
   lon: -89.57982
   name:  '34c748cfe2cb47f4ac43e289f6594f01.11'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.964572
-  level: '?'
-  lon: -87.635157
-  name:  '725b1323c80b40b1b04c3054a81e4ecf.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.649943
@@ -340,6 +352,12 @@
   level: 7
   lon: -88.25193
   name:  'Seeds of Kindness Bench'
+- ap: 3474
+  img:  'http://lh3.ggpht.com/oSQ_YOHo2mfYjOa8bPK9ellznKK29UluW-SeXoGYra9VFg8dJp6YQRdHbHHaTExqXs1qUMBNmpI2hUPcC4GI'
+  lat: 40.106789
+  level: 3
+  lon: -88.222992
+  name:  'Beginnings of Computer Music Plaque'
 - ap: 3474
   img:  'http://lh3.ggpht.com/Q2rFQkcNHwItWNXX2B0B65sANQ_gCk482p2HilMp7BeswGN9qevW8WBFQ1zUg2xkvlz8bqbDCg-C5NaxK2Jf'
   lat: 40.092639
@@ -478,10 +496,10 @@
   level: 7
   lon: -88.243775
   name:  'Mural at Bentley''s'
-- ap: 2162
+- ap: 2537
   img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
   lat: 40.11784
-  level: 1
+  level: 2
   lon: -88.24286
   name:  'Kaufman Memorial'
 - ap: 2537
