@@ -295,7 +295,7 @@
 - fields: 9
   img:  'http://lh5.ggpht.com/hjAc940kWyt9QT4G_BJyJKaTef3jL_Njnm8ubUtQD7u6qVsD9_7TiJbgZpKeqAv60kNw8FYspVxkn-Bt1cxYBw'
   lat: 40.109959
-  level: 7
+  level: 4
   lon: -88.24318
   mus: 789
   name:  'Mini Park II Sculpture'
@@ -698,6 +698,13 @@
   lon: -88.20317
   mus: 245
   name:  'Goodwill'
+- fields: 5
+  img:  'http://lh3.ggpht.com/3rw0YLp6-Ui3LAecadtTtTgoMRU7Q6vPRiNiSCod3Qb-bGjOJxf34EEnZP89KvnrTILkQM3PIE9-CIdmasz-'
+  lat: 40.112897
+  level: 8
+  lon: -88.219672
+  mus: 244
+  name:  'Mennonite Church'
 - fields: 4
   img:  'http://lh3.ggpht.com/swF7asGHDD1L9hslewSBg2z-tocpd_HXkIYuOmz739SWxCj8KBqf-kcOPOFPoE8pLXKDxR6Z8jAJ8Kx7Fbnc'
   lat: 40.089334
@@ -789,13 +796,6 @@
   lon: -88.262811
   mus: 201
   name:  'Russell and Louetta Reed Memorial in Clark Park'
-- fields: 4
-  img:  'http://lh3.ggpht.com/3rw0YLp6-Ui3LAecadtTtTgoMRU7Q6vPRiNiSCod3Qb-bGjOJxf34EEnZP89KvnrTILkQM3PIE9-CIdmasz-'
-  lat: 40.112897
-  level: 8
-  lon: -88.219672
-  mus: 198
-  name:  'Mennonite Church'
 - fields: 3
   img:  'http://lh3.ggpht.com/X30u-Y3JoCurNlH3pvt-DlJeV7obUlOeBDbH-tkN6QcPEHvknjSz3nYF8EGtXWani_tyNgcyl2naDFhje8E'
   lat: 40.083706
@@ -978,13 +978,6 @@
   lon: -88.207653
   mus: 100
   name:  'Chinese Goose Bridge Plaque'
-- fields: 4
-  img:  'http://lh3.ggpht.com/ZKYFxa4_Jj-OpytEiNkFmQOVv42zvLK_5wEHxLncanKrdr7RjjSoG_UYFDX0CmCUupuU2d0MGQ3l1pbl0zF1'
-  lat: 40.083873
-  level: 7
-  lon: -88.265912
-  mus: 97
-  name:  'Dan Morrissey Park'
 - fields: 8
   img:  'http://lh6.ggpht.com/0WV0zgKIo2AbnMTwJXYSM-C6nik92XvxsPKcZps2SdFzIWJ2bY4k2dHAqdImb1hTCK910NMvQYoKlwWprt6c'
   lat: 40.12034
@@ -1007,11 +1000,18 @@
   mus: 93
   name:  'Research Park at the University of Illinois'
 - fields: 3
+  img:  'http://lh3.ggpht.com/ZKYFxa4_Jj-OpytEiNkFmQOVv42zvLK_5wEHxLncanKrdr7RjjSoG_UYFDX0CmCUupuU2d0MGQ3l1pbl0zF1'
+  lat: 40.083873
+  level: 7
+  lon: -88.265912
+  mus: 92
+  name:  'Dan Morrissey Park'
+- fields: 2
   img:  'http://lh6.ggpht.com/0vHaOKrH35vUHDfapI4QDvHSJLenhiXHIhdWBwVKzEB741Ky8B7mMeXnUtOlIYycCbLUO-dRzHZFrPQFFbFZ'
   lat: 40.085791
   level: 5
   lon: -88.265411
-  mus: 93
+  mus: 88
   name:  'Karen A. Sayers Memorial'
 - fields: 2
   img:  'http://lh3.ggpht.com/OCKiEBzmQ9VMmiVZuW498_1iUjQHiKo7krCcba5dOYnEpjzNQkGhJZr8d7jJuSxUSdkvKjjzN-gV47-buFSO'
@@ -1125,6 +1125,13 @@
   lon: -88.289765
   mus: 54
   name:  'Kaufman Park'
+- fields: 2
+  img:  'http://lh6.ggpht.com/D4r1KWBUGF8ZJDUXBHVcNVeP66FVliNQrEX0n-jZkYyFnWUfZ_vfBIAt4padKNgvgmextrkL2-kxkv6JbS3u'
+  lat: 40.110394
+  level: 7
+  lon: -88.219509
+  mus: 51
+  name:  'University Of Illinois'
 - fields: 4
   img:  'http://lh3.ggpht.com/KxQsev6i7POmNh1IadCWwWQSMdCuLIYpPwIdenSlVtzum523D1R-1kfeTbuOGTkt_jDwn4jswCu1edkumm2-'
   lat: 40.110037
@@ -1181,6 +1188,13 @@
   lon: -88.250951
   mus: 47
   name:  'William C. Fox Waterway'
+- fields: 1
+  img:  'http://lh6.ggpht.com/BsXdEO7HLxNLSdztPo_4GNNcbxZCxswiDT4pmmcfDQ8YO2SFVW-VnwyEZBvkuhf1rxKAtoKNLvV4rDJ-YVCYUK1qiX-dId_R8P-JskyFYAK9ruM-'
+  lat: 40.110234
+  level: 7
+  lon: -88.224055
+  mus: 47
+  name:  'The Etc'
 - fields: 4
   img:  'http://lh4.ggpht.com/bvexSRw3puopRRWV-oeMjABzIyeoMnq-cfPI4mL06BwdsQKA-9vvssZqs5jA5GWGkPNXXd6N2WVG_yxCB7Tf2A'
   lat: 40.100071
@@ -1819,26 +1833,12 @@
   mus: 5
   name:  'Lieut. E.G. Stillwell Memorial Tree'
 - fields: 1
-  img:  'http://lh5.ggpht.com/JYa2EcB80aD_CCPuNsi1Cr8jZelGO3dzHiaM1-hyKs9hP9fwRE_tjXpST4GuLdh9P-y_ZSrJFLgP8Fa1n_8'
-  lat: 40.084326
-  level: 5
-  lon: -88.266403
-  mus: 5
-  name:  'Dedication to Virginia Roesch'
-- fields: 1
   img:  'http://lh6.ggpht.com/Is1X0lUzkQNvQqf1DAuDubUUhrDHx3xEFhrX9GLs_uixSyDzNSCw1vS235EszYc_itiZUU2FsfItRg21Lj_OlA'
   lat: 40.111689
   level: 8
   lon: -88.21914
   mus: 5
   name:  'CIMIC'
-- fields: 1
-  img:  'http://lh6.ggpht.com/D4r1KWBUGF8ZJDUXBHVcNVeP66FVliNQrEX0n-jZkYyFnWUfZ_vfBIAt4padKNgvgmextrkL2-kxkv6JbS3u'
-  lat: 40.110394
-  level: 7
-  lon: -88.219509
-  mus: 5
-  name:  'University Of Illinois'
 - fields: 2
   img:  'http://lh4.ggpht.com/kikXgFanbehTzblqLlN2WzEcVgfnP2HD4JE7GI1GOKTu44g13lknkSsdu9prj71y0zKIBFJv_0RIkFW3vXY'
   lat: 40.117574
@@ -1982,7 +1982,7 @@
 - fields: 2
   img:  'http://lh5.ggpht.com/c-upLAoA6V12_Enn5doC2Hqtp3W9dLMIb34VHt0aVni2lW2OF5Lddn2c-1XcxmmaN7um9eyxqOF5c3c0hs4'
   lat: 40.118139
-  level: 7
+  level: 3
   lon: -88.248407
   mus: 4
   name:  'The Americans Creed'
@@ -2213,7 +2213,7 @@
 - fields: 1
   img:  'http://lh5.ggpht.com/NUOCD82iNRGW1NGqEC4FKet1u5_cm4WRNc2c9_YABAjGf6-OSCLz7HgYkP1ZuVAbpMl6Qi10HRW16Oc9jNM2'
   lat: 40.106401
-  level: 5
+  level: 4
   lon: -88.236182
   mus: 2
   name:  'Washington Park'
