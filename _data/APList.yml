@@ -139,7 +139,7 @@
 - ap: 4411
   img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
   lat: 40.117107
-  level: 4
+  level: 5
   lon: -88.242467
   name:  'Radio Maria'
 - ap: 4411
@@ -173,12 +173,6 @@
   lon: -88.242671
   name:  'Marketplace Mall Fountain'
 - ap: 3661
-  img:  'http://lh5.ggpht.com/gkIcCbfmQWyJ7s9ryhzfOOn1K-oa8huqzZN80X2psVjx_6Iur5egjGncbUIAMLiAJAf9qG1Ac8lX2MomHYY'
-  lat: 40.108185
-  level: 5
-  lon: -88.225203
-  name:  'Statue at Medical Sciences'
-- ap: 3661
   img:  'http://lh5.ggpht.com/W2upB0MQ9l_1Z1JYjKFslTSSU-oi3b_kOidwTlG4pOCZRHWiD52CzcX2WMquuVEnMpxhtSRQOuAdLgDn8rs'
   lat: 40.096671
   level: 5
@@ -190,6 +184,12 @@
   level: 3
   lon: -88.227932
   name:  'Talbot Lab Mural'
+- ap: 3661
+  img:  'http://lh5.ggpht.com/gkIcCbfmQWyJ7s9ryhzfOOn1K-oa8huqzZN80X2psVjx_6Iur5egjGncbUIAMLiAJAf9qG1Ac8lX2MomHYY'
+  lat: 40.108185
+  level: 5
+  lon: -88.225203
+  name:  'Statue at Medical Sciences'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.275273
@@ -250,36 +250,18 @@
   level: 4
   lon: -88.241752
   name:  'WEFT 90.1 FM Community Radio'
-- ap: 3474
-  img:  'http://lh4.ggpht.com/0j8eeTKJgjnYhHpf4qH_70CZHLbujC5v-XP_ndcqh1xIR-5V2K_CGdjIe1ZfMbwvSyISxxYKoZynw1DaQcj8'
-  lat: 40.105874
-  level: 6
-  lon: -88.230562
-  name:  'St. John''s Rectory'
-- ap: 3474
-  img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
-  lat: 40.107753
-  level: 4
-  lon: -88.228913
-  name:  'Zipcar-Wright Street & Daniel Street'
-- ap: 3324
-  img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
-  lat: 40.106921
-  level: 4
-  lon: -88.230145
-  name:  'University Lutheran Church'
-- ap: 3474
-  img:  'http://lh5.ggpht.com/uP38yDCg4dPRI1F0r0ALGArEc8Q9eoRuaxkfxZTafZZr9tMcbLUZek1hZRbLUxHJVGPcLSf_JKbotbTBeR7nfA'
-  lat: 40.107226
-  level: 4
-  lon: -88.22858
-  name:  'Class of 1897 Tree'
 - ap: 3249
   img:  'http://lh5.ggpht.com/28al1CSkHNCrM9Sb57TYmawr1uFh6r5raWMJKD4QjLCj6N5YHEYIIizONs_hHF3pHuIppLjqxbTFcvrI9Dq9'
   lat: 40.111205
   level: 3
   lon: -88.227583
   name:  'Theory of Superconductivity Plaque'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/0j8eeTKJgjnYhHpf4qH_70CZHLbujC5v-XP_ndcqh1xIR-5V2K_CGdjIe1ZfMbwvSyISxxYKoZynw1DaQcj8'
+  lat: 40.105874
+  level: 6
+  lon: -88.230562
+  name:  'St. John''s Rectory'
 - ap: 2724
   img:  'http://lh6.ggpht.com/vqiOPPON1phvYOdOmbFDrxhN6cbYjeLHVgH42EV0XsJjVNd81EM1DKY_aRVM-rwJ9Il5tLc3QsL_gOS4qAkF'
   lat: 40.139891
@@ -371,6 +353,18 @@
   lon: -88.238623
   name:  'Champaign County Historical Museum'
 - ap: 2537
+  img:  'http://lh3.ggpht.com/my_h4qixFMd6jwP9asxucVH5iZ3ZW1oV4DbCKeys_8MAAp1-KYNV0YFzZtZTEd9L0ZaMl1OqucHJTPdwROI'
+  lat: 40.127447
+  level: 2
+  lon: -88.244069
+  name:  'Hazel Park Playground Dedication Plaque'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/RsXj0S9rbD_i4VFZmhxJtNtmwEeJOoYsmM8wyu90kB6srZMfUskP6iqrTY9eqFNQhhQrU50k92lCH4JEQ2w'
+  lat: 40.127358
+  level: 2
+  lon: -88.243851
+  name:  'Stanchion'
+- ap: 2537
   img:  'http://lh3.ggpht.com/2WMtYMnBjTlw-gPK9quwjMde6Heie7SQHCZT41kPiIpOwxXEIQWbB_euK-R5rZhqUcmGuZJ0tIBh_801KGyVsw'
   lat: 40.11453
   level: 5
@@ -412,6 +406,18 @@
   level: 2
   lon: -88.219342
   name:  'Illini Nellie Memorial'
+- ap: 2387
+  img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
+  lat: 40.106921
+  level: 4
+  lon: -88.230145
+  name:  'University Lutheran Church'
+- ap: 2312
+  img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
+  lat: 40.107753
+  level: 3
+  lon: -88.228913
+  name:  'Zipcar-Wright Street & Daniel Street'
 - ap: 2537
   img:  'http://lh4.ggpht.com/6JXSHiCDi2iar6h4bJwjAP3in4t5pCFNFkUI2jkc-IKAowBmm9GOwU1vcyf4YI1MjU5eWO4OJVGd682NECK6'
   lat: 40.122334
