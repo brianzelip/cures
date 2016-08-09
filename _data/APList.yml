@@ -70,18 +70,6 @@
   level: 3
   lon: -88.218903
   name:  'Farmhouse Illinois Chapter'
-- ap: 4785
-  img:  'http://lh3.ggpht.com/F_QKFluz0Gh6sC9FPGcL_wT-n-zRGyp0qQ9mnghB2L5Aer_c6Qm1q7KeGoCaGwDoJax_R_sK1atr3F0hP4Ap3w'
-  lat: 40.136807
-  level: 6
-  lon: -88.257174
-  name:  'Champaign Fire Department Mural'
-- ap: 4598
-  img:  'http://lh3.googleusercontent.com/tWUxy7KQ-q_qBBIgLzTjjezrBpWPSJ_z3FWnvbB8Y5wIiYZW1I5ioL0Tzq60VyalCaIwOk4UI3agM8tFaykY'
-  lat: 40.117427
-  level: 5
-  lon: -88.243235
-  name:  'Cowboy Monkey'
 - ap: 4598
   img:  'http://lh3.googleusercontent.com/hJZWoErzM-MuXulq4FlhlZwMbJX1Isd81GBUBVKayd57jVIVxUle3itd-1DRKo2VaNXznWr1X639fa44Etk'
   lat: 40.141919
@@ -119,12 +107,6 @@
   lon: -88.249381
   name:  'Bicentennial Tree'
 - ap: 3848
-  img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
-  lat: 40.11784
-  level: 4
-  lon: -88.24286
-  name:  'Kaufman Memorial'
-- ap: 3848
   img:  'http://lh5.ggpht.com/dEeT4acpLu-WQFlZWd3psap5qAqqPTSVzm8Qt1QtpqtwZ0j1V9eKFcmpgN9K_x1PL4XVchuevw25rxHekz3tvQ'
   lat: 40.111968
   level: 6
@@ -142,12 +124,6 @@
   level: '?'
   lon: -88.201368
   name:  '2012 Employee Dedication Bench'
-- ap: 3436
-  img:  'http://lh4.ggpht.com/_jAAuDi8SO5uupi8JlB3HZaFG40S15izNv_3vqOt7ro2rRHuXrfdEKfEFvRESdAjCEz3RVDpyrxJGSIrju5d'
-  lat: 40.117916
-  level: 3
-  lon: -88.243087
-  name:  'Sholem Building'
 - ap: 3661
   img:  'http://lh6.ggpht.com/duOeXcOSQLWosdD0JJXg3pWWQp4t5sL0x9qDHoTIBFNOzEW0t53Lt2cnwgV2E_Su0l1ajIQxPtVbbK_sDRaS'
   lat: 40.141775
@@ -251,6 +227,12 @@
   lon: -88.239027
   name:  'Human Kinetics Park'
 - ap: 2537
+  img:  'http://lh3.ggpht.com/F_QKFluz0Gh6sC9FPGcL_wT-n-zRGyp0qQ9mnghB2L5Aer_c6Qm1q7KeGoCaGwDoJax_R_sK1atr3F0hP4Ap3w'
+  lat: 40.136807
+  level: 6
+  lon: -88.257174
+  name:  'Champaign Fire Department Mural'
+- ap: 2537
   img:  'http://lh6.ggpht.com/Jz3ahY5LQ13wKWLY9SEvexiinJa3GeO1eB_FynplikRpa77swLST6cUAJjPpqKDSq2KU4Dcyui-QBstz_Z3k'
   lat: 40.094624
   level: 4
@@ -286,24 +268,6 @@
   level: 4
   lon: -88.248618
   name:  'Lieut. E.G. Stillwell Memorial Tree'
-- ap: 2237
-  img:  'http://lh5.ggpht.com/KYppjeOoIlb4lbowRrrC5qRdYW7_KU8rzjtDMpvhh-Q_c6VZOTtVmOqmmxChJA2hjlpS5dJ1JnhUQcKUAXDWHA'
-  lat: 40.117976
-  level: 2
-  lon: -88.242642
-  name:  'Stevick Building'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/my_h4qixFMd6jwP9asxucVH5iZ3ZW1oV4DbCKeys_8MAAp1-KYNV0YFzZtZTEd9L0ZaMl1OqucHJTPdwROI'
-  lat: 40.127447
-  level: 2
-  lon: -88.244069
-  name:  'Hazel Park Playground Dedication Plaque'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/RsXj0S9rbD_i4VFZmhxJtNtmwEeJOoYsmM8wyu90kB6srZMfUskP6iqrTY9eqFNQhhQrU50k92lCH4JEQ2w'
-  lat: 40.127358
-  level: 2
-  lon: -88.243851
-  name:  'Stanchion'
 - ap: 2537
   img:  'http://lh3.ggpht.com/2WMtYMnBjTlw-gPK9quwjMde6Heie7SQHCZT41kPiIpOwxXEIQWbB_euK-R5rZhqUcmGuZJ0tIBh_801KGyVsw'
   lat: 40.11453
@@ -331,7 +295,7 @@
 - ap: 2537
   img:  'http://lh5.ggpht.com/o-kaBPu6kwiDnL2T5S5uQNOaquEtumPFT9hq4jX9uRcqpMRXMO4B80QO3gskaj677koefR0kBxjAnWHs6uwL'
   lat: 40.108675
-  level: 4
+  level: 6
   lon: -88.221303
   name:  'Levis Faculty Center'
 - ap: 2537
