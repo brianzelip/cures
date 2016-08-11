@@ -61,7 +61,7 @@
 - ap: 5535
   img:  'http://lh5.ggpht.com/dRrlHXlT2nMNgZNHiYo52ha9L-Xay9DyOJR2Cpqs74hgAJ09abn9OTAtMzRVedt1_R9ObZllLO98vRhNMfgTgVsJCk1S-HJwX_XgiGpG4lz3a328'
   lat: 40.11671
-  level: 3
+  level: 4
   lon: -88.24263
   name:  'Cafe Kopi'
 - ap: 5348
@@ -76,24 +76,6 @@
   level: 1
   lon: -88.24286
   name:  'Kaufman Memorial'
-- ap: 5159
-  img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
-  lat: 40.107629
-  level: 7
-  lon: -88.224484
-  name:  'Bucky Balls'
-- ap: 4972
-  img:  'http://lh5.ggpht.com/Ezq3ovJZ5M4i8wxOtoPoHEBF_o5ur2tH3Hdb0QU-JmlxR71RxAS_K5h14xYHSyI2WOF0RuBy_hZZeslYhNNe'
-  lat: 40.102329
-  level: 5
-  lon: -88.221381
-  name:  'McKinley Fountain'
-- ap: 4972
-  img:  'http://lh6.ggpht.com/B4G90nKtVQc7jPOxaA1XcAIKA2UJlU15MIPZLitQmNBNAtfIc9qCPpe75YFHYaZN3YUpU6b4CNMOPsBrg1Q'
-  lat: 40.100489
-  level: 6
-  lon: -88.218903
-  name:  'Farmhouse Illinois Chapter'
 - ap: 4598
   img:  'http://lh3.ggpht.com/WDQ55kRMYCIrw9Pm69IuV6cBTI2nx7Z1gU9yxX2oE2oH9EdPnO1ltxSROAjUmHmBu84SEtHmLKregkDqlLYzUg'
   lat: 40.117126
@@ -112,12 +94,12 @@
   level: 5
   lon: -88.23398
   name:  'Church of the Living God'
-- ap: 3848
-  img:  'http://lh5.ggpht.com/W2upB0MQ9l_1Z1JYjKFslTSSU-oi3b_kOidwTlG4pOCZRHWiD52CzcX2WMquuVEnMpxhtSRQOuAdLgDn8rs'
-  lat: 40.096671
-  level: 5
-  lon: -88.217873
-  name:  'Skull And Wagon Wheel'
+- ap: 4035
+  img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
+  lat: 40.107629
+  level: 7
+  lon: -88.224484
+  name:  'Bucky Balls'
 - ap: 3661
   img:  'http://lh5.ggpht.com/nWEtxuKQdy0teBBue1DYmG7P3SF5-3A6zlB7GwVHBWlolAZYGq6Br78lWcF9ltFy-KeSlozXie2RmU6JfCUX'
   lat: 40.142673
@@ -178,6 +160,18 @@
   level: 5
   lon: -88.223867
   name:  'Dairy Experimental Plaque'
+- ap: 2724
+  img:  'http://lh5.ggpht.com/W2upB0MQ9l_1Z1JYjKFslTSSU-oi3b_kOidwTlG4pOCZRHWiD52CzcX2WMquuVEnMpxhtSRQOuAdLgDn8rs'
+  lat: 40.096671
+  level: 5
+  lon: -88.217873
+  name:  'Skull And Wagon Wheel'
+- ap: 2724
+  img:  'http://lh5.ggpht.com/Ezq3ovJZ5M4i8wxOtoPoHEBF_o5ur2tH3Hdb0QU-JmlxR71RxAS_K5h14xYHSyI2WOF0RuBy_hZZeslYhNNe'
+  lat: 40.102329
+  level: 5
+  lon: -88.221381
+  name:  'McKinley Fountain'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.796468
@@ -257,6 +251,12 @@
   lon: -88.240577
   name:  'Spiral Flight'
 - ap: 2537
+  img:  'http://lh4.ggpht.com/m6NugtNnF8mim1fUMFDjmScu99lS5PjmUlCT9kKOOsIMqCH5uu5MRPhMusl6BPPpZ7Z3hnYTQZALmqSpLHxs'
+  lat: 40.103652
+  level: 5
+  lon: -88.230025
+  name:  'Pillars at Wohlers Hall'
+- ap: 2537
   img:  'http://lh4.ggpht.com/q2L_InMJy4JZq79dX9LLf9XauoaXGOLl7SWvVyD9F_jIgyqpn7SsqHfY9EMYq1SLteTpj0cQDZN4f9x0IuvV5w'
   lat: 40.107273
   level: 6
@@ -268,9 +268,3 @@
   level: 6
   lon: -88.221303
   name:  'Levis Faculty Center'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/m6NugtNnF8mim1fUMFDjmScu99lS5PjmUlCT9kKOOsIMqCH5uu5MRPhMusl6BPPpZ7Z3hnYTQZALmqSpLHxs'
-  lat: 40.103652
-  level: 5
-  lon: -88.230025
-  name:  'Pillars at Wohlers Hall'
