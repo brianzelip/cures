@@ -1,15 +1,15 @@
-- ap: 8722
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.106513
-  level: '?'
-  lon: -88.5585
-  name:  'Lodge Christian Church'
 - ap: 8535
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.312242
   level: '?'
   lon: -88.201368
   name:  '2012 Employee Dedication Bench'
+- ap: 8535
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.106513
+  level: '?'
+  lon: -88.5585
+  name:  'Lodge Christian Church'
 - ap: 6848
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.341598
@@ -22,12 +22,6 @@
   level: '?'
   lon: -88.525734
   name:  'baa4782d579a4b15b184b207abe0257e.16'
-- ap: 5348
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.947994
-  level: '?'
-  lon: -89.079861
-  name:  'a4b0119241ae4884a36a8fbe128662e9.16'
 - ap: 5161
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.275273
@@ -42,17 +36,17 @@
   name:  '487b3aa9f43e4b18b2b7699b56f0d8e0.12'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.639923
-  level: '?'
-  lon: -89.685309
-  name:  '77fb80dbe4054ed692ee42553a35bd12.16'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.448182
   level: '?'
   lon: -89.376652
   name:  '7ecce09847b64557890010c347979cbf.12'
-- ap: 3474
+- ap: 4411
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.947994
+  level: '?'
+  lon: -89.079861
+  name:  'a4b0119241ae4884a36a8fbe128662e9.16'
+- ap: 3848
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.491938
   level: '?'
@@ -70,18 +64,24 @@
   level: '?'
   lon: -86.435539
   name:  '2d8b6287ab974aa2afb6fc8b20a2b2fb.16'
-- ap: 2724
+- ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.680223
+  lat: 42.436153
   level: '?'
-  lon: -88.288274
-  name:  'f0ae5f8377c046e2b413e075d00bedcb.16'
+  lon: -89.331947
+  name:  'de6c444932d8447a8df7d51a7638ba08.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.964092
   level: '?'
   lon: -87.633659
   name:  '16dd983c6c30490faf1c45bfd3e1ff1e.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.639923
+  level: '?'
+  lon: -89.685309
+  name:  '77fb80dbe4054ed692ee42553a35bd12.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.961753
@@ -114,16 +114,22 @@
   name:  'd5f8a7d523604257abcf8dbb69a636ee.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.984616
-  level: '?'
-  lon: -88.263266
-  name:  '6fc2b246c1ea47d0ba7c8aaacc073f38.12'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.964336
   level: '?'
   lon: -87.633564
   name:  '7fbe13944b5d4af78e982aada5eda453.16'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/9ocSZtxwhI0ZOXkGFEbDOH1572LrymOwYpROz-hP90Uk4BAS8FIjCB4GXt2ndpQrlEV-tG4qc0zoMlk9693z'
+  lat: 40.12977
+  level: 4
+  lon: -88.271927
+  name:  'Citizens Park'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/BTOxkIG5jV6VaSJtyt1Kge-WlIsvddZuz7YzzqkQhAMWxgfE71ab2wqWdKY20M9-6zbGlVq43XMJ2CrZDqU'
+  lat: 40.127246
+  level: 8
+  lon: -88.276738
+  name:  'Kraft Giant Macaroni'
 - ap: 2537
   img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
   lat: 40.11784
