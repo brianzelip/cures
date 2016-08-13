@@ -559,6 +559,13 @@
   mus: 432
   name:  'Campus Information Booth '
 - fields: 7
+  img:  'http://lh6.ggpht.com/D4r1KWBUGF8ZJDUXBHVcNVeP66FVliNQrEX0n-jZkYyFnWUfZ_vfBIAt4padKNgvgmextrkL2-kxkv6JbS3u'
+  lat: 40.110394
+  level: 8
+  lon: -88.219509
+  mus: 422
+  name:  'University Of Illinois'
+- fields: 7
   img:  'http://lh4.ggpht.com/4pxL0jEBlvHiFP3fcYdIWIAHRpyhg2RaH6Ikze3DLOSsA509375IHgRzptCjWZryzLqpuDEYLZTFDbwSKmE'
   lat: 40.117343
   level: 7
@@ -600,13 +607,6 @@
   lon: -88.22174
   mus: 366
   name:  'Poisonous Plant Garden'
-- fields: 6
-  img:  'http://lh6.ggpht.com/D4r1KWBUGF8ZJDUXBHVcNVeP66FVliNQrEX0n-jZkYyFnWUfZ_vfBIAt4padKNgvgmextrkL2-kxkv6JbS3u'
-  lat: 40.110394
-  level: 8
-  lon: -88.219509
-  mus: 360
-  name:  'University Of Illinois'
 - fields: 12
   img:  'http://lh3.ggpht.com/VLipBehsKPCp8ewQnBV1ZCz7uE75zcY46iGDyFfFHgX1o55t3DONb3wcBcL5RMYSqABRK0TgIW3DluNy8y6WaA'
   lat: 40.101131
@@ -915,6 +915,13 @@
   lon: -88.24318
   mus: 133
   name:  'Mini Park II Sculpture'
+- fields: 2
+  img:  'http://lh6.ggpht.com/do_DYaj2kuC0reA8E9rCQLDp9K62ZQd4qfV0SBSo8iPPupN2U8_deQ7GHA4zS42XaiZnPqoObG_y_dRCUwNa'
+  lat: 40.11283
+  level: 8
+  lon: -88.209282
+  mus: 133
+  name:  'Cycling Mural'
 - fields: 4
   img:  'http://lh3.ggpht.com/zcG3oPHYwtT-X8C6OGJQ0iihspDno3ymd8A08OExrNLn7Qv29LKngk7yB87TqGWfyOFk-ZBT4zJOsjhyYU_mKw'
   lat: 40.092698
@@ -1062,13 +1069,6 @@
   lon: -88.281983
   mus: 74
   name:  'Centennial Park'
-- fields: 1
-  img:  'http://lh6.ggpht.com/do_DYaj2kuC0reA8E9rCQLDp9K62ZQd4qfV0SBSo8iPPupN2U8_deQ7GHA4zS42XaiZnPqoObG_y_dRCUwNa'
-  lat: 40.11283
-  level: 8
-  lon: -88.209282
-  mus: 70
-  name:  'Cycling Mural'
 - fields: 2
   img:  'http://lh3.ggpht.com/R3skA_zNDTXP9NfdUIB9j7cOpSKo7-iKXHX1WzPcl8wmPKII84LwCLSADJDdEHEq7GIDwfE1THFMg6nPD7Py0Q'
   lat: 40.104098
@@ -1104,6 +1104,13 @@
   lon: -88.330182
   mus: 63
   name:  'Metal Mesh '
+- fields: 1
+  img:  'http://lh4.ggpht.com/g8tAznMB64NxNMd4eYtF27DhNprtAqnBEt_llGcKp1qpKQeUvyHBi8p5QuGURqAGieaeJscmQPi6Wosmutg'
+  lat: 40.111328
+  level: 6
+  lon: -88.209207
+  mus: 63
+  name:  'Urbana Free Library'
 - fields: 3
   img:  'http://lh4.ggpht.com/cXzBVEYwsBuU4BX2Fkwi_8TwqSW6ExF6m7IyyHAOrdCMru_sr74MrtK8iGVa0zj3YFt--pdhmI5xwUIeJw'
   lat: 40.120191
@@ -2304,7 +2311,7 @@
 - fields: 1
   img:  'http://lh5.ggpht.com/KuDVZqnpBQnne0a_UqpN4wpsQFlw3nVXAWtRKP_AdZ3CjQ0MHUBgU_2hE8hb71h31FTQbduYmB6DNuVKA0s'
   lat: 40.116822
-  level: 4
+  level: 3
   lon: -88.243445
   mus: 1
   name:  'Remembering Horeb'
@@ -2430,7 +2437,7 @@
 - fields: 1
   img:  'http://lh3.googleusercontent.com/M1BXbCtfOfi1ipACxyQaE2jCbcLCxQTsJVIUli8GgprQaS2WmnVuSsqMoFaWub8LM6VF7KK4wSH9SSGdrXM'
   lat: 40.117287
-  level: 4
+  level: 2
   lon: -88.242984
   mus: 1
   name:  'Mural for the Blind Pig Brewery'
