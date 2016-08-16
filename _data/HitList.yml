@@ -1,10 +1,3 @@
-- fields: 6
-  img:  'http://lh5.ggpht.com/n8MFM2pb-tE5i9EziJdygPPUK8VqEZ4BHGQaywz4lwe3WjwdgO0ohBCPZmiMoL00r3mVPmYnbCunJDeFbyk'
-  lat: 40.118593
-  level: 5
-  lon: -88.240416
-  mus: 154
-  name:  'Champaign Rail Water Tower'
 - fields: 7
   img:  'http://lh6.ggpht.com/eVUed3229Zh9saFzaZQcI6LXsyDB0IJxc9v-Aa9Oa0AhjQLXBIVSuu1qUQwJVXWgmXYPY9sqTzK73Le4BuU'
   lat: 40.11122
@@ -19,13 +12,6 @@
   lon: -88.194563
   mus: 31
   name:  'Pavilion in the Woodland'
-- fields: 2
-  img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
-  lat: 40.115838
-  level: 5
-  lon: -88.241338
-  mus: 30
-  name:  'Illinois Terminal'
 - fields: 3
   img:  'http://lh4.ggpht.com/Mr8XeGiDafWk47NSkxDW3WManlpDnqzQWOT1VE2j0f0jFdh3tCvvntj45n1BJEnHylldZRnpPEOJ8OLeFZI'
   lat: 40.114405
@@ -47,13 +33,13 @@
   lon: -88.229031
   mus: 9
   name:  'Illini Hall'
-- fields: 1
-  img:  'http://lh5.ggpht.com/XQVr2AUWddJQMpYbapEIpcTLBeBvcpgmW016VjkAOXrp8_P2VsMxQY8FVhtDhA73iTCXCPiydjFIJcbcSa8_'
-  lat: 40.116206
-  level: 6
-  lon: -88.24306
-  mus: 7
-  name:  'Indigo Art Gallery'
+- fields: 4
+  img:  'http://lh5.ggpht.com/KYppjeOoIlb4lbowRrrC5qRdYW7_KU8rzjtDMpvhh-Q_c6VZOTtVmOqmmxChJA2hjlpS5dJ1JnhUQcKUAXDWHA'
+  lat: 40.117976
+  level: 5
+  lon: -88.242642
+  mus: 6
+  name:  'Stevick Building'
 - fields: 3
   img:  'http://lh5.ggpht.com/-OqC4qsxJReOCIM0nMbVjvfydYq6x9bfLc7fmyI-u3x_ygkr5RCE-Ct-uYn-wvhkpdLRjIXEkiODbTkV1iufX14GyE_Qzy1Vkz2mpimaCx26Bo8'
   lat: 40.109364
@@ -61,6 +47,13 @@
   lon: -88.227697
   mus: 4
   name:  'The Diana Fountain'
+- fields: 4
+  img:  'http://lh3.ggpht.com/1G0o5RjtXyfAjbI-E2honhhelnuiq4lIkpHmB44e-AwSBuIxVOdLPVYjImbTMS8kyBdZuKuiMQHciUIdAWg'
+  lat: 40.118368
+  level: 4
+  lon: -88.243737
+  mus: 3
+  name:  'Frank Robeson Memorial'
 - fields: 2
   img:  'http://lh5.ggpht.com/4eagHlnlpVbtFi_knZN73PIs2A--Ipj6SOlkQADePlfnzfOnJn-cAv0IoNNv4qR8WrbUFImUKHBknyaoAewO'
   lat: 40.111383
@@ -68,27 +61,6 @@
   lon: -88.225675
   mus: 3
   name:  'Only Rain Down The Drain'
-- fields: 1
-  img:  'http://lh5.ggpht.com/k51dyIcq_VT8S0cGsHhfgbItaWCMpBfJ9wjHrms0zYNSVH5gfV5-gmxjVatlchfenHsCBRl1uE8AzYJTf8dN'
-  lat: 40.117449
-  level: 5
-  lon: -88.23557
-  mus: 3
-  name:  'Park Avenue Seventh Day Adventist Church'
-- fields: 2
-  img:  'http://lh5.ggpht.com/nirQKdy3s9r8TSV7cB7_B0l-0EsFXBkg1aitH05R0ttPhOEewGxlq1GRnlDvYFT2V8Z91hWnB9YD3WjxBvyZ'
-  lat: 40.11868
-  level: 2
-  lon: -88.243426
-  mus: 3
-  name:  '"Pointless"'
-- fields: 2
-  img:  'http://lh6.ggpht.com/SCYK-XeMmOyfRrTt1-aQNoDA-2Sib4m5Ch26mTwo6XNdVeVnfi7W74Ik6IRLAPSoKzSS97pgwt50Jl9oSgGfP029USxZzQWKNJo3rbs-6YHBPBif'
-  lat: 40.116792
-  level: 6
-  lon: -88.241752
-  mus: 3
-  name:  'WEFT 90.1 FM Community Radio'
 - fields: 1
   img:  'http://lh3.ggpht.com/M4bKZ-CKQxZ9kYbwoDe79j6v5hIrWVwAcRzAUm9hg6fREm0ubCBwul695BAa_BhnyxOXdXIub7UvBaqxHnk'
   lat: 40.098803
@@ -99,17 +71,31 @@
 - fields: 2
   img:  'http://lh5.ggpht.com/VYMooLhz51W3fCgti3L9LEQNMJjmFeW30saxIYK34yGEReG1naEKEd3eW1uyFgSlzpu-P5KertNDe4Z6qu8'
   lat: 40.109913
-  level: 5
+  level: 6
   lon: -88.228393
   mus: 2
   name:  'Alma Mater Statue'
 - fields: 1
   img:  'http://lh4.ggpht.com/DKqCX7ekIzT953BiW_t-Oe0jBg-GV5rCptYhvQqlLpQdaRpMxnNfMXekcxHT3XIhqCgskbqRwa-YofxMh71Q'
   lat: 40.090655
-  level: 3
+  level: 4
   lon: -88.289418
   mus: 2
   name:  'Peter Taylor Lewis Baseball Field'
+- fields: 3
+  img:  'http://lh4.ggpht.com/xS51--rXA9M_IHpXWgFQxKZU-YbD-1zk-nug6k7RyKl8rYeam_YFwMmLNWRRHHzI-rOTGyhTJQQ314WudSQJ'
+  lat: 40.117132
+  level: 3
+  lon: -88.243009
+  mus: 2
+  name:  'Fountain in the Alley'
+- fields: 3
+  img:  'http://lh3.googleusercontent.com/tWUxy7KQ-q_qBBIgLzTjjezrBpWPSJ_z3FWnvbB8Y5wIiYZW1I5ioL0Tzq60VyalCaIwOk4UI3agM8tFaykY'
+  lat: 40.117427
+  level: 4
+  lon: -88.243235
+  mus: 1
+  name:  'Cowboy Monkey'
 - fields: 1
   img:  'http://lh3.ggpht.com/ZNkPqwMl66d8rWeX1GymLZKCMlnPUpbtprtKAZvDiBGUT-YhABoAQr60zv0TpoCrpBOhHO2q3ShocFKAn-1u'
   lat: 40.056616
@@ -117,13 +103,6 @@
   lon: -88.242475
   mus: 1
   name:  'Prairie Fields Park'
-- fields: 2
-  img:  'http://lh4.ggpht.com/24wGJwnamMm4J20H07gbeT2nN7pTLWHh7lQjuFh6Nn5A67w8dzxKcAOw1_syPiuVU0VxmKs7MvN3FYyD52U_vg'
-  lat: 40.112295
-  level: 3
-  lon: -88.208208
-  mus: 1
-  name:  'Crane Alley'
 - fields: 1
   img:  'http://lh5.ggpht.com/KQ7QYG8rWnVxSme_uq3cOu8IreZRbztWWKHTNPBy_6GvCqP3ywy-HEoSUxqloLDeUggEVV0UhKLy8Ja0v0yPdQ'
   lat: 40.110844
@@ -131,6 +110,13 @@
   lon: -88.224091
   mus: 1
   name:  'Institute of Aviation'
+- fields: 1
+  img:  'http://lh3.googleusercontent.com/M1BXbCtfOfi1ipACxyQaE2jCbcLCxQTsJVIUli8GgprQaS2WmnVuSsqMoFaWub8LM6VF7KK4wSH9SSGdrXM'
+  lat: 40.117287
+  level: 4
+  lon: -88.242984
+  mus: 1
+  name:  'Mural for the Blind Pig Brewery'
 - fields: 1
   img:  'http://lh6.ggpht.com/VGq5_qMrAE5FbP2m0Maszw451m-OfbmuUYDIryB0OyOe4-R92nr43XAmU-Rl5GExMkQzJHBA2a45SDWOypA'
   lat: 40.118224
@@ -152,3 +138,10 @@
   lon: -88.22862
   mus: 1
   name:  'Alma Mater Plaza'
+- fields: 1
+  img:  'http://lh3.ggpht.com/bltQwmnzp2vSKYhLpzNLqB4iddy6ie0kWk9G7Wce4U9qmW3CABxbXAhF7v0oG9QLFD2q57UZuVqZCMgN3MHZfA'
+  lat: 40.118335
+  level: 5
+  lon: -88.243408
+  mus: 1
+  name:  'Downtown Fountain'
