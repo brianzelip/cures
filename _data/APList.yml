@@ -46,12 +46,6 @@
   level: 5
   lon: -88.225762
   name:  'Computer Based Education Plaque'
-- ap: 4972
-  img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
-  lat: 40.107753
-  level: 2
-  lon: -88.228913
-  name:  'Zipcar-Wright Street & Daniel Street'
 - ap: 4785
   img:  'http://lh5.ggpht.com/4eagHlnlpVbtFi_knZN73PIs2A--Ipj6SOlkQADePlfnzfOnJn-cAv0IoNNv4qR8WrbUFImUKHBknyaoAewO'
   lat: 40.111383
@@ -76,12 +70,6 @@
   level: 3
   lon: -88.225353
   name:  'Transportation Building - University Of Illinois'
-- ap: 4598
-  img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
-  lat: 40.107629
-  level: 7
-  lon: -88.224484
-  name:  'Bucky Balls'
 - ap: 4598
   img:  'http://lh5.ggpht.com/VYMooLhz51W3fCgti3L9LEQNMJjmFeW30saxIYK34yGEReG1naEKEd3eW1uyFgSlzpu-P5KertNDe4Z6qu8'
   lat: 40.109913
@@ -148,6 +136,12 @@
   level: 6
   lon: -88.224198
   name:  'Siebel Center for Computer Science'
+- ap: 3623
+  img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
+  lat: 40.107753
+  level: 1
+  lon: -88.228913
+  name:  'Zipcar-Wright Street & Daniel Street'
 - ap: 3661
   img:  'http://lh4.ggpht.com/DKqCX7ekIzT953BiW_t-Oe0jBg-GV5rCptYhvQqlLpQdaRpMxnNfMXekcxHT3XIhqCgskbqRwa-YofxMh71Q'
   lat: 40.090655
@@ -173,11 +167,11 @@
   lon: -88.24125
   name:  'Travis Field And Dedication Plaque'
 - ap: 3661
-  img:  'http://lh5.ggpht.com/1fPvqpqXG5PDCkmegoWb9Tv9N5_MZh9XjmZpbyNEs5yPDsCscbrPB1cO_Pf8GT35HYrTF01FZ6s5VPIpjJ_20A'
-  lat: 40.107098
-  level: 2
-  lon: -88.228984
-  name:  'Saint Andrew''s Church'
+  img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
+  lat: 40.107629
+  level: 7
+  lon: -88.224484
+  name:  'Bucky Balls'
 - ap: 3661
   img:  'http://lh3.ggpht.com/wOZOXhKOnhbKEPMQke-zGIG_vheDkHM8q19B1n_is5H7t1whBcQxBIGZI6VIPNw8mdCNXG6EUZeSjd1YLdngdg'
   lat: 40.108965
@@ -198,16 +192,16 @@
   name:  'The Diana Fountain'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.966004
-  level: '?'
-  lon: -87.632502
-  name:  '367908f1dbf04c84bf3cb27575c4359e.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.964092
   level: '?'
   lon: -87.633659
   name:  '16dd983c6c30490faf1c45bfd3e1ff1e.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.966004
+  level: '?'
+  lon: -87.632502
+  name:  '367908f1dbf04c84bf3cb27575c4359e.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.962826
