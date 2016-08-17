@@ -925,7 +925,7 @@
 - fields: 4
   img:  'http://lh6.ggpht.com/bFwJFYYW2YoT3hMGr1ejzv_Vuifm5-ZJzMPcWnpZkQQ9dQSdupKPZDVNHvroawUBMuTAHOJBxvmai305qSe31Q'
   lat: 40.097523
-  level: 6
+  level: 2
   lon: -88.281912
   mus: 113
   name:  'Westminster Presbyterian Church'
@@ -1657,13 +1657,6 @@
   lon: -88.249937
   mus: 6
   name:  'Alice Marie Weber Plaque'
-- fields: 4
-  img:  'http://lh5.ggpht.com/0m1i3CJSj3bKhLj5BgXi8SFpgoihNsBoN6fpccgDU2tjtPcA5BqB1IxvR0yAX9FWkgt3_Q8gbAyGfdJDliGP'
-  lat: 40.115142
-  level: 6
-  lon: -88.238658
-  mus: 6
-  name:  'First Street Antiques'
 - fields: 5
   img:  'http://lh3.ggpht.com/KzADjdPRAvwycpfTBdAeDwFJ0AxZJG2dPmbPWkXq55QLV9PfpJ_-DsXWIlVgsISUApRdJ5cAxRWx0k0W2hI'
   lat: 40.09979
@@ -1734,13 +1727,6 @@
   lon: -88.249043
   mus: 4
   name:  'Bilbrey Bandstand'
-- fields: 3
-  img:  'http://lh3.ggpht.com/_K7sIxE489M-QkUoRrgaLB_XBi9BcOI563VzvhOcmhjwHsLO51ORrhkiWZkqThKNBlPAYzclT_qdR_sGe8g'
-  lat: 40.114277
-  level: 5
-  lon: -88.238879
-  mus: 4
-  name:  'Prow 2'
 - fields: 5
   img:  'http://lh4.ggpht.com/kZm6lbk07IpQebQBqqCODikSi-pOMHQhQ7-c0xNGM6vqUskWUftXV4L3ymEbT0T5IELGgfJ2vrxTZvmgP9D_'
   lat: 40.117118
@@ -1762,13 +1748,6 @@
   lon: -88.207259
   mus: 4
   name:  'US Post Office'
-- fields: 3
-  img:  'http://lh3.googleusercontent.com/vJ_iyOb44eFzOJUNpRouOPDI8rKgOESn7TWw9U9BR3OcWsb6Oak-SSfVH4iPPmtXJdk30rqet1D0KxVohiBC'
-  lat: 40.114712
-  level: 6
-  lon: -88.238392
-  mus: 4
-  name:  'Mexico Mural'
 - fields: 1
   img:  'http://lh6.ggpht.com/EtUHkhRjkZ9UYMDmCSuvHh6t4kcvcgYxxiEJZQqRcnjIDeG4E6RmW0mu5sRNQlBwOb4t6mkSGfGFTOHLR5qw'
   lat: 40.094317
@@ -1783,6 +1762,13 @@
   lon: -88.239009
   mus: 3
   name:  'Honesty Best Policy  - Vernon A. Roland Building'
+- fields: 2
+  img:  'http://lh5.ggpht.com/0m1i3CJSj3bKhLj5BgXi8SFpgoihNsBoN6fpccgDU2tjtPcA5BqB1IxvR0yAX9FWkgt3_Q8gbAyGfdJDliGP'
+  lat: 40.115142
+  level: 6
+  lon: -88.238658
+  mus: 3
+  name:  'First Street Antiques'
 - fields: 6
   img:  'http://lh4.ggpht.com/4LxsGZZMk3DnpJXUvqzrL54CHSP5TDXjUnDJyHmCCTtCJIjGEI7kxT9g4uxfSPh0X6yGLgQo1jfqbu7B8VEr'
   lat: 40.099084
@@ -1860,13 +1846,6 @@
   lon: -88.251426
   mus: 3
   name:  'Ruth Haasis Memorial'
-- fields: 2
-  img:  'http://lh5.ggpht.com/llyW63Gnxl-lT-L_MhXsl4mdbmv29RvYTWcLt1R7JxibVPORq5Wd_UHIdT-vQ0XaUqZVQiN2mXkV4KJpp5sm'
-  lat: 40.1159
-  level: 6
-  lon: -88.238508
-  mus: 3
-  name:  'Dallas & Co: Costumes and Magic'
 - fields: 4
   img:  'http://lh5.ggpht.com/8zq5tMevCiipZK8N9-8SZw3vdsA2HwH0E02ormQshGxHVZrB2WPK7OPC8zt6pjLlgpXVuEYHVA_08_Q8fPw-'
   lat: 40.099647
@@ -1952,6 +1931,13 @@
   mus: 2
   name:  'Curtis William McKinney Memorial'
 - fields: 1
+  img:  'http://lh3.ggpht.com/_K7sIxE489M-QkUoRrgaLB_XBi9BcOI563VzvhOcmhjwHsLO51ORrhkiWZkqThKNBlPAYzclT_qdR_sGe8g'
+  lat: 40.114277
+  level: 5
+  lon: -88.238879
+  mus: 2
+  name:  'Prow 2'
+- fields: 1
   img:  'http://lh6.ggpht.com/dtC5OmH9appnQkJoKvvi2W3ru58HSF6qKL5k4FlhqdViYAjOcPv3PKxyfPj5cbX4OAJC-23f_3fLi2mIcsp5'
   lat: 40.110561
   level: 5
@@ -1972,6 +1958,13 @@
   lon: -88.249214
   mus: 2
   name:  'Bette McKown Honorary'
+- fields: 1
+  img:  'http://lh5.ggpht.com/llyW63Gnxl-lT-L_MhXsl4mdbmv29RvYTWcLt1R7JxibVPORq5Wd_UHIdT-vQ0XaUqZVQiN2mXkV4KJpp5sm'
+  lat: 40.1159
+  level: 6
+  lon: -88.238508
+  mus: 2
+  name:  'Dallas & Co: Costumes and Magic'
 - fields: 2
   img:  'http://lh4.ggpht.com/vLN74xdc8Mdgab4UjP1QUbyX42bkPBXnIqzYzkmRDi4naHiBk2kM1wUA7Mx3Pxl1dpPoMBAg9pV956MqTDk'
   lat: 40.068391
@@ -1989,7 +1982,7 @@
 - fields: 1
   img:  'http://lh3.googleusercontent.com/EvLov_3eYLGHotkWec9w3T1VCPQri5SR8JLZjbJUaxRsyGPLS4YQNXf90xlPoKjxGYlml9N8IDYKwpNvVIWlVA'
   lat: 40.114563
-  level: 3
+  level: 1
   lon: -88.228735
   mus: 1
   name:  'End Caps Sculpture at ECE'
@@ -2042,13 +2035,6 @@
   lon: -88.22503
   mus: 1
   name:  'Dancing Horse Metalwork Art'
-- fields: 1
-  img:  'http://lh3.ggpht.com/-xag7tp3BReTAhfRmVAvpMw1Af15prESg4rve7QnsiIC5IKmKjBszxDIj8F212BmRU1apH_2u_9wAmq58_91'
-  lat: 40.114157
-  level: 5
-  lon: -88.238621
-  mus: 1
-  name:  'Bombay Indian Grill'
 - fields: 1
   img:  'http://lh3.ggpht.com/O6KWMS3yeRHd2EWk2OjTB00RVhM_Qhb2N2cDdMTObRRym9RV_RKbca6MkCx6JKPdqJgFoetXy0BR1jWxjvZ15g'
   lat: 40.096357
