@@ -47,6 +47,12 @@
   lon: -88.224198
   name:  'Siebel Center for Computer Science'
 - ap: 5535
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.275273
+  level: '?'
+  lon: -88.353476
+  name:  '28272aaee3234a039246a4282f96c916.16'
+- ap: 5535
   img:  'http://lh3.googleusercontent.com/U_-4hKnh83ZT50dnywqzC7jR6ialVAMHwoWLMsG5km5adHpOU2FNmfe58sV_IDOBaVBAJbKZafokPWLzKLGgTQ'
   lat: 40.111268
   level: 5
@@ -71,29 +77,29 @@
   lon: -87.128386
   name:  '15e2db0629a9429a993f26bf709c15b7.16'
 - ap: 4972
-  img:  'http://lh3.ggpht.com/x5fBw8MRogV8dm3kPO5zKNkUrQxn0dM7d1PIoASdX1_Rc8H5Duex4iZdOoIlqazCGll25TmptsWIRq1JFmj6'
-  lat: 40.112135
-  level: 5
-  lon: -88.225762
-  name:  'Computer Based Education Plaque'
-- ap: 4972
   img:  'http://lh3.ggpht.com/wOZOXhKOnhbKEPMQke-zGIG_vheDkHM8q19B1n_is5H7t1whBcQxBIGZI6VIPNw8mdCNXG6EUZeSjd1YLdngdg'
   lat: 40.108965
   level: 4
   lon: -88.227184
   name:  'U of I Mother''s Association Plaque'
 - ap: 4972
+  img:  'http://lh3.ggpht.com/x5fBw8MRogV8dm3kPO5zKNkUrQxn0dM7d1PIoASdX1_Rc8H5Duex4iZdOoIlqazCGll25TmptsWIRq1JFmj6'
+  lat: 40.112135
+  level: 5
+  lon: -88.225762
+  name:  'Computer Based Education Plaque'
+- ap: 4972
   img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
   lat: 40.107629
   level: 6
   lon: -88.224484
   name:  'Bucky Balls'
-- ap: 4785
+- ap: 4598
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.275273
+  lat: 40.106513
   level: '?'
-  lon: -88.353476
-  name:  '28272aaee3234a039246a4282f96c916.16'
+  lon: -88.5585
+  name:  'Lodge Christian Church'
 - ap: 4598
   img:  'http://lh5.ggpht.com/VYMooLhz51W3fCgti3L9LEQNMJjmFeW30saxIYK34yGEReG1naEKEd3eW1uyFgSlzpu-P5KertNDe4Z6qu8'
   lat: 40.109913
@@ -106,6 +112,12 @@
   level: 3
   lon: -88.192622
   name:  'The Ron Meyer Express'
+- ap: 4411
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.247118
+  level: '?'
+  lon: -88.631854
+  name:  'Woodlawn Country Club'
 - ap: 4411
   img:  'http://lh5.ggpht.com/Z2EWM4D6YQHuqnLwtuPBawyQBZxTzVe9E17MKc8jOZkO0ZzkuD5zSQslY2iuXkkUnztPteUeOSHrSTz3voHC'
   lat: 40.111166
@@ -154,12 +166,6 @@
   level: '?'
   lon: -88.463433
   name:  'b6871a5ae2124c8dae8299a360f6b824.12'
-- ap: 3661
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.106513
-  level: '?'
-  lon: -88.5585
-  name:  'Lodge Christian Church'
 - ap: 3661
   img:  'http://lh4.ggpht.com/DKqCX7ekIzT953BiW_t-Oe0jBg-GV5rCptYhvQqlLpQdaRpMxnNfMXekcxHT3XIhqCgskbqRwa-YofxMh71Q'
   lat: 40.090655
@@ -220,12 +226,6 @@
   level: '?'
   lon: -88.646106
   name:  '48c9d6133823423796c94e34eab373eb.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.247118
-  level: '?'
-  lon: -88.631854
-  name:  'Woodlawn Country Club'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.781053
@@ -487,7 +487,7 @@
 - ap: 2537
   img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
   lat: 40.116989
-  level: 5
+  level: 6
   lon: -88.242255
   name:  'Blind Pig'
 - ap: 2537
