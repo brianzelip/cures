@@ -29,17 +29,17 @@
   lon: -88.208181
   name:  'Urbana Cinema'
 - ap: 6285
-  img:  'http://lh3.googleusercontent.com/f62tSihW5G72uRy0PfvA-4wcxkmu_3xeA12zk2qCzZvqgw1E0E1F0XbpMYq7Ci6XdguPCFcYhhXZXTyxk6bP'
-  lat: 40.1122
-  level: 1
-  lon: -88.209066
-  name:  'Lincoln & Photography'
-- ap: 6285
   img:  'http://lh4.ggpht.com/24wGJwnamMm4J20H07gbeT2nN7pTLWHh7lQjuFh6Nn5A67w8dzxKcAOw1_syPiuVU0VxmKs7MvN3FYyD52U_vg'
   lat: 40.112295
   level: 2
   lon: -88.208208
   name:  'Crane Alley'
+- ap: 6285
+  img:  'http://lh3.googleusercontent.com/f62tSihW5G72uRy0PfvA-4wcxkmu_3xeA12zk2qCzZvqgw1E0E1F0XbpMYq7Ci6XdguPCFcYhhXZXTyxk6bP'
+  lat: 40.1122
+  level: 1
+  lon: -88.209066
+  name:  'Lincoln & Photography'
 - ap: 6098
   img:  'http://lh6.ggpht.com/pJ6tplh0N7msB5KPVdko5jnm8iOWp2nYvwj7PLdT4kvt0PLvNpLPtETG61IjI_bgGJ3UtidjV7AytpU9sNjm'
   lat: 40.11215
@@ -263,12 +263,6 @@
   lon: -88.163907
   name:  'Urbana Post Office'
 - ap: 3474
-  img:  'http://lh4.ggpht.com/QGRtYb5gsWsiyn9EznIJ0ApB7yWv-SWBAH6CKgO9JRg3PCgn-s8yQMtXPkMDht8dNjPchkCRleUIBT-DnYXh'
-  lat: 40.112928
-  level: 1
-  lon: -88.209039
-  name:  'Courier Cafe'
-- ap: 3474
   img:  'http://lh4.ggpht.com/jSz2CxoxUTCD1-qpHHu_6jtdCngFAYA2Ex-nNx-uEvRBtsBmmqhT7ogZI_ZTarMG8NrQs7M1EQzKjZhqGjyZrIw_TvFm885uc6c31FSL3bihglbs'
   lat: 40.111538
   level: 4
@@ -286,6 +280,12 @@
   level: 2
   lon: -88.207706
   name:  'Alfred D. Costello Dedication'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/QGRtYb5gsWsiyn9EznIJ0ApB7yWv-SWBAH6CKgO9JRg3PCgn-s8yQMtXPkMDht8dNjPchkCRleUIBT-DnYXh'
+  lat: 40.112928
+  level: 1
+  lon: -88.209039
+  name:  'Courier Cafe'
 - ap: 3472
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.11635
@@ -348,10 +348,22 @@
   name:  'Boneyard Creek Mural'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.961753
+  level: '?'
+  lon: -87.635149
+  name:  '6c2507186ab34c85872712308bb809fe.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.963042
   level: '?'
   lon: -87.634398
   name:  '70afae3a6c894f6799117a1c37f05e9d.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.894687
+  level: '?'
+  lon: -87.609994
+  name:  '71d41d0e027641a9a8ce927698097c51.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.964336
@@ -376,18 +388,6 @@
   level: '?'
   lon: -88.525734
   name:  'baa4782d579a4b15b184b207abe0257e.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.961753
-  level: '?'
-  lon: -87.635149
-  name:  '6c2507186ab34c85872712308bb809fe.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.894687
-  level: '?'
-  lon: -87.609994
-  name:  '71d41d0e027641a9a8ce927698097c51.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.383693
