@@ -1,9 +1,9 @@
-- fields: 4+
+- fields: 2+
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.275273
   level: '?'
   lon: -88.353476
-  mus: 358572
+  mus: 216180
   name:  '28272aaee3234a039246a4282f96c916.16'
 - fields: 4
   img:  'http://lh5.ggpht.com/HecdcuIKHPW3-6JCUlxHgv4kdBv7MXPpXBiWEczpoqzICIiFGkoPXGYJlGZLUCRJGjph6toVnnVWKVoXijhZIA'
@@ -26,20 +26,34 @@
   lon: -88.194563
   mus: 4
   name:  'Pavilion in the Woodland'
-- fields: 4
-  img:  'http://lh6.ggpht.com/35D1iNCRAADuyy_GrWImGD5u1E_gkdUiJI83zQVCutDNjvgnUMGoJSO5VofyLxsFNKiseGy32YeDyRTB6lqi0Q'
-  lat: 40.112333
+- fields: 3
+  img:  'http://lh6.ggpht.com/orpM1lF6sc24rL0AGIiGqg18zTkIPXvZoM2xcA-mKGbaHOESuKbO_RQrwjxW9NTZjG0QqCRU9j2goZUvangFDQ'
+  lat: 40.112894
   level: 2
-  lon: -88.208554
-  mus: 2
-  name:  'Error Records'
-- fields: 1
+  lon: -88.208433
+  mus: 4
+  name:  'Boulangerie Mural'
+- fields: 3
   img:  'http://lh3.googleusercontent.com/7F3ArbPGhGx3ARCB26P8ldeKhXR15uyu4UN1LUyzoEGT06tuE6FPUKzyT1cdcLR7IVr6pBXdMLRdER5o4ZY'
   lat: 40.111715
   level: 5
   lon: -88.207738
-  mus: 1
+  mus: 3
   name:  'Urbana''s Bell'
+- fields: 3
+  img:  'http://lh3.ggpht.com/Prv8wUbEpOsrluZ4pHXYwIQLreDfbvMRV7kMb39yXob8h_r5vXNRC-wSR6pi-2NeP0uIRJsaeWtsGe96cJ_U'
+  lat: 40.112295
+  level: 4
+  lon: -88.207196
+  mus: 3
+  name:  'War Memorial @ Downtown Urbana'
+- fields: 3
+  img:  'http://lh4.ggpht.com/24wGJwnamMm4J20H07gbeT2nN7pTLWHh7lQjuFh6Nn5A67w8dzxKcAOw1_syPiuVU0VxmKs7MvN3FYyD52U_vg'
+  lat: 40.112295
+  level: 2
+  lon: -88.208208
+  mus: 2
+  name:  'Crane Alley'
 - fields: 1
   img:  'http://lh3.ggpht.com/ZNkPqwMl66d8rWeX1GymLZKCMlnPUpbtprtKAZvDiBGUT-YhABoAQr60zv0TpoCrpBOhHO2q3ShocFKAn-1u'
   lat: 40.056616
@@ -47,20 +61,6 @@
   lon: -88.242475
   mus: 1
   name:  'Prairie Fields Park'
-- fields: 2
-  img:  'http://lh3.ggpht.com/Prv8wUbEpOsrluZ4pHXYwIQLreDfbvMRV7kMb39yXob8h_r5vXNRC-wSR6pi-2NeP0uIRJsaeWtsGe96cJ_U'
-  lat: 40.112295
-  level: 4
-  lon: -88.207196
-  mus: 1
-  name:  'War Memorial @ Downtown Urbana'
-- fields: 1
-  img:  'http://lh4.ggpht.com/24wGJwnamMm4J20H07gbeT2nN7pTLWHh7lQjuFh6Nn5A67w8dzxKcAOw1_syPiuVU0VxmKs7MvN3FYyD52U_vg'
-  lat: 40.112295
-  level: 2
-  lon: -88.208208
-  mus: 1
-  name:  'Crane Alley'
 - fields: 1
   img:  'http://lh6.ggpht.com/VGq5_qMrAE5FbP2m0Maszw451m-OfbmuUYDIryB0OyOe4-R92nr43XAmU-Rl5GExMkQzJHBA2a45SDWOypA'
   lat: 40.118224
@@ -68,3 +68,10 @@
   lon: -88.210862
   mus: 1
   name:  'Labor Day Memorial'
+- fields: 1
+  img:  'http://lh3.googleusercontent.com/f62tSihW5G72uRy0PfvA-4wcxkmu_3xeA12zk2qCzZvqgw1E0E1F0XbpMYq7Ci6XdguPCFcYhhXZXTyxk6bP'
+  lat: 40.1122
+  level: 1
+  lon: -88.209066
+  mus: 1
+  name:  'Lincoln & Photography'
