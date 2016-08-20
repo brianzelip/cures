@@ -19,6 +19,13 @@
   lon: -88.285677
   mus: 48
   name:  'Mike Phillips Memorial Plaque'
+- fields: 6
+  img:  'http://lh4.ggpht.com/jSz2CxoxUTCD1-qpHHu_6jtdCngFAYA2Ex-nNx-uEvRBtsBmmqhT7ogZI_ZTarMG8NrQs7M1EQzKjZhqGjyZrIw_TvFm885uc6c31FSL3bihglbs'
+  lat: 40.111538
+  level: 4
+  lon: -88.206591
+  mus: 13
+  name:  'Independent Media Center'
 - fields: 2
   img:  'http://lh6.ggpht.com/yUOWOqDbf6AO83PFdgc9HePIDDDb-Ti1NAzLec_4AwYrO5NsnWsGH7K7MDb5q22wdtUh6uqekxpMHYjlnfRLEQ'
   lat: 40.104673
@@ -40,13 +47,6 @@
   lon: -88.194563
   mus: 4
   name:  'Pavilion in the Woodland'
-- fields: 3
-  img:  'http://lh6.ggpht.com/orpM1lF6sc24rL0AGIiGqg18zTkIPXvZoM2xcA-mKGbaHOESuKbO_RQrwjxW9NTZjG0QqCRU9j2goZUvangFDQ'
-  lat: 40.112894
-  level: 2
-  lon: -88.208433
-  mus: 4
-  name:  'Boulangerie Mural'
 - fields: 4
   img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
   lat: 40.116989
@@ -54,27 +54,27 @@
   lon: -88.242255
   mus: 4
   name:  'Blind Pig'
-- fields: 3
-  img:  'http://lh3.googleusercontent.com/7F3ArbPGhGx3ARCB26P8ldeKhXR15uyu4UN1LUyzoEGT06tuE6FPUKzyT1cdcLR7IVr6pBXdMLRdER5o4ZY'
-  lat: 40.111715
-  level: 5
-  lon: -88.207738
-  mus: 3
-  name:  'Urbana''s Bell'
-- fields: 3
-  img:  'http://lh3.ggpht.com/Prv8wUbEpOsrluZ4pHXYwIQLreDfbvMRV7kMb39yXob8h_r5vXNRC-wSR6pi-2NeP0uIRJsaeWtsGe96cJ_U'
-  lat: 40.112295
-  level: 4
-  lon: -88.207196
-  mus: 3
-  name:  'War Memorial @ Downtown Urbana'
-- fields: 3
-  img:  'http://lh4.ggpht.com/24wGJwnamMm4J20H07gbeT2nN7pTLWHh7lQjuFh6Nn5A67w8dzxKcAOw1_syPiuVU0VxmKs7MvN3FYyD52U_vg'
-  lat: 40.112295
+- fields: 5
+  img:  'http://lh3.ggpht.com/KWHNT4EiiNGpY2l5u1PUHpwnZQcM-ACjcmsF_Ud469mGwgvKWxlH5LM7vyX0NwuZxEcytY7HhFwRRn9onRocwg'
+  lat: 40.112532
   level: 2
-  lon: -88.208208
+  lon: -88.208181
+  mus: 4
+  name:  'Urbana Cinema'
+- fields: 4
+  img:  'http://lh6.ggpht.com/pJ6tplh0N7msB5KPVdko5jnm8iOWp2nYvwj7PLdT4kvt0PLvNpLPtETG61IjI_bgGJ3UtidjV7AytpU9sNjm'
+  lat: 40.11215
+  level: 1
+  lon: -88.208835
+  mus: 3
+  name:  'Bennet Building'
+- fields: 1
+  img:  'http://lh3.googleusercontent.com/f62tSihW5G72uRy0PfvA-4wcxkmu_3xeA12zk2qCzZvqgw1E0E1F0XbpMYq7Ci6XdguPCFcYhhXZXTyxk6bP'
+  lat: 40.1122
+  level: 1
+  lon: -88.209066
   mus: 2
-  name:  'Crane Alley'
+  name:  'Lincoln & Photography'
 - fields: 1
   img:  'http://lh3.ggpht.com/ZNkPqwMl66d8rWeX1GymLZKCMlnPUpbtprtKAZvDiBGUT-YhABoAQr60zv0TpoCrpBOhHO2q3ShocFKAn-1u'
   lat: 40.056616
@@ -82,6 +82,13 @@
   lon: -88.242475
   mus: 1
   name:  'Prairie Fields Park'
+- fields: 2
+  img:  'http://lh3.ggpht.com/Prv8wUbEpOsrluZ4pHXYwIQLreDfbvMRV7kMb39yXob8h_r5vXNRC-wSR6pi-2NeP0uIRJsaeWtsGe96cJ_U'
+  lat: 40.112295
+  level: 6
+  lon: -88.207196
+  mus: 1
+  name:  'War Memorial @ Downtown Urbana'
 - fields: 1
   img:  'http://lh6.ggpht.com/VGq5_qMrAE5FbP2m0Maszw451m-OfbmuUYDIryB0OyOe4-R92nr43XAmU-Rl5GExMkQzJHBA2a45SDWOypA'
   lat: 40.118224
@@ -89,10 +96,3 @@
   lon: -88.210862
   mus: 1
   name:  'Labor Day Memorial'
-- fields: 1
-  img:  'http://lh3.googleusercontent.com/f62tSihW5G72uRy0PfvA-4wcxkmu_3xeA12zk2qCzZvqgw1E0E1F0XbpMYq7Ci6XdguPCFcYhhXZXTyxk6bP'
-  lat: 40.1122
-  level: 1
-  lon: -88.209066
-  mus: 1
-  name:  'Lincoln & Photography'
