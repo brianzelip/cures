@@ -23,17 +23,17 @@
   lon: -88.251419
   name:  'Lyman Larson Memorial'
 - ap: 8722
-  img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
-  lat: 40.099353
-  level: 7
-  lon: -88.251876
-  name:  'Raymond B. Cattell Memorial'
-- ap: 8722
   img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
   lat: 40.099852
   level: 7
   lon: -88.251947
   name:  'Our Friend Tim Palmer'
+- ap: 8722
+  img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
+  lat: 40.099353
+  level: 7
+  lon: -88.251876
+  name:  'Raymond B. Cattell Memorial'
 - ap: 8159
   img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
   lat: 40.098688
@@ -185,6 +185,12 @@
   lon: -88.225702
   name:  'Centennial Court'
 - ap: 5535
+  img:  'http://lh3.googleusercontent.com/JtDKcaLvXa-az4aUAoga4ikpwAKEsCsSIgnN9eVPp7q2Tiynz0iyg5e2mk0InXRsJclU6axBXOMi3NcfABUd'
+  lat: 40.110065
+  level: 5
+  lon: -88.225155
+  name:  'Wesley United Methodist Church'
+- ap: 5535
   img:  'http://lh6.ggpht.com/rnWumKyBYpVW5hCfQDlvRaT_666UPI5lo3k6HGdxWuLVsDbD8c7l-BU1HwhBqiGeCW28iEghSQtvZFzqK4w'
   lat: 40.109013
   level: 5
@@ -221,12 +227,6 @@
   lon: -88.23655
   name:  'Scott Park Bridge'
 - ap: 5348
-  img:  'http://lh3.googleusercontent.com/JtDKcaLvXa-az4aUAoga4ikpwAKEsCsSIgnN9eVPp7q2Tiynz0iyg5e2mk0InXRsJclU6axBXOMi3NcfABUd'
-  lat: 40.110065
-  level: 5
-  lon: -88.225155
-  name:  'Wesley United Methodist Church'
-- ap: 5348
   img:  'http://lh6.ggpht.com/BtOK_UA_7UyJErE7xLTTwmLcG19nlTBIVAdTbfQVzDhL8s25D3rQ9JZNHM5m0liZck_hsO0vA_4ZVd5jeGI8cg'
   lat: 40.103643
   level: 4
@@ -247,7 +247,7 @@
 - ap: 4972
   img:  'http://lh4.ggpht.com/PfcTU4XsA06ThtmCWydIWhTsN3gR4jrqnrKxu0O5lhyibhRdKMEaf3jM8VNhViF8qLf13b01E71wr_ajxn0'
   lat: 40.118465
-  level: 6
+  level: 7
   lon: -88.245077
   name:  'Mural at Nitaya'
 - ap: 4785
@@ -274,6 +274,12 @@
   level: 6
   lon: -88.245551
   name:  'The Virginia Theater'
+- ap: 4598
+  img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
+  lat: 40.11784
+  level: 6
+  lon: -88.24286
+  name:  'Kaufman Memorial'
 - ap: 4598
   img:  'http://lh6.ggpht.com/yD7CHjpaf-cL3AcbXXrUaGWgMnfw38K3EZbqWYVBmyEzzCK6wRavKxcIWhEcpyTBDiX61ttCH_wg2oJbEwQt'
   lat: 40.11671
@@ -310,12 +316,6 @@
   level: 6
   lon: -88.242535
   name:  'Inman Building Historic Plaque'
-- ap: 4411
-  img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
-  lat: 40.11784
-  level: 5
-  lon: -88.24286
-  name:  'Kaufman Memorial'
 - ap: 4411
   img:  'http://lh4.ggpht.com/_jAAuDi8SO5uupi8JlB3HZaFG40S15izNv_3vqOt7ro2rRHuXrfdEKfEFvRESdAjCEz3RVDpyrxJGSIrju5d'
   lat: 40.117916
@@ -376,6 +376,12 @@
   level: 4
   lon: -88.237287
   name:  'Stone Arch Bridge'
+- ap: 3661
+  img:  'http://lh5.ggpht.com/LLVKvcsTaSPmGBzaGFrvYIV4RhGzb6LqC_npAarehd2aLZSaVhjGzQV6T63Ke07reCQzO-GoZXmEfwZMOcM'
+  lat: 40.110569
+  level: 2
+  lon: -88.226784
+  name:  'Cubist Art at MSEB'
 - ap: 3661
   img:  'http://lh6.ggpht.com/WtqWBwqpYTSw3g9ru5NwcFn5iK5STxWgy2kv4OUTWqwtzx76-9Msz0eqoiw0qpEYE1U4zdt9rzzNZMDNagNg'
   lat: 40.107943
@@ -467,12 +473,6 @@
   lon: -88.235913
   name:  'Scott Park Pavilion'
 - ap: 3474
-  img:  'http://lh5.ggpht.com/LLVKvcsTaSPmGBzaGFrvYIV4RhGzb6LqC_npAarehd2aLZSaVhjGzQV6T63Ke07reCQzO-GoZXmEfwZMOcM'
-  lat: 40.110569
-  level: 2
-  lon: -88.226784
-  name:  'Cubist Art at MSEB'
-- ap: 3474
   img:  'http://lh3.ggpht.com/mtgiI5TKcuExETpmdSqIFabkYgVZTaXXLJnaIyzxeHPIunWoj_Fj8BqqwZG4nVQwSnngv15YxD-c_m9CHkr3'
   lat: 40.111202
   level: 2
@@ -487,7 +487,7 @@
 - ap: 3474
   img:  'http://lh5.ggpht.com/tGPCRHNr4nuHRON7RaLcO3CcrRygkmN1XBdp0HsdTAkUF_IrbfmlyzJuqHTZzJonP7RBwdy8c6q5llROUur7YA'
   lat: 40.10975
-  level: 3
+  level: 4
   lon: -88.225299
   name:  'Methodist Scriptures'
 - ap: 3474
@@ -514,6 +514,12 @@
   level: 4
   lon: -88.237694
   name:  'Lo Park Fountain'
+- ap: 2724
+  img:  'http://lh4.ggpht.com/Nh7M4_i-advmuf0RWReev2TeUAZ57VTRzcf56-U_TuHsKcjIdqXGvbxpOccEx1CaYHKzGwI9mZVmnLdmhryGng'
+  lat: 40.115557
+  level: 5
+  lon: -88.239009
+  name:  'Honesty Best Policy  - Vernon A. Roland Building'
 - ap: 2649
   img:  'http://lh5.ggpht.com/DDClbLn6LNW1_Kr2O24_eIFuz6BfPSolc8s9i2SV9KvgoE8D_n6SY1mOzPFAUoLMe9HHKhD-azeRgoyYPNcaPw'
   lat: 40.115917
@@ -544,6 +550,12 @@
   level: 1
   lon: -88.231952
   name:  'University of Illinois Armory'
+- ap: 2724
+  img:  'http://lh5.ggpht.com/f1O8bFXHTg2PTOAUVLvrqk5xx5ps9SeqhpJ1RIPtSxm0I-e7J275e2ujJp3lFQGHUBW_vS90KOsrcdLDJ84l4g'
+  lat: 40.110797
+  level: 5
+  lon: -88.225321
+  name:  'Multiphase Fluid Dynamics Plaque'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.124533
@@ -610,6 +622,12 @@
   level: 5
   lon: -88.219509
   name:  'University Of Illinois'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/bltQwmnzp2vSKYhLpzNLqB4iddy6ie0kWk9G7Wce4U9qmW3CABxbXAhF7v0oG9QLFD2q57UZuVqZCMgN3MHZfA'
+  lat: 40.118335
+  level: 5
+  lon: -88.243408
+  name:  'Downtown Fountain'
 - ap: 2537
   img:  'http://lh3.ggpht.com/oHMQr2Z5LayQFbZOwOZK4ZbYQ1OVxs85-qNTvSj8epsP72vQiOdrzVmkuMPFQtCSf9Rr0oqcnSLFjLn-sPw'
   lat: 40.116592
@@ -682,6 +700,18 @@
   level: 5
   lon: -88.232116
   name:  'Illini Tower'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/LR76HrJqriPFUoc2XSs7jb2SotnStZv20kI7rgUx8B5HqhmetnTW4MA1tCp1ws4g5gw0sf9g7M3Lwq4VwfpD'
+  lat: 40.111687
+  level: 5
+  lon: -88.225353
+  name:  'Transportation Building - University Of Illinois'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/4eagHlnlpVbtFi_knZN73PIs2A--Ipj6SOlkQADePlfnzfOnJn-cAv0IoNNv4qR8WrbUFImUKHBknyaoAewO'
+  lat: 40.111383
+  level: 5
+  lon: -88.225675
+  name:  'Only Rain Down The Drain'
 - ap: 2462
   img:  'http://lh3.ggpht.com/R0zPYMelKt6ABg3zkWyG1YtEMZm-4wbpveEmzXpn4vtolg3zStvSDscmdgZ4t1YW7vbSTYCBMS74-Tmq-XPU'
   lat: 40.112166
