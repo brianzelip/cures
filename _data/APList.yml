@@ -17,17 +17,23 @@
   lon: -88.251419
   name:  'Lyman Larson Memorial'
 - ap: 8722
-  img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
-  lat: 40.099353
-  level: 7
-  lon: -88.251876
-  name:  'Raymond B. Cattell Memorial'
-- ap: 8722
   img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
   lat: 40.099852
   level: 7
   lon: -88.251947
   name:  'Our Friend Tim Palmer'
+- ap: 8722
+  img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
+  lat: 40.099353
+  level: 7
+  lon: -88.251876
+  name:  'Raymond B. Cattell Memorial'
+- ap: 8346
+  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
+  lat: 40.100936
+  level: 7
+  lon: -88.250855
+  name:  'Donald F. Bresnan Memorial'
 - ap: 8159
   img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
   lat: 40.098688
@@ -40,12 +46,6 @@
   level: 7
   lon: -88.251337
   name:  'In Loving Memory of Zeus'
-- ap: 7409
-  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
-  lat: 40.100936
-  level: 7
-  lon: -88.250855
-  name:  'Donald F. Bresnan Memorial'
 - ap: 7409
   img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
   lat: 40.098239
@@ -100,6 +100,12 @@
   level: 6
   lon: -88.235749
   name:  'Fountain at Scott Park'
+- ap: 6283
+  img:  'http://lh3.ggpht.com/_K7sIxE489M-QkUoRrgaLB_XBi9BcOI563VzvhOcmhjwHsLO51ORrhkiWZkqThKNBlPAYzclT_qdR_sGe8g'
+  lat: 40.114277
+  level: 7
+  lon: -88.238879
+  name:  'Prow 2'
 - ap: 6098
   img:  'http://lh3.ggpht.com/G1CvGhpethi5UmprDWxZN9rTblHa3anSsQz1UPgJtkREkfN7lDFoxFObst0609Cg5mofuZxJKr0ddNKhY4VL'
   lat: 40.098464
@@ -196,6 +202,12 @@
   level: 7
   lon: -88.251724
   name:  'Blessings from Devon Elaine Cattell'
+- ap: 4972
+  img:  'http://lh5.ggpht.com/OF0rdXnVnZe6syFsa4G9CE6iyvhfoYQN3QH9RESyB78MTKDC2NXYJuVd0TAnACMccmsKXhNcBH6qzWy9DPQ'
+  lat: 40.105073
+  level: 2
+  lon: -88.231952
+  name:  'University of Illinois Armory'
 - ap: 4785
   img:  'http://lh3.googleusercontent.com/U_-4hKnh83ZT50dnywqzC7jR6ialVAMHwoWLMsG5km5adHpOU2FNmfe58sV_IDOBaVBAJbKZafokPWLzKLGgTQ'
   lat: 40.111268
@@ -220,6 +232,12 @@
   level: 4
   lon: -88.212367
   name:  'Stalking Panther'
+- ap: 4598
+  img:  'http://lh3.ggpht.com/qWqDj3Ws5ffRyIXG8XxFM41dBDTOBhjCkDgKebjiDFo-5Fyj_ssgLQ_wLM82uWwB2jVkNIYN4nc5U2E3wZoBNQ'
+  lat: 40.111037
+  level: 6
+  lon: -88.245813
+  name:  'Champaign Public Library'
 - ap: 4598
   img:  'http://lh3.googleusercontent.com/hJZWoErzM-MuXulq4FlhlZwMbJX1Isd81GBUBVKayd57jVIVxUle3itd-1DRKo2VaNXznWr1X639fa44Etk'
   lat: 40.141919
@@ -262,18 +280,6 @@
   level: 6
   lon: -88.242132
   name:  'Nuclear Physics Lab'
-- ap: 4035
-  img:  'http://lh3.ggpht.com/_K7sIxE489M-QkUoRrgaLB_XBi9BcOI563VzvhOcmhjwHsLO51ORrhkiWZkqThKNBlPAYzclT_qdR_sGe8g'
-  lat: 40.114277
-  level: 7
-  lon: -88.238879
-  name:  'Prow 2'
-- ap: 4035
-  img:  'http://lh5.ggpht.com/OF0rdXnVnZe6syFsa4G9CE6iyvhfoYQN3QH9RESyB78MTKDC2NXYJuVd0TAnACMccmsKXhNcBH6qzWy9DPQ'
-  lat: 40.105073
-  level: 2
-  lon: -88.231952
-  name:  'University of Illinois Armory'
 - ap: 3848
   img:  'http://lh4.ggpht.com/bYrhTw8QophdiqDG-upqJ6JX2g2tZYX4N1jC4d_cciIj4ep8oQvIgjJlfge2VCmzSZe9irj-BTpbj9Jcv7U'
   lat: 40.103009
@@ -293,12 +299,6 @@
   lon: -87.43205
   name:  '8e6a8255e7c342e8806313a728bf9918.12'
 - ap: 3661
-  img:  'http://lh3.ggpht.com/qWqDj3Ws5ffRyIXG8XxFM41dBDTOBhjCkDgKebjiDFo-5Fyj_ssgLQ_wLM82uWwB2jVkNIYN4nc5U2E3wZoBNQ'
-  lat: 40.111037
-  level: 6
-  lon: -88.245813
-  name:  'Champaign Public Library'
-- ap: 3661
   img:  'http://lh6.ggpht.com/duOeXcOSQLWosdD0JJXg3pWWQp4t5sL0x9qDHoTIBFNOzEW0t53Lt2cnwgV2E_Su0l1ajIQxPtVbbK_sDRaS'
   lat: 40.141775
   level: 5
@@ -310,6 +310,12 @@
   level: 7
   lon: -88.243679
   name:  'Robert Hosier Memorial Garden'
+- ap: 3661
+  img:  'http://lh3.ggpht.com/-xag7tp3BReTAhfRmVAvpMw1Af15prESg4rve7QnsiIC5IKmKjBszxDIj8F212BmRU1apH_2u_9wAmq58_91'
+  lat: 40.114157
+  level: 6
+  lon: -88.238621
+  name:  'Bombay Indian Grill'
 - ap: 3586
   img:  'http://lh3.ggpht.com/xId6g6VicbS3F1vf-TwfkAOcAj2J4qElQNbgW1wmhWy5cxh-ZSjfN5a3K9w7mGOmQymgNDrLMQCjkUPl_ifzcA'
   lat: 40.111517
@@ -395,6 +401,12 @@
   lon: -88.244603
   name:  'Italian Statue'
 - ap: 3474
+  img:  'http://lh5.ggpht.com/NUOCD82iNRGW1NGqEC4FKet1u5_cm4WRNc2c9_YABAjGf6-OSCLz7HgYkP1ZuVAbpMl6Qi10HRW16Oc9jNM2'
+  lat: 40.106401
+  level: 2
+  lon: -88.236182
+  name:  'Washington Park'
+- ap: 3474
   img:  'http://lh4.ggpht.com/HMXgPSuj_Qc06z-u_ElF6pgeWVoxqEAZoT0woVULj2jB8M-G8a4In71YBTnsPrCaJTLx0DFoqB8lQ2847L9M'
   lat: 40.112187
   level: 6
@@ -418,6 +430,18 @@
   level: 5
   lon: -88.223549
   name:  'Colwell Playhouse'
+- ap: 3474
+  img:  'http://lh6.ggpht.com/y10QgRCNt0Bsefqp3olKgJp98whQkS0-vWqPskj3421hcSq96BG-b_KROqsO1mBEcNiYtAKhXuXG0EV0eaUW'
+  lat: 40.107152
+  level: 2
+  lon: -88.235244
+  name:  'Bromley Hall'
+- ap: 3474
+  img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
+  lat: 40.106706
+  level: 5
+  lon: -88.232116
+  name:  'Illini Tower'
 - ap: 3099
   img:  'http://lh3.ggpht.com/LR76HrJqriPFUoc2XSs7jb2SotnStZv20kI7rgUx8B5HqhmetnTW4MA1tCp1ws4g5gw0sf9g7M3Lwq4VwfpD'
   lat: 40.111687
@@ -442,7 +466,7 @@
   level: 7
   lon: -88.230181
   name:  'Murphy''s Pub '
-- ap: 2911
+- ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.275273
   level: '?'
@@ -460,12 +484,6 @@
   level: 5
   lon: -88.239009
   name:  'Honesty Best Policy  - Vernon A. Roland Building'
-- ap: 2724
-  img:  'http://lh3.ggpht.com/-xag7tp3BReTAhfRmVAvpMw1Af15prESg4rve7QnsiIC5IKmKjBszxDIj8F212BmRU1apH_2u_9wAmq58_91'
-  lat: 40.114157
-  level: 6
-  lon: -88.238621
-  name:  'Bombay Indian Grill'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.767852
@@ -490,12 +508,6 @@
   level: '?'
   lon: -87.807675
   name:  '9ccc069dcb654a4286a8457b75e85a3a.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.247118
-  level: '?'
-  lon: -88.631854
-  name:  'Woodlawn Country Club'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.966004
@@ -565,7 +577,7 @@
 - ap: 2537
   img:  'http://lh5.ggpht.com/0m1i3CJSj3bKhLj5BgXi8SFpgoihNsBoN6fpccgDU2tjtPcA5BqB1IxvR0yAX9FWkgt3_Q8gbAyGfdJDliGP'
   lat: 40.115142
-  level: 6
+  level: 7
   lon: -88.238658
   name:  'First Street Antiques'
 - ap: 2162
@@ -574,12 +586,6 @@
   level: 2
   lon: -88.243438
   name:  'Shay Memorial Plaque'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/NUOCD82iNRGW1NGqEC4FKet1u5_cm4WRNc2c9_YABAjGf6-OSCLz7HgYkP1ZuVAbpMl6Qi10HRW16Oc9jNM2'
-  lat: 40.106401
-  level: 2
-  lon: -88.236182
-  name:  'Washington Park'
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/gn3UDZYljuI4sEU3AjfmzR8UnzCK9QnafV3gRsuYNKuHsr4raKtT5fm962Via8OBBKQnMDs5CCA7qJQpfIYfRQ'
   lat: 40.087166
@@ -604,18 +610,6 @@
   level: 7
   lon: -88.238392
   name:  'Mexico Mural'
-- ap: 2387
-  img:  'http://lh4.ggpht.com/7U0YXCB_DIhnqPJyjyLpNn6kg4lU8HvKL87ddBKWq1sptvVLvCEiCuNEnghQtqDGSN2OBNcOUK9nZcYjY4Vr'
-  lat: 40.107887
-  level: 5
-  lon: -88.225998
-  name:  'Lifesaving Antibiotic Plaque'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/gkIcCbfmQWyJ7s9ryhzfOOn1K-oa8huqzZN80X2psVjx_6Iur5egjGncbUIAMLiAJAf9qG1Ac8lX2MomHYY'
-  lat: 40.108185
-  level: 6
-  lon: -88.225203
-  name:  'Statue at Medical Sciences'
 - ap: 2537
   img:  'http://lh4.ggpht.com/hJDi8J7CZU-933hT0Culp2nhslv6p8rDRPdTFz6FwNaAjB5CmfkaQzj9sM--E-QBvI8yvIJn1F2jxy7ZKWlh'
   lat: 40.10816
@@ -629,11 +623,17 @@
   lon: -88.234589
   name:  'Koinonia Plaque'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
-  lat: 40.106706
+  img:  'http://lh5.ggpht.com/gkIcCbfmQWyJ7s9ryhzfOOn1K-oa8huqzZN80X2psVjx_6Iur5egjGncbUIAMLiAJAf9qG1Ac8lX2MomHYY'
+  lat: 40.108185
+  level: 6
+  lon: -88.225203
+  name:  'Statue at Medical Sciences'
+- ap: 2387
+  img:  'http://lh4.ggpht.com/7U0YXCB_DIhnqPJyjyLpNn6kg4lU8HvKL87ddBKWq1sptvVLvCEiCuNEnghQtqDGSN2OBNcOUK9nZcYjY4Vr'
+  lat: 40.107887
   level: 5
-  lon: -88.232116
-  name:  'Illini Tower'
+  lon: -88.225998
+  name:  'Lifesaving Antibiotic Plaque'
 - ap: 2462
   img:  'http://lh3.ggpht.com/R0zPYMelKt6ABg3zkWyG1YtEMZm-4wbpveEmzXpn4vtolg3zStvSDscmdgZ4t1YW7vbSTYCBMS74-Tmq-XPU'
   lat: 40.112166
