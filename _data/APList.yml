@@ -131,12 +131,6 @@
   lon: -88.253305
   name:  '50197185529145c883d36b74db0ec522.16'
 - ap: 5535
-  img:  'http://lh3.googleusercontent.com/OJqY1AUoZ28MDbchhtJ4BXjAeEUJsIUW9en5XctYJukeTYOV_zmwBnngt6wmdVqSjj0G4qwF-Mr7Hsqx8LKl'
-  lat: 40.109736
-  level: 5
-  lon: -88.224983
-  name:  'Methodist Symbolism'
-- ap: 5535
   img:  'http://lh5.ggpht.com/0Ll2ab4pgOcvmpTrWmn4pfXaPEf2myKfU4AJY7_vKquWsFLrHBYTczg-A6Z96aQQu83na1h1jmcUN88wcd6H'
   lat: 40.117139
   level: 4
@@ -167,23 +161,17 @@
   lon: -88.251826
   name:  'Irina P. Stewart Memorial Plaque'
 - ap: 5348
-  img:  'http://lh4.ggpht.com/eoFw5gx9tcBj51FvuWLBsaFZ7TdxW0i1ez8HiVWtHsPE262Fcf5-fE7MAIzvgDr2tLCZzG79np6cdQDZzWou'
-  lat: 40.112029
-  level: 6
-  lon: -88.23655
-  name:  'Scott Park Bridge'
-- ap: 5348
   img:  'http://lh6.ggpht.com/I-l0KMezFAwrNcsN5-RPQCQbH4VnCa-C2GtwAQwrtAOcyFmOp_PxGmTwtTHCrR-O1hokLKIrtjyzuTsdP1E'
   lat: 40.112048
   level: 6
   lon: -88.236887
   name:  'Scott Park Rain Garden'
 - ap: 5348
-  img:  'http://lh4.ggpht.com/9hzMj8KV-HraIucojjHAEgyMZsJAR9TWvNS-QSBB5LTYBOTwwqfTQySJ_Sz88eP3eyFWFYhx5qDVY93t8fk'
-  lat: 40.108032
-  level: 7
-  lon: -88.225702
-  name:  'Centennial Court'
+  img:  'http://lh4.ggpht.com/eoFw5gx9tcBj51FvuWLBsaFZ7TdxW0i1ez8HiVWtHsPE262Fcf5-fE7MAIzvgDr2tLCZzG79np6cdQDZzWou'
+  lat: 40.112029
+  level: 6
+  lon: -88.23655
+  name:  'Scott Park Bridge'
 - ap: 5348
   img:  'http://lh6.ggpht.com/BtOK_UA_7UyJErE7xLTTwmLcG19nlTBIVAdTbfQVzDhL8s25D3rQ9JZNHM5m0liZck_hsO0vA_4ZVd5jeGI8cg'
   lat: 40.103643
@@ -202,6 +190,12 @@
   level: 7
   lon: -88.251724
   name:  'Blessings from Devon Elaine Cattell'
+- ap: 4972
+  img:  'http://lh3.googleusercontent.com/FMrsRGg4e1AuMu6m4uCIpM5nawtelx8reIfMtog4nuxXU9C7--UKQnUEAm9s4Vc7OfMjfIDX5loNOw4Agz2HAw'
+  lat: 40.118715
+  level: 5
+  lon: -88.242373
+  name:  'Richard D James Mural'
 - ap: 4785
   img:  'http://lh3.ggpht.com/UCJEg0nnZFNSfAC4NfT2gp9OudEjLUlBiuDJTG4gHlqqHWj8gXAlFIR92jIPXQa3I6VnEMYSwenr5PMJylrt'
   lat: 40.104077
@@ -220,6 +214,12 @@
   level: '?'
   lon: -88.252279
   name:  'Toalson Park South Entrance'
+- ap: 4598
+  img:  'http://lh3.googleusercontent.com/OJqY1AUoZ28MDbchhtJ4BXjAeEUJsIUW9en5XctYJukeTYOV_zmwBnngt6wmdVqSjj0G4qwF-Mr7Hsqx8LKl'
+  lat: 40.109736
+  level: 5
+  lon: -88.224983
+  name:  'Methodist Symbolism'
 - ap: 4598
   img:  'http://lh4.ggpht.com/7U0YXCB_DIhnqPJyjyLpNn6kg4lU8HvKL87ddBKWq1sptvVLvCEiCuNEnghQtqDGSN2OBNcOUK9nZcYjY4Vr'
   lat: 40.107887
@@ -293,35 +293,35 @@
   lon: -88.28778
   name:  'Campus Solar System - Saturn'
 - ap: 4411
+  img:  'http://lh6.ggpht.com/SCYK-XeMmOyfRrTt1-aQNoDA-2Sib4m5Ch26mTwo6XNdVeVnfi7W74Ik6IRLAPSoKzSS97pgwt50Jl9oSgGfP029USxZzQWKNJo3rbs-6YHBPBif'
+  lat: 40.116792
+  level: 6
+  lon: -88.241752
+  name:  'WEFT 90.1 FM Community Radio'
+- ap: 4411
   img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
   lat: 40.101327
   level: 7
   lon: -88.251412
   name:  'Zeus Memorial'
+- ap: 4186
+  img:  'http://lh4.ggpht.com/9hzMj8KV-HraIucojjHAEgyMZsJAR9TWvNS-QSBB5LTYBOTwwqfTQySJ_Sz88eP3eyFWFYhx5qDVY93t8fk'
+  lat: 40.108032
+  level: 4
+  lon: -88.225702
+  name:  'Centennial Court'
 - ap: 4411
   img:  'http://lh3.ggpht.com/nHykU-r6nAcUQliLD4vcs6UTayaoX6Aay87D-bgyrRjGaqMQQYuxIbHuVKSTH0vbqNO9g2sBdp_ZBWLM3LDYeQ'
   lat: 40.103044
   level: 4
   lon: -88.211741
   name:  'Great Neighborhoods Dedication'
-- ap: 3848
-  img:  'http://lh3.googleusercontent.com/FMrsRGg4e1AuMu6m4uCIpM5nawtelx8reIfMtog4nuxXU9C7--UKQnUEAm9s4Vc7OfMjfIDX5loNOw4Agz2HAw'
-  lat: 40.118715
-  level: 5
-  lon: -88.242373
-  name:  'Richard D James Mural'
 - ap: 3661
   img:  'http://lh4.ggpht.com/h3t9nwbrudSHJ4Ll-zBceLi_U0iwpgbsVd8Wjzy_JgqMiXIqIu4CILUiFnKdayIi0htMXQ5CNowcXO7XUqI'
   lat: 40.13401
   level: 6
   lon: -88.28239
   name:  'Eddie Albert Gardens'
-- ap: 3661
-  img:  'http://lh6.ggpht.com/SCYK-XeMmOyfRrTt1-aQNoDA-2Sib4m5Ch26mTwo6XNdVeVnfi7W74Ik6IRLAPSoKzSS97pgwt50Jl9oSgGfP029USxZzQWKNJo3rbs-6YHBPBif'
-  lat: 40.116792
-  level: 6
-  lon: -88.241752
-  name:  'WEFT 90.1 FM Community Radio'
 - ap: 3661
   img:  'http://lh6.ggpht.com/1El0oK6CWDh7rAQeFmPEW_dA252pdq7piTtjtuQCkZvwRa689NLjEafLqQ35TI5qCW3Lmhja9PLQqKxFs9Ha'
   lat: 40.110627
@@ -389,6 +389,12 @@
   lon: -88.252345
   name:  'Toalson Park Basketball Hoop'
 - ap: 3474
+  img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
+  lat: 40.117107
+  level: 6
+  lon: -88.242467
+  name:  'Radio Maria'
+- ap: 3474
   img:  'http://lh3.googleusercontent.com/M1BXbCtfOfi1ipACxyQaE2jCbcLCxQTsJVIUli8GgprQaS2WmnVuSsqMoFaWub8LM6VF7KK4wSH9SSGdrXM'
   lat: 40.117287
   level: 7
@@ -406,12 +412,6 @@
   level: 6
   lon: -88.224484
   name:  'Bucky Balls'
-- ap: 3474
-  img:  'http://lh5.ggpht.com/gkIcCbfmQWyJ7s9ryhzfOOn1K-oa8huqzZN80X2psVjx_6Iur5egjGncbUIAMLiAJAf9qG1Ac8lX2MomHYY'
-  lat: 40.108185
-  level: 6
-  lon: -88.225203
-  name:  'Statue at Medical Sciences'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.110982
@@ -449,12 +449,6 @@
   lon: -88.218544
   name:  'The Vineyard Church'
 - ap: 2724
-  img:  'http://lh6.ggpht.com/D4r1KWBUGF8ZJDUXBHVcNVeP66FVliNQrEX0n-jZkYyFnWUfZ_vfBIAt4padKNgvgmextrkL2-kxkv6JbS3u'
-  lat: 40.110394
-  level: 6
-  lon: -88.219509
-  name:  'University Of Illinois'
-- ap: 2724
   img:  'http://lh5.ggpht.com/n8MFM2pb-tE5i9EziJdygPPUK8VqEZ4BHGQaywz4lwe3WjwdgO0ohBCPZmiMoL00r3mVPmYnbCunJDeFbyk'
   lat: 40.118593
   level: 7
@@ -491,18 +485,6 @@
   lon: -88.353476
   name:  '28272aaee3234a039246a4282f96c916.16'
 - ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.383693
-  level: '?'
-  lon: -89.828746
-  name:  'd803698981124e78944054ee621f9d88.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.909696
-  level: '?'
-  lon: -90.59622
-  name:  '5c3497dac814470085ee8aefb31f953d.12'
-- ap: 2537
   img:  'http://lh5.ggpht.com/7MD3uqic9NvHKG2s5NBkAL6kdsBT10BzFJ6jTSaOfZS8mbyTlRDRYtizrxfH8ZvyqpRWXJHgmC5bk9imHqQf'
   lat: 40.114042
   level: 4
@@ -521,11 +503,17 @@
   lon: -88.276148
   name:  'Illinois Heartland Library System'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
-  lat: 40.117107
+  img:  'http://lh6.ggpht.com/D4r1KWBUGF8ZJDUXBHVcNVeP66FVliNQrEX0n-jZkYyFnWUfZ_vfBIAt4padKNgvgmextrkL2-kxkv6JbS3u'
+  lat: 40.110394
   level: 6
-  lon: -88.242467
-  name:  'Radio Maria'
+  lon: -88.219509
+  name:  'University Of Illinois'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/_jAAuDi8SO5uupi8JlB3HZaFG40S15izNv_3vqOt7ro2rRHuXrfdEKfEFvRESdAjCEz3RVDpyrxJGSIrju5d'
+  lat: 40.117916
+  level: 5
+  lon: -88.243087
+  name:  'Sholem Building'
 - ap: 2537
   img:  'http://lh3.ggpht.com/HW1b8GEkWmutU8Hsv_zX2TXNh-iirGoXN5HmxCJd5nc3o1VeCkahkCZ_vbSxOB_ffrBlWW3M-LLMSo97tg-c'
   lat: 40.123709
@@ -547,7 +535,7 @@
 - ap: 2537
   img:  'http://lh3.ggpht.com/rT55OoX-8s-w_ikrqOgpC7QkK-Iqp4ylicElGoWFagKRQ8LX3Uvv8TZ5Xc8BlId1btzo5FTbgddPN72kYwA'
   lat: 40.114327
-  level: 5
+  level: 6
   lon: -88.224492
   name:  'Siebel Courtyard Structure'
 - ap: 2537
@@ -622,9 +610,3 @@
   level: 5
   lon: -88.224839
   name:  'Plato: A Social Networking Revolution Begins'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/UWeM-kXUlZAe2JGWDlEh2q1Orpp53g_qVfSvCepKpOy5gVdmDkxbQ5mdsO8xAvDa7K8Iq1lg-gDoQCzy8sck'
-  lat: 40.109127
-  level: 4
-  lon: -88.221387
-  name:  'Morton Weir Memorial '
