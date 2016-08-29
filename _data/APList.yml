@@ -83,23 +83,11 @@
   lon: -88.251826
   name:  'Irina P. Stewart Memorial Plaque'
 - ap: 6285
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.800557
-  level: '?'
-  lon: -89.701281
-  name:  '7014c63b3abf4174847f09c4a2783a68.16'
-- ap: 6285
   img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
   lat: 40.100936
   level: 7
   lon: -88.250855
   name:  'Donald F. Bresnan Memorial'
-- ap: 6098
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.415257
-  level: '?'
-  lon: -90.052065
-  name:  'b3b7f166bdc54e86b8a0a32899205fc9.16'
 - ap: 6098
   img:  'http://lh3.ggpht.com/G1CvGhpethi5UmprDWxZN9rTblHa3anSsQz1UPgJtkREkfN7lDFoxFObst0609Cg5mofuZxJKr0ddNKhY4VL'
   lat: 40.098464
@@ -131,17 +119,17 @@
   lon: -88.251747
   name:  'Tennis Anyone'
 - ap: 6098
-  img:  'http://lh3.googleusercontent.com/0hydzoUNO41CcF2qZhlhMbaEgMVFjql3_RSDgrJLVIToqRsqh2aBcAoXsrxAlwXqgTcB1R71HZiHrjq1KdnXgA'
-  lat: 40.11243
-  level: 7
-  lon: -88.235749
-  name:  'Fountain at Scott Park'
-- ap: 6098
   img:  'http://lh3.googleusercontent.com/erdNDM4HaNMn_EeFz0IoM_0LQWykLGJ1Y7-URXSvEithPHs8Rnwf7oWZyxVKu7qOpPdKjeeCy3dkywZ7n6KrsA'
   lat: 40.111615
   level: 6
   lon: -88.235593
   name:  'Fred B Lamb Trail'
+- ap: 6098
+  img:  'http://lh3.googleusercontent.com/0hydzoUNO41CcF2qZhlhMbaEgMVFjql3_RSDgrJLVIToqRsqh2aBcAoXsrxAlwXqgTcB1R71HZiHrjq1KdnXgA'
+  lat: 40.11243
+  level: 7
+  lon: -88.235749
+  name:  'Fountain at Scott Park'
 - ap: 5535
   img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
   lat: 40.102188
@@ -154,12 +142,6 @@
   level: 6
   lon: -88.226053
   name:  'BCS Superconductivity Theory Plaque'
-- ap: 5348
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.356918
-  level: '?'
-  lon: -90.002898
-  name:  '4b2b62e3565247ada71f7778b3670cf1.16'
 - ap: 5348
   img:  'http://lh6.ggpht.com/I-l0KMezFAwrNcsN5-RPQCQbH4VnCa-C2GtwAQwrtAOcyFmOp_PxGmTwtTHCrR-O1hokLKIrtjyzuTsdP1E'
   lat: 40.112048
@@ -208,24 +190,6 @@
   level: 7
   lon: -88.222992
   name:  'Beginnings of Computer Music Plaque'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.816052
-  level: '?'
-  lon: -89.694085
-  name:  'c604d1508e9c497bb0473a6aaface8c9.16'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.717516
-  level: '?'
-  lon: -89.925659
-  name:  'f31142eb701441cf817894f288d333ba.16'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.788629
-  level: '?'
-  lon: -89.850087
-  name:  'eb44ecbb3e604ae496bc8b924c1069e9.16'
 - ap: 4411
   img:  'http://lh3.ggpht.com/g1H1SJintXK5Zb7ng6DN7wix1q5otnzMK5JCJDnecwuIiohJmhXLJs1XzItxaTSYEuPPOqd4x-dGqd0WK5YU'
   lat: 40.13349
@@ -306,10 +270,40 @@
   name:  '2c47cde8fd624412b83048dc716c978b.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.356918
+  level: '?'
+  lon: -90.002898
+  name:  '4b2b62e3565247ada71f7778b3670cf1.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.816052
+  level: '?'
+  lon: -89.694085
+  name:  'c604d1508e9c497bb0473a6aaface8c9.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.605727
   level: '?'
   lon: -87.336686
   name:  'e1902284768e45e69883e7e89816e3e6.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.415257
+  level: '?'
+  lon: -90.052065
+  name:  'b3b7f166bdc54e86b8a0a32899205fc9.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.717516
+  level: '?'
+  lon: -89.925659
+  name:  'f31142eb701441cf817894f288d333ba.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.788629
+  level: '?'
+  lon: -89.850087
+  name:  'eb44ecbb3e604ae496bc8b924c1069e9.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.588282
@@ -444,6 +438,18 @@
   name:  '70afae3a6c894f6799117a1c37f05e9d.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.818754
+  level: '?'
+  lon: -89.714253
+  name:  '15037ea14c1440baa525ac3b0cb34c71.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.311743
+  level: '?'
+  lon: -89.169494
+  name:  '30a67b6e2a124d6b8430bd47c3ae9d2e.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.964336
   level: '?'
   lon: -87.633564
@@ -472,18 +478,6 @@
   level: '?'
   lon: -88.353476
   name:  '28272aaee3234a039246a4282f96c916.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.818754
-  level: '?'
-  lon: -89.714253
-  name:  '15037ea14c1440baa525ac3b0cb34c71.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.311743
-  level: '?'
-  lon: -89.169494
-  name:  '30a67b6e2a124d6b8430bd47c3ae9d2e.16'
 - ap: 2537
   img:  'http://lh5.ggpht.com/THzk1iE4eBFdHkEgW_OGBWS54BbJw46faUZQS1Ad_IROHGgmVaXrphXJuL1O8N9k4G8_jaDT4P9tmLxMNi0W'
   lat: 40.131713
