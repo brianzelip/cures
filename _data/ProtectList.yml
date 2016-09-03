@@ -796,13 +796,6 @@
   lon: -88.296196
   mus: 73
   name:  'Meadows West Park'
-- fields: 4
-  img:  'http://lh4.ggpht.com/zZ2YpVpDiI1KdIQ9iI7mGJD_VtwFztJ4ZF1vRehD9OSnQ2K3433SIg22svwcqDJVfeO2fjE3fdT4eHAJWGpi'
-  lat: 40.104339
-  level: 6
-  lon: -88.234788
-  mus: 71
-  name:  'Pi Kappa Phi Fraternity'
 - fields: 1
   img:  'http://lh5.ggpht.com/8tdoNA4odqt5Gs98YKUhpMqLLlihrG_guTUciwwcG8MkqhOEnp19hq3eCDKuUN11UIsWTNLibMDFGbR0QmaL'
   lat: 40.061654
@@ -810,6 +803,13 @@
   lon: -88.242844
   mus: 67
   name:  'Lake Park Gardens'
+- fields: 3
+  img:  'http://lh4.ggpht.com/zZ2YpVpDiI1KdIQ9iI7mGJD_VtwFztJ4ZF1vRehD9OSnQ2K3433SIg22svwcqDJVfeO2fjE3fdT4eHAJWGpi'
+  lat: 40.104339
+  level: 6
+  lon: -88.234788
+  mus: 65
+  name:  'Pi Kappa Phi Fraternity'
 - fields: 6
   img:  'http://lh4.ggpht.com/vdGNLZFnObxuCivCqYJZTZij0viFyuNB9iTlybZbb50b4Pqt_d-phv7dphv2G5JgU8Y7mc1RIokgw6SVPo-B'
   lat: 40.093415
@@ -918,7 +918,7 @@
 - fields: 3
   img:  'http://lh6.ggpht.com/rbEeQxbZyvrUu5nCQma0PzHtlA4cmaa9jItLke0b5KBmVlYP0q0d9OYg0_jrSi-8RiYOSdJklSevnYpoyjBWgA'
   lat: 40.118265
-  level: 7
+  level: 8
   lon: -88.268383
   mus: 42
   name:  'Hays Recreation Center'
@@ -960,17 +960,10 @@
 - fields: 2
   img:  'http://lh4.ggpht.com/naCrG9-DL9k67Zqi0gC4SkIN_RQ_zodz4FK1IHNXbc08mmpwSYOasBdjXKK05UnqtA_LobI75w9qmf4dfQjU'
   lat: 40.11823
-  level: 7
+  level: 8
   lon: -88.267696
   mus: 32
   name:  'Eisner Park North Entrance'
-- fields: 5
-  img:  'http://lh6.ggpht.com/3F-W_tWjI9to9yO9QFciZhrR-g69gAfObkgheBu6KlCyrjO3-yU1e6v7ziRZ5toBoJYzhhsInOPwyvIAQcQrDg'
-  lat: 40.103603
-  level: 7
-  lon: -88.230999
-  mus: 31
-  name:  'Legacy Stone Class of 2013'
 - fields: 4
   img:  'http://lh5.ggpht.com/S_72RqBcpwyaqDotOOM3zyRvzzZXNgZUSEfOLLDYY9tEvWcEksixMnIL7N-7FO1EpE-CXGydpsChqEkBjX_I'
   lat: 40.131279
@@ -999,6 +992,13 @@
   lon: -88.250683
   mus: 25
   name:  'Brian Clark Memorial Plaque'
+- fields: 4
+  img:  'http://lh6.ggpht.com/3F-W_tWjI9to9yO9QFciZhrR-g69gAfObkgheBu6KlCyrjO3-yU1e6v7ziRZ5toBoJYzhhsInOPwyvIAQcQrDg'
+  lat: 40.103603
+  level: 7
+  lon: -88.230999
+  mus: 24
+  name:  'Legacy Stone Class of 2013'
 - fields: 8
   img:  'http://lh6.ggpht.com/-flzg4lDDrUKk9tz52QmAPy1_59-9KbIO96Br3rNDxK1nmopyzD21z31JQVdJNJHB-Cy6IsEX0VwBbVwvd5r'
   lat: 40.104256
@@ -1398,13 +1398,6 @@
   lon: -88.239353
   mus: 7
   name:  'U.S. Representative Memorial'
-- fields: 1
-  img:  'http://lh5.ggpht.com/GN_FYcjKjamCNlfD8yA995MpcEHa9gIZVV6FBYtdeiNr_XgtCIN6gnN6_dSKwt-DenNMN_ZiJaG12iLuY6wt'
-  lat: 40.103588
-  level: 2
-  lon: -88.233095
-  mus: 7
-  name:  'Huff Hall'
 - fields: 1
   img:  'http://lh6.ggpht.com/ONc6NEwX34IJR8FuaTy8phi9yEoEDMyOn9GRlqJJlv2fU-ky1s4L6OflOmO5pORHew3EOrF0ehzlIv5HFMff'
   lat: 40.118344
@@ -2126,6 +2119,27 @@
   lon: -88.231098
   mus: 1
   name:  'Sculpture, Krannert Art Museum'
+- fields: 1
+  img:  'http://lh5.ggpht.com/nirQKdy3s9r8TSV7cB7_B0l-0EsFXBkg1aitH05R0ttPhOEewGxlq1GRnlDvYFT2V8Z91hWnB9YD3WjxBvyZ'
+  lat: 40.11868
+  level: 5
+  lon: -88.243426
+  mus: 1
+  name:  '"Pointless"'
+- fields: 1
+  img:  'http://lh6.ggpht.com/nbUJivBo0zF8f8aBbk1GwakUpPbLUVOoEovTTETYwJvfNIHXwG9XUbwoV0x-ly4ZO5Hsyv5KPo3c9cE6Nh8'
+  lat: 40.118832
+  level: 5
+  lon: -88.243643
+  mus: 1
+  name:  'Tesla Ball'
+- fields: 1
+  img:  'http://lh3.ggpht.com/1G0o5RjtXyfAjbI-E2honhhelnuiq4lIkpHmB44e-AwSBuIxVOdLPVYjImbTMS8kyBdZuKuiMQHciUIdAWg'
+  lat: 40.118368
+  level: 5
+  lon: -88.243737
+  mus: 1
+  name:  'Frank Robeson Memorial'
 - fields: 1
   img:  'http://lh5.ggpht.com/uym8nSsevMrrg8UM6iXqTAyUjRlW1TdnBVLbaPVy4PxonceIo1yyp71x4TChEETc7UVpRVdg6-Gy0WfbV2c7'
   lat: 40.128024
