@@ -203,12 +203,6 @@
   lon: -88.281983
   name:  'Centennial Park'
 - ap: 5722
-  img:  'http://lh3.ggpht.com/xuR2FaQJXFhWOfH2YR-wgTMUn6de0x9fK_RzH7yx2vxtFcveZF4qEwPTtrwnO1KK0aVRHbtmwoYGNSheowgV'
-  lat: 40.096637
-  level: 5
-  lon: -88.268256
-  name:  'St. Matthew Church '
-- ap: 5722
   img:  'http://lh5.ggpht.com/AmsS7GEfFX-_Icem2DP6mjQahV1jeut1CGdeqLqfpyzx0m5SqhVY4eoAohizF0xsevPQufmLRMoVj2rW7Fe8'
   lat: 40.111689
   level: 7
@@ -239,12 +233,6 @@
   lon: -88.23655
   name:  'Scott Park Bridge'
 - ap: 5348
-  img:  'http://lh6.ggpht.com/lcnaor8q6SYRZYMm-tUZtz1sXP81Bdwoa9Pf8LC0Vfggxa8JP98UTcgToQqXfmu99JegLd6L3Pb3aG6XjSQH'
-  lat: 40.106714
-  level: 5
-  lon: -88.267574
-  name:  'St. Peter''s United Church of Christ '
-- ap: 5348
   img:  'http://lh4.ggpht.com/PmGpygZ2fBs43twk2Y44XZbgGcHWv0YimAq7Fp3vlIRRqUyLpSmDmFwcn1ucfmJarcQrAAXJjYAXAhNyxSrz'
   lat: 40.110049
   level: 5
@@ -263,6 +251,12 @@
   lon: -88.282083
   name:  'Flower Island'
 - ap: 4598
+  img:  'http://lh3.ggpht.com/xuR2FaQJXFhWOfH2YR-wgTMUn6de0x9fK_RzH7yx2vxtFcveZF4qEwPTtrwnO1KK0aVRHbtmwoYGNSheowgV'
+  lat: 40.096637
+  level: 5
+  lon: -88.268256
+  name:  'St. Matthew Church '
+- ap: 4598
   img:  'http://lh3.googleusercontent.com/3nkY0B9PDqzlWJ_EKh5GnTZ8z0U6X9-2dI5dapKA5Q3F4iKrE99AJZoy6NSvh2nU1WTG2hL70276yJjJ0G8'
   lat: 40.141598
   level: 5
@@ -280,6 +274,12 @@
   level: 4
   lon: -88.192622
   name:  'The Ron Meyer Express'
+- ap: 4411
+  img:  'http://lh6.ggpht.com/lcnaor8q6SYRZYMm-tUZtz1sXP81Bdwoa9Pf8LC0Vfggxa8JP98UTcgToQqXfmu99JegLd6L3Pb3aG6XjSQH'
+  lat: 40.106714
+  level: 5
+  lon: -88.267574
+  name:  'St. Peter''s United Church of Christ '
 - ap: 4411
   img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
   lat: 40.098239
@@ -365,12 +365,6 @@
   lon: -88.280335
   name:  'Prairie Grid'
 - ap: 3661
-  img:  'http://lh4.ggpht.com/dIZMnnUykBHkwUGA_tGi7tq4m0qCooVejZqueoqq9NjBXvZgz1QUEqS-vJhsYu3v7pW_0xejLfH9QeziW28I'
-  lat: 40.097472
-  level: 5
-  lon: -88.259842
-  name:  'Indian Acres Swim Club'
-- ap: 3661
   img:  'http://lh6.ggpht.com/m3dZgxR8wnyRzox-3ZP4-LHNEEdyXpj_mwwFjAQW2cC5O2CtFGT8EpOlrSvwGKeBt7Kl5vhdHNZlui0wBGLPMg'
   lat: 40.090953
   level: 5
@@ -430,10 +424,10 @@
   level: 5
   lon: -88.244603
   name:  'Italian Statue'
-- ap: 3474
+- ap: 3324
   img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
   lat: 40.117107
-  level: 6
+  level: 5
   lon: -88.242467
   name:  'Radio Maria'
 - ap: 3474
@@ -442,10 +436,10 @@
   level: 6
   lon: -88.242255
   name:  'Blind Pig'
-- ap: 3474
+- ap: 3324
   img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
   lat: 40.11784
-  level: 5
+  level: 4
   lon: -88.24286
   name:  'Kaufman Memorial'
 - ap: 3474
