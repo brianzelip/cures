@@ -1,3 +1,15 @@
+- ap: 9283
+  img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
+  lat: 40.098246
+  level: 8
+  lon: -88.251974
+  name:  'Hessel Park'
+- ap: 9283
+  img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
+  lat: 40.099852
+  level: 7
+  lon: -88.251947
+  name:  'Our Friend Tim Palmer'
 - ap: 8909
   img:  'http://lh3.ggpht.com/G1CvGhpethi5UmprDWxZN9rTblHa3anSsQz1UPgJtkREkfN7lDFoxFObst0609Cg5mofuZxJKr0ddNKhY4VL'
   lat: 40.098464
@@ -16,18 +28,6 @@
   level: 8
   lon: -88.251337
   name:  'In Loving Memory of Zeus'
-- ap: 8346
-  img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
-  lat: 40.098246
-  level: 8
-  lon: -88.251974
-  name:  'Hessel Park'
-- ap: 7972
-  img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
-  lat: 40.099593
-  level: 7
-  lon: -88.251724
-  name:  'Blessings from Devon Elaine Cattell'
 - ap: 7972
   img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
   lat: 40.099737
@@ -40,24 +40,30 @@
   level: 8
   lon: -88.251685
   name:  'Curtis William McKinney Memorial'
+- ap: 7972
+  img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
+  lat: 40.099593
+  level: 7
+  lon: -88.251724
+  name:  'Blessings from Devon Elaine Cattell'
 - ap: 7596
   img:  'http://lh3.googleusercontent.com/erdNDM4HaNMn_EeFz0IoM_0LQWykLGJ1Y7-URXSvEithPHs8Rnwf7oWZyxVKu7qOpPdKjeeCy3dkywZ7n6KrsA'
   lat: 40.111615
   level: 7
   lon: -88.235593
   name:  'Fred B Lamb Trail'
+- ap: 7409
+  img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
+  lat: 40.100822
+  level: 8
+  lon: -88.25193
+  name:  'Seeds of Kindness Bench'
 - ap: 7222
   img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
   lat: 40.100078
   level: 7
   lon: -88.250683
   name:  'Brian Clark Memorial Plaque'
-- ap: 7222
-  img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
-  lat: 40.099852
-  level: 7
-  lon: -88.251947
-  name:  'Our Friend Tim Palmer'
 - ap: 7035
   img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
   lat: 40.100286
@@ -76,12 +82,6 @@
   level: 6
   lon: -88.236887
   name:  'Scott Park Rain Garden'
-- ap: 6285
-  img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
-  lat: 40.100822
-  level: 8
-  lon: -88.25193
-  name:  'Seeds of Kindness Bench'
 - ap: 6285
   img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
   lat: 40.100936
@@ -136,6 +136,12 @@
   level: 4
   lon: -88.192222
   name:  'Ambucs Park'
+- ap: 6096
+  img:  'http://lh5.ggpht.com/dEeT4acpLu-WQFlZWd3psap5qAqqPTSVzm8Qt1QtpqtwZ0j1V9eKFcmpgN9K_x1PL4XVchuevw25rxHekz3tvQ'
+  lat: 40.111968
+  level: 6
+  lon: -88.226793
+  name:  'Bardeen Quad Structure'
 - ap: 5720
   img:  'http://lh3.googleusercontent.com/zcTaX3OHcGZu7CzBV1HvsKtB5RiAW7oMwxS_7phps0tjr70eNr8xbxrJ_P6agi_uXJtMNdHPnks9rZcrR6mG'
   lat: 40.127267
@@ -202,12 +208,30 @@
   level: 7
   lon: -88.224484
   name:  'Bucky Balls'
+- ap: 4785
+  img:  'http://lh3.ggpht.com/xId6g6VicbS3F1vf-TwfkAOcAj2J4qElQNbgW1wmhWy5cxh-ZSjfN5a3K9w7mGOmQymgNDrLMQCjkUPl_ifzcA'
+  lat: 40.111517
+  level: 3
+  lon: -88.224103
+  name:  'Ceramics Building'
 - ap: 4598
   img:  'http://lh3.googleusercontent.com/hJZWoErzM-MuXulq4FlhlZwMbJX1Isd81GBUBVKayd57jVIVxUle3itd-1DRKo2VaNXznWr1X639fa44Etk'
   lat: 40.141919
   level: 7
   lon: -88.244611
   name:  'Marketplace Mall Carousel'
+- ap: 4598
+  img:  'http://lh6.ggpht.com/eVUed3229Zh9saFzaZQcI6LXsyDB0IJxc9v-Aa9Oa0AhjQLXBIVSuu1qUQwJVXWgmXYPY9sqTzK73Le4BuU'
+  lat: 40.11122
+  level: 4
+  lon: -88.224097
+  name:  'Nuclear Radiation Laboratory'
+- ap: 4598
+  img:  'http://lh6.ggpht.com/POBAhJlStu1uLv82RPSkd8lKQyojPByrKqAwgiZPyXTHQcNTCN7rkJM376YcVpMmZZVMgiXz9J1BXanexyA643e-FR9M70tksLdb1akPUe2Ra_xCyw'
+  lat: 40.112411
+  level: 5
+  lon: -88.226875
+  name:  'Grainger Engineering Library - William W. Grainger Medallion'
 - ap: 4598
   img:  'http://lh6.ggpht.com/yD7CHjpaf-cL3AcbXXrUaGWgMnfw38K3EZbqWYVBmyEzzCK6wRavKxcIWhEcpyTBDiX61ttCH_wg2oJbEwQt'
   lat: 40.11671
@@ -221,17 +245,23 @@
   lon: -88.251676
   name:  'Ruth and Fred Steigmann Plaque'
 - ap: 4411
+  img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
+  lat: 40.100521
+  level: 7
+  lon: -88.250864
+  name:  'Gabriel Patrick Maxeiner Memorial'
+- ap: 4411
   img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
   lat: 40.101327
   level: 8
   lon: -88.251412
   name:  'Zeus Memorial'
 - ap: 4411
-  img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
-  lat: 40.100521
-  level: 7
-  lon: -88.250864
-  name:  'Gabriel Patrick Maxeiner Memorial'
+  img:  'http://lh4.ggpht.com/dIZMnnUykBHkwUGA_tGi7tq4m0qCooVejZqueoqq9NjBXvZgz1QUEqS-vJhsYu3v7pW_0xejLfH9QeziW28I'
+  lat: 40.097472
+  level: 5
+  lon: -88.259842
+  name:  'Indian Acres Swim Club'
 - ap: 4411
   img:  'http://lh4.ggpht.com/HMXgPSuj_Qc06z-u_ElF6pgeWVoxqEAZoT0woVULj2jB8M-G8a4In71YBTnsPrCaJTLx0DFoqB8lQ2847L9M'
   lat: 40.112187
@@ -244,6 +274,18 @@
   level: 7
   lon: -88.237694
   name:  'Lo Park Fountain'
+- ap: 4411
+  img:  'http://lh6.ggpht.com/mjad8ywd9f_7yhVlFU1BlrOX-7B6bVnPzpN6bu0-3buisRy8BfTdN5K6uATZ5z8dO-Y9u-XSwI8GT_PhO6YS'
+  lat: 40.101338
+  level: 3
+  lon: -88.222695
+  name:  'National Soybean Research Center'
+- ap: 4411
+  img:  'http://lh6.ggpht.com/BgudsSY0vPHxgxXELEIEROiOQIlMUEEycmutMqr-xgbLBf4OkD1cCogkqAOqKSfh1GR3pPAhW2bTe5FGfEvO'
+  lat: 40.102058
+  level: 3
+  lon: -88.224635
+  name:  'Champaign-Urbana Community Fab Lab'
 - ap: 3848
   img:  'http://lh6.ggpht.com/_rfJReDlJdrYezXwl9C7a4r7ZMCEE2RZ9dek5gQwKkC4sFtmFVfYF7S04SQXmjcksfbCvLWlOEuqOjxWnX4'
   lat: 40.12284
@@ -311,23 +353,11 @@
   lon: -88.224416
   name:  'Gone Fishing'
 - ap: 3661
-  img:  'http://lh6.ggpht.com/eVUed3229Zh9saFzaZQcI6LXsyDB0IJxc9v-Aa9Oa0AhjQLXBIVSuu1qUQwJVXWgmXYPY9sqTzK73Le4BuU'
-  lat: 40.11122
-  level: 4
-  lon: -88.224097
-  name:  'Nuclear Radiation Laboratory'
-- ap: 3661
-  img:  'http://lh3.ggpht.com/xId6g6VicbS3F1vf-TwfkAOcAj2J4qElQNbgW1wmhWy5cxh-ZSjfN5a3K9w7mGOmQymgNDrLMQCjkUPl_ifzcA'
-  lat: 40.111517
-  level: 3
-  lon: -88.224103
-  name:  'Ceramics Building'
-- ap: 3661
-  img:  'http://lh5.ggpht.com/dEeT4acpLu-WQFlZWd3psap5qAqqPTSVzm8Qt1QtpqtwZ0j1V9eKFcmpgN9K_x1PL4XVchuevw25rxHekz3tvQ'
-  lat: 40.111968
-  level: 6
-  lon: -88.226793
-  name:  'Bardeen Quad Structure'
+  img:  'http://lh5.ggpht.com/f710C9AvOEB7ieCI4f382wWUP4OgDxiqPzbxqxct6Ugf2PWBfyXyDpG_JcRQ6PaZ_jS0jpXXBhNSt_u9rFA'
+  lat: 40.113864
+  level: 5
+  lon: -88.224839
+  name:  'Plato: A Social Networking Revolution Begins'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.96438
@@ -407,11 +437,17 @@
   lon: -88.236253
   name:  'Scott Park North Entrance'
 - ap: 3474
-  img:  'http://lh6.ggpht.com/POBAhJlStu1uLv82RPSkd8lKQyojPByrKqAwgiZPyXTHQcNTCN7rkJM376YcVpMmZZVMgiXz9J1BXanexyA643e-FR9M70tksLdb1akPUe2Ra_xCyw'
-  lat: 40.112411
-  level: 5
-  lon: -88.226875
-  name:  'Grainger Engineering Library - William W. Grainger Medallion'
+  img:  'http://lh4.ggpht.com/8P--9BInbKIFscFZs2s_o1E9ucKlZlX9qxMu7aBxNJVOQDrVE0q27OE7h1idojQv2vaHjxT6h5F6Nvi7I-A'
+  lat: 40.1016
+  level: 3
+  lon: -88.224039
+  name:  'South Gate of the Greenhouse'
+- ap: 3474
+  img:  'http://lh3.ggpht.com/RPwmqKgDoVBfLknuC-LM6Vvni6av9IgVxpZapS8lQSDH-fHokPS_j6pH-R9dax4sKqOB5naETVESobfZWDrC'
+  lat: 40.102705
+  level: 3
+  lon: -88.225051
+  name:  'ACES Library Information and Alumni Center'
 - ap: 3474
   img:  'http://lh4.ggpht.com/ZwDzLvPP0KTL_mUj9ta-0DRkbA4q3X7b-r02bm3rTibFkPbu00GKehClddYfSkXbwVuJ4pjt4T7yo7ou54ov'
   lat: 40.111869
@@ -521,12 +557,6 @@
   lon: -88.233133
   name:  'Sunken Cube at Art and Design Building'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/dIZMnnUykBHkwUGA_tGi7tq4m0qCooVejZqueoqq9NjBXvZgz1QUEqS-vJhsYu3v7pW_0xejLfH9QeziW28I'
-  lat: 40.097472
-  level: 5
-  lon: -88.259842
-  name:  'Indian Acres Swim Club'
-- ap: 2537
   img:  'http://lh6.ggpht.com/eAkVY7nObat2j0fYj0bd8HEZQMvUrmB-_Qi9KABaDu_pHUpP1sEJ1Fw_PQ4GbKLqqOeQM2-ljV0wUXUwj6tmHw'
   lat: 40.124067
   level: 5
@@ -538,6 +568,12 @@
   level: 5
   lon: -88.231892
   name:  'Grove Street Church of God in Christ'
+- ap: 2537
+  img:  'http://lh3.googleusercontent.com/U_-4hKnh83ZT50dnywqzC7jR6ialVAMHwoWLMsG5km5adHpOU2FNmfe58sV_IDOBaVBAJbKZafokPWLzKLGgTQ'
+  lat: 40.111268
+  level: 4
+  lon: -88.223809
+  name:  'Goodwin Avenue Bridge'
 - ap: 2537
   img:  'http://lh4.ggpht.com/OFVPvdgB3GVpaQknHdnt2okgP3xcQksAH3wvOGYVuP85MMlxo3bQ2SRpBb0hzNfjQoC_5LlRqaE6jLB-h9Gr'
   lat: 40.108092
