@@ -10,12 +10,18 @@
   level: 5
   lon: -88.227236
   name:  'Illini Union'
-- ap: 10033
+- ap: 10220
   img:  'http://lh5.ggpht.com/dEeT4acpLu-WQFlZWd3psap5qAqqPTSVzm8Qt1QtpqtwZ0j1V9eKFcmpgN9K_x1PL4XVchuevw25rxHekz3tvQ'
   lat: 40.111968
   level: 6
   lon: -88.226793
   name:  'Bardeen Quad Structure'
+- ap: 9094
+  img:  'http://lh4.ggpht.com/ZwDzLvPP0KTL_mUj9ta-0DRkbA4q3X7b-r02bm3rTibFkPbu00GKehClddYfSkXbwVuJ4pjt4T7yo7ou54ov'
+  lat: 40.111869
+  level: 2
+  lon: -88.227932
+  name:  'Talbot Lab Mural'
 - ap: 8909
   img:  'http://lh3.googleusercontent.com/0hydzoUNO41CcF2qZhlhMbaEgMVFjql3_RSDgrJLVIToqRsqh2aBcAoXsrxAlwXqgTcB1R71HZiHrjq1KdnXgA'
   lat: 40.11243
@@ -28,12 +34,6 @@
   level: 8
   lon: -88.251337
   name:  'In Loving Memory of Zeus'
-- ap: 8720
-  img:  'http://lh4.ggpht.com/ZwDzLvPP0KTL_mUj9ta-0DRkbA4q3X7b-r02bm3rTibFkPbu00GKehClddYfSkXbwVuJ4pjt4T7yo7ou54ov'
-  lat: 40.111869
-  level: 2
-  lon: -88.227932
-  name:  'Talbot Lab Mural'
 - ap: 8720
   img:  'http://lh5.ggpht.com/4eagHlnlpVbtFi_knZN73PIs2A--Ipj6SOlkQADePlfnzfOnJn-cAv0IoNNv4qR8WrbUFImUKHBknyaoAewO'
   lat: 40.111383
@@ -53,6 +53,12 @@
   lon: -88.251724
   name:  'Blessings from Devon Elaine Cattell'
 - ap: 7970
+  img:  'http://lh5.ggpht.com/Z2EWM4D6YQHuqnLwtuPBawyQBZxTzVe9E17MKc8jOZkO0ZzkuD5zSQslY2iuXkkUnztPteUeOSHrSTz3voHC'
+  lat: 40.111166
+  level: 6
+  lon: -88.228747
+  name:  'Boneyard Creek Mural'
+- ap: 7970
   img:  'http://lh4.ggpht.com/IZUCSooIdo5qUAG278Al-JEKCRv842M0uDMusE78yaL4p-QCYu2A4UXE6X2jTFemr_w8ZfD6g_lQqjwbdg'
   lat: 40.109702
   level: 6
@@ -64,12 +70,6 @@
   level: 5
   lon: -88.224663
   name:  'Bench of Opportunity'
-- ap: 7783
-  img:  'http://lh5.ggpht.com/Z2EWM4D6YQHuqnLwtuPBawyQBZxTzVe9E17MKc8jOZkO0ZzkuD5zSQslY2iuXkkUnztPteUeOSHrSTz3voHC'
-  lat: 40.111166
-  level: 6
-  lon: -88.228747
-  name:  'Boneyard Creek Mural'
 - ap: 7596
   img:  'http://lh3.googleusercontent.com/erdNDM4HaNMn_EeFz0IoM_0LQWykLGJ1Y7-URXSvEithPHs8Rnwf7oWZyxVKu7qOpPdKjeeCy3dkywZ7n6KrsA'
   lat: 40.111615
@@ -95,17 +95,17 @@
   lon: -88.227425
   name:  'Engineering Class of 1975 Monument'
 - ap: 7222
-  img:  'http://lh4.ggpht.com/B_I1b0Jy3vW41RX8jjCNPP68AULplU0Pf8ddolyKmpEWCfBVShQkmjF1HfTPzDjmBBQGgOs0jHW-rUR0mv8BkA'
-  lat: 40.098789
-  level: 8
-  lon: -88.251685
-  name:  'Curtis William McKinney Memorial'
-- ap: 7222
   img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
   lat: 40.099852
   level: 7
   lon: -88.251947
   name:  'Our Friend Tim Palmer'
+- ap: 7222
+  img:  'http://lh4.ggpht.com/B_I1b0Jy3vW41RX8jjCNPP68AULplU0Pf8ddolyKmpEWCfBVShQkmjF1HfTPzDjmBBQGgOs0jHW-rUR0mv8BkA'
+  lat: 40.098789
+  level: 8
+  lon: -88.251685
+  name:  'Curtis William McKinney Memorial'
 - ap: 7222
   img:  'http://lh6.ggpht.com/j712bbvDknzGlAU87nZA1Bx45Ng-0MGA9Uvuv-3WzIKA3W51mXOZpJ-TzVSbuU3uE2AsJ5wcO7_B6WDpdRr0'
   lat: 40.110684
@@ -197,17 +197,17 @@
   lon: -88.251314
   name:  'Gabriel Patrick Maxeiner Memorial Plaque'
 - ap: 6098
-  img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
-  lat: 40.099353
-  level: 8
-  lon: -88.251876
-  name:  'Raymond B. Cattell Memorial'
-- ap: 6098
   img:  'http://lh4.ggpht.com/4LxsGZZMk3DnpJXUvqzrL54CHSP5TDXjUnDJyHmCCTtCJIjGEI7kxT9g4uxfSPh0X6yGLgQo1jfqbu7B8VEr'
   lat: 40.099084
   level: 7
   lon: -88.251826
   name:  'Irina P. Stewart Memorial Plaque'
+- ap: 6098
+  img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
+  lat: 40.099353
+  level: 8
+  lon: -88.251876
+  name:  'Raymond B. Cattell Memorial'
 - ap: 6098
   img:  'http://lh6.ggpht.com/1El0oK6CWDh7rAQeFmPEW_dA252pdq7piTtjtuQCkZvwRa689NLjEafLqQ35TI5qCW3Lmhja9PLQqKxFs9Ha'
   lat: 40.110627
@@ -413,11 +413,11 @@
   lon: -88.243408
   name:  'Downtown Fountain'
 - ap: 4411
-  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
-  lat: 40.101327
+  img:  'http://lh3.ggpht.com/VrbXGwlUosNLEkVdshWUFoVa3KtlJQoEU4yLYygvftYbPCmxo644Uvar_v8Kb9RS53hB0tXgvV44GotrxZyu'
+  lat: 40.098592
   level: 8
-  lon: -88.251412
-  name:  'Zeus Memorial'
+  lon: -88.251676
+  name:  'Ruth and Fred Steigmann Plaque'
 - ap: 4411
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
@@ -425,17 +425,17 @@
   lon: -88.250864
   name:  'Gabriel Patrick Maxeiner Memorial'
 - ap: 4411
+  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
+  lat: 40.101327
+  level: 8
+  lon: -88.251412
+  name:  'Zeus Memorial'
+- ap: 4411
   img:  'http://lh3.ggpht.com/lzCSS0_tjwUV7JQ2fgLI0e05IrzPxlVUs-6aEPOwUv67IanQJSTi71gkw0SGm8asmoE_r3Xoh048Fd9xRpE'
   lat: 40.099169
   level: 6
   lon: -88.251419
   name:  'Lyman Larson Memorial'
-- ap: 4411
-  img:  'http://lh3.ggpht.com/VrbXGwlUosNLEkVdshWUFoVa3KtlJQoEU4yLYygvftYbPCmxo644Uvar_v8Kb9RS53hB0tXgvV44GotrxZyu'
-  lat: 40.098592
-  level: 8
-  lon: -88.251676
-  name:  'Ruth and Fred Steigmann Plaque'
 - ap: 4411
   img:  'http://lh3.ggpht.com/-xag7tp3BReTAhfRmVAvpMw1Af15prESg4rve7QnsiIC5IKmKjBszxDIj8F212BmRU1apH_2u_9wAmq58_91'
   lat: 40.114157
