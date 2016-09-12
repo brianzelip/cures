@@ -1,17 +1,10 @@
-- fields: 7
-  img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
-  lat: 40.102188
-  level: 6
-  lon: -88.251507
-  mus: 1321
-  name:  'Little Free Library Charter 5753'
-- fields: 10
-  img:  'http://lh5.ggpht.com/AmsS7GEfFX-_Icem2DP6mjQahV1jeut1CGdeqLqfpyzx0m5SqhVY4eoAohizF0xsevPQufmLRMoVj2rW7Fe8'
-  lat: 40.111689
+- fields: 4
+  img:  'http://lh6.ggpht.com/0IsQORyEW-bPA7sEbGspygtoI7ixEshm_2fUw5oeh9AeXg6JN5w0ypYIshpuKm-C0nG4Vm2XmpLvtWTZzWzd'
+  lat: 40.111607
   level: 7
-  lon: -88.231193
-  mus: 63
-  name:  'Koi Building Art'
+  lon: -88.233753
+  mus: 405
+  name:  'Chabad Menorah'
 - fields: 7
   img:  'http://lh5.ggpht.com/dgQfoxxVeHT5ODqLiUYHV45qvkC_BMS0kIFRqvHvE2GO0TduZ0-XzhW8RE80LtPDK0Ay5xwA6PtjM7G3C9U8'
   lat: 40.108947
@@ -19,6 +12,13 @@
   lon: -88.232251
   mus: 53
   name:  'McKinley Church'
+- fields: 8
+  img:  'http://lh5.ggpht.com/AmsS7GEfFX-_Icem2DP6mjQahV1jeut1CGdeqLqfpyzx0m5SqhVY4eoAohizF0xsevPQufmLRMoVj2rW7Fe8'
+  lat: 40.111689
+  level: 7
+  lon: -88.231193
+  mus: 52
+  name:  'Koi Building Art'
 - fields: 5
   img:  'http://lh5.ggpht.com/dEeT4acpLu-WQFlZWd3psap5qAqqPTSVzm8Qt1QtpqtwZ0j1V9eKFcmpgN9K_x1PL4XVchuevw25rxHekz3tvQ'
   lat: 40.111968
@@ -26,6 +26,13 @@
   lon: -88.226793
   mus: 50
   name:  'Bardeen Quad Structure'
+- fields: 3
+  img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
+  lat: 40.098239
+  level: 6
+  lon: -88.25376
+  mus: 25
+  name:  'Hessel Park Christian Reformed Church'
 - fields: 5
   img:  'http://lh3.ggpht.com/gS3gT_deXzbDvejCL-5ygs31dw9bLQqYr2nDcLPZiv6nQzahJl12awG1a2pwKbFuoTlsHQYxQ2O7HDXL4-8'
   lat: 40.110358
@@ -33,13 +40,6 @@
   lon: -88.230181
   mus: 23
   name:  'Murphy''s Pub '
-- fields: 7
-  img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
-  lat: 40.099852
-  level: 8
-  lon: -88.251947
-  mus: 23
-  name:  'Our Friend Tim Palmer'
 - fields: 6
   img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
   lat: 40.100078
@@ -54,13 +54,27 @@
   lon: -88.214013
   mus: 14
   name:  'Vicki J. Mayes Honorary'
-- fields: 5
-  img:  'http://lh3.googleusercontent.com/erdNDM4HaNMn_EeFz0IoM_0LQWykLGJ1Y7-URXSvEithPHs8Rnwf7oWZyxVKu7qOpPdKjeeCy3dkywZ7n6KrsA'
-  lat: 40.111615
+- fields: 6
+  img:  'http://lh3.googleusercontent.com/0hydzoUNO41CcF2qZhlhMbaEgMVFjql3_RSDgrJLVIToqRsqh2aBcAoXsrxAlwXqgTcB1R71HZiHrjq1KdnXgA'
+  lat: 40.11243
   level: 7
-  lon: -88.235593
+  lon: -88.235749
   mus: 11
-  name:  'Fred B Lamb Trail'
+  name:  'Fountain at Scott Park'
+- fields: 5
+  img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
+  lat: 40.100822
+  level: 8
+  lon: -88.25193
+  mus: 6
+  name:  'Seeds of Kindness Bench'
+- fields: 4
+  img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
+  lat: 40.099737
+  level: 8
+  lon: -88.251157
+  mus: 5
+  name:  'Tyler Van Atkins Memorial'
 - fields: 6
   img:  'http://lh4.ggpht.com/B_I1b0Jy3vW41RX8jjCNPP68AULplU0Pf8ddolyKmpEWCfBVShQkmjF1HfTPzDjmBBQGgOs0jHW-rUR0mv8BkA'
   lat: 40.098789
@@ -68,6 +82,13 @@
   lon: -88.251685
   mus: 4
   name:  'Curtis William McKinney Memorial'
+- fields: 4
+  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
+  lat: 40.100936
+  level: 8
+  lon: -88.250855
+  mus: 4
+  name:  'Donald F. Bresnan Memorial'
 - fields: 1
   img:  'http://lh5.ggpht.com/ucFkWovrZBr6wFMicSGD78p44tqzcyfJCvQuAocYo0do3ODoHsOeAMphZZferoOLkGfuJPQVlILRzKG1vAPg'
   lat: 40.109172
@@ -75,27 +96,6 @@
   lon: -88.231151
   mus: 4
   name:  'Illini Life Christian Fellowship'
-- fields: 4
-  img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
-  lat: 40.100691
-  level: 8
-  lon: -88.251337
-  mus: 4
-  name:  'In Loving Memory of Zeus'
-- fields: 3
-  img:  'http://lh3.googleusercontent.com/0hydzoUNO41CcF2qZhlhMbaEgMVFjql3_RSDgrJLVIToqRsqh2aBcAoXsrxAlwXqgTcB1R71HZiHrjq1KdnXgA'
-  lat: 40.11243
-  level: 7
-  lon: -88.235749
-  mus: 3
-  name:  'Fountain at Scott Park'
-- fields: 1
-  img:  'http://lh5.ggpht.com/3RfiPeOzF67ubNX-vkwUJ6-EYld6BKuoBernq0_9kOjlIsSPr3saR9FIQzN7uiw7ouF0CpNflOnL0mUj9zbqdQ'
-  lat: 40.109452
-  level: 6
-  lon: -88.229031
-  mus: 3
-  name:  'Illini Hall'
 - fields: 1
   img:  'http://lh4.ggpht.com/8AjeZD8uLKBGqzwnDcp2t-wWRFmqZ03RVBIV2jccyPae0uVMwvjHgEmRfdS_lvnxJTIwosCM3Xlfpw-vIwZOdw'
   lat: 40.118549
@@ -103,20 +103,6 @@
   lon: -88.212935
   mus: 2
   name:  'Francis and Hermenia Kruidenier Memorial'
-- fields: 2
-  img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
-  lat: 40.099737
-  level: 8
-  lon: -88.251157
-  mus: 2
-  name:  'Tyler Van Atkins Memorial'
-- fields: 2
-  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
-  lat: 40.101327
-  level: 8
-  lon: -88.251412
-  mus: 2
-  name:  'Zeus Memorial'
 - fields: 2
   img:  'http://lh4.ggpht.com/oknWvsn3j_8LLqgIevkEiU6a-r9RO-ylFPYVgOPQ6wBXGmnyvWFCGC4eG8qo7Z28JPMEoBE4DUFq2FPfFdXR9Q'
   lat: 40.112908
@@ -131,6 +117,13 @@
   lon: -88.234589
   mus: 2
   name:  'Koinonia Plaque'
+- fields: 4
+  img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
+  lat: 40.099353
+  level: 8
+  lon: -88.251876
+  mus: 2
+  name:  'Raymond B. Cattell Memorial'
 - fields: 1
   img:  'http://lh4.ggpht.com/bzGBa_8g8we9vEYlZ-a10Ugz_B36DNFCNFsnUmAPy3Aji53kcVj0FaVE28zxnedZgY5Ozi94A8obmXuFQ1vL'
   lat: 40.132632
@@ -138,6 +131,13 @@
   lon: -88.279968
   mus: 2
   name:  'Vernon W Fitch Memorial'
+- fields: 1
+  img:  'http://lh6.ggpht.com/I-l0KMezFAwrNcsN5-RPQCQbH4VnCa-C2GtwAQwrtAOcyFmOp_PxGmTwtTHCrR-O1hokLKIrtjyzuTsdP1E'
+  lat: 40.112048
+  level: 6
+  lon: -88.236887
+  mus: 2
+  name:  'Scott Park Rain Garden'
 - fields: 1
   img:  'http://lh5.ggpht.com/85X0vnlHzLPww3OziBoMSVfkwq66eKQNZ9Mn6qsjghvteOQZiAVlsY80NVcsErHao0QYd9IyF7PDJyp-jaQ'
   lat: 40.101632
@@ -152,13 +152,13 @@
   lon: -88.281531
   mus: 2
   name:  'Terry M. Warmbier Memorial'
-- fields: 2
-  img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
-  lat: 40.098246
+- fields: 1
+  img:  'http://lh3.ggpht.com/G1CvGhpethi5UmprDWxZN9rTblHa3anSsQz1UPgJtkREkfN7lDFoxFObst0609Cg5mofuZxJKr0ddNKhY4VL'
+  lat: 40.098464
   level: 8
-  lon: -88.251974
+  lon: -88.251426
   mus: 1
-  name:  'Hessel Park'
+  name:  'Ruth Haasis Memorial'
 - fields: 1
   img:  'http://lh4.ggpht.com/DXAAQEV-pW-laeGTPphalYn5MoUFYMOyKbjs7rL1bBgkOlCxtaEH7bLcuvNbiQTWzFZK1ZPcNbwuEjw20-od'
   lat: 40.116869
@@ -166,10 +166,3 @@
   lon: -88.249849
   mus: 1
   name:  'Don and Ruth Dobbins Memorial'
-- fields: 1
-  img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
-  lat: 40.099593
-  level: 8
-  lon: -88.251724
-  mus: 1
-  name:  'Blessings from Devon Elaine Cattell'

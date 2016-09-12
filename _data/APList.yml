@@ -22,12 +22,6 @@
   level: 7
   lon: -88.235749
   name:  'Fountain at Scott Park'
-- ap: 9844
-  img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
-  lat: 40.102188
-  level: 6
-  lon: -88.251507
-  name:  'Little Free Library Charter 5753'
 - ap: 9657
   img:  'http://lh3.googleusercontent.com/erdNDM4HaNMn_EeFz0IoM_0LQWykLGJ1Y7-URXSvEithPHs8Rnwf7oWZyxVKu7qOpPdKjeeCy3dkywZ7n6KrsA'
   lat: 40.111615
@@ -64,12 +58,6 @@
   level: 8
   lon: -88.251337
   name:  'In Loving Memory of Zeus'
-- ap: 8718
-  img:  'http://lh6.ggpht.com/0IsQORyEW-bPA7sEbGspygtoI7ixEshm_2fUw5oeh9AeXg6JN5w0ypYIshpuKm-C0nG4Vm2XmpLvtWTZzWzd'
-  lat: 40.111607
-  level: 7
-  lon: -88.233753
-  name:  'Chabad Menorah'
 - ap: 8159
   img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
   lat: 40.100078
@@ -82,6 +70,12 @@
   level: 8
   lon: -88.251974
   name:  'Hessel Park'
+- ap: 7972
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.9686
+  level: '?'
+  lon: -87.630978
+  name:  '47ea0a512aca4efc981ddb89e220e8b4.16'
 - ap: 7972
   img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
   lat: 40.099737
@@ -106,6 +100,12 @@
   level: 6
   lon: -88.226793
   name:  'Bardeen Quad Structure'
+- ap: 7594
+  img:  'http://lh6.ggpht.com/0IsQORyEW-bPA7sEbGspygtoI7ixEshm_2fUw5oeh9AeXg6JN5w0ypYIshpuKm-C0nG4Vm2XmpLvtWTZzWzd'
+  lat: 40.111607
+  level: 7
+  lon: -88.233753
+  name:  'Chabad Menorah'
 - ap: 7409
   img:  'http://lh5.ggpht.com/fGRHfMAqdWrUnPE8GStKSdMkgQmu9qvuxAC4VzcU1v2KyxQu2BeuJKhvhefSeFNTkgFh6YdR-F4P6plMbh0'
   lat: 40.110194
@@ -124,6 +124,12 @@
   level: 6
   lon: -88.228747
   name:  'Boneyard Creek Mural'
+- ap: 7220
+  img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
+  lat: 40.102188
+  level: 6
+  lon: -88.251507
+  name:  'Little Free Library Charter 5753'
 - ap: 7035
   img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
   lat: 40.100286
@@ -137,29 +143,11 @@
   lon: -88.228609
   name:  'Talbot Labs '
 - ap: 6659
-  img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
-  lat: 40.098239
-  level: 6
-  lon: -88.25376
-  name:  'Hessel Park Christian Reformed Church'
-- ap: 6659
   img:  'http://lh6.ggpht.com/I-l0KMezFAwrNcsN5-RPQCQbH4VnCa-C2GtwAQwrtAOcyFmOp_PxGmTwtTHCrR-O1hokLKIrtjyzuTsdP1E'
   lat: 40.112048
   level: 6
   lon: -88.236887
   name:  'Scott Park Rain Garden'
-- ap: 6285
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.9686
-  level: '?'
-  lon: -87.630978
-  name:  '47ea0a512aca4efc981ddb89e220e8b4.16'
-- ap: 6283
-  img:  'http://lh5.ggpht.com/Lup2et0i5h8oHqtBffIdoyX5uclC2MBn9ZnnKnYPr4RIFSflf9bi78zBHK7QqycA0qgEev9qOk0zU-1o1hg'
-  lat: 40.108451
-  level: 7
-  lon: -88.228733
-  name:  'The Centennial Colophon'
 - ap: 6098
   img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
   lat: 40.100941
@@ -203,17 +191,17 @@
   lon: -88.236253
   name:  'Scott Park North Entrance'
 - ap: 5722
-  img:  'http://lh5.ggpht.com/H3lz_PbTP4RFYuRMUyZuMouxslODKZQ3RjFiZrITFZcpj2FuEb1K2VVlveQtOyUHG2rYZ114AGuGqK4rATI5jg'
-  lat: 40.097868
-  level: 5
-  lon: -88.242344
-  name:  'Campus Information Booth '
-- ap: 5722
   img:  'http://lh5.ggpht.com/ucFkWovrZBr6wFMicSGD78p44tqzcyfJCvQuAocYo0do3ODoHsOeAMphZZferoOLkGfuJPQVlILRzKG1vAPg'
   lat: 40.109172
   level: 5
   lon: -88.231151
   name:  'Illini Life Christian Fellowship'
+- ap: 5535
+  img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
+  lat: 40.098239
+  level: 6
+  lon: -88.25376
+  name:  'Hessel Park Christian Reformed Church'
 - ap: 5535
   img:  'http://lh5.ggpht.com/f710C9AvOEB7ieCI4f382wWUP4OgDxiqPzbxqxct6Ugf2PWBfyXyDpG_JcRQ6PaZ_jS0jpXXBhNSt_u9rFA'
   lat: 40.113864
@@ -227,6 +215,18 @@
   lon: -88.23655
   name:  'Scott Park Bridge'
 - ap: 5348
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 43.059172
+  level: '?'
+  lon: -86.243648
+  name:  'd8e1b021e4d94b708b484c7daccf7474.16'
+- ap: 5348
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.588123
+  level: '?'
+  lon: -87.807579
+  name:  'c106cbaedc2348069ff32d60674e1d91.16'
+- ap: 5348
   img:  'http://lh4.ggpht.com/mHAXKPtOyg_DWRs5A_0yhGeDsfU4f4o3xJvzziri7o3ksPPKtMAHUkUBOb0JJ78gArdP5Q6O-UiXNDG3RHaIYQ'
   lat: 40.109339
   level: 6
@@ -238,12 +238,12 @@
   level: 6
   lon: -88.234245
   name:  'Stratford House'
-- ap: 4972
-  img:  'http://lh6.ggpht.com/tenpgw5pr4OCsrdIgmmHP_sx4RHH2ywHdbNxw556d5JpHC4u64HFYqCdRSeAJgfTN_7BcUv11v8NtBdlaUV8'
-  lat: 40.100717
+- ap: 5159
+  img:  'http://lh5.ggpht.com/Lup2et0i5h8oHqtBffIdoyX5uclC2MBn9ZnnKnYPr4RIFSflf9bi78zBHK7QqycA0qgEev9qOk0zU-1o1hg'
+  lat: 40.108451
   level: 7
-  lon: -88.243989
-  name:  'Rainbow Garden'
+  lon: -88.228733
+  name:  'The Centennial Colophon'
 - ap: 4785
   img:  'http://lh4.ggpht.com/YkAjLbUQwdId1pIn7-0sv7p3fU5sUakSrInODEYBL40IL2O6a6iP0KdmXupzcZMPqJ3arf7sss9irQ7NDzzF'
   lat: 40.110882
@@ -256,12 +256,6 @@
   level: 3
   lon: -88.214013
   name:  'Vicki J. Mayes Honorary'
-- ap: 4598
-  img:  'http://lh5.ggpht.com/1yq3oFq9p_Yl5cUf5h7IEfZPAbae2MT7lA0DFo1DHwPWPZJJ-Ez-2AE2oTzHEHWsEJQVUcUwh3j_d3kOYgDS'
-  lat: 40.110095
-  level: 7
-  lon: -88.22862
-  name:  'Alma Mater Plaza'
 - ap: 4598
   img:  'http://lh6.ggpht.com/POBAhJlStu1uLv82RPSkd8lKQyojPByrKqAwgiZPyXTHQcNTCN7rkJM376YcVpMmZZVMgiXz9J1BXanexyA643e-FR9M70tksLdb1akPUe2Ra_xCyw'
   lat: 40.112411
@@ -276,22 +270,16 @@
   name:  'The Betty J. Schroeder Grove'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 43.059172
-  level: '?'
-  lon: -86.243648
-  name:  'd8e1b021e4d94b708b484c7daccf7474.16'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 43.058183
   level: '?'
   lon: -86.245455
   name:  'e056b3511b1f4a9e80b9fa7f7a1cc907.16'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.588123
+  lat: 43.059946
   level: '?'
-  lon: -87.807579
-  name:  'c106cbaedc2348069ff32d60674e1d91.16'
+  lon: -86.24167
+  name:  '4afd23c960624dfea02e6fe7e4d76777.16'
 - ap: 4411
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
@@ -328,6 +316,12 @@
   level: 7
   lon: -88.230269
   name:  'John Street Plaque'
+- ap: 3848
+  img:  'http://lh6.ggpht.com/tenpgw5pr4OCsrdIgmmHP_sx4RHH2ywHdbNxw556d5JpHC4u64HFYqCdRSeAJgfTN_7BcUv11v8NtBdlaUV8'
+  lat: 40.100717
+  level: 7
+  lon: -88.243989
+  name:  'Rainbow Garden'
 - ap: 3661
   img:  'http://lh5.ggpht.com/Ubq0MuIsu5MU-I8JiOC7oX_aheDNBNsG-UlSMPqA5BRkHJX9BDDUPWGQxXllzVgaxFeo23u3zu_hlJesprpNJg'
   lat: 40.133421
@@ -364,6 +358,12 @@
   level: 5
   lon: -88.233133
   name:  'Sunken Cube at Art and Design Building'
+- ap: 3361
+  img:  'http://lh5.ggpht.com/1yq3oFq9p_Yl5cUf5h7IEfZPAbae2MT7lA0DFo1DHwPWPZJJ-Ez-2AE2oTzHEHWsEJQVUcUwh3j_d3kOYgDS'
+  lat: 40.110095
+  level: 3
+  lon: -88.22862
+  name:  'Alma Mater Plaza'
 - ap: 3661
   img:  'http://lh4.ggpht.com/8AjeZD8uLKBGqzwnDcp2t-wWRFmqZ03RVBIV2jccyPae0uVMwvjHgEmRfdS_lvnxJTIwosCM3Xlfpw-vIwZOdw'
   lat: 40.118549
@@ -466,12 +466,6 @@
   level: 7
   lon: -88.239045
   name:  'Layalina Mediterranean Grill'
-- ap: 3474
-  img:  'http://lh5.ggpht.com/3RfiPeOzF67ubNX-vkwUJ6-EYld6BKuoBernq0_9kOjlIsSPr3saR9FIQzN7uiw7ouF0CpNflOnL0mUj9zbqdQ'
-  lat: 40.109452
-  level: 6
-  lon: -88.229031
-  name:  'Illini Hall'
 - ap: 3474
   img:  'http://lh4.ggpht.com/PmGpygZ2fBs43twk2Y44XZbgGcHWv0YimAq7Fp3vlIRRqUyLpSmDmFwcn1ucfmJarcQrAAXJjYAXAhNyxSrz'
   lat: 40.110049
@@ -664,12 +658,6 @@
   level: 2
   lon: -88.22564
   name:  'Andrew De Grado Memorial'
-- ap: 2237
-  img:  'http://lh5.ggpht.com/VYMooLhz51W3fCgti3L9LEQNMJjmFeW30saxIYK34yGEReG1naEKEd3eW1uyFgSlzpu-P5KertNDe4Z6qu8'
-  lat: 40.109913
-  level: 3
-  lon: -88.228393
-  name:  'Alma Mater Statue'
 - ap: 2537
   img:  'http://lh6.ggpht.com/3F-W_tWjI9to9yO9QFciZhrR-g69gAfObkgheBu6KlCyrjO3-yU1e6v7ziRZ5toBoJYzhhsInOPwyvIAQcQrDg'
   lat: 40.103603
