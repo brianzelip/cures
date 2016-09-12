@@ -35,23 +35,17 @@
   lon: -88.251337
   name:  'In Loving Memory of Zeus'
 - ap: 8720
-  img:  'http://lh5.ggpht.com/vYay8RKsCV_BP_MkeFm7se0VZoYthm-1pThiATAADleBlTsPowobgZyUoU7DUto6p5cpg9adpCcTgNR6iop0Jw'
-  lat: 40.120121
-  level: 5
-  lon: -88.251967
-  name:  'Sesquicentennial Neighborhood Sign'
-- ap: 8720
   img:  'http://lh6.ggpht.com/I-l0KMezFAwrNcsN5-RPQCQbH4VnCa-C2GtwAQwrtAOcyFmOp_PxGmTwtTHCrR-O1hokLKIrtjyzuTsdP1E'
   lat: 40.112048
   level: 6
   lon: -88.236887
   name:  'Scott Park Rain Garden'
 - ap: 8533
-  img:  'http://lh5.ggpht.com/H88EzgVTAsWrhBcyG4PwdAbPDu4BLlyXkVIBnJ6gtmNusC2MU2vLumSrYGbl_7GmGJ7f5kE-6ebyy_VokU0L'
-  lat: 40.107512
-  level: 4
-  lon: -88.244964
-  name:  'Fellowship Circle'
+  img:  'http://lh5.ggpht.com/vYay8RKsCV_BP_MkeFm7se0VZoYthm-1pThiATAADleBlTsPowobgZyUoU7DUto6p5cpg9adpCcTgNR6iop0Jw'
+  lat: 40.120121
+  level: 5
+  lon: -88.251967
+  name:  'Sesquicentennial Neighborhood Sign'
 - ap: 8159
   img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
   lat: 40.100078
@@ -100,6 +94,12 @@
   level: 7
   lon: -88.238621
   name:  'Bombay Indian Grill'
+- ap: 7596
+  img:  'http://lh5.ggpht.com/H88EzgVTAsWrhBcyG4PwdAbPDu4BLlyXkVIBnJ6gtmNusC2MU2vLumSrYGbl_7GmGJ7f5kE-6ebyy_VokU0L'
+  lat: 40.107512
+  level: 4
+  lon: -88.244964
+  name:  'Fellowship Circle'
 - ap: 7596
   img:  'http://lh3.googleusercontent.com/erdNDM4HaNMn_EeFz0IoM_0LQWykLGJ1Y7-URXSvEithPHs8Rnwf7oWZyxVKu7qOpPdKjeeCy3dkywZ7n6KrsA'
   lat: 40.111615
@@ -163,7 +163,7 @@
 - ap: 6285
   img:  'http://lh6.ggpht.com/SboHv2_AWJ6ll559fK1A5a1UIAKf04oIHrgidra_E6L8gDK_mQ-DaM7hKYkv7MT6ZAA8pzgPxv_Vy-eNN7g'
   lat: 40.110608
-  level: 5
+  level: 6
   lon: -88.231957
   name:  '217 Tattoo Co.'
 - ap: 6098
@@ -203,12 +203,6 @@
   lon: -88.200103
   name:  'Meadowbrook Park Trail Map'
 - ap: 6096
-  img:  'http://lh4.ggpht.com/BEyFLhgqk0ySf2zElnARv5eyaQggj_zbHSagW3_DGt9BieScmU4jGPvJCjezTjbiCP-DOJPLPfJ3HhnYAiQLEQ'
-  lat: 40.119288
-  level: 5
-  lon: -88.248086
-  name:  'The Hartford'
-- ap: 6096
   img:  'http://lh5.ggpht.com/Lup2et0i5h8oHqtBffIdoyX5uclC2MBn9ZnnKnYPr4RIFSflf9bi78zBHK7QqycA0qgEev9qOk0zU-1o1hg'
   lat: 40.108451
   level: 6
@@ -220,6 +214,12 @@
   level: 6
   lon: -88.242255
   name:  'Blind Pig'
+- ap: 5909
+  img:  'http://lh4.ggpht.com/BEyFLhgqk0ySf2zElnARv5eyaQggj_zbHSagW3_DGt9BieScmU4jGPvJCjezTjbiCP-DOJPLPfJ3HhnYAiQLEQ'
+  lat: 40.119288
+  level: 5
+  lon: -88.248086
+  name:  'The Hartford'
 - ap: 5722
   img:  'http://lh6.ggpht.com/_rfJReDlJdrYezXwl9C7a4r7ZMCEE2RZ9dek5gQwKkC4sFtmFVfYF7S04SQXmjcksfbCvLWlOEuqOjxWnX4'
   lat: 40.12284
@@ -295,7 +295,7 @@
 - ap: 4785
   img:  'http://lh4.ggpht.com/YkAjLbUQwdId1pIn7-0sv7p3fU5sUakSrInODEYBL40IL2O6a6iP0KdmXupzcZMPqJ3arf7sss9irQ7NDzzF'
   lat: 40.110882
-  level: 5
+  level: 6
   lon: -88.231138
   name:  'Boneyard Greenway'
 - ap: 4785
@@ -436,18 +436,6 @@
   level: 5
   lon: -88.280335
   name:  'Prairie Grid'
-- ap: 3661
-  img:  'http://lh3.ggpht.com/R9_j6Ix3G4wIobXVuK6nhjPbwc4K59mAiAEYBNzlpbhK11ILWcjzXIpL90el567VJkxLA0oHXb244mi3pMUk'
-  lat: 40.106459
-  level: 6
-  lon: -88.262082
-  name:  'Everette Rock Garden'
-- ap: 3661
-  img:  'http://lh5.ggpht.com/v26lJtVx6k_bS8UIv0cuwFV2H-bR_kPwjkydaZjqk7BOG1VyLpoQFvuFB7ZmKZpWB_uCHi70HLzZoI4xZgo1'
-  lat: 40.116491
-  level: 6
-  lon: -88.246701
-  name:  'Emmanuel Memorial Episcopal Church'
 - ap: 3661
   img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
   lat: 40.117107
@@ -659,6 +647,12 @@
   lon: -88.28689
   name:  'First Church of the Nazarene'
 - ap: 2537
+  img:  'http://lh3.ggpht.com/R9_j6Ix3G4wIobXVuK6nhjPbwc4K59mAiAEYBNzlpbhK11ILWcjzXIpL90el567VJkxLA0oHXb244mi3pMUk'
+  lat: 40.106459
+  level: 6
+  lon: -88.262082
+  name:  'Everette Rock Garden'
+- ap: 2537
   img:  'http://lh3.ggpht.com/rgh_2qJQUPC1OrARUkiQqPKoNReiqZYOimm5Nszb77pDh72OszuyiJBKn-vDxHUuyjO2XTeKU9GBHc3oHIYr'
   lat: 40.115283
   level: 5
@@ -682,6 +676,12 @@
   level: 4
   lon: -88.244069
   name:  'Hazel Park Playground Dedication Plaque'
+- ap: 2237
+  img:  'http://lh3.ggpht.com/urNQaRe_wrjSAoW-Iis4CKHBvHhg6xwTvUcQPw4MqlQNK9ZuhMKEVtca2hGJnOCbyCC7ehJNuG00XZlaGXo'
+  lat: 40.118898
+  level: 3
+  lon: -88.247032
+  name:  'First Presbyterian Church'
 - ap: 2537
   img:  'http://lh3.ggpht.com/IKYzmqr6aeIX2d99jn1dQHjjq0-h7glRdyPEPoTdQnggoAgc8uutzh3X4OYjcCllXVp5r9rYyYnVPwNALI8B'
   lat: 40.115178
@@ -694,30 +694,12 @@
   level: 3
   lon: -88.245013
   name:  'New Covenant Fellowship'
-- ap: 2237
-  img:  'http://lh3.ggpht.com/urNQaRe_wrjSAoW-Iis4CKHBvHhg6xwTvUcQPw4MqlQNK9ZuhMKEVtca2hGJnOCbyCC7ehJNuG00XZlaGXo'
-  lat: 40.118898
-  level: 3
-  lon: -88.247032
-  name:  'First Presbyterian Church'
 - ap: 2537
   img:  'http://lh5.ggpht.com/85X0vnlHzLPww3OziBoMSVfkwq66eKQNZ9Mn6qsjghvteOQZiAVlsY80NVcsErHao0QYd9IyF7PDJyp-jaQ'
   lat: 40.101632
   level: 4
   lon: -88.233133
   name:  'Sunken Cube at Art and Design Building'
-- ap: 2462
-  img:  'http://lh4.ggpht.com/kZm6lbk07IpQebQBqqCODikSi-pOMHQhQ7-c0xNGM6vqUskWUftXV4L3ymEbT0T5IELGgfJ2vrxTZvmgP9D_'
-  lat: 40.117118
-  level: 5
-  lon: -88.248618
-  name:  'Lieut. E.G. Stillwell Memorial Tree'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/Iz-O9-kJLlEdRO9osaqkCvLRsSNF24c95jHG0lhtE95b99-cC2bKuCEiznIs1-ytpoCITEwQ7s5VuyURgrpM'
-  lat: 40.117288
-  level: 6
-  lon: -88.248506
-  name:  'Prayer for Rain  Fountain'
 - ap: 2537
   img:  'http://lh4.ggpht.com/OFVPvdgB3GVpaQknHdnt2okgP3xcQksAH3wvOGYVuP85MMlxo3bQ2SRpBb0hzNfjQoC_5LlRqaE6jLB-h9Gr'
   lat: 40.108092
