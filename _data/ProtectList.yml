@@ -222,7 +222,7 @@
   lon: -88.268125
   mus: 734
   name:  'Gazebo At Washington Retention Park'
-- fields: 12+
+- fields: 10+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.195867
   level: '?'
@@ -257,13 +257,6 @@
   lon: -88.2778
   mus: 641
   name:  'AISC Steel Teaching Sculpture'
-- fields: 9
-  img:  'http://lh4.ggpht.com/Ww9lgcscjGtB0ieiqyf2qK2ZzV0y3mZVpoi5ZZdPpArkbOa2B5aNli_k7t86GjD7eAeEFOw8W0oZvfr61S6Kxg'
-  lat: 40.139196
-  level: 7
-  lon: -88.257755
-  mus: 615
-  name:  'Market View Fountain'
 - fields: 1
   img:  'http://lh6.ggpht.com/ZSVCsC7hXcoC2GI20Sq8deYNu_RXKDePVyLUpFRUSNdceVY9OBExZbgX-tuJK4pHEVYXT9YbN7DF9kicgt25'
   lat: 40.088197
@@ -313,6 +306,13 @@
   lon: -88.289974
   mus: 458
   name:  'In Memory Of Charles Eddy Shumate'
+- fields: 8
+  img:  'http://lh4.ggpht.com/Ww9lgcscjGtB0ieiqyf2qK2ZzV0y3mZVpoi5ZZdPpArkbOa2B5aNli_k7t86GjD7eAeEFOw8W0oZvfr61S6Kxg'
+  lat: 40.139196
+  level: 7
+  lon: -88.257755
+  mus: 449
+  name:  'Market View Fountain'
 - fields: 2
   img:  'http://lh3.ggpht.com/PijfKs7HCJf1vVcIxcTF1HPOYaa5iS4ZECXZUQ2dDDSn9ZCXSd8FGHThRUiEIC-oMNmClt0seIzn8FsaGPER'
   lat: 40.112752
@@ -510,13 +510,6 @@
   mus: 200
   name:  'Thompson Park'
 - fields: 3
-  img:  'http://lh6.ggpht.com/ZpJuVeWuDsVo9oPzh9mGzFjeTz2FQluKlriJijNL29HFEEWmMBqok5fCxVis8MpHqJYCBQUhRLNU9yuE7luP'
-  lat: 40.129233
-  level: 6
-  lon: -88.238696
-  mus: 200
-  name:  'Bristol Park'
-- fields: 3
   img:  'http://lh4.ggpht.com/N6E1iW7R1Dt6SCyd1q4Ym_HeSnFZ2mHHlXE-jkX1_YLy9BgSRPcDZK8ri2PWx6-sV1IEsClFGgMgpdI2Bgg'
   lat: 40.069187
   level: 6
@@ -537,13 +530,6 @@
   lon: -88.267696
   mus: 188
   name:  'Eisner Park North Entrance'
-- fields: 2
-  img:  'http://lh3.ggpht.com/STEfnDDHEff3fffoWiEjvWm4SETgCRyRIvPgf92kzrsxo3sdh1SNg1AmGiFqvspDfSx0OXri-AXVfOZRWRMe'
-  lat: 40.13156
-  level: 6
-  lon: -88.239027
-  mus: 183
-  name:  'Human Kinetics Park'
 - fields: 1
   img:  'http://lh4.ggpht.com/-2q6p_jcZ5xVswdwpO98pGsMWXnqxUlsBmhWA2F6xs0MbwejV7FTN7-kHSb4nlsfg3uUsrvdDmUM5v1lQ-Ia'
   lat: 40.086252
@@ -684,13 +670,6 @@
   lon: -88.401915
   mus: 87
   name:  'Fire Fighters Pavilion'
-- fields: 3+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.152792
-  level: '?'
-  lon: -88.253532
-  mus: 87
-  name:  'Toalson Park'
 - fields: 2
   img:  'http://lh5.ggpht.com/_eMBd3V1rEFztJvtBkssKVH7eM-jiU3l9VJJ-kj6SxGZMx_7Qo6G4yjfsws8T1FhIEFwk7yvoicm8XTVERh4'
   lat: 40.084405
@@ -698,13 +677,13 @@
   lon: -88.297963
   mus: 86
   name:  'Mount Sinai Temple'
-- fields: 3+
+- fields: 2+
   img: http://i.imgur.com/LujBo5P.png
-  lat: 40.152342
+  lat: 40.152792
   level: '?'
-  lon: -88.252345
-  mus: 81
-  name:  'Toalson Park Basketball Hoop'
+  lon: -88.253532
+  mus: 86
+  name:  'Toalson Park'
 - fields: 1
   img:  'http://lh4.ggpht.com/rNs4gwiKvsCHhjmMrQsvsCF0c4DUqfjyVYy8Biku0pxyebWfQx-UKTF5t1bOvZ06p6s4UKBrBN9jDDqgjsaU'
   lat: 40.108197
@@ -712,6 +691,13 @@
   lon: -88.302205
   mus: 81
   name:  'Johnston Park'
+- fields: 2+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.152342
+  level: '?'
+  lon: -88.252345
+  mus: 80
+  name:  'Toalson Park Basketball Hoop'
 - fields: 1
   img:  'http://lh3.ggpht.com/pYhzsdnsrgDuN3LdAiJYrUWqAbZHhF2jEnBDmKvHwMl6qZL8nVL0L1K5vQCZtbH7G3vWuLY0_VaMSEc1Jjo'
   lat: 40.089056
@@ -796,13 +782,13 @@
   lon: -88.256779
   mus: 36
   name:  'Framer''s Market'
-- fields: 2
-  img:  'http://lh6.ggpht.com/RI5Ok6bJjxIHk0YwpEnU3juaRZR-DPPS1rBWXGiSJcZhrjOyFUSAfmkM9Z45ZZbAN8LhloB0yMjNWN4Noss'
-  lat: 40.128344
-  level: 6
-  lon: -88.236795
-  mus: 34
-  name:  'New House of Prayer'
+- fields: 6
+  img:  'http://lh5.ggpht.com/Vr_4ImpNKaqK50Ic81rBi87YRc7CGxn1wrgok5oUZwCy-NYWdCYcePOKUERBtPb_hxa_Z2Dk395t7M01M6sp'
+  lat: 40.081821
+  level: 5
+  lon: -88.204706
+  mus: 33
+  name:  '"Balencia" at Meadowbrook Park'
 - fields: 1
   img:  'http://lh4.ggpht.com/UGO92BcgfjgbJAiVyAEbj2PSJCbyQ9L6Zafok9aIre_odCTZG1lhY6rDdlIdnc1TXeNT7LpehYDEg8jTz7uU'
   lat: 40.083536
@@ -838,13 +824,13 @@
   lon: -88.250539
   mus: 26
   name:  'Hessel Park'
-- fields: 5
-  img:  'http://lh5.ggpht.com/Vr_4ImpNKaqK50Ic81rBi87YRc7CGxn1wrgok5oUZwCy-NYWdCYcePOKUERBtPb_hxa_Z2Dk395t7M01M6sp'
-  lat: 40.081821
-  level: 5
-  lon: -88.204706
-  mus: 25
-  name:  '"Balencia" at Meadowbrook Park'
+- fields: 4
+  img:  'http://lh6.ggpht.com/LJB7sU5C-p9Dsf4gZ7RkqrEbfZnlh-rR33SARIHJOOUld5Lhb6_CH4gN1rtHGaLP4sPAsl8gN6mFkpl7ZQ5_'
+  lat: 40.081475
+  level: 6
+  lon: -88.20239
+  mus: 26
+  name:  'Prairie Buoy'
 - fields: 7+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.195019
@@ -908,6 +894,13 @@
   lon: -88.292808
   mus: 20
   name:  'Campus Solar System - Mars'
+- fields: 5
+  img:  'http://lh6.ggpht.com/k_7DcxCHlkFP0CTNHoTY5V3-yA-EKIuGisBB8E77m940i61vkhvgHMsmxpNBkUhVm6Oy2XzndXI9_HF9MNJt-bahjS2gelImbCJmBrpBHpGW9VvA'
+  lat: 40.080794
+  level: 5
+  lon: -88.203294
+  mus: 18
+  name:  '"Fluke" at Meadowbrook Park'
 - fields: 3
   img:  'http://lh4.ggpht.com/FOqmWFqpxmpdNn358B7Xko5DVp_H3_qI49Lw-6NI8lusw3iqZM-wuMsxRn82L8WFxV7TKpxjxwwzvqLHR0QF'
   lat: 40.087474
@@ -922,6 +915,20 @@
   lon: -88.238588
   mus: 18
   name:  'Beautiful Storm'
+- fields: 1
+  img:  'http://lh6.ggpht.com/RI5Ok6bJjxIHk0YwpEnU3juaRZR-DPPS1rBWXGiSJcZhrjOyFUSAfmkM9Z45ZZbAN8LhloB0yMjNWN4Noss'
+  lat: 40.128344
+  level: 6
+  lon: -88.236795
+  mus: 17
+  name:  'New House of Prayer'
+- fields: 1
+  img:  'http://lh6.ggpht.com/ZpJuVeWuDsVo9oPzh9mGzFjeTz2FQluKlriJijNL29HFEEWmMBqok5fCxVis8MpHqJYCBQUhRLNU9yuE7luP'
+  lat: 40.129233
+  level: 6
+  lon: -88.238696
+  mus: 17
+  name:  'Bristol Park'
 - fields: 2
   img:  'http://lh6.ggpht.com/yoGdHEqpRRqOE5pA5wHdi_ismU_TrB-kTiqVV63EO630KsU608TIfjLijcqJ38At7MyyrE2urWFMPY1Sops'
   lat: 40.118121
@@ -929,6 +936,13 @@
   lon: -88.258039
   mus: 17
   name:  'Mini Park V'
+- fields: 4
+  img:  'http://lh4.ggpht.com/kRHQwpjarX7HfwQLr4A30xQMO7de9l3eYpGLma1L5s-RekStFVQR9wmELAfa5uJPMOlf5gV2dSJD3kGjJYz1SLzbacRg2RpKXPScnDHAk2ncu1s'
+  lat: 40.082189
+  level: 6
+  lon: -88.202575
+  mus: 17
+  name:  '"Position 1" @ Meadowbrook Par'
 - fields: 2
   img:  'http://lh4.ggpht.com/zAxC11GCLRrj5wlF-U0mbjaisXjS5ukHSkGR5sVCfSWYKSlV2kxvtrD04m3n_XzT59XQ1xyf4ctzShUNem0'
   lat: 40.080381
@@ -978,7 +992,7 @@
   lon: -88.248914
   mus: 15
   name:  'Boulware Trail'
-- fields: 7+
+- fields: 5+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.194971
   level: '?'
@@ -992,13 +1006,6 @@
   lon: -88.249648
   mus: 13
   name:  'Max Overmyer Memorial Playground'
-- fields: 2
-  img:  'http://lh6.ggpht.com/LJB7sU5C-p9Dsf4gZ7RkqrEbfZnlh-rR33SARIHJOOUld5Lhb6_CH4gN1rtHGaLP4sPAsl8gN6mFkpl7ZQ5_'
-  lat: 40.081475
-  level: 6
-  lon: -88.20239
-  mus: 13
-  name:  'Prairie Buoy'
 - fields: 2
   img:  'http://lh6.ggpht.com/BjKL2L9ZzUTddDfIfeyClWu3tx12soMCpmNX8YkTMs-UqHGRUSmCHKtXCiiRT7J0N6vdUFyi_T_av5X2_-OX'
   lat: 40.194134
@@ -1041,13 +1048,13 @@
   lon: -88.273478
   mus: 12
   name:  'Westgate Bear'
-- fields: 3
-  img:  'http://lh4.ggpht.com/kRHQwpjarX7HfwQLr4A30xQMO7de9l3eYpGLma1L5s-RekStFVQR9wmELAfa5uJPMOlf5gV2dSJD3kGjJYz1SLzbacRg2RpKXPScnDHAk2ncu1s'
-  lat: 40.082189
+- fields: 5
+  img:  'http://lh3.ggpht.com/BozajMgDcVYIYb0VfltzZ6ndh8oSFMdmzkwFA2GLdCTMF2_Bs6XYBAk47PZLTxtpck_7SPUwMGHgw8SW8T8x'
+  lat: 40.083218
   level: 6
-  lon: -88.202575
+  lon: -88.201089
   mus: 12
-  name:  '"Position 1" @ Meadowbrook Par'
+  name:  'Minimalist Response III'
 - fields: 3
   img:  'http://lh3.googleusercontent.com/vi8qr0nlfydURrBvr8Ywbtktw2qbybC87ByS0o_-5__cuFqXxIqgAseqWLTcadAsOlzsXUsa7IJYAHmCzlc'
   lat: 40.079765
@@ -1083,13 +1090,6 @@
   lon: -88.249061
   mus: 11
   name:  'Randy William Auteberry Memorial'
-- fields: 4
-  img:  'http://lh6.ggpht.com/k_7DcxCHlkFP0CTNHoTY5V3-yA-EKIuGisBB8E77m940i61vkhvgHMsmxpNBkUhVm6Oy2XzndXI9_HF9MNJt-bahjS2gelImbCJmBrpBHpGW9VvA'
-  lat: 40.080794
-  level: 5
-  lon: -88.203294
-  mus: 11
-  name:  '"Fluke" at Meadowbrook Park'
 - fields: 1
   img:  'http://lh4.ggpht.com/53avgB1jGEftJ9eyV5l3nee16yHgYDAXkZoonzyXO3mwPLijOgz1uOtcxfKdCaRzaBqW-BQ4ft-Od3uZnja8'
   lat: 40.118436
@@ -1230,6 +1230,13 @@
   lon: -88.239356
   mus: 7
   name:  'Jill M. Zimmerman Memorial'
+- fields: 3
+  img:  'http://lh5.ggpht.com/yi0V8I6S2E0v2oc1FMMtt5n823XeDVA_UcGxIRKd87LWu-xz_yY5qTWwmEbVC_STI_YNdHQYFuhNbjFafu4XW73mRfrZ5VRAGtkd1JiHBMyphaKx5Q'
+  lat: 40.083139
+  level: 6
+  lon: -88.202075
+  mus: 7
+  name:  'Southern Passage'
 - fields: 2
   img:  'http://lh3.ggpht.com/ZOALJqKi7gNpN7e2IXnkcpGhKdME-MIGNVz09KJfsruk0ix30Xa_lWaNAMj06IpkfgGbmbNvDXRdDkLgGGA9'
   lat: 40.090629
@@ -1300,13 +1307,6 @@
   lon: -88.20463
   mus: 6
   name:  'Swift'
-- fields: 2
-  img:  'http://lh5.ggpht.com/yi0V8I6S2E0v2oc1FMMtt5n823XeDVA_UcGxIRKd87LWu-xz_yY5qTWwmEbVC_STI_YNdHQYFuhNbjFafu4XW73mRfrZ5VRAGtkd1JiHBMyphaKx5Q'
-  lat: 40.083139
-  level: 6
-  lon: -88.202075
-  mus: 5
-  name:  'Southern Passage'
 - fields: 4
   img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
   lat: 40.098959
@@ -1405,13 +1405,6 @@
   lon: -88.313206
   mus: 4
   name:  'Alan Green Memorial'
-- fields: 1
-  img:  'http://lh3.ggpht.com/BozajMgDcVYIYb0VfltzZ6ndh8oSFMdmzkwFA2GLdCTMF2_Bs6XYBAk47PZLTxtpck_7SPUwMGHgw8SW8T8x'
-  lat: 40.083218
-  level: 6
-  lon: -88.201089
-  mus: 4
-  name:  'Minimalist Response III'
 - fields: 2
   img:  'http://lh5.ggpht.com/1fPvqpqXG5PDCkmegoWb9Tv9N5_MZh9XjmZpbyNEs5yPDsCscbrPB1cO_Pf8GT35HYrTF01FZ6s5VPIpjJ_20A'
   lat: 40.107098
@@ -1436,7 +1429,7 @@
 - fields: 3
   img:  'http://lh3.ggpht.com/KzADjdPRAvwycpfTBdAeDwFJ0AxZJG2dPmbPWkXq55QLV9PfpJ_-DsXWIlVgsISUApRdJ5cAxRWx0k0W2hI'
   lat: 40.09979
-  level: 7
+  level: 8
   lon: -88.249107
   mus: 3
   name:  'Jerome Cook Memorial'
@@ -1518,12 +1511,26 @@
   mus: 2
   name:  'Parkland College'
 - fields: 1
+  img:  'http://lh6.ggpht.com/gKoAVfAXPNcc0cL_CNbiCdHIsPyUbMbJmy6o9XlvmyVEcG71RrD0Zj1NmWw9sbPBd957NYMtr7u-eLKY8jGQHw'
+  lat: 40.083528
+  level: 5
+  lon: -88.202233
+  mus: 2
+  name:  'Fathers & Sons'
+- fields: 1
   img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
   lat: 40.107753
   level: 2
   lon: -88.228913
   mus: 2
   name:  'Zipcar-Wright Street & Daniel Street'
+- fields: 3
+  img:  'http://lh5.ggpht.com/prfJ78X11LQhmc4oqt5BIM1mvF3nq_ZyuHqdzh9Ab7lz5aRQqfjllde4UKCFCQguDMa0Nl63SsnEstu2uaw'
+  lat: 40.083271
+  level: 5
+  lon: -88.200732
+  mus: 2
+  name:  'Prairie Play'
 - fields: 3
   img:  'http://lh5.ggpht.com/PnX0W4nb5AYgeh3aSV1f6L1M6SXT5EDNNj-HZLlIrqeFoeMlVOlqnsY-fMyXYgvKn-Ac3RDPKf_iJCtYRmek'
   lat: 40.194805
@@ -1574,6 +1581,13 @@
   mus: 2
   name:  '"Here and There" at Meadowbrook'
 - fields: 2
+  img:  'http://lh5.ggpht.com/Nn1kM6sYdUcyplObjDuNOxFLN-NHspntEdET54AzrcZuO71RCmdq-UQeroMQ5JNEno_XDutkdBoVuAm7HQM'
+  lat: 40.083054
+  level: 5
+  lon: -88.200475
+  mus: 1
+  name:  'Loving Memory of All Our Babies'
+- fields: 2
   img:  'http://lh4.ggpht.com/vLN74xdc8Mdgab4UjP1QUbyX42bkPBXnIqzYzkmRDi4naHiBk2kM1wUA7Mx3Pxl1dpPoMBAg9pV956MqTDk'
   lat: 40.068391
   level: 8
@@ -1608,13 +1622,6 @@
   lon: -88.220991
   mus: 1
   name:  '"Prairie Fire" Sculpture'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.152871
-  level: '?'
-  lon: -88.253305
-  mus: 1
-  name:  '50197185529145c883d36b74db0ec522.16'
 - fields: 2
   img:  'http://lh3.ggpht.com/rT55OoX-8s-w_ikrqOgpC7QkK-Iqp4ylicElGoWFagKRQ8LX3Uvv8TZ5Xc8BlId1btzo5FTbgddPN72kYwA'
   lat: 40.114327
@@ -1643,13 +1650,20 @@
   lon: -88.218588
   mus: 1
   name:  'Idea Garden'
-- fields: 4+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.195251
-  level: '?'
-  lon: -88.403825
+- fields: 1
+  img:  'http://lh5.ggpht.com/fV0EN-O-ZnvYxldL2VCz5p99G1LNJnijI_B_4Erzqyiv3LRx6_oxldoqltlIl7BTh3mAIyiasfxb0k9QgjZP'
+  lat: 40.083585
+  level: 6
+  lon: -88.201439
   mus: 1
-  name:  'be5ca27857734636a834fcaec3fb76db.16'
+  name:  'Meadowbrook Park '
+- fields: 1
+  img:  'http://lh5.ggpht.com/ogCPXpztEJz9g9SqYcx7GPN1hAW6SSyzm2kS3ozjtVr0ZHGQtyGclfFRGF_5tPmngEnHH93xWdFcDL13cD72'
+  lat: 40.083312
+  level: 4
+  lon: -88.200103
+  mus: 1
+  name:  'Meadowbrook Park Trail Map'
 - fields: 1
   img:  'http://lh6.ggpht.com/bk4dEHQrhHB4CnS-r1oU423YDgPGgV61H809xF_AI-CVJFh8pf1rbOMxcZIfQYEe0W5OLWy-XYtwPUc_n08o'
   lat: 40.068707
@@ -1664,6 +1678,13 @@
   lon: -88.224932
   mus: 1
   name:  'National Center for Supercomputing Applications'
+- fields: 2+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.195251
+  level: '?'
+  lon: -88.403825
+  mus: 1
+  name:  'be5ca27857734636a834fcaec3fb76db.16'
 - fields: 1
   img:  'http://lh4.ggpht.com/GcCZ7JTzkEHTZnUWfpUgibDh2Wa4nzGM9-k13AG4I2RwFiPa6exz1vCzj7Hwvf_oPwJvYJt0xoRE6GZXmCMX'
   lat: 40.132625
@@ -1727,13 +1748,6 @@
   lon: -88.243473
   mus: 1
   name:  'Savoy Rotary Club Dedication'
-- fields: 3+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.195404
-  level: '?'
-  lon: -88.40408
-  mus: 1
-  name:  '35d2540a6dab4d509460962b545bd2bf.16'
 - fields: 1
   img:  'http://lh3.googleusercontent.com/m68rgxfyTHzijj23L6S0_kQ0XZ1wS3c0dUjsa4tLjqLJ8eSQ1CuHgWaxDSYthuek2areSlSTRw5Hn_zpJ3cD'
   lat: 40.09428
