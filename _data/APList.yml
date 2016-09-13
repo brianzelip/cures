@@ -49,7 +49,7 @@
 - ap: 8722
   img:  'http://lh5.ggpht.com/KadNuhjGK6FUXezGHW1W1kfPOQV5l7gJP594EQm5nPZFLTgcTsjl4ixa-j7XitgtyJyou3q0pTfMr4i2E_avIA'
   lat: 40.118013
-  level: 4
+  level: 6
   lon: -88.243445
   name:  'Clock at Neil and Main'
 - ap: 8722
@@ -281,11 +281,11 @@
   lon: -88.237848
   name:  '2nd St. Basin Ampitheater '
 - ap: 4785
-  img:  'http://lh5.ggpht.com/ucFkWovrZBr6wFMicSGD78p44tqzcyfJCvQuAocYo0do3ODoHsOeAMphZZferoOLkGfuJPQVlILRzKG1vAPg'
-  lat: 40.109172
-  level: 5
-  lon: -88.231151
-  name:  'Illini Life Christian Fellowship'
+  img:  'http://lh4.ggpht.com/YkAjLbUQwdId1pIn7-0sv7p3fU5sUakSrInODEYBL40IL2O6a6iP0KdmXupzcZMPqJ3arf7sss9irQ7NDzzF'
+  lat: 40.110882
+  level: 6
+  lon: -88.231138
+  name:  'Boneyard Greenway'
 - ap: 4785
   img:  'http://lh5.ggpht.com/2PB1u3cNuASfw9D_MIUzI1JvNofebK7zsuGqKoUApr-nUWYZ8y5CzxH6g7CdcY7ShBaVGrBrurkbwrdUPD7JBk55TH0Ouao5b_g2jUI1saBNUE8'
   lat: 40.106744
@@ -293,11 +293,11 @@
   lon: -88.225347
   name:  'The Red Herring Vegetarian'
 - ap: 4785
-  img:  'http://lh4.ggpht.com/YkAjLbUQwdId1pIn7-0sv7p3fU5sUakSrInODEYBL40IL2O6a6iP0KdmXupzcZMPqJ3arf7sss9irQ7NDzzF'
-  lat: 40.110882
-  level: 6
-  lon: -88.231138
-  name:  'Boneyard Greenway'
+  img:  'http://lh5.ggpht.com/ucFkWovrZBr6wFMicSGD78p44tqzcyfJCvQuAocYo0do3ODoHsOeAMphZZferoOLkGfuJPQVlILRzKG1vAPg'
+  lat: 40.109172
+  level: 5
+  lon: -88.231151
+  name:  'Illini Life Christian Fellowship'
 - ap: 4785
   img:  'http://lh5.ggpht.com/Rbncx1cCR848JJRHJEZP1LBPjeBES8v3loG6KcPp_EZibzeb9m2nHSS7tN8FkCjMCfjJavG5jZd3NgYEuKE'
   lat: 40.119468
@@ -389,12 +389,6 @@
   lon: -88.235913
   name:  'Scott Park Pavilion'
 - ap: 4411
-  img:  'http://lh3.ggpht.com/1Z3mCRroEUysinW4hlDhAFNnfog3gwBM_aM8wYT6tQPiXMMmaRE9CrO5XM6QMe3UPHzMQSoxFmvWlkwOTRAv'
-  lat: 40.111111
-  level: 6
-  lon: -88.230176
-  name:  'U of I Mural'
-- ap: 4411
   img:  'http://lh3.googleusercontent.com/v44Gf5oEZGcwkQcA2wWz-uAeDFESHj7sEloxdCJd316RPH3w_ln8_9mBEMbAqGyI_2Y2qaYp525PnRip9Rg'
   lat: 40.105315
   level: 5
@@ -406,6 +400,12 @@
   level: 5
   lon: -88.225714
   name:  'Smith Memorial Hall'
+- ap: 4411
+  img:  'http://lh3.ggpht.com/1Z3mCRroEUysinW4hlDhAFNnfog3gwBM_aM8wYT6tQPiXMMmaRE9CrO5XM6QMe3UPHzMQSoxFmvWlkwOTRAv'
+  lat: 40.111111
+  level: 6
+  lon: -88.230176
+  name:  'U of I Mural'
 - ap: 4411
   img:  'http://lh5.ggpht.com/w9vRSV8NBR1gsi8ndeSUNJN2X-ftwCCQ7Jd3dcLVhPw6r1w0x1QE4hNgpCJBKimUeq-HToz_yq9S3rYkzC5bjw'
   lat: 40.114687
@@ -474,6 +474,12 @@
   name:  '008ad68521fa4a23bf7a536bf812ed37.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.781319
+  level: '?'
+  lon: -87.757799
+  name:  '40323d30f2a446858cac38654e826845.12'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.49019
   level: '?'
   lon: -87.803714
@@ -490,12 +496,6 @@
   level: '?'
   lon: -86.288243
   name:  'f0822127d4f545f6a27bb297da0de535.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.781319
-  level: '?'
-  lon: -87.757799
-  name:  '40323d30f2a446858cac38654e826845.12'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.812283
@@ -551,12 +551,6 @@
   lon: -88.237188
   name:  'Boneyard Creek Second Street  Basin'
 - ap: 3474
-  img:  'http://lh4.ggpht.com/PmGpygZ2fBs43twk2Y44XZbgGcHWv0YimAq7Fp3vlIRRqUyLpSmDmFwcn1ucfmJarcQrAAXJjYAXAhNyxSrz'
-  lat: 40.110049
-  level: 7
-  lon: -88.231968
-  name:  'Potbelly Mural'
-- ap: 3474
   img:  'http://lh3.ggpht.com/jnMeoF6SBZ0Iinf5GnB2N90IMGTEQdGggLITfjWcIY6d5yipHaBN52a1NPxmn-VFwc_G1cHiMmyEDGg5nkwo'
   lat: 40.101623
   level: 4
@@ -568,6 +562,12 @@
   level: 4
   lon: -88.231737
   name:  'Krannert Art Museum'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/PmGpygZ2fBs43twk2Y44XZbgGcHWv0YimAq7Fp3vlIRRqUyLpSmDmFwcn1ucfmJarcQrAAXJjYAXAhNyxSrz'
+  lat: 40.110049
+  level: 7
+  lon: -88.231968
+  name:  'Potbelly Mural'
 - ap: 3474
   img:  'http://lh4.ggpht.com/OFVPvdgB3GVpaQknHdnt2okgP3xcQksAH3wvOGYVuP85MMlxo3bQ2SRpBb0hzNfjQoC_5LlRqaE6jLB-h9Gr'
   lat: 40.108092
@@ -604,24 +604,18 @@
   level: 7
   lon: -88.224932
   name:  'National Center for Supercomputing Applications'
-- ap: 2349
-  img:  'http://lh5.ggpht.com/8M0cUsd4eq3jg7zuefsRRnxKhwn5q8xipPHTaf8z-o4xdGPYl0NgpiXIMDSknrQjcvRUOzyzWYsXHRqlfOY'
-  lat: 40.102064
-  level: 1
-  lon: -88.284067
-  name:  'Lindsey New American Gardens '
-- ap: 2724
-  img:  'http://lh6.ggpht.com/NMgUdPOdhvhvKZh7ugwXgybshZBZ2mkaEWMNKYdFPX6cfIYENSCqE9YpAXSNVuq_9VVWXJB-ShCBAPfF2Yvs'
-  lat: 40.102513
-  level: 5
-  lon: -88.243679
-  name:  'Robert Hosier Memorial Garden'
 - ap: 2724
   img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
   lat: 40.107751
   level: 6
   lon: -88.231532
   name:  'Graduate School of Library and Information Science'
+- ap: 2724
+  img:  'http://lh6.ggpht.com/NMgUdPOdhvhvKZh7ugwXgybshZBZ2mkaEWMNKYdFPX6cfIYENSCqE9YpAXSNVuq_9VVWXJB-ShCBAPfF2Yvs'
+  lat: 40.102513
+  level: 5
+  lon: -88.243679
+  name:  'Robert Hosier Memorial Garden'
 - ap: 2724
   img:  'http://lh3.ggpht.com/LR76HrJqriPFUoc2XSs7jb2SotnStZv20kI7rgUx8B5HqhmetnTW4MA1tCp1ws4g5gw0sf9g7M3Lwq4VwfpD'
   lat: 40.111687
@@ -659,24 +653,6 @@
   lon: -88.266876
   name:  'c0c561eb8ffb4ac380cc6b9b8cdafde8.16'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/ehNwLdaa71H3Bylm063pawn4caIGz2rCdmmdBhAFWIuEt2kPjT8nWHDkSuoOidckWiM82FWpDSNGQqQMHiQ'
-  lat: 40.098209
-  level: 5
-  lon: -88.28689
-  name:  'First Church of the Nazarene'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/bzGBa_8g8we9vEYlZ-a10Ugz_B36DNFCNFsnUmAPy3Aji53kcVj0FaVE28zxnedZgY5Ozi94A8obmXuFQ1vL'
-  lat: 40.132632
-  level: 3
-  lon: -88.279968
-  name:  'Vernon W Fitch Memorial'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/Ubq0MuIsu5MU-I8JiOC7oX_aheDNBNsG-UlSMPqA5BRkHJX9BDDUPWGQxXllzVgaxFeo23u3zu_hlJesprpNJg'
-  lat: 40.133421
-  level: 4
-  lon: -88.280893
-  name:  'Greenbelt Bikeway'
-- ap: 2537
   img:  'http://lh3.ggpht.com/rgh_2qJQUPC1OrARUkiQqPKoNReiqZYOimm5Nszb77pDh72OszuyiJBKn-vDxHUuyjO2XTeKU9GBHc3oHIYr'
   lat: 40.115283
   level: 5
@@ -694,6 +670,24 @@
   level: 1
   lon: -88.282524
   name:  'Rotary Shelter'
+- ap: 2162
+  img:  'http://lh5.ggpht.com/8M0cUsd4eq3jg7zuefsRRnxKhwn5q8xipPHTaf8z-o4xdGPYl0NgpiXIMDSknrQjcvRUOzyzWYsXHRqlfOY'
+  lat: 40.102064
+  level: 1
+  lon: -88.284067
+  name:  'Lindsey New American Gardens '
+- ap: 2537
+  img:  'http://lh3.ggpht.com/1FtcyHMJRhFifRLb3-BiKpl51XTW56r_DM5chcCXA0F1nwRDjcqv1FFQZoj42pyMoGxHo0Wq98ovWw-FBjDjFA'
+  lat: 40.086561
+  level: 3
+  lon: -88.289447
+  name:  'Meadow Square Park'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/RNrZiv9IbaVmf1T3BDIBtJlPClW0V2KZaJqQ9dT9zn3G2jdsIbcsYaOUXtL9xQVsWUjtbJ4EdcJVIFPGUih1'
+  lat: 40.085167
+  level: 3
+  lon: -88.287821
+  name:  'Robeson Meadows Trail'
 - ap: 2537
   img:  'http://lh4.ggpht.com/u_MtizNv_keIXM4ITgtjqC8nr5JvB8UpDBg_5_08uQDTsQr44mwr6ZlkhTp0iKbvcV9xCJqXDeN66xYWaI0'
   lat: 40.116227
