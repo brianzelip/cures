@@ -99,7 +99,7 @@
 - fields: 8
   img:  'http://lh3.ggpht.com/1yyUr0xGwID_g1F_OYHLjASRJrvJLD7e8r6IER_B6CliwGRrCH6cDWRVgtfWqJ0wHhNyjId_FX6mEVecAviV'
   lat: 40.11946
-  level: 6
+  level: 7
   lon: -88.276623
   mus: 1015
   name:  'Glenn Park'
@@ -138,6 +138,20 @@
   lon: -88.260589
   mus: 599
   name:  'C Richard Vogel Memorial'
+- fields: 8
+  img:  'http://lh4.ggpht.com/BDVsIEWOaH0zZsTgU8IbvmVNJTrl3EljfhNXeVt4C2BILNtXm5hpAq_6mLrTl66aJcUyYv4hFJKhxedLkKo'
+  lat: 40.11679
+  level: 6
+  lon: -88.281854
+  mus: 592
+  name:  'International Society of Arboriculture'
+- fields: 4
+  img:  'http://lh4.ggpht.com/xre1t2f9ZP_FkCsL4RhaTps0qWFo56BMvVamDTfFXffFNzsjinSlYX2dUWrt--btr9chdUOA2-IhLNAUoGrF'
+  lat: 40.121085
+  level: 6
+  lon: -88.281892
+  mus: 591
+  name:  'Fluid Event Center'
 - fields: 5
   img:  'http://lh5.ggpht.com/oyiyn1Im-Ppa2y94WGbvZox7rcS2MMu45LOziU7yXZi4v2540YN6hgzBokVq2mxvpPtdDXpAwWD_vYWxjHcO'
   lat: 40.130238
@@ -166,20 +180,6 @@
   lon: -88.395508
   mus: 530
   name:  'Mahomet Village Tower'
-- fields: 3
-  img:  'http://lh4.ggpht.com/xre1t2f9ZP_FkCsL4RhaTps0qWFo56BMvVamDTfFXffFNzsjinSlYX2dUWrt--btr9chdUOA2-IhLNAUoGrF'
-  lat: 40.121085
-  level: 6
-  lon: -88.281892
-  mus: 523
-  name:  'Fluid Event Center'
-- fields: 6
-  img:  'http://lh4.ggpht.com/BDVsIEWOaH0zZsTgU8IbvmVNJTrl3EljfhNXeVt4C2BILNtXm5hpAq_6mLrTl66aJcUyYv4hFJKhxedLkKo'
-  lat: 40.11679
-  level: 6
-  lon: -88.281854
-  mus: 513
-  name:  'International Society of Arboriculture'
 - fields: 6
   img:  'http://lh5.ggpht.com/B8Rn2SSli9Gp6boevvgCFQmdAqu5SZyleVSIDEBfrAA-2kYvtvM5aI756gykEkV4Ycy7BQvvS-3_O-nAMllfhg'
   lat: 40.113028
@@ -530,6 +530,13 @@
   lon: -88.252345
   mus: 80
   name:  'Toalson Park Basketball Hoop'
+- fields: 3
+  img:  'http://lh5.ggpht.com/fXiNwkXmSX8fZHrMNMMOKDwrDe3QmmqOh1_M_Ycr5y5MtYCkhec8mczY1v29LvWHTFwsN9dS5HYQnaX-NGjoAQ'
+  lat: 40.118435
+  level: 7
+  lon: -88.285772
+  mus: 79
+  name:  'Hidden Street Art '
 - fields: 3
   img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
   lat: 40.102188
@@ -943,6 +950,13 @@
   lon: -88.401509
   mus: 15
   name:  'Mahomet Area Community Center'
+- fields: 3
+  img:  'http://lh4.ggpht.com/XKVHQA5428-TLAwxsbTM7h-fg1ZVaoOYXR-p6_g9VpqHRXtq7EcVjmHVhIJBF7vxFz9MCkKRVwSGsqnMuZtb'
+  lat: 40.117759
+  level: 7
+  lon: -88.285834
+  mus: 15
+  name:  'Illinois Earth Team Plaque'
 - fields: 1
   img:  'http://lh4.ggpht.com/JHX_SjLotbx-SvlPdUyqqVRu9l-KTQ6UmgkW6CA8_Dd-BOjXrziu5dAUaFeNFGUU_Ys9eW8urHjAlxr2aw'
   lat: 40.132314
@@ -995,7 +1009,7 @@
 - fields: 1
   img:  'http://lh3.ggpht.com/2wN9MWxEFPbMzRPAzNmaAiCOQJj_EFr94Y1YkQP_wMlyajkajmcw00gqW-EluMvpQmvnGgcQ-WdPxjcYTmr2'
   lat: 40.106519
-  level: 6
+  level: 4
   lon: -88.223748
   mus: 12
   name:  'Thunderbird Theatre Mosaic'
@@ -1366,17 +1380,10 @@
 - fields: 2
   img:  'http://lh4.ggpht.com/YSOz0a5ifhwbxTlrDnBNW-U35O1enndhsHgwgpJnFstBSqc8aMARC9BgIATLkd4Gd-lqDL_U6i3kdjCl7L3v'
   lat: 40.117969
-  level: 6
+  level: 7
   lon: -88.28581
   mus: 4
   name:  'USDA Prairie Plant Research Plots'
-- fields: 2
-  img:  'http://lh4.ggpht.com/XKVHQA5428-TLAwxsbTM7h-fg1ZVaoOYXR-p6_g9VpqHRXtq7EcVjmHVhIJBF7vxFz9MCkKRVwSGsqnMuZtb'
-  lat: 40.117759
-  level: 6
-  lon: -88.285834
-  mus: 4
-  name:  'Illinois Earth Team Plaque'
 - fields: 4
   img:  'http://lh6.ggpht.com/UMaVDs4JUJ1obZF_7bkt3YUS02KJCdBmvRnU0gXqrvHeFd-6jyR_VGDBUgiXtVFoAj95F7sZrvFJ1l9fe4S3sBUkt__qi77W2_jm8KR0IU_iwOYcIg'
   lat: 40.080791
@@ -1685,10 +1692,3 @@
   lon: -88.244122
   mus: 1
   name:  'Artistic Graffiti at MCS'
-- fields: 1
-  img:  'http://lh5.ggpht.com/fXiNwkXmSX8fZHrMNMMOKDwrDe3QmmqOh1_M_Ycr5y5MtYCkhec8mczY1v29LvWHTFwsN9dS5HYQnaX-NGjoAQ'
-  lat: 40.118435
-  level: 6
-  lon: -88.285772
-  mus: 1
-  name:  'Hidden Street Art '
