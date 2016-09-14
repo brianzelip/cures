@@ -10,7 +10,7 @@
   level: 5
   lon: -88.242642
   name:  'Stevick Building'
-- ap: 10781
+- ap: 10594
   img:  'http://lh4.ggpht.com/oknWvsn3j_8LLqgIevkEiU6a-r9RO-ylFPYVgOPQ6wBXGmnyvWFCGC4eG8qo7Z28JPMEoBE4DUFq2FPfFdXR9Q'
   lat: 40.112908
   level: 7
@@ -269,12 +269,6 @@
   lon: -88.251412
   name:  'Zeus Memorial'
 - ap: 5722
-  img:  'http://lh3.ggpht.com/tXDyz6XRrR2AKSg9Rrj1z6jBG4dz7uR9qFmSUO1bWljMEw67ncNiq-2Hx3O9Fs029iRtvCV1gdlGN7pG69L0'
-  lat: 40.114104
-  level: 7
-  lon: -88.237694
-  name:  'Lo Park Fountain'
-- ap: 5722
   img:  'http://lh5.ggpht.com/fGRHfMAqdWrUnPE8GStKSdMkgQmu9qvuxAC4VzcU1v2KyxQu2BeuJKhvhefSeFNTkgFh6YdR-F4P6plMbh0'
   lat: 40.110194
   level: 5
@@ -286,6 +280,12 @@
   level: 5
   lon: -88.241556
   name:  'Champaign Limestone Sidewalk'
+- ap: 5535
+  img:  'http://lh3.ggpht.com/tXDyz6XRrR2AKSg9Rrj1z6jBG4dz7uR9qFmSUO1bWljMEw67ncNiq-2Hx3O9Fs029iRtvCV1gdlGN7pG69L0'
+  lat: 40.114104
+  level: 7
+  lon: -88.237694
+  name:  'Lo Park Fountain'
 - ap: 5535
   img:  'http://lh4.ggpht.com/eoFw5gx9tcBj51FvuWLBsaFZ7TdxW0i1ez8HiVWtHsPE262Fcf5-fE7MAIzvgDr2tLCZzG79np6cdQDZzWou'
   lat: 40.112029
@@ -413,12 +413,6 @@
   lon: -88.235913
   name:  'Scott Park Pavilion'
 - ap: 4411
-  img:  'http://lh3.ggpht.com/1Z3mCRroEUysinW4hlDhAFNnfog3gwBM_aM8wYT6tQPiXMMmaRE9CrO5XM6QMe3UPHzMQSoxFmvWlkwOTRAv'
-  lat: 40.111111
-  level: 6
-  lon: -88.230176
-  name:  'U of I Mural'
-- ap: 4411
   img:  'http://lh3.googleusercontent.com/v44Gf5oEZGcwkQcA2wWz-uAeDFESHj7sEloxdCJd316RPH3w_ln8_9mBEMbAqGyI_2Y2qaYp525PnRip9Rg'
   lat: 40.105315
   level: 5
@@ -430,6 +424,12 @@
   level: 5
   lon: -88.225714
   name:  'Smith Memorial Hall'
+- ap: 4411
+  img:  'http://lh3.ggpht.com/1Z3mCRroEUysinW4hlDhAFNnfog3gwBM_aM8wYT6tQPiXMMmaRE9CrO5XM6QMe3UPHzMQSoxFmvWlkwOTRAv'
+  lat: 40.111111
+  level: 6
+  lon: -88.230176
+  name:  'U of I Mural'
 - ap: 4411
   img:  'http://lh5.ggpht.com/w9vRSV8NBR1gsi8ndeSUNJN2X-ftwCCQ7Jd3dcLVhPw6r1w0x1QE4hNgpCJBKimUeq-HToz_yq9S3rYkzC5bjw'
   lat: 40.114687
@@ -604,6 +604,12 @@
   level: 4
   lon: -88.214851
   name:  'Champaign County Fairgrounds'
+- ap: 2911
+  img:  'http://lh6.ggpht.com/NMgUdPOdhvhvKZh7ugwXgybshZBZ2mkaEWMNKYdFPX6cfIYENSCqE9YpAXSNVuq_9VVWXJB-ShCBAPfF2Yvs'
+  lat: 40.102513
+  level: 5
+  lon: -88.243679
+  name:  'Robert Hosier Memorial Garden'
 - ap: 2836
   img:  'http://lh3.googleusercontent.com/EvLov_3eYLGHotkWec9w3T1VCPQri5SR8JLZjbJUaxRsyGPLS4YQNXf90xlPoKjxGYlml9N8IDYKwpNvVIWlVA'
   lat: 40.114563
@@ -616,12 +622,6 @@
   level: 7
   lon: -88.224932
   name:  'National Center for Supercomputing Applications'
-- ap: 2724
-  img:  'http://lh6.ggpht.com/NMgUdPOdhvhvKZh7ugwXgybshZBZ2mkaEWMNKYdFPX6cfIYENSCqE9YpAXSNVuq_9VVWXJB-ShCBAPfF2Yvs'
-  lat: 40.102513
-  level: 5
-  lon: -88.243679
-  name:  'Robert Hosier Memorial Garden'
 - ap: 2724
   img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
   lat: 40.107751
@@ -790,3 +790,9 @@
   level: 4
   lon: -88.209395
   name:  'Boneyard Whales Sculpture'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
+  lat: 40.115838
+  level: 5
+  lon: -88.241338
+  name:  'Illinois Terminal'
