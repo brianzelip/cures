@@ -107,12 +107,6 @@
   lon: -88.224932
   name:  'National Center for Supercomputing Applications'
 - ap: 6472
-  img:  'http://lh5.ggpht.com/ucFkWovrZBr6wFMicSGD78p44tqzcyfJCvQuAocYo0do3ODoHsOeAMphZZferoOLkGfuJPQVlILRzKG1vAPg'
-  lat: 40.109172
-  level: 6
-  lon: -88.231151
-  name:  'Illini Life Christian Fellowship'
-- ap: 6472
   img:  'http://lh3.ggpht.com/whmQSPmix2tEoKcWwrVrV0H0JzNf1tzyuohI3ykSa-Qx4rUcLTf4686WcnJjygsMY2QPUWhvVVzlmMMHof94'
   lat: 40.105907
   level: 5
@@ -124,6 +118,12 @@
   level: 6
   lon: -88.231488
   name:  'Fighting Illini Memorial'
+- ap: 6472
+  img:  'http://lh5.ggpht.com/ucFkWovrZBr6wFMicSGD78p44tqzcyfJCvQuAocYo0do3ODoHsOeAMphZZferoOLkGfuJPQVlILRzKG1vAPg'
+  lat: 40.109172
+  level: 6
+  lon: -88.231151
+  name:  'Illini Life Christian Fellowship'
 - ap: 6285
   img:  'http://lh6.ggpht.com/rGhR45ZFbHtxmrZSSy9V19eFoyHIDB42c6MK188isPJFWpUsW9ywNHayKt3acNvKNC8DAV6mDkUloj3aiS4'
   lat: 40.118422
@@ -610,10 +610,10 @@
   level: 5
   lon: -88.244894
   name:  'Farren''s Pub and Eatery'
-- ap: 2724
+- ap: 2124
   img:  'http://lh6.ggpht.com/NMgUdPOdhvhvKZh7ugwXgybshZBZ2mkaEWMNKYdFPX6cfIYENSCqE9YpAXSNVuq_9VVWXJB-ShCBAPfF2Yvs'
   lat: 40.102513
-  level: 5
+  level: 1
   lon: -88.243679
   name:  'Robert Hosier Memorial Garden'
 - ap: 2724
@@ -754,7 +754,7 @@
   level: 5
   lon: -88.25211
   name:  'First Church of Christ, Scientist'
-- ap: 2537
+- ap: 2462
   img:  'http://lh3.googleusercontent.com/enpZZ8JRREFPTvYd3jbeUlpS-mmcwKe5fsvoWRPkfMUj6PijyI-5tbR55UItBoNJAFSl9fAAOvXb6BpWCJT4'
   lat: 40.102495
   level: 5
