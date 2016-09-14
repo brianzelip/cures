@@ -341,17 +341,17 @@
   lon: -88.244603
   name:  'Italian Statue'
 - ap: 4411
-  img:  'http://lh6.ggpht.com/xu-kOcmcs7cEhiGrfwfSF-Yt_Dna_MrRGDjw6oGSBLDdDm-SAFB8FI2G4yXWx_EOD1TRY5rTtvBxNxRkTQU'
-  lat: 40.118361
-  level: 5
-  lon: -88.244573
-  name:  'Art Theater'
-- ap: 4411
   img:  'http://lh3.ggpht.com/1G0o5RjtXyfAjbI-E2honhhelnuiq4lIkpHmB44e-AwSBuIxVOdLPVYjImbTMS8kyBdZuKuiMQHciUIdAWg'
   lat: 40.118368
   level: 6
   lon: -88.243737
   name:  'Frank Robeson Memorial'
+- ap: 4411
+  img:  'http://lh6.ggpht.com/xu-kOcmcs7cEhiGrfwfSF-Yt_Dna_MrRGDjw6oGSBLDdDm-SAFB8FI2G4yXWx_EOD1TRY5rTtvBxNxRkTQU'
+  lat: 40.118361
+  level: 5
+  lon: -88.244573
+  name:  'Art Theater'
 - ap: 4411
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
@@ -419,12 +419,6 @@
   lon: -88.244611
   name:  'Marketplace Mall Carousel'
 - ap: 3661
-  img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
-  lat: 40.117976
-  level: 5
-  lon: -88.245082
-  name:  'Robeson Building '
-- ap: 3661
   img:  'http://lh3.ggpht.com/NuEE1yevEulYAFm9UHYKLrX8fVNrXyLgFXbQ8kTjAKuT9w-Fkj18Pop2B2wikf21LHDU24uSUkIvXbfKyvy2'
   lat: 40.11738
   level: 4
@@ -436,6 +430,12 @@
   level: 6
   lon: -88.24346
   name:  'Entrance'
+- ap: 3661
+  img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
+  lat: 40.117976
+  level: 5
+  lon: -88.245082
+  name:  'Robeson Building '
 - ap: 3661
   img:  'http://lh3.ggpht.com/AflEYleLSbb1ODQvIdBOrTrq1Zkk-rgHU4WaHjaZ6Md2zDSaqq8cERAJWcwG1QFkrzGf6gp3oC-DZuLOCDb4'
   lat: 40.112779
@@ -611,18 +611,6 @@
   lon: -88.224932
   name:  'National Center for Supercomputing Applications'
 - ap: 2724
-  img:  'http://lh4.ggpht.com/PfcTU4XsA06ThtmCWydIWhTsN3gR4jrqnrKxu0O5lhyibhRdKMEaf3jM8VNhViF8qLf13b01E71wr_ajxn0'
-  lat: 40.118465
-  level: 4
-  lon: -88.245077
-  name:  'Mural at Nitaya'
-- ap: 2724
-  img:  'http://lh4.ggpht.com/BEyFLhgqk0ySf2zElnARv5eyaQggj_zbHSagW3_DGt9BieScmU4jGPvJCjezTjbiCP-DOJPLPfJ3HhnYAiQLEQ'
-  lat: 40.119288
-  level: 5
-  lon: -88.248086
-  name:  'The Hartford'
-- ap: 2724
   img:  'http://lh5.ggpht.com/AX1hc0zh7ZtN2MoSsNXTKwRtGJWb8EgeHffmjJfZvCLL7wvvjMZ8d0BwESKKrdNM--UUKA09PrLQ9qmTrMw'
   lat: 40.117186
   level: 5
@@ -635,6 +623,12 @@
   lon: -88.243679
   name:  'Robert Hosier Memorial Garden'
 - ap: 2724
+  img:  'http://lh4.ggpht.com/BEyFLhgqk0ySf2zElnARv5eyaQggj_zbHSagW3_DGt9BieScmU4jGPvJCjezTjbiCP-DOJPLPfJ3HhnYAiQLEQ'
+  lat: 40.119288
+  level: 5
+  lon: -88.248086
+  name:  'The Hartford'
+- ap: 2724
   img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
   lat: 40.107751
   level: 6
@@ -646,6 +640,12 @@
   level: 5
   lon: -88.242373
   name:  'Richard D James Mural'
+- ap: 2724
+  img:  'http://lh4.ggpht.com/PfcTU4XsA06ThtmCWydIWhTsN3gR4jrqnrKxu0O5lhyibhRdKMEaf3jM8VNhViF8qLf13b01E71wr_ajxn0'
+  lat: 40.118465
+  level: 4
+  lon: -88.245077
+  name:  'Mural at Nitaya'
 - ap: 2649
   img:  'http://lh3.googleusercontent.com/EvLov_3eYLGHotkWec9w3T1VCPQri5SR8JLZjbJUaxRsyGPLS4YQNXf90xlPoKjxGYlml9N8IDYKwpNvVIWlVA'
   lat: 40.114563
@@ -743,6 +743,12 @@
   lon: -88.287821
   name:  'Robeson Meadows Trail'
 - ap: 2537
+  img:  'http://lh5.ggpht.com/ftmAzbnKocZkda7k1ZC-3gMqr3UiOKXsS9qFSxN8V4C6_DEZr79lkSpPL00EmiZn50-ZPzTQZZlBLlOdL4Rd'
+  lat: 40.116219
+  level: 6
+  lon: -88.23253
+  name:  'Skyward Railway'
+- ap: 2537
   img:  'http://lh4.ggpht.com/4_MOw_NKr2wZ2lzAzG2FlLtA3tfOfWqBZpNVP43LfN6ilD6qHRfZ-_wA1Xk8BnCqHKqKdqodC70X09pqtNXXqmNtK-uqo-fC9SZyOjT6ERfJorzg'
   lat: 40.118388
   level: 4
@@ -761,18 +767,6 @@
   lon: -88.238922
   name:  'Prosperity Gardens'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/u_MtizNv_keIXM4ITgtjqC8nr5JvB8UpDBg_5_08uQDTsQr44mwr6ZlkhTp0iKbvcV9xCJqXDeN66xYWaI0'
-  lat: 40.116227
-  level: 6
-  lon: -88.233833
-  name:  'Haley-Walker-Ginza Building'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/ftmAzbnKocZkda7k1ZC-3gMqr3UiOKXsS9qFSxN8V4C6_DEZr79lkSpPL00EmiZn50-ZPzTQZZlBLlOdL4Rd'
-  lat: 40.116219
-  level: 6
-  lon: -88.23253
-  name:  'Skyward Railway'
-- ap: 2537
   img:  'http://lh5.ggpht.com/_9uqsDQROIwqIhKx_URY4DdZAapoZBEWK6Eaclt5mM5vPsjwQAD-v8Bv-4b-Smq2F8X4zOgzLx2KwySkFWc'
   lat: 40.118448
   level: 5
@@ -784,6 +778,12 @@
   level: 6
   lon: -88.250227
   name:  'Curtis F. Columbia Legacy Plaque'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/u_MtizNv_keIXM4ITgtjqC8nr5JvB8UpDBg_5_08uQDTsQr44mwr6ZlkhTp0iKbvcV9xCJqXDeN66xYWaI0'
+  lat: 40.116227
+  level: 6
+  lon: -88.233833
+  name:  'Haley-Walker-Ginza Building'
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/enpZZ8JRREFPTvYd3jbeUlpS-mmcwKe5fsvoWRPkfMUj6PijyI-5tbR55UItBoNJAFSl9fAAOvXb6BpWCJT4'
   lat: 40.102495
