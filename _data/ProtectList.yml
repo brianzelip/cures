@@ -61,13 +61,6 @@
   lon: -88.276763
   mus: 2496
   name:  'Mini Park IV'
-- fields: 7
-  img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
-  lat: 40.102188
-  level: 7
-  lon: -88.251507
-  mus: 2495
-  name:  'Little Free Library Charter 5753'
 - fields: 5
   img:  'http://lh3.ggpht.com/ZrkQ9I09rQynLgNHgTWMc8sm29XEvwj5QcSQhhgTtN7hDh1pSZHSTI63mz6wWj1jkhlz1qYkKyHD0SJWPNMY'
   lat: 40.094863
@@ -82,6 +75,13 @@
   lon: -88.190716
   mus: 2006
   name:  'Church of Christ'
+- fields: 5
+  img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
+  lat: 40.102188
+  level: 7
+  lon: -88.251507
+  mus: 1957
+  name:  'Little Free Library Charter 5753'
 - fields: 3
   img:  'http://lh6.ggpht.com/P5Q3TM1HY9mqPQbQNDUn_h5cdo4MVdphUfMLaEb25EJWIN2xAqYTkLQUtPy4sY-0hHFESUrH5Nn0KYogzjM'
   lat: 40.104921
@@ -152,13 +152,6 @@
   lon: -88.191486
   mus: 1159
   name:  'First Baptist Church'
-- fields: 4
-  img:  'http://lh5.ggpht.com/H3lz_PbTP4RFYuRMUyZuMouxslODKZQ3RjFiZrITFZcpj2FuEb1K2VVlveQtOyUHG2rYZ114AGuGqK4rATI5jg'
-  lat: 40.097868
-  level: 7
-  lon: -88.242344
-  mus: 1109
-  name:  'Campus Information Booth '
 - fields: 3
   img:  'http://lh4.ggpht.com/UsWzXzHhg7iWYqgGNNqj1XXLWp2Oj6pNxp7R0PwHI8tzNVuJwD2K0KgVwc0BR_9MEu4QalqL6x1cBnT_vz89'
   lat: 40.108739
@@ -237,6 +230,13 @@
   mus: 747
   name:  'Market View Fountain'
 - fields: 3
+  img:  'http://lh5.ggpht.com/H3lz_PbTP4RFYuRMUyZuMouxslODKZQ3RjFiZrITFZcpj2FuEb1K2VVlveQtOyUHG2rYZ114AGuGqK4rATI5jg'
+  lat: 40.097868
+  level: 7
+  lon: -88.242344
+  mus: 682
+  name:  'Campus Information Booth '
+- fields: 3
   img:  'http://lh4.ggpht.com/0pYkppjw5D-G0gCZ1pULK83NAqN9qsyzbBnG8K8YMyMekJwqUrZQDRpTqgqB3rrRD6zJezplE_wlFOTPLovb'
   lat: 40.127745
   level: 7
@@ -260,7 +260,7 @@
 - fields: 2
   img:  'http://lh3.ggpht.com/BTOxkIG5jV6VaSJtyt1Kge-WlIsvddZuz7YzzqkQhAMWxgfE71ab2wqWdKY20M9-6zbGlVq43XMJ2CrZDqU'
   lat: 40.127246
-  level: 6
+  level: 7
   lon: -88.276738
   mus: 627
   name:  'Kraft Giant Macaroni'
@@ -278,13 +278,6 @@
   lon: -88.268495
   mus: 539
   name:  'Eisner Park'
-- fields: 2
-  img:  'http://lh3.ggpht.com/qWqDj3Ws5ffRyIXG8XxFM41dBDTOBhjCkDgKebjiDFo-5Fyj_ssgLQ_wLM82uWwB2jVkNIYN4nc5U2E3wZoBNQ'
-  lat: 40.111037
-  level: 7
-  lon: -88.245813
-  mus: 538
-  name:  'Champaign Public Library'
 - fields: 4
   img:  'http://lh3.ggpht.com/dBiWv3vHrjSkLU93Ft0Pn_EBnwlnMxpzM8GhwZeM6MEGvqyqO8jGVz0VgmSgJEzhXa3gvPLnx1Gz0R4whIg'
   lat: 40.196017
@@ -355,12 +348,12 @@
   lon: -88.26383
   mus: 453
   name:  'Davidson Park'
-- fields: 1
+- fields: 2
   img:  'http://lh3.ggpht.com/ehNwLdaa71H3Bylm063pawn4caIGz2rCdmmdBhAFWIuEt2kPjT8nWHDkSuoOidckWiM82FWpDSNGQqQMHiQ'
   lat: 40.098209
   level: 5
   lon: -88.28689
-  mus: 447
+  mus: 449
   name:  'First Church of the Nazarene'
 - fields: 1
   img:  'http://lh3.googleusercontent.com/GDPeCcTdJQAFt7LgbquPo-YOAp7bq5HCFbElMBeXztI4hraTGO-j1GcNOwKaaSRRLcEHG13Gu-VDboEG4a7-'
@@ -369,13 +362,6 @@
   lon: -88.276148
   mus: 424
   name:  'Illinois Heartland Library System'
-- fields: 2
-  img:  'http://lh5.ggpht.com/H88EzgVTAsWrhBcyG4PwdAbPDu4BLlyXkVIBnJ6gtmNusC2MU2vLumSrYGbl_7GmGJ7f5kE-6ebyy_VokU0L'
-  lat: 40.107512
-  level: 5
-  lon: -88.244964
-  mus: 423
-  name:  'Fellowship Circle'
 - fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.152192
@@ -460,6 +446,13 @@
   lon: -88.242844
   mus: 313
   name:  'Lake Park Gardens'
+- fields: 1
+  img:  'http://lh5.ggpht.com/H88EzgVTAsWrhBcyG4PwdAbPDu4BLlyXkVIBnJ6gtmNusC2MU2vLumSrYGbl_7GmGJ7f5kE-6ebyy_VokU0L'
+  lat: 40.107512
+  level: 5
+  lon: -88.244964
+  mus: 312
+  name:  'Fellowship Circle'
 - fields: 4
   img:  'http://lh5.ggpht.com/Jg1eA81CCUqtWFPuF6ABhXh-j5YM5zqFcxpK8gZ83awvjW7MW8EPTyrIQzmgo4MuAmnXRcbR8wIDBW8kOixJHg'
   lat: 40.05899
@@ -995,7 +988,7 @@
 - fields: 4
   img:  'http://lh6.ggpht.com/t9_eydZD2uZIBwEmrNcPR2FWXjyVKK06CTbNoZQ682AuvHAsWKBewlbzTqH7yqOjuPMBBkqOGwETeqt6hoU'
   lat: 40.194618
-  level: 5
+  level: 2
   lon: -88.401509
   mus: 15
   name:  'Mahomet Area Community Center'
@@ -1342,6 +1335,20 @@
   lon: -88.221178
   mus: 3
   name:  'Allen Residence Hall Unit One'
+- fields: 2
+  img:  'http://lh5.ggpht.com/fXiNwkXmSX8fZHrMNMMOKDwrDe3QmmqOh1_M_Ycr5y5MtYCkhec8mczY1v29LvWHTFwsN9dS5HYQnaX-NGjoAQ'
+  lat: 40.118435
+  level: 6
+  lon: -88.285772
+  mus: 3
+  name:  'Hidden Street Art '
+- fields: 2
+  img:  'http://lh4.ggpht.com/XKVHQA5428-TLAwxsbTM7h-fg1ZVaoOYXR-p6_g9VpqHRXtq7EcVjmHVhIJBF7vxFz9MCkKRVwSGsqnMuZtb'
+  lat: 40.117759
+  level: 6
+  lon: -88.285834
+  mus: 3
+  name:  'Illinois Earth Team Plaque'
 - fields: 1
   img:  'http://lh3.googleusercontent.com/vi8qr0nlfydURrBvr8Ywbtktw2qbybC87ByS0o_-5__cuFqXxIqgAseqWLTcadAsOlzsXUsa7IJYAHmCzlc'
   lat: 40.079765
@@ -1546,23 +1553,9 @@
   mus: 1
   name:  'Web Browser Plaque'
 - fields: 1
-  img:  'http://lh5.ggpht.com/fXiNwkXmSX8fZHrMNMMOKDwrDe3QmmqOh1_M_Ycr5y5MtYCkhec8mczY1v29LvWHTFwsN9dS5HYQnaX-NGjoAQ'
-  lat: 40.118435
-  level: 5
-  lon: -88.285772
-  mus: 1
-  name:  'Hidden Street Art '
-- fields: 1
-  img:  'http://lh4.ggpht.com/XKVHQA5428-TLAwxsbTM7h-fg1ZVaoOYXR-p6_g9VpqHRXtq7EcVjmHVhIJBF7vxFz9MCkKRVwSGsqnMuZtb'
-  lat: 40.117759
-  level: 5
-  lon: -88.285834
-  mus: 1
-  name:  'Illinois Earth Team Plaque'
-- fields: 1
   img:  'http://lh4.ggpht.com/YSOz0a5ifhwbxTlrDnBNW-U35O1enndhsHgwgpJnFstBSqc8aMARC9BgIATLkd4Gd-lqDL_U6i3kdjCl7L3v'
   lat: 40.117969
-  level: 4
+  level: 6
   lon: -88.28581
   mus: 1
   name:  'USDA Prairie Plant Research Plots'
