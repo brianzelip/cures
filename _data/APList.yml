@@ -25,7 +25,7 @@
 - ap: 9657
   img:  'http://lh3.ggpht.com/gS3gT_deXzbDvejCL-5ygs31dw9bLQqYr2nDcLPZiv6nQzahJl12awG1a2pwKbFuoTlsHQYxQ2O7HDXL4-8'
   lat: 40.110358
-  level: 5
+  level: 6
   lon: -88.230181
   name:  'Murphy''s Pub '
 - ap: 9470
@@ -317,17 +317,17 @@
   lon: -88.235143
   name:  'US Post Office, E Green St, Champaign'
 - ap: 4598
-  img:  'http://lh5.ggpht.com/ucFkWovrZBr6wFMicSGD78p44tqzcyfJCvQuAocYo0do3ODoHsOeAMphZZferoOLkGfuJPQVlILRzKG1vAPg'
-  lat: 40.109172
-  level: 6
-  lon: -88.231151
-  name:  'Illini Life Christian Fellowship'
-- ap: 4598
   img:  'http://lh3.googleusercontent.com/OuV-xkKMYekdQdkQ7ADOaDN6edPO8xYZvaEbWyHP6JyqwkHzp9R8_ahyUbfwy94AY0LtAPJet4eGG9iAsKY4'
   lat: 40.108965
   level: 4
   lon: -88.226465
   name:  'Harker Hall Fountain'
+- ap: 4598
+  img:  'http://lh5.ggpht.com/ucFkWovrZBr6wFMicSGD78p44tqzcyfJCvQuAocYo0do3ODoHsOeAMphZZferoOLkGfuJPQVlILRzKG1vAPg'
+  lat: 40.109172
+  level: 6
+  lon: -88.231151
+  name:  'Illini Life Christian Fellowship'
 - ap: 4598
   img:  'http://lh3.ggpht.com/2WMtYMnBjTlw-gPK9quwjMde6Heie7SQHCZT41kPiIpOwxXEIQWbB_euK-R5rZhqUcmGuZJ0tIBh_801KGyVsw'
   lat: 40.11453
@@ -468,6 +468,12 @@
   name:  'b478d0bbcead4c41ae485c4cef07807b.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.896156
+  level: '?'
+  lon: -87.610071
+  name:  'ac0239c3ac404385984dd819cebf734a.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.894687
   level: '?'
   lon: -87.609994
@@ -496,12 +502,6 @@
   level: '?'
   lon: -89.460081
   name:  '6c12dc3974dc45158c01b41e37791b4b.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.896156
-  level: '?'
-  lon: -87.610071
-  name:  'ac0239c3ac404385984dd819cebf734a.16'
 - ap: 3474
   img:  'http://lh5.ggpht.com/tuo_ByFTbwLitFP5cBseOibqRxENxbCwOJ30dCnja5ijBI_qBv5vqNP7ZuZXnxhYM6ms_GbExZEwwKVUtwV2'
   lat: 40.093712
@@ -580,6 +580,12 @@
   level: 4
   lon: -88.214851
   name:  'Champaign County Fairgrounds'
+- ap: 3098
+  img:  'http://lh3.googleusercontent.com/EwXPPCiuVPRkECPKlJtyqReSySoJKEdwrx1MkNVUy6EM9xWU_fet1Z-sLfx_P2_c54DeJcApxdl-hKg9vGVEtw'
+  lat: 40.108224
+  level: 5
+  lon: -88.223549
+  name:  'Colwell Playhouse'
 - ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.89196
@@ -598,12 +604,6 @@
   level: 4
   lon: -88.228634
   name:  'Public Broadcasting Plaque'
-- ap: 2724
-  img:  'http://lh3.googleusercontent.com/EwXPPCiuVPRkECPKlJtyqReSySoJKEdwrx1MkNVUy6EM9xWU_fet1Z-sLfx_P2_c54DeJcApxdl-hKg9vGVEtw'
-  lat: 40.108224
-  level: 5
-  lon: -88.223549
-  name:  'Colwell Playhouse'
 - ap: 2724
   img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
   lat: 40.106921
@@ -688,6 +688,18 @@
   level: 4
   lon: -88.239009
   name:  'Honesty Best Policy  - Vernon A. Roland Building'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/oSQ_YOHo2mfYjOa8bPK9ellznKK29UluW-SeXoGYra9VFg8dJp6YQRdHbHHaTExqXs1qUMBNmpI2hUPcC4GI'
+  lat: 40.106789
+  level: 4
+  lon: -88.222992
+  name:  'Beginnings of Computer Music Plaque'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/q2L_InMJy4JZq79dX9LLf9XauoaXGOLl7SWvVyD9F_jIgyqpn7SsqHfY9EMYq1SLteTpj0cQDZN4f9x0IuvV5w'
+  lat: 40.107273
+  level: 5
+  lon: -88.222942
+  name:  'Tryon Festival Theater'
 - ap: 2537
   img:  'http://lh5.ggpht.com/NocB62Pnsk9rCOS8TWT0vfucrEDjwhiqaxl6SHRJjjHpHjSlG4IuSzbQb1B-SqYZVjQXekDUD0IZwmpMDycw'
   lat: 40.11108
