@@ -143,12 +143,6 @@
   lon: -88.238392
   name:  'Mexico Mural'
 - ap: 5909
-  img:  'http://lh4.ggpht.com/Tpl5ga1h9vBjG88A6xRDnvBxx7F1epdVZYUY-FNnoOS6H_0OkWXC-RqCtNsk5WSZcOBwMvdY56QCHo0hvoE'
-  lat: 40.102744
-  level: 4
-  lon: -88.277916
-  name:  'Church of God in Christ'
-- ap: 5909
   img:  'http://lh4.ggpht.com/1n-hHkU1cTz6dykw37WBVQqctZlzyl9gYgy7IMi1zcMf1t0ry6F1JPnwlvUjq_6YNdolofY_rLbuL_uLQwg'
   lat: 40.112913
   level: 7
@@ -196,18 +190,18 @@
   level: 4
   lon: -88.229005
   name:  'The Chapel of St. John the Divine'
-- ap: 4972
-  img:  'http://lh4.ggpht.com/BB4y2ChVuPpmuGW8VPeiAPKr-vWwYdihWvrH0i_WALxPd8wX3j2no0JFEMNK8ndCvXwQzLLabPyRoAfsz5g'
-  lat: 40.101584
-  level: 4
-  lon: -88.270546
-  name:  'Mayfair Park '
 - ap: 4785
   img:  'http://lh6.ggpht.com/lcnaor8q6SYRZYMm-tUZtz1sXP81Bdwoa9Pf8LC0Vfggxa8JP98UTcgToQqXfmu99JegLd6L3Pb3aG6XjSQH'
   lat: 40.106714
   level: 5
   lon: -88.267574
   name:  'St. Peter''s United Church of Christ '
+- ap: 4785
+  img:  'http://lh4.ggpht.com/Tpl5ga1h9vBjG88A6xRDnvBxx7F1epdVZYUY-FNnoOS6H_0OkWXC-RqCtNsk5WSZcOBwMvdY56QCHo0hvoE'
+  lat: 40.102744
+  level: 4
+  lon: -88.277916
+  name:  'Church of God in Christ'
 - ap: 4785
   img:  'http://lh4.ggpht.com/YkAjLbUQwdId1pIn7-0sv7p3fU5sUakSrInODEYBL40IL2O6a6iP0KdmXupzcZMPqJ3arf7sss9irQ7NDzzF'
   lat: 40.110882
@@ -293,11 +287,11 @@
   lon: -88.23549
   name:  'Red Lion'
 - ap: 3848
-  img:  'http://lh5.ggpht.com/dnj__uItXDR_xj-g5PNpGYPNjJCPBFpsx3w9sWxvrOlayO6nyG_Qu8MygtuFZm9i4L2Gho0fkOACtzkGR_e2wQ'
-  lat: 40.098457
-  level: 6
-  lon: -88.276763
-  name:  'Mini Park IV'
+  img:  'http://lh4.ggpht.com/BB4y2ChVuPpmuGW8VPeiAPKr-vWwYdihWvrH0i_WALxPd8wX3j2no0JFEMNK8ndCvXwQzLLabPyRoAfsz5g'
+  lat: 40.101584
+  level: 4
+  lon: -88.270546
+  name:  'Mayfair Park '
 - ap: 3848
   img:  'http://lh3.ggpht.com/x5fBw8MRogV8dm3kPO5zKNkUrQxn0dM7d1PIoASdX1_Rc8H5Duex4iZdOoIlqazCGll25TmptsWIRq1JFmj6'
   lat: 40.112135
@@ -498,18 +492,6 @@
   name:  'Francis and Hermenia Kruidenier Memorial'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.894687
-  level: '?'
-  lon: -87.609994
-  name:  '71d41d0e027641a9a8ce927698097c51.12'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.116085
-  level: '?'
-  lon: -86.493446
-  name:  'e22b2e266ed6451190cc8295d5438c83.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.894743
   level: '?'
   lon: -87.615747
@@ -540,10 +522,34 @@
   name:  'c0c561eb8ffb4ac380cc6b9b8cdafde8.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.894687
+  level: '?'
+  lon: -87.609994
+  name:  '71d41d0e027641a9a8ce927698097c51.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.116085
+  level: '?'
+  lon: -86.493446
+  name:  'e22b2e266ed6451190cc8295d5438c83.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.896156
   level: '?'
   lon: -87.610071
   name:  'ac0239c3ac404385984dd819cebf734a.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.964362
+  level: '?'
+  lon: -88.348907
+  name:  '9e87bde25e4742e6a2802b1d7b1617a0.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.988867
+  level: '?'
+  lon: -88.260234
+  name:  'e8936d5f39164dab96a8dff5d68bef57.16'
 - ap: 2537
   img:  'http://lh4.ggpht.com/WFdg25t10cXowG73MPo4WTi8YOc3wTSJiEWKTssgs9mb0Aii3d7iKSHqsebFkdjHfZ8Ej40yDSC7PVdVytHL'
   lat: 40.109177
