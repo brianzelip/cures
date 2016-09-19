@@ -1,10 +1,10 @@
-- fields: 3
-  img:  'http://lh5.ggpht.com/JWnYHkJG0nab4r1ficE77w9SnzFDf6DTZ-6WlD1TC1LZp1KDiEjRqUlET-pWAycwMENIelAYkMxQJCx4Niil'
-  lat: 40.098104
+- fields: 2
+  img:  'http://lh6.ggpht.com/bFwJFYYW2YoT3hMGr1ejzv_Vuifm5-ZJzMPcWnpZkQQ9dQSdupKPZDVNHvroawUBMuTAHOJBxvmai305qSe31Q'
+  lat: 40.097523
   level: 6
-  lon: -88.292802
-  mus: 410
-  name:  'Stratford Park Bible Chapel'
+  lon: -88.281912
+  mus: 149
+  name:  'Westminster Presbyterian Church'
 - fields: 5
   img:  'http://lh6.ggpht.com/0IsQORyEW-bPA7sEbGspygtoI7ixEshm_2fUw5oeh9AeXg6JN5w0ypYIshpuKm-C0nG4Vm2XmpLvtWTZzWzd'
   lat: 40.111607
@@ -33,13 +33,6 @@
   lon: -88.203511
   mus: 40
   name:  'Denise and Ernest Walker Grove'
-- fields: 10
-  img:  'http://lh5.ggpht.com/dEeT4acpLu-WQFlZWd3psap5qAqqPTSVzm8Qt1QtpqtwZ0j1V9eKFcmpgN9K_x1PL4XVchuevw25rxHekz3tvQ'
-  lat: 40.111968
-  level: 6
-  lon: -88.226793
-  mus: 37
-  name:  'Bardeen Quad Structure'
 - fields: 6
   img:  'http://lh5.ggpht.com/dgQfoxxVeHT5ODqLiUYHV45qvkC_BMS0kIFRqvHvE2GO0TduZ0-XzhW8RE80LtPDK0Ay5xwA6PtjM7G3C9U8'
   lat: 40.108947
@@ -47,6 +40,13 @@
   lon: -88.232251
   mus: 33
   name:  'McKinley Church'
+- fields: 8
+  img:  'http://lh5.ggpht.com/dEeT4acpLu-WQFlZWd3psap5qAqqPTSVzm8Qt1QtpqtwZ0j1V9eKFcmpgN9K_x1PL4XVchuevw25rxHekz3tvQ'
+  lat: 40.111968
+  level: 6
+  lon: -88.226793
+  mus: 30
+  name:  'Bardeen Quad Structure'
 - fields: 4
   img:  'http://lh3.googleusercontent.com/4ZghmANMiPJhVcpWuH3M3D6jgFGSDn0QH-VAP5olDzQjucfxwHFo8-1DsCSQhVV-YaTWMvC1pVwqWdnjVs8'
   lat: 40.117215
@@ -61,6 +61,13 @@
   lon: -88.250855
   mus: 19
   name:  'Donald F. Bresnan Memorial'
+- fields: 4
+  img:  'http://lh5.ggpht.com/6qIQAtIoPbAVQ1O3BoOnGg6gtTa9fd0JIkxt6P1kmSimVswLaPpCRaLEudsNcMfP_kKb4SCE1By1o3lhYevmIA'
+  lat: 40.1172
+  level: 7
+  lon: -88.243745
+  mus: 16
+  name:  'Circle of Friends'
 - fields: 7
   img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
   lat: 40.100078
@@ -75,13 +82,6 @@
   lon: -88.231488
   mus: 4
   name:  'Fighting Illini Memorial'
-- fields: 3
-  img:  'http://lh3.ggpht.com/oAhplQsltGmJyd6-FfScd0PFPwkg1lJn96dHQNw4VxgOy__gt2IaqcXddSDJHyFfu2JMrCFWTHHXbHhHnTU'
-  lat: 40.119636
-  level: 5
-  lon: -88.243213
-  mus: 4
-  name:  'Sunder Planet'
 - fields: 1
   img:  'http://lh3.googleusercontent.com/hJZWoErzM-MuXulq4FlhlZwMbJX1Isd81GBUBVKayd57jVIVxUle3itd-1DRKo2VaNXznWr1X639fa44Etk'
   lat: 40.141919
@@ -110,13 +110,6 @@
   lon: -88.251826
   mus: 1
   name:  'Irina P. Stewart Memorial Plaque'
-- fields: 3
-  img:  'http://lh5.ggpht.com/LPlCgoOAlClRaVCl_B1sHDkn38OgDbXat-l5Q1bDZLP7mOUMfU8pK-o3N8BEqh0vHJcZBHo3iz2AMQKAhot7Tw'
-  lat: 40.110833
-  level: 6
-  lon: -88.227425
-  mus: 1
-  name:  'Engineering Class of 1975 Monument'
 - fields: 1
   img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
   lat: 40.100822
@@ -132,12 +125,12 @@
   mus: 1
   name:  'The Little Brick Memorial'
 - fields: 1
-  img:  'http://lh5.ggpht.com/VYMooLhz51W3fCgti3L9LEQNMJjmFeW30saxIYK34yGEReG1naEKEd3eW1uyFgSlzpu-P5KertNDe4Z6qu8'
-  lat: 40.109913
-  level: 6
-  lon: -88.228393
+  img:  'http://lh5.ggpht.com/qXsP4-THlaQ8DmIiopsvR0dY2hqwPjIHoy1A1b_CUmqmADgED0FAkXDjkBzS-PY4jNfThICrCaXGja5OH8bWF4ghh7lBwJz0FzKz_zOvaiwHohU_'
+  lat: 40.11945
+  level: 5
+  lon: -88.243175
   mus: 1
-  name:  'Alma Mater Statue'
+  name:  '"Stride", Downtown Champaign'
 - fields: 1
   img:  'http://lh4.ggpht.com/B_I1b0Jy3vW41RX8jjCNPP68AULplU0Pf8ddolyKmpEWCfBVShQkmjF1HfTPzDjmBBQGgOs0jHW-rUR0mv8BkA'
   lat: 40.098789
