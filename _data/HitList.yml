@@ -1,16 +1,9 @@
-- fields: 1
-  img:  'http://lh3.ggpht.com/7sJlWdBFFcLCXWnnfB6SVTzCCDM0Q7KyV5jALfrWG3ICtkw7HXrjzaRrnzSiv19wIswpZoTxKYudzYiZnT9Shg'
-  lat: 40.112536
-  level: 6
-  lon: -88.256779
-  mus: 391
-  name:  'Framer''s Market'
-- fields: 6
+- fields: 4
   img:  'http://lh3.googleusercontent.com/hJZWoErzM-MuXulq4FlhlZwMbJX1Isd81GBUBVKayd57jVIVxUle3itd-1DRKo2VaNXznWr1X639fa44Etk'
   lat: 40.141919
   level: 6
   lon: -88.244611
-  mus: 318
+  mus: 256
   name:  'Marketplace Mall Carousel'
 - fields: 2
   img:  'http://lh4.ggpht.com/efOG849cf8EKwVLL2BfNKzwBdkrAuNsMeYOZfeR8FYnK3axQJJON0VH191MLBwjJaQ1EeQC9Pt8LMtNI2LEa'
@@ -19,13 +12,6 @@
   lon: -88.203511
   mus: 40
   name:  'Denise and Ernest Walker Grove'
-- fields: 6
-  img:  'http://lh4.ggpht.com/qj7RZgjywjmhALnf1YyB5hWBrpO3hxjXZJdOzfE7YYV0p_vq9KA8GrgL9SfBHf_Ry3MVzMy1iJ6pAOkYL_lT'
-  lat: 40.119118
-  level: 6
-  lon: -88.24584
-  mus: 36
-  name:  'Amvets Post 3'
 - fields: 3
   img:  'http://lh3.ggpht.com/EKf-sm5ZCYuiTXX4AKzlEv7GIrHKV_TLuLEfvyjAME2h47rQIOU4VRKY6CQb6qe8ZIQ_8ablR4-1JPH1JFhq0A'
   lat: 40.116423
@@ -55,6 +41,13 @@
   mus: 17
   name:  'Theory of Superconductivity Plaque'
 - fields: 7
+  img:  'http://lh6.ggpht.com/NXptd9bdifQT6cVxz-SPGUsryPaznp8rV3omDk0J50MnN5Mmu6oiYNa0FXIgG8FnFreUVsSPzRvQNZXYcO6G'
+  lat: 40.11817
+  level: 7
+  lon: -88.249381
+  mus: 16
+  name:  'Bicentennial Tree'
+- fields: 7
   img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
   lat: 40.100078
   level: 7
@@ -68,13 +61,20 @@
   lon: -88.242871
   mus: 12
   name:  'Orpheum Children''s Science Museum'
-- fields: 5
-  img:  'http://lh6.ggpht.com/nbUJivBo0zF8f8aBbk1GwakUpPbLUVOoEovTTETYwJvfNIHXwG9XUbwoV0x-ly4ZO5Hsyv5KPo3c9cE6Nh8'
-  lat: 40.118832
-  level: 5
-  lon: -88.243643
-  mus: 9
-  name:  'Tesla Ball'
+- fields: 2
+  img:  'http://lh4.ggpht.com/d3UqrcK5M1wuOe19dIaBUOkrXF4C9IxhOWfxqzM4zIHkGsUIRb1mckNapOMRkkCtVIe0rzJumb1OVDVc1_Y'
+  lat: 40.108055
+  level: 6
+  lon: -88.233688
+  mus: 10
+  name:  'University Baptist Church'
+- fields: 6
+  img:  'http://lh5.ggpht.com/arF148UpHKIzlt5NezBSpFkItJk3gWq__xkPolNCeVTwHNpQNm1rzIwSdA2oAJBPtaLhpTHcVdAFFdHAXm8k'
+  lat: 40.118383
+  level: 6
+  lon: -88.247003
+  mus: 10
+  name:  'T E Berger Memorial Plaque'
 - fields: 2
   img:  'http://lh3.ggpht.com/I8Cra-oBAq7td_84j0G8l8DIMXhxPP-O8A8xPb1WZb8O2s9DBapV_osKefRuzzDGDhcPRA9WT7yaPBvkGE4g'
   lat: 40.112836
@@ -82,27 +82,6 @@
   lon: -88.22802
   mus: 8
   name:  '1909 Senior Memorial'
-- fields: 5
-  img:  'http://lh3.ggpht.com/rm0mJKw5ksUEH6_YQLi-f3uo56Wv-4h1P-Q_Ws61holRtnLG9Qt0NObbSBzDxPm3tvIhWgzHLvftIMBC_5dZ'
-  lat: 40.118435
-  level: 6
-  lon: -88.247677
-  mus: 7
-  name:  'Burnham Athenaeum'
-- fields: 5
-  img:  'http://lh6.ggpht.com/5m_DdlbswQXPJueGjlDknXPY3RqwtwdrWAsNLBfbSNENcdAw3oafNYp_YTPk5KmZZpY5M4zwdxKoE9Tq5kDv'
-  lat: 40.118985
-  level: 6
-  lon: -88.245285
-  mus: 7
-  name:  'The Little Brick Memorial'
-- fields: 3
-  img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
-  lat: 40.117976
-  level: 6
-  lon: -88.245082
-  mus: 6
-  name:  'Robeson Building '
 - fields: 2
   img:  'http://lh3.ggpht.com/LR76HrJqriPFUoc2XSs7jb2SotnStZv20kI7rgUx8B5HqhmetnTW4MA1tCp1ws4g5gw0sf9g7M3Lwq4VwfpD'
   lat: 40.111687
@@ -111,12 +90,19 @@
   mus: 5
   name:  'Transportation Building - University Of Illinois'
 - fields: 2
-  img:  'http://lh5.ggpht.com/arF148UpHKIzlt5NezBSpFkItJk3gWq__xkPolNCeVTwHNpQNm1rzIwSdA2oAJBPtaLhpTHcVdAFFdHAXm8k'
-  lat: 40.118383
-  level: 6
-  lon: -88.247003
+  img:  'http://lh3.ggpht.com/0IkSOblVdAgYOJ2Bk2QqvqWjdstWNQgp7g9oSz1Sq70jG6cLusjwYW76irF9h-c7cafatMcyGsjw85xwYgPQyw'
+  lat: 40.118353
+  level: 7
+  lon: -88.246658
+  mus: 5
+  name:  'First United Methodist Church'
+- fields: 3
+  img:  'http://lh6.ggpht.com/xQx5BUJcAI_QUroJGe77pPkgV7s_ACVui8PXvCyvmehuDvenmRIvKBGeevOacNR6W3pLMMSh4sVrvXm87QeN2eylsZEtz7pxB-CMvzLmH1WyVZ16uw'
+  lat: 40.11786
+  level: 7
+  lon: -88.248031
   mus: 3
-  name:  'T E Berger Memorial Plaque'
+  name:  'Lincoln Megalith'
 - fields: 5
   img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
   lat: 40.098246
@@ -159,27 +145,20 @@
   lon: -88.251826
   mus: 1
   name:  'Irina P. Stewart Memorial Plaque'
-- fields: 2
-  img:  'http://lh6.ggpht.com/xu-kOcmcs7cEhiGrfwfSF-Yt_Dna_MrRGDjw6oGSBLDdDm-SAFB8FI2G4yXWx_EOD1TRY5rTtvBxNxRkTQU'
-  lat: 40.118361
-  level: 6
-  lon: -88.244573
-  mus: 1
-  name:  'Art Theater'
-- fields: 2
-  img:  'http://lh5.ggpht.com/c-upLAoA6V12_Enn5doC2Hqtp3W9dLMIb34VHt0aVni2lW2OF5Lddn2c-1XcxmmaN7um9eyxqOF5c3c0hs4'
-  lat: 40.118139
-  level: 6
-  lon: -88.248407
-  mus: 1
-  name:  'The Americans Creed'
-- fields: 2
-  img:  'http://lh4.ggpht.com/Ow-wdEqY3uMRz8f_iGkOY7s4f79TTfxQK15aQu3wgtzRssq6mUqmxZcJDjfC4fO2y4Qt69U2jdahRt-Ald53'
-  lat: 40.118119
+- fields: 1
+  img:  'http://lh6.ggpht.com/ka79B_ahK9kHLiOCOnKsp3SooZlPGgMuIOO25OaqPU7eoUALOBzaa40ZCStdo4v6rCYW0VS_pNgW3PJyUDKxpXI-n55zohIxJwRJEq5gslJKwS5ykQ'
+  lat: 40.11794
   level: 7
-  lon: -88.24714
+  lon: -88.248679
   mus: 1
-  name:  'Police and Firefighters Memorial'
+  name:  'Fonderia'
+- fields: 1
+  img:  'http://lh6.ggpht.com/EiNXerTyRNFVC9pti48SExCtqR9p6t3-Xne_jw2YB90-VjUeJ3KGX8Se436SNVkFb5wOw0N7CKCz9brOeVg6WQ'
+  lat: 40.117802
+  level: 6
+  lon: -88.249547
+  mus: 1
+  name:  'Warren and Mary Filer Memorial'
 - fields: 1
   img:  'http://lh4.ggpht.com/B_I1b0Jy3vW41RX8jjCNPP68AULplU0Pf8ddolyKmpEWCfBVShQkmjF1HfTPzDjmBBQGgOs0jHW-rUR0mv8BkA'
   lat: 40.098789
