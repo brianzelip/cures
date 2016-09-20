@@ -269,12 +269,6 @@
   lon: -88.244573
   name:  'Art Theater'
 - ap: 5348
-  img:  'http://lh6.ggpht.com/xQx5BUJcAI_QUroJGe77pPkgV7s_ACVui8PXvCyvmehuDvenmRIvKBGeevOacNR6W3pLMMSh4sVrvXm87QeN2eylsZEtz7pxB-CMvzLmH1WyVZ16uw'
-  lat: 40.11786
-  level: 7
-  lon: -88.248031
-  name:  'Lincoln Megalith'
-- ap: 5348
   img:  'http://lh3.ggpht.com/K-b9T4FjMxrtkS2Awkze3fELfwY2Va92gMQloHtHf4bfeKPPRzOUJxaSYYi6-OHHQbpDVY3ONWwPgIa78fBX'
   lat: 40.118332
   level: 7
@@ -286,6 +280,12 @@
   level: 6
   lon: -88.249845
   name:  'Thomas R. Sandrock'
+- ap: 5348
+  img:  'http://lh6.ggpht.com/xQx5BUJcAI_QUroJGe77pPkgV7s_ACVui8PXvCyvmehuDvenmRIvKBGeevOacNR6W3pLMMSh4sVrvXm87QeN2eylsZEtz7pxB-CMvzLmH1WyVZ16uw'
+  lat: 40.11786
+  level: 7
+  lon: -88.248031
+  name:  'Lincoln Megalith'
 - ap: 5348
   img:  'http://lh5.ggpht.com/LqyQMijwA_lYTV2EqLa9HoWNGh9YIVl8tE-65352cSjsJQ_XZYhixnzzoYuqTR31UzW060oLhJl0avgLPRpyZw'
   lat: 40.111
@@ -448,12 +448,6 @@
   level: 4
   lon: -88.22858
   name:  'Class of 1897 Tree'
-- ap: 3846
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.450455
-  level: '?'
-  lon: -87.801488
-  name:  'f4c8845a891749f4902f6b1ac4a7224d.16'
 - ap: 3661
   img:  'http://lh3.ggpht.com/ehNwLdaa71H3Bylm063pawn4caIGz2rCdmmdBhAFWIuEt2kPjT8nWHDkSuoOidckWiM82FWpDSNGQqQMHiQ'
   lat: 40.098209
@@ -575,23 +569,17 @@
   lon: -88.184083
   name:  'Lohmann Park Disc Golf Course'
 - ap: 2724
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.347254
-  level: '?'
-  lon: -88.762091
-  name:  'ef6a27b9721a476a9006c096765f1fad.16'
-- ap: 2724
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.890714
-  level: '?'
-  lon: -87.610524
-  name:  '78cd733e94584d94ac0e1cd4d0a20cc4.16'
-- ap: 2724
   img:  'http://lh6.ggpht.com/nSen6pmNOWw2QFmzlf67_mVA2uPP3zLgamxJ9aa-xPKG8QSq77ECt0GKvNGs7q0WbZA-oQGcbqRsU57Ns5Lj'
   lat: 40.068397
   level: 6
   lon: -88.315419
   name:  'First Christian Church'
+- ap: 2724
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.347254
+  level: '?'
+  lon: -88.762091
+  name:  'ef6a27b9721a476a9006c096765f1fad.16'
 - ap: 2724
   img:  'http://lh6.ggpht.com/p2F3xw4xL4UdiMM9aSy628ISSglrvjPexpF3j340tMAP9MX07yh_sJv7kHVkeud8lyFf2ZwDohw3zsRS2PSd'
   lat: 40.093914
@@ -642,52 +630,16 @@
   name:  'Saint Andrew''s Church'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.891383
+  lat: 39.966802
   level: '?'
-  lon: -87.610138
-  name:  '8490a15bbc6d40e68d80c7d9626f193c.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.89196
-  level: '?'
-  lon: -87.609818
-  name:  '9751404135d14a20835126ddf4d017dc.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.896156
-  level: '?'
-  lon: -87.610071
-  name:  'ac0239c3ac404385984dd819cebf734a.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.895544
-  level: '?'
-  lon: -87.609918
-  name:  '69b5b12452284cfe80ee2aa3f5052d16.16'
+  lon: -88.34467
+  name:  '4559bb0f45f9470b8b155f0f3b6c9056.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.279711
   level: '?'
   lon: -88.346869
   name:  'Sangamon River Forest Preserve'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.452691
-  level: '?'
-  lon: -87.803507
-  name:  '41caea3f2f40410782551fa3ac12c2de.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.892269
-  level: '?'
-  lon: -87.609873
-  name:  '93a1b13c02d04db99ebaf46f118bef83.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.891065
-  level: '?'
-  lon: -87.61055
-  name:  '5f5a1a66edbd45a5bcdb4032a5f5d782.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.333068
@@ -702,10 +654,16 @@
   name:  '60e216159b344aba8fa25ec35d98f2ea.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.966802
+  lat: 42.452691
   level: '?'
-  lon: -88.34467
-  name:  '4559bb0f45f9470b8b155f0f3b6c9056.12'
+  lon: -87.803507
+  name:  '41caea3f2f40410782551fa3ac12c2de.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.890714
+  level: '?'
+  lon: -87.610524
+  name:  '78cd733e94584d94ac0e1cd4d0a20cc4.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 39.862554
@@ -718,12 +676,6 @@
   level: '?'
   lon: -88.266876
   name:  'c0c561eb8ffb4ac380cc6b9b8cdafde8.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.894687
-  level: '?'
-  lon: -87.609994
-  name:  '71d41d0e027641a9a8ce927698097c51.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 39.091886
@@ -785,12 +737,6 @@
   lon: -88.218544
   name:  'The Vineyard Church'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/EKf-sm5ZCYuiTXX4AKzlEv7GIrHKV_TLuLEfvyjAME2h47rQIOU4VRKY6CQb6qe8ZIQ_8ablR4-1JPH1JFhq0A'
-  lat: 40.116423
-  level: 6
-  lon: -88.238623
-  name:  'Champaign County Historical Museum'
-- ap: 2537
   img:  'http://lh3.ggpht.com/dppCxACE584BxMWsiWI2dJ_vqVSc375R5HfFEfEK7wmHiZoYLJlgGnAJp1uoqcFINbw2kfiDbeMWJs1MMVfI'
   lat: 40.08594
   level: 2
@@ -802,6 +748,12 @@
   level: 6
   lon: -88.248618
   name:  'Lieut. E.G. Stillwell Memorial Tree'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/EKf-sm5ZCYuiTXX4AKzlEv7GIrHKV_TLuLEfvyjAME2h47rQIOU4VRKY6CQb6qe8ZIQ_8ablR4-1JPH1JFhq0A'
+  lat: 40.116423
+  level: 6
+  lon: -88.238623
+  name:  'Champaign County Historical Museum'
 - ap: 2537
   img:  'http://lh5.ggpht.com/0m1i3CJSj3bKhLj5BgXi8SFpgoihNsBoN6fpccgDU2tjtPcA5BqB1IxvR0yAX9FWkgt3_Q8gbAyGfdJDliGP'
   lat: 40.115142
