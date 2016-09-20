@@ -5,23 +5,11 @@
   lon: -88.250855
   name:  'Donald F. Bresnan Memorial'
 - ap: 10220
-  img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
-  lat: 40.116989
-  level: 6
-  lon: -88.242255
-  name:  'Blind Pig'
-- ap: 10220
   img:  'http://lh5.ggpht.com/qXsP4-THlaQ8DmIiopsvR0dY2hqwPjIHoy1A1b_CUmqmADgED0FAkXDjkBzS-PY4jNfThICrCaXGja5OH8bWF4ghh7lBwJz0FzKz_zOvaiwHohU_'
   lat: 40.11945
   level: 6
   lon: -88.243175
   name:  '"Stride", Downtown Champaign'
-- ap: 10031
-  img:  'http://lh3.ggpht.com/EKf-sm5ZCYuiTXX4AKzlEv7GIrHKV_TLuLEfvyjAME2h47rQIOU4VRKY6CQb6qe8ZIQ_8ablR4-1JPH1JFhq0A'
-  lat: 40.116423
-  level: 6
-  lon: -88.238623
-  name:  'Champaign County Historical Museum'
 - ap: 9846
   img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
   lat: 40.100078
@@ -64,12 +52,6 @@
   level: 7
   lon: -88.25193
   name:  'Seeds of Kindness Bench'
-- ap: 8533
-  img:  'http://lh3.ggpht.com/bltQwmnzp2vSKYhLpzNLqB4iddy6ie0kWk9G7Wce4U9qmW3CABxbXAhF7v0oG9QLFD2q57UZuVqZCMgN3MHZfA'
-  lat: 40.118335
-  level: 5
-  lon: -88.243408
-  name:  'Downtown Fountain'
 - ap: 8346
   img:  'http://lh4.ggpht.com/qj7RZgjywjmhALnf1YyB5hWBrpO3hxjXZJdOzfE7YYV0p_vq9KA8GrgL9SfBHf_Ry3MVzMy1iJ6pAOkYL_lT'
   lat: 40.119118
@@ -88,6 +70,12 @@
   level: 7
   lon: -88.246658
   name:  'First United Methodist Church'
+- ap: 8346
+  img:  'http://lh5.ggpht.com/arF148UpHKIzlt5NezBSpFkItJk3gWq__xkPolNCeVTwHNpQNm1rzIwSdA2oAJBPtaLhpTHcVdAFFdHAXm8k'
+  lat: 40.118383
+  level: 6
+  lon: -88.247003
+  name:  'T E Berger Memorial Plaque'
 - ap: 7972
   img:  'http://lh6.ggpht.com/nbUJivBo0zF8f8aBbk1GwakUpPbLUVOoEovTTETYwJvfNIHXwG9XUbwoV0x-ly4ZO5Hsyv5KPo3c9cE6Nh8'
   lat: 40.118832
@@ -124,24 +112,18 @@
   level: 7
   lon: -88.243467
   name:  'Incursion'
-- ap: 7596
-  img:  'http://lh6.ggpht.com/SCYK-XeMmOyfRrTt1-aQNoDA-2Sib4m5Ch26mTwo6XNdVeVnfi7W74Ik6IRLAPSoKzSS97pgwt50Jl9oSgGfP029USxZzQWKNJo3rbs-6YHBPBif'
-  lat: 40.116792
-  level: 6
-  lon: -88.241752
-  name:  'WEFT 90.1 FM Community Radio'
-- ap: 7409
-  img:  'http://lh3.googleusercontent.com/FMrsRGg4e1AuMu6m4uCIpM5nawtelx8reIfMtog4nuxXU9C7--UKQnUEAm9s4Vc7OfMjfIDX5loNOw4Agz2HAw'
-  lat: 40.118715
-  level: 7
-  lon: -88.242373
-  name:  'Richard D James Mural'
 - ap: 7222
   img:  'http://lh3.googleusercontent.com/oYQaQpOQ2HICancOs0DcaCqX1KiTJEoAeKp6EUWBs5u-TjTKqJlzTSzA0QMldAg6HLWb3rX4m4_cwKwGCtpV'
   lat: 40.118684
   level: 6
   lon: -88.244894
   name:  'Farren''s Pub and Eatery'
+- ap: 7222
+  img:  'http://lh3.ggpht.com/rm0mJKw5ksUEH6_YQLi-f3uo56Wv-4h1P-Q_Ws61holRtnLG9Qt0NObbSBzDxPm3tvIhWgzHLvftIMBC_5dZ'
+  lat: 40.118435
+  level: 6
+  lon: -88.247677
+  name:  'Burnham Athenaeum'
 - ap: 7222
   img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
   lat: 40.098246
@@ -167,53 +149,35 @@
   lon: -88.251426
   name:  'Ruth Haasis Memorial'
 - ap: 6659
-  img:  'http://lh3.googleusercontent.com/5FkLhIMVmAJJSslAXVxY1RNxi-4q5mNAVPK2XgU5LwRM8qcB8BGXOK0GmF6Y_xfgPOhwF_CrbcgVZlJx-Pza'
-  lat: 40.11652
-  level: 6
-  lon: -88.241845
-  name:  'Mike ''N Molly''s'
-- ap: 6659
-  img:  'http://lh6.ggpht.com/hmDofhQgtMboyY40gAShyf0g__uH_qYaFzVKnGKShUBNn-JjwpN526PPOYKyq8kvusIGRrMQIZ7ozPedDVm4iA'
-  lat: 40.117495
-  level: 6
-  lon: -88.241616
-  name:  'Lincoln Building'
-- ap: 6659
   img:  'http://lh5.ggpht.com/n8MFM2pb-tE5i9EziJdygPPUK8VqEZ4BHGQaywz4lwe3WjwdgO0ohBCPZmiMoL00r3mVPmYnbCunJDeFbyk'
   lat: 40.118593
   level: 7
   lon: -88.240416
   name:  'Champaign Rail Water Tower'
 - ap: 6659
-  img:  'http://lh5.ggpht.com/arF148UpHKIzlt5NezBSpFkItJk3gWq__xkPolNCeVTwHNpQNm1rzIwSdA2oAJBPtaLhpTHcVdAFFdHAXm8k'
-  lat: 40.118383
+  img:  'http://lh3.ggpht.com/bltQwmnzp2vSKYhLpzNLqB4iddy6ie0kWk9G7Wce4U9qmW3CABxbXAhF7v0oG9QLFD2q57UZuVqZCMgN3MHZfA'
+  lat: 40.118335
+  level: 5
+  lon: -88.243408
+  name:  'Downtown Fountain'
+- ap: 6472
+  img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
+  lat: 40.116989
   level: 6
-  lon: -88.247003
-  name:  'T E Berger Memorial Plaque'
+  lon: -88.242255
+  name:  'Blind Pig'
 - ap: 6472
   img:  'http://lh5.ggpht.com/c-upLAoA6V12_Enn5doC2Hqtp3W9dLMIb34VHt0aVni2lW2OF5Lddn2c-1XcxmmaN7um9eyxqOF5c3c0hs4'
   lat: 40.118139
   level: 6
   lon: -88.248407
   name:  'The Americans Creed'
-- ap: 6285
-  img:  'http://lh3.ggpht.com/rm0mJKw5ksUEH6_YQLi-f3uo56Wv-4h1P-Q_Ws61holRtnLG9Qt0NObbSBzDxPm3tvIhWgzHLvftIMBC_5dZ'
-  lat: 40.118435
-  level: 6
-  lon: -88.247677
-  name:  'Burnham Athenaeum'
 - ap: 6098
   img:  'http://lh3.ggpht.com/oAhplQsltGmJyd6-FfScd0PFPwkg1lJn96dHQNw4VxgOy__gt2IaqcXddSDJHyFfu2JMrCFWTHHXbHhHnTU'
   lat: 40.119636
   level: 6
   lon: -88.243213
   name:  'Sunder Planet'
-- ap: 6098
-  img:  'http://lh6.ggpht.com/eeOtj4-6PU8Dt6QXk_TJjgkoEGRW9L8YzUqZE8QV5ZMCHnqA5CzoQoxKpnjCvXwaIflUUvPJmO_S7BdvMhcuzw'
-  lat: 40.117588
-  level: 6
-  lon: -88.241787
-  name:  'Adam & Eve Mourning Over the Soul of Abel'
 - ap: 6098
   img:  'http://lh4.ggpht.com/PfcTU4XsA06ThtmCWydIWhTsN3gR4jrqnrKxu0O5lhyibhRdKMEaf3jM8VNhViF8qLf13b01E71wr_ajxn0'
   lat: 40.118465
@@ -226,6 +190,12 @@
   level: 7
   lon: -88.251676
   name:  'Ruth and Fred Steigmann Plaque'
+- ap: 5909
+  img:  'http://lh3.ggpht.com/EKf-sm5ZCYuiTXX4AKzlEv7GIrHKV_TLuLEfvyjAME2h47rQIOU4VRKY6CQb6qe8ZIQ_8ablR4-1JPH1JFhq0A'
+  lat: 40.116423
+  level: 6
+  lon: -88.238623
+  name:  'Champaign County Historical Museum'
 - ap: 5535
   img:  'http://lh4.ggpht.com/FAqopsayR2vfoblDs12USLGHxH0S1lfng6IlvgMPO2k4a1fKXYQnDWf0Lbf3zAqLfMU0aGaHpSZxycRqft9pmQ'
   lat: 40.119381
@@ -239,11 +209,11 @@
   lon: -88.244122
   name:  'Women''s Town Club Building'
 - ap: 5535
-  img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
-  lat: 40.116553
-  level: 6
-  lon: -88.242268
-  name:  'Esquire Lounge'
+  img:  'http://lh3.googleusercontent.com/FMrsRGg4e1AuMu6m4uCIpM5nawtelx8reIfMtog4nuxXU9C7--UKQnUEAm9s4Vc7OfMjfIDX5loNOw4Agz2HAw'
+  lat: 40.118715
+  level: 7
+  lon: -88.242373
+  name:  'Richard D James Mural'
 - ap: 5535
   img:  'http://lh4.ggpht.com/Ow-wdEqY3uMRz8f_iGkOY7s4f79TTfxQK15aQu3wgtzRssq6mUqmxZcJDjfC4fO2y4Qt69U2jdahRt-Ald53'
   lat: 40.118119
@@ -298,12 +268,6 @@
   level: 7
   lon: -88.232251
   name:  'McKinley Church'
-- ap: 5346
-  img:  'http://lh4.ggpht.com/IAi2A1ukQunZaoCY1OUJnvZC_MAEjnYzlg7vcsIuPQyLIB710_5ueVQ3El8Pok0aNvlB18-Tdo1euhYbaf0'
-  lat: 40.115224
-  level: 5
-  lon: -88.24957
-  name:  'Linda M. Wesolowski Memorial Sign'
 - ap: 5161
   img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
   lat: 40.100286
@@ -335,17 +299,23 @@
   lon: -88.244603
   name:  'Italian Statue'
 - ap: 4598
-  img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
-  lat: 40.117107
-  level: 6
-  lon: -88.242467
-  name:  'Radio Maria'
+  img:  'http://lh4.ggpht.com/BEyFLhgqk0ySf2zElnARv5eyaQggj_zbHSagW3_DGt9BieScmU4jGPvJCjezTjbiCP-DOJPLPfJ3HhnYAiQLEQ'
+  lat: 40.119288
+  level: 7
+  lon: -88.248086
+  name:  'The Hartford'
 - ap: 4523
   img:  'http://lh6.ggpht.com/NXptd9bdifQT6cVxz-SPGUsryPaznp8rV3omDk0J50MnN5Mmu6oiYNa0FXIgG8FnFreUVsSPzRvQNZXYcO6G'
   lat: 40.11817
   level: 6
   lon: -88.249381
   name:  'Bicentennial Tree'
+- ap: 4598
+  img:  'http://lh3.ggpht.com/urNQaRe_wrjSAoW-Iis4CKHBvHhg6xwTvUcQPw4MqlQNK9ZuhMKEVtca2hGJnOCbyCC7ehJNuG00XZlaGXo'
+  lat: 40.118898
+  level: 7
+  lon: -88.247032
+  name:  'First Presbyterian Church'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.891383
@@ -424,6 +394,12 @@
   level: 7
   lon: -88.251412
   name:  'Zeus Memorial'
+- ap: 4222
+  img:  'http://lh4.ggpht.com/IAi2A1ukQunZaoCY1OUJnvZC_MAEjnYzlg7vcsIuPQyLIB710_5ueVQ3El8Pok0aNvlB18-Tdo1euhYbaf0'
+  lat: 40.115224
+  level: 5
+  lon: -88.24957
+  name:  'Linda M. Wesolowski Memorial Sign'
 - ap: 4035
   img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
   lat: 40.115838
@@ -436,12 +412,6 @@
   level: '?'
   lon: -87.610524
   name:  '78cd733e94584d94ac0e1cd4d0a20cc4.16'
-- ap: 3661
-  img:  'http://lh3.ggpht.com/urNQaRe_wrjSAoW-Iis4CKHBvHhg6xwTvUcQPw4MqlQNK9ZuhMKEVtca2hGJnOCbyCC7ehJNuG00XZlaGXo'
-  lat: 40.118898
-  level: 7
-  lon: -88.247032
-  name:  'First Presbyterian Church'
 - ap: 3661
   img:  'http://lh4.ggpht.com/Ad3EyxZM9v5cjmOiED5nr8Hf1mHtOMXrJtjU_U63YfE8lgUjAteiDYuYxND-ybx6tARUErULHJBDhgoDIblz'
   lat: 40.077349
@@ -514,6 +484,18 @@
   level: 6
   lon: -88.248679
   name:  'Fonderia'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
+  lat: 40.116553
+  level: 6
+  lon: -88.242268
+  name:  'Esquire Lounge'
+- ap: 3324
+  img:  'http://lh6.ggpht.com/eeOtj4-6PU8Dt6QXk_TJjgkoEGRW9L8YzUqZE8QV5ZMCHnqA5CzoQoxKpnjCvXwaIflUUvPJmO_S7BdvMhcuzw'
+  lat: 40.117588
+  level: 4
+  lon: -88.241787
+  name:  'Adam & Eve Mourning Over the Soul of Abel'
 - ap: 3474
   img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
   lat: 40.100691
@@ -630,12 +612,6 @@
   name:  '4559bb0f45f9470b8b155f0f3b6c9056.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.279711
-  level: '?'
-  lon: -88.346869
-  name:  'Sangamon River Forest Preserve'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.333068
   level: '?'
   lon: -90.272555
@@ -646,6 +622,12 @@
   level: '?'
   lon: -89.94177
   name:  '60e216159b344aba8fa25ec35d98f2ea.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.279711
+  level: '?'
+  lon: -88.346869
+  name:  'Sangamon River Forest Preserve'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 39.091886
@@ -688,12 +670,6 @@
   level: 7
   lon: -88.2577
   name:  'Salvation Army Church'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/BEyFLhgqk0ySf2zElnARv5eyaQggj_zbHSagW3_DGt9BieScmU4jGPvJCjezTjbiCP-DOJPLPfJ3HhnYAiQLEQ'
-  lat: 40.119288
-  level: 7
-  lon: -88.248086
-  name:  'The Hartford'
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/BjLUhZtNHz-wmR4gdU6GwFWwmSQu0U8cXf2Lp8D-I0YtN6RNHlW6SaJhtdbItM92UVfTI9Qj5_JFDVd3XCtz'
   lat: 40.112555
@@ -796,12 +772,6 @@
   level: 6
   lon: -88.238879
   name:  'Prow 2'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/dRrlHXlT2nMNgZNHiYo52ha9L-Xay9DyOJR2Cpqs74hgAJ09abn9OTAtMzRVedt1_R9ObZllLO98vRhNMfgTgVsJCk1S-HJwX_XgiGpG4lz3a328'
-  lat: 40.11671
-  level: 5
-  lon: -88.24263
-  name:  'Cafe Kopi'
 - ap: 2537
   img:  'http://lh5.ggpht.com/Tn5ARN-X6VTc2q6atZ2WYq3c2g3gbSGXu6_vXf1MDwHfLpdTtnQ-CilBAVGvL6R-SHhq3fJ4WZI-yiJKmIId'
   lat: 40.110398
