@@ -89,17 +89,17 @@
   lon: -88.245358
   name:  'Springer Cultural Center'
 - ap: 7972
-  img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
-  lat: 40.099852
-  level: 7
-  lon: -88.251947
-  name:  'Our Friend Tim Palmer'
-- ap: 7972
   img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
   lat: 40.099353
   level: 7
   lon: -88.251876
   name:  'Raymond B. Cattell Memorial'
+- ap: 7972
+  img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
+  lat: 40.099852
+  level: 7
+  lon: -88.251947
+  name:  'Our Friend Tim Palmer'
 - ap: 7785
   img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
   lat: 40.099737
@@ -274,10 +274,10 @@
   level: 7
   lon: -88.250276
   name:  'Mckinley Aquatics Center'
-- ap: 5348
+- ap: 4973
   img:  'http://lh3.ggpht.com/5iH9kzVECg-dsKRPYTzLzAT5eoYnDhGrcJB1N-hLShal9eEun1_Ml0oFX2c42cGNjKj8-yvsEnUn2j4C_90'
   lat: 40.11792
-  level: 6
+  level: 2
   lon: -88.249845
   name:  'Thomas R. Sandrock'
 - ap: 5348
@@ -419,17 +419,17 @@
   lon: -88.251412
   name:  'Zeus Memorial'
 - ap: 4409
-  img:  'http://lh5.ggpht.com/VYMooLhz51W3fCgti3L9LEQNMJjmFeW30saxIYK34yGEReG1naEKEd3eW1uyFgSlzpu-P5KertNDe4Z6qu8'
-  lat: 40.109913
-  level: 6
-  lon: -88.228393
-  name:  'Alma Mater Statue'
-- ap: 4222
   img:  'http://lh5.ggpht.com/_9uqsDQROIwqIhKx_URY4DdZAapoZBEWK6Eaclt5mM5vPsjwQAD-v8Bv-4b-Smq2F8X4zOgzLx2KwySkFWc'
   lat: 40.118448
   level: 6
   lon: -88.25211
   name:  'First Church of Christ, Scientist'
+- ap: 4409
+  img:  'http://lh5.ggpht.com/VYMooLhz51W3fCgti3L9LEQNMJjmFeW30saxIYK34yGEReG1naEKEd3eW1uyFgSlzpu-P5KertNDe4Z6qu8'
+  lat: 40.109913
+  level: 6
+  lon: -88.228393
+  name:  'Alma Mater Statue'
 - ap: 3848
   img:  'http://lh5.ggpht.com/JWnYHkJG0nab4r1ficE77w9SnzFDf6DTZ-6WlD1TC1LZp1KDiEjRqUlET-pWAycwMENIelAYkMxQJCx4Niil'
   lat: 40.098104
@@ -654,18 +654,6 @@
   name:  '60e216159b344aba8fa25ec35d98f2ea.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.452691
-  level: '?'
-  lon: -87.803507
-  name:  '41caea3f2f40410782551fa3ac12c2de.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.890714
-  level: '?'
-  lon: -87.610524
-  name:  '78cd733e94584d94ac0e1cd4d0a20cc4.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 39.862554
   level: '?'
   lon: -88.161613
@@ -706,10 +694,10 @@
   level: 6
   lon: -88.256779
   name:  'Framer''s Market'
-- ap: 2312
+- ap: 2237
   img:  'http://lh6.ggpht.com/_MJDV4NA2u24dbhr1ulyabSdnTuUBUv1xFpOPKbit_dHtoaRkFxqDHaRZBZ196LNyiSHUE5lNT4MCbhqCrzh'
   lat: 40.098459
-  level: 4
+  level: 3
   lon: -88.282083
   name:  'Flower Island'
 - ap: 2537
@@ -718,6 +706,12 @@
   level: 6
   lon: -88.281583
   name:  'Brownfield Dedication'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/WVVbmiu2GGTnPTszcnYYILHKlkZDoxB-QY6Yv7YPoUfdVn92jYnKjpVKNkfWdFrPjq-BaFeKGJWLZlE-bbA'
+  lat: 40.120467
+  level: 7
+  lon: -88.2577
+  name:  'Salvation Army Church'
 - ap: 2537
   img:  'http://lh4.ggpht.com/BEyFLhgqk0ySf2zElnARv5eyaQggj_zbHSagW3_DGt9BieScmU4jGPvJCjezTjbiCP-DOJPLPfJ3HhnYAiQLEQ'
   lat: 40.119288
