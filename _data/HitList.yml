@@ -5,6 +5,13 @@
   lon: -88.244611
   mus: 256
   name:  'Marketplace Mall Carousel'
+- fields: 3
+  img:  'http://lh5.ggpht.com/Ezq3ovJZ5M4i8wxOtoPoHEBF_o5ur2tH3Hdb0QU-JmlxR71RxAS_K5h14xYHSyI2WOF0RuBy_hZZeslYhNNe'
+  lat: 40.102329
+  level: 5
+  lon: -88.221381
+  mus: 197
+  name:  'McKinley Fountain'
 - fields: 2
   img:  'http://lh6.ggpht.com/c2I39IJvSBKmCLonmhP_RN1vLEpYY1recBXFm8xpGHxES4bAN2kvAcda8ZzvT75uq0yWQCv7N_dzP6ce5-Tu'
   lat: 40.108043
@@ -40,13 +47,6 @@
   lon: -88.250855
   mus: 21
   name:  'Donald F. Bresnan Memorial'
-- fields: 13
-  img:  'http://lh4.ggpht.com/kZm6lbk07IpQebQBqqCODikSi-pOMHQhQ7-c0xNGM6vqUskWUftXV4L3ymEbT0T5IELGgfJ2vrxTZvmgP9D_'
-  lat: 40.117118
-  level: 7
-  lon: -88.248618
-  mus: 20
-  name:  'Lieut. E.G. Stillwell Memorial Tree'
 - fields: 4
   img:  'http://lh5.ggpht.com/28al1CSkHNCrM9Sb57TYmawr1uFh6r5raWMJKD4QjLCj6N5YHEYIIizONs_hHF3pHuIppLjqxbTFcvrI9Dq9'
   lat: 40.111205
@@ -54,13 +54,13 @@
   lon: -88.227583
   mus: 17
   name:  'Theory of Superconductivity Plaque'
-- fields: 6
-  img:  'http://lh3.ggpht.com/rm0mJKw5ksUEH6_YQLi-f3uo56Wv-4h1P-Q_Ws61holRtnLG9Qt0NObbSBzDxPm3tvIhWgzHLvftIMBC_5dZ'
-  lat: 40.118435
-  level: 7
-  lon: -88.247677
-  mus: 13
-  name:  'Burnham Athenaeum'
+- fields: 3
+  img:  'http://lh4.ggpht.com/d3UqrcK5M1wuOe19dIaBUOkrXF4C9IxhOWfxqzM4zIHkGsUIRb1mckNapOMRkkCtVIe0rzJumb1OVDVc1_Y'
+  lat: 40.108055
+  level: 6
+  lon: -88.233688
+  mus: 14
+  name:  'University Baptist Church'
 - fields: 3
   img:  'http://lh6.ggpht.com/POBAhJlStu1uLv82RPSkd8lKQyojPByrKqAwgiZPyXTHQcNTCN7rkJM376YcVpMmZZVMgiXz9J1BXanexyA643e-FR9M70tksLdb1akPUe2Ra_xCyw'
   lat: 40.112411
@@ -83,68 +83,40 @@
   mus: 12
   name:  'Orpheum Children''s Science Museum'
 - fields: 2
-  img:  'http://lh4.ggpht.com/d3UqrcK5M1wuOe19dIaBUOkrXF4C9IxhOWfxqzM4zIHkGsUIRb1mckNapOMRkkCtVIe0rzJumb1OVDVc1_Y'
-  lat: 40.108055
-  level: 6
-  lon: -88.233688
-  mus: 10
-  name:  'University Baptist Church'
-- fields: 6
-  img:  'http://lh3.ggpht.com/0IkSOblVdAgYOJ2Bk2QqvqWjdstWNQgp7g9oSz1Sq70jG6cLusjwYW76irF9h-c7cafatMcyGsjw85xwYgPQyw'
-  lat: 40.118353
-  level: 7
-  lon: -88.246658
-  mus: 9
-  name:  'First United Methodist Church'
-- fields: 2
   img:  'http://lh3.ggpht.com/I8Cra-oBAq7td_84j0G8l8DIMXhxPP-O8A8xPb1WZb8O2s9DBapV_osKefRuzzDGDhcPRA9WT7yaPBvkGE4g'
   lat: 40.112836
   level: 4
   lon: -88.22802
   mus: 8
   name:  '1909 Senior Memorial'
-- fields: 8
-  img:  'http://lh4.ggpht.com/6iTxW6HC8WFx3nf6xEGhZryWVxW9NNijqTsEKvcBCBkmkmLZdUjaDHKReKT58cl8RUaCwDCL7pMFmBEyj3Fc'
-  lat: 40.117602
+- fields: 5
+  img:  'http://lh5.ggpht.com/2jocF-ooKfacyT7HSwrwNcZTSN02yFkcmXBkPx777CYuD5O6sHPHwyUabblNOl_37YOxba1Gjid-TOwLVBlJ8g'
+  lat: 40.116448
   level: 5
-  lon: -88.249943
-  mus: 7
-  name:  'Megan Schneider Patel Honorary Plaque'
-- fields: 7
-  img:  'http://lh5.ggpht.com/ONr7OWgjlaWwJELaKTJEC1ZVpkIkuN-2c01D2AligYZC9Zbt8lH0SMkirhrWfHdjmVDmCtzhJWoVxoZM-NM'
-  lat: 40.116766
-  level: 5
-  lon: -88.247614
-  mus: 6
-  name:  'Mary Shaw Memorial Tree'
-- fields: 2
-  img:  'http://lh5.ggpht.com/arF148UpHKIzlt5NezBSpFkItJk3gWq__xkPolNCeVTwHNpQNm1rzIwSdA2oAJBPtaLhpTHcVdAFFdHAXm8k'
-  lat: 40.118383
-  level: 7
-  lon: -88.247003
-  mus: 5
-  name:  'T E Berger Memorial Plaque'
-- fields: 6
-  img:  'http://lh3.googleusercontent.com/L3lfMswaooWEA3nJNFGES354rtENCzxYkoWuVLXEXaTiXbqTNnsl34TRd8tbMwnGQHkAnr37-HLMutIe3_Uz'
-  lat: 40.117254
-  level: 6
-  lon: -88.247074
-  mus: 4
-  name:  'Westside Park Double Dutch-A Jump For Joy'
+  lon: -88.248459
+  mus: 8
+  name:  'Uppercutted Sculpture'
 - fields: 3
-  img:  'http://lh6.ggpht.com/xQx5BUJcAI_QUroJGe77pPkgV7s_ACVui8PXvCyvmehuDvenmRIvKBGeevOacNR6W3pLMMSh4sVrvXm87QeN2eylsZEtz7pxB-CMvzLmH1WyVZ16uw'
-  lat: 40.11786
-  level: 7
-  lon: -88.248031
-  mus: 4
-  name:  'Lincoln Megalith'
-- fields: 4
-  img:  'http://lh6.ggpht.com/uAhsK1gCBrCPvIEZ8lZRhDGbO9Q75uu9su3qhSkktViExCuvIvXGCLwZXT-_riPd4rI3tTvsLqqn6XO3msF4'
-  lat: 40.116558
+  img:  'http://lh3.ggpht.com/0IkSOblVdAgYOJ2Bk2QqvqWjdstWNQgp7g9oSz1Sq70jG6cLusjwYW76irF9h-c7cafatMcyGsjw85xwYgPQyw'
+  lat: 40.118353
+  level: 2
+  lon: -88.246658
+  mus: 6
+  name:  'First United Methodist Church'
+- fields: 7
+  img:  'http://lh6.ggpht.com/cnBQN3RYcZFSdxYB52bvMYRD2aTSlDG0_cqBQ8coo0ueKTtGxldE0xGjNPF6xlYJtnba8oUyEKwBeYbO8CY5'
+  lat: 40.116631
   level: 5
-  lon: -88.249136
-  mus: 3
-  name:  'Babe and Gene Wilder Memorial Plaque'
+  lon: -88.246951
+  mus: 4
+  name:  'Lyle Blue Memorial'
+- fields: 6
+  img:  'http://lh6.ggpht.com/5NJ7qgqdGdq2TNgKDadFhTo4SudsgsHoSbhrgyc2axnUeV_4VOo4bzyr40gIwc1T_AvyH47lClwrz_V8Mtg'
+  lat: 40.117008
+  level: 6
+  lon: -88.249287
+  mus: 4
+  name:  'Terry R Bilbrey Memorial Bench'
 - fields: 5
   img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
   lat: 40.098246
@@ -152,13 +124,6 @@
   lon: -88.251974
   mus: 3
   name:  'Hessel Park'
-- fields: 3
-  img:  'http://lh6.ggpht.com/NXptd9bdifQT6cVxz-SPGUsryPaznp8rV3omDk0J50MnN5Mmu6oiYNa0FXIgG8FnFreUVsSPzRvQNZXYcO6G'
-  lat: 40.11817
-  level: 7
-  lon: -88.249381
-  mus: 2
-  name:  'Bicentennial Tree'
 - fields: 2
   img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
   lat: 40.100822
@@ -173,13 +138,13 @@
   lon: -88.249849
   mus: 2
   name:  'Don and Ruth Dobbins Memorial'
-- fields: 4
-  img:  'http://lh6.ggpht.com/cnBQN3RYcZFSdxYB52bvMYRD2aTSlDG0_cqBQ8coo0ueKTtGxldE0xGjNPF6xlYJtnba8oUyEKwBeYbO8CY5'
-  lat: 40.116631
+- fields: 3
+  img:  'http://lh6.ggpht.com/rjO65LTfxlehqnFITx_AAA2JKpsmpj8hWVQifyHaji2E1suLvQntKGeHtT8TjDg7CZ94W3wDKW2MrfGY45k'
+  lat: 40.11699
   level: 5
-  lon: -88.246951
+  lon: -88.247796
   mus: 2
-  name:  'Lyle Blue Memorial'
+  name:  'Feathergill Honorary Plaque'
 - fields: 1
   img:  'http://lh4.ggpht.com/pM54bxajiElAHvpOxTra6n3p9_Fy3FZDVv1HZu94ulaDSBKkvE5xOjxuEfC__ooPEItS_J5fqoI2Cw7BdPYn'
   lat: 40.09623
@@ -194,13 +159,6 @@
   lon: -88.225644
   mus: 2
   name:  'Smith Music Hall'
-- fields: 3
-  img:  'http://lh6.ggpht.com/5NJ7qgqdGdq2TNgKDadFhTo4SudsgsHoSbhrgyc2axnUeV_4VOo4bzyr40gIwc1T_AvyH47lClwrz_V8Mtg'
-  lat: 40.117008
-  level: 6
-  lon: -88.249287
-  mus: 2
-  name:  'Terry R Bilbrey Memorial Bench'
 - fields: 2
   img:  'http://lh4.ggpht.com/4LxsGZZMk3DnpJXUvqzrL54CHSP5TDXjUnDJyHmCCTtCJIjGEI7kxT9g4uxfSPh0X6yGLgQo1jfqbu7B8VEr'
   lat: 40.099084
@@ -209,26 +167,26 @@
   mus: 1
   name:  'Irina P. Stewart Memorial Plaque'
 - fields: 1
-  img:  'http://lh6.ggpht.com/rjO65LTfxlehqnFITx_AAA2JKpsmpj8hWVQifyHaji2E1suLvQntKGeHtT8TjDg7CZ94W3wDKW2MrfGY45k'
-  lat: 40.11699
-  level: 6
-  lon: -88.247796
+  img:  'http://lh6.ggpht.com/uAhsK1gCBrCPvIEZ8lZRhDGbO9Q75uu9su3qhSkktViExCuvIvXGCLwZXT-_riPd4rI3tTvsLqqn6XO3msF4'
+  lat: 40.116558
+  level: 5
+  lon: -88.249136
   mus: 1
-  name:  'Feathergill Honorary Plaque'
-- fields: 2
-  img:  'http://lh6.ggpht.com/EiNXerTyRNFVC9pti48SExCtqR9p6t3-Xne_jw2YB90-VjUeJ3KGX8Se436SNVkFb5wOw0N7CKCz9brOeVg6WQ'
-  lat: 40.117802
-  level: 6
-  lon: -88.249547
-  mus: 1
-  name:  'Warren and Mary Filer Memorial'
+  name:  'Babe and Gene Wilder Memorial Plaque'
 - fields: 1
-  img:  'http://lh6.ggpht.com/ka79B_ahK9kHLiOCOnKsp3SooZlPGgMuIOO25OaqPU7eoUALOBzaa40ZCStdo4v6rCYW0VS_pNgW3PJyUDKxpXI-n55zohIxJwRJEq5gslJKwS5ykQ'
-  lat: 40.11794
-  level: 7
-  lon: -88.248679
+  img:  'http://lh4.ggpht.com/4rZUtsKLzttseF-bliT_X7wEGP_joarKKLt8DNtp99fViYcqD4TAWTfZ_Ur6oEdBJdT-1JeZl4tnk_sTtgN0'
+  lat: 40.116361
+  level: 5
+  lon: -88.247369
   mus: 1
-  name:  'Fonderia'
+  name:  'Gerry Schriefer Plaque'
+- fields: 1
+  img:  'http://lh6.ggpht.com/hmDofhQgtMboyY40gAShyf0g__uH_qYaFzVKnGKShUBNn-JjwpN526PPOYKyq8kvusIGRrMQIZ7ozPedDVm4iA'
+  lat: 40.117495
+  level: 6
+  lon: -88.241616
+  mus: 1
+  name:  'Lincoln Building'
 - fields: 1
   img:  'http://lh4.ggpht.com/B_I1b0Jy3vW41RX8jjCNPP68AULplU0Pf8ddolyKmpEWCfBVShQkmjF1HfTPzDjmBBQGgOs0jHW-rUR0mv8BkA'
   lat: 40.098789
@@ -236,3 +194,10 @@
   lon: -88.251685
   mus: 1
   name:  'Curtis William McKinney Memorial'
+- fields: 1
+  img:  'http://lh4.ggpht.com/ULEhKlvERD4aidwSKPhLFujl0N0mZWcHPxtcJ7hNJkyDjYek9yrB4UD_G8bU-O9-12L1LYpDkM068BiYmpm9weZeGJsz-K5whCvUYTfmDqaIp1Fp'
+  lat: 40.117
+  level: 3
+  lon: -88.247111
+  mus: 1
+  name:  'Wesley Robert Weedman Memorial'
