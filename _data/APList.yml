@@ -167,12 +167,6 @@
   lon: -88.244611
   name:  'Marketplace Mall Carousel'
 - ap: 5535
-  img:  'http://lh4.ggpht.com/dIZMnnUykBHkwUGA_tGi7tq4m0qCooVejZqueoqq9NjBXvZgz1QUEqS-vJhsYu3v7pW_0xejLfH9QeziW28I'
-  lat: 40.097472
-  level: 5
-  lon: -88.259842
-  name:  'Indian Acres Swim Club'
-- ap: 5535
   img:  'http://lh3.ggpht.com/rT55OoX-8s-w_ikrqOgpC7QkK-Iqp4ylicElGoWFagKRQ8LX3Uvv8TZ5Xc8BlId1btzo5FTbgddPN72kYwA'
   lat: 40.114327
   level: 6
@@ -262,6 +256,12 @@
   level: 6
   lon: -88.271694
   name:  'Champaign Church of Christ'
+- ap: 4598
+  img:  'http://lh4.ggpht.com/dIZMnnUykBHkwUGA_tGi7tq4m0qCooVejZqueoqq9NjBXvZgz1QUEqS-vJhsYu3v7pW_0xejLfH9QeziW28I'
+  lat: 40.097472
+  level: 5
+  lon: -88.259842
+  name:  'Indian Acres Swim Club'
 - ap: 4598
   img:  'http://lh3.ggpht.com/eIZLSi2oHXQIznnki3LOUvKrTTcJ6a2d9xmuW9B9IjzRMAyaWG19Qw6gTUGWsC5V7R3LlRVD-ySQPp_6uK_aZw'
   lat: 40.117519
@@ -388,7 +388,7 @@
   level: 7
   lon: -88.233753
   name:  'Chabad Menorah'
-- ap: 3661
+- ap: 3586
   img:  'http://lh4.ggpht.com/iF9ok9WK8tu0rwNJsbJggC_OqQxiqKIF9QRpGOgIrlZa4Dr4JYrLxWeFDe43Js9WGFiKCOlMNMZapd_SBQ5T'
   lat: 40.111945
   level: 5
@@ -400,18 +400,6 @@
   level: 5
   lon: -88.287899
   name:  'Greenbelt Bikeway'
-- ap: 3661
-  img:  'http://lh3.ggpht.com/wkPcdDupubV3THJo6r2OpMtshziiIkqBISPTCPe8boa-8nH33u83Mznkr1yYWNR_l60RCy8HO_obqrdNGUI'
-  lat: 40.093633
-  level: 5
-  lon: -88.246611
-  name:  'Fountain at Illini Plaza'
-- ap: 3661
-  img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
-  lat: 40.097979
-  level: 5
-  lon: -88.247785
-  name:  'Jarling''s Custard Cup'
 - ap: 3661
   img:  'http://lh4.ggpht.com/zZ2YpVpDiI1KdIQ9iI7mGJD_VtwFztJ4ZF1vRehD9OSnQ2K3433SIg22svwcqDJVfeO2fjE3fdT4eHAJWGpi'
   lat: 40.104339
@@ -479,23 +467,41 @@
   lon: -89.694085
   name:  'c604d1508e9c497bb0473a6aaface8c9.16'
 - ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.927231
+  level: '?'
+  lon: -89.757515
+  name:  '38067886634e4e67873c9c8b614abbcf.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.436308
+  level: '?'
+  lon: -90.13833
+  name:  'e288082c4a5c4be1ad00b2fbb638902d.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.921668
+  level: '?'
+  lon: -89.926429
+  name:  'aec971d67f0f41488f33897e56a5a990.12'
+- ap: 3474
   img:  'http://lh4.ggpht.com/BB4y2ChVuPpmuGW8VPeiAPKr-vWwYdihWvrH0i_WALxPd8wX3j2no0JFEMNK8ndCvXwQzLLabPyRoAfsz5g'
   lat: 40.101584
   level: 5
   lon: -88.270546
   name:  'Mayfair Park '
 - ap: 3474
-  img:  'http://lh5.ggpht.com/nWEtxuKQdy0teBBue1DYmG7P3SF5-3A6zlB7GwVHBWlolAZYGq6Br78lWcF9ltFy-KeSlozXie2RmU6JfCUX'
-  lat: 40.142673
-  level: 6
-  lon: -88.244603
-  name:  'Italian Statue'
-- ap: 3474
   img:  'http://lh4.ggpht.com/u_MtizNv_keIXM4ITgtjqC8nr5JvB8UpDBg_5_08uQDTsQr44mwr6ZlkhTp0iKbvcV9xCJqXDeN66xYWaI0'
   lat: 40.116227
   level: 7
   lon: -88.233833
   name:  'Haley-Walker-Ginza Building'
+- ap: 3474
+  img:  'http://lh5.ggpht.com/nWEtxuKQdy0teBBue1DYmG7P3SF5-3A6zlB7GwVHBWlolAZYGq6Br78lWcF9ltFy-KeSlozXie2RmU6JfCUX'
+  lat: 40.142673
+  level: 6
+  lon: -88.244603
+  name:  'Italian Statue'
 - ap: 3474
   img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
   lat: 40.100691
@@ -676,6 +682,12 @@
   level: '?'
   lon: -88.260234
   name:  'e8936d5f39164dab96a8dff5d68bef57.16'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/wkPcdDupubV3THJo6r2OpMtshziiIkqBISPTCPe8boa-8nH33u83Mznkr1yYWNR_l60RCy8HO_obqrdNGUI'
+  lat: 40.093633
+  level: 5
+  lon: -88.246611
+  name:  'Fountain at Illini Plaza'
 - ap: 2537
   img:  'http://lh6.ggpht.com/p2F3xw4xL4UdiMM9aSy628ISSglrvjPexpF3j340tMAP9MX07yh_sJv7kHVkeud8lyFf2ZwDohw3zsRS2PSd'
   lat: 40.093914
