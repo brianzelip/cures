@@ -149,17 +149,17 @@
   lon: -88.225762
   name:  'Computer Based Education Plaque'
 - ap: 5909
-  img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
-  lat: 40.098239
-  level: 5
-  lon: -88.25376
-  name:  'Hessel Park Christian Reformed Church'
-- ap: 5909
   img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
   lat: 40.106921
   level: 6
   lon: -88.230145
   name:  'University Lutheran Church'
+- ap: 5722
+  img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
+  lat: 40.098239
+  level: 5
+  lon: -88.25376
+  name:  'Hessel Park Christian Reformed Church'
 - ap: 5722
   img:  'http://lh3.googleusercontent.com/hJZWoErzM-MuXulq4FlhlZwMbJX1Isd81GBUBVKayd57jVIVxUle3itd-1DRKo2VaNXznWr1X639fa44Etk'
   lat: 40.141919
@@ -328,6 +328,12 @@
   level: 7
   lon: -88.251419
   name:  'Lyman Larson Memorial'
+- ap: 4186
+  img:  'http://lh3.ggpht.com/2bCNiD7SWsS3uzFLMO2cZh-LpHUEMQGnfTmcNx5vJapXho2TuXke630-7zop2Sq4fuY8nWVqy4VCG23mvnIJ'
+  lat: 40.104168
+  level: 4
+  lon: -88.238808
+  name:  'Alpha Gamma Rho'
 - ap: 4411
   img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
   lat: 40.099593
@@ -340,12 +346,6 @@
   level: 7
   lon: -88.250864
   name:  'Gabriel Patrick Maxeiner Memorial'
-- ap: 4186
-  img:  'http://lh3.ggpht.com/2bCNiD7SWsS3uzFLMO2cZh-LpHUEMQGnfTmcNx5vJapXho2TuXke630-7zop2Sq4fuY8nWVqy4VCG23mvnIJ'
-  lat: 40.104168
-  level: 4
-  lon: -88.238808
-  name:  'Alpha Gamma Rho'
 - ap: 4411
   img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
   lat: 40.100941
@@ -575,29 +575,23 @@
   lon: -88.241338
   name:  'Illinois Terminal'
 - ap: 2911
-  img:  'http://lh6.ggpht.com/WVVbmiu2GGTnPTszcnYYILHKlkZDoxB-QY6Yv7YPoUfdVn92jYnKjpVKNkfWdFrPjq-BaFeKGJWLZlE-bbA'
-  lat: 40.120467
-  level: 7
-  lon: -88.2577
-  name:  'Salvation Army Church'
-- ap: 2911
   img:  'http://lh6.ggpht.com/BY965mN-IwRRa-jZ2gbLPDtjHyKpATG3VbP3LyHuDo6pU0R8wDi5gANnRox6DEA_ZgB0Xqi-p6k0SYPnSIs'
   lat: 40.115883
   level: 6
   lon: -88.232238
   name:  'Artwork at Fifth'
 - ap: 2724
+  img:  'http://lh6.ggpht.com/WVVbmiu2GGTnPTszcnYYILHKlkZDoxB-QY6Yv7YPoUfdVn92jYnKjpVKNkfWdFrPjq-BaFeKGJWLZlE-bbA'
+  lat: 40.120467
+  level: 7
+  lon: -88.2577
+  name:  'Salvation Army Church'
+- ap: 2724
   img:  'http://lh4.ggpht.com/BEyFLhgqk0ySf2zElnARv5eyaQggj_zbHSagW3_DGt9BieScmU4jGPvJCjezTjbiCP-DOJPLPfJ3HhnYAiQLEQ'
   lat: 40.119288
   level: 7
   lon: -88.248086
   name:  'The Hartford'
-- ap: 2724
-  img:  'http://lh5.ggpht.com/_9uqsDQROIwqIhKx_URY4DdZAapoZBEWK6Eaclt5mM5vPsjwQAD-v8Bv-4b-Smq2F8X4zOgzLx2KwySkFWc'
-  lat: 40.118448
-  level: 7
-  lon: -88.25211
-  name:  'First Church of Christ, Scientist'
 - ap: 2724
   img:  'http://lh5.ggpht.com/vYay8RKsCV_BP_MkeFm7se0VZoYthm-1pThiATAADleBlTsPowobgZyUoU7DUto6p5cpg9adpCcTgNR6iop0Jw'
   lat: 40.120121
@@ -790,18 +784,6 @@
   level: 5
   lon: -88.207196
   name:  'War Memorial @ Downtown Urbana'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/dzjsWdreD6jZuCG_DDonrZu-gYlDIxk5j3rPzt67sbmq7yWjo9I_Op69SM3fzvlGKnlp8QMGcztFWOhpSe4'
-  lat: 40.093629
-  level: 1
-  lon: -88.216064
-  name:  'Dr. Frank W. Kari Memorial'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/Q2rFQkcNHwItWNXX2B0B65sANQ_gCk482p2HilMp7BeswGN9qevW8WBFQ1zUg2xkvlz8bqbDCg-C5NaxK2Jf'
-  lat: 40.092639
-  level: 1
-  lon: -88.216599
-  name:  'Frank Kari Memorial Bench'
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/DNxNz5kUb4i3SBi5NKUZEHT0qc0Qef6rKL-J9jG--oDu69m1WEoRX_0_laXoooyFy2YJWQKQLkaUtu8rm2-D'
   lat: 40.078858
