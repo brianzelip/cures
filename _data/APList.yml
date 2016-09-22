@@ -25,7 +25,7 @@
 - ap: 10033
   img:  'http://lh5.ggpht.com/Z2EWM4D6YQHuqnLwtuPBawyQBZxTzVe9E17MKc8jOZkO0ZzkuD5zSQslY2iuXkkUnztPteUeOSHrSTz3voHC'
   lat: 40.111166
-  level: 5
+  level: 6
   lon: -88.228747
   name:  'Boneyard Creek Mural'
 - ap: 9846
@@ -208,7 +208,7 @@
   level: 4
   lon: -88.227765
   name:  'Bardeen Quadrangle - North Side'
-- ap: 4785
+- ap: 4635
   img:  'http://lh4.ggpht.com/ZwDzLvPP0KTL_mUj9ta-0DRkbA4q3X7b-r02bm3rTibFkPbu00GKehClddYfSkXbwVuJ4pjt4T7yo7ou54ov'
   lat: 40.111869
   level: 3
@@ -240,6 +240,12 @@
   name:  'The Diana Fountain'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.552819
+  level: '?'
+  lon: -89.637244
+  name:  '2073ce655cf8477eb06e9f73f6661b81.16'
+- ap: 4411
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.552825
   level: '?'
   lon: -89.652516
@@ -250,12 +256,6 @@
   level: '?'
   lon: -89.662125
   name:  '4211c4be283d4a8d9fe0b1ad0fcdaf5d.16'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.552819
-  level: '?'
-  lon: -89.637244
-  name:  '2073ce655cf8477eb06e9f73f6661b81.16'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.545277
@@ -325,7 +325,7 @@
 - ap: 4035
   img:  'http://lh5.ggpht.com/LLVKvcsTaSPmGBzaGFrvYIV4RhGzb6LqC_npAarehd2aLZSaVhjGzQV6T63Ke07reCQzO-GoZXmEfwZMOcM'
   lat: 40.110569
-  level: 4
+  level: 5
   lon: -88.226784
   name:  'Cubist Art at MSEB'
 - ap: 3848
@@ -647,18 +647,6 @@
   lon: -88.233833
   name:  'Haley-Walker-Ginza Building'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
-  lat: 40.117107
-  level: 6
-  lon: -88.242467
-  name:  'Radio Maria'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
-  lat: 40.116989
-  level: 6
-  lon: -88.242255
-  name:  'Blind Pig'
-- ap: 2537
   img:  'http://lh6.ggpht.com/RR0i4QdfoY8NkTQtssdOtDLhAEaCR7e-R4ipk5NzdKe9lTGDq2nyKI_7sF2BCXrgCZAZ2zEEtIzS7vg6Pu0hzA'
   lat: 40.126458
   level: 5
@@ -676,18 +664,6 @@
   level: 7
   lon: -88.248086
   name:  'The Hartford'
-- ap: 2387
-  img:  'http://lh6.ggpht.com/uyv64Hvc1y5cxlCwT2wsWkD3sPpcam6VXjBGrZ5qOpqIyyynSqXKCeBXqdW39vyyoAaOpvm-gIHYaE_bit8'
-  lat: 40.120632
-  level: 4
-  lon: -88.243669
-  name:  'Colonel Sidney Gauntlett Cornerstone'
-- ap: 2462
-  img:  'http://lh6.ggpht.com/28IBVPv_sSO5O3dEfGcWxpzj9O89CHrBYVwQ8UFk5kFbtrbxg5A1AjHIfoFLTZ-MZllsKOFVd5y4fEFsbnHd'
-  lat: 40.120274
-  level: 4
-  lon: -88.244323
-  name:  'Sesquicentennial Neighborhood Sign'
 - ap: 2537
   img:  'http://lh6.ggpht.com/Nv0tMktEkkuoGtg1QEPS1N2nTcBPg8ipu31i72XPDTGQ4HQI5oL58Ig8kofXUH_aCC2aaJ-NylWKPkC3hIBS'
   lat: 40.116218
@@ -706,10 +682,10 @@
   level: 7
   lon: -88.240416
   name:  'Champaign Rail Water Tower'
-- ap: 2387
+- ap: 2537
   img:  'http://lh6.ggpht.com/RW34ntixvJkg7fD71TPYo_4KIsBzA0-a-6yXO0jKPbpGxX5gIGC7kBI-pXEF9OHhuolcAGW2fxyK3Pt42Iev'
   lat: 40.110489
-  level: 3
+  level: 5
   lon: -88.227412
   name:  'Bus Stop - Illini Union, Westbound'
 - ap: 2537
