@@ -233,17 +233,17 @@
   lon: -88.225762
   name:  'Computer Based Education Plaque'
 - ap: 5909
-  img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
-  lat: 40.106921
-  level: 6
-  lon: -88.230145
-  name:  'University Lutheran Church'
-- ap: 5722
   img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
   lat: 40.098239
   level: 5
   lon: -88.25376
   name:  'Hessel Park Christian Reformed Church'
+- ap: 5909
+  img:  'http://lh3.ggpht.com/HX3mWBGofQk08Qdp7A6KMK1AnSXlLEPJR-n6oeX69Efiiss29GHsLiDsHhRS5K8DrXh-QXP1T0AMaOsJmx_w'
+  lat: 40.106921
+  level: 6
+  lon: -88.230145
+  name:  'University Lutheran Church'
 - ap: 5722
   img:  'http://lh3.googleusercontent.com/hJZWoErzM-MuXulq4FlhlZwMbJX1Isd81GBUBVKayd57jVIVxUle3itd-1DRKo2VaNXznWr1X639fa44Etk'
   lat: 40.141919
@@ -256,6 +256,12 @@
   level: 6
   lon: -88.242268
   name:  'Esquire Lounge'
+- ap: 5535
+  img:  'http://lh4.ggpht.com/dIZMnnUykBHkwUGA_tGi7tq4m0qCooVejZqueoqq9NjBXvZgz1QUEqS-vJhsYu3v7pW_0xejLfH9QeziW28I'
+  lat: 40.097472
+  level: 5
+  lon: -88.259842
+  name:  'Indian Acres Swim Club'
 - ap: 5535
   img:  'http://lh3.ggpht.com/rT55OoX-8s-w_ikrqOgpC7QkK-Iqp4ylicElGoWFagKRQ8LX3Uvv8TZ5Xc8BlId1btzo5FTbgddPN72kYwA'
   lat: 40.114327
@@ -317,12 +323,6 @@
   lon: -88.251747
   name:  'Tennis Anyone'
 - ap: 4785
-  img:  'http://lh4.ggpht.com/dIZMnnUykBHkwUGA_tGi7tq4m0qCooVejZqueoqq9NjBXvZgz1QUEqS-vJhsYu3v7pW_0xejLfH9QeziW28I'
-  lat: 40.097472
-  level: 5
-  lon: -88.259842
-  name:  'Indian Acres Swim Club'
-- ap: 4785
   img:  'http://lh6.ggpht.com/duOeXcOSQLWosdD0JJXg3pWWQp4t5sL0x9qDHoTIBFNOzEW0t53Lt2cnwgV2E_Su0l1ajIQxPtVbbK_sDRaS'
   lat: 40.141775
   level: 5
@@ -358,6 +358,12 @@
   level: 2
   lon: -88.203511
   name:  'Denise and Ernest Walker Grove'
+- ap: 4598
+  img:  'http://lh5.ggpht.com/j6Gqd19ib1ziWv7UKoq4_fMXeXtxxdV85TchQ49_mIgeJYs7oUWOj860aB2Ok8NGNY5wNfMqDn7zeSKOgpxEzQ'
+  lat: 40.108781
+  level: 6
+  lon: -88.271694
+  name:  'Champaign Church of Christ'
 - ap: 4373
   img:  'http://lh3.ggpht.com/urNQaRe_wrjSAoW-Iis4CKHBvHhg6xwTvUcQPw4MqlQNK9ZuhMKEVtca2hGJnOCbyCC7ehJNuG00XZlaGXo'
   lat: 40.118898
@@ -448,12 +454,6 @@
   level: 7
   lon: -88.251419
   name:  'Lyman Larson Memorial'
-- ap: 4186
-  img:  'http://lh3.ggpht.com/2bCNiD7SWsS3uzFLMO2cZh-LpHUEMQGnfTmcNx5vJapXho2TuXke630-7zop2Sq4fuY8nWVqy4VCG23mvnIJ'
-  lat: 40.104168
-  level: 4
-  lon: -88.238808
-  name:  'Alpha Gamma Rho'
 - ap: 4411
   img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
   lat: 40.099593
@@ -466,6 +466,12 @@
   level: 7
   lon: -88.250864
   name:  'Gabriel Patrick Maxeiner Memorial'
+- ap: 4186
+  img:  'http://lh3.ggpht.com/2bCNiD7SWsS3uzFLMO2cZh-LpHUEMQGnfTmcNx5vJapXho2TuXke630-7zop2Sq4fuY8nWVqy4VCG23mvnIJ'
+  lat: 40.104168
+  level: 4
+  lon: -88.238808
+  name:  'Alpha Gamma Rho'
 - ap: 4411
   img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
   lat: 40.100941
@@ -497,6 +503,12 @@
   lon: -88.281854
   name:  'International Society of Arboriculture'
 - ap: 3848
+  img:  'http://lh4.ggpht.com/UsWzXzHhg7iWYqgGNNqj1XXLWp2Oj6pNxp7R0PwHI8tzNVuJwD2K0KgVwc0BR_9MEu4QalqL6x1cBnT_vz89'
+  lat: 40.108739
+  level: 6
+  lon: -88.268838
+  name:  'New Generation Christian Fellowship Church'
+- ap: 3848
   img:  'http://lh4.ggpht.com/BEyFLhgqk0ySf2zElnARv5eyaQggj_zbHSagW3_DGt9BieScmU4jGPvJCjezTjbiCP-DOJPLPfJ3HhnYAiQLEQ'
   lat: 40.119288
   level: 7
@@ -526,18 +538,6 @@
   level: 5
   lon: -88.287899
   name:  'Greenbelt Bikeway'
-- ap: 3661
-  img:  'http://lh5.ggpht.com/j6Gqd19ib1ziWv7UKoq4_fMXeXtxxdV85TchQ49_mIgeJYs7oUWOj860aB2Ok8NGNY5wNfMqDn7zeSKOgpxEzQ'
-  lat: 40.108781
-  level: 6
-  lon: -88.271694
-  name:  'Champaign Church of Christ'
-- ap: 3661
-  img:  'http://lh4.ggpht.com/UsWzXzHhg7iWYqgGNNqj1XXLWp2Oj6pNxp7R0PwHI8tzNVuJwD2K0KgVwc0BR_9MEu4QalqL6x1cBnT_vz89'
-  lat: 40.108739
-  level: 6
-  lon: -88.268838
-  name:  'New Generation Christian Fellowship Church'
 - ap: 3661
   img:  'http://lh3.ggpht.com/wkPcdDupubV3THJo6r2OpMtshziiIkqBISPTCPe8boa-8nH33u83Mznkr1yYWNR_l60RCy8HO_obqrdNGUI'
   lat: 40.093633
@@ -623,6 +623,12 @@
   lon: -89.694085
   name:  'c604d1508e9c497bb0473a6aaface8c9.16'
 - ap: 3474
+  img:  'http://lh4.ggpht.com/BB4y2ChVuPpmuGW8VPeiAPKr-vWwYdihWvrH0i_WALxPd8wX3j2no0JFEMNK8ndCvXwQzLLabPyRoAfsz5g'
+  lat: 40.101584
+  level: 5
+  lon: -88.270546
+  name:  'Mayfair Park '
+- ap: 3474
   img:  'http://lh4.ggpht.com/u_MtizNv_keIXM4ITgtjqC8nr5JvB8UpDBg_5_08uQDTsQr44mwr6ZlkhTp0iKbvcV9xCJqXDeN66xYWaI0'
   lat: 40.116227
   level: 7
@@ -683,17 +689,17 @@
   lon: -88.2219
   name:  'Foellinger Great Hall'
 - ap: 3474
-  img:  'http://lh6.ggpht.com/j712bbvDknzGlAU87nZA1Bx45Ng-0MGA9Uvuv-3WzIKA3W51mXOZpJ-TzVSbuU3uE2AsJ5wcO7_B6WDpdRr0'
-  lat: 40.110684
-  level: 4
-  lon: -88.226053
-  name:  'BCS Superconductivity Theory Plaque'
-- ap: 3474
   img:  'http://lh3.ggpht.com/pVUYGCf7vsAndVd4vhK_pC9p6e9OvGa4ZiWuZg0ELOFDWptBba4H2N4PNZPjQdHXnV1GQyLTpCXQWDMKDUqn'
   lat: 40.108875
   level: 4
   lon: -88.227835
   name:  'Lion''s Head Planter'
+- ap: 3474
+  img:  'http://lh6.ggpht.com/j712bbvDknzGlAU87nZA1Bx45Ng-0MGA9Uvuv-3WzIKA3W51mXOZpJ-TzVSbuU3uE2AsJ5wcO7_B6WDpdRr0'
+  lat: 40.110684
+  level: 4
+  lon: -88.226053
+  name:  'BCS Superconductivity Theory Plaque'
 - ap: 3474
   img:  'http://lh6.ggpht.com/5FrAAzvYmAM-WLKT5FARCFzegoqjWDbNOkEi5jS2tKCRLbTeSfKuZonDJsFpjSfnQpj_fSJSV6P-msLaTJSk'
   lat: 40.080453
@@ -826,12 +832,6 @@
   level: '?'
   lon: -88.260234
   name:  'e8936d5f39164dab96a8dff5d68bef57.16'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/BB4y2ChVuPpmuGW8VPeiAPKr-vWwYdihWvrH0i_WALxPd8wX3j2no0JFEMNK8ndCvXwQzLLabPyRoAfsz5g'
-  lat: 40.101584
-  level: 5
-  lon: -88.270546
-  name:  'Mayfair Park '
 - ap: 2537
   img:  'http://lh6.ggpht.com/p2F3xw4xL4UdiMM9aSy628ISSglrvjPexpF3j340tMAP9MX07yh_sJv7kHVkeud8lyFf2ZwDohw3zsRS2PSd'
   lat: 40.093914
