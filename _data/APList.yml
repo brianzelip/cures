@@ -137,12 +137,6 @@
   lon: -88.233688
   name:  'University Baptist Church'
 - ap: 6098
-  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
-  lat: 40.100941
-  level: 6
-  lon: -88.251314
-  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
-- ap: 6098
   img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
   lat: 40.100691
   level: 5
@@ -154,6 +148,12 @@
   level: 5
   lon: -88.251747
   name:  'Tennis Anyone'
+- ap: 6098
+  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
+  lat: 40.100941
+  level: 6
+  lon: -88.251314
+  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
 - ap: 6098
   img:  'http://lh4.ggpht.com/B_I1b0Jy3vW41RX8jjCNPP68AULplU0Pf8ddolyKmpEWCfBVShQkmjF1HfTPzDjmBBQGgOs0jHW-rUR0mv8BkA'
   lat: 40.098789
@@ -220,12 +220,24 @@
   level: 6
   lon: -88.234245
   name:  'Stratford House'
+- ap: 4972
+  img:  'http://lh4.ggpht.com/4_MOw_NKr2wZ2lzAzG2FlLtA3tfOfWqBZpNVP43LfN6ilD6qHRfZ-_wA1Xk8BnCqHKqKdqodC70X09pqtNXXqmNtK-uqo-fC9SZyOjT6ERfJorzg'
+  lat: 40.118388
+  level: 7
+  lon: -88.245358
+  name:  'Springer Cultural Center'
 - ap: 4785
   img:  'http://lh4.ggpht.com/j8nn4oxG37YIXPvQKVP6CBbVkveyhoHNg8O8QFxZKgbKVegaP5OdjJl8L8HTjzdBoVKPJIFHmwN26NfE9n4'
   lat: 40.111897
   level: 5
   lon: -88.222485
   name:  'Engineering Student Project Laboratory'
+- ap: 4785
+  img:  'http://lh4.ggpht.com/IZUCSooIdo5qUAG278Al-JEKCRv842M0uDMusE78yaL4p-QCYu2A4UXE6X2jTFemr_w8ZfD6g_lQqjwbdg'
+  lat: 40.109702
+  level: 6
+  lon: -88.227571
+  name:  'The Ray Bulinski Room'
 - ap: 4785
   img:  'http://lh4.ggpht.com/efOG849cf8EKwVLL2BfNKzwBdkrAuNsMeYOZfeR8FYnK3axQJJON0VH191MLBwjJaQ1EeQC9Pt8LMtNI2LEa'
   lat: 40.07718
@@ -280,12 +292,6 @@
   level: 7
   lon: -88.250864
   name:  'Gabriel Patrick Maxeiner Memorial'
-- ap: 4035
-  img:  'http://lh4.ggpht.com/4_MOw_NKr2wZ2lzAzG2FlLtA3tfOfWqBZpNVP43LfN6ilD6qHRfZ-_wA1Xk8BnCqHKqKdqodC70X09pqtNXXqmNtK-uqo-fC9SZyOjT6ERfJorzg'
-  lat: 40.118388
-  level: 7
-  lon: -88.245358
-  name:  'Springer Cultural Center'
 - ap: 3848
   img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
   lat: 40.117976
@@ -305,15 +311,21 @@
   lon: -88.245852
   name:  'Champaign Fire Department'
 - ap: 3661
+  img:  'http://lh5.ggpht.com/KYppjeOoIlb4lbowRrrC5qRdYW7_KU8rzjtDMpvhh-Q_c6VZOTtVmOqmmxChJA2hjlpS5dJ1JnhUQcKUAXDWHA'
+  lat: 40.117976
+  level: 6
+  lon: -88.242642
+  name:  'Stevick Building'
+- ap: 3661
   img:  'http://lh5.ggpht.com/9XV46K2cUd84oc6HPyqlj53LKJS8lVs0f0gPHSCBkkTwiHaxivu36dlAj5M38EzK-2U4xhvZJ7AiVvGM5yk'
   lat: 40.118175
   level: 6
   lon: -88.244562
   name:  'The Russell Building'
-- ap: 3436
+- ap: 3661
   img:  'http://lh4.ggpht.com/_jAAuDi8SO5uupi8JlB3HZaFG40S15izNv_3vqOt7ro2rRHuXrfdEKfEFvRESdAjCEz3RVDpyrxJGSIrju5d'
   lat: 40.117916
-  level: 4
+  level: 6
   lon: -88.243087
   name:  'Sholem Building'
 - ap: 3661
@@ -334,12 +346,6 @@
   level: 4
   lon: -88.234149
   name:  'Alpha Delta Phi Fraternity House'
-- ap: 3361
-  img:  'http://lh4.ggpht.com/IZUCSooIdo5qUAG278Al-JEKCRv842M0uDMusE78yaL4p-QCYu2A4UXE6X2jTFemr_w8ZfD6g_lQqjwbdg'
-  lat: 40.109702
-  level: 3
-  lon: -88.227571
-  name:  'The Ray Bulinski Room'
 - ap: 3661
   img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
   lat: 40.108066
@@ -383,6 +389,12 @@
   lon: -88.245046
   name:  'Eddie Thorpe''s Memorial Rock And Tree'
 - ap: 3474
+  img:  'http://lh3.googleusercontent.com/FMrsRGg4e1AuMu6m4uCIpM5nawtelx8reIfMtog4nuxXU9C7--UKQnUEAm9s4Vc7OfMjfIDX5loNOw4Agz2HAw'
+  lat: 40.118715
+  level: 6
+  lon: -88.242373
+  name:  'Richard D James Mural'
+- ap: 3474
   img:  'http://lh6.ggpht.com/RW34ntixvJkg7fD71TPYo_4KIsBzA0-a-6yXO0jKPbpGxX5gIGC7kBI-pXEF9OHhuolcAGW2fxyK3Pt42Iev'
   lat: 40.110489
   level: 6
@@ -400,6 +412,18 @@
   level: 7
   lon: -88.22862
   name:  'Alma Mater Plaza'
+- ap: 3474
+  img:  'http://lh3.ggpht.com/wOZOXhKOnhbKEPMQke-zGIG_vheDkHM8q19B1n_is5H7t1whBcQxBIGZI6VIPNw8mdCNXG6EUZeSjd1YLdngdg'
+  lat: 40.108965
+  level: 4
+  lon: -88.227184
+  name:  'U of I Mother''s Association Plaque'
+- ap: 3474
+  img:  'http://lh6.ggpht.com/x11pEsOWqn4mqQ-dluGwqiNNwEbwDqcHukghtr3T9OW6zJ-huJiQzN28bQTAJutX0Cf8c-9nJICDcxGXa73y6w'
+  lat: 40.109364
+  level: 5
+  lon: -88.227697
+  name:  'The Diana Fountain'
 - ap: 3474
   img:  'http://lh5.ggpht.com/KQ7QYG8rWnVxSme_uq3cOu8IreZRbztWWKHTNPBy_6GvCqP3ywy-HEoSUxqloLDeUggEVV0UhKLy8Ja0v0yPdQ'
   lat: 40.110844
@@ -436,12 +460,6 @@
   level: 1
   lon: -88.184083
   name:  'Lohmann Park Disc Golf Course'
-- ap: 2911
-  img:  'http://lh5.ggpht.com/KYppjeOoIlb4lbowRrrC5qRdYW7_KU8rzjtDMpvhh-Q_c6VZOTtVmOqmmxChJA2hjlpS5dJ1JnhUQcKUAXDWHA'
-  lat: 40.117976
-  level: 6
-  lon: -88.242642
-  name:  'Stevick Building'
 - ap: 2911
   img:  'http://lh4.ggpht.com/24wGJwnamMm4J20H07gbeT2nN7pTLWHh7lQjuFh6Nn5A67w8dzxKcAOw1_syPiuVU0VxmKs7MvN3FYyD52U_vg'
   lat: 40.112295
@@ -510,6 +528,18 @@
   name:  'Bennet Building'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.482133
+  level: '?'
+  lon: -88.38069
+  name:  'd2fd01da55f7427cb5d7b03e8841bb5a.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.007652
+  level: '?'
+  lon: -88.643898
+  name:  '37d37954416845b78adb14b60ac64119.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.279711
   level: '?'
   lon: -88.346869
@@ -544,18 +574,6 @@
   level: '?'
   lon: -87.609873
   name:  '93a1b13c02d04db99ebaf46f118bef83.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.482133
-  level: '?'
-  lon: -88.38069
-  name:  'd2fd01da55f7427cb5d7b03e8841bb5a.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.007652
-  level: '?'
-  lon: -88.643898
-  name:  '37d37954416845b78adb14b60ac64119.16'
 - ap: 2537
   img:  'http://lh3.ggpht.com/NfT2lF-sDianTwLMh0ZBNPZJd2GwFyVqBX9dYM60Ql-AgN58IA8dbfX2J1dT72YJPSDbyqB16mie75kI--nG'
   lat: 40.094327
@@ -593,6 +611,18 @@
   lon: -88.24558
   name:  'The Gregory'
 - ap: 2537
+  img:  'http://lh6.ggpht.com/3dciax4v-S3OKvaO4a0G1H6yuvp2pnzFQjCsu-OOQlDP45Xh_c19QLwzEh4YixwMVCCk9396VC26HkZpcaDX'
+  lat: 40.069362
+  level: 5
+  lon: -88.252978
+  name:  'Skateland'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/dpsEP8PFhsghyhulqyixJWOBciNBQP3X10g1YPnE63hnUhWZvxZBXplQAcjQI71ddCRWVkuJ8Af_AIfDpGnF'
+  lat: 40.086929
+  level: 4
+  lon: -88.263899
+  name:  'Dan Morrissey Park'
+- ap: 2537
   img:  'http://lh6.ggpht.com/p2F3xw4xL4UdiMM9aSy628ISSglrvjPexpF3j340tMAP9MX07yh_sJv7kHVkeud8lyFf2ZwDohw3zsRS2PSd'
   lat: 40.093914
   level: 5
@@ -622,12 +652,6 @@
   level: 7
   lon: -88.248086
   name:  'The Hartford'
-- ap: 2537
-  img:  'http://lh3.googleusercontent.com/FMrsRGg4e1AuMu6m4uCIpM5nawtelx8reIfMtog4nuxXU9C7--UKQnUEAm9s4Vc7OfMjfIDX5loNOw4Agz2HAw'
-  lat: 40.118715
-  level: 6
-  lon: -88.242373
-  name:  'Richard D James Mural'
 - ap: 2537
   img:  'http://lh5.ggpht.com/hjAc940kWyt9QT4G_BJyJKaTef3jL_Njnm8ubUtQD7u6qVsD9_7TiJbgZpKeqAv60kNw8FYspVxkn-Bt1cxYBw'
   lat: 40.109959
@@ -688,18 +712,6 @@
   level: 5
   lon: -88.226537
   name:  'Fire College Plaque'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/x11pEsOWqn4mqQ-dluGwqiNNwEbwDqcHukghtr3T9OW6zJ-huJiQzN28bQTAJutX0Cf8c-9nJICDcxGXa73y6w'
-  lat: 40.109364
-  level: 4
-  lon: -88.227697
-  name:  'The Diana Fountain'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/wOZOXhKOnhbKEPMQke-zGIG_vheDkHM8q19B1n_is5H7t1whBcQxBIGZI6VIPNw8mdCNXG6EUZeSjd1YLdngdg'
-  lat: 40.108965
-  level: 4
-  lon: -88.227184
-  name:  'U of I Mother''s Association Plaque'
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/XQb7KWjSJlhbfrYsW2727_AeRoEQ5BbG0fRTTY5js_4zRdArbiRhCRkXunVa81rQpk9yX4RB6x1dV97DnYN7'
   lat: 40.104722
