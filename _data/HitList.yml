@@ -6,19 +6,19 @@
   mus: 205
   name:  'Marketplace Mall Carousel'
 - fields: 7
-  img:  'http://lh6.ggpht.com/ytlRYKlqnchcFvl3QEN1XknYcwYKIjohz4qzWW8SmhDi5mypBmgPbf9e4ghZWMZY5gpD9HIyalemSKsIzyA'
-  lat: 40.11408
-  level: 6
-  lon: -88.245852
-  mus: 90
-  name:  'Champaign Fire Department'
-- fields: 7
   img:  'http://lh3.ggpht.com/LR76HrJqriPFUoc2XSs7jb2SotnStZv20kI7rgUx8B5HqhmetnTW4MA1tCp1ws4g5gw0sf9g7M3Lwq4VwfpD'
   lat: 40.111687
   level: 5
   lon: -88.225353
   mus: 53
   name:  'Transportation Building - University Of Illinois'
+- fields: 4
+  img:  'http://lh3.ggpht.com/9aQBG-poFARclK9XL7iFIvWePkawZwWhv4Sh0zQhQ0Sy9gdDD508d4gCtpcUP9UNoYM6uztea0aQ05RPd9rZLg'
+  lat: 40.115412
+  level: 6
+  lon: -88.245046
+  mus: 44
+  name:  'Eddie Thorpe''s Memorial Rock And Tree'
 - fields: 6
   img:  'http://lh6.ggpht.com/yYW6Egg1lWn6UqqLzlgqwCQhtbuxiZSW4TmvI1XBPs33OTTJ0oh51XZXOIILxGI2juoO-E_YfG5UHmeb34rSOw'
   lat: 40.109165
@@ -26,13 +26,6 @@
   lon: -88.230269
   mus: 38
   name:  'John Street Plaque'
-- fields: 5
-  img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
-  lat: 40.11784
-  level: 6
-  lon: -88.24286
-  mus: 33
-  name:  'Kaufman Memorial'
 - fields: 7
   img:  'http://lh3.googleusercontent.com/FMrsRGg4e1AuMu6m4uCIpM5nawtelx8reIfMtog4nuxXU9C7--UKQnUEAm9s4Vc7OfMjfIDX5loNOw4Agz2HAw'
   lat: 40.118715
@@ -47,6 +40,13 @@
   lon: -88.226875
   mus: 28
   name:  'Grainger Engineering Library - William W. Grainger Medallion'
+- fields: 4
+  img:  'http://lh6.ggpht.com/ytlRYKlqnchcFvl3QEN1XknYcwYKIjohz4qzWW8SmhDi5mypBmgPbf9e4ghZWMZY5gpD9HIyalemSKsIzyA'
+  lat: 40.11408
+  level: 6
+  lon: -88.245852
+  mus: 25
+  name:  'Champaign Fire Department'
 - fields: 3
   img:  'http://lh5.ggpht.com/dEeT4acpLu-WQFlZWd3psap5qAqqPTSVzm8Qt1QtpqtwZ0j1V9eKFcmpgN9K_x1PL4XVchuevw25rxHekz3tvQ'
   lat: 40.111968
@@ -64,7 +64,7 @@
 - fields: 4
   img:  'http://lh4.ggpht.com/2tHD_AHYQu0kWuwLX2HMYWBG4txVkuWsBEfzWLL39npWp8kMSHiUKxSJM1E7yhimuMVUJ-RIlSSKsgjETvtr'
   lat: 40.110524
-  level: 7
+  level: 5
   lon: -88.228706
   mus: 16
   name:  'Leo Roy Tehon Memorial'
@@ -89,20 +89,13 @@
   lon: -88.245285
   mus: 10
   name:  'The Little Brick Memorial'
-- fields: 6
-  img:  'http://lh4.ggpht.com/Iz-O9-kJLlEdRO9osaqkCvLRsSNF24c95jHG0lhtE95b99-cC2bKuCEiznIs1-ytpoCITEwQ7s5VuyURgrpM'
-  lat: 40.117288
+- fields: 5
+  img:  'http://lh4.ggpht.com/_jAAuDi8SO5uupi8JlB3HZaFG40S15izNv_3vqOt7ro2rRHuXrfdEKfEFvRESdAjCEz3RVDpyrxJGSIrju5d'
+  lat: 40.117916
   level: 7
-  lon: -88.248506
-  mus: 8
-  name:  'Prayer for Rain  Fountain'
-- fields: 6
-  img:  'http://lh6.ggpht.com/NXptd9bdifQT6cVxz-SPGUsryPaznp8rV3omDk0J50MnN5Mmu6oiYNa0FXIgG8FnFreUVsSPzRvQNZXYcO6G'
-  lat: 40.11817
-  level: 5
-  lon: -88.249381
-  mus: 6
-  name:  'Bicentennial Tree'
+  lon: -88.243087
+  mus: 5
+  name:  'Sholem Building'
 - fields: 3
   img:  'http://lh3.ggpht.com/Prv8wUbEpOsrluZ4pHXYwIQLreDfbvMRV7kMb39yXob8h_r5vXNRC-wSR6pi-2NeP0uIRJsaeWtsGe96cJ_U'
   lat: 40.112295
@@ -110,27 +103,6 @@
   lon: -88.207196
   mus: 5
   name:  'War Memorial @ Downtown Urbana'
-- fields: 7
-  img:  'http://lh3.ggpht.com/l6drxc16dn91XarTz8Tkkeerjhu28Hf3x7nh-pHe05BLyOA6fuV75A5gB8UdUNt3cRN_eXIHmTE8c5Ypvcw'
-  lat: 40.117248
-  level: 5
-  lon: -88.249929
-  mus: 5
-  name:  '"Tootsie" at West Side Park'
-- fields: 3
-  img:  'http://lh4.ggpht.com/_jAAuDi8SO5uupi8JlB3HZaFG40S15izNv_3vqOt7ro2rRHuXrfdEKfEFvRESdAjCEz3RVDpyrxJGSIrju5d'
-  lat: 40.117916
-  level: 7
-  lon: -88.243087
-  mus: 4
-  name:  'Sholem Building'
-- fields: 3
-  img:  'http://lh4.ggpht.com/kikXgFanbehTzblqLlN2WzEcVgfnP2HD4JE7GI1GOKTu44g13lknkSsdu9prj71y0zKIBFJv_0RIkFW3vXY'
-  lat: 40.117574
-  level: 6
-  lon: -88.247603
-  mus: 4
-  name:  'Travis Marmion Memorial Tree'
 - fields: 4
   img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
   lat: 40.100822
@@ -152,27 +124,6 @@
   lon: -88.227697
   mus: 4
   name:  'The Diana Fountain'
-- fields: 2
-  img:  'http://lh3.googleusercontent.com/4ZghmANMiPJhVcpWuH3M3D6jgFGSDn0QH-VAP5olDzQjucfxwHFo8-1DsCSQhVV-YaTWMvC1pVwqWdnjVs8'
-  lat: 40.117215
-  level: 7
-  lon: -88.245551
-  mus: 3
-  name:  'The Virginia Theater'
-- fields: 3
-  img:  'http://lh5.ggpht.com/c-upLAoA6V12_Enn5doC2Hqtp3W9dLMIb34VHt0aVni2lW2OF5Lddn2c-1XcxmmaN7um9eyxqOF5c3c0hs4'
-  lat: 40.118139
-  level: 5
-  lon: -88.248407
-  mus: 3
-  name:  'The Americans Creed'
-- fields: 3
-  img:  'http://lh4.ggpht.com/5E71LpfYxV2zsihdsTCShjy9NN6ksITFjXz6GSYwP8EKVJEuhrWOJKGGr6nfCT99QLgs4K6HHrqQn6ta1Vw'
-  lat: 40.117349
-  level: 5
-  lon: -88.24917
-  mus: 2
-  name:  'Ruth Whitney Memorial Plaque'
 - fields: 5
   img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
   lat: 40.098246
@@ -187,13 +138,13 @@
   lon: -88.226053
   mus: 2
   name:  'BCS Superconductivity Theory Plaque'
-- fields: 4
-  img:  'http://lh3.ggpht.com/5iH9kzVECg-dsKRPYTzLzAT5eoYnDhGrcJB1N-hLShal9eEun1_Ml0oFX2c42cGNjKj8-yvsEnUn2j4C_90'
-  lat: 40.11792
-  level: 5
-  lon: -88.249845
+- fields: 2
+  img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
+  lat: 40.11784
+  level: 6
+  lon: -88.24286
   mus: 2
-  name:  'Thomas R. Sandrock'
+  name:  'Kaufman Memorial'
 - fields: 1
   img:  'http://lh4.ggpht.com/OFVPvdgB3GVpaQknHdnt2okgP3xcQksAH3wvOGYVuP85MMlxo3bQ2SRpBb0hzNfjQoC_5LlRqaE6jLB-h9Gr'
   lat: 40.108092
@@ -222,20 +173,6 @@
   lon: -88.250864
   mus: 2
   name:  'Gabriel Patrick Maxeiner Memorial'
-- fields: 1
-  img:  'http://lh5.ggpht.com/I3HJjY6jOYl6ivwUaejRmReBjka9NyCW1ufaILf7cfo4VGwjX6kNB9J6PlIZCBIuTfI1jb9arxjssMTa_hisxr2ObqDCJ55lCxXFccxme5erNEY2_g'
-  lat: 40.116859
-  level: 5
-  lon: -88.249043
-  mus: 1
-  name:  'Bilbrey Bandstand'
-- fields: 1
-  img:  'http://lh6.ggpht.com/ka79B_ahK9kHLiOCOnKsp3SooZlPGgMuIOO25OaqPU7eoUALOBzaa40ZCStdo4v6rCYW0VS_pNgW3PJyUDKxpXI-n55zohIxJwRJEq5gslJKwS5ykQ'
-  lat: 40.11794
-  level: 5
-  lon: -88.248679
-  mus: 1
-  name:  'Fonderia'
 - fields: 1
   img:  'http://lh6.ggpht.com/35D1iNCRAADuyy_GrWImGD5u1E_gkdUiJI83zQVCutDNjvgnUMGoJSO5VofyLxsFNKiseGy32YeDyRTB6lqi0Q'
   lat: 40.112333
