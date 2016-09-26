@@ -1,17 +1,10 @@
-- fields: 4
+- fields: 2
   img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
   lat: 40.115838
   level: 7
   lon: -88.241338
-  mus: 164
+  mus: 57
   name:  'Illinois Terminal'
-- fields: 4
-  img:  'http://lh5.ggpht.com/dgQfoxxVeHT5ODqLiUYHV45qvkC_BMS0kIFRqvHvE2GO0TduZ0-XzhW8RE80LtPDK0Ay5xwA6PtjM7G3C9U8'
-  lat: 40.108947
-  level: 6
-  lon: -88.232251
-  mus: 63
-  name:  'McKinley Church'
 - fields: 6
   img:  'http://lh5.ggpht.com/dEeT4acpLu-WQFlZWd3psap5qAqqPTSVzm8Qt1QtpqtwZ0j1V9eKFcmpgN9K_x1PL4XVchuevw25rxHekz3tvQ'
   lat: 40.111968
@@ -26,6 +19,13 @@
   lon: -88.227781
   mus: 21
   name:  'Electrical & Computer Engineering Building'
+- fields: 4
+  img:  'http://lh4.ggpht.com/d3UqrcK5M1wuOe19dIaBUOkrXF4C9IxhOWfxqzM4zIHkGsUIRb1mckNapOMRkkCtVIe0rzJumb1OVDVc1_Y'
+  lat: 40.108055
+  level: 6
+  lon: -88.233688
+  mus: 16
+  name:  'University Baptist Church'
 - fields: 10
   img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
   lat: 40.100936
@@ -61,13 +61,13 @@
   lon: -88.25211
   mus: 8
   name:  'First Church of Christ, Scientist'
-- fields: 3
-  img:  'http://lh4.ggpht.com/OFVPvdgB3GVpaQknHdnt2okgP3xcQksAH3wvOGYVuP85MMlxo3bQ2SRpBb0hzNfjQoC_5LlRqaE6jLB-h9Gr'
-  lat: 40.108092
-  level: 6
-  lon: -88.234589
-  mus: 6
-  name:  'Koinonia Plaque'
+- fields: 4
+  img:  'http://lh6.ggpht.com/hf2-XzERtSQhHYqpfkmEoUelpEes9pxtJ5gINRWSZ6NTzyKQI3lTEEq-UDBSvbmADpUd1ScID47hMvXgmHo'
+  lat: 40.111432
+  level: 5
+  lon: -88.207259
+  mus: 8
+  name:  'US Post Office'
 - fields: 4
   img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
   lat: 40.100822
@@ -78,7 +78,7 @@
 - fields: 1
   img:  'http://lh6.ggpht.com/C7ThuP5fwrDTu5cMDpoeGmRjotNh6eUnPf3ksvSsUj5NkHZ0yKbIUnF8cSikhX-I_7O42CTwqjhLq9z3jkIL'
   lat: 40.111844
-  level: 4
+  level: 6
   lon: -88.228609
   mus: 4
   name:  'Talbot Labs '
@@ -89,6 +89,13 @@
   lon: -88.251974
   mus: 3
   name:  'Hessel Park'
+- fields: 1
+  img:  'http://lh4.ggpht.com/OFVPvdgB3GVpaQknHdnt2okgP3xcQksAH3wvOGYVuP85MMlxo3bQ2SRpBb0hzNfjQoC_5LlRqaE6jLB-h9Gr'
+  lat: 40.108092
+  level: 6
+  lon: -88.234589
+  mus: 2
+  name:  'Koinonia Plaque'
 - fields: 1
   img:  'http://lh5.ggpht.com/oCw3ZC6UKF3aiK6dkbz72dhzUsJNhOmfVjVsXJET_YP5e1p53pLTa8Dep24gLqeY9FghWE0kaAB64vvn7nq0'
   lat: 40.105008
@@ -138,3 +145,10 @@
   lon: -88.223672
   mus: 1
   name:  'Music Building'
+- fields: 1
+  img:  'http://lh3.ggpht.com/Prv8wUbEpOsrluZ4pHXYwIQLreDfbvMRV7kMb39yXob8h_r5vXNRC-wSR6pi-2NeP0uIRJsaeWtsGe96cJ_U'
+  lat: 40.112295
+  level: 5
+  lon: -88.207196
+  mus: 1
+  name:  'War Memorial @ Downtown Urbana'
