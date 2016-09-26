@@ -519,7 +519,7 @@
 - fields: 4
   img:  'http://lh3.ggpht.com/fALAYK0M4imvlOA0vpJd8uOXpb0SvXft0NJmoF1vWieQ3g-Ps3CF7wgfjFiy1v81v26SbN5Rquo5697dHPPT'
   lat: 40.083666
-  level: 6
+  level: 7
   lon: -88.296083
   mus: 96
   name:  'Village at the Crossing Tower'
@@ -673,7 +673,7 @@
 - fields: 2
   img:  'http://lh5.ggpht.com/_eMBd3V1rEFztJvtBkssKVH7eM-jiU3l9VJJ-kj6SxGZMx_7Qo6G4yjfsws8T1FhIEFwk7yvoicm8XTVERh4'
   lat: 40.084405
-  level: 5
+  level: 6
   lon: -88.297963
   mus: 62
   name:  'Mount Sinai Temple'
@@ -1132,13 +1132,6 @@
   lon: -88.239616
   mus: 9
   name:  'Praying Mantis'
-- fields: 3
-  img:  'http://lh6.ggpht.com/PXNfY-rn4cS8Fcr7CkJnEI5-vb_hCYxTX_9VV9jNB78yHB-EjmmsP8_EiqK-icwqTxu2iRtDoSbBRCLanerX'
-  lat: 40.110685
-  level: 7
-  lon: -88.206243
-  mus: 9
-  name:  'Lincoln Square Fountain'
 - fields: 2
   img:  'http://lh5.ggpht.com/66S0h0KtQgEkBk3cEFIwsuX-gQRN4MlpAiUVMDd1Wu9p_OVTUxuDF6WcaoAwETeEQka1hyd6WhQ-qndZlg5Sng'
   lat: 40.091249
@@ -1223,6 +1216,13 @@
   lon: -88.250539
   mus: 6
   name:  'Hessel Park'
+- fields: 2
+  img:  'http://lh6.ggpht.com/PXNfY-rn4cS8Fcr7CkJnEI5-vb_hCYxTX_9VV9jNB78yHB-EjmmsP8_EiqK-icwqTxu2iRtDoSbBRCLanerX'
+  lat: 40.110685
+  level: 7
+  lon: -88.206243
+  mus: 5
+  name:  'Lincoln Square Fountain'
 - fields: 4
   img:  'http://lh5.ggpht.com/3t7XZHqwxLZ8Lc9YomR8FInm74U2PAA-DBk8kmdxXIrcXbKa1CoBDTlgdDJeO-_yVT3qNKRnNLzbdil1eH41iA'
   lat: 40.09935
@@ -1314,20 +1314,6 @@
   lon: -88.314568
   mus: 5
   name:  'Sunset Ridge Park'
-- fields: 3
-  img:  'http://lh4.ggpht.com/g8tAznMB64NxNMd4eYtF27DhNprtAqnBEt_llGcKp1qpKQeUvyHBi8p5QuGURqAGieaeJscmQPi6Wosmutg'
-  lat: 40.111328
-  level: 4
-  lon: -88.209207
-  mus: 5
-  name:  'Urbana Free Library'
-- fields: 3
-  img:  'http://lh3.googleusercontent.com/I_CYGgoX5eWayBRAI_2QSZUA1sSjZM3mwS0L3JE6acDTyw7LZwi2Ba9dvUiI3pCqHTC_bfEtRl1xYh1JpY2x'
-  lat: 40.111109
-  level: 6
-  lon: -88.209451
-  mus: 5
-  name:  'Stack of Books Statue'
 - fields: 1
   img:  'http://lh6.ggpht.com/453A5_wF0LdRJVZ1XnGIiUxghQgaxxiiv105HgvefLvU1eXqU6MLfIs0sLt0LGyVMugGuMvm0AKXq91t2sxZGEV2kNlMux2B3vOeFxvmUX2SQLUm'
   lat: 40.100927
@@ -1602,13 +1588,6 @@
   mus: 1
   name:  'Mahomet Area Community Center'
 - fields: 1
-  img:  'http://lh5.ggpht.com/gzRmKQixkcp4cu1yDSKAOq_7_ipKvFWUCHT7BfpjE6VSSAq7Q08JJGg_jt4FCMWU3ie65fwweNlj4n6dg1aQIA'
-  lat: 40.111419
-  level: 5
-  lon: -88.209885
-  mus: 1
-  name:  'Megan''s Garden'
-- fields: 1
   img:  'http://lh3.ggpht.com/O6KWMS3yeRHd2EWk2OjTB00RVhM_Qhb2N2cDdMTObRRym9RV_RKbca6MkCx6JKPdqJgFoetXy0BR1jWxjvZ15g'
   lat: 40.096357
   level: 7
@@ -1671,13 +1650,6 @@
   lon: -88.210927
   mus: 1
   name:  'Crystal Lake Park'
-- fields: 1
-  img:  'http://lh6.ggpht.com/6yxAmr2FjIBpCnPpjbRv2_ffdjnZXpB2FX2OgDLnFT0Oay8HbNuXBErpWWje-HkjfKlf0OugYI9CAtbUcgPsA0B7aD9He4jy7otGJ1mBkF_9NwAA'
-  lat: 40.111099
-  level: 5
-  lon: -88.209036
-  mus: 1
-  name:  'Ibidem Statue'
 - fields: 1
   img:  'http://lh6.ggpht.com/X4iXokslnWFDeqwj8O471yVpY1yt3JaXPzv5dxVokmSQVqso_Ouz7xzlKgu986CiYn1RE6zBANqvPf2F3-fjPA'
   lat: 40.103188
