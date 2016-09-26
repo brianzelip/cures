@@ -232,7 +232,7 @@
 - fields: 8
   img:  'http://lh5.ggpht.com/H3lz_PbTP4RFYuRMUyZuMouxslODKZQ3RjFiZrITFZcpj2FuEb1K2VVlveQtOyUHG2rYZ114AGuGqK4rATI5jg'
   lat: 40.097868
-  level: 6
+  level: 7
   lon: -88.242344
   mus: 378
   name:  'Campus Information Booth '
@@ -460,13 +460,6 @@
   lon: -88.226962
   mus: 134
   name:  'Mount Hope'
-- fields: 10
-  img:  'http://lh3.ggpht.com/R3skA_zNDTXP9NfdUIB9j7cOpSKo7-iKXHX1WzPcl8wmPKII84LwCLSADJDdEHEq7GIDwfE1THFMg6nPD7Py0Q'
-  lat: 40.104098
-  level: 6
-  lon: -88.221178
-  mus: 132
-  name:  'Allen Residence Hall Unit One'
 - fields: 3
   img:  'http://lh6.ggpht.com/tenpgw5pr4OCsrdIgmmHP_sx4RHH2ywHdbNxw556d5JpHC4u64HFYqCdRSeAJgfTN_7BcUv11v8NtBdlaUV8'
   lat: 40.100717
@@ -502,6 +495,13 @@
   lon: -88.270121
   mus: 115
   name:  'Mayfair Park'
+- fields: 9
+  img:  'http://lh3.ggpht.com/R3skA_zNDTXP9NfdUIB9j7cOpSKo7-iKXHX1WzPcl8wmPKII84LwCLSADJDdEHEq7GIDwfE1THFMg6nPD7Py0Q'
+  lat: 40.104098
+  level: 6
+  lon: -88.221178
+  mus: 114
+  name:  'Allen Residence Hall Unit One'
 - fields: 3
   img:  'http://lh3.ggpht.com/_CmMOfi2PqTv1S_kKyTIXg3gslk5AbH-pFLizpe8WbXoFdbGuJr3TPxjhKMQ-S_aFIIqHqtyZcTahtz_9DVe'
   lat: 40.105857
@@ -530,12 +530,12 @@
   lon: -88.291684
   mus: 106
   name:  'Anna Jean Russell Memorial Tree'
-- fields: 4
+- fields: 5
   img:  'http://lh6.ggpht.com/n_LMwtvxbWlYfCgK6MerzbQVpmDR9rqxJUrEnA8OAeCIYBi6zbeLqYCldCtXZDSV1IHsYOpgoO60Od3TGJ3h'
   lat: 40.103207
   level: 6
   lon: -88.224601
-  mus: 102
+  mus: 103
   name:  'Darrell A. Miller Memorial Tree'
 - fields: 4
   img:  'http://lh3.ggpht.com/fALAYK0M4imvlOA0vpJd8uOXpb0SvXft0NJmoF1vWieQ3g-Ps3CF7wgfjFiy1v81v26SbN5Rquo5697dHPPT'
@@ -838,20 +838,6 @@
   lon: -88.260295
   mus: 33
   name:  'Willis Park'
-- fields: 4
-  img:  'http://lh4.ggpht.com/YCJnxuMsSs6lLn7vcBFVH6H2GT4I6LBrYLND5MlgY0qXgcTqxN7kKceFSMO3J8URkRBQyXOMtgosb78QK3iA'
-  lat: 40.104011
-  level: 7
-  lon: -88.223687
-  mus: 32
-  name:  'ERML'
-- fields: 2
-  img:  'http://lh5.ggpht.com/lagLH-yy6la5yqn0YoNwS7uxRSPXDfSP2QwvgnDmG-ZcaxqMNKYlASfYjw50kzq9GOOJ-0nmAa-3IlmGe-A'
-  lat: 40.105777
-  level: 6
-  lon: -88.222002
-  mus: 32
-  name:  'Preschool Learning Plaque'
 - fields: 6
   img:  'http://lh4.ggpht.com/bvexSRw3puopRRWV-oeMjABzIyeoMnq-cfPI4mL06BwdsQKA-9vvssZqs5jA5GWGkPNXXd6N2WVG_yxCB7Tf2A'
   lat: 40.100071
@@ -1028,6 +1014,13 @@
   mus: 16
   name:  'Mark L. Rambow Memorial'
 - fields: 3
+  img:  'http://lh4.ggpht.com/YCJnxuMsSs6lLn7vcBFVH6H2GT4I6LBrYLND5MlgY0qXgcTqxN7kKceFSMO3J8URkRBQyXOMtgosb78QK3iA'
+  lat: 40.104011
+  level: 7
+  lon: -88.223687
+  mus: 15
+  name:  'ERML'
+- fields: 3
   img:  'http://lh5.ggpht.com/uICg1AgxErKugaXSVrAGclLigtqDUyOsaOIldV_S086SuGvckMN90PIxdZehZMktOsdxW3Ok9k7Hcx5UJSd9ZA'
   lat: 40.102217
   level: 3
@@ -1041,6 +1034,13 @@
   lon: -88.239353
   mus: 15
   name:  'U.S. Representative Memorial'
+- fields: 1
+  img:  'http://lh5.ggpht.com/lagLH-yy6la5yqn0YoNwS7uxRSPXDfSP2QwvgnDmG-ZcaxqMNKYlASfYjw50kzq9GOOJ-0nmAa-3IlmGe-A'
+  lat: 40.105777
+  level: 3
+  lon: -88.222002
+  mus: 14
+  name:  'Preschool Learning Plaque'
 - fields: 11
   img:  'http://lh6.ggpht.com/YVbqGVTjJuDMDdj71CP2mWvnUIdgO25PgoDdJwEGnEE_M9I1aDgKyjSr9JOZVU6UQTZQtfUo9RAWyz92n3jtCQ'
   lat: 40.098475
@@ -1062,6 +1062,13 @@
   lon: -88.281892
   mus: 13
   name:  'Fluid Event Center'
+- fields: 4
+  img:  'http://lh3.ggpht.com/rKv-1aQyD3_EmYdZWG7vYw8cs8J89rZ6nFgr0tzEY9dFNyVdXpy1qOnHT434i_rN90x2ZakG3V5iyZUlXFogwA'
+  lat: 40.103623
+  level: 6
+  lon: -88.22503
+  mus: 12
+  name:  'Dancing Horse Metalwork Art'
 - fields: 5
   img:  'http://lh6.ggpht.com/n0f7lyo15OzZn5IJHsohIGAA58iioentPZGEY4zeMZCCoX4GjEEkqfaTCIbrx9OnezriThnbFV14kYcwKTgL1g'
   lat: 40.098444
@@ -1076,13 +1083,6 @@
   lon: -88.249879
   mus: 11
   name:  'Hessel Park'
-- fields: 3
-  img:  'http://lh3.ggpht.com/rKv-1aQyD3_EmYdZWG7vYw8cs8J89rZ6nFgr0tzEY9dFNyVdXpy1qOnHT434i_rN90x2ZakG3V5iyZUlXFogwA'
-  lat: 40.103623
-  level: 6
-  lon: -88.22503
-  mus: 10
-  name:  'Dancing Horse Metalwork Art'
 - fields: 3
   img:  'http://lh4.ggpht.com/GcCZ7JTzkEHTZnUWfpUgibDh2Wa4nzGM9-k13AG4I2RwFiPa6exz1vCzj7Hwvf_oPwJvYJt0xoRE6GZXmCMX'
   lat: 40.132625
@@ -1265,6 +1265,13 @@
   lon: -88.290525
   mus: 5
   name:  'Fish Chimes at Kaufman Lake'
+- fields: 2
+  img:  'http://lh6.ggpht.com/d3068_HH4kAsh9kxo297VuXrwXdEYfoWcAyI4E1L1NUJ_ejlCSm3X3-ofVYUFWr_F6qyLbalwQ6Fj_SqGEFM'
+  lat: 40.104256
+  level: 6
+  lon: -88.226519
+  mus: 5
+  name:  'The Morrow Plots'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.194212
@@ -1349,13 +1356,6 @@
   lon: -88.221381
   mus: 4
   name:  'McKinley Fountain'
-- fields: 1
-  img:  'http://lh6.ggpht.com/d3068_HH4kAsh9kxo297VuXrwXdEYfoWcAyI4E1L1NUJ_ejlCSm3X3-ofVYUFWr_F6qyLbalwQ6Fj_SqGEFM'
-  lat: 40.104256
-  level: 6
-  lon: -88.226519
-  mus: 4
-  name:  'The Morrow Plots'
 - fields: 3
   img:  'http://lh3.ggpht.com/nGhmCwJD6bTZSD4fk-6vnaRZfPq8CI7zLMEDuUZFl7no1ZUFie42aJKdxr5r-212vPk5feGwGFfkMrb_IBc'
   lat: 40.195177
