@@ -83,12 +83,6 @@
   lon: -88.250683
   name:  'Brian Clark Memorial Plaque'
 - ap: 6098
-  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
-  lat: 40.100941
-  level: 8
-  lon: -88.251314
-  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
-- ap: 6098
   img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
   lat: 40.100691
   level: 7
@@ -100,6 +94,12 @@
   level: 8
   lon: -88.251747
   name:  'Tennis Anyone'
+- ap: 6098
+  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
+  lat: 40.100941
+  level: 8
+  lon: -88.251314
+  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
 - ap: 6098
   img:  'http://lh3.ggpht.com/G1CvGhpethi5UmprDWxZN9rTblHa3anSsQz1UPgJtkREkfN7lDFoxFObst0609Cg5mofuZxJKr0ddNKhY4VL'
   lat: 40.098464
@@ -131,17 +131,17 @@
   lon: -88.228735
   name:  'End Caps Sculpture at ECE'
 - ap: 5535
-  img:  'http://lh5.ggpht.com/d1PrlCV_34E6p3knWKIG9iinFOOtMcApC_VC0BAtd_9RxZUgAzjzEmpDg3EQUC-i4MxVNvfPQIoZqYdwC48_'
-  lat: 40.112278
-  level: 5
-  lon: -88.206724
-  name:  'Urbana''s Lincoln'
-- ap: 5535
   img:  'http://lh3.ggpht.com/Prv8wUbEpOsrluZ4pHXYwIQLreDfbvMRV7kMb39yXob8h_r5vXNRC-wSR6pi-2NeP0uIRJsaeWtsGe96cJ_U'
   lat: 40.112295
   level: 5
   lon: -88.207196
   name:  'War Memorial @ Downtown Urbana'
+- ap: 5535
+  img:  'http://lh5.ggpht.com/d1PrlCV_34E6p3knWKIG9iinFOOtMcApC_VC0BAtd_9RxZUgAzjzEmpDg3EQUC-i4MxVNvfPQIoZqYdwC48_'
+  lat: 40.112278
+  level: 5
+  lon: -88.206724
+  name:  'Urbana''s Lincoln'
 - ap: 5348
   img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
   lat: 40.098688
@@ -359,18 +359,6 @@
   lon: -88.25211
   name:  'First Church of Christ, Scientist'
 - ap: 3474
-  img:  'http://lh3.ggpht.com/LunaMtSKD9yiLQClolDY-Iqh0ENm9AgJdL4D1QxGs0j6TXPgqxDZea35x5ilAfeI5_0TGh5x1q1EqRsJsLFi'
-  lat: 40.114111
-  level: 7
-  lon: -88.243697
-  name:  'Champaign Surplus'
-- ap: 3474
-  img:  'http://lh6.ggpht.com/o-Si4_DCq7Qwa_fFJhaTZ0-zCScbl7wDS4PHIFGMbnP9TuPVe9ZauXV3lAreyYvxN7B7n8mlrOR2SsPzXmU'
-  lat: 40.115703
-  level: 5
-  lon: -88.239504
-  name:  'Chester Street Bar'
-- ap: 3474
   img:  'http://lh4.ggpht.com/4_MOw_NKr2wZ2lzAzG2FlLtA3tfOfWqBZpNVP43LfN6ilD6qHRfZ-_wA1Xk8BnCqHKqKdqodC70X09pqtNXXqmNtK-uqo-fC9SZyOjT6ERfJorzg'
   lat: 40.118388
   level: 5
@@ -382,6 +370,18 @@
   level: 5
   lon: -88.245551
   name:  'The Virginia Theater'
+- ap: 3474
+  img:  'http://lh3.ggpht.com/LunaMtSKD9yiLQClolDY-Iqh0ENm9AgJdL4D1QxGs0j6TXPgqxDZea35x5ilAfeI5_0TGh5x1q1EqRsJsLFi'
+  lat: 40.114111
+  level: 7
+  lon: -88.243697
+  name:  'Champaign Surplus'
+- ap: 3474
+  img:  'http://lh6.ggpht.com/o-Si4_DCq7Qwa_fFJhaTZ0-zCScbl7wDS4PHIFGMbnP9TuPVe9ZauXV3lAreyYvxN7B7n8mlrOR2SsPzXmU'
+  lat: 40.115703
+  level: 5
+  lon: -88.239504
+  name:  'Chester Street Bar'
 - ap: 3474
   img:  'http://lh4.ggpht.com/AC0e3VVFenyh_tf4lpcee6alCTlto3O4cqychnUlTFCiLaMi6RUVh6BAC1-pjf7f7foTLFALejQiRxf1kKtS'
   lat: 40.104417
@@ -508,6 +508,18 @@
   level: '?'
   lon: -88.34467
   name:  '4559bb0f45f9470b8b155f0f3b6c9056.12'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.530733
+  level: '?'
+  lon: -89.632712
+  name:  '2449c11788024e6c9818e19c63b176dc.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.887264
+  level: '?'
+  lon: -89.596875
+  name:  '94ffe1b9ba704ce6923cea4d1803e1ef.11'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 39.986025
