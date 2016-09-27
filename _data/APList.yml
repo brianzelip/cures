@@ -185,12 +185,6 @@
   lon: -88.250864
   name:  'Gabriel Patrick Maxeiner Memorial'
 - ap: 4411
-  img:  'http://lh3.ggpht.com/2WMtYMnBjTlw-gPK9quwjMde6Heie7SQHCZT41kPiIpOwxXEIQWbB_euK-R5rZhqUcmGuZJ0tIBh_801KGyVsw'
-  lat: 40.11453
-  level: 4
-  lon: -88.227324
-  name:  'Beckman Institute - Upwells Fountain'
-- ap: 4411
   img:  'http://lh3.ggpht.com/kAxEWb1VdMZ1-OTPwyl-CGWs0lF3FNth0gbxr6aqk6BaG_tfbCZM31s6UWKUY8aFtUA3j2GFL2z6yvu95yz3'
   lat: 40.115068
   level: 5
@@ -202,6 +196,12 @@
   level: 4
   lon: -88.228521
   name:  'Red Lines Sculpture'
+- ap: 4411
+  img:  'http://lh3.ggpht.com/2WMtYMnBjTlw-gPK9quwjMde6Heie7SQHCZT41kPiIpOwxXEIQWbB_euK-R5rZhqUcmGuZJ0tIBh_801KGyVsw'
+  lat: 40.11453
+  level: 4
+  lon: -88.227324
+  name:  'Beckman Institute - Upwells Fountain'
 - ap: 4411
   img:  'http://lh4.ggpht.com/vyb3xebaf6kWGvQZV2w4QYPG9Oq_jn5wQvUgg3Hp6yvCen9WsHW58eQR3VNCjHZWFzIM1qJ8oDbzRmhR3LM1'
   lat: 40.11233
@@ -251,17 +251,17 @@
   lon: -88.242671
   name:  'Marketplace Mall Fountain'
 - ap: 3661
-  img:  'http://lh4.ggpht.com/PfcTU4XsA06ThtmCWydIWhTsN3gR4jrqnrKxu0O5lhyibhRdKMEaf3jM8VNhViF8qLf13b01E71wr_ajxn0'
-  lat: 40.118465
-  level: 6
-  lon: -88.245077
-  name:  'Mural at Nitaya'
-- ap: 3661
   img:  'http://lh5.ggpht.com/vYay8RKsCV_BP_MkeFm7se0VZoYthm-1pThiATAADleBlTsPowobgZyUoU7DUto6p5cpg9adpCcTgNR6iop0Jw'
   lat: 40.120121
   level: 5
   lon: -88.251967
   name:  'Sesquicentennial Neighborhood Sign'
+- ap: 3661
+  img:  'http://lh4.ggpht.com/PfcTU4XsA06ThtmCWydIWhTsN3gR4jrqnrKxu0O5lhyibhRdKMEaf3jM8VNhViF8qLf13b01E71wr_ajxn0'
+  lat: 40.118465
+  level: 6
+  lon: -88.245077
+  name:  'Mural at Nitaya'
 - ap: 3661
   img:  'http://lh5.ggpht.com/oCw3ZC6UKF3aiK6dkbz72dhzUsJNhOmfVjVsXJET_YP5e1p53pLTa8Dep24gLqeY9FghWE0kaAB64vvn7nq0'
   lat: 40.105008
@@ -347,18 +347,6 @@
   lon: -88.244603
   name:  'Italian Statue'
 - ap: 3474
-  img:  'http://lh3.ggpht.com/LunaMtSKD9yiLQClolDY-Iqh0ENm9AgJdL4D1QxGs0j6TXPgqxDZea35x5ilAfeI5_0TGh5x1q1EqRsJsLFi'
-  lat: 40.114111
-  level: 7
-  lon: -88.243697
-  name:  'Champaign Surplus'
-- ap: 3474
-  img:  'http://lh6.ggpht.com/o-Si4_DCq7Qwa_fFJhaTZ0-zCScbl7wDS4PHIFGMbnP9TuPVe9ZauXV3lAreyYvxN7B7n8mlrOR2SsPzXmU'
-  lat: 40.115703
-  level: 5
-  lon: -88.239504
-  name:  'Chester Street Bar'
-- ap: 3474
   img:  'http://lh5.ggpht.com/UTu16bRRNKyJj2cFsU4mRCMkGJbH7YCAm0gQdiJKjnnZtB00kMEb_-Lhf6AnAXRia4MH6FBrWQGkBCrMUz8'
   lat: 40.120135
   level: 5
@@ -370,6 +358,18 @@
   level: 5
   lon: -88.25211
   name:  'First Church of Christ, Scientist'
+- ap: 3474
+  img:  'http://lh3.ggpht.com/LunaMtSKD9yiLQClolDY-Iqh0ENm9AgJdL4D1QxGs0j6TXPgqxDZea35x5ilAfeI5_0TGh5x1q1EqRsJsLFi'
+  lat: 40.114111
+  level: 7
+  lon: -88.243697
+  name:  'Champaign Surplus'
+- ap: 3474
+  img:  'http://lh6.ggpht.com/o-Si4_DCq7Qwa_fFJhaTZ0-zCScbl7wDS4PHIFGMbnP9TuPVe9ZauXV3lAreyYvxN7B7n8mlrOR2SsPzXmU'
+  lat: 40.115703
+  level: 5
+  lon: -88.239504
+  name:  'Chester Street Bar'
 - ap: 3474
   img:  'http://lh4.ggpht.com/4_MOw_NKr2wZ2lzAzG2FlLtA3tfOfWqBZpNVP43LfN6ilD6qHRfZ-_wA1Xk8BnCqHKqKdqodC70X09pqtNXXqmNtK-uqo-fC9SZyOjT6ERfJorzg'
   lat: 40.118388
@@ -527,6 +527,12 @@
   lon: -88.252279
   name:  'Toalson Park South Entrance'
 - ap: 2537
+  img:  'http://lh5.ggpht.com/zUcdFy4LbfVjWynZZp4C5TfAppnK9Iiou6aV9idMEi-uHh7ZVcuIZxHz7Sqt4EqZY__obyqxWSrIBmWDtvwUpg'
+  lat: 40.124036
+  level: 7
+  lon: -88.233662
+  name:  'Macedonia Baptist Church'
+- ap: 2537
   img:  'http://lh3.ggpht.com/qWqDj3Ws5ffRyIXG8XxFM41dBDTOBhjCkDgKebjiDFo-5Fyj_ssgLQ_wLM82uWwB2jVkNIYN4nc5U2E3wZoBNQ'
   lat: 40.111037
   level: 6
@@ -550,12 +556,6 @@
   level: 6
   lon: -88.236736
   name:  'Park Place Tower'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/zUcdFy4LbfVjWynZZp4C5TfAppnK9Iiou6aV9idMEi-uHh7ZVcuIZxHz7Sqt4EqZY__obyqxWSrIBmWDtvwUpg'
-  lat: 40.124036
-  level: 7
-  lon: -88.233662
-  name:  'Macedonia Baptist Church'
 - ap: 2537
   img:  'http://lh4.ggpht.com/mHAXKPtOyg_DWRs5A_0yhGeDsfU4f4o3xJvzziri7o3ksPPKtMAHUkUBOb0JJ78gArdP5Q6O-UiXNDG3RHaIYQ'
   lat: 40.109339
