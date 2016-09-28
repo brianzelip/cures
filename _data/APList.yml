@@ -604,10 +604,10 @@
   level: 4
   lon: -88.233753
   name:  'Chabad Menorah'
-- ap: 2724
+- ap: 2649
   img:  'http://lh6.ggpht.com/LxVyXEFJmvSZ271mlFfYmCwyb05Kz8cIRxzMt24ZVhRzsH09nxErJw4gKErktjKpCARWfVl4Mla70NoODK2bng'
   lat: 40.11187
-  level: 6
+  level: 5
   lon: -88.220692
   name:  'Atmospheric Sciences Building'
 - ap: 2724
@@ -616,6 +616,12 @@
   level: 6
   lon: -88.228735
   name:  'End Caps Sculpture at ECE'
+- ap: 2724
+  img:  'http://lh4.ggpht.com/l4w3T1e27S5zPAMN3Mr-LqJ51cbm26ThR-ubvfUFHpl28dkeRb_CQThuhJ_HSNhdYt_dX9NTAN9hKFsDeWJQ'
+  lat: 40.108295
+  level: 4
+  lon: -88.224083
+  name:  'The Landing'
 - ap: 2724
   img:  'http://lh6.ggpht.com/SboHv2_AWJ6ll559fK1A5a1UIAKf04oIHrgidra_E6L8gDK_mQ-DaM7hKYkv7MT6ZAA8pzgPxv_Vy-eNN7g'
   lat: 40.110608
@@ -695,15 +701,9 @@
   lon: -88.233662
   name:  'Macedonia Baptist Church'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/BEyFLhgqk0ySf2zElnARv5eyaQggj_zbHSagW3_DGt9BieScmU4jGPvJCjezTjbiCP-DOJPLPfJ3HhnYAiQLEQ'
-  lat: 40.119288
-  level: 6
-  lon: -88.248086
-  name:  'The Hartford'
-- ap: 2537
   img:  'http://lh6.ggpht.com/D-AymiJdf5gt94o_wgUJbOD9Fpl4V7PijJOjkztpP0_J2k82i1TBLDAaqcH_SUTUFe9VlllfQCsXFg_J0uAPeA'
   lat: 40.11569
-  level: 5
+  level: 6
   lon: -88.243433
   name:  'Christ Community Church'
 - ap: 2537
@@ -755,6 +755,12 @@
   lon: -88.240851
   name:  'The Accord'
 - ap: 2537
+  img:  'http://lh4.ggpht.com/BEyFLhgqk0ySf2zElnARv5eyaQggj_zbHSagW3_DGt9BieScmU4jGPvJCjezTjbiCP-DOJPLPfJ3HhnYAiQLEQ'
+  lat: 40.119288
+  level: 6
+  lon: -88.248086
+  name:  'The Hartford'
+- ap: 2537
   img:  'http://lh6.ggpht.com/xu-kOcmcs7cEhiGrfwfSF-Yt_Dna_MrRGDjw6oGSBLDdDm-SAFB8FI2G4yXWx_EOD1TRY5rTtvBxNxRkTQU'
   lat: 40.118361
   level: 7
@@ -802,16 +808,16 @@
   level: 4
   lon: -88.228963
   name:  'Architectural Education Plaque'
-- ap: 2537
+- ap: 2012
   img:  'http://lh6.ggpht.com/1i7JFIfvKI3IMOAekdomh9jm9HrAhBBdNIOyX81Nkq1Bh49sBqKg37sMm99MYm8yJjHsG4dBdnRg1X5Aq-c'
   lat: 40.104796
-  level: 4
+  level: 1
   lon: -88.227461
   name:  'Undergraduate Library at UIUC'
-- ap: 2312
+- ap: 2387
   img:  'http://lh5.ggpht.com/f1O8bFXHTg2PTOAUVLvrqk5xx5ps9SeqhpJ1RIPtSxm0I-e7J275e2ujJp3lFQGHUBW_vS90KOsrcdLDJ84l4g'
   lat: 40.110797
-  level: 4
+  level: 5
   lon: -88.225321
   name:  'Multiphase Fluid Dynamics Plaque'
 - ap: 2537
@@ -821,11 +827,23 @@
   lon: -88.226053
   name:  'BCS Superconductivity Theory Plaque'
 - ap: 2537
+  img:  'http://lh3.googleusercontent.com/EwXPPCiuVPRkECPKlJtyqReSySoJKEdwrx1MkNVUy6EM9xWU_fet1Z-sLfx_P2_c54DeJcApxdl-hKg9vGVEtw'
+  lat: 40.108224
+  level: 5
+  lon: -88.223549
+  name:  'Colwell Playhouse'
+- ap: 2537
   img:  'http://lh6.ggpht.com/RW34ntixvJkg7fD71TPYo_4KIsBzA0-a-6yXO0jKPbpGxX5gIGC7kBI-pXEF9OHhuolcAGW2fxyK3Pt42Iev'
   lat: 40.110489
   level: 6
   lon: -88.227412
   name:  'Bus Stop - Illini Union, Westbound'
+- ap: 2537
+  img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
+  lat: 40.107629
+  level: 5
+  lon: -88.224484
+  name:  'Bucky Balls'
 - ap: 2462
   img:  'http://lh6.ggpht.com/y10QgRCNt0Bsefqp3olKgJp98whQkS0-vWqPskj3421hcSq96BG-b_KROqsO1mBEcNiYtAKhXuXG0EV0eaUW'
   lat: 40.107152
