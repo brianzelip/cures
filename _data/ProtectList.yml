@@ -307,19 +307,19 @@
   mus: 253
   name:  'Stevick Family Memorial'
 - fields: 2
-  img:  'http://lh3.ggpht.com/qWqDj3Ws5ffRyIXG8XxFM41dBDTOBhjCkDgKebjiDFo-5Fyj_ssgLQ_wLM82uWwB2jVkNIYN4nc5U2E3wZoBNQ'
-  lat: 40.111037
-  level: 5
-  lon: -88.245813
-  mus: 250
-  name:  'Champaign Public Library'
-- fields: 2
   img:  'http://lh3.googleusercontent.com/dnlQAi9ftw9Nx79Zq-2jo6-EvJCMD8vcxJZcy5NWGDJ3iOxzhM2gXtGvrqke6-N3F3kKBkK5Bev6RRF5RS7y'
   lat: 40.08375
   level: 5
   lon: -88.294948
   mus: 245
   name:  'Park District Flower Island'
+- fields: 1
+  img:  'http://lh3.ggpht.com/qWqDj3Ws5ffRyIXG8XxFM41dBDTOBhjCkDgKebjiDFo-5Fyj_ssgLQ_wLM82uWwB2jVkNIYN4nc5U2E3wZoBNQ'
+  lat: 40.111037
+  level: 5
+  lon: -88.245813
+  mus: 238
+  name:  'Champaign Public Library'
 - fields: 1
   img:  'http://lh3.googleusercontent.com/ehDcIFPGimXzEpSpqydgEInzS_LCx7xdxdANoVH3o2WnEnCyvgjWqV1F-DbvHnpuMsAkbUqetYiu0sPiWwE'
   lat: 40.12025
@@ -1048,13 +1048,6 @@
   lon: -88.313826
   mus: 13
   name:  'Zahnd Park'
-- fields: 3
-  img:  'http://lh3.ggpht.com/1G0o5RjtXyfAjbI-E2honhhelnuiq4lIkpHmB44e-AwSBuIxVOdLPVYjImbTMS8kyBdZuKuiMQHciUIdAWg'
-  lat: 40.118368
-  level: 2
-  lon: -88.243737
-  mus: 13
-  name:  'Frank Robeson Memorial'
 - fields: 2
   img:  'http://lh6.ggpht.com/MA9eCvz-pj6K00ulfaZfIA2Saj3yQDg484VkIpdvKwCwb2VWMg7rq15hjirk-2ea3j-2MfOnszGDTopXgf3N'
   lat: 40.12735
@@ -1062,13 +1055,6 @@
   lon: -88.282547
   mus: 13
   name:  'Heritage Park'
-- fields: 2
-  img:  'http://lh5.ggpht.com/KadNuhjGK6FUXezGHW1W1kfPOQV5l7gJP594EQm5nPZFLTgcTsjl4ixa-j7XitgtyJyou3q0pTfMr4i2E_avIA'
-  lat: 40.118013
-  level: 2
-  lon: -88.243445
-  mus: 13
-  name:  'Clock at Neil and Main'
 - fields: 4
   img:  'http://lh4.ggpht.com/1LUozaukItxu6cHk_7wORzYYNvskCHi_wUxbNOAcIXNbgLuYn7VElFG0tzY02e6pY-AEL8nNHAL6ewLCaLMH'
   lat: 40.10567
@@ -1770,9 +1756,16 @@
   mus: 1
   name:  'Skull And Wagon Wheel'
 - fields: 2
+  img:  'http://lh3.ggpht.com/1G0o5RjtXyfAjbI-E2honhhelnuiq4lIkpHmB44e-AwSBuIxVOdLPVYjImbTMS8kyBdZuKuiMQHciUIdAWg'
+  lat: 40.118368
+  level: 3
+  lon: -88.243737
+  mus: 1
+  name:  'Frank Robeson Memorial'
+- fields: 2
   img:  'http://lh3.ggpht.com/bltQwmnzp2vSKYhLpzNLqB4iddy6ie0kWk9G7Wce4U9qmW3CABxbXAhF7v0oG9QLFD2q57UZuVqZCMgN3MHZfA'
   lat: 40.118335
-  level: 2
+  level: 3
   lon: -88.243408
   mus: 1
   name:  'Downtown Fountain'
@@ -1819,6 +1812,13 @@
   mus: 1
   name:  'Fighting Illini Memorial'
 - fields: 1
+  img:  'http://lh5.ggpht.com/KadNuhjGK6FUXezGHW1W1kfPOQV5l7gJP594EQm5nPZFLTgcTsjl4ixa-j7XitgtyJyou3q0pTfMr4i2E_avIA'
+  lat: 40.118013
+  level: 2
+  lon: -88.243445
+  mus: 1
+  name:  'Clock at Neil and Main'
+- fields: 1
   img:  'http://lh4.ggpht.com/9jXAzAxn0JZrLkU9VK9p-mNzjw3x_6QqwMAn4CAEBAHp_lo2iDZeV_y-hoUzP5CYwm8kOMyrTToZQOWJBRnw'
   lat: 40.115095
   level: 6
@@ -1856,7 +1856,7 @@
 - fields: 1
   img:  'http://lh6.ggpht.com/rGhR45ZFbHtxmrZSSy9V19eFoyHIDB42c6MK188isPJFWpUsW9ywNHayKt3acNvKNC8DAV6mDkUloj3aiS4'
   lat: 40.118422
-  level: 2
+  level: 3
   lon: -88.24346
   mus: 1
   name:  'Entrance'
