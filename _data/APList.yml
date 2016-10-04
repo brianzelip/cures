@@ -4,18 +4,18 @@
   level: 8
   lon: -88.250855
   name:  'Donald F. Bresnan Memorial'
-- ap: 10033
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.634356
-  level: '?'
-  lon: -87.178294
-  name:  'd45d47f7d3a34245812bec73013df8d1.16'
 - ap: 9846
   img:  'http://lh3.ggpht.com/lzCSS0_tjwUV7JQ2fgLI0e05IrzPxlVUs-6aEPOwUv67IanQJSTi71gkw0SGm8asmoE_r3Xoh048Fd9xRpE'
   lat: 40.099169
   level: 8
   lon: -88.251419
   name:  'Lyman Larson Memorial'
+- ap: 9283
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.634356
+  level: '?'
+  lon: -87.178294
+  name:  'd45d47f7d3a34245812bec73013df8d1.16'
 - ap: 8909
   img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
   lat: 40.099353
@@ -67,7 +67,7 @@
 - ap: 6659
   img:  'http://lh3.ggpht.com/rT55OoX-8s-w_ikrqOgpC7QkK-Iqp4ylicElGoWFagKRQ8LX3Uvv8TZ5Xc8BlId1btzo5FTbgddPN72kYwA'
   lat: 40.114327
-  level: 6
+  level: 7
   lon: -88.224492
   name:  'Siebel Courtyard Structure'
 - ap: 6285
@@ -137,12 +137,6 @@
   lon: -88.251676
   name:  'Ruth and Fred Steigmann Plaque'
 - ap: 5722
-  img:  'http://lh3.googleusercontent.com/hJZWoErzM-MuXulq4FlhlZwMbJX1Isd81GBUBVKayd57jVIVxUle3itd-1DRKo2VaNXznWr1X639fa44Etk'
-  lat: 40.141919
-  level: 5
-  lon: -88.244611
-  name:  'Marketplace Mall Carousel'
-- ap: 5722
   img:  'http://lh3.ggpht.com/x5fBw8MRogV8dm3kPO5zKNkUrQxn0dM7d1PIoASdX1_Rc8H5Duex4iZdOoIlqazCGll25TmptsWIRq1JFmj6'
   lat: 40.112135
   level: 5
@@ -178,12 +172,6 @@
   level: 3
   lon: -88.331166
   name:  'Porter Family Park Dedication'
-- ap: 4785
-  img:  'http://lh6.ggpht.com/duOeXcOSQLWosdD0JJXg3pWWQp4t5sL0x9qDHoTIBFNOzEW0t53Lt2cnwgV2E_Su0l1ajIQxPtVbbK_sDRaS'
-  lat: 40.141775
-  level: 5
-  lon: -88.242671
-  name:  'Marketplace Mall Fountain'
 - ap: 4598
   img:  'http://lh6.ggpht.com/wucaQM-REDZu6ZBHVOIE5T1apjBrc_Fk_qdbyLPPCmXafFHKlIC0w--Wrd507L8Jh2CgIKpFz9loqhrmmVzG'
   lat: 40.117429
@@ -203,24 +191,6 @@
   lon: -87.813185
   name:  'c2824a3c013b490d9cc463e000feb639.12'
 - ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.963409
-  level: '?'
-  lon: -87.635983
-  name:  '820c860de04f46b1973a17c3f510156f.16'
-- ap: 4411
-  img:  'http://lh3.ggpht.com/07XrBN-er6Ecleor0n9RJ4DfGO6B2yn-ZxjI-Uy8Ba46Jtb6cXNVmATPiPiGyk-1jZ4wxa7-EeIWbWUqArCG'
-  lat: 40.142554
-  level: 6
-  lon: -88.243468
-  name:  'Dog Heart'
-- ap: 4411
-  img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
-  lat: 40.099593
-  level: 8
-  lon: -88.251724
-  name:  'Blessings from Devon Elaine Cattell'
-- ap: 4411
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
   level: 8
@@ -232,6 +202,18 @@
   level: 8
   lon: -88.251412
   name:  'Zeus Memorial'
+- ap: 4411
+  img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
+  lat: 40.099593
+  level: 8
+  lon: -88.251724
+  name:  'Blessings from Devon Elaine Cattell'
+- ap: 4035
+  img:  'http://lh5.ggpht.com/Rbncx1cCR848JJRHJEZP1LBPjeBES8v3loG6KcPp_EZibzeb9m2nHSS7tN8FkCjMCfjJavG5jZd3NgYEuKE'
+  lat: 40.119468
+  level: 6
+  lon: -88.214013
+  name:  'Vicki J. Mayes Honorary'
 - ap: 4035
   img:  'http://lh3.ggpht.com/wcy4aX5svNHFpb_YQMEKlxqgq90G8mGhzcKlCtJWVVbTPwMhUz0Wfe3JNklLegEQOFEEA6dednkDNrEiiZ0h'
   lat: 40.117003
@@ -244,12 +226,18 @@
   level: 7
   lon: -88.227238
   name:  'Flow'
-- ap: 3846
-  img:  'http://lh4.ggpht.com/vbIH-PkUCBuwDTIRXA4p5jtGQ86SqYlc1e-g3Y9Ef2zaSb0ozkDD41Iq51orLhtPyShj4UzC6CPn0Unt8SY'
-  lat: 40.145108
-  level: 4
-  lon: -88.260083
-  name:  'Historic Interpretive Map of Champaign'
+- ap: 3661
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.312242
+  level: '?'
+  lon: -88.201368
+  name:  '2012 Employee Dedication Bench'
+- ap: 3661
+  img:  'http://lh6.ggpht.com/LVoGz75uEbzBIHab_ek4_2onuT-7Ow81Pj41mGU3rfgYArGKILIbviOC6pY-ZijVs4KcHd-ZD_WmLcCaImyC'
+  lat: 40.119406
+  level: 5
+  lon: -88.213173
+  name:  'The Betty J. Schroeder Grove'
 - ap: 3661
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.360306
@@ -300,16 +288,16 @@
   name:  'abf0e98379f44712a3207c9e8cea3c22.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.963409
+  level: '?'
+  lon: -87.635983
+  name:  '820c860de04f46b1973a17c3f510156f.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.9686
   level: '?'
   lon: -87.630978
   name:  '47ea0a512aca4efc981ddb89e220e8b4.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.590644
-  level: '?'
-  lon: -87.814488
-  name:  'ac5e79254e854323b87a2ca8d916067d.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.586667
@@ -329,23 +317,23 @@
   lon: -88.675349
   name:  'Adams Leaning Wheel Grader'
 - ap: 3474
-  img:  'http://lh5.ggpht.com/nWEtxuKQdy0teBBue1DYmG7P3SF5-3A6zlB7GwVHBWlolAZYGq6Br78lWcF9ltFy-KeSlozXie2RmU6JfCUX'
-  lat: 40.142673
-  level: 5
-  lon: -88.244603
-  name:  'Italian Statue'
-- ap: 3474
-  img:  'http://lh6.ggpht.com/RR0i4QdfoY8NkTQtssdOtDLhAEaCR7e-R4ipk5NzdKe9lTGDq2nyKI_7sF2BCXrgCZAZ2zEEtIzS7vg6Pu0hzA'
-  lat: 40.126458
-  level: 6
-  lon: -88.218544
-  name:  'The Vineyard Church'
-- ap: 3474
   img:  'http://lh3.ggpht.com/A0WZkyUT-umVVZJsxEXS-SYdMZ0G0RF4TraCu_fOJ4BxVs12X09x-2RBi0x9sVH_hvyUyh9hwIXjijhobik'
   lat: 40.117582
   level: 1
   lon: -88.229182
   name:  'St. Mary''s Rectory'
+- ap: 2911
+  img:  'http://lh4.ggpht.com/cXzBVEYwsBuU4BX2Fkwi_8TwqSW6ExF6m7IyyHAOrdCMru_sr74MrtK8iGVa0zj3YFt--pdhmI5xwUIeJw'
+  lat: 40.120191
+  level: 5
+  lon: -88.215485
+  name:  'Champaign County Fairgrounds'
+- ap: 2911
+  img:  'http://lh6.ggpht.com/duOeXcOSQLWosdD0JJXg3pWWQp4t5sL0x9qDHoTIBFNOzEW0t53Lt2cnwgV2E_Su0l1ajIQxPtVbbK_sDRaS'
+  lat: 40.141775
+  level: 5
+  lon: -88.242671
+  name:  'Marketplace Mall Fountain'
 - ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.451766
@@ -371,18 +359,6 @@
   lon: -88.253121
   name:  'Rain Garden'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/ZevI283-hdNmxCDG58ggAccDFE_BgYgPK-Hwc6pMCOMdhClXrMtmBtTONxbI0Y_iV-SVdkgRT28tdz-T-6Vt'
-  lat: 40.146982
-  level: 1
-  lon: -88.28914
-  name:  'Champaign Kingdom Hall of Jehovah''s Witnesses'
-- ap: 2537
-  img:  'http://lh3.googleusercontent.com/M_qK64GKnnRqEI0mDBCxmdDqvQtr6sboADts_687xYboCfdeE-9gJwAPNC_Gt99-mA2X_3p-8RfH8-x7LMW5'
-  lat: 40.132777
-  level: 3
-  lon: -88.287351
-  name:  'Parkland College Prairie Restoration Reserve'
-- ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.349793
   level: '?'
@@ -402,16 +378,28 @@
   name:  'Foosland Village Park'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.312242
-  level: '?'
-  lon: -88.201368
-  name:  '2012 Employee Dedication Bench'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.122056
   level: '?'
   lon: -88.645323
   name:  '9e3af3afef824ee6aee179175a7845c4.16'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/JgD9-vk2pVIQENqssLAn_4Smd4aFydCLSHsQWVF4D4gn8xxgO5PTgDfjr0DKtVdau2_ZQc7RR-gYrOaMwStSRg'
+  lat: 40.143345
+  level: 6
+  lon: -88.256693
+  name:  'Captain Morgan Statue'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 44.607633
+  level: '?'
+  lon: -87.43205
+  name:  '8e6a8255e7c342e8806313a728bf9918.12'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/whrVudLIelW8yHGGZa7geAVXvbkevW5Vc4DbMBSrMTYN38-Cce_sYnEFxEDWHJQouK3L-LjMbbADmlyYto_D'
+  lat: 40.131036
+  level: 2
+  lon: -88.2778
+  name:  'AISC Steel Teaching Sculpture'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.007202
@@ -437,42 +425,6 @@
   lon: -88.314062
   name:  'Mark L. Rambow Memorial'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/-aOZyLFNK96FhUdQBYhmRPZrs_PB1oiLRcrPjKwFBANQ42LxLbbHfTZVw_F01meecQXfNQwJYy7qqVh8Q0gR9g'
-  lat: 40.133768
-  level: 3
-  lon: -88.281275
-  name:  'Butterfly'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/QruW49d2dc1uhQlK1BaZIeo6ruDNkqQfmvZz83eQ-1aC9ytGUcpFaHnKRTnXRc70F2EZ0-pVKGr9Slo0_9RfxA'
-  lat: 40.139749
-  level: 1
-  lon: -88.273955
-  name:  'Northside Church of Christ'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/whrVudLIelW8yHGGZa7geAVXvbkevW5Vc4DbMBSrMTYN38-Cce_sYnEFxEDWHJQouK3L-LjMbbADmlyYto_D'
-  lat: 40.131036
-  level: 2
-  lon: -88.2778
-  name:  'AISC Steel Teaching Sculpture'
-- ap: 2537
-  img:  'http://lh3.googleusercontent.com/GDPeCcTdJQAFt7LgbquPo-YOAp7bq5HCFbElMBeXztI4hraTGO-j1GcNOwKaaSRRLcEHG13Gu-VDboEG4a7-'
-  lat: 40.149097
-  level: 5
-  lon: -88.276148
-  name:  'Illinois Heartland Library System'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/Ubq0MuIsu5MU-I8JiOC7oX_aheDNBNsG-UlSMPqA5BRkHJX9BDDUPWGQxXllzVgaxFeo23u3zu_hlJesprpNJg'
-  lat: 40.133421
-  level: 2
-  lon: -88.280893
-  name:  'Greenbelt Bikeway'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/dI4xaWnG0DZUP0uJY6mH7dt0Mym9RSF71Y9EW7cHcTwlxlumShbTK73b2epHwOng4JJOjyc52eMv188FeiHYfg'
-  lat: 40.131965
-  level: 2
-  lon: -88.278016
-  name:  'Augustus K Riggin'
-- ap: 2537
   img:  'http://lh4.ggpht.com/BB4y2ChVuPpmuGW8VPeiAPKr-vWwYdihWvrH0i_WALxPd8wX3j2no0JFEMNK8ndCvXwQzLLabPyRoAfsz5g'
   lat: 40.101584
   level: 5
@@ -496,6 +448,18 @@
   level: 6
   lon: -88.285144
   name:  'Champaign Fire Department'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/RR0i4QdfoY8NkTQtssdOtDLhAEaCR7e-R4ipk5NzdKe9lTGDq2nyKI_7sF2BCXrgCZAZ2zEEtIzS7vg6Pu0hzA'
+  lat: 40.126458
+  level: 6
+  lon: -88.218544
+  name:  'The Vineyard Church'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/07XrBN-er6Ecleor0n9RJ4DfGO6B2yn-ZxjI-Uy8Ba46Jtb6cXNVmATPiPiGyk-1jZ4wxa7-EeIWbWUqArCG'
+  lat: 40.142554
+  level: 6
+  lon: -88.243468
+  name:  'Dog Heart'
 - ap: 2237
   img:  'http://lh6.ggpht.com/WVVbmiu2GGTnPTszcnYYILHKlkZDoxB-QY6Yv7YPoUfdVn92jYnKjpVKNkfWdFrPjq-BaFeKGJWLZlE-bbA'
   lat: 40.120467
@@ -562,15 +526,15 @@
   level: 7
   lon: -88.234245
   name:  'Stratford House'
-- ap: 2537
-  img:  'http://lh3.googleusercontent.com/NRpdP-ebGuykq3sH1NZBQVjhmSdVJW3F4MTCRdXrWKQf3Z5dBgo0Phhyqnel5IrJmriQRmJNFR12lRDrjxJ9'
-  lat: 40.114911
-  level: 6
-  lon: -88.227781
-  name:  'Electrical & Computer Engineering Building'
 - ap: 2462
   img:  'http://lh3.ggpht.com/LR76HrJqriPFUoc2XSs7jb2SotnStZv20kI7rgUx8B5HqhmetnTW4MA1tCp1ws4g5gw0sf9g7M3Lwq4VwfpD'
   lat: 40.111687
   level: 4
   lon: -88.225353
   name:  'Transportation Building - University Of Illinois'
+- ap: 2537
+  img:  'http://lh3.googleusercontent.com/NRpdP-ebGuykq3sH1NZBQVjhmSdVJW3F4MTCRdXrWKQf3Z5dBgo0Phhyqnel5IrJmriQRmJNFR12lRDrjxJ9'
+  lat: 40.114911
+  level: 6
+  lon: -88.227781
+  name:  'Electrical & Computer Engineering Building'
