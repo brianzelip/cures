@@ -1,10 +1,3 @@
-- fields: 5+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.247118
-  level: '?'
-  lon: -88.631854
-  mus: 8603
-  name:  'Woodlawn Country Club'
 - fields: 6
   img:  'http://lh3.ggpht.com/ZKYFxa4_Jj-OpytEiNkFmQOVv42zvLK_5wEHxLncanKrdr7RjjSoG_UYFDX0CmCUupuU2d0MGQ3l1pbl0zF1'
   lat: 40.083873
@@ -75,6 +68,13 @@
   lon: -88.239758
   mus: 904
   name:  'Lake Park Prairie Restoration'
+- fields: 1+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.247118
+  level: '?'
+  lon: -88.631854
+  mus: 862
+  name:  'Woodlawn Country Club'
 - fields: 3
   img:  'http://lh3.ggpht.com/RDi9dMy3Df-Cf9VWDSaCohsnVa-bidVWXN6ZXu_h9yJGuQ22MI8MFwt1iA55QHtTIq5sHU6hZWbydWYFqr5PqQ'
   lat: 40.077419
@@ -145,12 +145,12 @@
   lon: -88.26383
   mus: 650
   name:  'Davidson Park'
-- fields: 6
+- fields: 7
   img:  'http://lh5.ggpht.com/8-Baqz4PiYwmi1rtJaKCkrxJHu87dAW9dGkAq6Ab0cwWBHH4Tq_1PfQtEL7h_L4K7LIly1kVPPMLGPsgM89Z6Q'
   lat: 40.098549
   level: 7
   lon: -88.23713
-  mus: 618
+  mus: 635
   name:  'Great War Memorial Inscription'
 - fields: 7
   img:  'http://lh4.ggpht.com/D5cENdXJQaqvWwCSoOanItF0e3p53vn8qA2cAruOQSuYuD9XmC4q26pJQI7yjA9-6yDTJH0KYTQQwYdcwoTxOA'
@@ -390,6 +390,13 @@
   lon: -88.296196
   mus: 159
   name:  'Meadows West Park'
+- fields: 4
+  img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
+  lat: 40.097979
+  level: 7
+  lon: -88.247785
+  mus: 159
+  name:  'Jarling''s Custard Cup'
 - fields: 11
   img:  'http://lh3.ggpht.com/nYd-393_D14GP4fiHeIzBxBwiribibe3KkVkqwo0A2KaBz3imkWBgyq_wiisXL0-RLbEESu9vTa02HbR5KcMQw'
   lat: 40.092652
@@ -432,13 +439,13 @@
   lon: -88.259842
   mus: 147
   name:  'Indian Acres Swim Club'
-- fields: 3
-  img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
-  lat: 40.097979
+- fields: 4
+  img:  'http://lh5.ggpht.com/H3lz_PbTP4RFYuRMUyZuMouxslODKZQ3RjFiZrITFZcpj2FuEb1K2VVlveQtOyUHG2rYZ114AGuGqK4rATI5jg'
+  lat: 40.097868
   level: 7
-  lon: -88.247785
-  mus: 142
-  name:  'Jarling''s Custard Cup'
+  lon: -88.242344
+  mus: 145
+  name:  'Campus Information Booth '
 - fields: 2
   img:  'http://lh6.ggpht.com/UXx9XSWX3zuym6SdX68IXNFYcpnbhGuF7Zk3taO-TJ2VI_LvwmooNWjUHb8OIgKsjyto3PT7YU0D-Y7HW7c'
   lat: 40.077643
@@ -453,13 +460,6 @@
   lon: -88.294589
   mus: 130
   name:  'Hallbeck Park Shelter'
-- fields: 3
-  img:  'http://lh5.ggpht.com/H3lz_PbTP4RFYuRMUyZuMouxslODKZQ3RjFiZrITFZcpj2FuEb1K2VVlveQtOyUHG2rYZ114AGuGqK4rATI5jg'
-  lat: 40.097868
-  level: 7
-  lon: -88.242344
-  mus: 128
-  name:  'Campus Information Booth '
 - fields: 5
   img:  'http://lh3.googleusercontent.com/m68rgxfyTHzijj23L6S0_kQ0XZ1wS3c0dUjsa4tLjqLJ8eSQ1CuHgWaxDSYthuek2areSlSTRw5Hn_zpJ3cD'
   lat: 40.09428
@@ -1156,7 +1156,7 @@
 - fields: 2
   img:  'http://lh5.ggpht.com/244-kBAz29TDfOH8muwt4hhbFTCEXkddZJR6jpzYeuL8UDht0s9QJJhZL40ner3EhKhzBQFqTTeRrYDZoF0'
   lat: 40.104331
-  level: 6
+  level: 7
   lon: -88.222064
   mus: 5
   name:  'Campus Recreation Center East'
@@ -1345,7 +1345,7 @@
 - fields: 1
   img:  'http://lh4.ggpht.com/zAxC11GCLRrj5wlF-U0mbjaisXjS5ukHSkGR5sVCfSWYKSlV2kxvtrD04m3n_XzT59XQ1xyf4ctzShUNem0'
   lat: 40.080381
-  level: 6
+  level: 3
   lon: -88.209174
   mus: 2
   name:  'Meadowbrook Park'
