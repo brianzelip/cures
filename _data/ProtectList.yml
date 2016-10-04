@@ -1,10 +1,24 @@
-- fields: 3+
+- fields: 4+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.312242
   level: '?'
   lon: -88.201368
-  mus: 23645
+  mus: 71094
   name:  '2012 Employee Dedication Bench'
+- fields: 3
+  img:  'http://lh6.ggpht.com/MTA_e4qROhbvq0DM0fK-MDV_Q9UP_4tg1c8aElTEpn-rFf6ESmOnvNXtFgISg3MiW889YcO3pP2tgCk2UcZP-g'
+  lat: 40.127376
+  level: 6
+  lon: -88.265191
+  mus: 56363
+  name:  'Thompson Park'
+- fields: 2
+  img:  'http://lh3.ggpht.com/fly4_k-hAL6P3jBmh9Bjpyde3bA0j2nkFteyQKoxTVtVahQhnhkAkLokFJPorZXmicL5B_SfFQIi-AXR0fc'
+  lat: 40.11654
+  level: 7
+  lon: -88.205347
+  mus: 52192
+  name:  'Astroterra'
 - fields: 8+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.195867
@@ -26,13 +40,6 @@
   lon: -88.276738
   mus: 9345
   name:  'Kraft Giant Macaroni'
-- fields: 2
-  img:  'http://lh6.ggpht.com/MTA_e4qROhbvq0DM0fK-MDV_Q9UP_4tg1c8aElTEpn-rFf6ESmOnvNXtFgISg3MiW889YcO3pP2tgCk2UcZP-g'
-  lat: 40.127376
-  level: 6
-  lon: -88.265191
-  mus: 8914
-  name:  'Thompson Park'
 - fields: 1
   img:  'http://lh3.ggpht.com/4NvHbplhArQJrKIkJMw4Ia0q_OtktXP-jC6FtPlgn6V49hv8LJbu0RC2ff0eTy3bF3ihXL12v5CPGwvlRNBF'
   lat: 40.127538
@@ -40,27 +47,6 @@
   lon: -88.199119
   mus: 4744
   name:  'Perkins Historical Site'
-- fields: 1
-  img:  'http://lh3.ggpht.com/fly4_k-hAL6P3jBmh9Bjpyde3bA0j2nkFteyQKoxTVtVahQhnhkAkLokFJPorZXmicL5B_SfFQIi-AXR0fc'
-  lat: 40.11654
-  level: 7
-  lon: -88.205347
-  mus: 4744
-  name:  'Astroterra'
-- fields: 6
-  img:  'http://lh3.ggpht.com/ZKYFxa4_Jj-OpytEiNkFmQOVv42zvLK_5wEHxLncanKrdr7RjjSoG_UYFDX0CmCUupuU2d0MGQ3l1pbl0zF1'
-  lat: 40.083873
-  level: 7
-  lon: -88.265912
-  mus: 2914
-  name:  'Dan Morrissey Park'
-- fields: 2
-  img:  'http://lh5.ggpht.com/jz0XvZSSYKqKSa4lJDK-rludOns_o36jZ8ZTzfEr42piZamiTjSASTLdII6pkxgjZgnCwKirjhEouS77BPB8Dg'
-  lat: 40.094288
-  level: 7
-  lon: -88.248914
-  mus: 1611
-  name:  'Boulware Trail'
 - fields: 3
   img:  'http://lh6.ggpht.com/A3o1Nm3JPbfRGX8fs0D87GlAc2sSTKVl6IimAZxRyIfLyPcsMcbx7s4WqUTkMcz70wzyETv1zaJZtlBTRdBG'
   lat: 40.083723
@@ -75,6 +61,13 @@
   lon: -88.289932
   mus: 1583
   name:  'Curtis Road Church of God'
+- fields: 5
+  img:  'http://lh3.ggpht.com/ZKYFxa4_Jj-OpytEiNkFmQOVv42zvLK_5wEHxLncanKrdr7RjjSoG_UYFDX0CmCUupuU2d0MGQ3l1pbl0zF1'
+  lat: 40.083873
+  level: 7
+  lon: -88.265912
+  mus: 1543
+  name:  'Dan Morrissey Park'
 - fields: 6
   img:  'http://lh3.ggpht.com/EGYOVzf1FmU6Mz8ck5GAJFFgeuTA6oTO3IOT84oXeO7EDtQ1lVD7VMiAxfWmaaW4Tg0x8IJ3GJnW-66LEgTN'
   lat: 40.107237
@@ -96,13 +89,6 @@
   lon: -88.276623
   mus: 1431
   name:  'Glenn Park'
-- fields: 2
-  img:  'http://lh5.ggpht.com/-fll1h_4LwvAASQFuSFCPXineRQ-GTGggs2P9L5-qR50oQ1wGjy6dzP_D3SGA7esReq2lemp9JsZqg6uDO8P'
-  lat: 40.071293
-  level: 2
-  lon: -88.253841
-  mus: 1384
-  name:  'Lady In Mourning'
 - fields: 9
   img:  'http://lh3.ggpht.com/1-JS8sV0YQTNKZcOYkhHUpeLbSapI7w9Nksu7UJhMKpIgoGwe-FKIo9ALf7fXUm4mHlsQxcyMdJyQbI5tCmc'
   lat: 40.116494
@@ -110,20 +96,6 @@
   lon: -88.268495
   mus: 1185
   name:  'Eisner Park'
-- fields: 5
-  img:  'http://lh3.googleusercontent.com/klY7LlKB5LBTfRC8P4oBlzzOKMP_YM_h2twKQVnFocg0IyQsM140Vz0T7KED59pIwOKy1Xze-Q7u8w9cvqug'
-  lat: 40.065936
-  level: 5
-  lon: -88.239758
-  mus: 904
-  name:  'Lake Park Prairie Restoration'
-- fields: 3
-  img:  'http://lh3.ggpht.com/RDi9dMy3Df-Cf9VWDSaCohsnVa-bidVWXN6ZXu_h9yJGuQ22MI8MFwt1iA55QHtTIq5sHU6hZWbydWYFqr5PqQ'
-  lat: 40.077419
-  level: 5
-  lon: -88.208069
-  mus: 838
-  name:  'Walker Grove'
 - fields: 5
   img:  'http://lh3.googleusercontent.com/ehDcIFPGimXzEpSpqydgEInzS_LCx7xdxdANoVH3o2WnEnCyvgjWqV1F-DbvHnpuMsAkbUqetYiu0sPiWwE'
   lat: 40.12025
@@ -159,20 +131,6 @@
   lon: -88.23713
   mus: 635
   name:  'Great War Memorial Inscription'
-- fields: 7
-  img:  'http://lh4.ggpht.com/D5cENdXJQaqvWwCSoOanItF0e3p53vn8qA2cAruOQSuYuD9XmC4q26pJQI7yjA9-6yDTJH0KYTQQwYdcwoTxOA'
-  lat: 40.068447
-  level: 7
-  lon: -88.241045
-  mus: 530
-  name:  'In Memory of E. Lynn Meisenfelter'
-- fields: 2
-  img:  'http://lh5.ggpht.com/8tdoNA4odqt5Gs98YKUhpMqLLlihrG_guTUciwwcG8MkqhOEnp19hq3eCDKuUN11UIsWTNLibMDFGbR0QmaL'
-  lat: 40.061654
-  level: 6
-  lon: -88.242844
-  mus: 471
-  name:  'Lake Park Gardens'
 - fields: 6
   img:  'http://lh3.googleusercontent.com/8uMYuZy0Us1c6m26i0q3fiQ2sptx9Og4z2bMHuLtSt_Woc8U5yKYiXLiC2Oz38uiO4m3z3SU3svJ6uRX-_o'
   lat: 40.086941
@@ -264,6 +222,13 @@
   lon: -88.257688
   mus: 297
   name:  'Champaign Fire Department'
+- fields: 1
+  img:  'http://lh5.ggpht.com/jz0XvZSSYKqKSa4lJDK-rludOns_o36jZ8ZTzfEr42piZamiTjSASTLdII6pkxgjZgnCwKirjhEouS77BPB8Dg'
+  lat: 40.094288
+  level: 7
+  lon: -88.248914
+  mus: 241
+  name:  'Boulware Trail'
 - fields: 2
   img:  'http://lh5.ggpht.com/zk2PoLrNJK2jAfA0HGQo37eMuSz1YwubD7DuFfadgkLsY_DmoY37jprPnm75I212dvrFjl_O2PQbZOLJL4Y'
   lat: 40.107914
@@ -369,13 +334,6 @@
   lon: -88.242344
   mus: 145
   name:  'Campus Information Booth '
-- fields: 2
-  img:  'http://lh6.ggpht.com/UXx9XSWX3zuym6SdX68IXNFYcpnbhGuF7Zk3taO-TJ2VI_LvwmooNWjUHb8OIgKsjyto3PT7YU0D-Y7HW7c'
-  lat: 40.077643
-  level: 5
-  lon: -88.208694
-  mus: 134
-  name:  'El-Ahrairah'
 - fields: 4
   img:  'http://lh4.ggpht.com/xMwEuzjKH4LukFYgVHCFzoHtcIDwSHLCurfqG9DRuRCZOyw6nN6x8-Qngw5rUbT5kSPl7zjxG_mCoyJNHc0N'
   lat: 40.080645
@@ -390,6 +348,13 @@
   lon: -88.238318
   mus: 125
   name:  'Hotel Structure'
+- fields: 3
+  img:  'http://lh3.googleusercontent.com/klY7LlKB5LBTfRC8P4oBlzzOKMP_YM_h2twKQVnFocg0IyQsM140Vz0T7KED59pIwOKy1Xze-Q7u8w9cvqug'
+  lat: 40.065936
+  level: 5
+  lon: -88.239758
+  mus: 118
+  name:  'Lake Park Prairie Restoration'
 - fields: 3
   img:  'http://lh3.googleusercontent.com/NfuReRkyOBC6TpPTQQuLpJGD0EXaLbvSJP45Seaf0Vqc8oZ93XZFHQiMEcbBC8vAZxWX_WA3_WBC2zxcvIs'
   lat: 40.065881
@@ -432,6 +397,27 @@
   lon: -88.294919
   mus: 101
   name:  'Hallbeck Park'
+- fields: 1
+  img:  'http://lh5.ggpht.com/IPe0K-5UxhP3pBLFh-Gt_TFpL9lqI4nyU9X57bSopcI-Ihm44-ebzRJG7oR76nOD5yRHtqc_x87jC08KCoqG'
+  lat: 40.115697
+  level: 5
+  lon: -88.214703
+  mus: 94
+  name:  'Mills Breast Cancer Institute'
+- fields: 1
+  img:  'http://lh3.ggpht.com/3rw0YLp6-Ui3LAecadtTtTgoMRU7Q6vPRiNiSCod3Qb-bGjOJxf34EEnZP89KvnrTILkQM3PIE9-CIdmasz-'
+  lat: 40.112897
+  level: 7
+  lon: -88.219672
+  mus: 94
+  name:  'Mennonite Church'
+- fields: 1
+  img:  'http://lh6.ggpht.com/nrAKluq6HmQX42cyEBf_ThQ4s-v7QYss-n-a2Ostt7_Qs96wIxHXwqh1JPiIwsuml0lnvn2M0pnIKX5ftwxFzg'
+  lat: 40.112235
+  level: 7
+  lon: -88.212586
+  mus: 94
+  name:  'Yoga Institute Of C-U'
 - fields: 3
   img:  'http://lh5.ggpht.com/_eMBd3V1rEFztJvtBkssKVH7eM-jiU3l9VJJ-kj6SxGZMx_7Qo6G4yjfsws8T1FhIEFwk7yvoicm8XTVERh4'
   lat: 40.084405
@@ -439,13 +425,6 @@
   lon: -88.297963
   mus: 90
   name:  'Mount Sinai Temple'
-- fields: 8
-  img:  'http://lh5.ggpht.com/6iSvulYqf18jvvkjbKbtokZ1zczL5ZsEsgNJtpDT61eVwi5FIfifwQk2brM7UkcTtJNOdADLVtXIO7HCrlQ'
-  lat: 40.068731
-  level: 7
-  lon: -88.242233
-  mus: 88
-  name:  'Dohme Park'
 - fields: 4
   img:  'http://lh6.ggpht.com/n_LMwtvxbWlYfCgK6MerzbQVpmDR9rqxJUrEnA8OAeCIYBi6zbeLqYCldCtXZDSV1IHsYOpgoO60Od3TGJ3h'
   lat: 40.103207
@@ -530,6 +509,13 @@
   lon: -88.258039
   mus: 67
   name:  'Mini Park V'
+- fields: 1
+  img:  'http://lh5.ggpht.com/8tdoNA4odqt5Gs98YKUhpMqLLlihrG_guTUciwwcG8MkqhOEnp19hq3eCDKuUN11UIsWTNLibMDFGbR0QmaL'
+  lat: 40.061654
+  level: 6
+  lon: -88.242844
+  mus: 67
+  name:  'Lake Park Gardens'
 - fields: 3
   img:  'http://lh6.ggpht.com/3fVcmJ2u-5Mnni1a2NQuYee7Li3LXX1-Iih3NUqXYB8H0qCYAU7OEXBG0ysoYX44R9K5zwbI6c4G8fRDoZJY'
   lat: 40.101768
@@ -537,13 +523,6 @@
   lon: -88.234922
   mus: 64
   name:  'Snyder Hall'
-- fields: 3
-  img:  'http://lh5.ggpht.com/ol0RXlyBNe6HMdo476xfY8RSKSHpownpuvzXzt79iXCP5m5YSzxfK5L7hdm7bLVjLavR90KL_lSCQnAXcrQ'
-  lat: 40.075288
-  level: 7
-  lon: -88.256822
-  mus: 62
-  name:  'First Baptist Church of Savoy'
 - fields: 3
   img:  'http://lh6.ggpht.com/egg-GJTeWFUK6QAZ7fQqMwf7aGRS4QcRetrEja7g2EwZf4mR7qv5HBbA64238ZtBOXVI_TwGYBo9g77alceB'
   lat: 40.099033
@@ -579,6 +558,13 @@
   lon: -88.402986
   mus: 49
   name:  'Middletown Cemetery'
+- fields: 2
+  img:  'http://lh5.ggpht.com/ol0RXlyBNe6HMdo476xfY8RSKSHpownpuvzXzt79iXCP5m5YSzxfK5L7hdm7bLVjLavR90KL_lSCQnAXcrQ'
+  lat: 40.075288
+  level: 7
+  lon: -88.256822
+  mus: 49
+  name:  'First Baptist Church of Savoy'
 - fields: 3
   img:  'http://lh3.ggpht.com/gJYGj7_wDDnnkZAlCFgChMLxPptIEvTDKzPJQqVLWhygPTnHHPEe9YrX22kkUU6oScgCqoGv_Sb_cKdY6V32'
   lat: 40.10395
@@ -656,13 +642,6 @@
   lon: -88.256779
   mus: 38
   name:  'Framer''s Market'
-- fields: 2
-  img:  'http://lh5.ggpht.com/Fl-qbQtlziD-8zSe_WfUrflOcIFP-whkkS2IjEkT19sDskVzbx-bKvw1k0Y8qaNjUpwOCjy3E4DYDTh4Er7B'
-  lat: 40.074003
-  level: 6
-  lon: -88.255085
-  mus: 36
-  name:  'Burwash Park'
 - fields: 4
   img:  'http://lh3.ggpht.com/by946OhJ5ooOkbG4f662qjbXqvrQAd98E36mSJLgTsLgL_tb8GDpNxTOEhtgsjEhY-OzKmRxAmLFbYPscSH6'
   lat: 40.101619
@@ -719,6 +698,13 @@
   lon: -88.218588
   mus: 24
   name:  'Idea Garden'
+- fields: 1
+  img:  'http://lh5.ggpht.com/Fl-qbQtlziD-8zSe_WfUrflOcIFP-whkkS2IjEkT19sDskVzbx-bKvw1k0Y8qaNjUpwOCjy3E4DYDTh4Er7B'
+  lat: 40.074003
+  level: 6
+  lon: -88.255085
+  mus: 24
+  name:  'Burwash Park'
 - fields: 6
   img:  'http://lh4.ggpht.com/lpJC8CMq12VKjzn5jKxDzhuO6-wy48dUIJ1qAD7jiTQom4qZYFUDgxd3-1wexag_aT8akZC3P7VTqei0H48YKQ'
   lat: 40.100482
@@ -796,6 +782,13 @@
   lon: -88.238588
   mus: 18
   name:  'Beautiful Storm'
+- fields: 4
+  img:  'http://lh4.ggpht.com/D5cENdXJQaqvWwCSoOanItF0e3p53vn8qA2cAruOQSuYuD9XmC4q26pJQI7yjA9-6yDTJH0KYTQQwYdcwoTxOA'
+  lat: 40.068447
+  level: 7
+  lon: -88.241045
+  mus: 16
+  name:  'In Memory of E. Lynn Meisenfelter'
 - fields: 4
   img:  'http://lh3.ggpht.com/UoqoA4-SqK1X44o_0alM-QL57jhssYrhXZdeS1Ph9C5k_PjEXhPB_rJsbzTZ2hWbGDdartAlnZnfw3vb7DAG'
   lat: 40.099177
@@ -1020,6 +1013,13 @@
   lon: -88.40232
   mus: 7
   name:  'First Baptist Church'
+- fields: 7
+  img:  'http://lh5.ggpht.com/6iSvulYqf18jvvkjbKbtokZ1zczL5ZsEsgNJtpDT61eVwi5FIfifwQk2brM7UkcTtJNOdADLVtXIO7HCrlQ'
+  lat: 40.068731
+  level: 7
+  lon: -88.242233
+  mus: 6
+  name:  'Dohme Park'
 - fields: 2
   img:  'http://lh5.ggpht.com/9VuH5-qaoobAtdEZFkn2uoAcJS5Luq9QLXRevRpv9WAzkjoAB_9hftbELGCCm8M4rxAJ5xTfJWd6E6kb0Or7'
   lat: 40.102016
