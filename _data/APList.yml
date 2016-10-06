@@ -137,12 +137,6 @@
   lon: -88.251314
   name:  'Gabriel Patrick Maxeiner Memorial Plaque'
 - ap: 6098
-  img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
-  lat: 40.100691
-  level: 8
-  lon: -88.251337
-  name:  'In Loving Memory of Zeus'
-- ap: 6098
   img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
   lat: 40.100286
   level: 8
@@ -172,6 +166,12 @@
   level: 8
   lon: -88.251676
   name:  'Ruth and Fred Steigmann Plaque'
+- ap: 6098
+  img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
+  lat: 40.100691
+  level: 8
+  lon: -88.251337
+  name:  'In Loving Memory of Zeus'
 - ap: 5909
   img:  'http://lh6.ggpht.com/0IsQORyEW-bPA7sEbGspygtoI7ixEshm_2fUw5oeh9AeXg6JN5w0ypYIshpuKm-C0nG4Vm2XmpLvtWTZzWzd'
   lat: 40.111607
@@ -305,17 +305,17 @@
   lon: -88.251412
   name:  'Zeus Memorial'
 - ap: 4411
-  img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
-  lat: 40.100521
-  level: 8
-  lon: -88.250864
-  name:  'Gabriel Patrick Maxeiner Memorial'
-- ap: 4411
   img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
   lat: 40.099593
   level: 8
   lon: -88.251724
   name:  'Blessings from Devon Elaine Cattell'
+- ap: 4411
+  img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
+  lat: 40.100521
+  level: 8
+  lon: -88.250864
+  name:  'Gabriel Patrick Maxeiner Memorial'
 - ap: 4411
   img:  'http://lh5.ggpht.com/Tn5ARN-X6VTc2q6atZ2WYq3c2g3gbSGXu6_vXf1MDwHfLpdTtnQ-CilBAVGvL6R-SHhq3fJ4WZI-yiJKmIId'
   lat: 40.110398
@@ -527,12 +527,6 @@
   lon: -88.207259
   name:  'US Post Office'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/BoAN9OSCH5u7G1sestzZaXjjik82i-SteF6-r5KTTyl530q9H5G3ibjJdqpGGY-nL8MypRXn2twwvn_y5nMmug'
-  lat: 40.133159
-  level: 2
-  lon: -88.28778
-  name:  'Campus Solar System - Saturn'
-- ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.349793
   level: '?'
@@ -544,6 +538,12 @@
   level: '?'
   lon: -88.12552
   name:  'e87ca277a53e41cc967101fdde466ef0.16'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/BoAN9OSCH5u7G1sestzZaXjjik82i-SteF6-r5KTTyl530q9H5G3ibjJdqpGGY-nL8MypRXn2twwvn_y5nMmug'
+  lat: 40.133159
+  level: 2
+  lon: -88.28778
+  name:  'Campus Solar System - Saturn'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.361766
@@ -628,18 +628,6 @@
   level: 6
   lon: -88.24584
   name:  'Amvets Post 3'
-- ap: 2537
-  img:  'http://lh3.googleusercontent.com/zcTaX3OHcGZu7CzBV1HvsKtB5RiAW7oMwxS_7phps0tjr70eNr8xbxrJ_P6agi_uXJtMNdHPnks9rZcrR6mG'
-  lat: 40.127267
-  level: 5
-  lon: -88.253451
-  name:  'Champaign Fire Department'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/oyiyn1Im-Ppa2y94WGbvZox7rcS2MMu45LOziU7yXZi4v2540YN6hgzBokVq2mxvpPtdDXpAwWD_vYWxjHcO'
-  lat: 40.130238
-  level: 5
-  lon: -88.253835
-  name:  'American Legion Post 24'
 - ap: 2312
   img:  'http://lh5.ggpht.com/k51dyIcq_VT8S0cGsHhfgbItaWCMpBfJ9wjHrms0zYNSVH5gfV5-gmxjVatlchfenHsCBRl1uE8AzYJTf8dN'
   lat: 40.117449
