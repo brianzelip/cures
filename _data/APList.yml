@@ -137,6 +137,12 @@
   lon: -88.251314
   name:  'Gabriel Patrick Maxeiner Memorial Plaque'
 - ap: 6098
+  img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
+  lat: 40.100691
+  level: 8
+  lon: -88.251337
+  name:  'In Loving Memory of Zeus'
+- ap: 6098
   img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
   lat: 40.100286
   level: 8
@@ -166,12 +172,6 @@
   level: 8
   lon: -88.251676
   name:  'Ruth and Fred Steigmann Plaque'
-- ap: 6098
-  img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
-  lat: 40.100691
-  level: 8
-  lon: -88.251337
-  name:  'In Loving Memory of Zeus'
 - ap: 5909
   img:  'http://lh6.ggpht.com/0IsQORyEW-bPA7sEbGspygtoI7ixEshm_2fUw5oeh9AeXg6JN5w0ypYIshpuKm-C0nG4Vm2XmpLvtWTZzWzd'
   lat: 40.111607
@@ -227,17 +227,17 @@
   lon: -88.332754
   name:  'Robert C. Porter Family Park'
 - ap: 5161
-  img:  'http://lh4.ggpht.com/1LzO6yLZvWb6_g3FLduNKYb6d5TVljqsdNnQggC6Idh7XbUSLf4TOcuWChcYsVve_pt7N5f77mEJLTqUmA'
-  lat: 40.085878
-  level: 3
-  lon: -88.331166
-  name:  'Porter Family Park Dedication'
-- ap: 5161
   img:  'http://lh6.ggpht.com/prg5Oedqi1_YJMN9GAesf7bmbUwbMGc9v7E3SYkm-TYdudfpX9SwuC1J4D4zkb1K4yrvF2ZPNWDoUniixORu'
   lat: 40.086493
   level: 3
   lon: -88.330828
   name:  'Environmental Plaque - Prairie '
+- ap: 5161
+  img:  'http://lh4.ggpht.com/1LzO6yLZvWb6_g3FLduNKYb6d5TVljqsdNnQggC6Idh7XbUSLf4TOcuWChcYsVve_pt7N5f77mEJLTqUmA'
+  lat: 40.085878
+  level: 3
+  lon: -88.331166
+  name:  'Porter Family Park Dedication'
 - ap: 4972
   img:  'http://lh4.ggpht.com/YMDDyyJpIhe7xeYVGH048CFQDr7lX1SIPXzk4kXWr6zVgpUv6D1YGTLKwyg3DrhDoCuv-knBgF2gKZTylVRQ'
   lat: 40.132912
@@ -305,29 +305,23 @@
   lon: -88.251412
   name:  'Zeus Memorial'
 - ap: 4411
-  img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
-  lat: 40.099593
-  level: 8
-  lon: -88.251724
-  name:  'Blessings from Devon Elaine Cattell'
-- ap: 4411
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
   level: 8
   lon: -88.250864
   name:  'Gabriel Patrick Maxeiner Memorial'
 - ap: 4411
+  img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
+  lat: 40.099593
+  level: 8
+  lon: -88.251724
+  name:  'Blessings from Devon Elaine Cattell'
+- ap: 4411
   img:  'http://lh5.ggpht.com/Tn5ARN-X6VTc2q6atZ2WYq3c2g3gbSGXu6_vXf1MDwHfLpdTtnQ-CilBAVGvL6R-SHhq3fJ4WZI-yiJKmIId'
   lat: 40.110398
   level: 4
   lon: -88.235143
   name:  'US Post Office, E Green St, Champaign'
-- ap: 4035
-  img:  'http://lh6.ggpht.com/WVVbmiu2GGTnPTszcnYYILHKlkZDoxB-QY6Yv7YPoUfdVn92jYnKjpVKNkfWdFrPjq-BaFeKGJWLZlE-bbA'
-  lat: 40.120467
-  level: 5
-  lon: -88.2577
-  name:  'Salvation Army Church'
 - ap: 3660
   img:  'http://lh4.ggpht.com/BakPypxJUdTOMFo4cSzlewsmPlHw3DyQp4kVY2zAFfJvhvj9CnaQm6cqvB22BqjknBbUYxEb_eYnIZ2skgfO'
   lat: 40.11586
@@ -335,11 +329,35 @@
   lon: -88.227238
   name:  'Flow'
 - ap: 3848
+  img:  'http://lh6.ggpht.com/WVVbmiu2GGTnPTszcnYYILHKlkZDoxB-QY6Yv7YPoUfdVn92jYnKjpVKNkfWdFrPjq-BaFeKGJWLZlE-bbA'
+  lat: 40.120467
+  level: 5
+  lon: -88.2577
+  name:  'Salvation Army Church'
+- ap: 3848
   img:  'http://lh4.ggpht.com/FAqopsayR2vfoblDs12USLGHxH0S1lfng6IlvgMPO2k4a1fKXYQnDWf0Lbf3zAqLfMU0aGaHpSZxycRqft9pmQ'
   lat: 40.119381
   level: 6
   lon: -88.24555
   name:  'The Lodge on Hill'
+- ap: 3661
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.195404
+  level: '?'
+  lon: -88.40408
+  name:  '35d2540a6dab4d509460962b545bd2bf.16'
+- ap: 3661
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.312242
+  level: '?'
+  lon: -88.201368
+  name:  '2012 Employee Dedication Bench'
+- ap: 3661
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.195867
+  level: '?'
+  lon: -88.404791
+  name:  'US Post Office, E Main St'
 - ap: 3661
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.360306
@@ -443,12 +461,6 @@
   lon: -88.248866
   name:  'Holy Cross Catholic Church'
 - ap: 2911
-  img:  'http://lh6.ggpht.com/IaC06rT1aNxUg_4UOc0RHOio2PUjl5w1cZcGYE56zHNZN9ZeRuAGzoAPG4XB6eJURfP8M5v7bDcq_AdB1E5A'
-  lat: 40.119861
-  level: 5
-  lon: -88.238491
-  name:  'Skelton Park'
-- ap: 2911
   img:  'http://lh6.ggpht.com/j712bbvDknzGlAU87nZA1Bx45Ng-0MGA9Uvuv-3WzIKA3W51mXOZpJ-TzVSbuU3uE2AsJ5wcO7_B6WDpdRr0'
   lat: 40.110684
   level: 4
@@ -473,17 +485,17 @@
   lon: -88.313072
   name:  'Sunset Skate Park'
 - ap: 2724
-  img:  'http://lh5.ggpht.com/_9uqsDQROIwqIhKx_URY4DdZAapoZBEWK6Eaclt5mM5vPsjwQAD-v8Bv-4b-Smq2F8X4zOgzLx2KwySkFWc'
-  lat: 40.118448
-  level: 5
-  lon: -88.25211
-  name:  'First Church of Christ, Scientist'
-- ap: 2724
   img:  'http://lh4.ggpht.com/9jXAzAxn0JZrLkU9VK9p-mNzjw3x_6QqwMAn4CAEBAHp_lo2iDZeV_y-hoUzP5CYwm8kOMyrTToZQOWJBRnw'
   lat: 40.115095
   level: 3
   lon: -88.249052
   name:  'Bayne & Schumacher Fountain'
+- ap: 2724
+  img:  'http://lh6.ggpht.com/IaC06rT1aNxUg_4UOc0RHOio2PUjl5w1cZcGYE56zHNZN9ZeRuAGzoAPG4XB6eJURfP8M5v7bDcq_AdB1E5A'
+  lat: 40.119861
+  level: 5
+  lon: -88.238491
+  name:  'Skelton Park'
 - ap: 2724
   img:  'http://lh6.ggpht.com/RW34ntixvJkg7fD71TPYo_4KIsBzA0-a-6yXO0jKPbpGxX5gIGC7kBI-pXEF9OHhuolcAGW2fxyK3Pt42Iev'
   lat: 40.110489
@@ -508,24 +520,24 @@
   level: 1
   lon: -88.227811
   name:  'Henry Administration Building'
-- ap: 2724
+- ap: 2424
   img:  'http://lh5.ggpht.com/KQ7QYG8rWnVxSme_uq3cOu8IreZRbztWWKHTNPBy_6GvCqP3ywy-HEoSUxqloLDeUggEVV0UhKLy8Ja0v0yPdQ'
   lat: 40.110844
-  level: 3
+  level: 1
   lon: -88.224091
   name:  'Institute of Aviation'
-- ap: 2724
-  img:  'http://lh4.ggpht.com/j8nn4oxG37YIXPvQKVP6CBbVkveyhoHNg8O8QFxZKgbKVegaP5OdjJl8L8HTjzdBoVKPJIFHmwN26NfE9n4'
-  lat: 40.111897
-  level: 5
-  lon: -88.222485
-  name:  'Engineering Student Project Laboratory'
 - ap: 2649
   img:  'http://lh6.ggpht.com/hf2-XzERtSQhHYqpfkmEoUelpEes9pxtJ5gINRWSZ6NTzyKQI3lTEEq-UDBSvbmADpUd1ScID47hMvXgmHo'
   lat: 40.111432
   level: 5
   lon: -88.207259
   name:  'US Post Office'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/BoAN9OSCH5u7G1sestzZaXjjik82i-SteF6-r5KTTyl530q9H5G3ibjJdqpGGY-nL8MypRXn2twwvn_y5nMmug'
+  lat: 40.133159
+  level: 2
+  lon: -88.28778
+  name:  'Campus Solar System - Saturn'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.349793
@@ -539,17 +551,17 @@
   lon: -88.12552
   name:  'e87ca277a53e41cc967101fdde466ef0.16'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/BoAN9OSCH5u7G1sestzZaXjjik82i-SteF6-r5KTTyl530q9H5G3ibjJdqpGGY-nL8MypRXn2twwvn_y5nMmug'
-  lat: 40.133159
-  level: 2
-  lon: -88.28778
-  name:  'Campus Solar System - Saturn'
-- ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.361766
   level: '?'
   lon: -88.429109
   name:  'Foosland Village Park'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.122056
+  level: '?'
+  lon: -88.645323
+  name:  '9e3af3afef824ee6aee179175a7845c4.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.007202
@@ -574,10 +586,10 @@
   level: 4
   lon: -88.289889
   name:  'Optimist Club Dedication 1991'
-- ap: 2312
+- ap: 2387
   img:  'http://lh5.ggpht.com/tZ1lEGRzdFJ7k1jwj0PTGd3tWVTGqCHIb1LcRdjc2pF5IJjsuYFFPQgwEWSBaPapa89oOEPXO_g2XWQxQl2h'
   lat: 40.110212
-  level: 3
+  level: 4
   lon: -88.276899
   name:  'St John Lutheran Church'
 - ap: 2537
@@ -635,11 +647,11 @@
   lon: -88.23557
   name:  'Park Avenue Seventh Day Adventist Church'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/BsXdEO7HLxNLSdztPo_4GNNcbxZCxswiDT4pmmcfDQ8YO2SFVW-VnwyEZBvkuhf1rxKAtoKNLvV4rDJ-YVCYUK1qiX-dId_R8P-JskyFYAK9ruM-'
-  lat: 40.110234
-  level: 4
-  lon: -88.224055
-  name:  'The Etc'
+  img:  'http://lh4.ggpht.com/j8nn4oxG37YIXPvQKVP6CBbVkveyhoHNg8O8QFxZKgbKVegaP5OdjJl8L8HTjzdBoVKPJIFHmwN26NfE9n4'
+  lat: 40.111897
+  level: 5
+  lon: -88.222485
+  name:  'Engineering Student Project Laboratory'
 - ap: 2462
   img:  'http://lh3.ggpht.com/wOZOXhKOnhbKEPMQke-zGIG_vheDkHM8q19B1n_is5H7t1whBcQxBIGZI6VIPNw8mdCNXG6EUZeSjd1YLdngdg'
   lat: 40.108965
@@ -658,10 +670,10 @@
   level: 4
   lon: -88.234589
   name:  'Koinonia Plaque'
-- ap: 2537
+- ap: 2387
   img:  'http://lh5.ggpht.com/f1O8bFXHTg2PTOAUVLvrqk5xx5ps9SeqhpJ1RIPtSxm0I-e7J275e2ujJp3lFQGHUBW_vS90KOsrcdLDJ84l4g'
   lat: 40.110797
-  level: 4
+  level: 3
   lon: -88.225321
   name:  'Multiphase Fluid Dynamics Plaque'
 - ap: 2537
@@ -694,15 +706,3 @@
   level: 2
   lon: -88.207738
   name:  'Urbana''s Bell'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.195404
-  level: '?'
-  lon: -88.40408
-  name:  '35d2540a6dab4d509460962b545bd2bf.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.195867
-  level: '?'
-  lon: -88.404791
-  name:  'US Post Office, E Main St'
