@@ -199,7 +199,7 @@
 - ap: 5535
   img:  'http://lh5.ggpht.com/KadNuhjGK6FUXezGHW1W1kfPOQV5l7gJP594EQm5nPZFLTgcTsjl4ixa-j7XitgtyJyou3q0pTfMr4i2E_avIA'
   lat: 40.118013
-  level: 5
+  level: 6
   lon: -88.243445
   name:  'Clock at Neil and Main'
 - ap: 5535
@@ -221,17 +221,17 @@
   lon: -88.332754
   name:  'Robert C. Porter Family Park'
 - ap: 5161
-  img:  'http://lh4.ggpht.com/1LzO6yLZvWb6_g3FLduNKYb6d5TVljqsdNnQggC6Idh7XbUSLf4TOcuWChcYsVve_pt7N5f77mEJLTqUmA'
-  lat: 40.085878
-  level: 3
-  lon: -88.331166
-  name:  'Porter Family Park Dedication'
-- ap: 5161
   img:  'http://lh6.ggpht.com/prg5Oedqi1_YJMN9GAesf7bmbUwbMGc9v7E3SYkm-TYdudfpX9SwuC1J4D4zkb1K4yrvF2ZPNWDoUniixORu'
   lat: 40.086493
   level: 3
   lon: -88.330828
   name:  'Environmental Plaque - Prairie '
+- ap: 5161
+  img:  'http://lh4.ggpht.com/1LzO6yLZvWb6_g3FLduNKYb6d5TVljqsdNnQggC6Idh7XbUSLf4TOcuWChcYsVve_pt7N5f77mEJLTqUmA'
+  lat: 40.085878
+  level: 3
+  lon: -88.331166
+  name:  'Porter Family Park Dedication'
 - ap: 4972
   img:  'http://lh4.ggpht.com/YMDDyyJpIhe7xeYVGH048CFQDr7lX1SIPXzk4kXWr6zVgpUv6D1YGTLKwyg3DrhDoCuv-knBgF2gKZTylVRQ'
   lat: 40.132912
@@ -277,7 +277,7 @@
 - ap: 4411
   img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
   lat: 40.116989
-  level: 4
+  level: 6
   lon: -88.242255
   name:  'Blind Pig'
 - ap: 4411
@@ -360,30 +360,6 @@
   name:  'Boneyard Greenway'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.891332
-  level: '?'
-  lon: -87.609518
-  name:  '2a27b73115c940dc9f084b8938c973c1.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.891136
-  level: '?'
-  lon: -87.610875
-  name:  '8d1b60a768e948e0aff2ac0a285a3e03.12'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.891383
-  level: '?'
-  lon: -87.610138
-  name:  '8490a15bbc6d40e68d80c7d9626f193c.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.896156
-  level: '?'
-  lon: -87.610071
-  name:  'ac0239c3ac404385984dd819cebf734a.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.273821
   level: '?'
   lon: -88.676394
@@ -394,6 +370,30 @@
   level: '?'
   lon: -88.675349
   name:  'Adams Leaning Wheel Grader'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.891332
+  level: '?'
+  lon: -87.609518
+  name:  '2a27b73115c940dc9f084b8938c973c1.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.891383
+  level: '?'
+  lon: -87.610138
+  name:  '8490a15bbc6d40e68d80c7d9626f193c.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.891136
+  level: '?'
+  lon: -87.610875
+  name:  '8d1b60a768e948e0aff2ac0a285a3e03.12'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.896156
+  level: '?'
+  lon: -87.610071
+  name:  'ac0239c3ac404385984dd819cebf734a.16'
 - ap: 3474
   img:  'http://lh5.ggpht.com/vYay8RKsCV_BP_MkeFm7se0VZoYthm-1pThiATAADleBlTsPowobgZyUoU7DUto6p5cpg9adpCcTgNR6iop0Jw'
   lat: 40.120121
@@ -521,6 +521,12 @@
   lon: -88.207259
   name:  'US Post Office'
 - ap: 2537
+  img:  'http://lh5.ggpht.com/BoAN9OSCH5u7G1sestzZaXjjik82i-SteF6-r5KTTyl530q9H5G3ibjJdqpGGY-nL8MypRXn2twwvn_y5nMmug'
+  lat: 40.133159
+  level: 2
+  lon: -88.28778
+  name:  'Campus Solar System - Saturn'
+- ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.349793
   level: '?'
@@ -532,12 +538,6 @@
   level: '?'
   lon: -88.12552
   name:  'e87ca277a53e41cc967101fdde466ef0.16'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/BoAN9OSCH5u7G1sestzZaXjjik82i-SteF6-r5KTTyl530q9H5G3ibjJdqpGGY-nL8MypRXn2twwvn_y5nMmug'
-  lat: 40.133159
-  level: 2
-  lon: -88.28778
-  name:  'Campus Solar System - Saturn'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.361766
