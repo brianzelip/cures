@@ -215,17 +215,17 @@
   lon: -88.332754
   name:  'Robert C. Porter Family Park'
 - ap: 5161
-  img:  'http://lh4.ggpht.com/1LzO6yLZvWb6_g3FLduNKYb6d5TVljqsdNnQggC6Idh7XbUSLf4TOcuWChcYsVve_pt7N5f77mEJLTqUmA'
-  lat: 40.085878
-  level: 3
-  lon: -88.331166
-  name:  'Porter Family Park Dedication'
-- ap: 5161
   img:  'http://lh6.ggpht.com/prg5Oedqi1_YJMN9GAesf7bmbUwbMGc9v7E3SYkm-TYdudfpX9SwuC1J4D4zkb1K4yrvF2ZPNWDoUniixORu'
   lat: 40.086493
   level: 3
   lon: -88.330828
   name:  'Environmental Plaque - Prairie '
+- ap: 5161
+  img:  'http://lh4.ggpht.com/1LzO6yLZvWb6_g3FLduNKYb6d5TVljqsdNnQggC6Idh7XbUSLf4TOcuWChcYsVve_pt7N5f77mEJLTqUmA'
+  lat: 40.085878
+  level: 3
+  lon: -88.331166
+  name:  'Porter Family Park Dedication'
 - ap: 4972
   img:  'http://lh4.ggpht.com/YMDDyyJpIhe7xeYVGH048CFQDr7lX1SIPXzk4kXWr6zVgpUv6D1YGTLKwyg3DrhDoCuv-knBgF2gKZTylVRQ'
   lat: 40.132912
@@ -328,6 +328,12 @@
   level: 4
   lon: -88.224091
   name:  'Institute of Aviation'
+- ap: 3661
+  img:  'http://lh4.ggpht.com/ezHSw_hRdts3U3bzkEEn46LneS1miDpbSGoxg0v1TqG_W82bvfR2uSTZeDFfhG0kmPJAkOblWP_ZilA6TP8'
+  lat: 40.112523
+  level: 4
+  lon: -88.227765
+  name:  'Bardeen Quadrangle - North Side'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.891332
@@ -407,6 +413,18 @@
   lon: -88.231138
   name:  'Boneyard Greenway'
 - ap: 3474
+  img:  'http://lh3.ggpht.com/aHqOXq4BX_XXhSNRFJn0768z_1bjWEniMumNJ4FMy9Nv5j3AefPsZDiAGCehCguZ1HFOBMBXxRI4mOXd077e'
+  lat: 40.112957
+  level: 4
+  lon: -88.227127
+  name:  'Early Computers Plaque'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/6WTMH3liIIuH6pEvRGZOkUNNR84nR8frjFch6yn_4mbGIokY-MajBCG6jZHWU37a8TBI97rYTBlX-ks8m5XJTw'
+  lat: 40.112843
+  level: 4
+  lon: -88.227657
+  name:  'Class of 1904 Flagpole'
+- ap: 3474
   img:  'http://lh3.ggpht.com/LR76HrJqriPFUoc2XSs7jb2SotnStZv20kI7rgUx8B5HqhmetnTW4MA1tCp1ws4g5gw0sf9g7M3Lwq4VwfpD'
   lat: 40.111687
   level: 4
@@ -484,24 +502,12 @@
   level: 4
   lon: -88.227412
   name:  'Bus Stop - Illini Union, Westbound'
-- ap: 2724
-  img:  'http://lh4.ggpht.com/ezHSw_hRdts3U3bzkEEn46LneS1miDpbSGoxg0v1TqG_W82bvfR2uSTZeDFfhG0kmPJAkOblWP_ZilA6TP8'
-  lat: 40.112523
-  level: 4
-  lon: -88.227765
-  name:  'Bardeen Quadrangle - North Side'
 - ap: 2649
   img:  'http://lh6.ggpht.com/hf2-XzERtSQhHYqpfkmEoUelpEes9pxtJ5gINRWSZ6NTzyKQI3lTEEq-UDBSvbmADpUd1ScID47hMvXgmHo'
   lat: 40.111432
   level: 5
   lon: -88.207259
   name:  'US Post Office'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/BoAN9OSCH5u7G1sestzZaXjjik82i-SteF6-r5KTTyl530q9H5G3ibjJdqpGGY-nL8MypRXn2twwvn_y5nMmug'
-  lat: 40.133159
-  level: 2
-  lon: -88.28778
-  name:  'Campus Solar System - Saturn'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.349793
@@ -514,6 +520,12 @@
   level: '?'
   lon: -88.12552
   name:  'e87ca277a53e41cc967101fdde466ef0.16'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/BoAN9OSCH5u7G1sestzZaXjjik82i-SteF6-r5KTTyl530q9H5G3ibjJdqpGGY-nL8MypRXn2twwvn_y5nMmug'
+  lat: 40.133159
+  level: 2
+  lon: -88.28778
+  name:  'Campus Solar System - Saturn'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.361766
@@ -640,21 +652,15 @@
   level: 3
   lon: -88.225321
   name:  'Multiphase Fluid Dynamics Plaque'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/aHqOXq4BX_XXhSNRFJn0768z_1bjWEniMumNJ4FMy9Nv5j3AefPsZDiAGCehCguZ1HFOBMBXxRI4mOXd077e'
-  lat: 40.112957
-  level: 4
-  lon: -88.227127
-  name:  'Early Computers Plaque'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/Prv8wUbEpOsrluZ4pHXYwIQLreDfbvMRV7kMb39yXob8h_r5vXNRC-wSR6pi-2NeP0uIRJsaeWtsGe96cJ_U'
-  lat: 40.112295
-  level: 5
-  lon: -88.207196
-  name:  'War Memorial @ Downtown Urbana'
 - ap: 2312
   img:  'http://lh3.googleusercontent.com/7F3ArbPGhGx3ARCB26P8ldeKhXR15uyu4UN1LUyzoEGT06tuE6FPUKzyT1cdcLR7IVr6pBXdMLRdER5o4ZY'
   lat: 40.111715
   level: 2
   lon: -88.207738
   name:  'Urbana''s Bell'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/Prv8wUbEpOsrluZ4pHXYwIQLreDfbvMRV7kMb39yXob8h_r5vXNRC-wSR6pi-2NeP0uIRJsaeWtsGe96cJ_U'
+  lat: 40.112295
+  level: 5
+  lon: -88.207196
+  name:  'War Memorial @ Downtown Urbana'
