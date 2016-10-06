@@ -203,17 +203,17 @@
   lon: -88.332754
   name:  'Robert C. Porter Family Park'
 - ap: 5161
-  img:  'http://lh6.ggpht.com/prg5Oedqi1_YJMN9GAesf7bmbUwbMGc9v7E3SYkm-TYdudfpX9SwuC1J4D4zkb1K4yrvF2ZPNWDoUniixORu'
-  lat: 40.086493
-  level: 3
-  lon: -88.330828
-  name:  'Environmental Plaque - Prairie '
-- ap: 5161
   img:  'http://lh4.ggpht.com/1LzO6yLZvWb6_g3FLduNKYb6d5TVljqsdNnQggC6Idh7XbUSLf4TOcuWChcYsVve_pt7N5f77mEJLTqUmA'
   lat: 40.085878
   level: 3
   lon: -88.331166
   name:  'Porter Family Park Dedication'
+- ap: 5161
+  img:  'http://lh6.ggpht.com/prg5Oedqi1_YJMN9GAesf7bmbUwbMGc9v7E3SYkm-TYdudfpX9SwuC1J4D4zkb1K4yrvF2ZPNWDoUniixORu'
+  lat: 40.086493
+  level: 3
+  lon: -88.330828
+  name:  'Environmental Plaque - Prairie '
 - ap: 4972
   img:  'http://lh4.ggpht.com/YMDDyyJpIhe7xeYVGH048CFQDr7lX1SIPXzk4kXWr6zVgpUv6D1YGTLKwyg3DrhDoCuv-knBgF2gKZTylVRQ'
   lat: 40.132912
@@ -442,18 +442,6 @@
   level: 4
   lon: -88.22799
   name:  'Eta Kappa Nu Plaque'
-- ap: 2649
-  img:  'http://lh5.ggpht.com/szWXjFVU67N6nJHeZbrcsC2b8J7kXF7nBh_RooZZ5-ezcJsxWUvA7NZrGjJxfwTzVkc2HYMYLwh19UaYEbm3-Vmu4ZAG8959ZOG44cpeeyoUHtkD'
-  lat: 40.108422
-  level: 1
-  lon: -88.227811
-  name:  'Henry Administration Building'
-- ap: 2424
-  img:  'http://lh5.ggpht.com/KQ7QYG8rWnVxSme_uq3cOu8IreZRbztWWKHTNPBy_6GvCqP3ywy-HEoSUxqloLDeUggEVV0UhKLy8Ja0v0yPdQ'
-  lat: 40.110844
-  level: 1
-  lon: -88.224091
-  name:  'Institute of Aviation'
 - ap: 2724
   img:  'http://lh4.ggpht.com/ezHSw_hRdts3U3bzkEEn46LneS1miDpbSGoxg0v1TqG_W82bvfR2uSTZeDFfhG0kmPJAkOblWP_ZilA6TP8'
   lat: 40.112523
@@ -467,6 +455,12 @@
   lon: -88.207259
   name:  'US Post Office'
 - ap: 2537
+  img:  'http://lh5.ggpht.com/BoAN9OSCH5u7G1sestzZaXjjik82i-SteF6-r5KTTyl530q9H5G3ibjJdqpGGY-nL8MypRXn2twwvn_y5nMmug'
+  lat: 40.133159
+  level: 2
+  lon: -88.28778
+  name:  'Campus Solar System - Saturn'
+- ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.349793
   level: '?'
@@ -478,12 +472,6 @@
   level: '?'
   lon: -88.12552
   name:  'e87ca277a53e41cc967101fdde466ef0.16'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/BoAN9OSCH5u7G1sestzZaXjjik82i-SteF6-r5KTTyl530q9H5G3ibjJdqpGGY-nL8MypRXn2twwvn_y5nMmug'
-  lat: 40.133159
-  level: 2
-  lon: -88.28778
-  name:  'Campus Solar System - Saturn'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.361766
@@ -563,6 +551,18 @@
   lon: -88.24957
   name:  'Linda M. Wesolowski Memorial Sign'
 - ap: 2537
+  img:  'http://lh3.googleusercontent.com/enpZZ8JRREFPTvYd3jbeUlpS-mmcwKe5fsvoWRPkfMUj6PijyI-5tbR55UItBoNJAFSl9fAAOvXb6BpWCJT4'
+  lat: 40.102495
+  level: 6
+  lon: -88.242132
+  name:  'Nuclear Physics Lab'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/uaO1clC1eOzxRVRPPU6mVM4lEPV2U6uxh64a8kJNRglHSObClWlHGEcfJTknzwB_7Wli3doxQJbZKiBHIXI'
+  lat: 40.102834
+  level: 6
+  lon: -88.241672
+  name:  'Rehabilitation Education Center'
+- ap: 2537
   img:  'http://lh5.ggpht.com/zUcdFy4LbfVjWynZZp4C5TfAppnK9Iiou6aV9idMEi-uHh7ZVcuIZxHz7Sqt4EqZY__obyqxWSrIBmWDtvwUpg'
   lat: 40.124036
   level: 5
@@ -574,12 +574,12 @@
   level: 4
   lon: -88.23398
   name:  'Church of the Living God'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/j8nn4oxG37YIXPvQKVP6CBbVkveyhoHNg8O8QFxZKgbKVegaP5OdjJl8L8HTjzdBoVKPJIFHmwN26NfE9n4'
-  lat: 40.111897
-  level: 5
-  lon: -88.222485
-  name:  'Engineering Student Project Laboratory'
+- ap: 2462
+  img:  'http://lh5.ggpht.com/szWXjFVU67N6nJHeZbrcsC2b8J7kXF7nBh_RooZZ5-ezcJsxWUvA7NZrGjJxfwTzVkc2HYMYLwh19UaYEbm3-Vmu4ZAG8959ZOG44cpeeyoUHtkD'
+  lat: 40.108422
+  level: 1
+  lon: -88.227811
+  name:  'Henry Administration Building'
 - ap: 2462
   img:  'http://lh3.ggpht.com/wOZOXhKOnhbKEPMQke-zGIG_vheDkHM8q19B1n_is5H7t1whBcQxBIGZI6VIPNw8mdCNXG6EUZeSjd1YLdngdg'
   lat: 40.108965
