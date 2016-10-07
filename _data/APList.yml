@@ -53,6 +53,12 @@
   lon: -88.313172
   name:  'Sunset Ridge Prairie '
 - ap: 6659
+  img:  'http://lh3.ggpht.com/rT55OoX-8s-w_ikrqOgpC7QkK-Iqp4ylicElGoWFagKRQ8LX3Uvv8TZ5Xc8BlId1btzo5FTbgddPN72kYwA'
+  lat: 40.114327
+  level: 7
+  lon: -88.224492
+  name:  'Siebel Courtyard Structure'
+- ap: 6659
   img:  'http://lh3.ggpht.com/x5fBw8MRogV8dm3kPO5zKNkUrQxn0dM7d1PIoASdX1_Rc8H5Duex4iZdOoIlqazCGll25TmptsWIRq1JFmj6'
   lat: 40.112135
   level: 5
@@ -64,6 +70,12 @@
   level: 3
   lon: -88.31369
   name:  'Mark L. Rambow Tree'
+- ap: 6472
+  img:  'http://lh3.ggpht.com/dBN6P2wGkcXj-MNbPjAJzN-RxmK93xRIhp29sZ6-ZmsbFoey4dGO51tP1FIFCzHjs4CIhHd-xGmflcW43R0w'
+  lat: 40.10604
+  level: 3
+  lon: -88.224625
+  name:  'Asian American Culture Center'
 - ap: 6285
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.634356
@@ -149,17 +161,17 @@
   lon: -88.240517
   name:  'Glory Pipes 2.0'
 - ap: 5722
-  img:  'http://lh3.ggpht.com/rT55OoX-8s-w_ikrqOgpC7QkK-Iqp4ylicElGoWFagKRQ8LX3Uvv8TZ5Xc8BlId1btzo5FTbgddPN72kYwA'
-  lat: 40.114327
-  level: 7
-  lon: -88.224492
-  name:  'Siebel Courtyard Structure'
-- ap: 5535
   img:  'http://lh5.ggpht.com/dEeT4acpLu-WQFlZWd3psap5qAqqPTSVzm8Qt1QtpqtwZ0j1V9eKFcmpgN9K_x1PL4XVchuevw25rxHekz3tvQ'
   lat: 40.111968
   level: 6
   lon: -88.226793
   name:  'Bardeen Quad Structure'
+- ap: 5722
+  img:  'http://lh3.ggpht.com/whmQSPmix2tEoKcWwrVrV0H0JzNf1tzyuohI3ykSa-Qx4rUcLTf4686WcnJjygsMY2QPUWhvVVzlmMMHof94'
+  lat: 40.105907
+  level: 4
+  lon: -88.22564
+  name:  'Andrew De Grado Memorial'
 - ap: 5535
   img:  'http://lh5.ggpht.com/f710C9AvOEB7ieCI4f382wWUP4OgDxiqPzbxqxct6Ugf2PWBfyXyDpG_JcRQ6PaZ_jS0jpXXBhNSt_u9rFA'
   lat: 40.113864
@@ -202,12 +214,6 @@
   level: 4
   lon: -88.31285
   name:  'Sunset Ridge Park Dedication'
-- ap: 4785
-  img:  'http://lh3.ggpht.com/whmQSPmix2tEoKcWwrVrV0H0JzNf1tzyuohI3ykSa-Qx4rUcLTf4686WcnJjygsMY2QPUWhvVVzlmMMHof94'
-  lat: 40.105907
-  level: 4
-  lon: -88.22564
-  name:  'Andrew De Grado Memorial'
 - ap: 4598
   img:  'http://lh6.ggpht.com/ocpQF23CdY7CXPOYMbPL3wLLV7Rc0VayvSyooA07il2lG0oiiQDbDCnsKqO1ysXJAVlzGikCKS-kVOLb6rog'
   lat: 40.135079
@@ -232,6 +238,18 @@
   level: 5
   lon: -88.243697
   name:  'Champaign Surplus'
+- ap: 4598
+  img:  'http://lh3.ggpht.com/lGjbP2iz0XvlEWLhgCBNqkWukvjrBowKmX-1_O44U1A3_4b3-vuXzkfp7rasqU81TcPBoQO82gAzEGtBBYcR'
+  lat: 40.106058
+  level: 4
+  lon: -88.223672
+  name:  'Music Building'
+- ap: 4598
+  img:  'http://lh3.ggpht.com/2wN9MWxEFPbMzRPAzNmaAiCOQJj_EFr94Y1YkQP_wMlyajkajmcw00gqW-EluMvpQmvnGgcQ-WdPxjcYTmr2'
+  lat: 40.106519
+  level: 4
+  lon: -88.223748
+  name:  'Thunderbird Theatre Mosaic'
 - ap: 4411
   img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
   lat: 40.101327
@@ -250,18 +268,24 @@
   level: 8
   lon: -88.250864
   name:  'Gabriel Patrick Maxeiner Memorial'
+- ap: 4411
+  img:  'http://lh5.ggpht.com/2PB1u3cNuASfw9D_MIUzI1JvNofebK7zsuGqKoUApr-nUWYZ8y5CzxH6g7CdcY7ShBaVGrBrurkbwrdUPD7JBk55TH0Ouao5b_g2jUI1saBNUE8'
+  lat: 40.106744
+  level: 4
+  lon: -88.225347
+  name:  'The Red Herring Vegetarian'
+- ap: 4222
+  img:  'http://lh3.googleusercontent.com/NRpdP-ebGuykq3sH1NZBQVjhmSdVJW3F4MTCRdXrWKQf3Z5dBgo0Phhyqnel5IrJmriQRmJNFR12lRDrjxJ9'
+  lat: 40.114911
+  level: 6
+  lon: -88.227781
+  name:  'Electrical & Computer Engineering Building'
 - ap: 3848
   img:  'http://lh5.ggpht.com/J4IbsPUjPF6cIlktTr1tOGHi61krS9o1eXeuAlPRBrSYUQrwdyShfNzuzxD0epa_cBMPF1xJ9YhoBA5VOQtYRw'
   lat: 40.105467
   level: 4
   lon: -88.225644
   name:  'Smith Music Hall'
-- ap: 3848
-  img:  'http://lh3.ggpht.com/dBN6P2wGkcXj-MNbPjAJzN-RxmK93xRIhp29sZ6-ZmsbFoey4dGO51tP1FIFCzHjs4CIhHd-xGmflcW43R0w'
-  lat: 40.10604
-  level: 3
-  lon: -88.224625
-  name:  'Asian American Culture Center'
 - ap: 3773
   img:  'http://lh4.ggpht.com/ezHSw_hRdts3U3bzkEEn46LneS1miDpbSGoxg0v1TqG_W82bvfR2uSTZeDFfhG0kmPJAkOblWP_ZilA6TP8'
   lat: 40.112523
@@ -274,6 +298,18 @@
   level: '?'
   lon: -88.431268
   name:  '26ffbb1778974e99a93bb874fcb6c57c.12'
+- ap: 3661
+  img:  'http://lh5.ggpht.com/ZDv0mHiZcEfLxGVibvfnMCu7reJceCVnxa4GeBjK2DO4Y4a0x-M7C2M0rEam-_bPlr2e2476RXe15pRY48s'
+  lat: 40.114351
+  level: 5
+  lon: -88.227096
+  name:  'Chi Epsilon Civil Engineering'
+- ap: 3661
+  img:  'http://lh3.ggpht.com/aHqOXq4BX_XXhSNRFJn0768z_1bjWEniMumNJ4FMy9Nv5j3AefPsZDiAGCehCguZ1HFOBMBXxRI4mOXd077e'
+  lat: 40.112957
+  level: 4
+  lon: -88.227127
+  name:  'Early Computers Plaque'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.891136
@@ -353,12 +389,6 @@
   lon: -88.225714
   name:  'Smith Memorial Hall'
 - ap: 3474
-  img:  'http://lh5.ggpht.com/2PB1u3cNuASfw9D_MIUzI1JvNofebK7zsuGqKoUApr-nUWYZ8y5CzxH6g7CdcY7ShBaVGrBrurkbwrdUPD7JBk55TH0Ouao5b_g2jUI1saBNUE8'
-  lat: 40.106744
-  level: 4
-  lon: -88.225347
-  name:  'The Red Herring Vegetarian'
-- ap: 3474
   img:  'http://lh3.ggpht.com/LR76HrJqriPFUoc2XSs7jb2SotnStZv20kI7rgUx8B5HqhmetnTW4MA1tCp1ws4g5gw0sf9g7M3Lwq4VwfpD'
   lat: 40.111687
   level: 4
@@ -370,12 +400,6 @@
   level: 4
   lon: -88.225675
   name:  'Only Rain Down The Drain'
-- ap: 3474
-  img:  'http://lh3.ggpht.com/aHqOXq4BX_XXhSNRFJn0768z_1bjWEniMumNJ4FMy9Nv5j3AefPsZDiAGCehCguZ1HFOBMBXxRI4mOXd077e'
-  lat: 40.112957
-  level: 4
-  lon: -88.227127
-  name:  'Early Computers Plaque'
 - ap: 3474
   img:  'http://lh4.ggpht.com/6WTMH3liIIuH6pEvRGZOkUNNR84nR8frjFch6yn_4mbGIokY-MajBCG6jZHWU37a8TBI97rYTBlX-ks8m5XJTw'
   lat: 40.112843
@@ -418,12 +442,6 @@
   level: 6
   lon: -88.233753
   name:  'Chabad Menorah'
-- ap: 2724
-  img:  'http://lh3.googleusercontent.com/NRpdP-ebGuykq3sH1NZBQVjhmSdVJW3F4MTCRdXrWKQf3Z5dBgo0Phhyqnel5IrJmriQRmJNFR12lRDrjxJ9'
-  lat: 40.114911
-  level: 6
-  lon: -88.227781
-  name:  'Electrical & Computer Engineering Building'
 - ap: 2574
   img:  'http://lh6.ggpht.com/hf2-XzERtSQhHYqpfkmEoUelpEes9pxtJ5gINRWSZ6NTzyKQI3lTEEq-UDBSvbmADpUd1ScID47hMvXgmHo'
   lat: 40.111432
@@ -527,6 +545,12 @@
   lon: -88.231193
   name:  'Koi Building Art'
 - ap: 2537
+  img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
+  lat: 40.107629
+  level: 6
+  lon: -88.224484
+  name:  'Bucky Balls'
+- ap: 2537
   img:  'http://lh6.ggpht.com/cUV2o6ZPyJSFnHYl7jePeUIS7BrVr1H5D8Zbf7B3B8ALrTq7pTI3e271i1DHztqUGXITpiA399P3vNP83fk0'
   lat: 40.105767
   level: 4
@@ -538,12 +562,6 @@
   level: 3
   lon: -88.223135
   name:  'String Project Plaque'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/2wN9MWxEFPbMzRPAzNmaAiCOQJj_EFr94Y1YkQP_wMlyajkajmcw00gqW-EluMvpQmvnGgcQ-WdPxjcYTmr2'
-  lat: 40.106519
-  level: 4
-  lon: -88.223748
-  name:  'Thunderbird Theatre Mosaic'
 - ap: 2537
   img:  'http://lh4.ggpht.com/OKjZe5DNbqsjBvhTWI2C_GTSbIMUanllb49pzoadj3izBmngp5kFNgLokw6jbL1Y3BnreLD-LmzLdNEx-eRI'
   lat: 40.105694
@@ -557,20 +575,32 @@
   lon: -88.226125
   name:  'U of I Observatory'
 - ap: 2537
+  img:  'http://lh3.ggpht.com/3WnMbDq1Vm3HiqAM5qk1r9m3OqcO-YUN0nCOt2yRfUxVWLZ-8huxevlCI0JnIJgpSBZN4mtw0gxJnrGtuaS9iUf7k-JFfmRGRkBXQafWO9MIk_oJ'
+  lat: 40.115491
+  level: 5
+  lon: -88.227358
+  name:  'Arnold O. Beckman Statue'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/2WMtYMnBjTlw-gPK9quwjMde6Heie7SQHCZT41kPiIpOwxXEIQWbB_euK-R5rZhqUcmGuZJ0tIBh_801KGyVsw'
+  lat: 40.11453
+  level: 5
+  lon: -88.227324
+  name:  'Beckman Institute - Upwells Fountain'
+- ap: 2537
   img:  'http://lh3.ggpht.com/I8Cra-oBAq7td_84j0G8l8DIMXhxPP-O8A8xPb1WZb8O2s9DBapV_osKefRuzzDGDhcPRA9WT7yaPBvkGE4g'
   lat: 40.112836
   level: 4
   lon: -88.22802
   name:  '1909 Senior Memorial'
-- ap: 2312
-  img:  'http://lh3.googleusercontent.com/7F3ArbPGhGx3ARCB26P8ldeKhXR15uyu4UN1LUyzoEGT06tuE6FPUKzyT1cdcLR7IVr6pBXdMLRdER5o4ZY'
-  lat: 40.111715
-  level: 2
-  lon: -88.207738
-  name:  'Urbana''s Bell'
 - ap: 2537
   img:  'http://lh3.ggpht.com/Prv8wUbEpOsrluZ4pHXYwIQLreDfbvMRV7kMb39yXob8h_r5vXNRC-wSR6pi-2NeP0uIRJsaeWtsGe96cJ_U'
   lat: 40.112295
   level: 5
   lon: -88.207196
   name:  'War Memorial @ Downtown Urbana'
+- ap: 2312
+  img:  'http://lh3.googleusercontent.com/7F3ArbPGhGx3ARCB26P8ldeKhXR15uyu4UN1LUyzoEGT06tuE6FPUKzyT1cdcLR7IVr6pBXdMLRdER5o4ZY'
+  lat: 40.111715
+  level: 2
+  lon: -88.207738
+  name:  'Urbana''s Bell'
