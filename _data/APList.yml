@@ -83,17 +83,17 @@
   lon: -88.330182
   name:  'Metal Mesh '
 - ap: 6285
-  img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
-  lat: 40.100078
-  level: 8
-  lon: -88.250683
-  name:  'Brian Clark Memorial Plaque'
-- ap: 6285
   img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
   lat: 40.100822
   level: 8
   lon: -88.25193
   name:  'Seeds of Kindness Bench'
+- ap: 6285
+  img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
+  lat: 40.100078
+  level: 8
+  lon: -88.250683
+  name:  'Brian Clark Memorial Plaque'
 - ap: 6098
   img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
   lat: 40.100941
@@ -232,7 +232,7 @@
   level: 3
   lon: -88.314559
   name:  'Sunset Ridge Decorative Gate'
-- ap: 4411
+- ap: 4598
   img:  'http://lh6.ggpht.com/D-AymiJdf5gt94o_wgUJbOD9Fpl4V7PijJOjkztpP0_J2k82i1TBLDAaqcH_SUTUFe9VlllfQCsXFg_J0uAPeA'
   lat: 40.11569
   level: 3
@@ -251,17 +251,17 @@
   lon: -88.251412
   name:  'Zeus Memorial'
 - ap: 4411
-  img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
-  lat: 40.099593
-  level: 8
-  lon: -88.251724
-  name:  'Blessings from Devon Elaine Cattell'
-- ap: 4411
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
   level: 8
   lon: -88.250864
   name:  'Gabriel Patrick Maxeiner Memorial'
+- ap: 4411
+  img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
+  lat: 40.099593
+  level: 8
+  lon: -88.251724
+  name:  'Blessings from Devon Elaine Cattell'
 - ap: 3848
   img:  'http://lh5.ggpht.com/J4IbsPUjPF6cIlktTr1tOGHi61krS9o1eXeuAlPRBrSYUQrwdyShfNzuzxD0epa_cBMPF1xJ9YhoBA5VOQtYRw'
   lat: 40.105467
@@ -280,6 +280,18 @@
   level: '?'
   lon: -88.431268
   name:  '26ffbb1778974e99a93bb874fcb6c57c.12'
+- ap: 3661
+  img:  'http://lh6.ggpht.com/Jltxi7PZ9OVi8hBCUxdt9oxXQk9zmbrtHpM_jru2WhVYyY0UkNZ8h5SU3CdwMRNzZ1ZKabPR8hDCPz7p3Ms'
+  lat: 40.114439
+  level: 5
+  lon: -88.245013
+  name:  'New Covenant Fellowship'
+- ap: 3661
+  img:  'http://lh6.ggpht.com/ytlRYKlqnchcFvl3QEN1XknYcwYKIjohz4qzWW8SmhDi5mypBmgPbf9e4ghZWMZY5gpD9HIyalemSKsIzyA'
+  lat: 40.11408
+  level: 6
+  lon: -88.245852
+  name:  'Champaign Fire Department'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.891136
@@ -316,6 +328,12 @@
   level: '?'
   lon: -88.675349
   name:  'Adams Leaning Wheel Grader'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/ZEK-DXu7TJqsrt7cbLRjXyr3JbENJCn1FaKxH4Oi6kEvo4K0Yzm5qzMddhRLNlXvokAwQoeG4EKaNkXnJDA'
+  lat: 40.114015
+  level: 6
+  lon: -88.245256
+  name:  'Firefighters Park'
 - ap: 3474
   img:  'http://lh4.ggpht.com/1BgYrJYdcGdepVZ6ibhTjtjZ6MyzKnQzLL4wxEnn_CEPnrJmOKHzPXm1qinGRA78MqKq11gKRlprm3Z7mDr0'
   lat: 40.115645
@@ -431,18 +449,6 @@
   lon: -88.207259
   name:  'US Post Office'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/BoAN9OSCH5u7G1sestzZaXjjik82i-SteF6-r5KTTyl530q9H5G3ibjJdqpGGY-nL8MypRXn2twwvn_y5nMmug'
-  lat: 40.133159
-  level: 2
-  lon: -88.28778
-  name:  'Campus Solar System - Saturn'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.122056
-  level: '?'
-  lon: -88.645323
-  name:  '9e3af3afef824ee6aee179175a7845c4.16'
-- ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.349793
   level: '?'
@@ -455,11 +461,23 @@
   lon: -88.12552
   name:  'e87ca277a53e41cc967101fdde466ef0.16'
 - ap: 2537
+  img:  'http://lh5.ggpht.com/BoAN9OSCH5u7G1sestzZaXjjik82i-SteF6-r5KTTyl530q9H5G3ibjJdqpGGY-nL8MypRXn2twwvn_y5nMmug'
+  lat: 40.133159
+  level: 2
+  lon: -88.28778
+  name:  'Campus Solar System - Saturn'
+- ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.361766
   level: '?'
   lon: -88.429109
   name:  'Foosland Village Park'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.122056
+  level: '?'
+  lon: -88.645323
+  name:  '9e3af3afef824ee6aee179175a7845c4.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.007202
@@ -502,6 +520,12 @@
   level: 6
   lon: -88.243468
   name:  'Dog Heart'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/9aQBG-poFARclK9XL7iFIvWePkawZwWhv4Sh0zQhQ0Sy9gdDD508d4gCtpcUP9UNoYM6uztea0aQ05RPd9rZLg'
+  lat: 40.115412
+  level: 6
+  lon: -88.245046
+  name:  'Eddie Thorpe''s Memorial Rock And Tree'
 - ap: 2387
   img:  'http://lh4.ggpht.com/IAi2A1ukQunZaoCY1OUJnvZC_MAEjnYzlg7vcsIuPQyLIB710_5ueVQ3El8Pok0aNvlB18-Tdo1euhYbaf0'
   lat: 40.115224
