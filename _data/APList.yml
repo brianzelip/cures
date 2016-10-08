@@ -17,17 +17,17 @@
   lon: -88.251974
   name:  'Hessel Park'
 - ap: 8909
-  img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
-  lat: 40.099353
-  level: 8
-  lon: -88.251876
-  name:  'Raymond B. Cattell Memorial'
-- ap: 8909
   img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
   lat: 40.099852
   level: 8
   lon: -88.251947
   name:  'Our Friend Tim Palmer'
+- ap: 8909
+  img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
+  lat: 40.099353
+  level: 8
+  lon: -88.251876
+  name:  'Raymond B. Cattell Memorial'
 - ap: 7970
   img:  'http://lh5.ggpht.com/TwKxvDv1ImbH5RTs7GHqqK_rPohVtqtgToH7YuDkkwa5BRFiMEcY1vWcFrJLkhaXW6cd2YVL0_Vro2JaA3K1'
   lat: 40.131575
@@ -89,12 +89,6 @@
   lon: -88.251314
   name:  'Gabriel Patrick Maxeiner Memorial Plaque'
 - ap: 6098
-  img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
-  lat: 40.100691
-  level: 8
-  lon: -88.251337
-  name:  'In Loving Memory of Zeus'
-- ap: 6098
   img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
   lat: 40.100286
   level: 8
@@ -124,6 +118,12 @@
   level: 8
   lon: -88.251676
   name:  'Ruth and Fred Steigmann Plaque'
+- ap: 6098
+  img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
+  lat: 40.100691
+  level: 8
+  lon: -88.251337
+  name:  'In Loving Memory of Zeus'
 - ap: 5722
   img:  'http://lh5.ggpht.com/ek0AuIkZd5CWKmIdjFjq5gOvptOzC8VJUnyatNG8ZyUoT8-mvkd4seW8Gpbl4kkgiatIbr57h5kK_5z6NSGD'
   lat: 40.131581
@@ -485,18 +485,6 @@
   lon: -87.598934
   name:  '4ac3747275ed43bb955047bfbe78559b.16'
 - ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.781053
-  level: '?'
-  lon: -87.757742
-  name:  '9a047756efef4b0b809bdb07c058c4b5.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.634356
-  level: '?'
-  lon: -87.178294
-  name:  'd45d47f7d3a34245812bec73013df8d1.16'
-- ap: 2537
   img:  'http://lh5.ggpht.com/BoAN9OSCH5u7G1sestzZaXjjik82i-SteF6-r5KTTyl530q9H5G3ibjJdqpGGY-nL8MypRXn2twwvn_y5nMmug'
   lat: 40.133159
   level: 2
@@ -526,6 +514,18 @@
   level: '?'
   lon: -90.033759
   name:  'f9551dd1d09e423a8667fd2dfd144fa4.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.781053
+  level: '?'
+  lon: -87.757742
+  name:  '9a047756efef4b0b809bdb07c058c4b5.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.634356
+  level: '?'
+  lon: -87.178294
+  name:  'd45d47f7d3a34245812bec73013df8d1.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.007202
