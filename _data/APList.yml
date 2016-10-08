@@ -257,18 +257,6 @@
   lon: -88.226465
   name:  'Harker Hall Fountain'
 - ap: 4411
-  img:  'http://lh3.googleusercontent.com/NRpdP-ebGuykq3sH1NZBQVjhmSdVJW3F4MTCRdXrWKQf3Z5dBgo0Phhyqnel5IrJmriQRmJNFR12lRDrjxJ9'
-  lat: 40.114911
-  level: 6
-  lon: -88.227781
-  name:  'Electrical & Computer Engineering Building'
-- ap: 4411
-  img:  'http://lh5.ggpht.com/ZDv0mHiZcEfLxGVibvfnMCu7reJceCVnxa4GeBjK2DO4Y4a0x-M7C2M0rEam-_bPlr2e2476RXe15pRY48s'
-  lat: 40.114351
-  level: 5
-  lon: -88.227096
-  name:  'Chi Epsilon Civil Engineering'
-- ap: 4411
   img:  'http://lh5.ggpht.com/4eagHlnlpVbtFi_knZN73PIs2A--Ipj6SOlkQADePlfnzfOnJn-cAv0IoNNv4qR8WrbUFImUKHBknyaoAewO'
   lat: 40.111383
   level: 5
@@ -280,6 +268,18 @@
   level: 6
   lon: -88.225762
   name:  'Computer Based Education Plaque'
+- ap: 4411
+  img:  'http://lh5.ggpht.com/ZDv0mHiZcEfLxGVibvfnMCu7reJceCVnxa4GeBjK2DO4Y4a0x-M7C2M0rEam-_bPlr2e2476RXe15pRY48s'
+  lat: 40.114351
+  level: 5
+  lon: -88.227096
+  name:  'Chi Epsilon Civil Engineering'
+- ap: 4411
+  img:  'http://lh3.googleusercontent.com/NRpdP-ebGuykq3sH1NZBQVjhmSdVJW3F4MTCRdXrWKQf3Z5dBgo0Phhyqnel5IrJmriQRmJNFR12lRDrjxJ9'
+  lat: 40.114911
+  level: 6
+  lon: -88.227781
+  name:  'Electrical & Computer Engineering Building'
 - ap: 3848
   img:  'http://lh6.ggpht.com/fBCIw-ohQqPYmU_DWfwbcZnXqbmVh6zOWlUta8mx1F53zxG1Wxr08J9-fOCaz1B9i_8Nb3Il_kqdxzdyRyc'
   lat: 40.109043
@@ -288,16 +288,16 @@
   name:  'Archaea Plaque'
 - ap: 3661
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.360306
-  level: '?'
-  lon: -88.431268
-  name:  '26ffbb1778974e99a93bb874fcb6c57c.12'
-- ap: 3661
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 39.978211
   level: '?'
   lon: -89.840843
   name:  '418b50e45b224a30949aa62452baae55.16'
+- ap: 3661
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.360306
+  level: '?'
+  lon: -88.431268
+  name:  '26ffbb1778974e99a93bb874fcb6c57c.12'
 - ap: 3661
   img:  'http://lh3.googleusercontent.com/FMrsRGg4e1AuMu6m4uCIpM5nawtelx8reIfMtog4nuxXU9C7--UKQnUEAm9s4Vc7OfMjfIDX5loNOw4Agz2HAw'
   lat: 40.118715
@@ -336,18 +336,6 @@
   name:  'ef4974d2af254b5bb0276784066372e0.12'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.273821
-  level: '?'
-  lon: -88.676394
-  name:  'Blue Star Highway Memorial'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.272743
-  level: '?'
-  lon: -88.675349
-  name:  'Adams Leaning Wheel Grader'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.144489
   level: '?'
   lon: -89.364275
@@ -358,6 +346,18 @@
   level: '?'
   lon: -89.660478
   name:  'd44875158e794c8d94f21ccb0c252934.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.273821
+  level: '?'
+  lon: -88.676394
+  name:  'Blue Star Highway Memorial'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.272743
+  level: '?'
+  lon: -88.675349
+  name:  'Adams Leaning Wheel Grader'
 - ap: 3474
   img:  'http://lh3.ggpht.com/9aQBG-poFARclK9XL7iFIvWePkawZwWhv4Sh0zQhQ0Sy9gdDD508d4gCtpcUP9UNoYM6uztea0aQ05RPd9rZLg'
   lat: 40.115412
@@ -413,12 +413,6 @@
   lon: -88.226053
   name:  'BCS Superconductivity Theory Plaque'
 - ap: 3474
-  img:  'http://lh3.ggpht.com/3WnMbDq1Vm3HiqAM5qk1r9m3OqcO-YUN0nCOt2yRfUxVWLZ-8huxevlCI0JnIJgpSBZN4mtw0gxJnrGtuaS9iUf7k-JFfmRGRkBXQafWO9MIk_oJ'
-  lat: 40.115491
-  level: 5
-  lon: -88.227358
-  name:  'Arnold O. Beckman Statue'
-- ap: 3474
   img:  'http://lh3.ggpht.com/2WMtYMnBjTlw-gPK9quwjMde6Heie7SQHCZT41kPiIpOwxXEIQWbB_euK-R5rZhqUcmGuZJ0tIBh_801KGyVsw'
   lat: 40.11453
   level: 5
@@ -430,6 +424,12 @@
   level: 5
   lon: -88.225353
   name:  'Transportation Building - University Of Illinois'
+- ap: 3474
+  img:  'http://lh3.ggpht.com/3WnMbDq1Vm3HiqAM5qk1r9m3OqcO-YUN0nCOt2yRfUxVWLZ-8huxevlCI0JnIJgpSBZN4mtw0gxJnrGtuaS9iUf7k-JFfmRGRkBXQafWO9MIk_oJ'
+  lat: 40.115491
+  level: 5
+  lon: -88.227358
+  name:  'Arnold O. Beckman Statue'
 - ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.451766
@@ -641,12 +641,6 @@
   lon: -88.227127
   name:  'Early Computers Plaque'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/Prv8wUbEpOsrluZ4pHXYwIQLreDfbvMRV7kMb39yXob8h_r5vXNRC-wSR6pi-2NeP0uIRJsaeWtsGe96cJ_U'
-  lat: 40.112295
-  level: 5
-  lon: -88.207196
-  name:  'War Memorial @ Downtown Urbana'
-- ap: 2537
   img:  'http://lh6.ggpht.com/do_DYaj2kuC0reA8E9rCQLDp9K62ZQd4qfV0SBSo8iPPupN2U8_deQ7GHA4zS42XaiZnPqoObG_y_dRCUwNa'
   lat: 40.11283
   level: 3
@@ -658,6 +652,12 @@
   level: 1
   lon: -88.209039
   name:  'Courier Cafe'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/Prv8wUbEpOsrluZ4pHXYwIQLreDfbvMRV7kMb39yXob8h_r5vXNRC-wSR6pi-2NeP0uIRJsaeWtsGe96cJ_U'
+  lat: 40.112295
+  level: 5
+  lon: -88.207196
+  name:  'War Memorial @ Downtown Urbana'
 - ap: 2312
   img:  'http://lh3.googleusercontent.com/7F3ArbPGhGx3ARCB26P8ldeKhXR15uyu4UN1LUyzoEGT06tuE6FPUKzyT1cdcLR7IVr6pBXdMLRdER5o4ZY'
   lat: 40.111715
