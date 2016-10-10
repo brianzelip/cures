@@ -58,24 +58,6 @@
   level: 3
   lon: -88.31369
   name:  'Mark L. Rambow Tree'
-- ap: 8157
-  img:  'http://lh5.ggpht.com/tZ1lEGRzdFJ7k1jwj0PTGd3tWVTGqCHIb1LcRdjc2pF5IJjsuYFFPQgwEWSBaPapa89oOEPXO_g2XWQxQl2h'
-  lat: 40.110212
-  level: 6
-  lon: -88.276899
-  name:  'St John Lutheran Church'
-- ap: 7970
-  img:  'http://lh4.ggpht.com/WFdg25t10cXowG73MPo4WTi8YOc3wTSJiEWKTssgs9mb0Aii3d7iKSHqsebFkdjHfZ8Ej40yDSC7PVdVytHL'
-  lat: 40.109177
-  level: 6
-  lon: -88.285144
-  name:  'Champaign Fire Department'
-- ap: 7783
-  img:  'http://lh3.googleusercontent.com/BjLUhZtNHz-wmR4gdU6GwFWwmSQu0U8cXf2Lp8D-I0YtN6RNHlW6SaJhtdbItM92UVfTI9Qj5_JFDVd3XCtz'
-  lat: 40.112555
-  level: 6
-  lon: -88.273762
-  name:  'Pias Sports Bar and Grill'
 - ap: 7783
   img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
   lat: 40.102188
@@ -94,12 +76,6 @@
   level: 3
   lon: -88.314062
   name:  'Mark L. Rambow Memorial'
-- ap: 6846
-  img:  'http://lh4.ggpht.com/Tpl5ga1h9vBjG88A6xRDnvBxx7F1epdVZYUY-FNnoOS6H_0OkWXC-RqCtNsk5WSZcOBwMvdY56QCHo0hvoE'
-  lat: 40.102744
-  level: 6
-  lon: -88.277916
-  name:  'Church of God in Christ'
 - ap: 6659
   img:  'http://lh3.ggpht.com/xSCQSCRT6pHyQi9LDI3OamMdZnhLQ06OSlHRHnJC0FkDo93VgOcr3gyAV0aPAKagwq9V5iViSSCgIr6_fWCB'
   lat: 40.134441
@@ -131,6 +107,30 @@
   lon: -88.251826
   name:  'Irina P. Stewart Memorial Plaque'
 - ap: 6098
+  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
+  lat: 40.101327
+  level: 8
+  lon: -88.251412
+  name:  'Zeus Memorial'
+- ap: 6098
+  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
+  lat: 40.100941
+  level: 8
+  lon: -88.251314
+  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
+- ap: 6098
+  img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
+  lat: 40.100691
+  level: 8
+  lon: -88.251337
+  name:  'In Loving Memory of Zeus'
+- ap: 6098
+  img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
+  lat: 40.100286
+  level: 8
+  lon: -88.251747
+  name:  'Tennis Anyone'
+- ap: 6098
   img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
   lat: 40.100078
   level: 8
@@ -148,36 +148,18 @@
   level: 8
   lon: -88.251426
   name:  'Ruth Haasis Memorial'
-- ap: 6098
-  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
-  lat: 40.101327
-  level: 8
-  lon: -88.251412
-  name:  'Zeus Memorial'
-- ap: 6098
-  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
-  lat: 40.100941
-  level: 8
-  lon: -88.251314
-  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
-- ap: 6098
-  img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
-  lat: 40.100286
-  level: 8
-  lon: -88.251747
-  name:  'Tennis Anyone'
-- ap: 6098
-  img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
-  lat: 40.100691
-  level: 8
-  lon: -88.251337
-  name:  'In Loving Memory of Zeus'
 - ap: 5909
-  img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
-  lat: 40.11251
+  img:  'http://lh4.ggpht.com/WFdg25t10cXowG73MPo4WTi8YOc3wTSJiEWKTssgs9mb0Aii3d7iKSHqsebFkdjHfZ8Ej40yDSC7PVdVytHL'
+  lat: 40.109177
   level: 6
-  lon: -88.272358
-  name:  'Circle K 1601 W. Springfield Ave.'
+  lon: -88.285144
+  name:  'Champaign Fire Department'
+- ap: 5722
+  img:  'http://lh3.googleusercontent.com/BjLUhZtNHz-wmR4gdU6GwFWwmSQu0U8cXf2Lp8D-I0YtN6RNHlW6SaJhtdbItM92UVfTI9Qj5_JFDVd3XCtz'
+  lat: 40.112555
+  level: 6
+  lon: -88.273762
+  name:  'Pias Sports Bar and Grill'
 - ap: 5535
   img:  'http://lh4.ggpht.com/A15Qc2ImqJFORKlDItFStr3pkJ1pX5dRyG8VO6RoziKIqMOMMTQdJa-fUInsxL4o7Yxg1XNHfexBZuNAyLG0yw'
   lat: 40.132021
@@ -220,6 +202,12 @@
   level: 6
   lon: -88.28689
   name:  'First Church of the Nazarene'
+- ap: 4785
+  img:  'http://lh4.ggpht.com/Tpl5ga1h9vBjG88A6xRDnvBxx7F1epdVZYUY-FNnoOS6H_0OkWXC-RqCtNsk5WSZcOBwMvdY56QCHo0hvoE'
+  lat: 40.102744
+  level: 6
+  lon: -88.277916
+  name:  'Church of God in Christ'
 - ap: 4598
   img:  'http://lh6.ggpht.com/ocpQF23CdY7CXPOYMbPL3wLLV7Rc0VayvSyooA07il2lG0oiiQDbDCnsKqO1ysXJAVlzGikCKS-kVOLb6rog'
   lat: 40.135079
@@ -263,11 +251,11 @@
   lon: -88.285677
   name:  'Mike Phillips Memorial Plaque'
 - ap: 3848
-  img:  'http://lh5.ggpht.com/j6Gqd19ib1ziWv7UKoq4_fMXeXtxxdV85TchQ49_mIgeJYs7oUWOj860aB2Ok8NGNY5wNfMqDn7zeSKOgpxEzQ'
-  lat: 40.108781
+  img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
+  lat: 40.11251
   level: 6
-  lon: -88.271694
-  name:  'Champaign Church of Christ'
+  lon: -88.272358
+  name:  'Circle K 1601 W. Springfield Ave.'
 - ap: 3848
   img:  'http://lh5.ggpht.com/_9uqsDQROIwqIhKx_URY4DdZAapoZBEWK6Eaclt5mM5vPsjwQAD-v8Bv-4b-Smq2F8X4zOgzLx2KwySkFWc'
   lat: 40.118448
@@ -292,12 +280,6 @@
   level: '?'
   lon: -88.431268
   name:  '26ffbb1778974e99a93bb874fcb6c57c.12'
-- ap: 3661
-  img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
-  lat: 40.102118
-  level: 5
-  lon: -88.276897
-  name:  'Circle K 1301 South Mattis Ave'
 - ap: 3661
   img:  'http://lh6.ggpht.com/duOeXcOSQLWosdD0JJXg3pWWQp4t5sL0x9qDHoTIBFNOzEW0t53Lt2cnwgV2E_Su0l1ajIQxPtVbbK_sDRaS'
   lat: 40.141775
@@ -382,24 +364,6 @@
   level: '?'
   lon: -86.287044
   name:  'be78c15683554893a96f56b528eb8f83.16'
-- ap: 3324
-  img:  'http://lh4.ggpht.com/ykcBOYTGpoR392b8KhoJ1HeCMQKdls6__qGzmBtOaVho1L5T2KYhV8130wLVGDT_Hr-dhJX4tl1qSQdDtLZj'
-  lat: 40.085955
-  level: 1
-  lon: -88.332754
-  name:  'Robert C. Porter Family Park'
-- ap: 3474
-  img:  'http://lh4.ggpht.com/1LzO6yLZvWb6_g3FLduNKYb6d5TVljqsdNnQggC6Idh7XbUSLf4TOcuWChcYsVve_pt7N5f77mEJLTqUmA'
-  lat: 40.085878
-  level: 3
-  lon: -88.331166
-  name:  'Porter Family Park Dedication'
-- ap: 3474
-  img:  'http://lh6.ggpht.com/prg5Oedqi1_YJMN9GAesf7bmbUwbMGc9v7E3SYkm-TYdudfpX9SwuC1J4D4zkb1K4yrvF2ZPNWDoUniixORu'
-  lat: 40.086493
-  level: 3
-  lon: -88.330828
-  name:  'Environmental Plaque - Prairie '
 - ap: 3474
   img:  'http://lh5.ggpht.com/nWEtxuKQdy0teBBue1DYmG7P3SF5-3A6zlB7GwVHBWlolAZYGq6Br78lWcF9ltFy-KeSlozXie2RmU6JfCUX'
   lat: 40.142673
@@ -478,6 +442,30 @@
   level: '?'
   lon: -88.645323
   name:  '9e3af3afef824ee6aee179175a7845c4.16'
+- ap: 2387
+  img:  'http://lh4.ggpht.com/ykcBOYTGpoR392b8KhoJ1HeCMQKdls6__qGzmBtOaVho1L5T2KYhV8130wLVGDT_Hr-dhJX4tl1qSQdDtLZj'
+  lat: 40.085955
+  level: 1
+  lon: -88.332754
+  name:  'Robert C. Porter Family Park'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/prg5Oedqi1_YJMN9GAesf7bmbUwbMGc9v7E3SYkm-TYdudfpX9SwuC1J4D4zkb1K4yrvF2ZPNWDoUniixORu'
+  lat: 40.086493
+  level: 3
+  lon: -88.330828
+  name:  'Environmental Plaque - Prairie '
+- ap: 2537
+  img:  'http://lh5.ggpht.com/j6Gqd19ib1ziWv7UKoq4_fMXeXtxxdV85TchQ49_mIgeJYs7oUWOj860aB2Ok8NGNY5wNfMqDn7zeSKOgpxEzQ'
+  lat: 40.108781
+  level: 6
+  lon: -88.271694
+  name:  'Champaign Church of Christ'
+- ap: 2537
+  img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
+  lat: 40.102118
+  level: 5
+  lon: -88.276897
+  name:  'Circle K 1301 South Mattis Ave'
 - ap: 2537
   img:  'http://lh6.ggpht.com/Jltxi7PZ9OVi8hBCUxdt9oxXQk9zmbrtHpM_jru2WhVYyY0UkNZ8h5SU3CdwMRNzZ1ZKabPR8hDCPz7p3Ms'
   lat: 40.114439
