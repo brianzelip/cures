@@ -1,17 +1,3 @@
-- fields: 1
-  img:  'http://lh3.ggpht.com/4NvHbplhArQJrKIkJMw4Ia0q_OtktXP-jC6FtPlgn6V49hv8LJbu0RC2ff0eTy3bF3ihXL12v5CPGwvlRNBF'
-  lat: 40.127538
-  level: 8
-  lon: -88.199119
-  mus: 119525
-  name:  'Perkins Historical Site'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.200642
-  level: '?'
-  lon: -88.296708
-  mus: 119525
-  name:  'Mt. Vernon United Methodist Church'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.030235
@@ -124,12 +110,12 @@
   lon: -88.23713
   mus: 394
   name:  'Great War Memorial Inscription'
-- fields: 14
+- fields: 15
   img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
   lat: 40.101062
   level: 8
   lon: -88.249275
-  mus: 373
+  mus: 375
   name:  'Narayan & Shanti Achanta Memorial Plaque'
 - fields: 3
   img:  'http://lh5.ggpht.com/S_72RqBcpwyaqDotOOM3zyRvzzZXNgZUSEfOLLDYY9tEvWcEksixMnIL7N-7FO1EpE-CXGydpsChqEkBjX_I'
@@ -194,12 +180,12 @@
   lon: -88.259583
   mus: 227
   name:  'Noel Park'
-- fields: 8
+- fields: 9
   img:  'http://lh6.ggpht.com/YdeB0EKlsopL39a9YXWj4JBZgXNNLWHgfe4PQzdpWCNWc0fR1YTj8WjARDHnmrusvKWTqKLcGg8U9frhtsw'
   lat: 40.09821
   level: 8
   lon: -88.249879
-  mus: 223
+  mus: 227
   name:  'Hessel Park'
 - fields: 4
   img:  'http://lh6.ggpht.com/yoGdHEqpRRqOE5pA5wHdi_ismU_TrB-kTiqVV63EO630KsU608TIfjLijcqJ38At7MyyrE2urWFMPY1Sops'
@@ -362,6 +348,13 @@
   lon: -88.243989
   mus: 102
   name:  'Rainbow Garden'
+- fields: 6
+  img:  'http://lh6.ggpht.com/NgnydTt337ADxVuRuFnimA4_Ifff2E49IzKzpqchxzsfFOWhZolCGjl48IjFWzsJYEgVBSM5nurntToYOMT7'
+  lat: 40.100488
+  level: 7
+  lon: -88.221702
+  mus: 101
+  name:  'Sigma Nu Fraternity House'
 - fields: 2
   img:  'http://lh4.ggpht.com/U2bGo6sB1AGHiDjQ-rH7wSwqqEX_Rgttee-UbdQR48aDKUrWK3zDdefPtL7CTxHDIksKsqP-9K6AlK8Mjlhe'
   lat: 40.125487
@@ -369,6 +362,20 @@
   lon: -88.260193
   mus: 100
   name:  'New Foundation Missionary Baptist Church'
+- fields: 6
+  img:  'http://lh5.ggpht.com/2zEYZdL0tuQhUP5HHcOYFsPQfjx-nNDHhi8DMJEzzkjbEA9hODz2iDCcmj4S9NEGBsHW4nYYR010lA_6kyhk'
+  lat: 40.10038
+  level: 7
+  lon: -88.225191
+  mus: 97
+  name:  'Eleanor Hammers Boner'
+- fields: 8
+  img:  'http://lh3.googleusercontent.com/XQb7KWjSJlhbfrYsW2727_AeRoEQ5BbG0fRTTY5js_4zRdArbiRhCRkXunVa81rQpk9yX4RB6x1dV97DnYN7'
+  lat: 40.104722
+  level: 7
+  lon: -88.223683
+  mus: 92
+  name:  'Louise Freer Hall'
 - fields: 1
   img:  'http://lh3.googleusercontent.com/zcTaX3OHcGZu7CzBV1HvsKtB5RiAW7oMwxS_7phps0tjr70eNr8xbxrJ_P6agi_uXJtMNdHPnks9rZcrR6mG'
   lat: 40.127267
@@ -397,19 +404,12 @@
   lon: -88.289889
   mus: 87
   name:  'Optimist Club Dedication 1991'
-- fields: 7
-  img:  'http://lh3.googleusercontent.com/XQb7KWjSJlhbfrYsW2727_AeRoEQ5BbG0fRTTY5js_4zRdArbiRhCRkXunVa81rQpk9yX4RB6x1dV97DnYN7'
-  lat: 40.104722
-  level: 7
-  lon: -88.223683
-  mus: 86
-  name:  'Louise Freer Hall'
-- fields: 4
+- fields: 5
   img:  'http://lh6.ggpht.com/cUV2o6ZPyJSFnHYl7jePeUIS7BrVr1H5D8Zbf7B3B8ALrTq7pTI3e271i1DHztqUGXITpiA399P3vNP83fk0'
   lat: 40.105767
   level: 6
   lon: -88.223378
-  mus: 78
+  mus: 84
   name:  'Busey Hall'
 - fields: 1
   img:  'http://lh5.ggpht.com/THzk1iE4eBFdHkEgW_OGBWS54BbJw46faUZQS1Ad_IROHGgmVaXrphXJuL1O8N9k4G8_jaDT4P9tmLxMNi0W'
@@ -495,6 +495,13 @@
   lon: -88.225654
   mus: 63
   name:  'Frank Kern Robeson Memorial'
+- fields: 5
+  img:  'http://lh3.ggpht.com/0-BDoSYQzYfR7AHH26pmRGbZ4VmB4kdhLKm3x_AV4WOsaSFFLgJwMVN-bWTz9oopIx6IJQMxGvtl5C3svl0C'
+  lat: 40.104061
+  level: 7
+  lon: -88.222743
+  mus: 63
+  name:  'Fire Station'
 - fields: 4
   img:  'http://lh5.ggpht.com/_CP_-V0UvlMpMCqxcu9H9suYfz6p6k40F5AIKnuJ3QbMbi14OTTsoYC38b4Z2dg8FjHGQZJI7Vj7ClyH_eQ7'
   lat: 40.108108
@@ -565,13 +572,6 @@
   lon: -88.402986
   mus: 52
   name:  'Middletown Cemetery'
-- fields: 5
-  img:  'http://lh6.ggpht.com/NgnydTt337ADxVuRuFnimA4_Ifff2E49IzKzpqchxzsfFOWhZolCGjl48IjFWzsJYEgVBSM5nurntToYOMT7'
-  lat: 40.100488
-  level: 7
-  lon: -88.221702
-  mus: 50
-  name:  'Sigma Nu Fraternity House'
 - fields: 2
   img:  'http://lh3.ggpht.com/xuR2FaQJXFhWOfH2YR-wgTMUn6de0x9fK_RzH7yx2vxtFcveZF4qEwPTtrwnO1KK0aVRHbtmwoYGNSheowgV'
   lat: 40.096637
@@ -593,13 +593,6 @@
   lon: -88.223684
   mus: 48
   name:  'Morrissey Family Mausoleum'
-- fields: 5
-  img:  'http://lh5.ggpht.com/2zEYZdL0tuQhUP5HHcOYFsPQfjx-nNDHhi8DMJEzzkjbEA9hODz2iDCcmj4S9NEGBsHW4nYYR010lA_6kyhk'
-  lat: 40.10038
-  level: 7
-  lon: -88.225191
-  mus: 47
-  name:  'Eleanor Hammers Boner'
 - fields: 2
   img:  'http://lh3.ggpht.com/2iJE4vODI8uMoLDF4vnp-sjX-vDP5uH3090xuEvjLaKt3qU4jVzeR0PsRSTJzlePjMAZ1vuapWM_E2QNwyTy'
   lat: 40.078133
@@ -635,6 +628,13 @@
   lon: -88.284336
   mus: 40
   name:  'Dodds Park'
+- fields: 4
+  img:  'http://lh3.googleusercontent.com/m68rgxfyTHzijj23L6S0_kQ0XZ1wS3c0dUjsa4tLjqLJ8eSQ1CuHgWaxDSYthuek2areSlSTRw5Hn_zpJ3cD'
+  lat: 40.09428
+  level: 7
+  lon: -88.238318
+  mus: 38
+  name:  'Hotel Structure'
 - fields: 2
   img:  'http://lh6.ggpht.com/fucvhGlnRoH9QYMkBK1r2Qy9oOUZI9LZdwLXsHqHS7XxfmsgA664AxnJIiuZbPqBqjL4bEh26NiX3a3QfkoIY--DKozCDKry192H0Pl_l_XL4Mk'
   lat: 40.118481
@@ -670,13 +670,6 @@
   lon: -88.294589
   mus: 34
   name:  'Hallbeck Park Shelter'
-- fields: 3
-  img:  'http://lh3.googleusercontent.com/m68rgxfyTHzijj23L6S0_kQ0XZ1wS3c0dUjsa4tLjqLJ8eSQ1CuHgWaxDSYthuek2areSlSTRw5Hn_zpJ3cD'
-  lat: 40.09428
-  level: 7
-  lon: -88.238318
-  mus: 33
-  name:  'Hotel Structure'
 - fields: 3
   img:  'http://lh4.ggpht.com/EsyXMnqVMX7wQ4YmoCFRiNljaJqaXrQvzyzzooqx2fPxCSkJMkdEssTbf618D8Qp9hh3E4Ud3hL1M3v-TsbO'
   lat: 40.104688
@@ -768,6 +761,13 @@
   lon: -88.250539
   mus: 27
   name:  'Hessel Park'
+- fields: 4
+  img:  'http://lh3.ggpht.com/tJEdUFuZjuvDQMKmF82moyYXhNNpP9vo91McBHAmagbT79dxAHYnQAb4avZfpWPOqcQVi3pCqBL7cvETGYo'
+  lat: 40.094333
+  level: 6
+  lon: -88.238753
+  mus: 27
+  name:  'Research Park at the University of Illinois'
 - fields: 1
   img:  'http://lh5.ggpht.com/R4YsY7oUfZDrMJ3QJtIKwNvcX7K4vxIpwfLebL2U4x5m1UibakO0KUZJXqdfYe-W9IUNBmlCu5LlSy6jtKGM'
   lat: 40.105323
@@ -824,13 +824,6 @@
   lon: -88.211743
   mus: 23
   name:  'Alice Mimi Muller Dedication Plaque'
-- fields: 3
-  img:  'http://lh3.ggpht.com/tJEdUFuZjuvDQMKmF82moyYXhNNpP9vo91McBHAmagbT79dxAHYnQAb4avZfpWPOqcQVi3pCqBL7cvETGYo'
-  lat: 40.094333
-  level: 6
-  lon: -88.238753
-  mus: 22
-  name:  'Research Park at the University of Illinois'
 - fields: 1
   img:  'http://lh6.ggpht.com/P5Q3TM1HY9mqPQbQNDUn_h5cdo4MVdphUfMLaEb25EJWIN2xAqYTkLQUtPy4sY-0hHFESUrH5Nn0KYogzjM'
   lat: 40.104921
@@ -999,6 +992,13 @@
   lon: -88.213173
   mus: 14
   name:  'The Betty J. Schroeder Grove'
+- fields: 3
+  img:  'http://lh6.ggpht.com/-flzg4lDDrUKk9tz52QmAPy1_59-9KbIO96Br3rNDxK1nmopyzD21z31JQVdJNJHB-Cy6IsEX0VwBbVwvd5r'
+  lat: 40.104256
+  level: 7
+  lon: -88.225268
+  mus: 14
+  name:  'Institute of Genomic Biology Gateway'
 - fields: 2
   img:  'http://lh3.ggpht.com/WWhYcmz7SmE72z0SL44DRgW7htbIekUCuGiMB3k2U4oqOpii2n2vl1T7LX91Izu4VR89_uvBjK0HYR2KBM8'
   lat: 40.100276
@@ -1055,13 +1055,20 @@
   lon: -88.402935
   mus: 12
   name:  'c87d5b6cf7ea4bae962a48d438be958c.16'
-- fields: 3
-  img:  'http://lh3.ggpht.com/0-BDoSYQzYfR7AHH26pmRGbZ4VmB4kdhLKm3x_AV4WOsaSFFLgJwMVN-bWTz9oopIx6IJQMxGvtl5C3svl0C'
-  lat: 40.104061
+- fields: 5
+  img:  'http://lh6.ggpht.com/n0f7lyo15OzZn5IJHsohIGAA58iioentPZGEY4zeMZCCoX4GjEEkqfaTCIbrx9OnezriThnbFV14kYcwKTgL1g'
+  lat: 40.098444
   level: 7
-  lon: -88.222743
+  lon: -88.248167
   mus: 11
-  name:  'Fire Station'
+  name:  'Healthcare Not War Mural'
+- fields: 3
+  img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
+  lat: 40.097979
+  level: 4
+  lon: -88.247785
+  mus: 11
+  name:  'Jarling''s Custard Cup'
 - fields: 2
   img:  'http://lh5.ggpht.com/1fPvqpqXG5PDCkmegoWb9Tv9N5_MZh9XjmZpbyNEs5yPDsCscbrPB1cO_Pf8GT35HYrTF01FZ6s5VPIpjJ_20A'
   lat: 40.107098
@@ -1251,13 +1258,6 @@
   lon: -88.222942
   mus: 7
   name:  'Tryon Festival Theater'
-- fields: 1
-  img:  'http://lh6.ggpht.com/-flzg4lDDrUKk9tz52QmAPy1_59-9KbIO96Br3rNDxK1nmopyzD21z31JQVdJNJHB-Cy6IsEX0VwBbVwvd5r'
-  lat: 40.104256
-  level: 7
-  lon: -88.225268
-  mus: 6
-  name:  'Institute of Genomic Biology Gateway'
 - fields: 4
   img:  'http://lh4.ggpht.com/MwwvfldFODGbgQvly97peMlV1Ggftr7Cz_qnZi6Xts08-O6InkPyV8c78QXZkgd-opgO2p1ER6wONxA3Zfs'
   lat: 40.092492
@@ -1272,13 +1272,6 @@
   lon: -88.281983
   mus: 6
   name:  'Centennial Park'
-- fields: 3
-  img:  'http://lh6.ggpht.com/n0f7lyo15OzZn5IJHsohIGAA58iioentPZGEY4zeMZCCoX4GjEEkqfaTCIbrx9OnezriThnbFV14kYcwKTgL1g'
-  lat: 40.098444
-  level: 7
-  lon: -88.248167
-  mus: 6
-  name:  'Healthcare Not War Mural'
 - fields: 4
   img:  'http://lh5.ggpht.com/8zq5tMevCiipZK8N9-8SZw3vdsA2HwH0E02ormQshGxHVZrB2WPK7OPC8zt6pjLlgpXVuEYHVA_08_Q8fPw-'
   lat: 40.099647
@@ -1524,6 +1517,13 @@
   lon: -88.228156
   mus: 2
   name:  'Creation of Research Library Plaque'
+- fields: 1
+  img:  'http://lh4.ggpht.com/YCJnxuMsSs6lLn7vcBFVH6H2GT4I6LBrYLND5MlgY0qXgcTqxN7kKceFSMO3J8URkRBQyXOMtgosb78QK3iA'
+  lat: 40.104011
+  level: 6
+  lon: -88.223687
+  mus: 2
+  name:  'ERML'
 - fields: 1
   img:  'http://lh6.ggpht.com/GaAoBP2UmKP7ebBRXoSDc24iiGVvOTmkk1PeUqbM4vopOYVj3WT6q6p4Th6u8ozL3LD7XpkE3eXtAzcuIb_0'
   lat: 40.101124
