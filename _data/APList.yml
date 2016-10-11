@@ -109,9 +109,15 @@
 - ap: 5535
   img:  'http://lh5.ggpht.com/dRrlHXlT2nMNgZNHiYo52ha9L-Xay9DyOJR2Cpqs74hgAJ09abn9OTAtMzRVedt1_R9ObZllLO98vRhNMfgTgVsJCk1S-HJwX_XgiGpG4lz3a328'
   lat: 40.11671
-  level: 1
+  level: 3
   lon: -88.24263
   name:  'Cafe Kopi'
+- ap: 5535
+  img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
+  lat: 40.116989
+  level: 6
+  lon: -88.242255
+  name:  'Blind Pig'
 - ap: 5161
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
@@ -149,12 +155,6 @@
   lon: -88.242671
   name:  'Marketplace Mall Fountain'
 - ap: 4598
-  img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
-  lat: 40.116989
-  level: 5
-  lon: -88.242255
-  name:  'Blind Pig'
-- ap: 4598
   img:  'http://lh6.ggpht.com/POBAhJlStu1uLv82RPSkd8lKQyojPByrKqAwgiZPyXTHQcNTCN7rkJM376YcVpMmZZVMgiXz9J1BXanexyA643e-FR9M70tksLdb1akPUe2Ra_xCyw'
   lat: 40.112411
   level: 6
@@ -169,9 +169,15 @@
 - ap: 4411
   img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
   lat: 40.116553
-  level: 1
+  level: 3
   lon: -88.242268
   name:  'Esquire Lounge'
+- ap: 4411
+  img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
+  lat: 40.117107
+  level: 6
+  lon: -88.242467
+  name:  'Radio Maria'
 - ap: 4411
   img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
   lat: 40.101327
@@ -265,15 +271,15 @@
 - ap: 3474
   img:  'http://lh6.ggpht.com/2lDM_Uj6QcUJmWkmPhNWg-vfkJbBQAo6zb7eXC5qDTaJ5xAsoU7jPPqYmLo7zztC2Za1oH3QVrHQ78-XabqR'
   lat: 40.116398
-  level: 1
+  level: 2
   lon: -88.242485
   name:  'Champaign Servicemen and Women Memorial'
 - ap: 3474
-  img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
-  lat: 40.117107
-  level: 6
-  lon: -88.242467
-  name:  'Radio Maria'
+  img:  'http://lh6.ggpht.com/SCYK-XeMmOyfRrTt1-aQNoDA-2Sib4m5Ch26mTwo6XNdVeVnfi7W74Ik6IRLAPSoKzSS97pgwt50Jl9oSgGfP029USxZzQWKNJo3rbs-6YHBPBif'
+  lat: 40.116792
+  level: 5
+  lon: -88.241752
+  name:  'WEFT 90.1 FM Community Radio'
 - ap: 3474
   img:  'http://lh4.ggpht.com/CZA6uXTYgSkrccw1vqf6XFlfkzl6I7Rj79GOKIYGvd1Zem8O1u-opoJu65ma2eHnKdfysF0mOVGzc_am2Ns'
   lat: 40.110623
@@ -328,12 +334,6 @@
   level: 6
   lon: -88.285144
   name:  'Champaign Fire Department'
-- ap: 2349
-  img:  'http://lh3.ggpht.com/N6TCmRtj8KYDIanTQ5jF-EJitPzPbtwBM9V5iPE6I5TfRZoAlGYKlD3Ido4Yl08dV_qvLEd2X93Pt7skoMJ3'
-  lat: 40.120225
-  level: 2
-  lon: -88.233538
-  name:  'Daisy Jackson Garden'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.249798
@@ -348,12 +348,6 @@
   name:  'Mansfield Post Office'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.795812
-  level: '?'
-  lon: -87.575596
-  name:  'ff6d9e3ddaf64ac19790c7d661facc59.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.361766
   level: '?'
   lon: -88.429109
@@ -364,6 +358,12 @@
   level: '?'
   lon: -86.283274
   name:  'Kids Corner Park'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.795812
+  level: '?'
+  lon: -87.575596
+  name:  'ff6d9e3ddaf64ac19790c7d661facc59.16'
 - ap: 2537
   img:  'http://lh3.ggpht.com/4NvHbplhArQJrKIkJMw4Ia0q_OtktXP-jC6FtPlgn6V49hv8LJbu0RC2ff0eTy3bF3ihXL12v5CPGwvlRNBF'
   lat: 40.127538
@@ -412,18 +412,6 @@
   level: 6
   lon: -88.281531
   name:  'Terry M. Warmbier Memorial'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/AmsS7GEfFX-_Icem2DP6mjQahV1jeut1CGdeqLqfpyzx0m5SqhVY4eoAohizF0xsevPQufmLRMoVj2rW7Fe8'
-  lat: 40.111689
-  level: 7
-  lon: -88.231193
-  name:  'Koi Building Art'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/zUcdFy4LbfVjWynZZp4C5TfAppnK9Iiou6aV9idMEi-uHh7ZVcuIZxHz7Sqt4EqZY__obyqxWSrIBmWDtvwUpg'
-  lat: 40.124036
-  level: 5
-  lon: -88.233662
-  name:  'Macedonia Baptist Church'
 - ap: 2312
   img:  'http://lh4.ggpht.com/zZ2YpVpDiI1KdIQ9iI7mGJD_VtwFztJ4ZF1vRehD9OSnQ2K3433SIg22svwcqDJVfeO2fjE3fdT4eHAJWGpi'
   lat: 40.104339
