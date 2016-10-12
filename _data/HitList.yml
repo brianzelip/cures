@@ -1,10 +1,10 @@
-- fields: 4
-  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
-  lat: 40.101327
+- fields: 12
+  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
+  lat: 40.100936
   level: 8
-  lon: -88.251412
-  mus: 141
-  name:  'Zeus Memorial'
+  lon: -88.250855
+  mus: 62
+  name:  'Donald F. Bresnan Memorial'
 - fields: 2
   img:  'http://lh3.ggpht.com/x5fBw8MRogV8dm3kPO5zKNkUrQxn0dM7d1PIoASdX1_Rc8H5Duex4iZdOoIlqazCGll25TmptsWIRq1JFmj6'
   lat: 40.112135
@@ -19,20 +19,13 @@
   lon: -88.289418
   mus: 28
   name:  'Peter Taylor Lewis Baseball Field'
-- fields: 7
+- fields: 4
   img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
   lat: 40.099852
   level: 8
   lon: -88.251947
-  mus: 26
+  mus: 20
   name:  'Our Friend Tim Palmer'
-- fields: 7
-  img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
-  lat: 40.099737
-  level: 8
-  lon: -88.251157
-  mus: 13
-  name:  'Tyler Van Atkins Memorial'
 - fields: 2
   img:  'http://lh6.ggpht.com/duOeXcOSQLWosdD0JJXg3pWWQp4t5sL0x9qDHoTIBFNOzEW0t53Lt2cnwgV2E_Su0l1ajIQxPtVbbK_sDRaS'
   lat: 40.141775
@@ -40,20 +33,27 @@
   lon: -88.242671
   mus: 10
   name:  'Marketplace Mall Fountain'
-- fields: 5
+- fields: 7
   img:  'http://lh3.ggpht.com/lzCSS0_tjwUV7JQ2fgLI0e05IrzPxlVUs-6aEPOwUv67IanQJSTi71gkw0SGm8asmoE_r3Xoh048Fd9xRpE'
   lat: 40.099169
   level: 8
   lon: -88.251419
-  mus: 5
+  mus: 8
   name:  'Lyman Larson Memorial'
-- fields: 4
-  img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
-  lat: 40.100691
+- fields: 2
+  img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
+  lat: 40.100078
   level: 8
-  lon: -88.251337
+  lon: -88.250683
+  mus: 4
+  name:  'Brian Clark Memorial Plaque'
+- fields: 3
+  img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
+  lat: 40.100822
+  level: 8
+  lon: -88.25193
   mus: 3
-  name:  'In Loving Memory of Zeus'
+  name:  'Seeds of Kindness Bench'
 - fields: 3
   img:  'http://lh5.ggpht.com/LPlCgoOAlClRaVCl_B1sHDkn38OgDbXat-l5Q1bDZLP7mOUMfU8pK-o3N8BEqh0vHJcZBHo3iz2AMQKAhot7Tw'
   lat: 40.110833
@@ -75,17 +75,17 @@
   lon: -88.236182
   mus: 2
   name:  'Washington Park'
-- fields: 2
+- fields: 3
   img:  'http://lh6.ggpht.com/1El0oK6CWDh7rAQeFmPEW_dA252pdq7piTtjtuQCkZvwRa689NLjEafLqQ35TI5qCW3Lmhja9PLQqKxFs9Ha'
   lat: 40.110627
   level: 4
   lon: -88.227584
   mus: 1
   name:  'Tau Beta Pi Statue'
-- fields: 2
-  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
-  lat: 40.100936
-  level: 8
-  lon: -88.250855
+- fields: 1
+  img:  'http://lh5.ggpht.com/28al1CSkHNCrM9Sb57TYmawr1uFh6r5raWMJKD4QjLCj6N5YHEYIIizONs_hHF3pHuIppLjqxbTFcvrI9Dq9'
+  lat: 40.111205
+  level: 1
+  lon: -88.227583
   mus: 1
-  name:  'Donald F. Bresnan Memorial'
+  name:  'Theory of Superconductivity Plaque'
