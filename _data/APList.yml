@@ -34,12 +34,6 @@
   level: 7
   lon: -88.24263
   name:  'Cafe Kopi'
-- ap: 9096
-  img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
-  lat: 40.098246
-  level: 8
-  lon: -88.251974
-  name:  'Hessel Park'
 - ap: 8909
   img:  'http://lh3.ggpht.com/lzCSS0_tjwUV7JQ2fgLI0e05IrzPxlVUs-6aEPOwUv67IanQJSTi71gkw0SGm8asmoE_r3Xoh048Fd9xRpE'
   lat: 40.099169
@@ -52,12 +46,6 @@
   level: 8
   lon: -88.251876
   name:  'Raymond B. Cattell Memorial'
-- ap: 8909
-  img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
-  lat: 40.099852
-  level: 8
-  lon: -88.251947
-  name:  'Our Friend Tim Palmer'
 - ap: 8722
   img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
   lat: 40.099737
@@ -82,6 +70,12 @@
   level: 5
   lon: -88.243408
   name:  'Downtown Fountain'
+- ap: 8159
+  img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
+  lat: 40.098246
+  level: 8
+  lon: -88.251974
+  name:  'Hessel Park'
 - ap: 7972
   img:  'http://lh6.ggpht.com/xQx5BUJcAI_QUroJGe77pPkgV7s_ACVui8PXvCyvmehuDvenmRIvKBGeevOacNR6W3pLMMSh4sVrvXm87QeN2eylsZEtz7pxB-CMvzLmH1WyVZ16uw'
   lat: 40.11786
@@ -100,7 +94,7 @@
   level: 5
   lon: -88.242373
   name:  'Richard D James Mural'
-- ap: 7596
+- ap: 7409
   img:  'http://lh5.ggpht.com/I3HJjY6jOYl6ivwUaejRmReBjka9NyCW1ufaILf7cfo4VGwjX6kNB9J6PlIZCBIuTfI1jb9arxjssMTa_hisxr2ObqDCJ55lCxXFccxme5erNEY2_g'
   lat: 40.116859
   level: 1
@@ -119,11 +113,11 @@
   lon: -88.241752
   name:  'WEFT 90.1 FM Community Radio'
 - ap: 7222
-  img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
-  lat: 40.100822
+  img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
+  lat: 40.099852
   level: 8
-  lon: -88.25193
-  name:  'Seeds of Kindness Bench'
+  lon: -88.251947
+  name:  'Our Friend Tim Palmer'
 - ap: 7220
   img:  'http://lh5.ggpht.com/77v6DfPMOKjAUzTfAuqZzYtMmpFMJV7lPr7FgQb_Fa46w1xmepHb0h-0CpG5WZy1b9vd5_DZ0uLxxZw9-DhJ'
   lat: 40.117163
@@ -173,6 +167,12 @@
   lon: -88.247413
   name:  'West Side Park'
 - ap: 6285
+  img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
+  lat: 40.100822
+  level: 8
+  lon: -88.25193
+  name:  'Seeds of Kindness Bench'
+- ap: 6285
   img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
   lat: 40.098688
   level: 8
@@ -215,6 +215,12 @@
   lon: -88.251826
   name:  'Irina P. Stewart Memorial Plaque'
 - ap: 6098
+  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
+  lat: 40.100941
+  level: 8
+  lon: -88.251314
+  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
+- ap: 6098
   img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
   lat: 40.100691
   level: 8
@@ -244,12 +250,6 @@
   level: 8
   lon: -88.251426
   name:  'Ruth Haasis Memorial'
-- ap: 6098
-  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
-  lat: 40.100941
-  level: 8
-  lon: -88.251314
-  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
 - ap: 6098
   img:  'http://lh3.ggpht.com/whmQSPmix2tEoKcWwrVrV0H0JzNf1tzyuohI3ykSa-Qx4rUcLTf4686WcnJjygsMY2QPUWhvVVzlmMMHof94'
   lat: 40.105907
@@ -359,23 +359,17 @@
   lon: -88.242671
   name:  'Marketplace Mall Fountain'
 - ap: 4598
-  img:  'http://lh5.ggpht.com/ONr7OWgjlaWwJELaKTJEC1ZVpkIkuN-2c01D2AligYZC9Zbt8lH0SMkirhrWfHdjmVDmCtzhJWoVxoZM-NM'
-  lat: 40.116766
-  level: 2
-  lon: -88.247614
-  name:  'Mary Shaw Memorial Tree'
-- ap: 4598
   img:  'http://lh6.ggpht.com/OWQz-aJYDevguvgr_HtCYk7ccylYLM1bFU42TK9OJxuZWDA87pAsmcMf1amsxh5EagspcAj7Gf4_ZFeTJSf2'
   lat: 40.117754
   level: 6
   lon: -88.241676
   name:  'Jos. Kuhn and Co. Building'
 - ap: 4598
-  img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
-  lat: 40.098239
-  level: 7
-  lon: -88.25376
-  name:  'Hessel Park Christian Reformed Church'
+  img:  'http://lh5.ggpht.com/ONr7OWgjlaWwJELaKTJEC1ZVpkIkuN-2c01D2AligYZC9Zbt8lH0SMkirhrWfHdjmVDmCtzhJWoVxoZM-NM'
+  lat: 40.116766
+  level: 2
+  lon: -88.247614
+  name:  'Mary Shaw Memorial Tree'
 - ap: 4598
   img:  'http://lh6.ggpht.com/POBAhJlStu1uLv82RPSkd8lKQyojPByrKqAwgiZPyXTHQcNTCN7rkJM376YcVpMmZZVMgiXz9J1BXanexyA643e-FR9M70tksLdb1akPUe2Ra_xCyw'
   lat: 40.112411
@@ -658,6 +652,18 @@
   level: 6
   lon: -88.272358
   name:  'Circle K 1601 W. Springfield Ave.'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/xre1t2f9ZP_FkCsL4RhaTps0qWFo56BMvVamDTfFXffFNzsjinSlYX2dUWrt--btr9chdUOA2-IhLNAUoGrF'
+  lat: 40.121085
+  level: 4
+  lon: -88.281892
+  name:  'Fluid Event Center'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/dsNN93gNM_ydYYk-e1TxgiR0TsjQBuvo8xGw4fM7AhM-Ly-9fW4bho-pqTQCVZ5laYhSI1EsLgj7lM7nEK99'
+  lat: 40.121656
+  level: 4
+  lon: -88.281868
+  name:  'Greenbelt Connector Trail'
 - ap: 2537
   img:  'http://lh4.ggpht.com/rQD_MUFUx5IX5GhvurUrhiG2rCDy2Aiq_hvzN0YySpYA9cIb_aEAyBhyeFhFL7B0LdpEAAIDkqGcOv4wsVM2'
   lat: 40.077891
