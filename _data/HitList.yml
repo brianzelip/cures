@@ -1,17 +1,10 @@
-- fields: 7
-  img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
-  lat: 40.099852
+- fields: 11
+  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
+  lat: 40.100936
   level: 8
-  lon: -88.251947
-  mus: 26
-  name:  'Our Friend Tim Palmer'
-- fields: 7
-  img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
-  lat: 40.099737
-  level: 8
-  lon: -88.251157
+  lon: -88.250855
   mus: 13
-  name:  'Tyler Van Atkins Memorial'
+  name:  'Donald F. Bresnan Memorial'
 - fields: 2
   img:  'http://lh4.ggpht.com/DKqCX7ekIzT953BiW_t-Oe0jBg-GV5rCptYhvQqlLpQdaRpMxnNfMXekcxHT3XIhqCgskbqRwa-YofxMh71Q'
   lat: 40.090655
@@ -26,6 +19,13 @@
   lon: -88.242671
   mus: 10
   name:  'Marketplace Mall Fountain'
+- fields: 7
+  img:  'http://lh3.ggpht.com/lzCSS0_tjwUV7JQ2fgLI0e05IrzPxlVUs-6aEPOwUv67IanQJSTi71gkw0SGm8asmoE_r3Xoh048Fd9xRpE'
+  lat: 40.099169
+  level: 8
+  lon: -88.251419
+  mus: 8
+  name:  'Lyman Larson Memorial'
 - fields: 3
   img:  'http://lh6.ggpht.com/SboHv2_AWJ6ll559fK1A5a1UIAKf04oIHrgidra_E6L8gDK_mQ-DaM7hKYkv7MT6ZAA8pzgPxv_Vy-eNN7g'
   lat: 40.110608
@@ -33,33 +33,33 @@
   lon: -88.231957
   mus: 6
   name:  '217 Tattoo Co.'
-- fields: 5
-  img:  'http://lh3.ggpht.com/lzCSS0_tjwUV7JQ2fgLI0e05IrzPxlVUs-6aEPOwUv67IanQJSTi71gkw0SGm8asmoE_r3Xoh048Fd9xRpE'
-  lat: 40.099169
+- fields: 2
+  img:  'http://lh3.ggpht.com/whmQSPmix2tEoKcWwrVrV0H0JzNf1tzyuohI3ykSa-Qx4rUcLTf4686WcnJjygsMY2QPUWhvVVzlmMMHof94'
+  lat: 40.105907
+  level: 5
+  lon: -88.22564
+  mus: 6
+  name:  'Andrew De Grado Memorial'
+- fields: 2
+  img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
+  lat: 40.100078
   level: 8
-  lon: -88.251419
-  mus: 5
-  name:  'Lyman Larson Memorial'
-- fields: 3
+  lon: -88.250683
+  mus: 4
+  name:  'Brian Clark Memorial Plaque'
+- fields: 4
   img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
   lat: 40.100822
   level: 8
   lon: -88.25193
-  mus: 3
+  mus: 4
   name:  'Seeds of Kindness Bench'
-- fields: 1
-  img:  'http://lh4.ggpht.com/DTGKMEvXrKSLJVBZP6bN7EF-DMHt5l_x3o-C-Ln0FjrGCQcTdcLNaZDI2_OCwEzuqgh8HyyqJwyQkc4-0H8g'
-  lat: 40.106037
-  level: 4
-  lon: -88.226237
-  mus: 3
-  name:  'Triplets'
-- fields: 5
+- fields: 6
   img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
   lat: 40.098246
   level: 8
   lon: -88.251974
-  mus: 2
+  mus: 3
   name:  'Hessel Park'
 - fields: 1
   img:  'http://lh5.ggpht.com/NUOCD82iNRGW1NGqEC4FKet1u5_cm4WRNc2c9_YABAjGf6-OSCLz7HgYkP1ZuVAbpMl6Qi10HRW16Oc9jNM2'
@@ -68,10 +68,10 @@
   lon: -88.236182
   mus: 2
   name:  'Washington Park'
-- fields: 5
-  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
-  lat: 40.100936
-  level: 8
-  lon: -88.250855
+- fields: 2
+  img:  'http://lh3.ggpht.com/lGjbP2iz0XvlEWLhgCBNqkWukvjrBowKmX-1_O44U1A3_4b3-vuXzkfp7rasqU81TcPBoQO82gAzEGtBBYcR'
+  lat: 40.106058
+  level: 4
+  lon: -88.223672
   mus: 2
-  name:  'Donald F. Bresnan Memorial'
+  name:  'Music Building'
