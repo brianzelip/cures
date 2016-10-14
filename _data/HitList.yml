@@ -13,6 +13,13 @@
   mus: 13
   name:  'Donald F. Bresnan Memorial'
 - fields: 2
+  img:  'http://lh5.ggpht.com/uP38yDCg4dPRI1F0r0ALGArEc8Q9eoRuaxkfxZTafZZr9tMcbLUZek1hZRbLUxHJVGPcLSf_JKbotbTBeR7nfA'
+  lat: 40.107226
+  level: 5
+  lon: -88.22858
+  mus: 10
+  name:  'Class of 1897 Tree'
+- fields: 2
   img:  'http://lh4.ggpht.com/DKqCX7ekIzT953BiW_t-Oe0jBg-GV5rCptYhvQqlLpQdaRpMxnNfMXekcxHT3XIhqCgskbqRwa-YofxMh71Q'
   lat: 40.090655
   level: 2
@@ -47,13 +54,6 @@
   lon: -88.231957
   mus: 6
   name:  '217 Tattoo Co.'
-- fields: 3
-  img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
-  lat: 40.116553
-  level: 3
-  lon: -88.242268
-  mus: 5
-  name:  'Esquire Lounge'
 - fields: 2
   img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
   lat: 40.100078
@@ -68,13 +68,13 @@
   lon: -88.25193
   mus: 4
   name:  'Seeds of Kindness Bench'
-- fields: 6
-  img:  'http://lh3.googleusercontent.com/tWUxy7KQ-q_qBBIgLzTjjezrBpWPSJ_z3FWnvbB8Y5wIiYZW1I5ioL0Tzq60VyalCaIwOk4UI3agM8tFaykY'
-  lat: 40.117427
-  level: 7
-  lon: -88.243235
+- fields: 5
+  img:  'http://lh4.ggpht.com/-MJc8fCVxpxV7prlhkP3sXPWZ7jsr8Behc29zUJqdz_V57jSg7SzyMUUv7B9Frzu36mJhM2PQkr_LJk-zyM'
+  lat: 40.117729
+  level: 5
+  lon: -88.243645
   mus: 3
-  name:  'Cowboy Monkey'
+  name:  'Watson''s'
 - fields: 6
   img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
   lat: 40.098246
@@ -96,13 +96,6 @@
   lon: -88.223672
   mus: 3
   name:  'Music Building'
-- fields: 4
-  img:  'http://lh5.ggpht.com/KadNuhjGK6FUXezGHW1W1kfPOQV5l7gJP594EQm5nPZFLTgcTsjl4ixa-j7XitgtyJyou3q0pTfMr4i2E_avIA'
-  lat: 40.118013
-  level: 6
-  lon: -88.243445
-  mus: 3
-  name:  'Clock at Neil and Main'
 - fields: 1
   img:  'http://lh5.ggpht.com/NUOCD82iNRGW1NGqEC4FKet1u5_cm4WRNc2c9_YABAjGf6-OSCLz7HgYkP1ZuVAbpMl6Qi10HRW16Oc9jNM2'
   lat: 40.106401
@@ -117,13 +110,20 @@
   lon: -88.243643
   mus: 2
   name:  'Tesla Ball'
+- fields: 3
+  img:  'http://lh3.ggpht.com/bltQwmnzp2vSKYhLpzNLqB4iddy6ie0kWk9G7Wce4U9qmW3CABxbXAhF7v0oG9QLFD2q57UZuVqZCMgN3MHZfA'
+  lat: 40.118335
+  level: 6
+  lon: -88.243408
+  mus: 2
+  name:  'Downtown Fountain'
 - fields: 2
-  img:  'http://lh4.ggpht.com/wbrbzDCo3C4qFJyHTWOST5o8B7kwZSWePUWOboIlYrdvxjrhWLqVQ1MqUF5-Hy4nt26x_oHQq9f8EbfdEjVK'
-  lat: 40.117382
-  level: 4
-  lon: -88.243748
+  img:  'http://lh3.googleusercontent.com/tWUxy7KQ-q_qBBIgLzTjjezrBpWPSJ_z3FWnvbB8Y5wIiYZW1I5ioL0Tzq60VyalCaIwOk4UI3agM8tFaykY'
+  lat: 40.117427
+  level: 7
+  lon: -88.243235
   mus: 1
-  name:  'Days of Venus'
+  name:  'Cowboy Monkey'
 - fields: 2
   img:  'http://lh5.ggpht.com/qXsP4-THlaQ8DmIiopsvR0dY2hqwPjIHoy1A1b_CUmqmADgED0FAkXDjkBzS-PY4jNfThICrCaXGja5OH8bWF4ghh7lBwJz0FzKz_zOvaiwHohU_'
   lat: 40.11945
@@ -132,9 +132,9 @@
   mus: 1
   name:  '"Stride", Downtown Champaign'
 - fields: 1
-  img:  'http://lh3.ggpht.com/bltQwmnzp2vSKYhLpzNLqB4iddy6ie0kWk9G7Wce4U9qmW3CABxbXAhF7v0oG9QLFD2q57UZuVqZCMgN3MHZfA'
-  lat: 40.118335
+  img:  'http://lh5.ggpht.com/6qIQAtIoPbAVQ1O3BoOnGg6gtTa9fd0JIkxt6P1kmSimVswLaPpCRaLEudsNcMfP_kKb4SCE1By1o3lhYevmIA'
+  lat: 40.1172
   level: 6
-  lon: -88.243408
+  lon: -88.243745
   mus: 1
-  name:  'Downtown Fountain'
+  name:  'Circle of Friends'
