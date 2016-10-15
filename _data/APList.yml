@@ -47,17 +47,17 @@
   lon: -88.249381
   name:  'Bicentennial Tree'
 - ap: 7222
-  img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
-  lat: 40.099852
-  level: 8
-  lon: -88.251947
-  name:  'Our Friend Tim Palmer'
-- ap: 7222
   img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
   lat: 40.100822
   level: 8
   lon: -88.25193
   name:  'Seeds of Kindness Bench'
+- ap: 7222
+  img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
+  lat: 40.099852
+  level: 8
+  lon: -88.251947
+  name:  'Our Friend Tim Palmer'
 - ap: 7035
   img:  'http://lh6.ggpht.com/ka79B_ahK9kHLiOCOnKsp3SooZlPGgMuIOO25OaqPU7eoUALOBzaa40ZCStdo4v6rCYW0VS_pNgW3PJyUDKxpXI-n55zohIxJwRJEq5gslJKwS5ykQ'
   lat: 40.11794
@@ -79,7 +79,7 @@
 - ap: 6472
   img:  'http://lh4.ggpht.com/nWSZEVnpEj78GBs58tujBturUcAqKjsgYU_9v_qXRS_K_ROKLNgBwnqKopJse169VJqqWtn6oo3h_qABlaw'
   lat: 40.117571
-  level: 5
+  level: 6
   lon: -88.240851
   name:  'The Accord'
 - ap: 6285
@@ -103,7 +103,7 @@
 - ap: 6098
   img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
   lat: 40.116164
-  level: 5
+  level: 7
   lon: -88.241661
   name:  'Zipcar-45 E. University Avenue'
 - ap: 6098
@@ -118,6 +118,18 @@
   level: 8
   lon: -88.251826
   name:  'Irina P. Stewart Memorial Plaque'
+- ap: 6098
+  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
+  lat: 40.101327
+  level: 8
+  lon: -88.251412
+  name:  'Zeus Memorial'
+- ap: 6098
+  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
+  lat: 40.100941
+  level: 8
+  lon: -88.251314
+  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
 - ap: 6098
   img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
   lat: 40.100691
@@ -148,18 +160,6 @@
   level: 8
   lon: -88.251426
   name:  'Ruth Haasis Memorial'
-- ap: 6098
-  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
-  lat: 40.101327
-  level: 8
-  lon: -88.251412
-  name:  'Zeus Memorial'
-- ap: 6098
-  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
-  lat: 40.100941
-  level: 8
-  lon: -88.251314
-  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
 - ap: 5535
   img:  'http://lh5.ggpht.com/KadNuhjGK6FUXezGHW1W1kfPOQV5l7gJP594EQm5nPZFLTgcTsjl4ixa-j7XitgtyJyou3q0pTfMr4i2E_avIA'
   lat: 40.118013
@@ -247,7 +247,7 @@
 - ap: 4598
   img:  'http://lh3.googleusercontent.com/SjusdEZ1n6AkcvHdrM3TfGAqP_W5LJRmm4qEdm5xmdvHcBejD6Jg0kXCZaHyUk5WGeE8Zu0RrSSq_1VDXFU'
   lat: 40.117419
-  level: 6
+  level: 7
   lon: -88.240991
   name:  'Old News Gazette Offices'
 - ap: 4598
@@ -295,7 +295,7 @@
 - ap: 4411
   img:  'http://lh6.ggpht.com/ea6HxAw7m0OhhPqJJkZR9u60pR1sab_JdxaOyEltqmQd-63FFJzPY72jEnu08g9Gcjjj5cf3jyyS_M1E7OIbfg'
   lat: 40.11616
-  level: 5
+  level: 7
   lon: -88.241422
   name:  'It''s A Mistree'
 - ap: 4411
@@ -307,7 +307,7 @@
 - ap: 4411
   img:  'http://lh3.ggpht.com/GGBe9Hug3fUbRCRAMs_kO1fg2HHQ95ZDBdW0S2tAHakvhQbWxlttanjhGNJJcyVRruUlL7zjQnPGI2bu8Wc4'
   lat: 40.117905
-  level: 6
+  level: 7
   lon: -88.242149
   name:  'Read All About It'
 - ap: 4411
@@ -337,7 +337,7 @@
 - ap: 4411
   img:  'http://lh3.ggpht.com/eIZLSi2oHXQIznnki3LOUvKrTTcJ6a2d9xmuW9B9IjzRMAyaWG19Qw6gTUGWsC5V7R3LlRVD-ySQPp_6uK_aZw'
   lat: 40.117519
-  level: 6
+  level: 7
   lon: -88.240577
   name:  'Spiral Flight'
 - ap: 4411
@@ -539,6 +539,12 @@
   lon: -88.223153
   name:  'Krannert Amphitheater'
 - ap: 3474
+  img:  'http://lh6.ggpht.com/eVUed3229Zh9saFzaZQcI6LXsyDB0IJxc9v-Aa9Oa0AhjQLXBIVSuu1qUQwJVXWgmXYPY9sqTzK73Le4BuU'
+  lat: 40.11122
+  level: 5
+  lon: -88.224097
+  name:  'Nuclear Radiation Laboratory'
+- ap: 3474
   img:  'http://lh5.ggpht.com/NUOCD82iNRGW1NGqEC4FKet1u5_cm4WRNc2c9_YABAjGf6-OSCLz7HgYkP1ZuVAbpMl6Qi10HRW16Oc9jNM2'
   lat: 40.106401
   level: 5
@@ -556,12 +562,6 @@
   level: 4
   lon: -88.234589
   name:  'Koinonia Plaque'
-- ap: 3474
-  img:  'http://lh6.ggpht.com/eVUed3229Zh9saFzaZQcI6LXsyDB0IJxc9v-Aa9Oa0AhjQLXBIVSuu1qUQwJVXWgmXYPY9sqTzK73Le4BuU'
-  lat: 40.11122
-  level: 5
-  lon: -88.224097
-  name:  'Nuclear Radiation Laboratory'
 - ap: 3474
   img:  'http://lh3.ggpht.com/xId6g6VicbS3F1vf-TwfkAOcAj2J4qElQNbgW1wmhWy5cxh-ZSjfN5a3K9w7mGOmQymgNDrLMQCjkUPl_ifzcA'
   lat: 40.111517
@@ -760,10 +760,10 @@
   level: 5
   lon: -88.247472
   name:  'Rebecca Mabry Memorial Tree'
-- ap: 2162
+- ap: 2537
   img:  'http://lh6.ggpht.com/BANSBFfuZ3_0ya-JodV7jEB1a-DwSOyegBwPKAODSUFHLmvI7b8zwSiLUAvvqIAYjpU6S_Lm8XRBJ30KDGCIEg'
   lat: 40.116917
-  level: 2
+  level: 7
   lon: -88.24078
   name:  'North Star Sculpture'
 - ap: 2537
