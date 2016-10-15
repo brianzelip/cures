@@ -47,17 +47,17 @@
   lon: -88.241405
   name:  'Jupiter''s Downtown'
 - ap: 7222
-  img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
-  lat: 40.100822
-  level: 8
-  lon: -88.25193
-  name:  'Seeds of Kindness Bench'
-- ap: 7222
   img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
   lat: 40.099852
   level: 8
   lon: -88.251947
   name:  'Our Friend Tim Palmer'
+- ap: 7222
+  img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
+  lat: 40.100822
+  level: 8
+  lon: -88.25193
+  name:  'Seeds of Kindness Bench'
 - ap: 7035
   img:  'http://lh6.ggpht.com/ka79B_ahK9kHLiOCOnKsp3SooZlPGgMuIOO25OaqPU7eoUALOBzaa40ZCStdo4v6rCYW0VS_pNgW3PJyUDKxpXI-n55zohIxJwRJEq5gslJKwS5ykQ'
   lat: 40.11794
@@ -119,18 +119,6 @@
   lon: -88.251826
   name:  'Irina P. Stewart Memorial Plaque'
 - ap: 6098
-  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
-  lat: 40.101327
-  level: 8
-  lon: -88.251412
-  name:  'Zeus Memorial'
-- ap: 6098
-  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
-  lat: 40.100941
-  level: 8
-  lon: -88.251314
-  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
-- ap: 6098
   img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
   lat: 40.100691
   level: 8
@@ -160,6 +148,18 @@
   level: 8
   lon: -88.251426
   name:  'Ruth Haasis Memorial'
+- ap: 6098
+  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
+  lat: 40.101327
+  level: 8
+  lon: -88.251412
+  name:  'Zeus Memorial'
+- ap: 6098
+  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
+  lat: 40.100941
+  level: 8
+  lon: -88.251314
+  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
 - ap: 5722
   img: http://i.imgur.com/5j1qaiT.png
   lat: 44.607633
@@ -419,6 +419,12 @@
   lon: -88.200203
   name:  'Dane Michael Sherr Memorial '
 - ap: 3661
+  img:  'http://lh6.ggpht.com/xQx5BUJcAI_QUroJGe77pPkgV7s_ACVui8PXvCyvmehuDvenmRIvKBGeevOacNR6W3pLMMSh4sVrvXm87QeN2eylsZEtz7pxB-CMvzLmH1WyVZ16uw'
+  lat: 40.11786
+  level: 5
+  lon: -88.248031
+  name:  'Lincoln Megalith'
+- ap: 3661
   img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
   lat: 40.128504
   level: 4
@@ -444,16 +450,16 @@
   name:  'a3de4299711b4894ad7dfc640c4cffc8.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 43.052616
-  level: '?'
-  lon: -86.239474
-  name:  '2d66204ffc2c4b95b5c1607b519f2efb.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.923165
   level: '?'
   lon: -86.216211
   name:  'e934ee6b1b494c2db5bbe188aa116da4.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 43.052616
+  level: '?'
+  lon: -86.239474
+  name:  '2d66204ffc2c4b95b5c1607b519f2efb.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.273821
@@ -496,12 +502,6 @@
   level: 7
   lon: -88.241676
   name:  'Jos. Kuhn and Co. Building'
-- ap: 3249
-  img:  'http://lh6.ggpht.com/xQx5BUJcAI_QUroJGe77pPkgV7s_ACVui8PXvCyvmehuDvenmRIvKBGeevOacNR6W3pLMMSh4sVrvXm87QeN2eylsZEtz7pxB-CMvzLmH1WyVZ16uw'
-  lat: 40.11786
-  level: 3
-  lon: -88.248031
-  name:  'Lincoln Megalith'
 - ap: 3474
   img:  'http://lh4.ggpht.com/GO8F5d9Gz5q0tize1_1NxJ51SfmjJESFilw1OhfyI3I0RcdLFN2uKHr8prPX1KAdmabYL8PNJNjyqlgn7r9o'
   lat: 40.117537
@@ -580,6 +580,12 @@
   level: 4
   lon: -88.288027
   name:  'Windsor Road Christian Church'
+- ap: 2724
+  img:  'http://lh4.ggpht.com/kikXgFanbehTzblqLlN2WzEcVgfnP2HD4JE7GI1GOKTu44g13lknkSsdu9prj71y0zKIBFJv_0RIkFW3vXY'
+  lat: 40.117574
+  level: 5
+  lon: -88.247603
+  name:  'Travis Marmion Memorial Tree'
 - ap: 2724
   img:  'http://lh5.ggpht.com/Zoidr1eUAO2UEM6SyifBpkC3K42Ctl355Krd3S2ZU3BbbIMt1XFKF4C35huJT7a-K1PMF6JCK3ztTnr2Wbc9zw'
   lat: 40.109178
@@ -700,12 +706,24 @@
   level: 6
   lon: -88.281531
   name:  'Terry M. Warmbier Memorial'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/7jfpHo9VtrONulGtzUfsP3lI3AsKBnUxCQaLU9xAMpVCQbWD24db4z9Otn0Sfz_OnEXSbdwKUGm3MZBV6QZrhQ'
+  lat: 40.117194
+  level: 5
+  lon: -88.247472
+  name:  'Rebecca Mabry Memorial Tree'
 - ap: 2162
   img:  'http://lh6.ggpht.com/BANSBFfuZ3_0ya-JodV7jEB1a-DwSOyegBwPKAODSUFHLmvI7b8zwSiLUAvvqIAYjpU6S_Lm8XRBJ30KDGCIEg'
   lat: 40.116917
   level: 2
   lon: -88.24078
   name:  'North Star Sculpture'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
+  lat: 40.108173
+  level: 6
+  lon: -88.230209
+  name:  'Mural on South Sixth Street'
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/EwXPPCiuVPRkECPKlJtyqReSySoJKEdwrx1MkNVUy6EM9xWU_fet1Z-sLfx_P2_c54DeJcApxdl-hKg9vGVEtw'
   lat: 40.108224
@@ -730,12 +748,6 @@
   level: 5
   lon: -88.229031
   name:  'Illini Hall'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
-  lat: 40.108173
-  level: 6
-  lon: -88.230209
-  name:  'Mural on South Sixth Street'
 - ap: 2462
   img:  'http://lh3.googleusercontent.com/hvoLMUc9UoNVVPttxWTc8PzOWdu5MBmPETnBexH7Alyl20WGCrNa0G_j7DwvD3qbhqpTaeThFhGDV2rCtp8'
   lat: 40.107629
