@@ -526,12 +526,6 @@
   level: 5
   lon: -88.228355
   name:  'Carolyn Smith Ainsworth Memorial'
-- ap: 3399
-  img:  'http://lh4.ggpht.com/PmGpygZ2fBs43twk2Y44XZbgGcHWv0YimAq7Fp3vlIRRqUyLpSmDmFwcn1ucfmJarcQrAAXJjYAXAhNyxSrz'
-  lat: 40.110049
-  level: 5
-  lon: -88.231968
-  name:  'Potbelly Mural'
 - ap: 3474
   img:  'http://lh4.ggpht.com/QK-MghSPteFj84zczypfRI354OtF0Ptf0u9QhOj1inCSQluqoDym0gzN3kOOvcmZUZ2CTxbjRprUJ0SB3lpC'
   lat: 40.107975
@@ -544,6 +538,12 @@
   level: 5
   lon: -88.224097
   name:  'Nuclear Radiation Laboratory'
+- ap: 3399
+  img:  'http://lh4.ggpht.com/PmGpygZ2fBs43twk2Y44XZbgGcHWv0YimAq7Fp3vlIRRqUyLpSmDmFwcn1ucfmJarcQrAAXJjYAXAhNyxSrz'
+  lat: 40.110049
+  level: 5
+  lon: -88.231968
+  name:  'Potbelly Mural'
 - ap: 3474
   img:  'http://lh5.ggpht.com/NUOCD82iNRGW1NGqEC4FKet1u5_cm4WRNc2c9_YABAjGf6-OSCLz7HgYkP1ZuVAbpMl6Qi10HRW16Oc9jNM2'
   lat: 40.106401
@@ -568,7 +568,7 @@
   level: 6
   lon: -88.224103
   name:  'Ceramics Building'
-- ap: 2911
+- ap: 3285
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.396552
   level: '?'
@@ -636,6 +636,12 @@
   name:  'c265adb0d83a43bd95afc7c17a9db620.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.802652
+  level: '?'
+  lon: -87.582363
+  name:  '38ecc2f47d2a48e89035f4db5122b1d8.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.698214
   level: '?'
   lon: -87.836326
@@ -660,10 +666,22 @@
   name:  '436c09b3290c4b8a9e721c3573019f82.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.866366
+  level: '?'
+  lon: -87.605985
+  name:  '648c74fe7e3b4317a9ff8068f64d7454.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.401374
   level: '?'
   lon: -86.288005
   name:  '9c168d55307d46deafd3684ceac79063.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.891332
+  level: '?'
+  lon: -87.609518
+  name:  '2a27b73115c940dc9f084b8938c973c1.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.781395
@@ -688,6 +706,12 @@
   level: '?'
   lon: -87.757887
   name:  'a7f76472c11441cf9ac511a4083f1c8f.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.795655
+  level: '?'
+  lon: -87.578575
+  name:  '7c5094f2367740beb131323e7ca14246.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.33555
@@ -797,12 +821,6 @@
   lon: -88.228521
   name:  'Red Lines Sculpture'
 - ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.866366
-  level: '?'
-  lon: -87.605985
-  name:  '648c74fe7e3b4317a9ff8068f64d7454.16'
-- ap: 2537
   img:  'http://lh4.ggpht.com/lmmAipLLlemZCx_GvFWKPFhu7DSZrKSc3OxReeZJ15aabG51w3_L9IdcpKrku-QUoKanND7aZEBZIToeu8ha'
   lat: 40.120805
   level: 4
@@ -814,9 +832,3 @@
   level: 5
   lon: -88.199119
   name:  'Perkins Historical Site'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.891332
-  level: '?'
-  lon: -87.609518
-  name:  '2a27b73115c940dc9f084b8938c973c1.16'
