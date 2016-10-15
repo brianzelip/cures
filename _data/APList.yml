@@ -107,6 +107,18 @@
   lon: -88.251826
   name:  'Irina P. Stewart Memorial Plaque'
 - ap: 6098
+  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
+  lat: 40.101327
+  level: 8
+  lon: -88.251412
+  name:  'Zeus Memorial'
+- ap: 6098
+  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
+  lat: 40.100941
+  level: 8
+  lon: -88.251314
+  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
+- ap: 6098
   img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
   lat: 40.100691
   level: 8
@@ -136,24 +148,6 @@
   level: 8
   lon: -88.251426
   name:  'Ruth Haasis Memorial'
-- ap: 6098
-  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
-  lat: 40.101327
-  level: 8
-  lon: -88.251412
-  name:  'Zeus Memorial'
-- ap: 6098
-  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
-  lat: 40.100941
-  level: 8
-  lon: -88.251314
-  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
-- ap: 5722
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 44.607633
-  level: '?'
-  lon: -87.43205
-  name:  '8e6a8255e7c342e8806313a728bf9918.12'
 - ap: 5535
   img:  'http://lh3.ggpht.com/yeYI3q7rDQLA5xBcWfH-Caw2Uh740ZPRQjjyvOrZz7ZyLI-gxBpi8yqxqDrlOBzG9YHs6YlxdgX0obTpXlQ'
   lat: 40.117681
@@ -166,12 +160,6 @@
   level: 5
   lon: -88.228733
   name:  'The Centennial Colophon'
-- ap: 5348
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.923147
-  level: '?'
-  lon: -86.213141
-  name:  'e24200ef122246078bca949f67ff18ee.16'
 - ap: 5348
   img:  'http://lh5.ggpht.com/c-upLAoA6V12_Enn5doC2Hqtp3W9dLMIb34VHt0aVni2lW2OF5Lddn2c-1XcxmmaN7um9eyxqOF5c3c0hs4'
   lat: 40.118139
@@ -274,6 +262,18 @@
   level: 5
   lon: -88.224492
   name:  'Siebel Courtyard Structure'
+- ap: 4598
+  img:  'http://lh5.ggpht.com/5WZPQL7oa-VYm5x9viEwKiCeApkaxUNXa-mHYU-9S9_fOCFAqFLktoU4hnu-RM6tx8X0tMs2PHUyDnkS6fqI'
+  lat: 40.111391
+  level: 6
+  lon: -88.224416
+  name:  'Gone Fishing'
+- ap: 4598
+  img:  'http://lh3.googleusercontent.com/U_-4hKnh83ZT50dnywqzC7jR6ialVAMHwoWLMsG5km5adHpOU2FNmfe58sV_IDOBaVBAJbKZafokPWLzKLGgTQ'
+  lat: 40.111268
+  level: 5
+  lon: -88.223809
+  name:  'Goodwin Avenue Bridge'
 - ap: 4411
   img:  'http://lh5.ggpht.com/nWEtxuKQdy0teBBue1DYmG7P3SF5-3A6zlB7GwVHBWlolAZYGq6Br78lWcF9ltFy-KeSlozXie2RmU6JfCUX'
   lat: 40.142673
@@ -346,6 +346,12 @@
   level: 3
   lon: -88.227236
   name:  'Illini Union'
+- ap: 3848
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 44.607633
+  level: '?'
+  lon: -87.43205
+  name:  '8e6a8255e7c342e8806313a728bf9918.12'
 - ap: 3848
   img:  'http://lh5.ggpht.com/TwKxvDv1ImbH5RTs7GHqqK_rPohVtqtgToH7YuDkkwa5BRFiMEcY1vWcFrJLkhaXW6cd2YVL0_Vro2JaA3K1'
   lat: 40.131575
@@ -432,22 +438,16 @@
   name:  'Plato: A Social Networking Revolution Begins'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 43.051684
-  level: '?'
-  lon: -86.2422
-  name:  'a3de4299711b4894ad7dfc640c4cffc8.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.923165
   level: '?'
   lon: -86.216211
   name:  'e934ee6b1b494c2db5bbe188aa116da4.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 43.052616
+  lat: 42.923147
   level: '?'
-  lon: -86.239474
-  name:  '2d66204ffc2c4b95b5c1607b519f2efb.16'
+  lon: -86.213141
+  name:  'e24200ef122246078bca949f67ff18ee.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.273821
@@ -533,6 +533,12 @@
   lon: -88.223153
   name:  'Krannert Amphitheater'
 - ap: 3474
+  img:  'http://lh6.ggpht.com/eVUed3229Zh9saFzaZQcI6LXsyDB0IJxc9v-Aa9Oa0AhjQLXBIVSuu1qUQwJVXWgmXYPY9sqTzK73Le4BuU'
+  lat: 40.11122
+  level: 5
+  lon: -88.224097
+  name:  'Nuclear Radiation Laboratory'
+- ap: 3474
   img:  'http://lh5.ggpht.com/NUOCD82iNRGW1NGqEC4FKet1u5_cm4WRNc2c9_YABAjGf6-OSCLz7HgYkP1ZuVAbpMl6Qi10HRW16Oc9jNM2'
   lat: 40.106401
   level: 5
@@ -550,6 +556,12 @@
   level: 4
   lon: -88.234589
   name:  'Koinonia Plaque'
+- ap: 3474
+  img:  'http://lh3.ggpht.com/xId6g6VicbS3F1vf-TwfkAOcAj2J4qElQNbgW1wmhWy5cxh-ZSjfN5a3K9w7mGOmQymgNDrLMQCjkUPl_ifzcA'
+  lat: 40.111517
+  level: 6
+  lon: -88.224103
+  name:  'Ceramics Building'
 - ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.894743
