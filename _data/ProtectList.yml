@@ -537,13 +537,6 @@
   lon: -88.240632
   mus: 102
   name:  'Wire Animals'
-- fields: 5
-  img:  'http://lh6.ggpht.com/fmwXS4vSqefbmXDWmZSLjVARfYE8HU3kSTuyc8sUvk2m8luvvHf1LHjv6Yu0UjOPHYh_eGbaBrHgiAXfHo0'
-  lat: 40.10503
-  level: 6
-  lon: -88.228342
-  mus: 94
-  name:  'Classics Library'
 - fields: 2
   img:  'http://lh5.ggpht.com/GN_FYcjKjamCNlfD8yA995MpcEHa9gIZVV6FBYtdeiNr_XgtCIN6gnN6_dSKwt-DenNMN_ZiJaG12iLuY6wt'
   lat: 40.103588
@@ -624,7 +617,7 @@
 - fields: 2
   img:  'http://lh4.ggpht.com/2tHD_AHYQu0kWuwLX2HMYWBG4txVkuWsBEfzWLL39npWp8kMSHiUKxSJM1E7yhimuMVUJ-RIlSSKsgjETvtr'
   lat: 40.110524
-  level: 4
+  level: 6
   lon: -88.228706
   mus: 53
   name:  'Leo Roy Tehon Memorial'
@@ -635,13 +628,6 @@
   lon: -88.236748
   mus: 51
   name:  '"Springville Portal" at Research Park'
-- fields: 3
-  img:  'http://lh5.ggpht.com/oCw3ZC6UKF3aiK6dkbz72dhzUsJNhOmfVjVsXJET_YP5e1p53pLTa8Dep24gLqeY9FghWE0kaAB64vvn7nq0'
-  lat: 40.105008
-  level: 6
-  lon: -88.243265
-  mus: 49
-  name:  'McCollum Park Peacock'
 - fields: 7
   img:  'http://lh4.ggpht.com/MwwvfldFODGbgQvly97peMlV1Ggftr7Cz_qnZi6Xts08-O6InkPyV8c78QXZkgd-opgO2p1ER6wONxA3Zfs'
   lat: 40.092492
@@ -649,20 +635,6 @@
   lon: -88.239353
   mus: 45
   name:  'U.S. Representative Memorial'
-- fields: 2
-  img:  'http://lh3.ggpht.com/hFkwytijOefeZugpAO9nX8xe0Zazpem9zJKa7S-WYlccBZVMWRqZYIj-iWKNXi5TUWEXjk4HQbKAvCW_3WdE'
-  lat: 40.104287
-  level: 7
-  lon: -88.229415
-  mus: 40
-  name:  'The Pioneers'
-- fields: 2
-  img:  'http://lh4.ggpht.com/1LUozaukItxu6cHk_7wORzYYNvskCHi_wUxbNOAcIXNbgLuYn7VElFG0tzY02e6pY-AEL8nNHAL6ewLCaLMH'
-  lat: 40.10567
-  level: 6
-  lon: -88.228634
-  mus: 40
-  name:  'Public Broadcasting Plaque'
 - fields: 1
   img:  'http://lh3.ggpht.com/2iJE4vODI8uMoLDF4vnp-sjX-vDP5uH3090xuEvjLaKt3qU4jVzeR0PsRSTJzlePjMAZ1vuapWM_E2QNwyTy'
   lat: 40.078133
@@ -670,13 +642,6 @@
   lon: -88.294919
   mus: 38
   name:  'Hallbeck Park'
-- fields: 2
-  img:  'http://lh6.ggpht.com/NMgUdPOdhvhvKZh7ugwXgybshZBZ2mkaEWMNKYdFPX6cfIYENSCqE9YpAXSNVuq_9VVWXJB-ShCBAPfF2Yvs'
-  lat: 40.102513
-  level: 7
-  lon: -88.243679
-  mus: 38
-  name:  'Robert Hosier Memorial Garden'
 - fields: 1
   img:  'http://lh4.ggpht.com/UsWzXzHhg7iWYqgGNNqj1XXLWp2Oj6pNxp7R0PwHI8tzNVuJwD2K0KgVwc0BR_9MEu4QalqL6x1cBnT_vz89'
   lat: 40.108739
@@ -733,13 +698,6 @@
   lon: -88.223687
   mus: 24
   name:  'ERML'
-- fields: 4
-  img:  'http://lh6.ggpht.com/TdTc6w1E10iwnW0zYKNCVloc1zKI2Jpm_XcDhw42nHtFkGMXJY26p7-RM1BhUkp1y3_8M_tLQYOLbdOWgSBS'
-  lat: 40.103767
-  level: 7
-  lon: -88.228593
-  mus: 23
-  name:  'Cascading Brick Fountain'
 - fields: 2
   img:  'http://lh3.ggpht.com/rgh_2qJQUPC1OrARUkiQqPKoNReiqZYOimm5Nszb77pDh72OszuyiJBKn-vDxHUuyjO2XTeKU9GBHc3oHIYr'
   lat: 40.115283
@@ -764,7 +722,7 @@
 - fields: 1
   img:  'http://lh5.ggpht.com/_eMBd3V1rEFztJvtBkssKVH7eM-jiU3l9VJJ-kj6SxGZMx_7Qo6G4yjfsws8T1FhIEFwk7yvoicm8XTVERh4'
   lat: 40.084405
-  level: 5
+  level: 6
   lon: -88.297963
   mus: 22
   name:  'Mount Sinai Temple'
@@ -789,6 +747,13 @@
   lon: -88.2577
   mus: 20
   name:  'Salvation Army Church'
+- fields: 3
+  img:  'http://lh6.ggpht.com/TdTc6w1E10iwnW0zYKNCVloc1zKI2Jpm_XcDhw42nHtFkGMXJY26p7-RM1BhUkp1y3_8M_tLQYOLbdOWgSBS'
+  lat: 40.103767
+  level: 7
+  lon: -88.228593
+  mus: 19
+  name:  'Cascading Brick Fountain'
 - fields: 4
   img:  'http://lh3.ggpht.com/PijfKs7HCJf1vVcIxcTF1HPOYaa5iS4ZECXZUQ2dDDSn9ZCXSd8FGHThRUiEIC-oMNmClt0seIzn8FsaGPER'
   lat: 40.112752
@@ -824,20 +789,6 @@
   lon: -88.40232
   mus: 17
   name:  'First Baptist Church'
-- fields: 1
-  img:  'http://lh5.ggpht.com/J4IbsPUjPF6cIlktTr1tOGHi61krS9o1eXeuAlPRBrSYUQrwdyShfNzuzxD0epa_cBMPF1xJ9YhoBA5VOQtYRw'
-  lat: 40.105467
-  level: 5
-  lon: -88.225644
-  mus: 14
-  name:  'Smith Music Hall'
-- fields: 1
-  img:  'http://lh6.ggpht.com/-flzg4lDDrUKk9tz52QmAPy1_59-9KbIO96Br3rNDxK1nmopyzD21z31JQVdJNJHB-Cy6IsEX0VwBbVwvd5r'
-  lat: 40.104256
-  level: 5
-  lon: -88.225268
-  mus: 14
-  name:  'Institute of Genomic Biology Gateway'
 - fields: 4
   img:  'http://lh3.ggpht.com/VLipBehsKPCp8ewQnBV1ZCz7uE75zcY46iGDyFfFHgX1o55t3DONb3wcBcL5RMYSqABRK0TgIW3DluNy8y6WaA'
   lat: 40.101131
@@ -936,6 +887,13 @@
   lon: -88.249879
   mus: 11
   name:  'Hessel Park'
+- fields: 2
+  img:  'http://lh5.ggpht.com/oCw3ZC6UKF3aiK6dkbz72dhzUsJNhOmfVjVsXJET_YP5e1p53pLTa8Dep24gLqeY9FghWE0kaAB64vvn7nq0'
+  lat: 40.105008
+  level: 6
+  lon: -88.243265
+  mus: 10
+  name:  'McCollum Park Peacock'
 - fields: 4
   img:  'http://lh6.ggpht.com/TtWbekdbsTWA9hOrt2dc1ID1DnRuGoRbAle9mL9aZvc_aJygqJ9jAMjqrWtVr87WnELkFrSVIpO_4VVZQ67P'
   lat: 40.113103
@@ -1265,6 +1223,13 @@
   lon: -88.228747
   mus: 3
   name:  'Boneyard Creek Mural'
+- fields: 1
+  img:  'http://lh6.ggpht.com/NMgUdPOdhvhvKZh7ugwXgybshZBZ2mkaEWMNKYdFPX6cfIYENSCqE9YpAXSNVuq_9VVWXJB-ShCBAPfF2Yvs'
+  lat: 40.102513
+  level: 7
+  lon: -88.243679
+  mus: 2
+  name:  'Robert Hosier Memorial Garden'
 - fields: 2
   img:  'http://lh3.ggpht.com/sisvfsphxy7AK_2qrrqb7lNJk3_7ciHSVJyodINYITBc-UqugyNOooCxKupgJKEg5m_x95eZwouSO2WCmN60ew'
   lat: 40.098579
@@ -1286,13 +1251,6 @@
   lon: -88.249107
   mus: 2
   name:  'Jerome Cook Memorial'
-- fields: 1
-  img:  'http://lh6.ggpht.com/cYQLNtCsiRGXd_y7-ZdI4jGlNRpC4oiy2Z7UT7etDH3FBvBRQDtOW_rY0NBvKLJMnTw_EXH75NDGMcI6UkeV'
-  lat: 40.105618
-  level: 7
-  lon: -88.229005
-  mus: 2
-  name:  'The Chapel of St. John the Divine'
 - fields: 1
   img:  'http://lh4.ggpht.com/zSwyeT2OHM1BNTwvZlgP1mVe-dTjc2LKjU4DSHSuEU24YLHSKziuJKmF4_BAMl1Dd3Sy1PRGPBbPbhSDX0fY'
   lat: 40.10349
