@@ -155,17 +155,17 @@
   lon: -88.242984
   name:  'Mural for the Blind Pig Brewery'
 - ap: 4598
-  img:  'http://lh5.ggpht.com/1eDayuS4d2wNAfoiDstKMYbI0A-jF-si0NR2wlIA4cGm_nJhPwg0qgwC4fHnpfADWMcQd31BdogexUe3d1W2'
-  lat: 40.124396
-  level: 5
-  lon: -88.305917
-  name:  'Sawgrass Playground'
-- ap: 4598
   img:  'http://lh5.ggpht.com/TwKxvDv1ImbH5RTs7GHqqK_rPohVtqtgToH7YuDkkwa5BRFiMEcY1vWcFrJLkhaXW6cd2YVL0_Vro2JaA3K1'
   lat: 40.131575
   level: 5
   lon: -88.314062
   name:  'Mark L. Rambow Memorial'
+- ap: 4598
+  img:  'http://lh5.ggpht.com/1eDayuS4d2wNAfoiDstKMYbI0A-jF-si0NR2wlIA4cGm_nJhPwg0qgwC4fHnpfADWMcQd31BdogexUe3d1W2'
+  lat: 40.124396
+  level: 5
+  lon: -88.305917
+  name:  'Sawgrass Playground'
 - ap: 4598
   img:  'http://lh5.ggpht.com/Ubq0MuIsu5MU-I8JiOC7oX_aheDNBNsG-UlSMPqA5BRkHJX9BDDUPWGQxXllzVgaxFeo23u3zu_hlJesprpNJg'
   lat: 40.133421
@@ -503,12 +503,6 @@
   lon: -88.251412
   name:  'Zeus Memorial'
 - ap: 2724
-  img:  'http://lh6.ggpht.com/jhMQ5IGo-EB8MiVSEIUKmHbHwagHnJzv5RKZvsbHLes_88gz9Kesj98eZWV29mufV0LSUVjs53V5hMFQOG2Q'
-  lat: 40.11067
-  level: 6
-  lon: -88.220974
-  name:  'Astronomy Building'
-- ap: 2724
   img:  'http://lh3.ggpht.com/wOZOXhKOnhbKEPMQke-zGIG_vheDkHM8q19B1n_is5H7t1whBcQxBIGZI6VIPNw8mdCNXG6EUZeSjd1YLdngdg'
   lat: 40.108965
   level: 6
@@ -520,10 +514,10 @@
   level: 6
   lon: -88.227697
   name:  'The Diana Fountain'
-- ap: 2724
+- ap: 2649
   img:  'http://lh6.ggpht.com/BsXdEO7HLxNLSdztPo_4GNNcbxZCxswiDT4pmmcfDQ8YO2SFVW-VnwyEZBvkuhf1rxKAtoKNLvV4rDJ-YVCYUK1qiX-dId_R8P-JskyFYAK9ruM-'
   lat: 40.110234
-  level: 6
+  level: 5
   lon: -88.224055
   name:  'The Etc'
 - ap: 2724
@@ -712,12 +706,6 @@
   level: 4
   lon: -88.234589
   name:  'Koinonia Plaque'
-- ap: 2387
-  img:  'http://lh5.ggpht.com/sNSUXW7rqg-Qb6dc2gyeAXcXM3VjBpmyYlgK8btL73fYOjsS67hh6b6LfmCRE6_ItufIvb_4YKG10bc3E1am'
-  lat: 40.110969
-  level: 4
-  lon: -88.221953
-  name:  'Arthur Hill Daniels Memorial'
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
   lat: 40.110241
@@ -743,17 +731,17 @@
   lon: -88.226751
   name:  'Class Of 1917 Plaque'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/l4w3T1e27S5zPAMN3Mr-LqJ51cbm26ThR-ubvfUFHpl28dkeRb_CQThuhJ_HSNhdYt_dX9NTAN9hKFsDeWJQ'
-  lat: 40.108295
-  level: 4
-  lon: -88.224083
-  name:  'The Landing'
-- ap: 2537
   img:  'http://lh4.ggpht.com/DTGKMEvXrKSLJVBZP6bN7EF-DMHt5l_x3o-C-Ln0FjrGCQcTdcLNaZDI2_OCwEzuqgh8HyyqJwyQkc4-0H8g'
   lat: 40.106037
   level: 5
   lon: -88.226237
   name:  'Triplets'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/l4w3T1e27S5zPAMN3Mr-LqJ51cbm26ThR-ubvfUFHpl28dkeRb_CQThuhJ_HSNhdYt_dX9NTAN9hKFsDeWJQ'
+  lat: 40.108295
+  level: 4
+  lon: -88.224083
+  name:  'The Landing'
 - ap: 2537
   img:  'http://lh6.ggpht.com/LVoGz75uEbzBIHab_ek4_2onuT-7Ow81Pj41mGU3rfgYArGKILIbviOC6pY-ZijVs4KcHd-ZD_WmLcCaImyC'
   lat: 40.119406
@@ -790,6 +778,12 @@
   level: 6
   lon: -88.202624
   name:  'Roger Ebert Plaque'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/jhMQ5IGo-EB8MiVSEIUKmHbHwagHnJzv5RKZvsbHLes_88gz9Kesj98eZWV29mufV0LSUVjs53V5hMFQOG2Q'
+  lat: 40.11067
+  level: 6
+  lon: -88.220974
+  name:  'Astronomy Building'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.178857
