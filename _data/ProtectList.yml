@@ -5,12 +5,12 @@
   lon: -88.131527
   mus: 137133
   name:  '930bf9acae704f62af2684dade44b599.16'
-- fields: 5+
+- fields: 6+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.312242
   level: '?'
   lon: -88.201368
-  mus: 79116
+  mus: 88693
   name:  '2012 Employee Dedication Bench'
 - fields: 3+
   img: http://i.imgur.com/LujBo5P.png
@@ -61,6 +61,20 @@
   lon: -88.40232
   mus: 17662
   name:  'First Baptist Church'
+- fields: 6
+  img:  'http://lh3.googleusercontent.com/Nj5Ai888qxXriCQAeWkG8SbHbFuOlsYYCL3FjX-pCkblSOg30VuNF9lK9SQj4UDlg9R8XMYXpAcWyE9xIcA'
+  lat: 40.135716
+  level: 5
+  lon: -88.291946
+  mus: 12882
+  name:  'Campus Solar System - Jupiter'
+- fields: 8
+  img:  'http://lh6.ggpht.com/y9bxecO9Wm4VrE6p2LRWA8XIIUlHlYWbTSZJ6GrJrTpeVtxB7wI7cWjdLkM6gjq_eOk7n-nJOlSJ9WzGjgfG'
+  lat: 40.137123
+  level: 5
+  lon: -88.277784
+  mus: 11534
+  name:  'US Post Office'
 - fields: 4
   img:  'http://lh4.ggpht.com/TBdQ8fwHzTxOelVmzeofa-exhQ8cwbOVHb8bVga_MzTz3hC44VOzElIptwaKQuDBdLnDhL-NUEjLnOKO7HnjWw'
   lat: 40.078503
@@ -111,13 +125,6 @@
   mus: 3109
   name:  'Curtis Road Church of God'
 - fields: 4
-  img:  'http://lh3.googleusercontent.com/Nj5Ai888qxXriCQAeWkG8SbHbFuOlsYYCL3FjX-pCkblSOg30VuNF9lK9SQj4UDlg9R8XMYXpAcWyE9xIcA'
-  lat: 40.135716
-  level: 5
-  lon: -88.291946
-  mus: 2984
-  name:  'Campus Solar System - Jupiter'
-- fields: 4
   img:  'http://lh4.ggpht.com/8P5hhE5TZ4YaB6llb92iCjtwvViBwm4xqutZjZ13XzDovJgr9ZMaiJnM0YqewgClg54QTmcvQ4wdHL3j_FjZ'
   lat: 40.097157
   level: 6
@@ -131,6 +138,13 @@
   lon: -88.257672
   mus: 2495
   name:  'Friendship Crossing'
+- fields: 10
+  img:  'http://lh3.ggpht.com/BTOxkIG5jV6VaSJtyt1Kge-WlIsvddZuz7YzzqkQhAMWxgfE71ab2wqWdKY20M9-6zbGlVq43XMJ2CrZDqU'
+  lat: 40.127246
+  level: 7
+  lon: -88.276738
+  mus: 2467
+  name:  'Kraft Giant Macaroni'
 - fields: 7
   img:  'http://lh3.ggpht.com/fALAYK0M4imvlOA0vpJd8uOXpb0SvXft0NJmoF1vWieQ3g-Ps3CF7wgfjFiy1v81v26SbN5Rquo5697dHPPT'
   lat: 40.083666
@@ -138,20 +152,6 @@
   lon: -88.296083
   mus: 2008
   name:  'Village at the Crossing Tower'
-- fields: 7
-  img:  'http://lh3.ggpht.com/BTOxkIG5jV6VaSJtyt1Kge-WlIsvddZuz7YzzqkQhAMWxgfE71ab2wqWdKY20M9-6zbGlVq43XMJ2CrZDqU'
-  lat: 40.127246
-  level: 7
-  lon: -88.276738
-  mus: 2004
-  name:  'Kraft Giant Macaroni'
-- fields: 6
-  img:  'http://lh6.ggpht.com/y9bxecO9Wm4VrE6p2LRWA8XIIUlHlYWbTSZJ6GrJrTpeVtxB7wI7cWjdLkM6gjq_eOk7n-nJOlSJ9WzGjgfG'
-  lat: 40.137123
-  level: 5
-  lon: -88.277784
-  mus: 1827
-  name:  'US Post Office'
 - fields: 4
   img:  'http://lh3.googleusercontent.com/gpGzJr91_lgUUP0yFzOw7f73u1KCTHGmlMUsqeRxgh0ghaH52FLAkmqJBZR18ygp-a1LnrhcY88SB4VhPTqd'
   lat: 40.191274
@@ -166,12 +166,12 @@
   lon: -88.311234
   mus: 1650
   name:  'WBGL Radio Station Headquarters Plaque'
-- fields: 6
+- fields: 7
   img:  'http://lh6.ggpht.com/MTA_e4qROhbvq0DM0fK-MDV_Q9UP_4tg1c8aElTEpn-rFf6ESmOnvNXtFgISg3MiW889YcO3pP2tgCk2UcZP-g'
   lat: 40.127376
   level: 6
   lon: -88.265191
-  mus: 1527
+  mus: 1538
   name:  'Thompson Park'
 - fields: 5
   img:  'http://lh6.ggpht.com/A3o1Nm3JPbfRGX8fs0D87GlAc2sSTKVl6IimAZxRyIfLyPcsMcbx7s4WqUTkMcz70wzyETv1zaJZtlBTRdBG'
@@ -188,12 +188,33 @@
   mus: 1083
   name:  'Mattis Ave Free Methodist Church '
 - fields: 4
+  img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
+  lat: 40.11251
+  level: 6
+  lon: -88.272358
+  mus: 1049
+  name:  'Circle K 1601 W. Springfield Ave.'
+- fields: 4
   img:  'http://lh3.ggpht.com/1yyUr0xGwID_g1F_OYHLjASRJrvJLD7e8r6IER_B6CliwGRrCH6cDWRVgtfWqJ0wHhNyjId_FX6mEVecAviV'
   lat: 40.11946
   level: 7
   lon: -88.276623
   mus: 994
   name:  'Glenn Park'
+- fields: 4
+  img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
+  lat: 40.098239
+  level: 7
+  lon: -88.25376
+  mus: 958
+  name:  'Hessel Park Christian Reformed Church'
+- fields: 9
+  img:  'http://lh3.ggpht.com/1-JS8sV0YQTNKZcOYkhHUpeLbSapI7w9Nksu7UJhMKpIgoGwe-FKIo9ALf7fXUm4mHlsQxcyMdJyQbI5tCmc'
+  lat: 40.116494
+  level: 7
+  lon: -88.268495
+  mus: 917
+  name:  'Eisner Park'
 - fields: 3
   img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
   lat: 40.113683
@@ -208,13 +229,6 @@
   lon: -88.287899
   mus: 847
   name:  'Greenbelt Bikeway'
-- fields: 8
-  img:  'http://lh3.ggpht.com/1-JS8sV0YQTNKZcOYkhHUpeLbSapI7w9Nksu7UJhMKpIgoGwe-FKIo9ALf7fXUm4mHlsQxcyMdJyQbI5tCmc'
-  lat: 40.116494
-  level: 7
-  lon: -88.268495
-  mus: 822
-  name:  'Eisner Park'
 - fields: 6
   img:  'http://lh5.ggpht.com/B8Rn2SSli9Gp6boevvgCFQmdAqu5SZyleVSIDEBfrAA-2kYvtvM5aI756gykEkV4Ycy7BQvvS-3_O-nAMllfhg'
   lat: 40.113028
@@ -257,13 +271,6 @@
   lon: -88.26383
   mus: 564
   name:  'Davidson Park'
-- fields: 2
-  img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
-  lat: 40.11251
-  level: 6
-  lon: -88.272358
-  mus: 545
-  name:  'Circle K 1601 W. Springfield Ave.'
 - fields: 4
   img:  'http://lh4.ggpht.com/xMwEuzjKH4LukFYgVHCFzoHtcIDwSHLCurfqG9DRuRCZOyw6nN6x8-Qngw5rUbT5kSPl7zjxG_mCoyJNHc0N'
   lat: 40.080645
@@ -271,13 +278,6 @@
   lon: -88.294589
   mus: 535
   name:  'Hallbeck Park Shelter'
-- fields: 2
-  img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
-  lat: 40.098239
-  level: 7
-  lon: -88.25376
-  mus: 525
-  name:  'Hessel Park Christian Reformed Church'
 - fields: 1
   img:  'http://lh6.ggpht.com/UFES1076gsvM_9HQfsbLmXw7sr8oKHTA_8YXetUDoTAiF3dRM9Y3tV-DNcRYklLeqHqUbPKe7n78B-OnNyk'
   lat: 40.098489
@@ -285,6 +285,20 @@
   lon: -88.310557
   mus: 524
   name:  'Bible Baptist Church'
+- fields: 3
+  img:  'http://lh3.ggpht.com/M33LbHvLXVjhHiz7MUGGLGsBwB3EGR0z2vYVf5Qrx3pdnmpATwUuU0kEGUobPn2AKoGNpQKgvlIpyJoSHLzv'
+  lat: 40.127501
+  level: 7
+  lon: -88.273478
+  mus: 461
+  name:  'Westgate Bear'
+- fields: 2
+  img:  'http://lh4.ggpht.com/dIZMnnUykBHkwUGA_tGi7tq4m0qCooVejZqueoqq9NjBXvZgz1QUEqS-vJhsYu3v7pW_0xejLfH9QeziW28I'
+  lat: 40.097472
+  level: 7
+  lon: -88.259842
+  mus: 433
+  name:  'Indian Acres Swim Club'
 - fields: 2
   img:  'http://lh3.googleusercontent.com/Bt3IS0wHTEIBXewdfdsA7Pg1GqaUcaidDmsRZoqzNtoliVB9SYnGVPSNB9OvFv_edjQhPesp7YV0GKSKZgk'
   lat: 40.083988
@@ -328,12 +342,12 @@
   mus: 323
   name:  'b682de1b75cb4505bbc374e0d174cab4.12'
 - fields: 1
-  img:  'http://lh3.ggpht.com/M33LbHvLXVjhHiz7MUGGLGsBwB3EGR0z2vYVf5Qrx3pdnmpATwUuU0kEGUobPn2AKoGNpQKgvlIpyJoSHLzv'
-  lat: 40.127501
+  img:  'http://lh4.ggpht.com/0pYkppjw5D-G0gCZ1pULK83NAqN9qsyzbBnG8K8YMyMekJwqUrZQDRpTqgqB3rrRD6zJezplE_wlFOTPLovb'
+  lat: 40.127745
   level: 7
-  lon: -88.273478
-  mus: 320
-  name:  'Westgate Bear'
+  lon: -88.287039
+  mus: 322
+  name:  'Parkland College'
 - fields: 3
   img:  'http://lh4.ggpht.com/U2bGo6sB1AGHiDjQ-rH7wSwqqEX_Rgttee-UbdQR48aDKUrWK3zDdefPtL7CTxHDIksKsqP-9K6AlK8Mjlhe'
   lat: 40.125487
@@ -474,6 +488,20 @@
   lon: -88.239758
   mus: 106
   name:  'Lake Park Prairie Restoration'
+- fields: 6
+  img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
+  lat: 40.097979
+  level: 7
+  lon: -88.247785
+  mus: 102
+  name:  'Jarling''s Custard Cup'
+- fields: 1
+  img:  'http://lh3.ggpht.com/jr89yrsC941ycnfQPQzYkTPCedQ8Suo8eiPCcNLvq0n0fw48_pywxGTqTsKaVh_KXAiza3ke5pjMejqiaD0'
+  lat: 40.111568
+  level: 6
+  lon: -88.267345
+  mus: 96
+  name:  'Illinois American Water Tower'
 - fields: 1
   img:  'http://lh5.ggpht.com/9VuH5-qaoobAtdEZFkn2uoAcJS5Luq9QLXRevRpv9WAzkjoAB_9hftbELGCCm8M4rxAJ5xTfJWd6E6kb0Or7'
   lat: 40.102016
@@ -498,17 +526,10 @@
 - fields: 2
   img:  'http://lh3.googleusercontent.com/BjLUhZtNHz-wmR4gdU6GwFWwmSQu0U8cXf2Lp8D-I0YtN6RNHlW6SaJhtdbItM92UVfTI9Qj5_JFDVd3XCtz'
   lat: 40.112555
-  level: 6
+  level: 7
   lon: -88.273762
   mus: 78
   name:  'Pias Sports Bar and Grill'
-- fields: 5
-  img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
-  lat: 40.097979
-  level: 7
-  lon: -88.247785
-  mus: 77
-  name:  'Jarling''s Custard Cup'
 - fields: 3
   img:  'http://lh5.ggpht.com/Lup2et0i5h8oHqtBffIdoyX5uclC2MBn9ZnnKnYPr4RIFSflf9bi78zBHK7QqycA0qgEev9qOk0zU-1o1hg'
   lat: 40.108451
@@ -880,13 +901,6 @@
   lon: -88.249208
   mus: 13
   name:  'In Fond Memory of William Moore Jr'
-- fields: 3
-  img:  'http://lh3.ggpht.com/gSjoDo9KYu-lgQFkD5uUnj4HXGc1BOihKfh-rNeZu_Q3hHyEkaBoalqYiV46QcvH9y4o8cPkHP_cmo_LxCyo4Q'
-  lat: 40.10214
-  level: 7
-  lon: -88.218932
-  mus: 13
-  name:  'Twin City Bible Church'
 - fields: 4
   img:  'http://lh3.googleusercontent.com/gCJN301o7TKMPpTwXYpuWceaR0wtjm4S3By0SJ5ubrMNK0UEKo6bMcldlreNdLDqpnrYOFmjqByM6vCJDCT-'
   lat: 40.086378
@@ -971,6 +985,13 @@
   lon: -88.219107
   mus: 10
   name:  'Alpha Gamma Delta '
+- fields: 2
+  img:  'http://lh3.ggpht.com/gSjoDo9KYu-lgQFkD5uUnj4HXGc1BOihKfh-rNeZu_Q3hHyEkaBoalqYiV46QcvH9y4o8cPkHP_cmo_LxCyo4Q'
+  lat: 40.10214
+  level: 7
+  lon: -88.218932
+  mus: 10
+  name:  'Twin City Bible Church'
 - fields: 2
   img:  'http://lh6.ggpht.com/BgudsSY0vPHxgxXELEIEROiOQIlMUEEycmutMqr-xgbLBf4OkD1cCogkqAOqKSfh1GR3pPAhW2bTe5FGfEvO'
   lat: 40.102058
@@ -1181,20 +1202,6 @@
   lon: -88.251396
   mus: 5
   name:  'Boots''s Garden'
-- fields: 2
-  img:  'http://lh3.ggpht.com/5jYVsmaWJU0f8zVo2s_GfQ8mtVZTRQdgkF6Lz4nZKshBOXkqOj2I-34881x1ViUkWSd5_DHAtnoHpOzyGkMwnw'
-  lat: 40.100785
-  level: 7
-  lon: -88.219477
-  mus: 5
-  name:  'Weaver Memorial Plaque'
-- fields: 2
-  img:  'http://lh6.ggpht.com/B4G90nKtVQc7jPOxaA1XcAIKA2UJlU15MIPZLitQmNBNAtfIc9qCPpe75YFHYaZN3YUpU6b4CNMOPsBrg1Q'
-  lat: 40.100489
-  level: 6
-  lon: -88.218903
-  mus: 5
-  name:  'Farmhouse Illinois Chapter'
 - fields: 2
   img:  'http://lh4.ggpht.com/m6NugtNnF8mim1fUMFDjmScu99lS5PjmUlCT9kKOOsIMqCH5uu5MRPhMusl6BPPpZ7Z3hnYTQZALmqSpLHxs'
   lat: 40.103652
@@ -1433,13 +1440,6 @@
   lon: -88.218588
   mus: 1
   name:  'Idea Garden'
-- fields: 1
-  img:  'http://lh6.ggpht.com/uuDZEurp-UqLKU1BShf2vQxSG1vwpk-MDBizyO6dIijDD3nTavBfEGfQ4lPiXtDc-2867s28mDJ0ko7kvC3sxQ'
-  lat: 40.100485
-  level: 7
-  lon: -88.219408
-  mus: 1
-  name:  'Pennsylvania Avenue Residence Halls'
 - fields: 1
   img:  'http://lh6.ggpht.com/xu-kOcmcs7cEhiGrfwfSF-Yt_Dna_MrRGDjw6oGSBLDdDm-SAFB8FI2G4yXWx_EOD1TRY5rTtvBxNxRkTQU'
   lat: 40.118361
