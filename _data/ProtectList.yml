@@ -1,10 +1,17 @@
-- fields: 4
+- fields: 6
   img:  'http://lh4.ggpht.com/-P9_K1M8m41FpGEgfyih0JNuexcc1mtm7Hq3LOuozksba15MIQWefDgfBs20Uuf61Txiy9-ALeKCMVWuBi4'
   lat: 40.083514
   level: 7
   lon: -88.276579
-  mus: 3570
+  mus: 4181
   name:  'Christie Clinic Hospital '
+- fields: 8
+  img:  'http://lh3.ggpht.com/ZKYFxa4_Jj-OpytEiNkFmQOVv42zvLK_5wEHxLncanKrdr7RjjSoG_UYFDX0CmCUupuU2d0MGQ3l1pbl0zF1'
+  lat: 40.083873
+  level: 7
+  lon: -88.265912
+  mus: 3563
+  name:  'Dan Morrissey Park'
 - fields: 4
   img:  'http://lh4.ggpht.com/MnvRIwYBCscNCKIRmPyogxsZdt_OF6dC0mIsI1_2fddZFlc88Sg9wNyU9Ne9q-cY0RUa5VFafv4C5f5-pxVpWg'
   lat: 40.069376
@@ -12,13 +19,6 @@
   lon: -88.257672
   mus: 3358
   name:  'Friendship Crossing'
-- fields: 7
-  img:  'http://lh3.ggpht.com/ZKYFxa4_Jj-OpytEiNkFmQOVv42zvLK_5wEHxLncanKrdr7RjjSoG_UYFDX0CmCUupuU2d0MGQ3l1pbl0zF1'
-  lat: 40.083873
-  level: 7
-  lon: -88.265912
-  mus: 2983
-  name:  'Dan Morrissey Park'
 - fields: 4
   img:  'http://lh6.ggpht.com/Y-1z4Z6omM2DNHuIAI8mnNq6VGjJqmgna_Auu_O3S8JPHj9NvZCN3-g4Zh99rgYZHTf-Scllt67AhCsevf7JuA'
   lat: 40.069447
@@ -33,6 +33,13 @@
   lon: -88.249144
   mus: 1655
   name:  'Triptych Brewing'
+- fields: 7
+  img:  'http://lh5.ggpht.com/85ocsFOsYnsbHN6oArmm1YbxgxazeWF3emIoJ0iPpi_H3TV7Vm4-_M2sEEiyfmFp6Z3hSQP8mfxrU190YlU'
+  lat: 40.097001
+  level: 7
+  lon: -88.276242
+  mus: 1222
+  name:  'Robert P. Simon Trail'
 - fields: 5
   img:  'http://lh4.ggpht.com/xMwEuzjKH4LukFYgVHCFzoHtcIDwSHLCurfqG9DRuRCZOyw6nN6x8-Qngw5rUbT5kSPl7zjxG_mCoyJNHc0N'
   lat: 40.080645
@@ -110,13 +117,6 @@
   lon: -88.276537
   mus: 626
   name:  'The New Fellowship Corner'
-- fields: 5
-  img:  'http://lh5.ggpht.com/85ocsFOsYnsbHN6oArmm1YbxgxazeWF3emIoJ0iPpi_H3TV7Vm4-_M2sEEiyfmFp6Z3hSQP8mfxrU190YlU'
-  lat: 40.097001
-  level: 7
-  lon: -88.276242
-  mus: 611
-  name:  'Robert P. Simon Trail'
 - fields: 5
   img:  'http://lh4.ggpht.com/BDVsIEWOaH0zZsTgU8IbvmVNJTrl3EljfhNXeVt4C2BILNtXm5hpAq_6mLrTl66aJcUyYv4hFJKhxedLkKo'
   lat: 40.11679
@@ -365,7 +365,7 @@
 - fields: 1
   img:  'http://lh5.ggpht.com/BiCieN-kLaA8XtzYGa1FowWTlW2QzWtnxSCf1y1ChY9WXw1kN0r1Co49FI5D_xcWRrgO-_wOvqfduWQ2o337'
   lat: 40.092411
-  level: 6
+  level: 7
   lon: -88.257688
   mus: 94
   name:  'Champaign Fire Department'
@@ -446,6 +446,13 @@
   lon: -88.224039
   mus: 76
   name:  'South Gate of the Greenhouse'
+- fields: 3
+  img:  'http://lh5.ggpht.com/dnj__uItXDR_xj-g5PNpGYPNjJCPBFpsx3w9sWxvrOlayO6nyG_Qu8MygtuFZm9i4L2Gho0fkOACtzkGR_e2wQ'
+  lat: 40.098457
+  level: 7
+  lon: -88.276763
+  mus: 76
+  name:  'Mini Park IV'
 - fields: 8
   img:  'http://lh5.ggpht.com/yK94cjys6dDm62pDsBwEKJP8ioxZEFbb2oelmT5ZMmaNZPkqAXW00NHP3_7fvtyG796u2ZhKGfbY7To9Sdtz'
   lat: 40.088063
@@ -510,6 +517,13 @@
   mus: 58
   name:  'Garden Patio'
 - fields: 5
+  img:  'http://lh3.ggpht.com/uRfzF4ZYfUywrpeKAijCtI65UgwHP_5pgc37VOhSqnsL7lIfH4aAM3DK7HCnaTKSr2Zn24ZXjvW7xGDh-U8'
+  lat: 40.100481
+  level: 7
+  lon: -88.226962
+  mus: 53
+  name:  'Mount Hope'
+- fields: 5
   img:  'http://lh6.ggpht.com/CFr5FDgsztNbeSQUq6x63c17MTKeKxsaUoY7uq6eft3-_1XjCjDOPcpjtaA8iqU-gi7m9txMeWkfG0UuT6mv'
   lat: 40.099069
   level: 6
@@ -530,20 +544,6 @@
   lon: -88.218903
   mus: 48
   name:  'Farmhouse Illinois Chapter'
-- fields: 4
-  img:  'http://lh3.ggpht.com/uRfzF4ZYfUywrpeKAijCtI65UgwHP_5pgc37VOhSqnsL7lIfH4aAM3DK7HCnaTKSr2Zn24ZXjvW7xGDh-U8'
-  lat: 40.100481
-  level: 7
-  lon: -88.226962
-  mus: 46
-  name:  'Mount Hope'
-- fields: 2
-  img:  'http://lh5.ggpht.com/dnj__uItXDR_xj-g5PNpGYPNjJCPBFpsx3w9sWxvrOlayO6nyG_Qu8MygtuFZm9i4L2Gho0fkOACtzkGR_e2wQ'
-  lat: 40.098457
-  level: 7
-  lon: -88.276763
-  mus: 46
-  name:  'Mini Park IV'
 - fields: 6
   img:  'http://lh5.ggpht.com/2zEYZdL0tuQhUP5HHcOYFsPQfjx-nNDHhi8DMJEzzkjbEA9hODz2iDCcmj4S9NEGBsHW4nYYR010lA_6kyhk'
   lat: 40.10038
@@ -551,6 +551,13 @@
   lon: -88.225191
   mus: 45
   name:  'Eleanor Hammers Boner'
+- fields: 3
+  img:  'http://lh3.ggpht.com/Eeot2xjiHI3jS56J2sySBOH0hRVa-VNNF9JZx7nFzgh1-Y6lhbMuognHS-CcMuIuAHyJzWmLBtkQv49sUO2KOg'
+  lat: 40.098321
+  level: 6
+  lon: -88.23191
+  mus: 44
+  name:  'Clinton Craig Atkins Memorial'
 - fields: 1
   img:  'http://lh4.ggpht.com/BB4y2ChVuPpmuGW8VPeiAPKr-vWwYdihWvrH0i_WALxPd8wX3j2no0JFEMNK8ndCvXwQzLLabPyRoAfsz5g'
   lat: 40.101584
@@ -572,6 +579,13 @@
   lon: -88.224635
   mus: 43
   name:  'Champaign-Urbana Community Fab Lab'
+- fields: 5
+  img:  'http://lh4.ggpht.com/bvexSRw3puopRRWV-oeMjABzIyeoMnq-cfPI4mL06BwdsQKA-9vvssZqs5jA5GWGkPNXXd6N2WVG_yxCB7Tf2A'
+  lat: 40.100071
+  level: 6
+  lon: -88.227115
+  mus: 42
+  name:  'Defenders Of The Flag'
 - fields: 2
   img:  'http://lh4.ggpht.com/naCrG9-DL9k67Zqi0gC4SkIN_RQ_zodz4FK1IHNXbc08mmpwSYOasBdjXKK05UnqtA_LobI75w9qmf4dfQjU'
   lat: 40.11823
@@ -600,20 +614,6 @@
   lon: -88.224601
   mus: 37
   name:  'Darrell A. Miller Memorial Tree'
-- fields: 2
-  img:  'http://lh3.ggpht.com/Eeot2xjiHI3jS56J2sySBOH0hRVa-VNNF9JZx7nFzgh1-Y6lhbMuognHS-CcMuIuAHyJzWmLBtkQv49sUO2KOg'
-  lat: 40.098321
-  level: 6
-  lon: -88.23191
-  mus: 37
-  name:  'Clinton Craig Atkins Memorial'
-- fields: 4
-  img:  'http://lh4.ggpht.com/bvexSRw3puopRRWV-oeMjABzIyeoMnq-cfPI4mL06BwdsQKA-9vvssZqs5jA5GWGkPNXXd6N2WVG_yxCB7Tf2A'
-  lat: 40.100071
-  level: 6
-  lon: -88.227115
-  mus: 35
-  name:  'Defenders Of The Flag'
 - fields: 5
   img:  'http://lh5.ggpht.com/_gJqtOHLZ9UHsmd_iLjxMsPw5eF5YzqE63qEAzURvSp_3OL9ZrPjM-usiUeYx95b7zTdNodab42cQiyiRRja'
   lat: 40.087835

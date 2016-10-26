@@ -113,12 +113,6 @@
   lon: -88.251314
   name:  'Gabriel Patrick Maxeiner Memorial Plaque'
 - ap: 5909
-  img:  'http://lh4.ggpht.com/BEyFLhgqk0ySf2zElnARv5eyaQggj_zbHSagW3_DGt9BieScmU4jGPvJCjezTjbiCP-DOJPLPfJ3HhnYAiQLEQ'
-  lat: 40.119288
-  level: 7
-  lon: -88.248086
-  name:  'The Hartford'
-- ap: 5909
   img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
   lat: 40.116553
   level: 7
@@ -155,12 +149,6 @@
   lon: -88.250864
   name:  'Gabriel Patrick Maxeiner Memorial'
 - ap: 5159
-  img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
-  lat: 40.117976
-  level: 6
-  lon: -88.245082
-  name:  'Robeson Building '
-- ap: 5159
   img:  'http://lh4.ggpht.com/eoFw5gx9tcBj51FvuWLBsaFZ7TdxW0i1ez8HiVWtHsPE262Fcf5-fE7MAIzvgDr2tLCZzG79np6cdQDZzWou'
   lat: 40.112029
   level: 3
@@ -185,6 +173,12 @@
   lon: -88.229679
   name:  'Pilgrim Missionary Baptist Church'
 - ap: 4785
+  img:  'http://lh4.ggpht.com/BEyFLhgqk0ySf2zElnARv5eyaQggj_zbHSagW3_DGt9BieScmU4jGPvJCjezTjbiCP-DOJPLPfJ3HhnYAiQLEQ'
+  lat: 40.119288
+  level: 7
+  lon: -88.248086
+  name:  'The Hartford'
+- ap: 4785
   img:  'http://lh3.ggpht.com/NuEE1yevEulYAFm9UHYKLrX8fVNrXyLgFXbQ8kTjAKuT9w-Fkj18Pop2B2wikf21LHDU24uSUkIvXbfKyvy2'
   lat: 40.11738
   level: 6
@@ -196,10 +190,10 @@
   level: 7
   lon: -88.248506
   name:  'Prayer for Rain  Fountain'
-- ap: 4598
+- ap: 4523
   img:  'http://lh6.ggpht.com/xQx5BUJcAI_QUroJGe77pPkgV7s_ACVui8PXvCyvmehuDvenmRIvKBGeevOacNR6W3pLMMSh4sVrvXm87QeN2eylsZEtz7pxB-CMvzLmH1WyVZ16uw'
   lat: 40.11786
-  level: 7
+  level: 6
   lon: -88.248031
   name:  'Lincoln Megalith'
 - ap: 4598
@@ -208,12 +202,6 @@
   level: 3
   lon: -88.244122
   name:  'Women''s Town Club Building'
-- ap: 4598
-  img:  'http://lh6.ggpht.com/2Rx43j2Btq5GI7Atdo-QNNLuFVJkY-7DiyLMNbg2kD1wjE77IXmedVtWOjr6wu_mgieNLBnA0GJLZ6zNF3s'
-  lat: 40.110735
-  level: 3
-  lon: -88.236736
-  name:  'Park Place Tower'
 - ap: 4598
   img:  'http://lh4.ggpht.com/PmGpygZ2fBs43twk2Y44XZbgGcHWv0YimAq7Fp3vlIRRqUyLpSmDmFwcn1ucfmJarcQrAAXJjYAXAhNyxSrz'
   lat: 40.110049
@@ -226,6 +214,12 @@
   level: 7
   lon: -88.231957
   name:  '217 Tattoo Co.'
+- ap: 4598
+  img:  'http://lh6.ggpht.com/2Rx43j2Btq5GI7Atdo-QNNLuFVJkY-7DiyLMNbg2kD1wjE77IXmedVtWOjr6wu_mgieNLBnA0GJLZ6zNF3s'
+  lat: 40.110735
+  level: 3
+  lon: -88.236736
+  name:  'Park Place Tower'
 - ap: 4411
   img:  'http://lh5.ggpht.com/nWEtxuKQdy0teBBue1DYmG7P3SF5-3A6zlB7GwVHBWlolAZYGq6Br78lWcF9ltFy-KeSlozXie2RmU6JfCUX'
   lat: 40.142673
@@ -256,6 +250,12 @@
   level: 7
   lon: -88.233753
   name:  'Chabad Menorah'
+- ap: 4035
+  img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
+  lat: 40.117976
+  level: 6
+  lon: -88.245082
+  name:  'Robeson Building '
 - ap: 4035
   img:  'http://lh6.ggpht.com/vlKOFCgVZb_8XoZHDdzD2X9Xsejb8QVVqEM5U4YfgnKJbQIIHHSK2hSpgycF7vqRkGKRYYnbjVTyKS8dsHF3ChRyF01faLh907jhNd__xiEkGTWx'
   lat: 40.111225
@@ -383,23 +383,29 @@
   lon: -88.281531
   name:  'Terry M. Warmbier Memorial'
 - ap: 3474
-  img:  'http://lh5.ggpht.com/c-upLAoA6V12_Enn5doC2Hqtp3W9dLMIb34VHt0aVni2lW2OF5Lddn2c-1XcxmmaN7um9eyxqOF5c3c0hs4'
-  lat: 40.118139
-  level: 5
-  lon: -88.248407
-  name:  'The Americans Creed'
-- ap: 3474
   img:  'http://lh5.ggpht.com/D9O580D9hlBOqeMvt2V4nL-eHP62h4vG4YFgk-WTw7GunusU9AOffFuHZ9XYWoB8YrGxpCMu2Y77-LCAgcdT'
   lat: 40.119328
   level: 3
   lon: -88.243755
   name:  'Birthplace of Champaign / Beautiful Beardsley Hotel'
 - ap: 3474
-  img:  'http://lh4.ggpht.com/ik1uVZ-KWyRH4dh51LJI7gFmnM7bmfSZ-1YqfELbVQEvuo-gEx2QpG6jQpFPeAlFPi2rVPAuzRmXMD0Whsm2HA'
-  lat: 40.122038
+  img:  'http://lh5.ggpht.com/c-upLAoA6V12_Enn5doC2Hqtp3W9dLMIb34VHt0aVni2lW2OF5Lddn2c-1XcxmmaN7um9eyxqOF5c3c0hs4'
+  lat: 40.118139
   level: 5
-  lon: -88.245318
-  name:  'The Old Residential Block'
+  lon: -88.248407
+  name:  'The Americans Creed'
+- ap: 3474
+  img:  'http://lh6.ggpht.com/RW34ntixvJkg7fD71TPYo_4KIsBzA0-a-6yXO0jKPbpGxX5gIGC7kBI-pXEF9OHhuolcAGW2fxyK3Pt42Iev'
+  lat: 40.110489
+  level: 5
+  lon: -88.227412
+  name:  'Bus Stop - Illini Union, Westbound'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/RF7EbCh1YRbFHfis_PEc88NF1v4Ndhj-Rm7rrlY7F8s-Mrv1EMEFnajFbYiNffZ_3kMNL80Zv-_jtaMYMtLA'
+  lat: 40.110655
+  level: 3
+  lon: -88.22725
+  name:  'Gothic Brass'
 - ap: 3474
   img:  'http://lh3.googleusercontent.com/v44Gf5oEZGcwkQcA2wWz-uAeDFESHj7sEloxdCJd316RPH3w_ln8_9mBEMbAqGyI_2Y2qaYp525PnRip9Rg'
   lat: 40.105315
@@ -418,18 +424,6 @@
   level: 4
   lon: -88.225714
   name:  'Smith Memorial Hall'
-- ap: 3474
-  img:  'http://lh6.ggpht.com/RW34ntixvJkg7fD71TPYo_4KIsBzA0-a-6yXO0jKPbpGxX5gIGC7kBI-pXEF9OHhuolcAGW2fxyK3Pt42Iev'
-  lat: 40.110489
-  level: 5
-  lon: -88.227412
-  name:  'Bus Stop - Illini Union, Westbound'
-- ap: 3474
-  img:  'http://lh4.ggpht.com/RF7EbCh1YRbFHfis_PEc88NF1v4Ndhj-Rm7rrlY7F8s-Mrv1EMEFnajFbYiNffZ_3kMNL80Zv-_jtaMYMtLA'
-  lat: 40.110655
-  level: 3
-  lon: -88.22725
-  name:  'Gothic Brass'
 - ap: 3474
   img:  'http://lh3.ggpht.com/x5fBw8MRogV8dm3kPO5zKNkUrQxn0dM7d1PIoASdX1_Rc8H5Duex4iZdOoIlqazCGll25TmptsWIRq1JFmj6'
   lat: 40.112135
@@ -544,18 +538,6 @@
   level: 5
   lon: -88.226237
   name:  'Triplets'
-- ap: 2724
-  img:  'http://lh3.ggpht.com/whmQSPmix2tEoKcWwrVrV0H0JzNf1tzyuohI3ykSa-Qx4rUcLTf4686WcnJjygsMY2QPUWhvVVzlmMMHof94'
-  lat: 40.105907
-  level: 4
-  lon: -88.22564
-  name:  'Andrew De Grado Memorial'
-- ap: 2724
-  img:  'http://lh5.ggpht.com/LPlCgoOAlClRaVCl_B1sHDkn38OgDbXat-l5Q1bDZLP7mOUMfU8pK-o3N8BEqh0vHJcZBHo3iz2AMQKAhot7Tw'
-  lat: 40.110833
-  level: 4
-  lon: -88.227425
-  name:  'Engineering Class of 1975 Monument'
 - ap: 2574
   img:  'http://lh4.ggpht.com/CZA6uXTYgSkrccw1vqf6XFlfkzl6I7Rj79GOKIYGvd1Zem8O1u-opoJu65ma2eHnKdfysF0mOVGzc_am2Ns'
   lat: 40.110623
@@ -568,6 +550,18 @@
   level: 4
   lon: -88.22715
   name:  'Ross J. Martin Memorial'
+- ap: 2724
+  img:  'http://lh5.ggpht.com/LPlCgoOAlClRaVCl_B1sHDkn38OgDbXat-l5Q1bDZLP7mOUMfU8pK-o3N8BEqh0vHJcZBHo3iz2AMQKAhot7Tw'
+  lat: 40.110833
+  level: 4
+  lon: -88.227425
+  name:  'Engineering Class of 1975 Monument'
+- ap: 2724
+  img:  'http://lh3.ggpht.com/whmQSPmix2tEoKcWwrVrV0H0JzNf1tzyuohI3ykSa-Qx4rUcLTf4686WcnJjygsMY2QPUWhvVVzlmMMHof94'
+  lat: 40.105907
+  level: 4
+  lon: -88.22564
+  name:  'Andrew De Grado Memorial'
 - ap: 2724
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.203785
@@ -743,23 +737,29 @@
   lon: -88.228706
   name:  'Leo Roy Tehon Memorial'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/28al1CSkHNCrM9Sb57TYmawr1uFh6r5raWMJKD4QjLCj6N5YHEYIIizONs_hHF3pHuIppLjqxbTFcvrI9Dq9'
-  lat: 40.111205
-  level: 3
-  lon: -88.227583
-  name:  'Theory of Superconductivity Plaque'
-- ap: 2537
   img:  'http://lh6.ggpht.com/BsXdEO7HLxNLSdztPo_4GNNcbxZCxswiDT4pmmcfDQ8YO2SFVW-VnwyEZBvkuhf1rxKAtoKNLvV4rDJ-YVCYUK1qiX-dId_R8P-JskyFYAK9ruM-'
   lat: 40.110234
   level: 5
   lon: -88.224055
   name:  'The Etc'
 - ap: 2537
+  img:  'http://lh3.ggpht.com/mtgiI5TKcuExETpmdSqIFabkYgVZTaXXLJnaIyzxeHPIunWoj_Fj8BqqwZG4nVQwSnngv15YxD-c_m9CHkr3'
+  lat: 40.111202
+  level: 4
+  lon: -88.226447
+  name:  'Boneyard Creek Memorial Streamflow Gaging Station'
+- ap: 2537
   img:  'http://lh4.ggpht.com/OKjZe5DNbqsjBvhTWI2C_GTSbIMUanllb49pzoadj3izBmngp5kFNgLokw6jbL1Y3BnreLD-LmzLdNEx-eRI'
   lat: 40.105694
   level: 4
   lon: -88.225345
   name:  '1981 Iota Chapter White Anchor'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/28al1CSkHNCrM9Sb57TYmawr1uFh6r5raWMJKD4QjLCj6N5YHEYIIizONs_hHF3pHuIppLjqxbTFcvrI9Dq9'
+  lat: 40.111205
+  level: 3
+  lon: -88.227583
+  name:  'Theory of Superconductivity Plaque'
 - ap: 2537
   img:  'http://lh6.ggpht.com/cUV2o6ZPyJSFnHYl7jePeUIS7BrVr1H5D8Zbf7B3B8ALrTq7pTI3e271i1DHztqUGXITpiA399P3vNP83fk0'
   lat: 40.105767
@@ -772,12 +772,6 @@
   level: 5
   lon: -88.223672
   name:  'Music Building'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/mtgiI5TKcuExETpmdSqIFabkYgVZTaXXLJnaIyzxeHPIunWoj_Fj8BqqwZG4nVQwSnngv15YxD-c_m9CHkr3'
-  lat: 40.111202
-  level: 4
-  lon: -88.226447
-  name:  'Boneyard Creek Memorial Streamflow Gaging Station'
 - ap: 2537
   img:  'http://lh4.ggpht.com/KS4k0iDFceOcG_wEnQeqAeJpCkwjbjTItb2FUsyUJGsnhDizNqvrXmfee70SUhCcQ10_m1vv1vtcNRrFhIc'
   lat: 40.126039
