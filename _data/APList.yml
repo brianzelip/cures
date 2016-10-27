@@ -10,6 +10,12 @@
   level: 5
   lon: -88.241556
   name:  'Champaign Limestone Sidewalk'
+- ap: 9468
+  img:  'http://lh5.ggpht.com/dRrlHXlT2nMNgZNHiYo52ha9L-Xay9DyOJR2Cpqs74hgAJ09abn9OTAtMzRVedt1_R9ObZllLO98vRhNMfgTgVsJCk1S-HJwX_XgiGpG4lz3a328'
+  lat: 40.11671
+  level: 6
+  lon: -88.24263
+  name:  'Cafe Kopi'
 - ap: 8909
   img:  'http://lh6.ggpht.com/eeOtj4-6PU8Dt6QXk_TJjgkoEGRW9L8YzUqZE8QV5ZMCHnqA5CzoQoxKpnjCvXwaIflUUvPJmO_S7BdvMhcuzw'
   lat: 40.117588
@@ -40,12 +46,6 @@
   level: 8
   lon: -88.251157
   name:  'Tyler Van Atkins Memorial'
-- ap: 8720
-  img:  'http://lh5.ggpht.com/dRrlHXlT2nMNgZNHiYo52ha9L-Xay9DyOJR2Cpqs74hgAJ09abn9OTAtMzRVedt1_R9ObZllLO98vRhNMfgTgVsJCk1S-HJwX_XgiGpG4lz3a328'
-  lat: 40.11671
-  level: 6
-  lon: -88.24263
-  name:  'Cafe Kopi'
 - ap: 8159
   img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
   lat: 40.098246
@@ -335,6 +335,12 @@
   lon: -88.238623
   name:  'Champaign County Historical Museum'
 - ap: 3661
+  img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
+  lat: 40.116164
+  level: 5
+  lon: -88.241661
+  name:  'Zipcar-45 E. University Avenue'
+- ap: 3661
   img:  'http://lh5.ggpht.com/jD3fyZcK_XLR3cBYgBiPlPRHxgXkV7p-31HKznWRUaSIX1Ab3bLTdk6O-0Oxyb6f8FKzPAHpjW56jkIQ-839'
   lat: 40.116876
   level: 6
@@ -346,12 +352,6 @@
   level: 5
   lon: -88.238922
   name:  'Prosperity Gardens'
-- ap: 3661
-  img:  'http://lh4.ggpht.com/BEyFLhgqk0ySf2zElnARv5eyaQggj_zbHSagW3_DGt9BieScmU4jGPvJCjezTjbiCP-DOJPLPfJ3HhnYAiQLEQ'
-  lat: 40.119288
-  level: 7
-  lon: -88.248086
-  name:  'The Hartford'
 - ap: 3661
   img:  'http://lh6.ggpht.com/I-l0KMezFAwrNcsN5-RPQCQbH4VnCa-C2GtwAQwrtAOcyFmOp_PxGmTwtTHCrR-O1hokLKIrtjyzuTsdP1E'
   lat: 40.112048
@@ -401,12 +401,6 @@
   lon: -88.281531
   name:  'Terry M. Warmbier Memorial'
 - ap: 3474
-  img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
-  lat: 40.116164
-  level: 5
-  lon: -88.241661
-  name:  'Zipcar-45 E. University Avenue'
-- ap: 3474
   img:  'http://lh6.ggpht.com/hmDofhQgtMboyY40gAShyf0g__uH_qYaFzVKnGKShUBNn-JjwpN526PPOYKyq8kvusIGRrMQIZ7ozPedDVm4iA'
   lat: 40.117495
   level: 5
@@ -418,18 +412,6 @@
   level: 6
   lon: -88.241845
   name:  'Mike ''N Molly''s'
-- ap: 3474
-  img:  'http://lh5.ggpht.com/c-upLAoA6V12_Enn5doC2Hqtp3W9dLMIb34VHt0aVni2lW2OF5Lddn2c-1XcxmmaN7um9eyxqOF5c3c0hs4'
-  lat: 40.118139
-  level: 5
-  lon: -88.248407
-  name:  'The Americans Creed'
-- ap: 3324
-  img:  'http://lh6.ggpht.com/xQx5BUJcAI_QUroJGe77pPkgV7s_ACVui8PXvCyvmehuDvenmRIvKBGeevOacNR6W3pLMMSh4sVrvXm87QeN2eylsZEtz7pxB-CMvzLmH1WyVZ16uw'
-  lat: 40.11786
-  level: 5
-  lon: -88.248031
-  name:  'Lincoln Megalith'
 - ap: 3474
   img:  'http://lh6.ggpht.com/2Rx43j2Btq5GI7Atdo-QNNLuFVJkY-7DiyLMNbg2kD1wjE77IXmedVtWOjr6wu_mgieNLBnA0GJLZ6zNF3s'
   lat: 40.110735
@@ -605,23 +587,29 @@
   lon: -88.239045
   name:  'Layalina Mediterranean Grill'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/Iz-O9-kJLlEdRO9osaqkCvLRsSNF24c95jHG0lhtE95b99-cC2bKuCEiznIs1-ytpoCITEwQ7s5VuyURgrpM'
-  lat: 40.117288
-  level: 7
-  lon: -88.248506
-  name:  'Prayer for Rain  Fountain'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/5iH9kzVECg-dsKRPYTzLzAT5eoYnDhGrcJB1N-hLShal9eEun1_Ml0oFX2c42cGNjKj8-yvsEnUn2j4C_90'
-  lat: 40.11792
-  level: 7
-  lon: -88.249845
-  name:  'Thomas R. Sandrock'
-- ap: 2537
   img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
   lat: 40.11784
   level: 6
   lon: -88.24286
   name:  'Kaufman Memorial'
+- ap: 2537
+  img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
+  lat: 40.101943
+  level: 6
+  lon: -88.244266
+  name:  'Circle K 1301 S Neil Street'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/CwgYIhVaivHHg_U6yqu5KSGhSh9ipRBDu7G192KiQfrnXc7C8uh7UOh6MP91vhZJ3LZdiTaFwpvFukvIaj6J'
+  lat: 40.117445
+  level: 6
+  lon: -88.243409
+  name:  'From Swords to Plowshares'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/xS51--rXA9M_IHpXWgFQxKZU-YbD-1zk-nug6k7RyKl8rYeam_YFwMmLNWRRHHzI-rOTGyhTJQQ314WudSQJ'
+  lat: 40.117132
+  level: 7
+  lon: -88.243009
+  name:  'Fountain in the Alley'
 - ap: 2537
   img:  'http://lh3.ggpht.com/tXDyz6XRrR2AKSg9Rrj1z6jBG4dz7uR9qFmSUO1bWljMEw67ncNiq-2Hx3O9Fs029iRtvCV1gdlGN7pG69L0'
   lat: 40.114104
@@ -640,6 +628,12 @@
   level: 5
   lon: -88.253037
   name:  'Fagen Truck Accessories'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/BEyFLhgqk0ySf2zElnARv5eyaQggj_zbHSagW3_DGt9BieScmU4jGPvJCjezTjbiCP-DOJPLPfJ3HhnYAiQLEQ'
+  lat: 40.119288
+  level: 7
+  lon: -88.248086
+  name:  'The Hartford'
 - ap: 2387
   img:  'http://lh4.ggpht.com/HMXgPSuj_Qc06z-u_ElF6pgeWVoxqEAZoT0woVULj2jB8M-G8a4In71YBTnsPrCaJTLx0DFoqB8lQ2847L9M'
   lat: 40.112187
