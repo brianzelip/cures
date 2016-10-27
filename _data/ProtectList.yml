@@ -348,6 +348,13 @@
   lon: -88.258039
   mus: 156
   name:  'Mini Park V'
+- fields: 7
+  img:  'http://lh6.ggpht.com/n_LMwtvxbWlYfCgK6MerzbQVpmDR9rqxJUrEnA8OAeCIYBi6zbeLqYCldCtXZDSV1IHsYOpgoO60Od3TGJ3h'
+  lat: 40.103207
+  level: 6
+  lon: -88.224601
+  mus: 146
+  name:  'Darrell A. Miller Memorial Tree'
 - fields: 3
   img:  'http://lh4.ggpht.com/0pYkppjw5D-G0gCZ1pULK83NAqN9qsyzbBnG8K8YMyMekJwqUrZQDRpTqgqB3rrRD6zJezplE_wlFOTPLovb'
   lat: 40.127745
@@ -390,13 +397,6 @@
   lon: -88.296083
   mus: 133
   name:  'Village at the Crossing Tower'
-- fields: 5
-  img:  'http://lh6.ggpht.com/n_LMwtvxbWlYfCgK6MerzbQVpmDR9rqxJUrEnA8OAeCIYBi6zbeLqYCldCtXZDSV1IHsYOpgoO60Od3TGJ3h'
-  lat: 40.103207
-  level: 5
-  lon: -88.224601
-  mus: 131
-  name:  'Darrell A. Miller Memorial Tree'
 - fields: 1
   img:  'http://lh4.ggpht.com/T04oZ0k13H90w4QZ7f_QTFH-yrHJNyKsJ-hRWmNk2YnqBSy8KwGZrO0fb-YN5RhCi3vg_903yE64_J-JZu4Z'
   lat: 40.092883
@@ -474,13 +474,20 @@
   lon: -88.221381
   mus: 104
   name:  'McKinley Fountain'
-- fields: 2
+- fields: 3
   img:  'http://lh3.ggpht.com/7qvblF8IJPE_GlNC-0H-3-uvbw-LO0WvGTcs3eGsfxl9qIfPSHIoEP0WVScW5akBfIuNtHggyR43gyD6aQw'
   lat: 40.099867
   level: 7
   lon: -88.233082
-  mus: 90
+  mus: 98
   name:  'Stevick Family Memorial'
+- fields: 10
+  img:  'http://lh4.ggpht.com/YCJnxuMsSs6lLn7vcBFVH6H2GT4I6LBrYLND5MlgY0qXgcTqxN7kKceFSMO3J8URkRBQyXOMtgosb78QK3iA'
+  lat: 40.104011
+  level: 7
+  lon: -88.223687
+  mus: 90
+  name:  'ERML'
 - fields: 14
   img:  'http://lh5.ggpht.com/Q32BPmFRIQYqXI5gLOV9ifHvFlGdyD_yws2172-sHnSZ-StunhCM0Abqd9rBWSaKBWN7RPpa1h-nok4Mc23i'
   lat: 40.101062
@@ -544,13 +551,6 @@
   lon: -88.246611
   mus: 78
   name:  'Fountain at Illini Plaza'
-- fields: 8
-  img:  'http://lh4.ggpht.com/YCJnxuMsSs6lLn7vcBFVH6H2GT4I6LBrYLND5MlgY0qXgcTqxN7kKceFSMO3J8URkRBQyXOMtgosb78QK3iA'
-  lat: 40.104011
-  level: 7
-  lon: -88.223687
-  mus: 77
-  name:  'ERML'
 - fields: 3
   img:  'http://lh3.googleusercontent.com/mFMoKbSLtdP7TnaDrMHLxDWN1FGdQeY6BuKqxtEYSN--Sp6L7DgrpNlGARlPutxd0UNQuEW3WwuNl_Hny6_1'
   lat: 40.13183
@@ -572,6 +572,13 @@
   lon: -88.242282
   mus: 74
   name:  'Dohme Park Flags & Mural'
+- fields: 10
+  img:  'http://lh6.ggpht.com/TdTc6w1E10iwnW0zYKNCVloc1zKI2Jpm_XcDhw42nHtFkGMXJY26p7-RM1BhUkp1y3_8M_tLQYOLbdOWgSBS'
+  lat: 40.103767
+  level: 7
+  lon: -88.228593
+  mus: 71
+  name:  'Cascading Brick Fountain'
 - fields: 2
   img:  'http://lh5.ggpht.com/93SMm7gYjGLu_6bFOqGL5MXKxKF_NsnHuxiDyywI_Jrhz-LaQoNlm0yw7lG0I9rhp5vnHkATk01A_CNYmYf-'
   lat: 40.128358
@@ -593,13 +600,6 @@
   lon: -88.242844
   mus: 67
   name:  'Lake Park Gardens'
-- fields: 9
-  img:  'http://lh6.ggpht.com/TdTc6w1E10iwnW0zYKNCVloc1zKI2Jpm_XcDhw42nHtFkGMXJY26p7-RM1BhUkp1y3_8M_tLQYOLbdOWgSBS'
-  lat: 40.103767
-  level: 7
-  lon: -88.228593
-  mus: 65
-  name:  'Cascading Brick Fountain'
 - fields: 1
   img:  'http://lh6.ggpht.com/JgD9-vk2pVIQENqssLAn_4Smd4aFydCLSHsQWVF4D4gn8xxgO5PTgDfjr0DKtVdau2_ZQc7RR-gYrOaMwStSRg'
   lat: 40.143345
@@ -680,7 +680,7 @@
 - fields: 1
   img:  'http://lh6.ggpht.com/B4G90nKtVQc7jPOxaA1XcAIKA2UJlU15MIPZLitQmNBNAtfIc9qCPpe75YFHYaZN3YUpU6b4CNMOPsBrg1Q'
   lat: 40.100489
-  level: 4
+  level: 5
   lon: -88.218903
   mus: 48
   name:  'Farmhouse Illinois Chapter'
@@ -918,7 +918,7 @@
 - fields: 4
   img:  'http://lh6.ggpht.com/NgnydTt337ADxVuRuFnimA4_Ifff2E49IzKzpqchxzsfFOWhZolCGjl48IjFWzsJYEgVBSM5nurntToYOMT7'
   lat: 40.100488
-  level: 5
+  level: 6
   lon: -88.221702
   mus: 14
   name:  'Sigma Nu Fraternity House'
@@ -1104,6 +1104,13 @@
   lon: -88.218932
   mus: 9
   name:  'Twin City Bible Church'
+- fields: 1
+  img:  'http://lh3.ggpht.com/-p1CR-MEw_nnGMNLqcKVLoq-lgaxNYTd37J_sxs5ORcWO0Rjnk88yp4BLGDPGeMvqIfxxcOQsFbxvS_PbqWynQ'
+  lat: 40.101215
+  level: 5
+  lon: -88.229077
+  mus: 8
+  name:  'Illinois State Geological Survey'
 - fields: 2
   img:  'http://lh3.ggpht.com/zcG3oPHYwtT-X8C6OGJQ0iihspDno3ymd8A08OExrNLn7Qv29LKngk7yB87TqGWfyOFk-ZBT4zJOsjhyYU_mKw'
   lat: 40.092698
@@ -1154,6 +1161,13 @@
   mus: 8
   name:  'Edward A. Cousins Plaque'
 - fields: 1
+  img:  'http://lh5.ggpht.com/r5KiToG6Qjyw5c6bAl_0F5cRgpub6HC8MAhqSj_urbSr7jfyMNIuQJaMQykBPvk8mATAla1R16wMHTDoU456'
+  lat: 40.102817
+  level: 6
+  lon: -88.227222
+  mus: 8
+  name:  'McFarland Memorial Bell Tower'
+- fields: 1
   img:  'http://lh6.ggpht.com/6BUh47P9JBBdzd2Et4_wsdwykXwvCr8yLmvnNT_cLoZlut02MhwRCXNwEyABiuKbBtsXhy0qQ8jltlKfprE'
   lat: 40.102829
   level: 5
@@ -1167,6 +1181,13 @@
   lon: -88.248914
   mus: 7
   name:  'Boulware Trail'
+- fields: 1
+  img:  'http://lh3.ggpht.com/rKv-1aQyD3_EmYdZWG7vYw8cs8J89rZ6nFgr0tzEY9dFNyVdXpy1qOnHT434i_rN90x2ZakG3V5iyZUlXFogwA'
+  lat: 40.103623
+  level: 6
+  lon: -88.22503
+  mus: 7
+  name:  'Dancing Horse Metalwork Art'
 - fields: 1
   img:  'http://lh6.ggpht.com/mjad8ywd9f_7yhVlFU1BlrOX-7B6bVnPzpN6bu0-3buisRy8BfTdN5K6uATZ5z8dO-Y9u-XSwI8GT_PhO6YS'
   lat: 40.101338
@@ -1436,7 +1457,7 @@
 - fields: 1
   img:  'http://lh3.ggpht.com/I8Cra-oBAq7td_84j0G8l8DIMXhxPP-O8A8xPb1WZb8O2s9DBapV_osKefRuzzDGDhcPRA9WT7yaPBvkGE4g'
   lat: 40.112836
-  level: 4
+  level: 3
   lon: -88.22802
   mus: 2
   name:  '1909 Senior Memorial'
