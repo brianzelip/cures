@@ -4,18 +4,18 @@
   level: 8
   lon: -88.250855
   name:  'Donald F. Bresnan Memorial'
-- ap: 10592
-  img:  'http://lh5.ggpht.com/dRrlHXlT2nMNgZNHiYo52ha9L-Xay9DyOJR2Cpqs74hgAJ09abn9OTAtMzRVedt1_R9ObZllLO98vRhNMfgTgVsJCk1S-HJwX_XgiGpG4lz3a328'
-  lat: 40.11671
-  level: 6
-  lon: -88.24263
-  name:  'Cafe Kopi'
 - ap: 9470
   img:  'http://lh5.ggpht.com/AX1hc0zh7ZtN2MoSsNXTKwRtGJWb8EgeHffmjJfZvCLL7wvvjMZ8d0BwESKKrdNM--UUKA09PrLQ9qmTrMw'
   lat: 40.117186
   level: 5
   lon: -88.241556
   name:  'Champaign Limestone Sidewalk'
+- ap: 9281
+  img:  'http://lh5.ggpht.com/dRrlHXlT2nMNgZNHiYo52ha9L-Xay9DyOJR2Cpqs74hgAJ09abn9OTAtMzRVedt1_R9ObZllLO98vRhNMfgTgVsJCk1S-HJwX_XgiGpG4lz3a328'
+  lat: 40.11671
+  level: 6
+  lon: -88.24263
+  name:  'Cafe Kopi'
 - ap: 8909
   img:  'http://lh6.ggpht.com/eeOtj4-6PU8Dt6QXk_TJjgkoEGRW9L8YzUqZE8QV5ZMCHnqA5CzoQoxKpnjCvXwaIflUUvPJmO_S7BdvMhcuzw'
   lat: 40.117588
@@ -79,7 +79,7 @@
 - ap: 6098
   img:  'http://lh6.ggpht.com/rGhR45ZFbHtxmrZSSy9V19eFoyHIDB42c6MK188isPJFWpUsW9ywNHayKt3acNvKNC8DAV6mDkUloj3aiS4'
   lat: 40.118422
-  level: 5
+  level: 6
   lon: -88.24346
   name:  'Entrance'
 - ap: 6098
@@ -149,12 +149,6 @@
   lon: -88.241752
   name:  'WEFT 90.1 FM Community Radio'
 - ap: 5722
-  img:  'http://lh4.ggpht.com/iF9ok9WK8tu0rwNJsbJggC_OqQxiqKIF9QRpGOgIrlZa4Dr4JYrLxWeFDe43Js9WGFiKCOlMNMZapd_SBQ5T'
-  lat: 40.111945
-  level: 5
-  lon: -88.282707
-  name:  'Champaign Cycle'
-- ap: 5722
   img:  'http://lh3.ggpht.com/07XrBN-er6Ecleor0n9RJ4DfGO6B2yn-ZxjI-Uy8Ba46Jtb6cXNVmATPiPiGyk-1jZ4wxa7-EeIWbWUqArCG'
   lat: 40.142554
   level: 5
@@ -203,11 +197,11 @@
   lon: -88.225353
   name:  'Transportation Building - University Of Illinois'
 - ap: 4785
-  img:  'http://lh3.ggpht.com/PijfKs7HCJf1vVcIxcTF1HPOYaa5iS4ZECXZUQ2dDDSn9ZCXSd8FGHThRUiEIC-oMNmClt0seIzn8FsaGPER'
-  lat: 40.112752
+  img:  'http://lh4.ggpht.com/iF9ok9WK8tu0rwNJsbJggC_OqQxiqKIF9QRpGOgIrlZa4Dr4JYrLxWeFDe43Js9WGFiKCOlMNMZapd_SBQ5T'
+  lat: 40.111945
   level: 5
-  lon: -88.289696
-  name:  'El Toro Fountain'
+  lon: -88.282707
+  name:  'Champaign Cycle'
 - ap: 4785
   img:  'http://lh6.ggpht.com/Jz3ahY5LQ13wKWLY9SEvexiinJa3GeO1eB_FynplikRpa77swLST6cUAJjPpqKDSq2KU4Dcyui-QBstz_Z3k'
   lat: 40.094624
@@ -247,7 +241,7 @@
 - ap: 4411
   img:  'http://lh3.ggpht.com/bltQwmnzp2vSKYhLpzNLqB4iddy6ie0kWk9G7Wce4U9qmW3CABxbXAhF7v0oG9QLFD2q57UZuVqZCMgN3MHZfA'
   lat: 40.118335
-  level: 5
+  level: 6
   lon: -88.243408
   name:  'Downtown Fountain'
 - ap: 4411
@@ -305,6 +299,12 @@
   lon: -88.227412
   name:  'Bus Stop - Illini Union, Westbound'
 - ap: 3848
+  img:  'http://lh3.ggpht.com/PijfKs7HCJf1vVcIxcTF1HPOYaa5iS4ZECXZUQ2dDDSn9ZCXSd8FGHThRUiEIC-oMNmClt0seIzn8FsaGPER'
+  lat: 40.112752
+  level: 5
+  lon: -88.289696
+  name:  'El Toro Fountain'
+- ap: 3848
   img:  'http://lh4.ggpht.com/Tpl5ga1h9vBjG88A6xRDnvBxx7F1epdVZYUY-FNnoOS6H_0OkWXC-RqCtNsk5WSZcOBwMvdY56QCHo0hvoE'
   lat: 40.102744
   level: 6
@@ -316,12 +316,6 @@
   level: 5
   lon: -88.281912
   name:  'Westminster Presbyterian Church'
-- ap: 3848
-  img:  'http://lh3.googleusercontent.com/zcTaX3OHcGZu7CzBV1HvsKtB5RiAW7oMwxS_7phps0tjr70eNr8xbxrJ_P6agi_uXJtMNdHPnks9rZcrR6mG'
-  lat: 40.127267
-  level: 5
-  lon: -88.253451
-  name:  'Champaign Fire Department'
 - ap: 3848
   img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
   lat: 40.117976
@@ -341,23 +335,11 @@
   lon: -88.224982
   name:  'John J. Morris Jr. Memorial'
 - ap: 3661
-  img:  'http://lh3.googleusercontent.com/E_ZPlSyleqUMg0OilyQYOVjaoZT-y4SbH4plEyw9dIUNETTaaR5s71RJOIy8h5u1Ae97gUfiLGrIdMPXjNQ'
-  lat: 40.11727
-  level: 4
-  lon: -88.286997
-  name:  'Kaufman Lake'
-- ap: 3661
-  img:  'http://lh3.ggpht.com/IKYzmqr6aeIX2d99jn1dQHjjq0-h7glRdyPEPoTdQnggoAgc8uutzh3X4OYjcCllXVp5r9rYyYnVPwNALI8B'
-  lat: 40.115178
+  img:  'http://lh3.googleusercontent.com/zcTaX3OHcGZu7CzBV1HvsKtB5RiAW7oMwxS_7phps0tjr70eNr8xbxrJ_P6agi_uXJtMNdHPnks9rZcrR6mG'
+  lat: 40.127267
   level: 5
-  lon: -88.246191
-  name:  'Clark Bar'
-- ap: 3661
-  img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
-  lat: 40.101943
-  level: 6
-  lon: -88.244266
-  name:  'Circle K 1301 S Neil Street'
+  lon: -88.253451
+  name:  'Champaign Fire Department'
 - ap: 3661
   img:  'http://lh6.ggpht.com/RR0i4QdfoY8NkTQtssdOtDLhAEaCR7e-R4ipk5NzdKe9lTGDq2nyKI_7sF2BCXrgCZAZ2zEEtIzS7vg6Pu0hzA'
   lat: 40.126458
@@ -466,18 +448,12 @@
   level: '?'
   lon: -86.909106
   name:  '8fc60bdaaaca417e8da203eaf85e4b6c.16'
-- ap: 3098
+- ap: 2911
   img: http://i.imgur.com/5j1qaiT.png
   lat: 44.607633
   level: '?'
   lon: -87.43205
   name:  '8e6a8255e7c342e8806313a728bf9918.12'
-- ap: 3098
-  img:  'http://lh3.ggpht.com/dBN6P2wGkcXj-MNbPjAJzN-RxmK93xRIhp29sZ6-ZmsbFoey4dGO51tP1FIFCzHjs4CIhHd-xGmflcW43R0w'
-  lat: 40.10604
-  level: 5
-  lon: -88.224625
-  name:  'Asian American Culture Center'
 - ap: 2911
   img:  'http://lh6.ggpht.com/j712bbvDknzGlAU87nZA1Bx45Ng-0MGA9Uvuv-3WzIKA3W51mXOZpJ-TzVSbuU3uE2AsJ5wcO7_B6WDpdRr0'
   lat: 40.110684
@@ -520,12 +496,6 @@
   level: 6
   lon: -88.235749
   name:  'Fountain at Scott Park'
-- ap: 2724
-  img:  'http://lh4.ggpht.com/DTGKMEvXrKSLJVBZP6bN7EF-DMHt5l_x3o-C-Ln0FjrGCQcTdcLNaZDI2_OCwEzuqgh8HyyqJwyQkc4-0H8g'
-  lat: 40.106037
-  level: 5
-  lon: -88.226237
-  name:  'Triplets'
 - ap: 2724
   img:  'http://lh3.googleusercontent.com/vw4Js8jf11Ok889K1stO5ujNjIO9Ah9DEbsg1xBTrVbaeyBetcG75B8YS8CkQA0KVC8NA5Z02n220SI1UzdB'
   lat: 40.10985
@@ -570,12 +540,6 @@
   name:  'f1b338e3321c46a3b934d916b9212aa6.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.678713
-  level: '?'
-  lon: -86.177147
-  name:  '4667e3ffcfae4a9d98f73ea4e603aa6d.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.781319
   level: '?'
   lon: -87.757799
@@ -610,12 +574,6 @@
   level: '?'
   lon: -88.998923
   name:  '4c96398791b2462a8252b7bdba0ab9a2.16'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/rgh_2qJQUPC1OrARUkiQqPKoNReiqZYOimm5Nszb77pDh72OszuyiJBKn-vDxHUuyjO2XTeKU9GBHc3oHIYr'
-  lat: 40.115283
-  level: 4
-  lon: -88.287899
-  name:  'Greenbelt Bikeway'
 - ap: 2537
   img:  'http://lh6.ggpht.com/WVVbmiu2GGTnPTszcnYYILHKlkZDoxB-QY6Yv7YPoUfdVn92jYnKjpVKNkfWdFrPjq-BaFeKGJWLZlE-bbA'
   lat: 40.120467
@@ -665,11 +623,11 @@
   lon: -88.212935
   name:  'Francis and Hermenia Kruidenier Memorial'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/dzQSyJummIX5lEBsPg0bjVUKgWuducW6OgwYfPUATs_OtoqhXsCvhVFuC98ULi8Gvi0ywyeTUACotvmS32A'
-  lat: 40.130306
+  img:  'http://lh3.ggpht.com/IKYzmqr6aeIX2d99jn1dQHjjq0-h7glRdyPEPoTdQnggoAgc8uutzh3X4OYjcCllXVp5r9rYyYnVPwNALI8B'
+  lat: 40.115178
   level: 5
-  lon: -88.253037
-  name:  'Fagen Truck Accessories'
+  lon: -88.246191
+  name:  'Clark Bar'
 - ap: 2537
   img:  'http://lh4.ggpht.com/BEyFLhgqk0ySf2zElnARv5eyaQggj_zbHSagW3_DGt9BieScmU4jGPvJCjezTjbiCP-DOJPLPfJ3HhnYAiQLEQ'
   lat: 40.119288
@@ -688,12 +646,6 @@
   level: 5
   lon: -88.227697
   name:  'The Diana Fountain'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/2wN9MWxEFPbMzRPAzNmaAiCOQJj_EFr94Y1YkQP_wMlyajkajmcw00gqW-EluMvpQmvnGgcQ-WdPxjcYTmr2'
-  lat: 40.106519
-  level: 4
-  lon: -88.223748
-  name:  'Thunderbird Theatre Mosaic'
 - ap: 2462
   img:  'http://lh3.ggpht.com/mtgiI5TKcuExETpmdSqIFabkYgVZTaXXLJnaIyzxeHPIunWoj_Fj8BqqwZG4nVQwSnngv15YxD-c_m9CHkr3'
   lat: 40.111202
@@ -701,17 +653,11 @@
   lon: -88.226447
   name:  'Boneyard Creek Memorial Streamflow Gaging Station'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/lGjbP2iz0XvlEWLhgCBNqkWukvjrBowKmX-1_O44U1A3_4b3-vuXzkfp7rasqU81TcPBoQO82gAzEGtBBYcR'
-  lat: 40.106058
-  level: 4
-  lon: -88.223672
-  name:  'Music Building'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/oSQ_YOHo2mfYjOa8bPK9ellznKK29UluW-SeXoGYra9VFg8dJp6YQRdHbHHaTExqXs1qUMBNmpI2hUPcC4GI'
-  lat: 40.106789
-  level: 3
-  lon: -88.222992
-  name:  'Beginnings of Computer Music Plaque'
+  img:  'http://lh4.ggpht.com/DTGKMEvXrKSLJVBZP6bN7EF-DMHt5l_x3o-C-Ln0FjrGCQcTdcLNaZDI2_OCwEzuqgh8HyyqJwyQkc4-0H8g'
+  lat: 40.106037
+  level: 5
+  lon: -88.226237
+  name:  'Triplets'
 - ap: 2537
   img:  'http://lh5.ggpht.com/dEeT4acpLu-WQFlZWd3psap5qAqqPTSVzm8Qt1QtpqtwZ0j1V9eKFcmpgN9K_x1PL4XVchuevw25rxHekz3tvQ'
   lat: 40.111968
