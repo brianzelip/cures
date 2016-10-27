@@ -54,13 +54,6 @@
   lon: -88.248689
   mus: 1242
   name:  'Town Center Park Champaign Park District'
-- fields: 3
-  img:  'http://lh5.ggpht.com/RsXj0S9rbD_i4VFZmhxJtNtmwEeJOoYsmM8wyu90kB6srZMfUskP6iqrTY9eqFNQhhQrU50k92lCH4JEQ2w'
-  lat: 40.127358
-  level: 7
-  lon: -88.243851
-  mus: 1211
-  name:  'Stanchion'
 - fields: 5
   img:  'http://lh4.ggpht.com/xMwEuzjKH4LukFYgVHCFzoHtcIDwSHLCurfqG9DRuRCZOyw6nN6x8-Qngw5rUbT5kSPl7zjxG_mCoyJNHc0N'
   lat: 40.080645
@@ -131,6 +124,13 @@
   lon: -88.268256
   mus: 814
   name:  'St. Matthew Church '
+- fields: 2
+  img:  'http://lh5.ggpht.com/RsXj0S9rbD_i4VFZmhxJtNtmwEeJOoYsmM8wyu90kB6srZMfUskP6iqrTY9eqFNQhhQrU50k92lCH4JEQ2w'
+  lat: 40.127358
+  level: 7
+  lon: -88.243851
+  mus: 780
+  name:  'Stanchion'
 - fields: 7
   img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
   lat: 40.112574
@@ -173,20 +173,6 @@
   lon: -88.267345
   mus: 651
   name:  'Illinois American Water Tower'
-- fields: 2
-  img:  'http://lh3.ggpht.com/EKf-sm5ZCYuiTXX4AKzlEv7GIrHKV_TLuLEfvyjAME2h47rQIOU4VRKY6CQb6qe8ZIQ_8ablR4-1JPH1JFhq0A'
-  lat: 40.116423
-  level: 6
-  lon: -88.238623
-  mus: 606
-  name:  'Champaign County Historical Museum'
-- fields: 2
-  img:  'http://lh6.ggpht.com/Nv0tMktEkkuoGtg1QEPS1N2nTcBPg8ipu31i72XPDTGQ4HQI5oL58Ig8kofXUH_aCC2aaJ-NylWKPkC3hIBS'
-  lat: 40.116218
-  level: 6
-  lon: -88.228757
-  mus: 606
-  name:  'The Presidents'' Walk'
 - fields: 5
   img:  'http://lh4.ggpht.com/BDVsIEWOaH0zZsTgU8IbvmVNJTrl3EljfhNXeVt4C2BILNtXm5hpAq_6mLrTl66aJcUyYv4hFJKhxedLkKo'
   lat: 40.11679
@@ -327,13 +313,6 @@
   lon: -88.273478
   mus: 177
   name:  'Westgate Bear'
-- fields: 1
-  img:  'http://lh6.ggpht.com/C7ThuP5fwrDTu5cMDpoeGmRjotNh6eUnPf3ksvSsUj5NkHZ0yKbIUnF8cSikhX-I_7O42CTwqjhLq9z3jkIL'
-  lat: 40.111844
-  level: 5
-  lon: -88.228609
-  mus: 175
-  name:  'Talbot Labs '
 - fields: 5
   img:  'http://lh4.ggpht.com/pzRTAVFaG9fsbbBGsLcfuuuMTyFMlR-4-9PAscV7k8pq1vigvt85skTSjpMgKCYMvlC8aY-EOqCxuGOEujXLig'
   lat: 40.124906
@@ -1406,19 +1385,19 @@
   mus: 2
   name:  'Dohme Park Dedication Plaque'
 - fields: 2
-  img:  'http://lh3.ggpht.com/xx2cD47rj0xUKO7q4YpTX_BdojpMt5E_TmbeJ4zRwvw3dwaQwY4I6B54OreMj0zqdsGgI15rgM3br0h_e5B4'
-  lat: 40.09265
-  level: 6
-  lon: -88.240033
-  mus: 2
-  name:  'Illinois Natural History Survey'
-- fields: 2
   img:  'http://lh5.ggpht.com/EpOdyD3ivApVXUFAhA6wDVRmmpaeWrwcwStpOXXX5_VPnE3irbGjbLNZOqQnIf8xs9pOqR0AcKO9T2uSNK5F'
   lat: 40.092164
   level: 6
   lon: -88.239356
   mus: 2
   name:  'Jill M. Zimmerman Memorial'
+- fields: 2
+  img:  'http://lh3.ggpht.com/xx2cD47rj0xUKO7q4YpTX_BdojpMt5E_TmbeJ4zRwvw3dwaQwY4I6B54OreMj0zqdsGgI15rgM3br0h_e5B4'
+  lat: 40.09265
+  level: 6
+  lon: -88.240033
+  mus: 2
+  name:  'Illinois Natural History Survey'
 - fields: 3
   img:  'http://lh4.ggpht.com/wyM69v5COeXPWWt_LnfNM6UlZe8vhGenr3i6cKAsnyELc0kC82jEE4kljcMgjf5IByJFesORVLdjdKjLoAON'
   lat: 40.068553
