@@ -101,18 +101,6 @@
   lon: -88.251426
   name:  'Ruth Haasis Memorial'
 - ap: 5722
-  img:  'http://lh4.ggpht.com/ALuoVJ7QnHm6UHYduw1n3gAq-CNtJl8SAlX1ebK2iwI-sAIAf4aVxUf9UFXMwtf0JN4TjT2ntqRYUQQdEkXc'
-  lat: 40.092138
-  level: 5
-  lon: -88.220957
-  name:  'Lisa Ann Coole Memorial Bench'
-- ap: 5722
-  img:  'http://lh6.ggpht.com/77fUbqyXo7hIvnylHXZNtkKi5rVZBYbUjPv4v6cAJG6xwvmdEnsTImfXxzADN6mAhse53kFXadqr4EbylpI'
-  lat: 40.092371
-  level: 5
-  lon: -88.220576
-  name:  'Growing in Illinois'
-- ap: 5722
   img:  'http://lh3.ggpht.com/07XrBN-er6Ecleor0n9RJ4DfGO6B2yn-ZxjI-Uy8Ba46Jtb6cXNVmATPiPiGyk-1jZ4wxa7-EeIWbWUqArCG'
   lat: 40.142554
   level: 5
@@ -124,24 +112,12 @@
   level: 5
   lon: -88.242671
   name:  'Marketplace Mall Fountain'
-- ap: 5535
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.084939
-  level: '?'
-  lon: -88.168778
-  name:  'Stone Creek Fountain 2'
 - ap: 5346
   img:  'http://lh6.ggpht.com/0IsQORyEW-bPA7sEbGspygtoI7ixEshm_2fUw5oeh9AeXg6JN5w0ypYIshpuKm-C0nG4Vm2XmpLvtWTZzWzd'
   lat: 40.111607
   level: 7
   lon: -88.233753
   name:  'Chabad Menorah'
-- ap: 5161
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.133743
-  level: '?'
-  lon: -88.162534
-  name:  'The Apple Dumplin'
 - ap: 5161
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
@@ -154,6 +130,12 @@
   level: 6
   lon: -88.225353
   name:  'Transportation Building - University Of Illinois'
+- ap: 4785
+  img:  'http://lh4.ggpht.com/ALuoVJ7QnHm6UHYduw1n3gAq-CNtJl8SAlX1ebK2iwI-sAIAf4aVxUf9UFXMwtf0JN4TjT2ntqRYUQQdEkXc'
+  lat: 40.092138
+  level: 5
+  lon: -88.220957
+  name:  'Lisa Ann Coole Memorial Bench'
 - ap: 4785
   img:  'http://lh6.ggpht.com/mDDXLg-Kxa85n85a45UIY1BKvN044ZCj-7Zg7xv0Igfi8ZNuhHl9mUWwkBE9fiTYw8UTFp98gSoFn0K6nWfn3g'
   lat: 40.129332
@@ -215,6 +197,12 @@
   lon: -88.227127
   name:  'Early Computers Plaque'
 - ap: 4411
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.133743
+  level: '?'
+  lon: -88.162534
+  name:  'The Apple Dumplin'
+- ap: 4411
   img:  'http://lh5.ggpht.com/nWEtxuKQdy0teBBue1DYmG7P3SF5-3A6zlB7GwVHBWlolAZYGq6Br78lWcF9ltFy-KeSlozXie2RmU6JfCUX'
   lat: 40.142673
   level: 5
@@ -262,6 +250,18 @@
   level: 4
   lon: -88.224982
   name:  'John J. Morris Jr. Memorial'
+- ap: 3661
+  img:  'http://lh6.ggpht.com/77fUbqyXo7hIvnylHXZNtkKi5rVZBYbUjPv4v6cAJG6xwvmdEnsTImfXxzADN6mAhse53kFXadqr4EbylpI'
+  lat: 40.092371
+  level: 5
+  lon: -88.220576
+  name:  'Growing in Illinois'
+- ap: 3661
+  img:  'http://lh3.ggpht.com/xN5qaZ1d4qIQE8TID35MPTmzahhM09EYDVLbu2aeCpRJz9XntEf7R0XswEdQDOmdMpZxIEyNyqsC5qll3vfv'
+  lat: 40.082343
+  level: 5
+  lon: -88.247404
+  name:  'Larry Kanfer Gallery'
 - ap: 3661
   img:  'http://lh6.ggpht.com/Jz3ahY5LQ13wKWLY9SEvexiinJa3GeO1eB_FynplikRpa77swLST6cUAJjPpqKDSq2KU4Dcyui-QBstz_Z3k'
   lat: 40.094624
@@ -382,10 +382,10 @@
   level: '?'
   lon: -88.991258
   name:  'bd5ea812a7ab407fad92afc09c9bc4b0.16'
-- ap: 2724
+- ap: 2649
   img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
   lat: 40.117976
-  level: 7
+  level: 6
   lon: -88.245082
   name:  'Robeson Building '
 - ap: 2724
@@ -438,12 +438,6 @@
   name:  '9d2cde587c394592a56eab2a6e695e8f.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.783104
-  level: '?'
-  lon: -87.761081
-  name:  '201c7d91e39b42b3a32c45382376480e.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.83136
   level: '?'
   lon: -89.391601
@@ -454,6 +448,12 @@
   level: '?'
   lon: -87.761254
   name:  '049de703919c4b9c8237fb9c1edf1a72.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.783104
+  level: '?'
+  lon: -87.761081
+  name:  '201c7d91e39b42b3a32c45382376480e.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.781319
@@ -527,12 +527,6 @@
   lon: -88.238922
   name:  'Prosperity Gardens'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/DTGKMEvXrKSLJVBZP6bN7EF-DMHt5l_x3o-C-Ln0FjrGCQcTdcLNaZDI2_OCwEzuqgh8HyyqJwyQkc4-0H8g'
-  lat: 40.106037
-  level: 5
-  lon: -88.226237
-  name:  'Triplets'
-- ap: 2537
   img:  'http://lh3.googleusercontent.com/v44Gf5oEZGcwkQcA2wWz-uAeDFESHj7sEloxdCJd316RPH3w_ln8_9mBEMbAqGyI_2Y2qaYp525PnRip9Rg'
   lat: 40.105315
   level: 2
@@ -550,6 +544,12 @@
   level: 5
   lon: -88.224055
   name:  'The Etc'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/DTGKMEvXrKSLJVBZP6bN7EF-DMHt5l_x3o-C-Ln0FjrGCQcTdcLNaZDI2_OCwEzuqgh8HyyqJwyQkc4-0H8g'
+  lat: 40.106037
+  level: 5
+  lon: -88.226237
+  name:  'Triplets'
 - ap: 2537
   img:  'http://lh5.ggpht.com/ZDv0mHiZcEfLxGVibvfnMCu7reJceCVnxa4GeBjK2DO4Y4a0x-M7C2M0rEam-_bPlr2e2476RXe15pRY48s'
   lat: 40.114351
