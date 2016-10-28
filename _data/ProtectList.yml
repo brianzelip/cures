@@ -68,13 +68,6 @@
   lon: -88.249144
   mus: 1607
   name:  'Triptych Brewing'
-- fields: 5
-  img:  'http://lh5.ggpht.com/RsXj0S9rbD_i4VFZmhxJtNtmwEeJOoYsmM8wyu90kB6srZMfUskP6iqrTY9eqFNQhhQrU50k92lCH4JEQ2w'
-  lat: 40.127358
-  level: 7
-  lon: -88.243851
-  mus: 1386
-  name:  'Stanchion'
 - fields: 9
   img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
   lat: 40.108745
@@ -110,13 +103,20 @@
   lon: -88.265191
   mus: 1169
   name:  'Thompson Park'
-- fields: 8
+- fields: 9
   img:  'http://lh4.ggpht.com/U2bGo6sB1AGHiDjQ-rH7wSwqqEX_Rgttee-UbdQR48aDKUrWK3zDdefPtL7CTxHDIksKsqP-9K6AlK8Mjlhe'
   lat: 40.125487
   level: 7
   lon: -88.260193
-  mus: 1128
+  mus: 1163
   name:  'New Foundation Missionary Baptist Church'
+- fields: 4
+  img:  'http://lh5.ggpht.com/RsXj0S9rbD_i4VFZmhxJtNtmwEeJOoYsmM8wyu90kB6srZMfUskP6iqrTY9eqFNQhhQrU50k92lCH4JEQ2w'
+  lat: 40.127358
+  level: 7
+  lon: -88.243851
+  mus: 1073
+  name:  'Stanchion'
 - fields: 7
   img:  'http://lh3.ggpht.com/1yyUr0xGwID_g1F_OYHLjASRJrvJLD7e8r6IER_B6CliwGRrCH6cDWRVgtfWqJ0wHhNyjId_FX6mEVecAviV'
   lat: 40.11946
@@ -194,12 +194,12 @@
   lon: -88.285834
   mus: 789
   name:  'Illinois Earth Team Plaque'
-- fields: 4
+- fields: 5
   img:  'http://lh4.ggpht.com/JHX_SjLotbx-SvlPdUyqqVRu9l-KTQ6UmgkW6CA8_Dd-BOjXrziu5dAUaFeNFGUU_Ys9eW8urHjAlxr2aw'
   lat: 40.132314
-  level: 5
+  level: 6
   lon: -88.262892
-  mus: 746
+  mus: 782
   name:  'New Life of Champaign United Pentecostal Church'
 - fields: 1
   img:  'http://lh4.ggpht.com/XmQtS5vWS277-auG5r5x80jUieF2311Xfv6rWkYqVBZ3wz2cqxRtgabyzOhXn0fCpSpDD6Y_CFd9Rzti4eqj'
@@ -229,13 +229,6 @@
   lon: -88.276537
   mus: 621
   name:  'The New Fellowship Corner'
-- fields: 2
-  img:  'http://lh4.ggpht.com/dzQSyJummIX5lEBsPg0bjVUKgWuducW6OgwYfPUATs_OtoqhXsCvhVFuC98ULi8Gvi0ywyeTUACotvmS32A'
-  lat: 40.130306
-  level: 6
-  lon: -88.253037
-  mus: 588
-  name:  'Fagen Truck Accessories'
 - fields: 4
   img:  'http://lh3.ggpht.com/O-DGELnJZNJ5CXEaU3N0dzBK_ZVUUnTe6ey0TMrxXnXS1aXD9xo662l9u-8O6f3472F8hgDnW-wwDQ29XUYuyw'
   lat: 40.115941
@@ -313,13 +306,6 @@
   lon: -88.281892
   mus: 325
   name:  'Fluid Event Center'
-- fields: 1
-  img:  'http://lh6.ggpht.com/nbUJivBo0zF8f8aBbk1GwakUpPbLUVOoEovTTETYwJvfNIHXwG9XUbwoV0x-ly4ZO5Hsyv5KPo3c9cE6Nh8'
-  lat: 40.118832
-  level: 5
-  lon: -88.243643
-  mus: 314
-  name:  'Tesla Ball'
 - fields: 2
   img:  'http://lh4.ggpht.com/BB4y2ChVuPpmuGW8VPeiAPKr-vWwYdihWvrH0i_WALxPd8wX3j2no0JFEMNK8ndCvXwQzLLabPyRoAfsz5g'
   lat: 40.101584
@@ -327,6 +313,13 @@
   lon: -88.270546
   mus: 296
   name:  'Mayfair Park '
+- fields: 1
+  img:  'http://lh4.ggpht.com/dzQSyJummIX5lEBsPg0bjVUKgWuducW6OgwYfPUATs_OtoqhXsCvhVFuC98ULi8Gvi0ywyeTUACotvmS32A'
+  lat: 40.130306
+  level: 6
+  lon: -88.253037
+  mus: 274
+  name:  'Fagen Truck Accessories'
 - fields: 5
   img:  'http://lh3.ggpht.com/NgusMNa_MQJauBXm1lCWXnmzNqo5-TB-ihUlPa_vaI83WESAp8ChhEVR7KuBr_Na2-hzlLU7AB_STTq1gu7cwQ'
   lat: 40.112585
@@ -740,6 +733,13 @@
   lon: -88.249351
   mus: 38
   name:  'A Lady Waiting for the Bus'
+- fields: 1
+  img:  'http://lh4.ggpht.com/-3OGrQoPMUHMTXGrQd8VSoFpu2nJzMezJO7qlgOrkiAgRUQ9cB8Ga3vnp5RecAdoF0N9PpnJ-x4nBpeoRXI'
+  lat: 40.129194
+  level: 7
+  lon: -88.262938
+  mus: 36
+  name:  'A.C. HumKo Mural'
 - fields: 5
   img:  'http://lh5.ggpht.com/_gJqtOHLZ9UHsmd_iLjxMsPw5eF5YzqE63qEAzURvSp_3OL9ZrPjM-usiUeYx95b7zTdNodab42cQiyiRRja'
   lat: 40.087835
