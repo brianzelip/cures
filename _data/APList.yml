@@ -58,18 +58,6 @@
   level: 6
   lon: -88.240991
   name:  'Old News Gazette Offices'
-- ap: 8159
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.781319
-  level: '?'
-  lon: -87.757799
-  name:  '40323d30f2a446858cac38654e826845.12'
-- ap: 8159
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.726859
-  level: '?'
-  lon: -86.909106
-  name:  '8fc60bdaaaca417e8da203eaf85e4b6c.16'
 - ap: 7970
   img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
   lat: 40.116071
@@ -191,6 +179,18 @@
   lon: -88.240851
   name:  'The Accord'
 - ap: 5348
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.781319
+  level: '?'
+  lon: -87.757799
+  name:  '40323d30f2a446858cac38654e826845.12'
+- ap: 5348
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.726859
+  level: '?'
+  lon: -86.909106
+  name:  '8fc60bdaaaca417e8da203eaf85e4b6c.16'
+- ap: 5348
   img:  'http://lh3.googleusercontent.com/FMrsRGg4e1AuMu6m4uCIpM5nawtelx8reIfMtog4nuxXU9C7--UKQnUEAm9s4Vc7OfMjfIDX5loNOw4Agz2HAw'
   lat: 40.118715
   level: 5
@@ -305,17 +305,17 @@
   lon: -88.241616
   name:  'Lincoln Building'
 - ap: 4411
-  img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
-  lat: 40.098239
-  level: 6
-  lon: -88.25376
-  name:  'Hessel Park Christian Reformed Church'
-- ap: 4411
   img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
   lat: 40.099593
   level: 8
   lon: -88.251724
   name:  'Blessings from Devon Elaine Cattell'
+- ap: 4411
+  img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
+  lat: 40.098239
+  level: 6
+  lon: -88.25376
+  name:  'Hessel Park Christian Reformed Church'
 - ap: 4411
   img:  'http://lh3.ggpht.com/eIZLSi2oHXQIznnki3LOUvKrTTcJ6a2d9xmuW9B9IjzRMAyaWG19Qw6gTUGWsC5V7R3LlRVD-ySQPp_6uK_aZw'
   lat: 40.117519
@@ -334,28 +334,28 @@
   level: 2
   lon: -88.225714
   name:  'Smith Memorial Hall'
-- ap: 4035
-  img:  'http://lh6.ggpht.com/LxVyXEFJmvSZ271mlFfYmCwyb05Kz8cIRxzMt24ZVhRzsH09nxErJw4gKErktjKpCARWfVl4Mla70NoODK2bng'
-  lat: 40.11187
-  level: 5
-  lon: -88.220692
-  name:  'Atmospheric Sciences Building'
 - ap: 4033
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.903304
   level: '?'
   lon: -89.029803
   name:  'ec661ce7dd1a476392590c8f2f47778e.16'
+- ap: 3848
+  img:  'http://lh6.ggpht.com/LxVyXEFJmvSZ271mlFfYmCwyb05Kz8cIRxzMt24ZVhRzsH09nxErJw4gKErktjKpCARWfVl4Mla70NoODK2bng'
+  lat: 40.11187
+  level: 5
+  lon: -88.220692
+  name:  'Atmospheric Sciences Building'
 - ap: 3661
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.181654
   level: '?'
   lon: -88.427408
   name:  '44bf3d6a4882490ab739c4a6aa2db865.16'
-- ap: 3661
+- ap: 3511
   img:  'http://lh3.ggpht.com/3rw0YLp6-Ui3LAecadtTtTgoMRU7Q6vPRiNiSCod3Qb-bGjOJxf34EEnZP89KvnrTILkQM3PIE9-CIdmasz-'
   lat: 40.112897
-  level: 6
+  level: 5
   lon: -88.219672
   name:  'Mennonite Church'
 - ap: 3661
@@ -388,12 +388,6 @@
   level: '?'
   lon: -87.633659
   name:  '16dd983c6c30490faf1c45bfd3e1ff1e.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.961753
-  level: '?'
-  lon: -87.635149
-  name:  '6c2507186ab34c85872712308bb809fe.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.440822
@@ -430,18 +424,6 @@
   level: '?'
   lon: -87.632747
   name:  '009d44eea192424f8eb810b69311f40a.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.963042
-  level: '?'
-  lon: -87.634398
-  name:  '70afae3a6c894f6799117a1c37f05e9d.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.962826
-  level: '?'
-  lon: -87.634756
-  name:  '247a6de775a146a4accf8b1a11a1e0cc.16'
 - ap: 3474
   img:  'http://lh6.ggpht.com/mKnh6CvhOm_8Kn26lJTmk71nbwSMS-i9VJ45CR83Z8wB6Qn-9JAiyt1GEfrWKkv51a_y-lbN8pO6R1L5EZWfzw'
   lat: 40.117349
@@ -534,10 +516,16 @@
   name:  'Stanley H. Pierce Memorial'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.657115
+  lat: 42.692701
   level: '?'
-  lon: -88.60708
-  name:  '532328ca4b954a30aea88905015bfbb3.16'
+  lon: -87.803798
+  name:  'a92a36006927432086b7259082c3395b.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.089411
+  level: '?'
+  lon: -87.703213
+  name:  '63e98c81485049568713bb1675d559a8.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.644975
@@ -576,16 +564,10 @@
   name:  '6545997ed323475b83d09c4c29516eef.11'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.692701
+  lat: 41.657115
   level: '?'
-  lon: -87.803798
-  name:  'a92a36006927432086b7259082c3395b.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.089411
-  level: '?'
-  lon: -87.703213
-  name:  '63e98c81485049568713bb1675d559a8.16'
+  lon: -88.60708
+  name:  '532328ca4b954a30aea88905015bfbb3.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.537996
@@ -700,12 +682,6 @@
   level: 3
   lon: -88.235593
   name:  'Fred B Lamb Trail'
-- ap: 2162
-  img:  'http://lh6.ggpht.com/5tR3GirLCJ25x9j0BfwipsCOjlPMYGMmFrzEkhsJ4eGZ84FFe1_KnUmW3OBzAKAzQgPWPxt1WLJG2DvjFy6W'
-  lat: 40.109015
-  level: 1
-  lon: -88.224982
-  name:  'John J. Morris Jr. Memorial'
 - ap: 2387
   img:  'http://lh5.ggpht.com/28al1CSkHNCrM9Sb57TYmawr1uFh6r5raWMJKD4QjLCj6N5YHEYIIizONs_hHF3pHuIppLjqxbTFcvrI9Dq9'
   lat: 40.111205
@@ -731,6 +707,12 @@
   lon: -88.230176
   name:  'U of I Mural'
 - ap: 2537
+  img:  'http://lh6.ggpht.com/wt3gCGeGlsRNnOiaTX96Vh-viR16DO-cpnFyVgwzneUPTS5f0WHyCYLTRqDCgS7PRzg5IAEgkbnTLuc5782N'
+  lat: 40.111681
+  level: 4
+  lon: -88.229683
+  name:  'Shelford Vivarium'
+- ap: 2537
   img:  'http://lh3.ggpht.com/rT55OoX-8s-w_ikrqOgpC7QkK-Iqp4ylicElGoWFagKRQ8LX3Uvv8TZ5Xc8BlId1btzo5FTbgddPN72kYwA'
   lat: 40.114327
   level: 4
@@ -742,12 +724,6 @@
   level: 7
   lon: -88.224839
   name:  'Plato: A Social Networking Revolution Begins'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/wt3gCGeGlsRNnOiaTX96Vh-viR16DO-cpnFyVgwzneUPTS5f0WHyCYLTRqDCgS7PRzg5IAEgkbnTLuc5782N'
-  lat: 40.111681
-  level: 4
-  lon: -88.229683
-  name:  'Shelford Vivarium'
 - ap: 2537
   img:  'http://lh6.ggpht.com/77fUbqyXo7hIvnylHXZNtkKi5rVZBYbUjPv4v6cAJG6xwvmdEnsTImfXxzADN6mAhse53kFXadqr4EbylpI'
   lat: 40.092371
