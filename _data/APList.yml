@@ -5,6 +5,12 @@
   lon: -88.250855
   name:  'Donald F. Bresnan Memorial'
 - ap: 9657
+  img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
+  lat: 40.116989
+  level: 7
+  lon: -88.242255
+  name:  'Blind Pig'
+- ap: 9657
   img:  'http://lh3.googleusercontent.com/FMrsRGg4e1AuMu6m4uCIpM5nawtelx8reIfMtog4nuxXU9C7--UKQnUEAm9s4Vc7OfMjfIDX5loNOw4Agz2HAw'
   lat: 40.118715
   level: 5
@@ -28,12 +34,12 @@
   level: 8
   lon: -88.251157
   name:  'Tyler Van Atkins Memorial'
-- ap: 8720
-  img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
-  lat: 40.116989
+- ap: 8346
+  img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
+  lat: 40.116553
   level: 7
-  lon: -88.242255
-  name:  'Blind Pig'
+  lon: -88.242268
+  name:  'Esquire Lounge'
 - ap: 8159
   img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
   lat: 40.098246
@@ -52,12 +58,6 @@
   level: 6
   lon: -88.241752
   name:  'WEFT 90.1 FM Community Radio'
-- ap: 7409
-  img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
-  lat: 40.116553
-  level: 7
-  lon: -88.242268
-  name:  'Esquire Lounge'
 - ap: 7222
   img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
   lat: 40.099852
@@ -97,7 +97,7 @@
 - ap: 6098
   img:  'http://lh3.googleusercontent.com/5FkLhIMVmAJJSslAXVxY1RNxi-4q5mNAVPK2XgU5LwRM8qcB8BGXOK0GmF6Y_xfgPOhwF_CrbcgVZlJx-Pza'
   lat: 40.11652
-  level: 6
+  level: 7
   lon: -88.241845
   name:  'Mike ''N Molly''s'
 - ap: 6098
@@ -228,16 +228,16 @@
   name:  'Bus Stop - Illini Union, Westbound'
 - ap: 4411
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.997417
-  level: '?'
-  lon: -88.65824
-  name:  'a284087122904fa49931fe6528741984.16'
-- ap: 4411
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.004328
   level: '?'
   lon: -88.648978
   name:  '4130699e28334a9596f10b595066af70.16'
+- ap: 4411
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.997417
+  level: '?'
+  lon: -88.65824
+  name:  'a284087122904fa49931fe6528741984.16'
 - ap: 4411
   img:  'http://lh4.ggpht.com/YMDDyyJpIhe7xeYVGH048CFQDr7lX1SIPXzk4kXWr6zVgpUv6D1YGTLKwyg3DrhDoCuv-knBgF2gKZTylVRQ'
   lat: 40.132912
@@ -299,6 +299,12 @@
   lon: -88.251967
   name:  'Sesquicentennial Neighborhood Sign'
 - ap: 3661
+  img:  'http://lh5.ggpht.com/dRrlHXlT2nMNgZNHiYo52ha9L-Xay9DyOJR2Cpqs74hgAJ09abn9OTAtMzRVedt1_R9ObZllLO98vRhNMfgTgVsJCk1S-HJwX_XgiGpG4lz3a328'
+  lat: 40.11671
+  level: 6
+  lon: -88.24263
+  name:  'Cafe Kopi'
+- ap: 3661
   img:  'http://lh4.ggpht.com/2tHD_AHYQu0kWuwLX2HMYWBG4txVkuWsBEfzWLL39npWp8kMSHiUKxSJM1E7yhimuMVUJ-RIlSSKsgjETvtr'
   lat: 40.110524
   level: 4
@@ -316,6 +322,12 @@
   level: 5
   lon: -88.268577
   name:  'Newt Dodds Tennis Center'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.004721
+  level: '?'
+  lon: -88.648492
+  name:  '80df240724914dc2a7f08dad75283f21.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.890714
@@ -358,12 +370,6 @@
   level: '?'
   lon: -87.61055
   name:  '5f5a1a66edbd45a5bcdb4032a5f5d782.12'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.004721
-  level: '?'
-  lon: -88.648492
-  name:  '80df240724914dc2a7f08dad75283f21.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.892269
@@ -444,10 +450,16 @@
   name:  'Shield of Chichen Itza'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.657115
+  lat: 42.692701
   level: '?'
-  lon: -88.60708
-  name:  '532328ca4b954a30aea88905015bfbb3.16'
+  lon: -87.803798
+  name:  'a92a36006927432086b7259082c3395b.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.089411
+  level: '?'
+  lon: -87.703213
+  name:  '63e98c81485049568713bb1675d559a8.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.644975
@@ -462,10 +474,10 @@
   name:  '71d41d0e027641a9a8ce927698097c51.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.655142
+  lat: 41.6431
   level: '?'
-  lon: -88.612766
-  name:  '60ec41a74e38400692b94e7f4fada936.16'
+  lon: -88.621943
+  name:  '18f2340c08c6488499145aa62b6bb037.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.645482
@@ -474,16 +486,10 @@
   name:  '6545997ed323475b83d09c4c29516eef.11'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.692701
+  lat: 41.657115
   level: '?'
-  lon: -87.803798
-  name:  'a92a36006927432086b7259082c3395b.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.089411
-  level: '?'
-  lon: -87.703213
-  name:  '63e98c81485049568713bb1675d559a8.16'
+  lon: -88.60708
+  name:  '532328ca4b954a30aea88905015bfbb3.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.537996
@@ -534,10 +540,10 @@
   name:  '28ce48001f37480c9f86a522223dba81.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.6431
+  lat: 41.655142
   level: '?'
-  lon: -88.621943
-  name:  '18f2340c08c6488499145aa62b6bb037.16'
+  lon: -88.612766
+  name:  '60ec41a74e38400692b94e7f4fada936.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.643129
@@ -586,12 +592,6 @@
   level: 6
   lon: -88.241556
   name:  'Champaign Limestone Sidewalk'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/dRrlHXlT2nMNgZNHiYo52ha9L-Xay9DyOJR2Cpqs74hgAJ09abn9OTAtMzRVedt1_R9ObZllLO98vRhNMfgTgVsJCk1S-HJwX_XgiGpG4lz3a328'
-  lat: 40.11671
-  level: 6
-  lon: -88.24263
-  name:  'Cafe Kopi'
 - ap: 2537
   img:  'http://lh4.ggpht.com/QglOgByM0vkX6053iLwC1J5_RJICPxQFhSLw8Nwpeb7Z_EWKBUBylLnuHPIZwJHSL2uw66c5ozET1BxTtt60'
   lat: 40.082434
