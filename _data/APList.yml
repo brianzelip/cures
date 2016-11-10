@@ -161,12 +161,6 @@
   lon: -88.22862
   name:  'Alma Mater Plaza'
 - ap: 5909
-  img:  'http://lh6.ggpht.com/LxVyXEFJmvSZ271mlFfYmCwyb05Kz8cIRxzMt24ZVhRzsH09nxErJw4gKErktjKpCARWfVl4Mla70NoODK2bng'
-  lat: 40.11187
-  level: 5
-  lon: -88.220692
-  name:  'Atmospheric Sciences Building'
-- ap: 5909
   img:  'http://lh5.ggpht.com/28al1CSkHNCrM9Sb57TYmawr1uFh6r5raWMJKD4QjLCj6N5YHEYIIizONs_hHF3pHuIppLjqxbTFcvrI9Dq9'
   lat: 40.111205
   level: 6
@@ -227,6 +221,12 @@
   lon: -88.230181
   name:  'Murphy''s Pub '
 - ap: 4785
+  img:  'http://lh6.ggpht.com/LxVyXEFJmvSZ271mlFfYmCwyb05Kz8cIRxzMt24ZVhRzsH09nxErJw4gKErktjKpCARWfVl4Mla70NoODK2bng'
+  lat: 40.11187
+  level: 5
+  lon: -88.220692
+  name:  'Atmospheric Sciences Building'
+- ap: 4785
   img:  'http://lh6.ggpht.com/D4r1KWBUGF8ZJDUXBHVcNVeP66FVliNQrEX0n-jZkYyFnWUfZ_vfBIAt4padKNgvgmextrkL2-kxkv6JbS3u'
   lat: 40.110394
   level: 5
@@ -286,18 +286,6 @@
   level: 3
   lon: -88.247472
   name:  'Rebecca Mabry Memorial Tree'
-- ap: 3661
-  img:  'http://lh6.ggpht.com/do_DYaj2kuC0reA8E9rCQLDp9K62ZQd4qfV0SBSo8iPPupN2U8_deQ7GHA4zS42XaiZnPqoObG_y_dRCUwNa'
-  lat: 40.11283
-  level: 6
-  lon: -88.209282
-  name:  'Cycling Mural'
-- ap: 3661
-  img:  'http://lh4.ggpht.com/QGRtYb5gsWsiyn9EznIJ0ApB7yWv-SWBAH6CKgO9JRg3PCgn-s8yQMtXPkMDht8dNjPchkCRleUIBT-DnYXh'
-  lat: 40.112928
-  level: 6
-  lon: -88.209039
-  name:  'Courier Cafe'
 - ap: 3511
   img:  'http://lh6.ggpht.com/I-l0KMezFAwrNcsN5-RPQCQbH4VnCa-C2GtwAQwrtAOcyFmOp_PxGmTwtTHCrR-O1hokLKIrtjyzuTsdP1E'
   lat: 40.112048
@@ -395,24 +383,6 @@
   lon: -88.226875
   name:  'Grainger Engineering Library - William W. Grainger Medallion'
 - ap: 3474
-  img:  'http://lh6.ggpht.com/35D1iNCRAADuyy_GrWImGD5u1E_gkdUiJI83zQVCutDNjvgnUMGoJSO5VofyLxsFNKiseGy32YeDyRTB6lqi0Q'
-  lat: 40.112333
-  level: 4
-  lon: -88.208554
-  name:  'Error Records'
-- ap: 3474
-  img:  'http://lh3.ggpht.com/KWHNT4EiiNGpY2l5u1PUHpwnZQcM-ACjcmsF_Ud469mGwgvKWxlH5LM7vyX0NwuZxEcytY7HhFwRRn9onRocwg'
-  lat: 40.112532
-  level: 5
-  lon: -88.208181
-  name:  'Urbana Cinema'
-- ap: 3474
-  img:  'http://lh6.ggpht.com/orpM1lF6sc24rL0AGIiGqg18zTkIPXvZoM2xcA-mKGbaHOESuKbO_RQrwjxW9NTZjG0QqCRU9j2goZUvangFDQ'
-  lat: 40.112894
-  level: 4
-  lon: -88.208433
-  name:  'Boulangerie Mural'
-- ap: 3474
   img:  'http://lh3.ggpht.com/aiChar0HYKb_3M9or6hd38rkSeuoh1TUUL4LtW726Z-JKNYpIttW_3dFH4DHDYGBAkxkwBiz5Ye8_zqttsgs1A'
   lat: 40.092797
   level: 5
@@ -430,6 +400,12 @@
   level: 5
   lon: -88.248086
   name:  'The Hartford'
+- ap: 2724
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.487405
+  level: '?'
+  lon: -87.802521
+  name:  'dec2db54b23e4943876240c2ef90b39b.16'
 - ap: 2724
   img:  'http://lh4.ggpht.com/A15Qc2ImqJFORKlDItFStr3pkJ1pX5dRyG8VO6RoziKIqMOMMTQdJa-fUInsxL4o7Yxg1XNHfexBZuNAyLG0yw'
   lat: 40.132021
@@ -474,10 +450,22 @@
   name:  'Chi Epsilon Civil Engineering'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.487405
+  lat: 41.622097
   level: '?'
-  lon: -87.802521
-  name:  'dec2db54b23e4943876240c2ef90b39b.16'
+  lon: -87.177082
+  name:  'c8121caa21824f56985e8dfbc506d6b5.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.126045
+  level: '?'
+  lon: -89.224365
+  name:  '391aa2a2d1c941d494a24493ee221bed.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.162817
+  level: '?'
+  lon: -88.430244
+  name:  'a0fe4ffcd1144d70bfb83246e6d82e0a.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 44.057619
