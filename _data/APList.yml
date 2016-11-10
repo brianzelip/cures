@@ -101,12 +101,6 @@
   lon: -88.25063
   name:  '"New Holland Yellow Dinosaurs" at Hessel Park'
 - ap: 6098
-  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
-  lat: 40.101327
-  level: 8
-  lon: -88.251412
-  name:  'Zeus Memorial'
-- ap: 6098
   img:  'http://lh4.ggpht.com/B_I1b0Jy3vW41RX8jjCNPP68AULplU0Pf8ddolyKmpEWCfBVShQkmjF1HfTPzDjmBBQGgOs0jHW-rUR0mv8BkA'
   lat: 40.098789
   level: 8
@@ -118,6 +112,12 @@
   level: 8
   lon: -88.251826
   name:  'Irina P. Stewart Memorial Plaque'
+- ap: 6098
+  img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
+  lat: 40.101327
+  level: 8
+  lon: -88.251412
+  name:  'Zeus Memorial'
 - ap: 6098
   img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
   lat: 40.100078
@@ -377,17 +377,17 @@
   lon: -88.235593
   name:  'Fred B Lamb Trail'
 - ap: 2724
-  img:  'http://lh4.ggpht.com/A15Qc2ImqJFORKlDItFStr3pkJ1pX5dRyG8VO6RoziKIqMOMMTQdJa-fUInsxL4o7Yxg1XNHfexBZuNAyLG0yw'
-  lat: 40.132021
-  level: 4
-  lon: -88.31285
-  name:  'Sunset Ridge Park Dedication'
-- ap: 2724
   img:  'http://lh3.ggpht.com/xSCQSCRT6pHyQi9LDI3OamMdZnhLQ06OSlHRHnJC0FkDo93VgOcr3gyAV0aPAKagwq9V5iViSSCgIr6_fWCB'
   lat: 40.134441
   level: 4
   lon: -88.314067
   name:  'Seasons Within the Wetland Environmental Sign'
+- ap: 2724
+  img:  'http://lh4.ggpht.com/A15Qc2ImqJFORKlDItFStr3pkJ1pX5dRyG8VO6RoziKIqMOMMTQdJa-fUInsxL4o7Yxg1XNHfexBZuNAyLG0yw'
+  lat: 40.132021
+  level: 4
+  lon: -88.31285
+  name:  'Sunset Ridge Park Dedication'
 - ap: 2724
   img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
   lat: 40.130352
@@ -418,6 +418,18 @@
   level: 2
   lon: -88.227096
   name:  'Chi Epsilon Civil Engineering'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.450455
+  level: '?'
+  lon: -87.801488
+  name:  'f4c8845a891749f4902f6b1ac4a7224d.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.772529
+  level: '?'
+  lon: -86.215837
+  name:  '64f91a4e227149ce937f5fb293786cd9.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.123418
@@ -533,18 +545,6 @@
   lon: -88.227781
   name:  'Electrical & Computer Engineering Building'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/0WV0zgKIo2AbnMTwJXYSM-C6nik92XvxsPKcZps2SdFzIWJ2bY4k2dHAqdImb1hTCK910NMvQYoKlwWprt6c'
-  lat: 40.12034
-  level: 4
-  lon: -88.211743
-  name:  'Alice Mimi Muller Dedication Plaque'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/jW-2Ce-dZ1Q0ljxUo3Cv-jckhBnpc4tF_LgZS1keMALkHV6RdWqDFJ2IDEj9bbeUrZbHubk7zNmzoHoLXmA'
-  lat: 40.121037
-  level: 5
-  lon: -88.21093
-  name:  'A Fountain in the Forest'
-- ap: 2537
   img:  'http://lh6.ggpht.com/s0NjKuARUySFKyN76g9Vr1UymiO5a-Ev822C0UEiLqAFzFggW39lRKoYierDtj89xVWRDioyodaQ1Ve0SGBBXA'
   lat: 40.121861
   level: 5
@@ -557,6 +557,18 @@
   lon: -88.200203
   name:  'Dane Michael Sherr Memorial '
 - ap: 2537
+  img:  'http://lh6.ggpht.com/0WV0zgKIo2AbnMTwJXYSM-C6nik92XvxsPKcZps2SdFzIWJ2bY4k2dHAqdImb1hTCK910NMvQYoKlwWprt6c'
+  lat: 40.12034
+  level: 4
+  lon: -88.211743
+  name:  'Alice Mimi Muller Dedication Plaque'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/jW-2Ce-dZ1Q0ljxUo3Cv-jckhBnpc4tF_LgZS1keMALkHV6RdWqDFJ2IDEj9bbeUrZbHubk7zNmzoHoLXmA'
+  lat: 40.121037
+  level: 5
+  lon: -88.21093
+  name:  'A Fountain in the Forest'
+- ap: 2537
   img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
   lat: 40.128504
   level: 5
@@ -568,15 +580,3 @@
   level: 5
   lon: -88.216064
   name:  'Dr. Frank W. Kari Memorial'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.450455
-  level: '?'
-  lon: -87.801488
-  name:  'f4c8845a891749f4902f6b1ac4a7224d.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.772529
-  level: '?'
-  lon: -86.215837
-  name:  '64f91a4e227149ce937f5fb293786cd9.16'
