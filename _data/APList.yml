@@ -17,6 +17,12 @@
   lon: -88.242373
   name:  'Richard D James Mural'
 - ap: 8909
+  img:  'http://lh6.ggpht.com/rGhR45ZFbHtxmrZSSy9V19eFoyHIDB42c6MK188isPJFWpUsW9ywNHayKt3acNvKNC8DAV6mDkUloj3aiS4'
+  lat: 40.118422
+  level: 6
+  lon: -88.24346
+  name:  'Entrance'
+- ap: 8909
   img:  'http://lh3.ggpht.com/lzCSS0_tjwUV7JQ2fgLI0e05IrzPxlVUs-6aEPOwUv67IanQJSTi71gkw0SGm8asmoE_r3Xoh048Fd9xRpE'
   lat: 40.099169
   level: 8
@@ -34,12 +40,6 @@
   level: 6
   lon: -88.226793
   name:  'Bardeen Quad Structure'
-- ap: 8722
-  img:  'http://lh6.ggpht.com/rGhR45ZFbHtxmrZSSy9V19eFoyHIDB42c6MK188isPJFWpUsW9ywNHayKt3acNvKNC8DAV6mDkUloj3aiS4'
-  lat: 40.118422
-  level: 6
-  lon: -88.24346
-  name:  'Entrance'
 - ap: 8722
   img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
   lat: 40.099737
@@ -247,7 +247,7 @@
 - ap: 5161
   img:  'http://lh5.ggpht.com/nirQKdy3s9r8TSV7cB7_B0l-0EsFXBkg1aitH05R0ttPhOEewGxlq1GRnlDvYFT2V8Z91hWnB9YD3WjxBvyZ'
   lat: 40.11868
-  level: 3
+  level: 4
   lon: -88.243426
   name:  '"Pointless"'
 - ap: 5161
@@ -323,23 +323,11 @@
   lon: -88.231968
   name:  'Potbelly Mural'
 - ap: 3848
-  img:  'http://lh5.ggpht.com/c-upLAoA6V12_Enn5doC2Hqtp3W9dLMIb34VHt0aVni2lW2OF5Lddn2c-1XcxmmaN7um9eyxqOF5c3c0hs4'
-  lat: 40.118139
-  level: 5
-  lon: -88.248407
-  name:  'The Americans Creed'
-- ap: 3848
   img:  'http://lh5.ggpht.com/AmsS7GEfFX-_Icem2DP6mjQahV1jeut1CGdeqLqfpyzx0m5SqhVY4eoAohizF0xsevPQufmLRMoVj2rW7Fe8'
   lat: 40.111689
   level: 6
   lon: -88.231193
   name:  'Koi Building Art'
-- ap: 3361
-  img:  'http://lh4.ggpht.com/7jfpHo9VtrONulGtzUfsP3lI3AsKBnUxCQaLU9xAMpVCQbWD24db4z9Otn0Sfz_OnEXSbdwKUGm3MZBV6QZrhQ'
-  lat: 40.117194
-  level: 3
-  lon: -88.247472
-  name:  'Rebecca Mabry Memorial Tree'
 - ap: 3661
   img:  'http://lh6.ggpht.com/cUV2o6ZPyJSFnHYl7jePeUIS7BrVr1H5D8Zbf7B3B8ALrTq7pTI3e271i1DHztqUGXITpiA399P3vNP83fk0'
   lat: 40.105767
@@ -364,12 +352,6 @@
   level: 5
   lon: -88.216599
   name:  'Frank Kari Memorial Bench'
-- ap: 3474
-  img:  'http://lh3.ggpht.com/I2Up882o0nHzQof3uWaDFK7KQHkYOu1XgKoXUgQotITYJDh--80GzLnOSI8TxKF3RxsF32zcsYmRF8Fiugpt'
-  lat: 40.116413
-  level: 5
-  lon: -88.249814
-  name:  'West Side Park'
 - ap: 3474
   img:  'http://lh4.ggpht.com/OKjZe5DNbqsjBvhTWI2C_GTSbIMUanllb49pzoadj3izBmngp5kFNgLokw6jbL1Y3BnreLD-LmzLdNEx-eRI'
   lat: 40.105694
@@ -400,10 +382,10 @@
   level: 5
   lon: -88.234589
   name:  'Koinonia Plaque'
-- ap: 3249
+- ap: 3474
   img:  'http://lh6.ggpht.com/POBAhJlStu1uLv82RPSkd8lKQyojPByrKqAwgiZPyXTHQcNTCN7rkJM376YcVpMmZZVMgiXz9J1BXanexyA643e-FR9M70tksLdb1akPUe2Ra_xCyw'
   lat: 40.112411
-  level: 4
+  level: 6
   lon: -88.226875
   name:  'Grainger Engineering Library - William W. Grainger Medallion'
 - ap: 3474
@@ -443,23 +425,29 @@
   lon: -87.801488
   name:  'f4c8845a891749f4902f6b1ac4a7224d.16'
 - ap: 2724
-  img:  'http://lh3.ggpht.com/xSCQSCRT6pHyQi9LDI3OamMdZnhLQ06OSlHRHnJC0FkDo93VgOcr3gyAV0aPAKagwq9V5iViSSCgIr6_fWCB'
-  lat: 40.134441
-  level: 4
-  lon: -88.314067
-  name:  'Seasons Within the Wetland Environmental Sign'
-- ap: 2724
   img:  'http://lh4.ggpht.com/A15Qc2ImqJFORKlDItFStr3pkJ1pX5dRyG8VO6RoziKIqMOMMTQdJa-fUInsxL4o7Yxg1XNHfexBZuNAyLG0yw'
   lat: 40.132021
   level: 4
   lon: -88.31285
   name:  'Sunset Ridge Park Dedication'
 - ap: 2724
+  img:  'http://lh3.ggpht.com/xSCQSCRT6pHyQi9LDI3OamMdZnhLQ06OSlHRHnJC0FkDo93VgOcr3gyAV0aPAKagwq9V5iViSSCgIr6_fWCB'
+  lat: 40.134441
+  level: 4
+  lon: -88.314067
+  name:  'Seasons Within the Wetland Environmental Sign'
+- ap: 2724
   img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
   lat: 40.130352
   level: 5
   lon: -88.198604
   name:  'Circle K 1809 North Cunningham Ave'
+- ap: 2724
+  img:  'http://lh5.ggpht.com/c-upLAoA6V12_Enn5doC2Hqtp3W9dLMIb34VHt0aVni2lW2OF5Lddn2c-1XcxmmaN7um9eyxqOF5c3c0hs4'
+  lat: 40.118139
+  level: 5
+  lon: -88.248407
+  name:  'The Americans Creed'
 - ap: 2724
   img:  'http://lh5.ggpht.com/vYay8RKsCV_BP_MkeFm7se0VZoYthm-1pThiATAADleBlTsPowobgZyUoU7DUto6p5cpg9adpCcTgNR6iop0Jw'
   lat: 40.120121
@@ -504,12 +492,6 @@
   name:  'c210ef6ea9364de1b73af3970d633d39.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.772529
-  level: '?'
-  lon: -86.215837
-  name:  '64f91a4e227149ce937f5fb293786cd9.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.123418
   level: '?'
   lon: -88.500156
@@ -520,6 +502,12 @@
   level: '?'
   lon: -88.164341
   name:  '603cefccb2e54229844e6214b53c9fcb.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.772529
+  level: '?'
+  lon: -86.215837
+  name:  '64f91a4e227149ce937f5fb293786cd9.16'
 - ap: 2537
   img:  'http://lh6.ggpht.com/ocpQF23CdY7CXPOYMbPL3wLLV7Rc0VayvSyooA07il2lG0oiiQDbDCnsKqO1ysXJAVlzGikCKS-kVOLb6rog'
   lat: 40.135079
@@ -551,11 +539,23 @@
   lon: -88.244611
   name:  'Marketplace Mall Carousel'
 - ap: 2537
+  img:  'http://lh3.ggpht.com/I2Up882o0nHzQof3uWaDFK7KQHkYOu1XgKoXUgQotITYJDh--80GzLnOSI8TxKF3RxsF32zcsYmRF8Fiugpt'
+  lat: 40.116413
+  level: 5
+  lon: -88.249814
+  name:  'West Side Park'
+- ap: 2537
   img:  'http://lh3.ggpht.com/psgrRGIt786cUSq8EV7SBSDsS-aptrUKjaCXWv864H7OaJL2K71qJpxU9Iw-acwFMi52ZN2qpEmicGmlmhJq'
   lat: 40.121061
   level: 5
   lon: -88.250227
   name:  'Curtis F. Columbia Legacy Plaque'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/nbUJivBo0zF8f8aBbk1GwakUpPbLUVOoEovTTETYwJvfNIHXwG9XUbwoV0x-ly4ZO5Hsyv5KPo3c9cE6Nh8'
+  lat: 40.118832
+  level: 4
+  lon: -88.243643
+  name:  'Tesla Ball'
 - ap: 2537
   img:  'http://lh4.ggpht.com/mBh7Vhpz2XOa9MVuATZzG-ie79_beq3-gQECGRvDRnArnk-6oBxUAkzZN2gXnwbDEKWdK_mmGzDHG_j3ge8'
   lat: 40.120352
