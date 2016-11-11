@@ -64,6 +64,12 @@
   level: 7
   lon: -88.22862
   name:  'Alma Mater Plaza'
+- ap: 6659
+  img:  'http://lh3.googleusercontent.com/v44Gf5oEZGcwkQcA2wWz-uAeDFESHj7sEloxdCJd316RPH3w_ln8_9mBEMbAqGyI_2Y2qaYp525PnRip9Rg'
+  lat: 40.105315
+  level: 5
+  lon: -88.226125
+  name:  'U of I Observatory'
 - ap: 6472
   img:  'http://lh5.ggpht.com/4eagHlnlpVbtFi_knZN73PIs2A--Ipj6SOlkQADePlfnzfOnJn-cAv0IoNNv4qR8WrbUFImUKHBknyaoAewO'
   lat: 40.111383
@@ -137,12 +143,6 @@
   lon: -88.233753
   name:  'Chabad Menorah'
 - ap: 5722
-  img:  'http://lh3.googleusercontent.com/v44Gf5oEZGcwkQcA2wWz-uAeDFESHj7sEloxdCJd316RPH3w_ln8_9mBEMbAqGyI_2Y2qaYp525PnRip9Rg'
-  lat: 40.105315
-  level: 5
-  lon: -88.226125
-  name:  'U of I Observatory'
-- ap: 5722
   img:  'http://lh5.ggpht.com/dEeT4acpLu-WQFlZWd3psap5qAqqPTSVzm8Qt1QtpqtwZ0j1V9eKFcmpgN9K_x1PL4XVchuevw25rxHekz3tvQ'
   lat: 40.111968
   level: 6
@@ -185,6 +185,12 @@
   lon: -88.229031
   name:  'Illini Hall'
 - ap: 5348
+  img:  'http://lh5.ggpht.com/J4IbsPUjPF6cIlktTr1tOGHi61krS9o1eXeuAlPRBrSYUQrwdyShfNzuzxD0epa_cBMPF1xJ9YhoBA5VOQtYRw'
+  lat: 40.105467
+  level: 4
+  lon: -88.225644
+  name:  'Smith Music Hall'
+- ap: 5348
   img:  'http://lh5.ggpht.com/28al1CSkHNCrM9Sb57TYmawr1uFh6r5raWMJKD4QjLCj6N5YHEYIIizONs_hHF3pHuIppLjqxbTFcvrI9Dq9'
   lat: 40.111205
   level: 6
@@ -226,7 +232,7 @@
   level: 5
   lon: -88.219509
   name:  'University Of Illinois'
-- ap: 4411
+- ap: 4598
   img:  'http://lh3.googleusercontent.com/FMrsRGg4e1AuMu6m4uCIpM5nawtelx8reIfMtog4nuxXU9C7--UKQnUEAm9s4Vc7OfMjfIDX5loNOw4Agz2HAw'
   lat: 40.118715
   level: 6
@@ -262,12 +268,6 @@
   level: 4
   lon: -88.22564
   name:  'Andrew De Grado Memorial'
-- ap: 4411
-  img:  'http://lh5.ggpht.com/J4IbsPUjPF6cIlktTr1tOGHi61krS9o1eXeuAlPRBrSYUQrwdyShfNzuzxD0epa_cBMPF1xJ9YhoBA5VOQtYRw'
-  lat: 40.105467
-  level: 4
-  lon: -88.225644
-  name:  'Smith Music Hall'
 - ap: 4411
   img:  'http://lh4.ggpht.com/OKjZe5DNbqsjBvhTWI2C_GTSbIMUanllb49pzoadj3izBmngp5kFNgLokw6jbL1Y3BnreLD-LmzLdNEx-eRI'
   lat: 40.105694
@@ -311,18 +311,6 @@
   lon: -88.227096
   name:  'Chi Epsilon Civil Engineering'
 - ap: 3661
-  img:  'http://lh6.ggpht.com/3Z_ahLKZKpEJ_5dh8wG1jTBp6wvIadDrU8lnAkZ4flL_mtxKtbh2HxixutEK3usEaP47L6jU0VA1by70WIuJ'
-  lat: 40.110984
-  level: 2
-  lon: -88.196857
-  name:  'Victory Park South Entrance'
-- ap: 3661
-  img:  'http://lh3.ggpht.com/9nRBPBevoSH63TqH_TIguV2jgvD-cPd6EMEg6i9iTDzR_ciJpmWoK-FK3WDc0M9qnBhPQjn7uZEMwAT9icqY'
-  lat: 40.112227
-  level: 2
-  lon: -88.196705
-  name:  'Victory Park Neighborhood Gardens'
-- ap: 3661
   img:  'http://lh3.ggpht.com/Q2rFQkcNHwItWNXX2B0B65sANQ_gCk482p2HilMp7BeswGN9qevW8WBFQ1zUg2xkvlz8bqbDCg-C5NaxK2Jf'
   lat: 40.092639
   level: 5
@@ -365,6 +353,12 @@
   lon: -88.228706
   name:  'Leo Roy Tehon Memorial'
 - ap: 3474
+  img:  'http://lh6.ggpht.com/cUV2o6ZPyJSFnHYl7jePeUIS7BrVr1H5D8Zbf7B3B8ALrTq7pTI3e271i1DHztqUGXITpiA399P3vNP83fk0'
+  lat: 40.105767
+  level: 6
+  lon: -88.223378
+  name:  'Busey Hall'
+- ap: 3474
   img:  'http://lh4.ggpht.com/d3UqrcK5M1wuOe19dIaBUOkrXF4C9IxhOWfxqzM4zIHkGsUIRb1mckNapOMRkkCtVIe0rzJumb1OVDVc1_Y'
   lat: 40.108055
   level: 5
@@ -401,12 +395,6 @@
   lon: -88.208181
   name:  'Urbana Cinema'
 - ap: 3474
-  img:  'http://lh4.ggpht.com/DvS6go5Krx0CocEL5s29eIW_bm_5HDMdSrRgfi7i3uLEXMkzxPLKWMX24OvVm9geOAeqRlmoqv4HQWwH-d_vfg'
-  lat: 40.11075
-  level: 2
-  lon: -88.198278
-  name:  'Urbana Baha''i Center'
-- ap: 3474
   img:  'http://lh3.ggpht.com/aiChar0HYKb_3M9or6hd38rkSeuoh1TUUL4LtW726Z-JKNYpIttW_3dFH4DHDYGBAkxkwBiz5Ye8_zqttsgs1A'
   lat: 40.092797
   level: 5
@@ -431,17 +419,17 @@
   lon: -87.801488
   name:  'f4c8845a891749f4902f6b1ac4a7224d.16'
 - ap: 2724
-  img:  'http://lh4.ggpht.com/A15Qc2ImqJFORKlDItFStr3pkJ1pX5dRyG8VO6RoziKIqMOMMTQdJa-fUInsxL4o7Yxg1XNHfexBZuNAyLG0yw'
-  lat: 40.132021
-  level: 4
-  lon: -88.31285
-  name:  'Sunset Ridge Park Dedication'
-- ap: 2724
   img:  'http://lh3.ggpht.com/xSCQSCRT6pHyQi9LDI3OamMdZnhLQ06OSlHRHnJC0FkDo93VgOcr3gyAV0aPAKagwq9V5iViSSCgIr6_fWCB'
   lat: 40.134441
   level: 4
   lon: -88.314067
   name:  'Seasons Within the Wetland Environmental Sign'
+- ap: 2724
+  img:  'http://lh4.ggpht.com/A15Qc2ImqJFORKlDItFStr3pkJ1pX5dRyG8VO6RoziKIqMOMMTQdJa-fUInsxL4o7Yxg1XNHfexBZuNAyLG0yw'
+  lat: 40.132021
+  level: 4
+  lon: -88.31285
+  name:  'Sunset Ridge Park Dedication'
 - ap: 2724
   img:  'http://lh5.ggpht.com/c-upLAoA6V12_Enn5doC2Hqtp3W9dLMIb34VHt0aVni2lW2OF5Lddn2c-1XcxmmaN7um9eyxqOF5c3c0hs4'
   lat: 40.118139
@@ -460,6 +448,12 @@
   level: 5
   lon: -88.251967
   name:  'Sesquicentennial Neighborhood Sign'
+- ap: 2724
+  img:  'http://lh5.ggpht.com/KYppjeOoIlb4lbowRrrC5qRdYW7_KU8rzjtDMpvhh-Q_c6VZOTtVmOqmmxChJA2hjlpS5dJ1JnhUQcKUAXDWHA'
+  lat: 40.117976
+  level: 5
+  lon: -88.242642
+  name:  'Stevick Building'
 - ap: 2724
   img:  'http://lh3.ggpht.com/jW-2Ce-dZ1Q0ljxUo3Cv-jckhBnpc4tF_LgZS1keMALkHV6RdWqDFJ2IDEj9bbeUrZbHubk7zNmzoHoLXmA'
   lat: 40.121037
@@ -580,6 +574,12 @@
   level: 5
   lon: -88.245551
   name:  'The Virginia Theater'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/bltQwmnzp2vSKYhLpzNLqB4iddy6ie0kWk9G7Wce4U9qmW3CABxbXAhF7v0oG9QLFD2q57UZuVqZCMgN3MHZfA'
+  lat: 40.118335
+  level: 5
+  lon: -88.243408
+  name:  'Downtown Fountain'
 - ap: 2387
   img:  'http://lh5.ggpht.com/UTu16bRRNKyJj2cFsU4mRCMkGJbH7YCAm0gQdiJKjnnZtB00kMEb_-Lhf6AnAXRia4MH6FBrWQGkBCrMUz8'
   lat: 40.120135
@@ -658,6 +658,18 @@
   level: 5
   lon: -88.202624
   name:  'Roger Ebert Plaque'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/DvS6go5Krx0CocEL5s29eIW_bm_5HDMdSrRgfi7i3uLEXMkzxPLKWMX24OvVm9geOAeqRlmoqv4HQWwH-d_vfg'
+  lat: 40.11075
+  level: 2
+  lon: -88.198278
+  name:  'Urbana Baha''i Center'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/3Z_ahLKZKpEJ_5dh8wG1jTBp6wvIadDrU8lnAkZ4flL_mtxKtbh2HxixutEK3usEaP47L6jU0VA1by70WIuJ'
+  lat: 40.110984
+  level: 2
+  lon: -88.196857
+  name:  'Victory Park South Entrance'
 - ap: 2537
   img:  'http://lh5.ggpht.com/dzjsWdreD6jZuCG_DDonrZu-gYlDIxk5j3rPzt67sbmq7yWjo9I_Op69SM3fzvlGKnlp8QMGcztFWOhpSe4'
   lat: 40.093629
