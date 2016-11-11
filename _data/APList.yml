@@ -17,17 +17,17 @@
   lon: -88.251419
   name:  'Lyman Larson Memorial'
 - ap: 8909
-  img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
-  lat: 40.099852
-  level: 8
-  lon: -88.251947
-  name:  'Our Friend Tim Palmer'
-- ap: 8909
   img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
   lat: 40.099353
   level: 8
   lon: -88.251876
   name:  'Raymond B. Cattell Memorial'
+- ap: 8909
+  img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
+  lat: 40.099852
+  level: 8
+  lon: -88.251947
+  name:  'Our Friend Tim Palmer'
 - ap: 8722
   img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
   lat: 40.099737
@@ -64,6 +64,12 @@
   level: 6
   lon: -88.225353
   name:  'Transportation Building - University Of Illinois'
+- ap: 6472
+  img:  'http://lh3.googleusercontent.com/FMrsRGg4e1AuMu6m4uCIpM5nawtelx8reIfMtog4nuxXU9C7--UKQnUEAm9s4Vc7OfMjfIDX5loNOw4Agz2HAw'
+  lat: 40.118715
+  level: 6
+  lon: -88.242373
+  name:  'Richard D James Mural'
 - ap: 6472
   img:  'http://lh5.ggpht.com/4eagHlnlpVbtFi_knZN73PIs2A--Ipj6SOlkQADePlfnzfOnJn-cAv0IoNNv4qR8WrbUFImUKHBknyaoAewO'
   lat: 40.111383
@@ -137,11 +143,11 @@
   lon: -88.226793
   name:  'Bardeen Quad Structure'
 - ap: 5535
-  img:  'http://lh3.googleusercontent.com/FMrsRGg4e1AuMu6m4uCIpM5nawtelx8reIfMtog4nuxXU9C7--UKQnUEAm9s4Vc7OfMjfIDX5loNOw4Agz2HAw'
-  lat: 40.118715
+  img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
+  lat: 40.117107
   level: 6
-  lon: -88.242373
-  name:  'Richard D James Mural'
+  lon: -88.242467
+  name:  'Radio Maria'
 - ap: 5535
   img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
   lat: 40.098239
@@ -202,12 +208,12 @@
   level: 5
   lon: -88.220692
   name:  'Atmospheric Sciences Building'
-- ap: 4785
-  img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
-  lat: 40.117107
+- ap: 4598
+  img:  'http://lh5.ggpht.com/kcTMx3CqTnXQqNvx00fF4K5HQ34eOunlWHiU7JEB4nKyl3U14EbEpsqxVT2opoz78bQFDtIZR0IKDuewhKCG'
+  lat: 40.119409
   level: 6
-  lon: -88.242467
-  name:  'Radio Maria'
+  lon: -88.242244
+  name:  'Vintage Orpheum Artwork'
 - ap: 4411
   img:  'http://lh5.ggpht.com/D9O580D9hlBOqeMvt2V4nL-eHP62h4vG4YFgk-WTw7GunusU9AOffFuHZ9XYWoB8YrGxpCMu2Y77-LCAgcdT'
   lat: 40.119328
@@ -250,12 +256,6 @@
   level: 6
   lon: -88.224492
   name:  'Siebel Courtyard Structure'
-- ap: 3661
-  img:  'http://lh5.ggpht.com/kcTMx3CqTnXQqNvx00fF4K5HQ34eOunlWHiU7JEB4nKyl3U14EbEpsqxVT2opoz78bQFDtIZR0IKDuewhKCG'
-  lat: 40.119409
-  level: 6
-  lon: -88.242244
-  name:  'Vintage Orpheum Artwork'
 - ap: 3661
   img:  'http://lh5.ggpht.com/ZDv0mHiZcEfLxGVibvfnMCu7reJceCVnxa4GeBjK2DO4Y4a0x-M7C2M0rEam-_bPlr2e2476RXe15pRY48s'
   lat: 40.114351
@@ -377,29 +377,29 @@
   lon: -87.801488
   name:  'f4c8845a891749f4902f6b1ac4a7224d.16'
 - ap: 2724
-  img:  'http://lh4.ggpht.com/A15Qc2ImqJFORKlDItFStr3pkJ1pX5dRyG8VO6RoziKIqMOMMTQdJa-fUInsxL4o7Yxg1XNHfexBZuNAyLG0yw'
-  lat: 40.132021
-  level: 4
-  lon: -88.31285
-  name:  'Sunset Ridge Park Dedication'
-- ap: 2724
   img:  'http://lh3.ggpht.com/xSCQSCRT6pHyQi9LDI3OamMdZnhLQ06OSlHRHnJC0FkDo93VgOcr3gyAV0aPAKagwq9V5iViSSCgIr6_fWCB'
   lat: 40.134441
   level: 4
   lon: -88.314067
   name:  'Seasons Within the Wetland Environmental Sign'
 - ap: 2724
-  img:  'http://lh5.ggpht.com/vYay8RKsCV_BP_MkeFm7se0VZoYthm-1pThiATAADleBlTsPowobgZyUoU7DUto6p5cpg9adpCcTgNR6iop0Jw'
-  lat: 40.120121
-  level: 5
-  lon: -88.251967
-  name:  'Sesquicentennial Neighborhood Sign'
+  img:  'http://lh4.ggpht.com/A15Qc2ImqJFORKlDItFStr3pkJ1pX5dRyG8VO6RoziKIqMOMMTQdJa-fUInsxL4o7Yxg1XNHfexBZuNAyLG0yw'
+  lat: 40.132021
+  level: 4
+  lon: -88.31285
+  name:  'Sunset Ridge Park Dedication'
 - ap: 2724
   img:  'http://lh5.ggpht.com/c-upLAoA6V12_Enn5doC2Hqtp3W9dLMIb34VHt0aVni2lW2OF5Lddn2c-1XcxmmaN7um9eyxqOF5c3c0hs4'
   lat: 40.118139
   level: 5
   lon: -88.248407
   name:  'The Americans Creed'
+- ap: 2724
+  img:  'http://lh5.ggpht.com/vYay8RKsCV_BP_MkeFm7se0VZoYthm-1pThiATAADleBlTsPowobgZyUoU7DUto6p5cpg9adpCcTgNR6iop0Jw'
+  lat: 40.120121
+  level: 5
+  lon: -88.251967
+  name:  'Sesquicentennial Neighborhood Sign'
 - ap: 2724
   img:  'http://lh3.ggpht.com/jW-2Ce-dZ1Q0ljxUo3Cv-jckhBnpc4tF_LgZS1keMALkHV6RdWqDFJ2IDEj9bbeUrZbHubk7zNmzoHoLXmA'
   lat: 40.121037
@@ -515,17 +515,17 @@
   lon: -88.244611
   name:  'Marketplace Mall Carousel'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/psgrRGIt786cUSq8EV7SBSDsS-aptrUKjaCXWv864H7OaJL2K71qJpxU9Iw-acwFMi52ZN2qpEmicGmlmhJq'
-  lat: 40.121061
-  level: 5
-  lon: -88.250227
-  name:  'Curtis F. Columbia Legacy Plaque'
-- ap: 2537
   img:  'http://lh3.ggpht.com/I2Up882o0nHzQof3uWaDFK7KQHkYOu1XgKoXUgQotITYJDh--80GzLnOSI8TxKF3RxsF32zcsYmRF8Fiugpt'
   lat: 40.116413
   level: 5
   lon: -88.249814
   name:  'West Side Park'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/psgrRGIt786cUSq8EV7SBSDsS-aptrUKjaCXWv864H7OaJL2K71qJpxU9Iw-acwFMi52ZN2qpEmicGmlmhJq'
+  lat: 40.121061
+  level: 5
+  lon: -88.250227
+  name:  'Curtis F. Columbia Legacy Plaque'
 - ap: 2537
   img:  'http://lh5.ggpht.com/EoSf8hHJu8u_sZNBmm3S1GHAWAxUzBsmXEWMMBkHb0fpzxtjz5RHwnclV42-DDwyDr2BION1zqJ4sLIkaiw'
   lat: 40.121818
