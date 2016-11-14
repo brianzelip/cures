@@ -214,10 +214,10 @@
   level: 4
   lon: -88.329182
   name:  'Environmental Plaque - Woodland'
-- ap: 4785
+- ap: 4410
   img:  'http://lh3.googleusercontent.com/NRpdP-ebGuykq3sH1NZBQVjhmSdVJW3F4MTCRdXrWKQf3Z5dBgo0Phhyqnel5IrJmriQRmJNFR12lRDrjxJ9'
   lat: 40.114911
-  level: 6
+  level: 2
   lon: -88.227781
   name:  'Electrical & Computer Engineering Building'
 - ap: 4598
@@ -226,6 +226,12 @@
   level: 7
   lon: -88.244611
   name:  'Marketplace Mall Carousel'
+- ap: 4598
+  img:  'http://lh6.ggpht.com/hmDofhQgtMboyY40gAShyf0g__uH_qYaFzVKnGKShUBNn-JjwpN526PPOYKyq8kvusIGRrMQIZ7ozPedDVm4iA'
+  lat: 40.117495
+  level: 5
+  lon: -88.241616
+  name:  'Lincoln Building'
 - ap: 4598
   img:  'http://lh5.ggpht.com/dRrlHXlT2nMNgZNHiYo52ha9L-Xay9DyOJR2Cpqs74hgAJ09abn9OTAtMzRVedt1_R9ObZllLO98vRhNMfgTgVsJCk1S-HJwX_XgiGpG4lz3a328'
   lat: 40.11671
@@ -395,17 +401,23 @@
   lon: -88.244603
   name:  'Italian Statue'
 - ap: 3474
-  img:  'http://lh6.ggpht.com/hmDofhQgtMboyY40gAShyf0g__uH_qYaFzVKnGKShUBNn-JjwpN526PPOYKyq8kvusIGRrMQIZ7ozPedDVm4iA'
-  lat: 40.117495
-  level: 5
-  lon: -88.241616
-  name:  'Lincoln Building'
-- ap: 3474
   img:  'http://lh6.ggpht.com/ea6HxAw7m0OhhPqJJkZR9u60pR1sab_JdxaOyEltqmQd-63FFJzPY72jEnu08g9Gcjjj5cf3jyyS_M1E7OIbfg'
   lat: 40.11616
   level: 6
   lon: -88.241422
   name:  'It''s A Mistree'
+- ap: 3474
+  img:  'http://lh5.ggpht.com/nirQKdy3s9r8TSV7cB7_B0l-0EsFXBkg1aitH05R0ttPhOEewGxlq1GRnlDvYFT2V8Z91hWnB9YD3WjxBvyZ'
+  lat: 40.11868
+  level: 3
+  lon: -88.243426
+  name:  '"Pointless"'
+- ap: 3474
+  img:  'http://lh3.ggpht.com/1G0o5RjtXyfAjbI-E2honhhelnuiq4lIkpHmB44e-AwSBuIxVOdLPVYjImbTMS8kyBdZuKuiMQHciUIdAWg'
+  lat: 40.118368
+  level: 3
+  lon: -88.243737
+  name:  'Frank Robeson Memorial'
 - ap: 3474
   img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
   lat: 40.116989
@@ -454,6 +466,24 @@
   level: 6
   lon: -88.231968
   name:  'Potbelly Mural'
+- ap: 3474
+  img:  'http://lh6.ggpht.com/1El0oK6CWDh7rAQeFmPEW_dA252pdq7piTtjtuQCkZvwRa689NLjEafLqQ35TI5qCW3Lmhja9PLQqKxFs9Ha'
+  lat: 40.110627
+  level: 1
+  lon: -88.227584
+  name:  'Tau Beta Pi Statue'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/RF7EbCh1YRbFHfis_PEc88NF1v4Ndhj-Rm7rrlY7F8s-Mrv1EMEFnajFbYiNffZ_3kMNL80Zv-_jtaMYMtLA'
+  lat: 40.110655
+  level: 1
+  lon: -88.22725
+  name:  'Gothic Brass'
+- ap: 3474
+  img:  'http://lh5.ggpht.com/LPlCgoOAlClRaVCl_B1sHDkn38OgDbXat-l5Q1bDZLP7mOUMfU8pK-o3N8BEqh0vHJcZBHo3iz2AMQKAhot7Tw'
+  lat: 40.110833
+  level: 2
+  lon: -88.227425
+  name:  'Engineering Class of 1975 Monument'
 - ap: 3474
   img:  'http://lh5.ggpht.com/28al1CSkHNCrM9Sb57TYmawr1uFh6r5raWMJKD4QjLCj6N5YHEYIIizONs_hHF3pHuIppLjqxbTFcvrI9Dq9'
   lat: 40.111205
@@ -522,6 +552,12 @@
   name:  '9abb6fd5991944988f80a64a119844ca.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.010913
+  level: '?'
+  lon: -90.382649
+  name:  '1d0f9709e7c749ae89c41688882c62dd.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.49019
   level: '?'
   lon: -87.803714
@@ -534,10 +570,16 @@
   name:  '64f91a4e227149ce937f5fb293786cd9.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.010913
+  lat: 41.05718
   level: '?'
-  lon: -90.382649
-  name:  '1d0f9709e7c749ae89c41688882c62dd.16'
+  lon: -90.381873
+  name:  '28834c9a592f424a9df43c0869aca70c.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.013323
+  level: '?'
+  lon: -90.384371
+  name:  '913fd3c10199419dba943ed7a486d8e9.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.765347
@@ -550,18 +592,6 @@
   level: '?'
   lon: -87.61651
   name:  'cd1f4cd7926d4476b7a6e29041be32e8.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.05718
-  level: '?'
-  lon: -90.381873
-  name:  '28834c9a592f424a9df43c0869aca70c.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.013323
-  level: '?'
-  lon: -90.384371
-  name:  '913fd3c10199419dba943ed7a486d8e9.16'
 - ap: 2537
   img:  'http://lh6.ggpht.com/ocpQF23CdY7CXPOYMbPL3wLLV7Rc0VayvSyooA07il2lG0oiiQDbDCnsKqO1ysXJAVlzGikCKS-kVOLb6rog'
   lat: 40.135079
@@ -610,6 +640,18 @@
   level: 2
   lon: -88.222608
   name:  'King Park Tennis Courts'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/QKHOcl5WKE1EB7Y8PfPqhuJQN7SxpWIvLb13vJp2KJC61ToSi1evTEpgeOtPjAfKuIlQnBq1tApVM5TwJHI'
+  lat: 40.118042
+  level: 2
+  lon: -88.248912
+  name:  'Indian War Memorial'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/ka79B_ahK9kHLiOCOnKsp3SooZlPGgMuIOO25OaqPU7eoUALOBzaa40ZCStdo4v6rCYW0VS_pNgW3PJyUDKxpXI-n55zohIxJwRJEq5gslJKwS5ykQ'
+  lat: 40.11794
+  level: 2
+  lon: -88.248679
+  name:  'Fonderia'
 - ap: 2537
   img:  'http://lh4.ggpht.com/2tHD_AHYQu0kWuwLX2HMYWBG4txVkuWsBEfzWLL39npWp8kMSHiUKxSJM1E7yhimuMVUJ-RIlSSKsgjETvtr'
   lat: 40.110524
