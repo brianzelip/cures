@@ -161,6 +161,12 @@
   lon: -88.224492
   name:  'Siebel Courtyard Structure'
 - ap: 5161
+  img:  'http://lh5.ggpht.com/nirQKdy3s9r8TSV7cB7_B0l-0EsFXBkg1aitH05R0ttPhOEewGxlq1GRnlDvYFT2V8Z91hWnB9YD3WjxBvyZ'
+  lat: 40.11868
+  level: 3
+  lon: -88.243426
+  name:  '"Pointless"'
+- ap: 5161
   img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
   lat: 40.100941
   level: 8
@@ -196,6 +202,24 @@
   level: 5
   lon: -88.233995
   name:  'Martin Luther King Trail'
+- ap: 4411
+  img:  'http://lh4.ggpht.com/PfcTU4XsA06ThtmCWydIWhTsN3gR4jrqnrKxu0O5lhyibhRdKMEaf3jM8VNhViF8qLf13b01E71wr_ajxn0'
+  lat: 40.118465
+  level: 6
+  lon: -88.245077
+  name:  'Mural at Nitaya'
+- ap: 4411
+  img:  'http://lh5.ggpht.com/KadNuhjGK6FUXezGHW1W1kfPOQV5l7gJP594EQm5nPZFLTgcTsjl4ixa-j7XitgtyJyou3q0pTfMr4i2E_avIA'
+  lat: 40.118013
+  level: 6
+  lon: -88.243445
+  name:  'Clock at Neil and Main'
+- ap: 4411
+  img:  'http://lh3.ggpht.com/1G0o5RjtXyfAjbI-E2honhhelnuiq4lIkpHmB44e-AwSBuIxVOdLPVYjImbTMS8kyBdZuKuiMQHciUIdAWg'
+  lat: 40.118368
+  level: 3
+  lon: -88.243737
+  name:  'Frank Robeson Memorial'
 - ap: 4411
   img:  'http://lh5.ggpht.com/ENeQgqydWbi9-Oyf7vizunoRqJdsZV4o0RA_956wjGI8hqpTCHBPyWMpbTrrkwYpj5tgzDRvevGmvH4eFRU'
   lat: 40.099593
@@ -251,12 +275,6 @@
   lon: -88.242671
   name:  'Marketplace Mall Fountain'
 - ap: 3661
-  img:  'http://lh3.ggpht.com/1G0o5RjtXyfAjbI-E2honhhelnuiq4lIkpHmB44e-AwSBuIxVOdLPVYjImbTMS8kyBdZuKuiMQHciUIdAWg'
-  lat: 40.118368
-  level: 3
-  lon: -88.243737
-  name:  'Frank Robeson Memorial'
-- ap: 3661
   img:  'http://lh4.ggpht.com/1n-hHkU1cTz6dykw37WBVQqctZlzyl9gYgy7IMi1zcMf1t0ry6F1JPnwlvUjq_6YNdolofY_rLbuL_uLQwg'
   lat: 40.112913
   level: 2
@@ -286,18 +304,6 @@
   level: 7
   lon: -88.244603
   name:  'Italian Statue'
-- ap: 3474
-  img:  'http://lh5.ggpht.com/nirQKdy3s9r8TSV7cB7_B0l-0EsFXBkg1aitH05R0ttPhOEewGxlq1GRnlDvYFT2V8Z91hWnB9YD3WjxBvyZ'
-  lat: 40.11868
-  level: 3
-  lon: -88.243426
-  name:  '"Pointless"'
-- ap: 3474
-  img:  'http://lh4.ggpht.com/PfcTU4XsA06ThtmCWydIWhTsN3gR4jrqnrKxu0O5lhyibhRdKMEaf3jM8VNhViF8qLf13b01E71wr_ajxn0'
-  lat: 40.118465
-  level: 6
-  lon: -88.245077
-  name:  'Mural at Nitaya'
 - ap: 3474
   img:  'http://lh4.ggpht.com/EveE1r4LU3oEoTrxc2hAzywPFArsSkIcAydfuBtNSmnwv76V6mqWgNEpe7srr7g3ZAOILSYHsfCdLLlwzU-9VA'
   lat: 40.110716
@@ -420,16 +426,16 @@
   name:  '1d0f9709e7c749ae89c41688882c62dd.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.05718
-  level: '?'
-  lon: -90.381873
-  name:  '28834c9a592f424a9df43c0869aca70c.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.772529
   level: '?'
   lon: -86.215837
   name:  '64f91a4e227149ce937f5fb293786cd9.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.05718
+  level: '?'
+  lon: -90.381873
+  name:  '28834c9a592f424a9df43c0869aca70c.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.765347
@@ -490,12 +496,6 @@
   level: 5
   lon: -88.281583
   name:  'Brownfield Dedication'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/KadNuhjGK6FUXezGHW1W1kfPOQV5l7gJP594EQm5nPZFLTgcTsjl4ixa-j7XitgtyJyou3q0pTfMr4i2E_avIA'
-  lat: 40.118013
-  level: 6
-  lon: -88.243445
-  name:  'Clock at Neil and Main'
 - ap: 2537
   img:  'http://lh5.ggpht.com/zUcdFy4LbfVjWynZZp4C5TfAppnK9Iiou6aV9idMEi-uHh7ZVcuIZxHz7Sqt4EqZY__obyqxWSrIBmWDtvwUpg'
   lat: 40.124036
