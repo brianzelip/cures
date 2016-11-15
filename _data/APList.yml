@@ -293,12 +293,6 @@
   lon: -88.243408
   name:  'Downtown Fountain'
 - ap: 4411
-  img:  'http://lh4.ggpht.com/_jAAuDi8SO5uupi8JlB3HZaFG40S15izNv_3vqOt7ro2rRHuXrfdEKfEFvRESdAjCEz3RVDpyrxJGSIrju5d'
-  lat: 40.117916
-  level: 6
-  lon: -88.243087
-  name:  'Sholem Building'
-- ap: 4411
   img:  'http://lh5.ggpht.com/KYppjeOoIlb4lbowRrrC5qRdYW7_KU8rzjtDMpvhh-Q_c6VZOTtVmOqmmxChJA2hjlpS5dJ1JnhUQcKUAXDWHA'
   lat: 40.117976
   level: 6
@@ -316,6 +310,12 @@
   level: 6
   lon: -88.243433
   name:  'Christ Community Church'
+- ap: 4411
+  img:  'http://lh4.ggpht.com/_jAAuDi8SO5uupi8JlB3HZaFG40S15izNv_3vqOt7ro2rRHuXrfdEKfEFvRESdAjCEz3RVDpyrxJGSIrju5d'
+  lat: 40.117916
+  level: 6
+  lon: -88.243087
+  name:  'Sholem Building'
 - ap: 4411
   img:  'http://lh4.ggpht.com/mBh7Vhpz2XOa9MVuATZzG-ie79_beq3-gQECGRvDRnArnk-6oBxUAkzZN2gXnwbDEKWdK_mmGzDHG_j3ge8'
   lat: 40.120352
@@ -552,16 +552,16 @@
   name:  '1d0f9709e7c749ae89c41688882c62dd.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.05718
-  level: '?'
-  lon: -90.381873
-  name:  '28834c9a592f424a9df43c0869aca70c.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.772529
   level: '?'
   lon: -86.215837
   name:  '64f91a4e227149ce937f5fb293786cd9.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.05718
+  level: '?'
+  lon: -90.381873
+  name:  '28834c9a592f424a9df43c0869aca70c.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.765347
