@@ -113,6 +113,12 @@
   lon: -88.224492
   name:  'Siebel Courtyard Structure'
 - ap: 6098
+  img:  'http://lh3.ggpht.com/bltQwmnzp2vSKYhLpzNLqB4iddy6ie0kWk9G7Wce4U9qmW3CABxbXAhF7v0oG9QLFD2q57UZuVqZCMgN3MHZfA'
+  lat: 40.118335
+  level: 6
+  lon: -88.243408
+  name:  'Downtown Fountain'
+- ap: 6098
   img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
   lat: 40.101327
   level: 8
@@ -197,11 +203,11 @@
   lon: -88.248866
   name:  'Holy Cross Catholic Church'
 - ap: 5348
-  img:  'http://lh3.ggpht.com/bltQwmnzp2vSKYhLpzNLqB4iddy6ie0kWk9G7Wce4U9qmW3CABxbXAhF7v0oG9QLFD2q57UZuVqZCMgN3MHZfA'
-  lat: 40.118335
+  img:  'http://lh6.ggpht.com/nbUJivBo0zF8f8aBbk1GwakUpPbLUVOoEovTTETYwJvfNIHXwG9XUbwoV0x-ly4ZO5Hsyv5KPo3c9cE6Nh8'
+  lat: 40.118832
   level: 6
-  lon: -88.243408
-  name:  'Downtown Fountain'
+  lon: -88.243643
+  name:  'Tesla Ball'
 - ap: 5348
   img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
   lat: 40.100822
@@ -269,6 +275,12 @@
   lon: -88.249136
   name:  'Babe and Gene Wilder Memorial Plaque'
 - ap: 4598
+  img:  'http://lh3.googleusercontent.com/FMrsRGg4e1AuMu6m4uCIpM5nawtelx8reIfMtog4nuxXU9C7--UKQnUEAm9s4Vc7OfMjfIDX5loNOw4Agz2HAw'
+  lat: 40.118715
+  level: 5
+  lon: -88.242373
+  name:  'Richard D James Mural'
+- ap: 4598
   img:  'http://lh4.ggpht.com/DTGKMEvXrKSLJVBZP6bN7EF-DMHt5l_x3o-C-Ln0FjrGCQcTdcLNaZDI2_OCwEzuqgh8HyyqJwyQkc4-0H8g'
   lat: 40.106037
   level: 6
@@ -280,18 +292,12 @@
   level: 5
   lon: -88.24957
   name:  'Linda M. Wesolowski Memorial Sign'
-- ap: 4186
+- ap: 4411
   img:  'http://lh5.ggpht.com/nirQKdy3s9r8TSV7cB7_B0l-0EsFXBkg1aitH05R0ttPhOEewGxlq1GRnlDvYFT2V8Z91hWnB9YD3WjxBvyZ'
   lat: 40.11868
-  level: 3
+  level: 6
   lon: -88.243426
   name:  '"Pointless"'
-- ap: 4261
-  img:  'http://lh6.ggpht.com/nbUJivBo0zF8f8aBbk1GwakUpPbLUVOoEovTTETYwJvfNIHXwG9XUbwoV0x-ly4ZO5Hsyv5KPo3c9cE6Nh8'
-  lat: 40.118832
-  level: 4
-  lon: -88.243643
-  name:  'Tesla Ball'
 - ap: 4411
   img:  'http://lh4.ggpht.com/9jXAzAxn0JZrLkU9VK9p-mNzjw3x_6QqwMAn4CAEBAHp_lo2iDZeV_y-hoUzP5CYwm8kOMyrTToZQOWJBRnw'
   lat: 40.115095
@@ -310,12 +316,6 @@
   level: 4
   lon: -88.314559
   name:  'Sunset Ridge Decorative Gate'
-- ap: 3661
-  img:  'http://lh3.googleusercontent.com/FMrsRGg4e1AuMu6m4uCIpM5nawtelx8reIfMtog4nuxXU9C7--UKQnUEAm9s4Vc7OfMjfIDX5loNOw4Agz2HAw'
-  lat: 40.118715
-  level: 5
-  lon: -88.242373
-  name:  'Richard D James Mural'
 - ap: 3586
   img:  'http://lh3.ggpht.com/wOZOXhKOnhbKEPMQke-zGIG_vheDkHM8q19B1n_is5H7t1whBcQxBIGZI6VIPNw8mdCNXG6EUZeSjd1YLdngdg'
   lat: 40.108965
@@ -352,10 +352,10 @@
   level: 5
   lon: -88.246191
   name:  'Clark Bar'
-- ap: 3249
+- ap: 3474
   img:  'http://lh6.ggpht.com/rGhR45ZFbHtxmrZSSy9V19eFoyHIDB42c6MK188isPJFWpUsW9ywNHayKt3acNvKNC8DAV6mDkUloj3aiS4'
   lat: 40.118422
-  level: 4
+  level: 6
   lon: -88.24346
   name:  'Entrance'
 - ap: 3474
@@ -420,18 +420,6 @@
   name:  'f6e8c1b0f696478baedb348ac0feaf2c.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.765347
-  level: '?'
-  lon: -86.740999
-  name:  'c2add1d58fd2415d8c2dea6446bd2bc4.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.873488
-  level: '?'
-  lon: -87.61651
-  name:  'cd1f4cd7926d4476b7a6e29041be32e8.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.726855
   level: '?'
   lon: -89.552754
@@ -442,6 +430,18 @@
   level: '?'
   lon: -88.345007
   name:  'e5729b394f784af7b533789a1237123b.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.765347
+  level: '?'
+  lon: -86.740999
+  name:  'c2add1d58fd2415d8c2dea6446bd2bc4.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.873488
+  level: '?'
+  lon: -87.61651
+  name:  'cd1f4cd7926d4476b7a6e29041be32e8.16'
 - ap: 2537
   img:  'http://lh6.ggpht.com/p2F3xw4xL4UdiMM9aSy628ISSglrvjPexpF3j340tMAP9MX07yh_sJv7kHVkeud8lyFf2ZwDohw3zsRS2PSd'
   lat: 40.093914
