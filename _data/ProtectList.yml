@@ -386,7 +386,7 @@
 - fields: 4
   img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
   lat: 40.102188
-  level: 6
+  level: 7
   lon: -88.251507
   mus: 501
   name:  'Little Free Library Charter 5753'
@@ -463,7 +463,7 @@
 - fields: 5
   img:  'http://lh4.ggpht.com/Ww9lgcscjGtB0ieiqyf2qK2ZzV0y3mZVpoi5ZZdPpArkbOa2B5aNli_k7t86GjD7eAeEFOw8W0oZvfr61S6Kxg'
   lat: 40.139196
-  level: 6
+  level: 7
   lon: -88.257755
   mus: 437
   name:  'Market View Fountain'
@@ -1303,7 +1303,7 @@
 - fields: 4
   img:  'http://lh3.googleusercontent.com/gCJN301o7TKMPpTwXYpuWceaR0wtjm4S3By0SJ5ubrMNK0UEKo6bMcldlreNdLDqpnrYOFmjqByM6vCJDCT-'
   lat: 40.086378
-  level: 4
+  level: 6
   lon: -88.251308
   mus: 34
   name:  'Life Lessons from Kimberly Kueffler'
@@ -1468,6 +1468,13 @@
   lon: -88.217873
   mus: 19
   name:  'Skull And Wagon Wheel'
+- fields: 5
+  img:  'http://lh5.ggpht.com/_gJqtOHLZ9UHsmd_iLjxMsPw5eF5YzqE63qEAzURvSp_3OL9ZrPjM-usiUeYx95b7zTdNodab42cQiyiRRja'
+  lat: 40.087835
+  level: 6
+  lon: -88.251299
+  mus: 19
+  name:  'Amdocs Shelter'
 - fields: 1
   img:  'http://lh6.ggpht.com/NgnydTt337ADxVuRuFnimA4_Ifff2E49IzKzpqchxzsfFOWhZolCGjl48IjFWzsJYEgVBSM5nurntToYOMT7'
   lat: 40.100488
@@ -1489,13 +1496,20 @@
   lon: -88.291684
   mus: 17
   name:  'Anna Jean Russell Memorial Tree'
-- fields: 3
-  img:  'http://lh5.ggpht.com/_gJqtOHLZ9UHsmd_iLjxMsPw5eF5YzqE63qEAzURvSp_3OL9ZrPjM-usiUeYx95b7zTdNodab42cQiyiRRja'
-  lat: 40.087835
-  level: 5
-  lon: -88.251299
+- fields: 2
+  img:  'http://lh3.ggpht.com/lGjbP2iz0XvlEWLhgCBNqkWukvjrBowKmX-1_O44U1A3_4b3-vuXzkfp7rasqU81TcPBoQO82gAzEGtBBYcR'
+  lat: 40.106058
+  level: 7
+  lon: -88.223672
   mus: 17
-  name:  'Amdocs Shelter'
+  name:  'Music Building'
+- fields: 2
+  img:  'http://lh6.ggpht.com/1i7JFIfvKI3IMOAekdomh9jm9HrAhBBdNIOyX81Nkq1Bh49sBqKg37sMm99MYm8yJjHsG4dBdnRg1X5Aq-c'
+  lat: 40.104796
+  level: 5
+  lon: -88.227461
+  mus: 17
+  name:  'Undergraduate Library at UIUC'
 - fields: 3
   img:  'http://lh4.ggpht.com/8AjeZD8uLKBGqzwnDcp2t-wWRFmqZ03RVBIV2jccyPae0uVMwvjHgEmRfdS_lvnxJTIwosCM3Xlfpw-vIwZOdw'
   lat: 40.118549
@@ -1573,20 +1587,6 @@
   lon: -88.242132
   mus: 14
   name:  'Nuclear Physics Lab'
-- fields: 1
-  img:  'http://lh3.ggpht.com/lGjbP2iz0XvlEWLhgCBNqkWukvjrBowKmX-1_O44U1A3_4b3-vuXzkfp7rasqU81TcPBoQO82gAzEGtBBYcR'
-  lat: 40.106058
-  level: 7
-  lon: -88.223672
-  mus: 14
-  name:  'Music Building'
-- fields: 1
-  img:  'http://lh6.ggpht.com/1i7JFIfvKI3IMOAekdomh9jm9HrAhBBdNIOyX81Nkq1Bh49sBqKg37sMm99MYm8yJjHsG4dBdnRg1X5Aq-c'
-  lat: 40.104796
-  level: 5
-  lon: -88.227461
-  mus: 14
-  name:  'Undergraduate Library at UIUC'
 - fields: 1
   img:  'http://lh5.ggpht.com/oyiyn1Im-Ppa2y94WGbvZox7rcS2MMu45LOziU7yXZi4v2540YN6hgzBokVq2mxvpPtdDXpAwWD_vYWxjHcO'
   lat: 40.130238
@@ -1888,6 +1888,13 @@
   lon: -88.209066
   mus: 5
   name:  'Lincoln & Photography'
+- fields: 2
+  img:  'http://lh6.ggpht.com/PrKWQe_StHjP7QQeyxlKiMSxAelIQlmbHzFMejewhMdVT0J-uvMpZCUGvQy_dZfrqfDnkmrIZYWkZORSGrnp'
+  lat: 40.088449
+  level: 6
+  lon: -88.251396
+  mus: 5
+  name:  'Boots''s Garden'
 - fields: 1
   img:  'http://lh5.ggpht.com/_Tp5JJFIIlt0iHHyC_A_gnEm1sxUEKDHmQr0oby74HL0rnFZ5JrnuvOTPk6_vulsU_GJue_7RAAX2Y7I2Wxw4A'
   lat: 40.132354
@@ -1930,13 +1937,6 @@
   lon: -88.260295
   mus: 5
   name:  'Willis Park'
-- fields: 1
-  img:  'http://lh6.ggpht.com/PrKWQe_StHjP7QQeyxlKiMSxAelIQlmbHzFMejewhMdVT0J-uvMpZCUGvQy_dZfrqfDnkmrIZYWkZORSGrnp'
-  lat: 40.088449
-  level: 2
-  lon: -88.251396
-  mus: 5
-  name:  'Boots''s Garden'
 - fields: 5
   img:  'http://lh3.googleusercontent.com/qiCzk44kbJr1T0epQjDTIa6YFH1inC0xyPQblqRhSmRcgE4SKEEL6VSPLefcs5myDM3psr50I2E4lQRne_wL'
   lat: 40.09991
@@ -1986,6 +1986,13 @@
   lon: -88.208313
   mus: 4
   name:  'Urbana Landmark Hotel'
+- fields: 1
+  img:  'http://lh4.ggpht.com/fYq8Qzd7VmDjN_GIWRjblwSGoKKIaUFJTgmMNsJrfWO6c5cZu8xnJc4kDm35ITLO2ePeYakXEDKubdwi0x1K'
+  lat: 40.105179
+  level: 6
+  lon: -88.226931
+  mus: 4
+  name:  'Astronomy Department Sundial'
 - fields: 1
   img:  'http://lh3.ggpht.com/PijfKs7HCJf1vVcIxcTF1HPOYaa5iS4ZECXZUQ2dDDSn9ZCXSd8FGHThRUiEIC-oMNmClt0seIzn8FsaGPER'
   lat: 40.112752
@@ -2056,6 +2063,13 @@
   lon: -88.284336
   mus: 3
   name:  'Dodds Park'
+- fields: 2
+  img:  'http://lh5.ggpht.com/X-Tq3QbQ3JvCApWIGFxRwDJId7aLa8hY_ka0eU3QySTcZBgXcbPC4UXEQ9VVMsA-dYRxGqAdCotw-q7dby8f'
+  lat: 40.088412
+  level: 5
+  lon: -88.251667
+  mus: 2
+  name:  'French L. Fraker Memorial'
 - fields: 1
   img:  'http://lh3.ggpht.com/kAxEWb1VdMZ1-OTPwyl-CGWs0lF3FNth0gbxr6aqk6BaG_tfbCZM31s6UWKUY8aFtUA3j2GFL2z6yvu95yz3'
   lat: 40.115068
@@ -2070,6 +2084,13 @@
   lon: -88.249603
   mus: 2
   name:  'Chef Ra Memorial Plaque'
+- fields: 2
+  img:  'http://lh4.ggpht.com/vxjetUOC6_S8Ru3Q1ivzG4NE4bAAWg7_opiMwStExCoUHiRaIab8NyXLypEOAo7KBtsRQRzJX-TimhsOlBu3'
+  lat: 40.087121
+  level: 6
+  lon: -88.251406
+  mus: 2
+  name:  'Amdocs Shelter'
 - fields: 3
   img:  'http://lh5.ggpht.com/3t7XZHqwxLZ8Lc9YomR8FInm74U2PAA-DBk8kmdxXIrcXbKa1CoBDTlgdDJeO-_yVT3qNKRnNLzbdil1eH41iA'
   lat: 40.09935
@@ -2175,6 +2196,27 @@
   lon: -88.259842
   mus: 1
   name:  'Indian Acres Swim Club'
+- fields: 1
+  img:  'http://lh3.ggpht.com/mRCpYiTnH0rrWGXaOj5qrhYjnvlhpQ8iY4UG3vy_gu2HW2GChgp0aXQ0Uih6XRZcUOJVyzyPggWicFdh7sHrfA'
+  lat: 40.106179
+  level: 6
+  lon: -88.227593
+  mus: 1
+  name:  'Charles P. Wolff Memorial and Tree'
+- fields: 1
+  img:  'http://lh4.ggpht.com/p1kbhH-3K08NNqTt_6-223uI0PurGUV2HeAWGYPRx3OnNYMY-kARoW1zZ2pZBHthAYRZbIgf6ioRawHi0BmUx786y5ffm0kmZsskaOiluDUhSIiI'
+  lat: 40.106173
+  level: 5
+  lon: -88.22719
+  mus: 1
+  name:  'Foellinger Auditorium'
+- fields: 1
+  img:  'http://lh4.ggpht.com/GCS0-CwKl9SLe2zfeL7FPDuKv5ZFDhlnX3hMXZSJLvK-u73RlgWbn_FgnOHZi-0wqMk52z_YLSAMReYTSaoP'
+  lat: 40.10659
+  level: 6
+  lon: -88.227679
+  mus: 1
+  name:  'Lincoln Hall'
 - fields: 2
   img:  'http://lh3.ggpht.com/dlNcqhZvSXijpkfvwOrcW3aTD-ILaZMONMnmaEZv35uhdz7QbonCx9poCoucdHPTAu4q8P67w-GccKI-V7n2'
   lat: 40.068578
@@ -2182,13 +2224,6 @@
   lon: -88.241988
   mus: 1
   name:  'Ernest R & Marian Adair'
-- fields: 1
-  img:  'http://lh4.ggpht.com/vxjetUOC6_S8Ru3Q1ivzG4NE4bAAWg7_opiMwStExCoUHiRaIab8NyXLypEOAo7KBtsRQRzJX-TimhsOlBu3'
-  lat: 40.087121
-  level: 3
-  lon: -88.251406
-  mus: 1
-  name:  'Amdocs Shelter'
 - fields: 1
   img:  'http://lh3.ggpht.com/bz4oo3jSLlJ5qqBYGa0PxySc94PdeXA_iAJpXuHQpMh_nxxmIIINM6cZeB6L9wkzZVFu9NkM5j2wSTSqPUs'
   lat: 40.114803
