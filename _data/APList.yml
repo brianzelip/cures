@@ -77,17 +77,17 @@
   lon: -88.277916
   name:  'Church of God in Christ'
 - ap: 7596
-  img:  'http://lh6.ggpht.com/vlKOFCgVZb_8XoZHDdzD2X9Xsejb8QVVqEM5U4YfgnKJbQIIHHSK2hSpgycF7vqRkGKRYYnbjVTyKS8dsHF3ChRyF01faLh907jhNd__xiEkGTWx'
-  lat: 40.111225
-  level: 4
-  lon: -88.226537
-  name:  'Fire College Plaque'
-- ap: 7596
   img:  'http://lh5.ggpht.com/LLVKvcsTaSPmGBzaGFrvYIV4RhGzb6LqC_npAarehd2aLZSaVhjGzQV6T63Ke07reCQzO-GoZXmEfwZMOcM'
   lat: 40.110569
   level: 6
   lon: -88.226784
   name:  'Cubist Art at MSEB'
+- ap: 7596
+  img:  'http://lh6.ggpht.com/vlKOFCgVZb_8XoZHDdzD2X9Xsejb8QVVqEM5U4YfgnKJbQIIHHSK2hSpgycF7vqRkGKRYYnbjVTyKS8dsHF3ChRyF01faLh907jhNd__xiEkGTWx'
+  lat: 40.111225
+  level: 4
+  lon: -88.226537
+  name:  'Fire College Plaque'
 - ap: 7409
   img:  'http://lh3.ggpht.com/LR76HrJqriPFUoc2XSs7jb2SotnStZv20kI7rgUx8B5HqhmetnTW4MA1tCp1ws4g5gw0sf9g7M3Lwq4VwfpD'
   lat: 40.111687
@@ -390,6 +390,24 @@
   name:  'Gothic Brass'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.533156
+  level: '?'
+  lon: -88.580355
+  name:  '53ba227dbfbe4c2a9547c1e3b9b53aca.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.496661
+  level: '?'
+  lon: -89.145759
+  name:  '60f22bb547904e0dab1b21d2570ef8be.12'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.052357
+  level: '?'
+  lon: -89.050056
+  name:  'c103c527782d4408a26e5c2b28a037bf.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.78105
   level: '?'
   lon: -87.757843
@@ -497,6 +515,18 @@
   lon: -88.226388
   name:  'Illinois State Water Survey Plaque'
 - ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.97198
+  level: '?'
+  lon: -86.130484
+  name:  '3b81d68091964a7d8887f4dd5d56f164.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.361566
+  level: '?'
+  lon: -87.824256
+  name:  'fee43516bf194676b72da0dfc56edf4e.16'
+- ap: 2537
   img:  'http://lh3.ggpht.com/ehNwLdaa71H3Bylm063pawn4caIGz2rCdmmdBhAFWIuEt2kPjT8nWHDkSuoOidckWiM82FWpDSNGQqQMHiQ'
   lat: 40.098209
   level: 5
@@ -592,10 +622,10 @@
   level: 2
   lon: -88.226301
   name:  'Illite and Clay Mineralogy Plaque'
-- ap: 2537
+- ap: 2462
   img:  'http://lh6.ggpht.com/1El0oK6CWDh7rAQeFmPEW_dA252pdq7piTtjtuQCkZvwRa689NLjEafLqQ35TI5qCW3Lmhja9PLQqKxFs9Ha'
   lat: 40.110627
-  level: 2
+  level: 1
   lon: -88.227584
   name:  'Tau Beta Pi Statue'
 - ap: 2537
@@ -604,18 +634,6 @@
   level: 3
   lon: -88.227184
   name:  'U of I Mother''s Association Plaque'
-- ap: 2537
-  img:  'http://lh6.ggpht.com/rnWumKyBYpVW5hCfQDlvRaT_666UPI5lo3k6HGdxWuLVsDbD8c7l-BU1HwhBqiGeCW28iEghSQtvZFzqK4w'
-  lat: 40.109013
-  level: 2
-  lon: -88.22587
-  name:  'Understanding Photosynthesis Plaque'
-- ap: 2537
-  img:  'http://lh3.googleusercontent.com/JtDKcaLvXa-az4aUAoga4ikpwAKEsCsSIgnN9eVPp7q2Tiynz0iyg5e2mk0InXRsJclU6axBXOMi3NcfABUd'
-  lat: 40.110065
-  level: 2
-  lon: -88.225155
-  name:  'Wesley United Methodist Church'
 - ap: 2237
   img:  'http://lh6.ggpht.com/C7ThuP5fwrDTu5cMDpoeGmRjotNh6eUnPf3ksvSsUj5NkHZ0yKbIUnF8cSikhX-I_7O42CTwqjhLq9z3jkIL'
   lat: 40.111844
