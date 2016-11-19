@@ -482,13 +482,6 @@
   mus: 423
   name:  'Ambucs Park'
 - fields: 4
-  img:  'http://lh3.ggpht.com/AflEYleLSbb1ODQvIdBOrTrq1Zkk-rgHU4WaHjaZ6Md2zDSaqq8cERAJWcwG1QFkrzGf6gp3oC-DZuLOCDb4'
-  lat: 40.112779
-  level: 6
-  lon: -88.239045
-  mus: 415
-  name:  'Layalina Mediterranean Grill'
-- fields: 4
   img:  'http://lh3.ggpht.com/gmbd8dsk--9MGBF9b8_huzNpPbjrzDw5R9UjqSiA05cRHUIOQRcR-dODKZ9oGUjBnMfufSVzvCekV_YsoOM_'
   lat: 40.118013
   level: 6
@@ -558,6 +551,13 @@
   lon: -88.188638
   mus: 367
   name:  'Robert Canaday Park'
+- fields: 3
+  img:  'http://lh3.ggpht.com/AflEYleLSbb1ODQvIdBOrTrq1Zkk-rgHU4WaHjaZ6Md2zDSaqq8cERAJWcwG1QFkrzGf6gp3oC-DZuLOCDb4'
+  lat: 40.112779
+  level: 6
+  lon: -88.239045
+  mus: 367
+  name:  'Layalina Mediterranean Grill'
 - fields: 4
   img:  'http://lh3.ggpht.com/dsNN93gNM_ydYYk-e1TxgiR0TsjQBuvo8xGw4fM7AhM-Ly-9fW4bho-pqTQCVZ5laYhSI1EsLgj7lM7nEK99'
   lat: 40.121656
@@ -628,20 +628,6 @@
   lon: -88.257672
   mus: 283
   name:  'Friendship Crossing'
-- fields: 4
-  img:  'http://lh3.ggpht.com/qWqDj3Ws5ffRyIXG8XxFM41dBDTOBhjCkDgKebjiDFo-5Fyj_ssgLQ_wLM82uWwB2jVkNIYN4nc5U2E3wZoBNQ'
-  lat: 40.111037
-  level: 6
-  lon: -88.245813
-  mus: 274
-  name:  'Champaign Public Library'
-- fields: 3
-  img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
-  lat: 40.102188
-  level: 7
-  lon: -88.251507
-  mus: 266
-  name:  'Little Free Library Charter 5753'
 - fields: 2
   img:  'http://lh6.ggpht.com/3dciax4v-S3OKvaO4a0G1H6yuvp2pnzFQjCsu-OOQlDP45Xh_c19QLwzEh4YixwMVCCk9396VC26HkZpcaDX'
   lat: 40.069362
@@ -663,13 +649,6 @@
   lon: -88.253652
   mus: 254
   name:  'Mattis Park'
-- fields: 3
-  img:  'http://lh5.ggpht.com/hjAc940kWyt9QT4G_BJyJKaTef3jL_Njnm8ubUtQD7u6qVsD9_7TiJbgZpKeqAv60kNw8FYspVxkn-Bt1cxYBw'
-  lat: 40.109959
-  level: 8
-  lon: -88.24318
-  mus: 249
-  name:  'Mini Park II Sculpture'
 - fields: 1
   img:  'http://lh3.googleusercontent.com/ehDcIFPGimXzEpSpqydgEInzS_LCx7xdxdANoVH3o2WnEnCyvgjWqV1F-DbvHnpuMsAkbUqetYiu0sPiWwE'
   lat: 40.12025
@@ -768,13 +747,6 @@
   lon: -88.2778
   mus: 170
   name:  'AISC Steel Teaching Sculpture'
-- fields: 3
-  img:  'http://lh6.ggpht.com/nRwew4OU3JNWRI1-xCyuN1xwDabajLFDuSlOZ-_M8BwJELli4V8o30JI0UyF6Kpc4gfDGdh10kJ6mD6ggMo'
-  lat: 40.108561
-  level: 6
-  lon: -88.250039
-  mus: 160
-  name:  'Harris Park'
 - fields: 1
   img:  'http://lh3.googleusercontent.com/BjLUhZtNHz-wmR4gdU6GwFWwmSQu0U8cXf2Lp8D-I0YtN6RNHlW6SaJhtdbItM92UVfTI9Qj5_JFDVd3XCtz'
   lat: 40.112555
@@ -978,6 +950,13 @@
   lon: -88.243265
   mus: 82
   name:  'McCollum Park Peacock'
+- fields: 1
+  img:  'http://lh5.ggpht.com/hjAc940kWyt9QT4G_BJyJKaTef3jL_Njnm8ubUtQD7u6qVsD9_7TiJbgZpKeqAv60kNw8FYspVxkn-Bt1cxYBw'
+  lat: 40.109959
+  level: 8
+  lon: -88.24318
+  mus: 82
+  name:  'Mini Park II Sculpture'
 - fields: 4
   img:  'http://lh6.ggpht.com/yoGdHEqpRRqOE5pA5wHdi_ismU_TrB-kTiqVV63EO630KsU608TIfjLijcqJ38At7MyyrE2urWFMPY1Sops'
   lat: 40.118121
@@ -1034,13 +1013,6 @@
   lon: -88.184077
   mus: 67
   name:  'Quaker Meeting House'
-- fields: 2
-  img:  'http://lh4.ggpht.com/Oocso9yyW_QlJlddbFRk8zzguP4PfXU8kI9T5rJbiyNwSgNMG0BmSoK3TdG2cEgH-p2Xd_vpQMxA_RcxLUP3'
-  lat: 40.109066
-  level: 6
-  lon: -88.247875
-  mus: 66
-  name:  'The Church of Scientology'
 - fields: 4
   img:  'http://lh4.ggpht.com/U2bGo6sB1AGHiDjQ-rH7wSwqqEX_Rgttee-UbdQR48aDKUrWK3zDdefPtL7CTxHDIksKsqP-9K6AlK8Mjlhe'
   lat: 40.125487
@@ -1055,6 +1027,27 @@
   lon: -88.256779
   mus: 60
   name:  'Framer''s Market'
+- fields: 1
+  img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
+  lat: 40.102188
+  level: 7
+  lon: -88.251507
+  mus: 53
+  name:  'Little Free Library Charter 5753'
+- fields: 1
+  img:  'http://lh4.ggpht.com/Oocso9yyW_QlJlddbFRk8zzguP4PfXU8kI9T5rJbiyNwSgNMG0BmSoK3TdG2cEgH-p2Xd_vpQMxA_RcxLUP3'
+  lat: 40.109066
+  level: 6
+  lon: -88.247875
+  mus: 53
+  name:  'The Church of Scientology'
+- fields: 1
+  img:  'http://lh6.ggpht.com/nRwew4OU3JNWRI1-xCyuN1xwDabajLFDuSlOZ-_M8BwJELli4V8o30JI0UyF6Kpc4gfDGdh10kJ6mD6ggMo'
+  lat: 40.108561
+  level: 6
+  lon: -88.250039
+  mus: 53
+  name:  'Harris Park'
 - fields: 6
   img:  'http://lh6.ggpht.com/fmwXS4vSqefbmXDWmZSLjVARfYE8HU3kSTuyc8sUvk2m8luvvHf1LHjv6Yu0UjOPHYh_eGbaBrHgiAXfHo0'
   lat: 40.10503
