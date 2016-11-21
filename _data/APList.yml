@@ -257,17 +257,17 @@
   lon: -88.240517
   name:  'Glory Pipes 2.0'
 - ap: 5722
-  img:  'http://lh3.ggpht.com/xId6g6VicbS3F1vf-TwfkAOcAj2J4qElQNbgW1wmhWy5cxh-ZSjfN5a3K9w7mGOmQymgNDrLMQCjkUPl_ifzcA'
-  lat: 40.111517
-  level: 5
-  lon: -88.224103
-  name:  'Ceramics Building'
-- ap: 5722
   img:  'http://lh3.googleusercontent.com/U_-4hKnh83ZT50dnywqzC7jR6ialVAMHwoWLMsG5km5adHpOU2FNmfe58sV_IDOBaVBAJbKZafokPWLzKLGgTQ'
   lat: 40.111268
   level: 5
   lon: -88.223809
   name:  'Goodwin Avenue Bridge'
+- ap: 5722
+  img:  'http://lh3.ggpht.com/xId6g6VicbS3F1vf-TwfkAOcAj2J4qElQNbgW1wmhWy5cxh-ZSjfN5a3K9w7mGOmQymgNDrLMQCjkUPl_ifzcA'
+  lat: 40.111517
+  level: 5
+  lon: -88.224103
+  name:  'Ceramics Building'
 - ap: 5535
   img:  'http://lh3.ggpht.com/eIZLSi2oHXQIznnki3LOUvKrTTcJ6a2d9xmuW9B9IjzRMAyaWG19Qw6gTUGWsC5V7R3LlRVD-ySQPp_6uK_aZw'
   lat: 40.117519
@@ -583,9 +583,21 @@
 - ap: 3661
   img:  'http://lh6.ggpht.com/pl5oR4FCND0a0Q-mQup5HICNRjhS3egUwDw6TLae-WELnIVKImRv37VnqU1buGdTqclPRg4Y-DniP4NVyIWp1O8YKUDQDp2HiIePNFBzVqDJS1vJ'
   lat: 40.09627
-  level: 5
+  level: 6
   lon: -88.218588
   name:  'Idea Garden'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.137212
+  level: '?'
+  lon: -87.792876
+  name:  '08abcdc5d3b040f69d546e104328d713.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.135352
+  level: '?'
+  lon: -87.757976
+  name:  '09e56565562b41e988a26c88ea9eb0c7.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.287854
@@ -610,36 +622,6 @@
   level: '?'
   lon: -89.126762
   name:  '4501f776f08d45a084cb064a242ab1e7.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.137212
-  level: '?'
-  lon: -87.792876
-  name:  '08abcdc5d3b040f69d546e104328d713.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.135352
-  level: '?'
-  lon: -87.757976
-  name:  '09e56565562b41e988a26c88ea9eb0c7.16'
-- ap: 3474
-  img:  'http://lh5.ggpht.com/S_72RqBcpwyaqDotOOM3zyRvzzZXNgZUSEfOLLDYY9tEvWcEksixMnIL7N-7FO1EpE-CXGydpsChqEkBjX_I'
-  lat: 40.131279
-  level: 5
-  lon: -88.290872
-  name:  'Stone Hand Sculptures'
-- ap: 3474
-  img:  'http://lh3.googleusercontent.com/mFMoKbSLtdP7TnaDrMHLxDWN1FGdQeY6BuKqxtEYSN--Sp6L7DgrpNlGARlPutxd0UNQuEW3WwuNl_Hny6_1'
-  lat: 40.13183
-  level: 5
-  lon: -88.288788
-  name:  'Student Union Building'
-- ap: 3474
-  img:  'http://lh4.ggpht.com/IM3Yvrk727rz6f1euz6nTpei6llE4E4oqn_l-WbxZIN3K6dF8pEa7wGKzbjqfr0DBRubxiNFztHBePH9-Iw'
-  lat: 40.132147
-  level: 5
-  lon: -88.291251
-  name:  'Staerkel Planetarium '
 - ap: 3399
   img:  'http://lh3.ggpht.com/uMCsrCj0b8EWJ6Hinp58rZ4hjaPm9kBAK5q0aDNtkP3e1Zk6Gh_0COjtW2YYBNzPxGDjJLB4DIXmiyvmrCJkRA'
   lat: 40.128083
@@ -737,6 +719,12 @@
   lon: -88.23713
   name:  'Great War Memorial Inscription'
 - ap: 2724
+  img:  'http://lh4.ggpht.com/d3UqrcK5M1wuOe19dIaBUOkrXF4C9IxhOWfxqzM4zIHkGsUIRb1mckNapOMRkkCtVIe0rzJumb1OVDVc1_Y'
+  lat: 40.108055
+  level: 5
+  lon: -88.233688
+  name:  'University Baptist Church'
+- ap: 2724
   img:  'http://lh6.ggpht.com/vlKOFCgVZb_8XoZHDdzD2X9Xsejb8QVVqEM5U4YfgnKJbQIIHHSK2hSpgycF7vqRkGKRYYnbjVTyKS8dsHF3ChRyF01faLh907jhNd__xiEkGTWx'
   lat: 40.111225
   level: 4
@@ -755,29 +743,29 @@
   lon: -88.216986
   name:  'Leroy Hubble Honorary Bench'
 - ap: 2724
-  img:  'http://lh3.googleusercontent.com/sT7DTIyEUTt0xRUwXrJLi2NnzjG5Jt_We4i4zQVcwDLCqiBxYzzBUi-mgg6aU7bpCp52puLCHCga_JuAmQMb'
-  lat: 40.092682
-  level: 5
-  lon: -88.217865
-  name:  'Japan House'
-- ap: 2724
-  img:  'http://lh3.ggpht.com/aiChar0HYKb_3M9or6hd38rkSeuoh1TUUL4LtW726Z-JKNYpIttW_3dFH4DHDYGBAkxkwBiz5Ye8_zqttsgs1A'
-  lat: 40.092797
-  level: 5
-  lon: -88.217182
-  name:  'The Ponds at UI Arboretum'
-- ap: 2724
   img:  'http://lh6.ggpht.com/tvtZZis6qG1YsnE4ZRp9fdL3-XEu08jw8oYvSOYqkbrIkD71abS7blCPv63VovyNFWlpHvmXTjl3tl-lXII'
   lat: 40.092821
   level: 5
   lon: -88.218095
   name:  'Japan House Tsukubai'
 - ap: 2724
+  img:  'http://lh3.googleusercontent.com/sT7DTIyEUTt0xRUwXrJLi2NnzjG5Jt_We4i4zQVcwDLCqiBxYzzBUi-mgg6aU7bpCp52puLCHCga_JuAmQMb'
+  lat: 40.092682
+  level: 5
+  lon: -88.217865
+  name:  'Japan House'
+- ap: 2724
   img:  'http://lh6.ggpht.com/Ors-OZvQMSkeYwIrZFCN6ltDminG-DehbQHdnKr_u983KJbBTIGGWU0wOofHOrpwgSk_mIaD5Fgcv7xNs6_n'
   lat: 40.092259
   level: 5
   lon: -88.216448
   name:  'Lichen Covered Honeylocust Plaque'
+- ap: 2724
+  img:  'http://lh3.ggpht.com/aiChar0HYKb_3M9or6hd38rkSeuoh1TUUL4LtW726Z-JKNYpIttW_3dFH4DHDYGBAkxkwBiz5Ye8_zqttsgs1A'
+  lat: 40.092797
+  level: 5
+  lon: -88.217182
+  name:  'The Ponds at UI Arboretum'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 43.026996
@@ -826,6 +814,18 @@
   level: 3
   lon: -88.290239
   name:  'In Memory Of Craig Kieffer'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/S_72RqBcpwyaqDotOOM3zyRvzzZXNgZUSEfOLLDYY9tEvWcEksixMnIL7N-7FO1EpE-CXGydpsChqEkBjX_I'
+  lat: 40.131279
+  level: 5
+  lon: -88.290872
+  name:  'Stone Hand Sculptures'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/IM3Yvrk727rz6f1euz6nTpei6llE4E4oqn_l-WbxZIN3K6dF8pEa7wGKzbjqfr0DBRubxiNFztHBePH9-Iw'
+  lat: 40.132147
+  level: 5
+  lon: -88.291251
+  name:  'Staerkel Planetarium '
 - ap: 2537
   img:  'http://lh6.ggpht.com/Z9OoAT12enRNYI3CgnpFhdqCbDwZCyEyHUKPcE1Zexv5STafk6tkRrQyJoPhd8L0LiEV0nW4XyE5BoDFlfE'
   lat: 40.092568
@@ -904,18 +904,18 @@
   level: 3
   lon: -88.238014
   name:  'Champaign Waterfall'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
+  lat: 40.106706
+  level: 5
+  lon: -88.232116
+  name:  'Illini Tower'
 - ap: 2387
   img:  'http://lh4.ggpht.com/hJDi8J7CZU-933hT0Culp2nhslv6p8rDRPdTFz6FwNaAjB5CmfkaQzj9sM--E-QBvI8yvIJn1F2jxy7ZKWlh'
   lat: 40.10816
   level: 3
   lon: -88.234245
   name:  'Stratford House'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/d3UqrcK5M1wuOe19dIaBUOkrXF4C9IxhOWfxqzM4zIHkGsUIRb1mckNapOMRkkCtVIe0rzJumb1OVDVc1_Y'
-  lat: 40.108055
-  level: 5
-  lon: -88.233688
-  name:  'University Baptist Church'
 - ap: 2537
   img:  'http://lh5.ggpht.com/fGRHfMAqdWrUnPE8GStKSdMkgQmu9qvuxAC4VzcU1v2KyxQu2BeuJKhvhefSeFNTkgFh6YdR-F4P6plMbh0'
   lat: 40.110194
