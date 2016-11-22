@@ -6,6 +6,13 @@
   mus: 122502
   name:  'Fountain Town Center'
 - fields: 1
+  img:  'http://lh4.ggpht.com/TBdQ8fwHzTxOelVmzeofa-exhQ8cwbOVHb8bVga_MzTz3hC44VOzElIptwaKQuDBdLnDhL-NUEjLnOKO7HnjWw'
+  lat: 40.078503
+  level: 5
+  lon: -88.296196
+  mus: 5374
+  name:  'Meadows West Park'
+- fields: 1
   img:  'http://lh3.googleusercontent.com/GDPeCcTdJQAFt7LgbquPo-YOAp7bq5HCFbElMBeXztI4hraTGO-j1GcNOwKaaSRRLcEHG13Gu-VDboEG4a7-'
   lat: 40.149097
   level: 6
@@ -19,13 +26,6 @@
   lon: -88.25211
   mus: 105
   name:  'First Church of Christ, Scientist'
-- fields: 10
-  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
-  lat: 40.100936
-  level: 8
-  lon: -88.250855
-  mus: 63
-  name:  'Donald F. Bresnan Memorial'
 - fields: 1
   img:  'http://lh4.ggpht.com/d3UqrcK5M1wuOe19dIaBUOkrXF4C9IxhOWfxqzM4zIHkGsUIRb1mckNapOMRkkCtVIe0rzJumb1OVDVc1_Y'
   lat: 40.108055
@@ -33,20 +33,27 @@
   lon: -88.233688
   mus: 62
   name:  'University Baptist Church'
-- fields: 7
-  img:  'http://lh3.googleusercontent.com/4ZghmANMiPJhVcpWuH3M3D6jgFGSDn0QH-VAP5olDzQjucfxwHFo8-1DsCSQhVV-YaTWMvC1pVwqWdnjVs8'
-  lat: 40.117215
-  level: 6
-  lon: -88.245551
-  mus: 60
-  name:  'The Virginia Theater'
-- fields: 8
+- fields: 6
+  img:  'http://lh3.ggpht.com/9aQBG-poFARclK9XL7iFIvWePkawZwWhv4Sh0zQhQ0Sy9gdDD508d4gCtpcUP9UNoYM6uztea0aQ05RPd9rZLg'
+  lat: 40.115412
+  level: 5
+  lon: -88.245046
+  mus: 48
+  name:  'Eddie Thorpe''s Memorial Rock And Tree'
+- fields: 11
   img:  'http://lh3.ggpht.com/8Nxm7sw1mIfTkxKb-GsE_e5DuPgup8SmX1SJRLGZmvopdsQsPx8E9eDzuISKXBjwveamwn6H26EmIJZzVwkr'
   lat: 40.117449
   level: 7
   lon: -88.246902
-  mus: 21
+  mus: 24
   name:  'Champaign Park District Flower Island'
+- fields: 5
+  img:  'http://lh5.ggpht.com/2jocF-ooKfacyT7HSwrwNcZTSN02yFkcmXBkPx777CYuD5O6sHPHwyUabblNOl_37YOxba1Gjid-TOwLVBlJ8g'
+  lat: 40.116448
+  level: 6
+  lon: -88.248459
+  mus: 18
+  name:  'Uppercutted Sculpture'
 - fields: 8
   img:  'http://lh3.ggpht.com/rm0mJKw5ksUEH6_YQLi-f3uo56Wv-4h1P-Q_Ws61holRtnLG9Qt0NObbSBzDxPm3tvIhWgzHLvftIMBC_5dZ'
   lat: 40.118435
@@ -55,26 +62,26 @@
   mus: 15
   name:  'Burnham Athenaeum'
 - fields: 4
-  img:  'http://lh5.ggpht.com/2jocF-ooKfacyT7HSwrwNcZTSN02yFkcmXBkPx777CYuD5O6sHPHwyUabblNOl_37YOxba1Gjid-TOwLVBlJ8g'
-  lat: 40.116448
-  level: 5
-  lon: -88.248459
+  img:  'http://lh3.googleusercontent.com/4ZghmANMiPJhVcpWuH3M3D6jgFGSDn0QH-VAP5olDzQjucfxwHFo8-1DsCSQhVV-YaTWMvC1pVwqWdnjVs8'
+  lat: 40.117215
+  level: 7
+  lon: -88.245551
   mus: 12
-  name:  'Uppercutted Sculpture'
+  name:  'The Virginia Theater'
 - fields: 10
   img:  'http://lh4.ggpht.com/5E71LpfYxV2zsihdsTCShjy9NN6ksITFjXz6GSYwP8EKVJEuhrWOJKGGr6nfCT99QLgs4K6HHrqQn6ta1Vw'
   lat: 40.117349
-  level: 6
+  level: 7
   lon: -88.24917
-  mus: 12
-  name:  'Ruth Whitney Memorial Plaque'
-- fields: 4
-  img:  'http://lh4.ggpht.com/MvwoDsxwfyNLHzfGkFJl-4VFeX7OvqB0hsMCrZ2D9Olh8GSghAJDfFfDh7a7cOtMIGwEDMyesZoKvKCXAGj4'
-  lat: 40.116553
-  level: 6
-  lon: -88.242268
   mus: 11
-  name:  'Esquire Lounge'
+  name:  'Ruth Whitney Memorial Plaque'
+- fields: 8
+  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
+  lat: 40.100936
+  level: 8
+  lon: -88.250855
+  mus: 11
+  name:  'Donald F. Bresnan Memorial'
 - fields: 9
   img:  'http://lh3.ggpht.com/sisvfsphxy7AK_2qrrqb7lNJk3_7ciHSVJyodINYITBc-UqugyNOooCxKupgJKEg5m_x95eZwouSO2WCmN60ew'
   lat: 40.098579
@@ -82,12 +89,19 @@
   lon: -88.249603
   mus: 11
   name:  'Chef Ra Memorial Plaque'
-- fields: 11
+- fields: 4
+  img:  'http://lh5.ggpht.com/arF148UpHKIzlt5NezBSpFkItJk3gWq__xkPolNCeVTwHNpQNm1rzIwSdA2oAJBPtaLhpTHcVdAFFdHAXm8k'
+  lat: 40.118383
+  level: 7
+  lon: -88.247003
+  mus: 9
+  name:  'T E Berger Memorial Plaque'
+- fields: 10
   img:  'http://lh3.ggpht.com/5iH9kzVECg-dsKRPYTzLzAT5eoYnDhGrcJB1N-hLShal9eEun1_Ml0oFX2c42cGNjKj8-yvsEnUn2j4C_90'
   lat: 40.11792
-  level: 6
+  level: 7
   lon: -88.249845
-  mus: 10
+  mus: 8
   name:  'Thomas R. Sandrock'
 - fields: 7
   img:  'http://lh6.ggpht.com/rjO65LTfxlehqnFITx_AAA2JKpsmpj8hWVQifyHaji2E1suLvQntKGeHtT8TjDg7CZ94W3wDKW2MrfGY45k'
@@ -103,13 +117,20 @@
   lon: -88.25193
   mus: 6
   name:  'Seeds of Kindness Bench'
-- fields: 5
-  img:  'http://lh6.ggpht.com/xu-kOcmcs7cEhiGrfwfSF-Yt_Dna_MrRGDjw6oGSBLDdDm-SAFB8FI2G4yXWx_EOD1TRY5rTtvBxNxRkTQU'
-  lat: 40.118361
+- fields: 8
+  img:  'http://lh5.ggpht.com/v26lJtVx6k_bS8UIv0cuwFV2H-bR_kPwjkydaZjqk7BOG1VyLpoQFvuFB7ZmKZpWB_uCHi70HLzZoI4xZgo1'
+  lat: 40.116491
   level: 6
-  lon: -88.244573
+  lon: -88.246701
   mus: 6
-  name:  'Art Theater'
+  name:  'Emmanuel Memorial Episcopal Church'
+- fields: 8
+  img:  'http://lh6.ggpht.com/9IW6Hm5bd65CbdAqPB8OgjAYQoF7CaPE37U44dbXIYzTWE7ulgSEzfxqVTOGVqCglU_0W2iHo9ZjRqRefq27'
+  lat: 40.116904
+  level: 6
+  lon: -88.249558
+  mus: 6
+  name:  'Gerald Guest Memorial Tree'
 - fields: 3
   img:  'http://lh6.ggpht.com/MsCeiBKy8tV3-ziINPCBPzkisfwOnBClSPr68FUxT1uMHlVmqtyTYYxNAZapU8bvWdcmm0lsmIzjMyv0CTJ2tQ'
   lat: 40.095364
@@ -117,20 +138,27 @@
   lon: -88.217386
   mus: 5
   name:  'Miles C Hartley Selection Garden'
-- fields: 8
-  img:  'http://lh6.ggpht.com/9IW6Hm5bd65CbdAqPB8OgjAYQoF7CaPE37U44dbXIYzTWE7ulgSEzfxqVTOGVqCglU_0W2iHo9ZjRqRefq27'
-  lat: 40.116904
-  level: 5
-  lon: -88.249558
+- fields: 3
+  img:  'http://lh6.ggpht.com/xu-kOcmcs7cEhiGrfwfSF-Yt_Dna_MrRGDjw6oGSBLDdDm-SAFB8FI2G4yXWx_EOD1TRY5rTtvBxNxRkTQU'
+  lat: 40.118361
+  level: 7
+  lon: -88.244573
   mus: 5
-  name:  'Gerald Guest Memorial Tree'
-- fields: 5
-  img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
-  lat: 40.117107
-  level: 6
-  lon: -88.242467
+  name:  'Art Theater'
+- fields: 6
+  img:  'http://lh6.ggpht.com/SCYK-XeMmOyfRrTt1-aQNoDA-2Sib4m5Ch26mTwo6XNdVeVnfi7W74Ik6IRLAPSoKzSS97pgwt50Jl9oSgGfP029USxZzQWKNJo3rbs-6YHBPBif'
+  lat: 40.116792
+  level: 7
+  lon: -88.241752
+  mus: 5
+  name:  'WEFT 90.1 FM Community Radio'
+- fields: 2
+  img:  'http://lh4.ggpht.com/FAqopsayR2vfoblDs12USLGHxH0S1lfng6IlvgMPO2k4a1fKXYQnDWf0Lbf3zAqLfMU0aGaHpSZxycRqft9pmQ'
+  lat: 40.119381
+  level: 2
+  lon: -88.24555
   mus: 4
-  name:  'Radio Maria'
+  name:  'The Lodge on Hill'
 - fields: 1
   img:  'http://lh4.ggpht.com/CYtXDlK6MB-Yl-FmKw6yaRt-LGUdQqAdRp3LsWV1JUYwC8qrVWWJaGEaqMtMtRpANFpNeD4z82iGL54nIARL'
   lat: 40.141919
@@ -138,13 +166,20 @@
   lon: -88.244611
   mus: 4
   name:  'Marketplace Mall Carousel'
-- fields: 6
-  img:  'http://lh5.ggpht.com/v26lJtVx6k_bS8UIv0cuwFV2H-bR_kPwjkydaZjqk7BOG1VyLpoQFvuFB7ZmKZpWB_uCHi70HLzZoI4xZgo1'
-  lat: 40.116491
-  level: 5
-  lon: -88.246701
-  mus: 3
-  name:  'Emmanuel Memorial Episcopal Church'
+- fields: 3
+  img:  'http://lh4.ggpht.com/-MJc8fCVxpxV7prlhkP3sXPWZ7jsr8Behc29zUJqdz_V57jSg7SzyMUUv7B9Frzu36mJhM2PQkr_LJk-zyM'
+  lat: 40.117729
+  level: 6
+  lon: -88.243645
+  mus: 4
+  name:  'Watson''s'
+- fields: 4
+  img:  'http://lh6.ggpht.com/xQx5BUJcAI_QUroJGe77pPkgV7s_ACVui8PXvCyvmehuDvenmRIvKBGeevOacNR6W3pLMMSh4sVrvXm87QeN2eylsZEtz7pxB-CMvzLmH1WyVZ16uw'
+  lat: 40.11786
+  level: 6
+  lon: -88.248031
+  mus: 4
+  name:  'Lincoln Megalith'
 - fields: 1
   img:  'http://lh6.ggpht.com/pl5oR4FCND0a0Q-mQup5HICNRjhS3egUwDw6TLae-WELnIVKImRv37VnqU1buGdTqclPRg4Y-DniP4NVyIWp1O8YKUDQDp2HiIePNFBzVqDJS1vJ'
   lat: 40.09627
@@ -153,23 +188,23 @@
   mus: 3
   name:  'Idea Garden'
 - fields: 2
-  img:  'http://lh4.ggpht.com/Ow-wdEqY3uMRz8f_iGkOY7s4f79TTfxQK15aQu3wgtzRssq6mUqmxZcJDjfC4fO2y4Qt69U2jdahRt-Ald53'
-  lat: 40.118119
-  level: 6
-  lon: -88.24714
-  mus: 2
-  name:  'Police and Firefighters Memorial'
-- fields: 2
   img:  'http://lh5.ggpht.com/aeGh3iXJqJ7skg-2JHEpngMSfcp1qDIEPoLMxzQNqbS5Y7HcxN7oE789bXiVFoFIcdCn7-3AhLPtxT_WE2E'
   lat: 40.0985
   level: 8
   lon: -88.248681
   mus: 2
   name:  'Siti Sculpture'
+- fields: 2
+  img:  'http://lh4.ggpht.com/DXAAQEV-pW-laeGTPphalYn5MoUFYMOyKbjs7rL1bBgkOlCxtaEH7bLcuvNbiQTWzFZK1ZPcNbwuEjw20-od'
+  lat: 40.116869
+  level: 6
+  lon: -88.249849
+  mus: 2
+  name:  'Don and Ruth Dobbins Memorial'
 - fields: 3
   img:  'http://lh6.ggpht.com/QKHOcl5WKE1EB7Y8PfPqhuJQN7SxpWIvLb13vJp2KJC61ToSi1evTEpgeOtPjAfKuIlQnBq1tApVM5TwJHI'
   lat: 40.118042
-  level: 6
+  level: 7
   lon: -88.248912
   mus: 2
   name:  'Indian War Memorial'
@@ -180,13 +215,6 @@
   lon: -88.250141
   mus: 2
   name:  'Bob and Wilma Tinkham'
-- fields: 3
-  img:  'http://lh3.ggpht.com/CwgYIhVaivHHg_U6yqu5KSGhSh9ipRBDu7G192KiQfrnXc7C8uh7UOh6MP91vhZJ3LZdiTaFwpvFukvIaj6J'
-  lat: 40.117445
-  level: 7
-  lon: -88.243409
-  mus: 2
-  name:  'From Swords to Plowshares'
 - fields: 1
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
@@ -197,17 +225,38 @@
 - fields: 3
   img:  'http://lh6.ggpht.com/cnBQN3RYcZFSdxYB52bvMYRD2aTSlDG0_cqBQ8coo0ueKTtGxldE0xGjNPF6xlYJtnba8oUyEKwBeYbO8CY5'
   lat: 40.116631
-  level: 6
+  level: 7
   lon: -88.246951
   mus: 1
   name:  'Lyle Blue Memorial'
 - fields: 2
   img:  'http://lh6.ggpht.com/uAhsK1gCBrCPvIEZ8lZRhDGbO9Q75uu9su3qhSkktViExCuvIvXGCLwZXT-_riPd4rI3tTvsLqqn6XO3msF4'
   lat: 40.116558
-  level: 6
+  level: 7
   lon: -88.249136
   mus: 1
   name:  'Babe and Gene Wilder Memorial Plaque'
+- fields: 2
+  img:  'http://lh6.ggpht.com/PXc3YHSOsx0c_WrfpzvHHiHEl1FSv5RvbgXj7Ji3-xS7oBwJIkFCD8eQySiUega_iQvX8FiUBuDhXdK9l9QWIA'
+  lat: 40.116623
+  level: 4
+  lon: -88.240844
+  mus: 1
+  name:  'R. Forrest Colwell Memorial'
+- fields: 2
+  img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
+  lat: 40.117107
+  level: 6
+  lon: -88.242467
+  mus: 1
+  name:  'Radio Maria'
+- fields: 1
+  img:  'http://lh4.ggpht.com/HMXgPSuj_Qc06z-u_ElF6pgeWVoxqEAZoT0woVULj2jB8M-G8a4In71YBTnsPrCaJTLx0DFoqB8lQ2847L9M'
+  lat: 40.112187
+  level: 4
+  lon: -88.235913
+  mus: 1
+  name:  'Scott Park Pavilion'
 - fields: 2
   img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
   lat: 40.100691
@@ -216,26 +265,33 @@
   mus: 1
   name:  'In Loving Memory of Zeus'
 - fields: 1
-  img:  'http://lh3.googleusercontent.com/oYQaQpOQ2HICancOs0DcaCqX1KiTJEoAeKp6EUWBs5u-TjTKqJlzTSzA0QMldAg6HLWb3rX4m4_cwKwGCtpV'
-  lat: 40.118684
-  level: 5
-  lon: -88.244894
-  mus: 1
-  name:  'Farren''s Pub and Eatery'
-- fields: 1
   img:  'http://lh6.ggpht.com/NXptd9bdifQT6cVxz-SPGUsryPaznp8rV3omDk0J50MnN5Mmu6oiYNa0FXIgG8FnFreUVsSPzRvQNZXYcO6G'
   lat: 40.11817
-  level: 6
+  level: 7
   lon: -88.249381
   mus: 1
   name:  'Bicentennial Tree'
 - fields: 1
   img:  'http://lh4.ggpht.com/ULEhKlvERD4aidwSKPhLFujl0N0mZWcHPxtcJ7hNJkyDjYek9yrB4UD_G8bU-O9-12L1LYpDkM068BiYmpm9weZeGJsz-K5whCvUYTfmDqaIp1Fp'
   lat: 40.117
-  level: 6
+  level: 7
   lon: -88.247111
   mus: 1
   name:  'Wesley Robert Weedman Memorial'
+- fields: 1
+  img:  'http://lh3.googleusercontent.com/tWUxy7KQ-q_qBBIgLzTjjezrBpWPSJ_z3FWnvbB8Y5wIiYZW1I5ioL0Tzq60VyalCaIwOk4UI3agM8tFaykY'
+  lat: 40.117427
+  level: 6
+  lon: -88.243235
+  mus: 1
+  name:  'Cowboy Monkey'
+- fields: 1
+  img:  'http://lh4.ggpht.com/9jXAzAxn0JZrLkU9VK9p-mNzjw3x_6QqwMAn4CAEBAHp_lo2iDZeV_y-hoUzP5CYwm8kOMyrTToZQOWJBRnw'
+  lat: 40.115095
+  level: 6
+  lon: -88.249052
+  mus: 1
+  name:  'Bayne & Schumacher Fountain'
 - fields: 1
   img:  'http://lh5.ggpht.com/5bCoRsqGBM0hx50ymfbZ8NhvyAyQDJWMnSg6qaDe-zxvwzVZW6O5IZWCDefH-pIsFZzvUaCcBBK9kqNDwXW3'
   lat: 40.128048
@@ -243,10 +299,3 @@
   lon: -88.290536
   mus: 1
   name:  'In Memory of David Foster Wallace'
-- fields: 1
-  img:  'http://lh3.googleusercontent.com/5FkLhIMVmAJJSslAXVxY1RNxi-4q5mNAVPK2XgU5LwRM8qcB8BGXOK0GmF6Y_xfgPOhwF_CrbcgVZlJx-Pza'
-  lat: 40.11652
-  level: 6
-  lon: -88.241845
-  mus: 1
-  name:  'Mike ''N Molly''s'
