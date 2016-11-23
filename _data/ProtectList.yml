@@ -901,13 +901,6 @@
   lon: -88.225191
   mus: 34
   name:  'Eleanor Hammers Boner'
-- fields: 5
-  img:  'http://lh5.ggpht.com/NV7qwJUoztAVld_2ohxeFi790MJW_YB_4wO5YfsQW08MmR00yciAjfep2xtLeKFLE8QDlUFSiwbp3Rw2jjag'
-  lat: 40.09841
-  level: 8
-  lon: -88.205103
-  mus: 34
-  name:  'J C Blair Monument '
 - fields: 6
   img:  'http://lh6.ggpht.com/n_LMwtvxbWlYfCgK6MerzbQVpmDR9rqxJUrEnA8OAeCIYBi6zbeLqYCldCtXZDSV1IHsYOpgoO60Od3TGJ3h'
   lat: 40.103207
@@ -1062,13 +1055,6 @@
   lon: -88.22503
   mus: 20
   name:  'Dancing Horse Metalwork Art'
-- fields: 3
-  img:  'http://lh3.ggpht.com/nEmxwddo6XwjpSBtzzXHCx_v9wYD5ITuVRx4VF0emrxiLFZGpsBb4HkcXFS4BAR3ZhrmD8t2YDKEWF7NGxV7'
-  lat: 40.099595
-  level: 5
-  lon: -88.206642
-  mus: 20
-  name:  'Blair Park Shuffle Board Courts'
 - fields: 3+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.195188
@@ -1090,6 +1076,13 @@
   lon: -88.222743
   mus: 17
   name:  'Fire Station'
+- fields: 3
+  img:  'http://lh5.ggpht.com/NV7qwJUoztAVld_2ohxeFi790MJW_YB_4wO5YfsQW08MmR00yciAjfep2xtLeKFLE8QDlUFSiwbp3Rw2jjag'
+  lat: 40.09841
+  level: 8
+  lon: -88.205103
+  mus: 17
+  name:  'J C Blair Monument '
 - fields: 3
   img:  'http://lh3.ggpht.com/KnNYiTjbSfT8lzl-5r3OkJW1ptOP-d5JkDibk9pg1eydNzpy_IgdiC-kCRNUSoBP9nFsblvWr7t9IC4qMU0'
   lat: 40.109369
@@ -1153,13 +1146,6 @@
   lon: -88.292578
   mus: 15
   name:  'Campus Solar System - Venus'
-- fields: 4
-  img:  'http://lh6.ggpht.com/SOEkawCv91wHrlqOJdkbN9KzhF3V8Uc1_VE_5V-PUNZhbJ9jXtSHQLjSEP4PGO091UFjUtYxX4Ikg7x6rE0LNawabllL4qbEUfQY-thKMrIXW2E'
-  lat: 40.100186
-  level: 7
-  lon: -88.205286
-  mus: 15
-  name:  'Blair Park Viewing Pavilion'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.195019
@@ -1230,13 +1216,27 @@
   lon: -88.242132
   mus: 11
   name:  'Nuclear Physics Lab'
-- fields: 3
-  img:  'http://lh5.ggpht.com/POqHe98NzuBf0a60NvZTCOYoC0L6aw_FSOZMaxr88kV1-papt0D2DM7cRXxDK-_qXTmzSJspa4Zzh9ao7rOaN0iWFYVm5G01GVzh-4gAlR8OFvTH'
-  lat: 40.09976
-  level: 6
-  lon: -88.205422
+- fields: 1
+  img:  'http://lh5.ggpht.com/lagLH-yy6la5yqn0YoNwS7uxRSPXDfSP2QwvgnDmG-ZcaxqMNKYlASfYjw50kzq9GOOJ-0nmAa-3IlmGe-A'
+  lat: 40.105777
+  level: 5
+  lon: -88.222002
   mus: 11
-  name:  'Ann and Ben Schrumpf Memorial'
+  name:  'Preschool Learning Plaque'
+- fields: 1
+  img:  'http://lh3.ggpht.com/gSjoDo9KYu-lgQFkD5uUnj4HXGc1BOihKfh-rNeZu_Q3hHyEkaBoalqYiV46QcvH9y4o8cPkHP_cmo_LxCyo4Q'
+  lat: 40.10214
+  level: 8
+  lon: -88.218932
+  mus: 11
+  name:  'Twin City Bible Church'
+- fields: 1
+  img:  'http://lh6.ggpht.com/X4iXokslnWFDeqwj8O471yVpY1yt3JaXPzv5dxVokmSQVqso_Ouz7xzlKgu986CiYn1RE6zBANqvPf2F3-fjPA'
+  lat: 40.103188
+  level: 7
+  lon: -88.219107
+  mus: 11
+  name:  'Alpha Gamma Delta '
 - fields: 5
   img:  'http://lh6.ggpht.com/cYQLNtCsiRGXd_y7-ZdI4jGlNRpC4oiy2Z7UT7etDH3FBvBRQDtOW_rY0NBvKLJMnTw_EXH75NDGMcI6UkeV'
   lat: 40.105618
@@ -1630,6 +1630,13 @@
   mus: 2
   name:  'Zeb'
 - fields: 2
+  img:  'http://lh6.ggpht.com/SOEkawCv91wHrlqOJdkbN9KzhF3V8Uc1_VE_5V-PUNZhbJ9jXtSHQLjSEP4PGO091UFjUtYxX4Ikg7x6rE0LNawabllL4qbEUfQY-thKMrIXW2E'
+  lat: 40.100186
+  level: 7
+  lon: -88.205286
+  mus: 2
+  name:  'Blair Park Viewing Pavilion'
+- fields: 2
   img:  'http://lh4.ggpht.com/vxjetUOC6_S8Ru3Q1ivzG4NE4bAAWg7_opiMwStExCoUHiRaIab8NyXLypEOAo7KBtsRQRzJX-TimhsOlBu3'
   lat: 40.087121
   level: 6
@@ -1692,6 +1699,13 @@
   lon: -88.249061
   mus: 2
   name:  'Randy William Auteberry Memorial'
+- fields: 1
+  img:  'http://lh5.ggpht.com/POqHe98NzuBf0a60NvZTCOYoC0L6aw_FSOZMaxr88kV1-papt0D2DM7cRXxDK-_qXTmzSJspa4Zzh9ao7rOaN0iWFYVm5G01GVzh-4gAlR8OFvTH'
+  lat: 40.09976
+  level: 6
+  lon: -88.205422
+  mus: 2
+  name:  'Ann and Ben Schrumpf Memorial'
 - fields: 1
   img:  'http://lh5.ggpht.com/fGRHfMAqdWrUnPE8GStKSdMkgQmu9qvuxAC4VzcU1v2KyxQu2BeuJKhvhefSeFNTkgFh6YdR-F4P6plMbh0'
   lat: 40.110194
