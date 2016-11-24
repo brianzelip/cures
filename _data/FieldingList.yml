@@ -28,7 +28,7 @@
   resos2: 8
 - img1: http://i.imgur.com/LujBo5P.png
   img2: http://i.imgur.com/LujBo5P.png
-  intel: https://www.ingress.com/intel?ll=40.3020936667,-88.15723&z=14&pls=40.287854,-88.131527,40.310261,-88.165414
+  intel: https://www.ingress.com/intel?ll=40.3508386667,-88.1316993333&z=14&pls=40.287854,-88.131527,40.310261,-88.165414
   lat1: 40.287854
   lat2: 40.310261
   level1: '?'
@@ -70,7 +70,7 @@
   resos2: '?'
 - img1:  'http://lh3.ggpht.com/xSCQSCRT6pHyQi9LDI3OamMdZnhLQ06OSlHRHnJC0FkDo93VgOcr3gyAV0aPAKagwq9V5iViSSCgIr6_fWCB'
   img2: http://i.imgur.com/LujBo5P.png
-  intel: https://www.ingress.com/intel?ll=40.1744146667,-88.378593&z=14&pls=40.134441,-88.314067,40.193832,-88.418247
+  intel: https://www.ingress.com/intel?ll=40.1744306667,-88.3784163333&z=14&pls=40.134441,-88.314067,40.193832,-88.418247
   lat1: 40.134441
   lat2: 40.193832
   level1: 5
@@ -168,7 +168,7 @@
   resos2: 8
 - img1:  'http://lh5.ggpht.com/BiCieN-kLaA8XtzYGa1FowWTlW2QzWtnxSCf1y1ChY9WXw1kN0r1Co49FI5D_xcWRrgO-_wOvqfduWQ2o337'
   img2:  'http://lh3.ggpht.com/ZKYFxa4_Jj-OpytEiNkFmQOVv42zvLK_5wEHxLncanKrdr7RjjSoG_UYFDX0CmCUupuU2d0MGQ3l1pbl0zF1'
-  intel: https://www.ingress.com/intel?ll=40.0885393333,-88.259084&z=14&pls=40.092411,-88.257688,40.083873,-88.265912
+  intel: https://www.ingress.com/intel?ll=40.0884466667,-88.263835&z=14&pls=40.092411,-88.257688,40.083873,-88.265912
   lat1: 40.092411
   lat2: 40.083873
   level1: 7
@@ -178,20 +178,6 @@
   mus: 848
   name1:  'Champaign Fire Department'
   name2:  'Dan Morrissey Park'
-  resos1: 8
-  resos2: 8
-- img1:  'http://lh5.ggpht.com/ol0RXlyBNe6HMdo476xfY8RSKSHpownpuvzXzt79iXCP5m5YSzxfK5L7hdm7bLVjLavR90KL_lSCQnAXcrQ'
-  img2:  'http://lh6.ggpht.com/A3o1Nm3JPbfRGX8fs0D87GlAc2sSTKVl6IimAZxRyIfLyPcsMcbx7s4WqUTkMcz70wzyETv1zaJZtlBTRdBG'
-  intel: https://www.ingress.com/intel?ll=40.0809613333,-88.2702536667&z=14&pls=40.075288,-88.256822,40.083723,-88.288027
-  lat1: 40.075288
-  lat2: 40.083723
-  level1: 6
-  level2: 7
-  lon1: -88.256822
-  lon2: -88.288027
-  mus: 772
-  name1:  'First Baptist Church of Savoy'
-  name2:  'Windsor Road Christian Church'
   resos1: 8
   resos2: 8
 - img1:  'http://lh5.ggpht.com/j6Gqd19ib1ziWv7UKoq4_fMXeXtxxdV85TchQ49_mIgeJYs7oUWOj860aB2Ok8NGNY5wNfMqDn7zeSKOgpxEzQ'
@@ -278,6 +264,20 @@
   name2:  'Champaign Fire Department'
   resos1: 8
   resos2: 8
+- img1:  'http://lh6.ggpht.com/Y-1z4Z6omM2DNHuIAI8mnNq6VGjJqmgna_Auu_O3S8JPHj9NvZCN3-g4Zh99rgYZHTf-Scllt67AhCsevf7JuA'
+  img2:  'http://lh3.ggpht.com/ZKYFxa4_Jj-OpytEiNkFmQOVv42zvLK_5wEHxLncanKrdr7RjjSoG_UYFDX0CmCUupuU2d0MGQ3l1pbl0zF1'
+  intel: https://www.ingress.com/intel?ll=40.0789446667,-88.2774743333&z=14&pls=40.069447,-88.289932,40.083873,-88.265912
+  lat1: 40.069447
+  lat2: 40.083873
+  level1: 5
+  level2: 7
+  lon1: -88.289932
+  lon2: -88.265912
+  mus: 587
+  name1:  'Curtis Road Church of God'
+  name2:  'Dan Morrissey Park'
+  resos1: 8
+  resos2: 8
 - img1:  'http://lh3.googleusercontent.com/Y_tt1T3L4hwgfoM9WAoWl_iUdE_djgpah00bBWDeQGlKVgz2R7GQzHL9nVHcL4wQxZKMFt6u_PIdd9sSPz4U'
   img2:  'http://lh3.googleusercontent.com/3nkY0B9PDqzlWJ_EKh5GnTZ8z0U6X9-2dI5dapKA5Q3F4iKrE99AJZoy6NSvh2nU1WTG2hL70276yJjJ0G8'
   intel: https://www.ingress.com/intel?ll=40.1335326667,-88.234598&z=14&pls=40.12744,-88.22595,40.141598,-88.238817
@@ -362,32 +362,18 @@
   name2:  'Town Center Park Champaign Park District'
   resos1: 8
   resos2: 8
-- img1:  'http://lh6.ggpht.com/Y-1z4Z6omM2DNHuIAI8mnNq6VGjJqmgna_Auu_O3S8JPHj9NvZCN3-g4Zh99rgYZHTf-Scllt67AhCsevf7JuA'
-  img2:  'http://lh6.ggpht.com/A3o1Nm3JPbfRGX8fs0D87GlAc2sSTKVl6IimAZxRyIfLyPcsMcbx7s4WqUTkMcz70wzyETv1zaJZtlBTRdBG'
-  intel: https://www.ingress.com/intel?ll=40.0789733333,-88.290969&z=14&pls=40.069447,-88.289932,40.083723,-88.288027
-  lat1: 40.069447
-  lat2: 40.083723
+- img1:  'http://lh4.ggpht.com/-P9_K1M8m41FpGEgfyih0JNuexcc1mtm7Hq3LOuozksba15MIQWefDgfBs20Uuf61Txiy9-ALeKCMVWuBi4'
+  img2:  'http://lh5.ggpht.com/ol0RXlyBNe6HMdo476xfY8RSKSHpownpuvzXzt79iXCP5m5YSzxfK5L7hdm7bLVjLavR90KL_lSCQnAXcrQ'
+  intel: https://www.ingress.com/intel?ll=40.0808916667,-88.2664376667&z=14&pls=40.083514,-88.276579,40.075288,-88.256822
+  lat1: 40.083514
+  lat2: 40.075288
   level1: 5
-  level2: 7
-  lon1: -88.289932
-  lon2: -88.288027
-  mus: 400
-  name1:  'Curtis Road Church of God'
-  name2:  'Windsor Road Christian Church'
-  resos1: 8
-  resos2: 8
-- img1:  'http://lh3.ggpht.com/QEyg9qI3dxOUOHZ2ZicziSPwV02TvNf8e-b1wUGRVzr-3XpxkRr7RMgwXadotR4NVhiqK1ZOU0cPko0qepaXBg'
-  img2:  'http://lh6.ggpht.com/A3o1Nm3JPbfRGX8fs0D87GlAc2sSTKVl6IimAZxRyIfLyPcsMcbx7s4WqUTkMcz70wzyETv1zaJZtlBTRdBG'
-  intel: https://www.ingress.com/intel?ll=40.082394,-88.2721616667&z=14&pls=40.079586,-88.262546,40.083723,-88.288027
-  lat1: 40.079586
-  lat2: 40.083723
-  level1: 5
-  level2: 7
-  lon1: -88.262546
-  lon2: -88.288027
-  mus: 385
-  name1:  'Noel Park'
-  name2:  'Windsor Road Christian Church'
+  level2: 6
+  lon1: -88.276579
+  lon2: -88.256822
+  mus: 383
+  name1:  'Christie Clinic Hospital '
+  name2:  'First Baptist Church of Savoy'
   resos1: 8
   resos2: 8
 - img1: http://i.imgur.com/LujBo5P.png
@@ -403,20 +389,6 @@
   name1:  '5cba3f0112ba4c8f8e55e1a34871febd.16'
   name2:  'Student Union Building'
   resos1: '?'
-  resos2: 8
-- img1:  'http://lh3.ggpht.com/ehNwLdaa71H3Bylm063pawn4caIGz2rCdmmdBhAFWIuEt2kPjT8nWHDkSuoOidckWiM82FWpDSNGQqQMHiQ'
-  img2:  'http://lh3.googleusercontent.com/dnlQAi9ftw9Nx79Zq-2jo6-EvJCMD8vcxJZcy5NWGDJ3iOxzhM2gXtGvrqke6-N3F3kKBkK5Bev6RRF5RS7y'
-  intel: https://www.ingress.com/intel?ll=40.089042,-88.2898863333&z=14&pls=40.098209,-88.28689,40.08375,-88.294948
-  lat1: 40.098209
-  lat2: 40.08375
-  level1: 7
-  level2: 7
-  lon1: -88.28689
-  lon2: -88.294948
-  mus: 370
-  name1:  'First Church of the Nazarene'
-  name2:  'Park District Flower Island'
-  resos1: 8
   resos2: 8
 - img1:  'http://lh4.ggpht.com/naCrG9-DL9k67Zqi0gC4SkIN_RQ_zodz4FK1IHNXbc08mmpwSYOasBdjXKK05UnqtA_LobI75w9qmf4dfQjU'
   img2:  'http://lh6.ggpht.com/QhX7LQjknZJxL4GjIVRORINW4Ftw5F854uaMsoIWpHQNzoc_1c8nRxsoxw27U0InC7UZkcxueRyo8sqyTD7-iA'
@@ -628,6 +600,20 @@
   name2:  'Framer''s Market'
   resos1: 8
   resos2: 8
+- img1:  'http://lh4.ggpht.com/-P9_K1M8m41FpGEgfyih0JNuexcc1mtm7Hq3LOuozksba15MIQWefDgfBs20Uuf61Txiy9-ALeKCMVWuBi4'
+  img2:  'http://lh3.ggpht.com/QEyg9qI3dxOUOHZ2ZicziSPwV02TvNf8e-b1wUGRVzr-3XpxkRr7RMgwXadotR4NVhiqK1ZOU0cPko0qepaXBg'
+  intel: https://www.ingress.com/intel?ll=40.0823243333,-88.2683456667&z=14&pls=40.083514,-88.276579,40.079586,-88.262546
+  lat1: 40.083514
+  lat2: 40.079586
+  level1: 5
+  level2: 5
+  lon1: -88.276579
+  lon2: -88.262546
+  mus: 190
+  name1:  'Christie Clinic Hospital '
+  name2:  'Noel Park'
+  resos1: 8
+  resos2: 8
 - img1:  'http://lh3.ggpht.com/ch_nluYT5gzNuJG1bx-wUfhv1JWNmo-DYdwq2rPOJaUrvUFpsWPH07BUuDj9xUKqsN0oIl8bX3iWOys5TuNV1Q'
   img2:  'http://lh3.ggpht.com/swF7asGHDD1L9hslewSBg2z-tocpd_HXkIYuOmz739SWxCj8KBqf-kcOPOFPoE8pLXKDxR6Z8jAJ8Kx7Fbnc'
   intel: https://www.ingress.com/intel?ll=40.087963,-88.2509596667&z=14&pls=40.084517,-88.249848,40.089334,-88.253652
@@ -794,6 +780,20 @@
   mus: 158
   name1:  'Dodds Park'
   name2:  'Hidden Street Art '
+  resos1: 8
+  resos2: 8
+- img1:  'http://lh4.ggpht.com/QglOgByM0vkX6053iLwC1J5_RJICPxQFhSLw8Nwpeb7Z_EWKBUBylLnuHPIZwJHSL2uw66c5ozET1BxTtt60'
+  img2:  'http://lh3.ggpht.com/swF7asGHDD1L9hslewSBg2z-tocpd_HXkIYuOmz739SWxCj8KBqf-kcOPOFPoE8pLXKDxR6Z8jAJ8Kx7Fbnc'
+  intel: https://www.ingress.com/intel?ll=40.0852136667,-88.260518&z=14&pls=40.082434,-88.26199,40.089334,-88.253652
+  lat1: 40.082434
+  lat2: 40.089334
+  level1: 5
+  level2: 7
+  lon1: -88.26199
+  lon2: -88.253652
+  mus: 158
+  name1:  'Copper Creek Church'
+  name2:  'Mattis Park'
   resos1: 8
   resos2: 8
 - img1:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
@@ -992,20 +992,6 @@
   name2:  'Theb Sculpture'
   resos1: 8
   resos2: 8
-- img1:  'http://lh3.ggpht.com/1FtcyHMJRhFifRLb3-BiKpl51XTW56r_DM5chcCXA0F1nwRDjcqv1FFQZoj42pyMoGxHo0Wq98ovWw-FBjDjFA'
-  img2:  'http://lh6.ggpht.com/LyaU22v39AOkJHcUFyqH4BSVK7y4vBDxE8A8zSSaxcivtU_ZKZ105usb8lkbHkZNCW1PnmiHy3Cl_WxFnYJE'
-  intel: https://www.ingress.com/intel?ll=40.0854723333,-88.2931243333&z=14&pls=40.086561,-88.289447,40.086106,-88.294978
-  lat1: 40.086561
-  lat2: 40.086106
-  level1: 5
-  level2: 6
-  lon1: -88.289447
-  lon2: -88.294978
-  mus: 106
-  name1:  'Meadow Square Park'
-  name2:  'Robeson Meadows Trail'
-  resos1: 8
-  resos2: 8
 - img1:  'http://lh3.ggpht.com/_CmMOfi2PqTv1S_kKyTIXg3gslk5AbH-pFLizpe8WbXoFdbGuJr3TPxjhKMQ-S_aFIIqHqtyZcTahtz_9DVe'
   img2:  'http://lh5.ggpht.com/5UaLE3V21PH3K-ll263IWHlDVaOq4PYO9XS1VbHCODkFpHVo0mhfw8Aa7fYVnaZEV2GjenVIF0xrznTiQAbfkw'
   intel: https://www.ingress.com/intel?ll=40.1105536667,-88.1977333333&z=14&pls=40.105857,-88.188478,40.112948,-88.201552
@@ -1090,6 +1076,20 @@
   name2:  'Snyder Hall'
   resos1: 8
   resos2: 8
+- img1:  'http://lh4.ggpht.com/QglOgByM0vkX6053iLwC1J5_RJICPxQFhSLw8Nwpeb7Z_EWKBUBylLnuHPIZwJHSL2uw66c5ozET1BxTtt60'
+  img2:  'http://lh5.ggpht.com/ol0RXlyBNe6HMdo476xfY8RSKSHpownpuvzXzt79iXCP5m5YSzxfK5L7hdm7bLVjLavR90KL_lSCQnAXcrQ'
+  intel: https://www.ingress.com/intel?ll=40.0805316667,-88.2615746667&z=14&pls=40.082434,-88.26199,40.075288,-88.256822
+  lat1: 40.082434
+  lat2: 40.075288
+  level1: 5
+  level2: 6
+  lon1: -88.26199
+  lon2: -88.256822
+  mus: 84
+  name1:  'Copper Creek Church'
+  name2:  'First Baptist Church of Savoy'
+  resos1: 8
+  resos2: 8
 - img1:  'http://lh3.ggpht.com/wkPcdDupubV3THJo6r2OpMtshziiIkqBISPTCPe8boa-8nH33u83Mznkr1yYWNR_l60RCy8HO_obqrdNGUI'
   img2:  'http://lh4.ggpht.com/z_Fp4CjBJYtN4kSA8B6McrcZLVB4_KD9Hti35M_32PXV6LsudmzxIitDELx-nbrk2VMgnhYGZ-Zc89L0OAR7'
   intel: https://www.ingress.com/intel?ll=40.0915416667,-88.2445713333&z=14&pls=40.093633,-88.246611,40.086676,-88.243056
@@ -1162,7 +1162,7 @@
   resos2: 8
 - img1:  'http://lh4.ggpht.com/-3OGrQoPMUHMTXGrQd8VSoFpu2nJzMezJO7qlgOrkiAgRUQ9cB8Ga3vnp5RecAdoF0N9PpnJ-x4nBpeoRXI'
   img2:  'http://lh3.ggpht.com/BTOxkIG5jV6VaSJtyt1Kge-WlIsvddZuz7YzzqkQhAMWxgfE71ab2wqWdKY20M9-6zbGlVq43XMJ2CrZDqU'
-  intel: https://www.ingress.com/intel?ll=40.128022,-88.2739663333&z=14&pls=40.129194,-88.262938,40.127246,-88.276738
+  intel: https://www.ingress.com/intel?ll=40.1279803333,-88.2710513333&z=14&pls=40.129194,-88.262938,40.127246,-88.276738
   lat1: 40.129194
   lat2: 40.127246
   level1: 7
@@ -1750,7 +1750,7 @@
   resos2: 8
 - img1:  'http://lh4.ggpht.com/2JNDO54Hu2KzjIaEeCIFVgD7gEa5VXNBsIemFYp6cgiTUbsSpOwLTc-HqZb__uut24jHpVnQVokRVtL00ozu'
   img2:  'http://lh5.ggpht.com/_Tp5JJFIIlt0iHHyC_A_gnEm1sxUEKDHmQr0oby74HL0rnFZ5JrnuvOTPk6_vulsU_GJue_7RAAX2Y7I2Wxw4A'
-  intel: https://www.ingress.com/intel?ll=40.13208,-88.2913456667&z=14&pls=40.132056,-88.292671,40.132354,-88.292578
+  intel: https://www.ingress.com/intel?ll=40.1326283333,-88.293079&z=14&pls=40.132056,-88.292671,40.132354,-88.292578
   lat1: 40.132056
   lat2: 40.132354
   level1: 5
@@ -1778,7 +1778,7 @@
   resos2: 8
 - img1: http://i.imgur.com/LujBo5P.png
   img2: http://i.imgur.com/LujBo5P.png
-  intel: https://www.ingress.com/intel?ll=40.194829,-88.4087173333&z=14&pls=40.195404,-88.40408,40.193832,-88.418247
+  intel: https://www.ingress.com/intel?ll=40.194808,-88.4086356667&z=14&pls=40.195404,-88.40408,40.193832,-88.418247
   lat1: 40.195404
   lat2: 40.193832
   level1: '?'
@@ -1790,20 +1790,6 @@
   name2:  'c4f1bdcf000d43b8b7234a2bbb69e70c.16'
   resos1: '?'
   resos2: '?'
-- img1:  'http://lh5.ggpht.com/ol0RXlyBNe6HMdo476xfY8RSKSHpownpuvzXzt79iXCP5m5YSzxfK5L7hdm7bLVjLavR90KL_lSCQnAXcrQ'
-  img2:  'http://lh6.ggpht.com/cspFto0a9XfDVdl-Fqidc8Tfmq6jiYzEy-EH3_4t9noc0VwvurrqO2f0LBQ7OnHhVmZ4xvw0gRZBYmgSTFKK'
-  intel: https://www.ingress.com/intel?ll=40.0810136667,-88.26264&z=14&pls=40.075288,-88.256822,40.08388,-88.265186
-  lat1: 40.075288
-  lat2: 40.08388
-  level1: 6
-  level2: 6
-  lon1: -88.256822
-  lon2: -88.265186
-  mus: 26
-  name1:  'First Baptist Church of Savoy'
-  name2:  'Shield of Chichen Itza'
-  resos1: 8
-  resos2: 8
 - img1:  'http://lh5.ggpht.com/hjAc940kWyt9QT4G_BJyJKaTef3jL_Njnm8ubUtQD7u6qVsD9_7TiJbgZpKeqAv60kNw8FYspVxkn-Bt1cxYBw'
   img2:  'http://lh4.ggpht.com/PmGpygZ2fBs43twk2Y44XZbgGcHWv0YimAq7Fp3vlIRRqUyLpSmDmFwcn1ucfmJarcQrAAXJjYAXAhNyxSrz'
   intel: https://www.ingress.com/intel?ll=40.1102053333,-88.2357016667&z=14&pls=40.109959,-88.24318,40.110049,-88.231968
@@ -1918,7 +1904,7 @@
   resos2: 8
 - img1:  'http://lh4.ggpht.com/GcCZ7JTzkEHTZnUWfpUgibDh2Wa4nzGM9-k13AG4I2RwFiPa6exz1vCzj7Hwvf_oPwJvYJt0xoRE6GZXmCMX'
   img2:  'http://lh5.ggpht.com/_Tp5JJFIIlt0iHHyC_A_gnEm1sxUEKDHmQr0oby74HL0rnFZ5JrnuvOTPk6_vulsU_GJue_7RAAX2Y7I2Wxw4A'
-  intel: https://www.ingress.com/intel?ll=40.132818,-88.2930673333&z=14&pls=40.132625,-88.292636,40.132354,-88.292578
+  intel: https://www.ingress.com/intel?ll=40.1322696667,-88.291334&z=14&pls=40.132625,-88.292636,40.132354,-88.292578
   lat1: 40.132625
   lat2: 40.132354
   level1: 5
@@ -2058,7 +2044,7 @@
   resos2: 8
 - img1:  'http://lh4.ggpht.com/GcCZ7JTzkEHTZnUWfpUgibDh2Wa4nzGM9-k13AG4I2RwFiPa6exz1vCzj7Hwvf_oPwJvYJt0xoRE6GZXmCMX'
   img2:  'http://lh6.ggpht.com/6pMlM7pPsp-5PTNYZ8AJgo5ODURCPJO-_LigeHL2TMhjfK9MS17iEcpQqc89n5gyUdEO8seZrlThTGbKEqg'
-  intel: https://www.ingress.com/intel?ll=40.133033,-88.293144&z=14&pls=40.132625,-88.292636,40.132999,-88.292808
+  intel: https://www.ingress.com/intel?ll=40.1324846667,-88.2914106667&z=14&pls=40.132625,-88.292636,40.132999,-88.292808
   lat1: 40.132625
   lat2: 40.132999
   level1: 5
@@ -2656,6 +2642,20 @@
   mus: 5
   name1:  '"The Cranes" at Fox Corporate Center'
   name2:  'William C. Fox Waterway'
+  resos1: 8
+  resos2: 8
+- img1:  'http://lh4.ggpht.com/QglOgByM0vkX6053iLwC1J5_RJICPxQFhSLw8Nwpeb7Z_EWKBUBylLnuHPIZwJHSL2uw66c5ozET1BxTtt60'
+  img2:  'http://lh6.ggpht.com/cspFto0a9XfDVdl-Fqidc8Tfmq6jiYzEy-EH3_4t9noc0VwvurrqO2f0LBQ7OnHhVmZ4xvw0gRZBYmgSTFKK'
+  intel: https://www.ingress.com/intel?ll=40.0833956667,-88.2643626667&z=14&pls=40.082434,-88.26199,40.08388,-88.265186
+  lat1: 40.082434
+  lat2: 40.08388
+  level1: 5
+  level2: 6
+  lon1: -88.26199
+  lon2: -88.265186
+  mus: 5
+  name1:  'Copper Creek Church'
+  name2:  'Shield of Chichen Itza'
   resos1: 8
   resos2: 8
 - img1:  'http://lh4.ggpht.com/EsyXMnqVMX7wQ4YmoCFRiNljaJqaXrQvzyzzooqx2fPxCSkJMkdEssTbf618D8Qp9hh3E4Ud3hL1M3v-TsbO'
