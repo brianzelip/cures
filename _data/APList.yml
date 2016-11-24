@@ -71,17 +71,17 @@
   lon: -88.251947
   name:  'Our Friend Tim Palmer'
 - ap: 7035
-  img:  'http://lh6.ggpht.com/YVbqGVTjJuDMDdj71CP2mWvnUIdgO25PgoDdJwEGnEE_M9I1aDgKyjSr9JOZVU6UQTZQtfUo9RAWyz92n3jtCQ'
-  lat: 40.098475
-  level: 8
-  lon: -88.249208
-  name:  'In Fond Memory of William Moore Jr'
-- ap: 7035
   img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
   lat: 40.098959
   level: 8
   lon: -88.250141
   name:  'Bob and Wilma Tinkham'
+- ap: 7035
+  img:  'http://lh6.ggpht.com/YVbqGVTjJuDMDdj71CP2mWvnUIdgO25PgoDdJwEGnEE_M9I1aDgKyjSr9JOZVU6UQTZQtfUo9RAWyz92n3jtCQ'
+  lat: 40.098475
+  level: 8
+  lon: -88.249208
+  name:  'In Fond Memory of William Moore Jr'
 - ap: 6846
   img:  'http://lh5.ggpht.com/c-upLAoA6V12_Enn5doC2Hqtp3W9dLMIb34VHt0aVni2lW2OF5Lddn2c-1XcxmmaN7um9eyxqOF5c3c0hs4'
   lat: 40.118139
@@ -95,17 +95,17 @@
   lon: -88.245013
   name:  'New Covenant Fellowship'
 - ap: 6285
-  img:  'http://lh3.googleusercontent.com/E2FfrLzJb3mHfXBany5NUYpw8tvRpjHxGQ7W0BTKFPVcMupabCQ2fXgQfa0jajRZbLswWOYbEkCO3hUGbIGD'
-  lat: 40.099056
-  level: 8
-  lon: -88.249136
-  name:  '"Cricket" and Bob Barger Memorial'
-- ap: 6285
   img:  'http://lh6.ggpht.com/YdeB0EKlsopL39a9YXWj4JBZgXNNLWHgfe4PQzdpWCNWc0fR1YTj8WjARDHnmrusvKWTqKLcGg8U9frhtsw'
   lat: 40.09821
   level: 8
   lon: -88.249879
   name:  'Hessel Park'
+- ap: 6285
+  img:  'http://lh3.googleusercontent.com/E2FfrLzJb3mHfXBany5NUYpw8tvRpjHxGQ7W0BTKFPVcMupabCQ2fXgQfa0jajRZbLswWOYbEkCO3hUGbIGD'
+  lat: 40.099056
+  level: 8
+  lon: -88.249136
+  name:  '"Cricket" and Bob Barger Memorial'
 - ap: 6098
   img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
   lat: 40.101327
@@ -276,6 +276,12 @@
   name:  'Mary Shaw Memorial Tree'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.965697
+  level: '?'
+  lon: -87.632747
+  name:  '009d44eea192424f8eb810b69311f40a.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.895544
   level: '?'
   lon: -87.609918
@@ -370,12 +376,6 @@
   level: '?'
   lon: -87.610138
   name:  '8490a15bbc6d40e68d80c7d9626f193c.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.965697
-  level: '?'
-  lon: -87.632747
-  name:  '009d44eea192424f8eb810b69311f40a.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.894684
@@ -562,7 +562,7 @@
   level: 7
   lon: -88.235749
   name:  'Fountain at Scott Park'
-- ap: 2387
+- ap: 2312
   img:  'http://lh6.ggpht.com/BsXdEO7HLxNLSdztPo_4GNNcbxZCxswiDT4pmmcfDQ8YO2SFVW-VnwyEZBvkuhf1rxKAtoKNLvV4rDJ-YVCYUK1qiX-dId_R8P-JskyFYAK9ruM-'
   lat: 40.110234
   level: 4
