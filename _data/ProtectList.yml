@@ -61,27 +61,27 @@
   lon: -88.252978
   mus: 10446
   name:  'Skateland'
-- fields: 12
-  img:  'http://lh6.ggpht.com/JVdE8szLcx_14HOE9g6m82pfCMg53vfCWujo8nzB4Pyc7KYp6k0YdPcEdqYcFfQlvAP-vh_nNoglAAZ_Wsc'
-  lat: 40.093943
-  level: 7
-  lon: -88.22174
-  mus: 9484
-  name:  'Poisonous Plant Garden'
-- fields: 4
+- fields: 3
   img:  'http://lh4.ggpht.com/bt261V8sct8HMdZl4ckTcRY_H_hIF2eSIbeM-IkO-Tfx3NrbIUqQeoZs5tlk3Gzb5tXZ1toPUA3-iWayISuOdQ'
   lat: 40.075588
   level: 6
   lon: -88.191486
-  mus: 9204
+  mus: 7970
   name:  'First Baptist Church'
-- fields: 6
+- fields: 5
   img:  'http://lh5.ggpht.com/AEDNEBV89C8eZnLPzK5JIchcLMwZ3Ya2btWhSUFX2GmTXPf3AyqQBs9FYNVMDe-dGi4xbfJNjr2XMQaMo03_'
   lat: 40.079618
   level: 7
   lon: -88.185131
-  mus: 7753
+  mus: 7249
   name:  'South Ridge Park'
+- fields: 10
+  img:  'http://lh6.ggpht.com/JVdE8szLcx_14HOE9g6m82pfCMg53vfCWujo8nzB4Pyc7KYp6k0YdPcEdqYcFfQlvAP-vh_nNoglAAZ_Wsc'
+  lat: 40.093943
+  level: 7
+  lon: -88.22174
+  mus: 7105
+  name:  'Poisonous Plant Garden'
 - fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.134794
@@ -110,13 +110,6 @@
   lon: -88.294948
   mus: 4024
   name:  'Park District Flower Island'
-- fields: 5
-  img:  'http://lh5.ggpht.com/MQR_ZzKDnOCzhArYVQvSq3fm-6zcOGn3bneYKT9cpAuejbSEQDZBYeUPwN8D3OBLklSTSl0TJASS2zUJjUUd'
-  lat: 40.105522
-  level: 7
-  lon: -88.188493
-  mus: 3887
-  name:  'Lierman Neighborhood Community Garden'
 - fields: 6
   img:  'http://lh4.ggpht.com/bLuibWEcmeUmu61mSq5nuycU5SqWJ2L9WYTDkbGx3BPNZR7xlyJvPLg4XbJ70eIdsey-aj5_dlff9NWuId0'
   lat: 40.095956
@@ -124,6 +117,13 @@
   lon: -88.273
   mus: 3192
   name:  'Wisegarver Park'
+- fields: 3
+  img:  'http://lh5.ggpht.com/MQR_ZzKDnOCzhArYVQvSq3fm-6zcOGn3bneYKT9cpAuejbSEQDZBYeUPwN8D3OBLklSTSl0TJASS2zUJjUUd'
+  lat: 40.105522
+  level: 7
+  lon: -88.188493
+  mus: 3063
+  name:  'Lierman Neighborhood Community Garden'
 - fields: 8
   img:  'http://lh5.ggpht.com/_eMBd3V1rEFztJvtBkssKVH7eM-jiU3l9VJJ-kj6SxGZMx_7Qo6G4yjfsws8T1FhIEFwk7yvoicm8XTVERh4'
   lat: 40.084405
@@ -159,13 +159,6 @@
   lon: -88.277784
   mus: 2390
   name:  'US Post Office'
-- fields: 2
-  img:  'http://lh4.ggpht.com/LWx9allOmK1FEcRGJ5f21Q0YeGcyn36PiCKycLBJv_cjivIVX6KkaEvmEgB4ZFIT1EA01aCEiAkPFWPg1z4'
-  lat: 40.085226
-  level: 7
-  lon: -88.190716
-  mus: 2379
-  name:  'Church of Christ'
 - fields: 6
   img:  'http://lh3.ggpht.com/ZKYFxa4_Jj-OpytEiNkFmQOVv42zvLK_5wEHxLncanKrdr7RjjSoG_UYFDX0CmCUupuU2d0MGQ3l1pbl0zF1'
   lat: 40.083873
@@ -278,13 +271,6 @@
   lon: -88.258329
   mus: 1270
   name:  'Circle K 1101 N Prospect'
-- fields: 5
-  img:  'http://lh5.ggpht.com/NV7qwJUoztAVld_2ohxeFi790MJW_YB_4wO5YfsQW08MmR00yciAjfep2xtLeKFLE8QDlUFSiwbp3Rw2jjag'
-  lat: 40.09841
-  level: 8
-  lon: -88.205103
-  mus: 1258
-  name:  'J C Blair Monument '
 - fields: 8
   img:  'http://lh5.ggpht.com/e0BZy-ClP4miKQ9vYfkRIgxEUrpGMn9VCB-nRa_Kj579pT19ZzPuvvL1MRfd1Xu_pzF1eA-hvVhF6zLxaUTCsA'
   lat: 40.104118
@@ -362,13 +348,6 @@
   lon: -88.205155
   mus: 864
   name:  'Unified Sculpture'
-- fields: 2
-  img:  'http://lh3.ggpht.com/D5w16IkXAQ0YY9o7po5gAloAMlle7bjYNMt8MOeTkXrb2FcrQf_HFrBrOWk3aLKfLEjsGCYC8j5IP5IQrfDw'
-  lat: 40.085994
-  level: 7
-  lon: -88.190771
-  mus: 825
-  name:  'Kingdom Hall of Jehovah''s Witnesses'
 - fields: 3
   img:  'http://lh5.ggpht.com/RNrZiv9IbaVmf1T3BDIBtJlPClW0V2KZaJqQ9dT9zn3G2jdsIbcsYaOUXtL9xQVsWUjtbJ4EdcJVIFPGUih1'
   lat: 40.085167
@@ -747,13 +726,6 @@
   lon: -88.230676
   mus: 334
   name:  'Sousa Archives Center-Amer Music'
-- fields: 1
-  img:  'http://lh6.ggpht.com/P5Q3TM1HY9mqPQbQNDUn_h5cdo4MVdphUfMLaEb25EJWIN2xAqYTkLQUtPy4sY-0hHFESUrH5Nn0KYogzjM'
-  lat: 40.104921
-  level: 6
-  lon: -88.192636
-  mus: 322
-  name:  'Boomerangs Bar And Grill '
 - fields: 3
   img:  'http://lh3.ggpht.com/wkPcdDupubV3THJo6r2OpMtshziiIkqBISPTCPe8boa-8nH33u83Mznkr1yYWNR_l60RCy8HO_obqrdNGUI'
   lat: 40.093633
@@ -1013,6 +985,13 @@
   lon: -88.233644
   mus: 114
   name:  'Taft-Van Doren Hall'
+- fields: 4
+  img:  'http://lh5.ggpht.com/NV7qwJUoztAVld_2ohxeFi790MJW_YB_4wO5YfsQW08MmR00yciAjfep2xtLeKFLE8QDlUFSiwbp3Rw2jjag'
+  lat: 40.09841
+  level: 8
+  lon: -88.205103
+  mus: 113
+  name:  'J C Blair Monument '
 - fields: 3
   img:  'http://lh5.ggpht.com/oyiyn1Im-Ppa2y94WGbvZox7rcS2MMu45LOziU7yXZi4v2540YN6hgzBokVq2mxvpPtdDXpAwWD_vYWxjHcO'
   lat: 40.130238
