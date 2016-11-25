@@ -19,12 +19,12 @@
   lon: -88.248086
   mus: 80
   name:  'The Hartford'
-- fields: 3
+- fields: 4
   img:  'http://lh5.ggpht.com/UTu16bRRNKyJj2cFsU4mRCMkGJbH7YCAm0gQdiJKjnnZtB00kMEb_-Lhf6AnAXRia4MH6FBrWQGkBCrMUz8'
   lat: 40.120135
   level: 5
   lon: -88.253121
-  mus: 45
+  mus: 57
   name:  'Rain Garden'
 - fields: 11
   img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
@@ -33,13 +33,6 @@
   lon: -88.250855
   mus: 45
   name:  'Donald F. Bresnan Memorial'
-- fields: 7
-  img:  'http://lh3.ggpht.com/EKf-sm5ZCYuiTXX4AKzlEv7GIrHKV_TLuLEfvyjAME2h47rQIOU4VRKY6CQb6qe8ZIQ_8ablR4-1JPH1JFhq0A'
-  lat: 40.116423
-  level: 6
-  lon: -88.238623
-  mus: 27
-  name:  'Champaign County Historical Museum'
 - fields: 4
   img:  'http://lh5.ggpht.com/0m1i3CJSj3bKhLj5BgXi8SFpgoihNsBoN6fpccgDU2tjtPcA5BqB1IxvR0yAX9FWkgt3_Q8gbAyGfdJDliGP'
   lat: 40.115142
@@ -47,6 +40,13 @@
   lon: -88.238658
   mus: 19
   name:  'First Street Antiques'
+- fields: 5
+  img:  'http://lh3.ggpht.com/EKf-sm5ZCYuiTXX4AKzlEv7GIrHKV_TLuLEfvyjAME2h47rQIOU4VRKY6CQb6qe8ZIQ_8ablR4-1JPH1JFhq0A'
+  lat: 40.116423
+  level: 6
+  lon: -88.238623
+  mus: 16
+  name:  'Champaign County Historical Museum'
 - fields: 1+
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.197114
@@ -138,13 +138,6 @@
   lon: -88.249381
   mus: 3
   name:  'Bicentennial Tree'
-- fields: 4
-  img:  'http://lh6.ggpht.com/SCYK-XeMmOyfRrTt1-aQNoDA-2Sib4m5Ch26mTwo6XNdVeVnfi7W74Ik6IRLAPSoKzSS97pgwt50Jl9oSgGfP029USxZzQWKNJo3rbs-6YHBPBif'
-  lat: 40.116792
-  level: 5
-  lon: -88.241752
-  mus: 3
-  name:  'WEFT 90.1 FM Community Radio'
 - fields: 1+
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.203785
@@ -174,19 +167,19 @@
   mus: 2
   name:  'West Side Park'
 - fields: 2
+  img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
+  lat: 40.116989
+  level: 6
+  lon: -88.242255
+  mus: 2
+  name:  'Blind Pig'
+- fields: 2
   img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
   lat: 40.098959
   level: 8
   lon: -88.250141
   mus: 2
   name:  'Bob and Wilma Tinkham'
-- fields: 3
-  img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
-  lat: 40.117107
-  level: 6
-  lon: -88.242467
-  mus: 2
-  name:  'Radio Maria'
 - fields: 2
   img:  'http://lh6.ggpht.com/ka79B_ahK9kHLiOCOnKsp3SooZlPGgMuIOO25OaqPU7eoUALOBzaa40ZCStdo4v6rCYW0VS_pNgW3PJyUDKxpXI-n55zohIxJwRJEq5gslJKwS5ykQ'
   lat: 40.11794
@@ -197,7 +190,7 @@
 - fields: 1
   img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
   lat: 40.116071
-  level: 6
+  level: 5
   lon: -88.229243
   mus: 2
   name:  'Circle K 609 E University'
@@ -271,13 +264,6 @@
   lon: -88.249052
   mus: 1
   name:  'Bayne & Schumacher Fountain'
-- fields: 1
-  img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
-  lat: 40.115838
-  level: 7
-  lon: -88.241338
-  mus: 1
-  name:  'Illinois Terminal'
 - fields: 1
   img:  'http://lh3.ggpht.com/I2Up882o0nHzQof3uWaDFK7KQHkYOu1XgKoXUgQotITYJDh--80GzLnOSI8TxKF3RxsF32zcsYmRF8Fiugpt'
   lat: 40.116413
