@@ -1,3 +1,10 @@
+- fields: 4
+  img:  'http://lh4.ggpht.com/Tpl5ga1h9vBjG88A6xRDnvBxx7F1epdVZYUY-FNnoOS6H_0OkWXC-RqCtNsk5WSZcOBwMvdY56QCHo0hvoE'
+  lat: 40.102744
+  level: 5
+  lon: -88.277916
+  mus: 548
+  name:  'Church of God in Christ'
 - fields: 7
   img:  'http://lh5.ggpht.com/0m1i3CJSj3bKhLj5BgXi8SFpgoihNsBoN6fpccgDU2tjtPcA5BqB1IxvR0yAX9FWkgt3_Q8gbAyGfdJDliGP'
   lat: 40.115142
@@ -5,20 +12,13 @@
   lon: -88.238658
   mus: 355
   name:  'First Street Antiques'
-- fields: 4
-  img:  'http://lh5.ggpht.com/j6Gqd19ib1ziWv7UKoq4_fMXeXtxxdV85TchQ49_mIgeJYs7oUWOj860aB2Ok8NGNY5wNfMqDn7zeSKOgpxEzQ'
-  lat: 40.108781
-  level: 5
-  lon: -88.271694
-  mus: 268
-  name:  'Champaign Church of Christ'
 - fields: 3
-  img:  'http://lh6.ggpht.com/QhX7LQjknZJxL4GjIVRORINW4Ftw5F854uaMsoIWpHQNzoc_1c8nRxsoxw27U0InC7UZkcxueRyo8sqyTD7-iA'
-  lat: 40.113262
+  img:  'http://lh3.ggpht.com/jr89yrsC941ycnfQPQzYkTPCedQ8Suo8eiPCcNLvq0n0fw48_pywxGTqTsKaVh_KXAiza3ke5pjMejqiaD0'
+  lat: 40.111568
   level: 5
-  lon: -88.257966
-  mus: 145
-  name:  'Grace Lutheran Church'
+  lon: -88.267345
+  mus: 182
+  name:  'Illinois American Water Tower'
 - fields: 4
   img:  'http://lh3.ggpht.com/psgrRGIt786cUSq8EV7SBSDsS-aptrUKjaCXWv864H7OaJL2K71qJpxU9Iw-acwFMi52ZN2qpEmicGmlmhJq'
   lat: 40.121061
@@ -26,6 +26,13 @@
   lon: -88.250227
   mus: 78
   name:  'Curtis F. Columbia Legacy Plaque'
+- fields: 6
+  img:  'http://lh6.ggpht.com/5CDidk0pqfUtSW_Yqouuf3diX8drdMu9DoT728QpSz8q6A-WxNhT0yLcgM_7gGpyIAeXrHiTkIzzaVJFgnN9WA'
+  lat: 40.099852
+  level: 7
+  lon: -88.251947
+  mus: 56
+  name:  'Our Friend Tim Palmer'
 - fields: 1
   img:  'http://lh3.ggpht.com/RPwmqKgDoVBfLknuC-LM6Vvni6av9IgVxpZapS8lQSDH-fHokPS_j6pH-R9dax4sKqOB5naETVESobfZWDrC'
   lat: 40.102705
@@ -40,12 +47,12 @@
   lon: -88.238491
   mus: 35
   name:  'Skelton Park'
-- fields: 9
+- fields: 7
   img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
   lat: 40.100936
   level: 8
   lon: -88.250855
-  mus: 19
+  mus: 14
   name:  'Donald F. Bresnan Memorial'
 - fields: 9
   img:  'http://lh3.ggpht.com/sisvfsphxy7AK_2qrrqb7lNJk3_7ciHSVJyodINYITBc-UqugyNOooCxKupgJKEg5m_x95eZwouSO2WCmN60ew'
@@ -54,13 +61,6 @@
   lon: -88.249603
   mus: 11
   name:  'Chef Ra Memorial Plaque'
-- fields: 4
-  img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
-  lat: 40.100822
-  level: 7
-  lon: -88.25193
-  mus: 6
-  name:  'Seeds of Kindness Bench'
 - fields: 2
   img:  'http://lh4.ggpht.com/oknWvsn3j_8LLqgIevkEiU6a-r9RO-ylFPYVgOPQ6wBXGmnyvWFCGC4eG8qo7Z28JPMEoBE4DUFq2FPfFdXR9Q'
   lat: 40.112908
@@ -75,10 +75,17 @@
   lon: -88.238014
   mus: 4
   name:  'Champaign Waterfall'
+- fields: 3
+  img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
+  lat: 40.100691
+  level: 7
+  lon: -88.251337
+  mus: 3
+  name:  'In Loving Memory of Zeus'
 - fields: 4
   img:  'http://lh5.ggpht.com/dRrlHXlT2nMNgZNHiYo52ha9L-Xay9DyOJR2Cpqs74hgAJ09abn9OTAtMzRVedt1_R9ObZllLO98vRhNMfgTgVsJCk1S-HJwX_XgiGpG4lz3a328'
   lat: 40.11671
-  level: 6
+  level: 7
   lon: -88.24263
   mus: 2
   name:  'Cafe Kopi'
@@ -110,13 +117,13 @@
   lon: -88.225998
   mus: 2
   name:  'Lifesaving Antibiotic Plaque'
-- fields: 2
-  img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
-  lat: 40.100691
-  level: 7
-  lon: -88.251337
+- fields: 1
+  img:  'http://lh6.ggpht.com/nRwew4OU3JNWRI1-xCyuN1xwDabajLFDuSlOZ-_M8BwJELli4V8o30JI0UyF6Kpc4gfDGdh10kJ6mD6ggMo'
+  lat: 40.108561
+  level: 5
+  lon: -88.250039
   mus: 1
-  name:  'In Loving Memory of Zeus'
+  name:  'Harris Park'
 - fields: 1
   img:  'http://lh6.ggpht.com/o2VurlR2tYmjBqeWvy5vP3SJrV3BzcB4ykC1ZJswZX-Ayk5UGKvyekuWJPOzxgUest3mjDDMXCaxmttCN8Qw'
   lat: 40.117523
