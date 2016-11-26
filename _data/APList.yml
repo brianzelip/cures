@@ -175,7 +175,7 @@
 - ap: 6472
   img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
   lat: 40.116989
-  level: 6
+  level: 7
   lon: -88.242255
   name:  'Blind Pig'
 - ap: 6472
@@ -256,18 +256,6 @@
   level: 6
   lon: -88.238014
   name:  'Champaign Waterfall'
-- ap: 5722
-  img:  'http://lh6.ggpht.com/D4r1KWBUGF8ZJDUXBHVcNVeP66FVliNQrEX0n-jZkYyFnWUfZ_vfBIAt4padKNgvgmextrkL2-kxkv6JbS3u'
-  lat: 40.110394
-  level: 5
-  lon: -88.219509
-  name:  'University Of Illinois'
-- ap: 5722
-  img:  'http://lh5.ggpht.com/1yq3oFq9p_Yl5cUf5h7IEfZPAbae2MT7lA0DFo1DHwPWPZJJ-Ez-2AE2oTzHEHWsEJQVUcUwh3j_d3kOYgDS'
-  lat: 40.110095
-  level: 3
-  lon: -88.22862
-  name:  'Alma Mater Plaza'
 - ap: 5497
   img:  'http://lh4.ggpht.com/ULEhKlvERD4aidwSKPhLFujl0N0mZWcHPxtcJ7hNJkyDjYek9yrB4UD_G8bU-O9-12L1LYpDkM068BiYmpm9weZeGJsz-K5whCvUYTfmDqaIp1Fp'
   lat: 40.117
@@ -293,23 +281,11 @@
   lon: -88.246701
   name:  'Emmanuel Memorial Episcopal Church'
 - ap: 5535
-  img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
-  lat: 40.110241
-  level: 5
-  lon: -88.218862
-  name:  'Circle K 809 West Green St'
-- ap: 5535
   img:  'http://lh3.ggpht.com/NuEE1yevEulYAFm9UHYKLrX8fVNrXyLgFXbQ8kTjAKuT9w-Fkj18Pop2B2wikf21LHDU24uSUkIvXbfKyvy2'
   lat: 40.11738
   level: 5
   lon: -88.250259
   name:  'Heath & Vaughn Funeral Home'
-- ap: 5535
-  img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
-  lat: 40.110835
-  level: 5
-  lon: -88.218923
-  name:  'Circle K 810 W. Green'
 - ap: 5348
   img:  'http://lh4.ggpht.com/GO8F5d9Gz5q0tize1_1NxJ51SfmjJESFilw1OhfyI3I0RcdLFN2uKHr8prPX1KAdmabYL8PNJNjyqlgn7r9o'
   lat: 40.117537
@@ -328,18 +304,18 @@
   level: 8
   lon: -88.249879
   name:  'Hessel Park'
-- ap: 5048
-  img:  'http://lh6.ggpht.com/YVbqGVTjJuDMDdj71CP2mWvnUIdgO25PgoDdJwEGnEE_M9I1aDgKyjSr9JOZVU6UQTZQtfUo9RAWyz92n3jtCQ'
-  lat: 40.098475
-  level: 4
-  lon: -88.249208
-  name:  'In Fond Memory of William Moore Jr'
 - ap: 5348
   img:  'http://lh3.googleusercontent.com/E2FfrLzJb3mHfXBany5NUYpw8tvRpjHxGQ7W0BTKFPVcMupabCQ2fXgQfa0jajRZbLswWOYbEkCO3hUGbIGD'
   lat: 40.099056
   level: 8
   lon: -88.249136
   name:  '"Cricket" and Bob Barger Memorial'
+- ap: 5048
+  img:  'http://lh6.ggpht.com/YVbqGVTjJuDMDdj71CP2mWvnUIdgO25PgoDdJwEGnEE_M9I1aDgKyjSr9JOZVU6UQTZQtfUo9RAWyz92n3jtCQ'
+  lat: 40.098475
+  level: 4
+  lon: -88.249208
+  name:  'In Fond Memory of William Moore Jr'
 - ap: 5161
   img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
   lat: 40.100941
@@ -353,17 +329,23 @@
   lon: -88.251747
   name:  'Tennis Anyone'
 - ap: 5161
-  img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
-  lat: 40.100521
-  level: 7
-  lon: -88.250864
-  name:  'Gabriel Patrick Maxeiner Memorial'
-- ap: 5161
   img:  'http://lh5.ggpht.com/3t7XZHqwxLZ8Lc9YomR8FInm74U2PAA-DBk8kmdxXIrcXbKa1CoBDTlgdDJeO-_yVT3qNKRnNLzbdil1eH41iA'
   lat: 40.09935
   level: 8
   lon: -88.249766
   name:  'Jim Bickel Honorary Plaque'
+- ap: 5161
+  img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
+  lat: 40.100521
+  level: 7
+  lon: -88.250864
+  name:  'Gabriel Patrick Maxeiner Memorial'
+- ap: 4972
+  img:  'http://lh5.ggpht.com/1yq3oFq9p_Yl5cUf5h7IEfZPAbae2MT7lA0DFo1DHwPWPZJJ-Ez-2AE2oTzHEHWsEJQVUcUwh3j_d3kOYgDS'
+  lat: 40.110095
+  level: 3
+  lon: -88.22862
+  name:  'Alma Mater Plaza'
 - ap: 4785
   img:  'http://lh4.ggpht.com/kZm6lbk07IpQebQBqqCODikSi-pOMHQhQ7-c0xNGM6vqUskWUftXV4L3ymEbT0T5IELGgfJ2vrxTZvmgP9D_'
   lat: 40.117118
@@ -382,6 +364,12 @@
   level: 3
   lon: -88.223683
   name:  'Louise Freer Hall'
+- ap: 4783
+  img:  'http://lh3.ggpht.com/dBN6P2wGkcXj-MNbPjAJzN-RxmK93xRIhp29sZ6-ZmsbFoey4dGO51tP1FIFCzHjs4CIhHd-xGmflcW43R0w'
+  lat: 40.10604
+  level: 2
+  lon: -88.224625
+  name:  'Asian American Culture Center'
 - ap: 4598
   img:  'http://lh3.googleusercontent.com/0hydzoUNO41CcF2qZhlhMbaEgMVFjql3_RSDgrJLVIToqRsqh2aBcAoXsrxAlwXqgTcB1R71HZiHrjq1KdnXgA'
   lat: 40.11243
@@ -391,7 +379,7 @@
 - ap: 4598
   img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
   lat: 40.117107
-  level: 6
+  level: 7
   lon: -88.242467
   name:  'Radio Maria'
 - ap: 4598
@@ -413,11 +401,11 @@
   lon: -88.239504
   name:  'Chester Street Bar'
 - ap: 4598
-  img:  'http://lh3.ggpht.com/lGjbP2iz0XvlEWLhgCBNqkWukvjrBowKmX-1_O44U1A3_4b3-vuXzkfp7rasqU81TcPBoQO82gAzEGtBBYcR'
-  lat: 40.106058
-  level: 3
-  lon: -88.223672
-  name:  'Music Building'
+  img:  'http://lh4.ggpht.com/EsyXMnqVMX7wQ4YmoCFRiNljaJqaXrQvzyzzooqx2fPxCSkJMkdEssTbf618D8Qp9hh3E4Ud3hL1M3v-TsbO'
+  lat: 40.104688
+  level: 2
+  lon: -88.230676
+  name:  'Sousa Archives Center-Amer Music'
 - ap: 4411
   img:  'http://lh6.ggpht.com/2lDM_Uj6QcUJmWkmPhNWg-vfkJbBQAo6zb7eXC5qDTaJ5xAsoU7jPPqYmLo7zztC2Za1oH3QVrHQ78-XabqR'
   lat: 40.116398
@@ -448,12 +436,6 @@
   level: 8
   lon: -88.249214
   name:  'Bette McKown Honorary'
-- ap: 4033
-  img:  'http://lh3.ggpht.com/dBN6P2wGkcXj-MNbPjAJzN-RxmK93xRIhp29sZ6-ZmsbFoey4dGO51tP1FIFCzHjs4CIhHd-xGmflcW43R0w'
-  lat: 40.10604
-  level: 2
-  lon: -88.224625
-  name:  'Asian American Culture Center'
 - ap: 3848
   img:  'http://lh4.ggpht.com/IAi2A1ukQunZaoCY1OUJnvZC_MAEjnYzlg7vcsIuPQyLIB710_5ueVQ3El8Pok0aNvlB18-Tdo1euhYbaf0'
   lat: 40.115224
@@ -478,6 +460,12 @@
   level: 5
   lon: -88.250039
   name:  'Harris Park'
+- ap: 3661
+  img:  'http://lh5.ggpht.com/Lup2et0i5h8oHqtBffIdoyX5uclC2MBn9ZnnKnYPr4RIFSflf9bi78zBHK7QqycA0qgEev9qOk0zU-1o1hg'
+  lat: 40.108451
+  level: 5
+  lon: -88.228733
+  name:  'The Centennial Colophon'
 - ap: 3661
   img:  'http://lh6.ggpht.com/CFr5FDgsztNbeSQUq6x63c17MTKeKxsaUoY7uq6eft3-_1XjCjDOPcpjtaA8iqU-gi7m9txMeWkfG0UuT6mv'
   lat: 40.099069
@@ -569,17 +557,11 @@
   lon: -88.229504
   name:  'St. Mary''s Catholic Church'
 - ap: 3474
-  img:  'http://lh6.ggpht.com/cUV2o6ZPyJSFnHYl7jePeUIS7BrVr1H5D8Zbf7B3B8ALrTq7pTI3e271i1DHztqUGXITpiA399P3vNP83fk0'
-  lat: 40.105767
-  level: 2
-  lon: -88.223378
-  name:  'Busey Hall'
-- ap: 3474
-  img:  'http://lh3.ggpht.com/0HyRE6hI-Dp8OIZWrGjSBLw06g4xLl3H3SxdYDO-wm20QdpGQtvQ1-GBpxfAE5WNcC0D_aY-oOfGM1Wj1--EvQ'
-  lat: 40.106092
-  level: 2
-  lon: -88.223135
-  name:  'String Project Plaque'
+  img:  'http://lh3.ggpht.com/lGjbP2iz0XvlEWLhgCBNqkWukvjrBowKmX-1_O44U1A3_4b3-vuXzkfp7rasqU81TcPBoQO82gAzEGtBBYcR'
+  lat: 40.106058
+  level: 3
+  lon: -88.223672
+  name:  'Music Building'
 - ap: 3474
   img:  'http://lh3.ggpht.com/aHqOXq4BX_XXhSNRFJn0768z_1bjWEniMumNJ4FMy9Nv5j3AefPsZDiAGCehCguZ1HFOBMBXxRI4mOXd077e'
   lat: 40.112957
@@ -634,12 +616,6 @@
   level: 5
   lon: -88.245551
   name:  'The Virginia Theater'
-- ap: 2724
-  img:  'http://lh4.ggpht.com/EsyXMnqVMX7wQ4YmoCFRiNljaJqaXrQvzyzzooqx2fPxCSkJMkdEssTbf618D8Qp9hh3E4Ud3hL1M3v-TsbO'
-  lat: 40.104688
-  level: 2
-  lon: -88.230676
-  name:  'Sousa Archives Center-Amer Music'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 43.026996
@@ -760,12 +736,6 @@
   level: 4
   lon: -88.221387
   name:  'Morton Weir Memorial '
-- ap: 2537
-  img:  'http://lh5.ggpht.com/Lup2et0i5h8oHqtBffIdoyX5uclC2MBn9ZnnKnYPr4RIFSflf9bi78zBHK7QqycA0qgEev9qOk0zU-1o1hg'
-  lat: 40.108451
-  level: 5
-  lon: -88.228733
-  name:  'The Centennial Colophon'
 - ap: 2537
   img:  'http://lh6.ggpht.com/0WV0zgKIo2AbnMTwJXYSM-C6nik92XvxsPKcZps2SdFzIWJ2bY4k2dHAqdImb1hTCK910NMvQYoKlwWprt6c'
   lat: 40.12034
