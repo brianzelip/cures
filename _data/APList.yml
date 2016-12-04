@@ -41,17 +41,17 @@
   lon: -88.251747
   name:  'Tennis Anyone'
 - ap: 7035
-  img:  'http://lh4.ggpht.com/4LxsGZZMk3DnpJXUvqzrL54CHSP5TDXjUnDJyHmCCTtCJIjGEI7kxT9g4uxfSPh0X6yGLgQo1jfqbu7B8VEr'
-  lat: 40.099084
-  level: 7
-  lon: -88.251826
-  name:  'Irina P. Stewart Memorial Plaque'
-- ap: 7035
   img:  'http://lh4.ggpht.com/B_I1b0Jy3vW41RX8jjCNPP68AULplU0Pf8ddolyKmpEWCfBVShQkmjF1HfTPzDjmBBQGgOs0jHW-rUR0mv8BkA'
   lat: 40.098789
   level: 7
   lon: -88.251685
   name:  'Curtis William McKinney Memorial'
+- ap: 7035
+  img:  'http://lh4.ggpht.com/4LxsGZZMk3DnpJXUvqzrL54CHSP5TDXjUnDJyHmCCTtCJIjGEI7kxT9g4uxfSPh0X6yGLgQo1jfqbu7B8VEr'
+  lat: 40.099084
+  level: 7
+  lon: -88.251826
+  name:  'Irina P. Stewart Memorial Plaque'
 - ap: 6285
   img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
   lat: 40.100936
@@ -178,18 +178,6 @@
   level: 5
   lon: -88.234245
   name:  'Stratford House'
-- ap: 3661
-  img:  'http://lh4.ggpht.com/bt261V8sct8HMdZl4ckTcRY_H_hIF2eSIbeM-IkO-Tfx3NrbIUqQeoZs5tlk3Gzb5tXZ1toPUA3-iWayISuOdQ'
-  lat: 40.075588
-  level: 5
-  lon: -88.191486
-  name:  'First Baptist Church'
-- ap: 3661
-  img:  'http://lh5.ggpht.com/AEDNEBV89C8eZnLPzK5JIchcLMwZ3Ya2btWhSUFX2GmTXPf3AyqQBs9FYNVMDe-dGi4xbfJNjr2XMQaMo03_'
-  lat: 40.079618
-  level: 5
-  lon: -88.185131
-  name:  'South Ridge Park'
 - ap: 3286
   img:  'http://lh5.ggpht.com/KadNuhjGK6FUXezGHW1W1kfPOQV5l7gJP594EQm5nPZFLTgcTsjl4ixa-j7XitgtyJyou3q0pTfMr4i2E_avIA'
   lat: 40.118013
@@ -204,6 +192,12 @@
   name:  'Spiral Flight'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.007652
+  level: '?'
+  lon: -88.643898
+  name:  '37d37954416845b78adb14b60ac64119.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.891065
   level: '?'
   lon: -87.61055
@@ -216,10 +210,10 @@
   name:  '93a1b13c02d04db99ebaf46f118bef83.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.007652
+  lat: 41.890714
   level: '?'
-  lon: -88.643898
-  name:  '37d37954416845b78adb14b60ac64119.16'
+  lon: -87.610524
+  name:  '78cd733e94584d94ac0e1cd4d0a20cc4.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.002755
@@ -234,12 +228,6 @@
   name:  '90f5943b8759439cab93e4bba72bc4a4.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.890714
-  level: '?'
-  lon: -87.610524
-  name:  '78cd733e94584d94ac0e1cd4d0a20cc4.16'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.894684
   level: '?'
   lon: -87.609949
@@ -250,12 +238,6 @@
   level: '?'
   lon: -87.610138
   name:  '8490a15bbc6d40e68d80c7d9626f193c.16'
-- ap: 3474
-  img:  'http://lh6.ggpht.com/P5Q3TM1HY9mqPQbQNDUn_h5cdo4MVdphUfMLaEb25EJWIN2xAqYTkLQUtPy4sY-0hHFESUrH5Nn0KYogzjM'
-  lat: 40.104921
-  level: 5
-  lon: -88.192636
-  name:  'Boomerangs Bar And Grill '
 - ap: 3474
   img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
   lat: 40.117107
@@ -335,6 +317,18 @@
   lon: -89.387187
   name:  'a0f8dd4972b0415491199e1c28cae401.16'
 - ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.137212
+  level: '?'
+  lon: -87.792876
+  name:  '08abcdc5d3b040f69d546e104328d713.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.781211
+  level: '?'
+  lon: -87.758414
+  name:  '5548d5f0313047378de4a346d86327df.12'
+- ap: 2537
   img:  'http://lh3.ggpht.com/-mMz5f80ITpPoby5jxbF9QtmyShskFPdt3J1DYxUUOJnPDobi-B33A_7DJQ8N-kfYBjPJR09_PYzGhzSHm0'
   lat: 40.064501
   level: 5
@@ -370,6 +364,18 @@
   level: 2
   lon: -88.24286
   name:  'Kaufman Memorial'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/P5Q3TM1HY9mqPQbQNDUn_h5cdo4MVdphUfMLaEb25EJWIN2xAqYTkLQUtPy4sY-0hHFESUrH5Nn0KYogzjM'
+  lat: 40.104921
+  level: 5
+  lon: -88.192636
+  name:  'Boomerangs Bar And Grill '
+- ap: 2537
+  img:  'http://lh5.ggpht.com/AEDNEBV89C8eZnLPzK5JIchcLMwZ3Ya2btWhSUFX2GmTXPf3AyqQBs9FYNVMDe-dGi4xbfJNjr2XMQaMo03_'
+  lat: 40.079618
+  level: 5
+  lon: -88.185131
+  name:  'South Ridge Park'
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/DJEd6b3-MwXXA5oX_rKCuAtk2dlQ1yS2p9nG8oDmc86DmbzFvhKsP-KR9nKAzn84UUf_K5LjjTMgrt7AjCoU'
   lat: 40.110853
