@@ -10,7 +10,7 @@
   level: 6
   lon: -88.251419
   name:  'Lyman Larson Memorial'
-- ap: 8907
+- ap: 9094
   img:  'http://lh6.ggpht.com/LxVyXEFJmvSZ271mlFfYmCwyb05Kz8cIRxzMt24ZVhRzsH09nxErJw4gKErktjKpCARWfVl4Mla70NoODK2bng'
   lat: 40.11187
   level: 5
@@ -41,6 +41,12 @@
   lon: -88.224097
   name:  'Nuclear Radiation Laboratory'
 - ap: 7035
+  img:  'http://lh3.ggpht.com/bltQwmnzp2vSKYhLpzNLqB4iddy6ie0kWk9G7Wce4U9qmW3CABxbXAhF7v0oG9QLFD2q57UZuVqZCMgN3MHZfA'
+  lat: 40.118335
+  level: 6
+  lon: -88.243408
+  name:  'Downtown Fountain'
+- ap: 7035
   img:  'http://lh4.ggpht.com/B_I1b0Jy3vW41RX8jjCNPP68AULplU0Pf8ddolyKmpEWCfBVShQkmjF1HfTPzDjmBBQGgOs0jHW-rUR0mv8BkA'
   lat: 40.098789
   level: 7
@@ -70,6 +76,12 @@
   level: 1
   lon: -88.224416
   name:  'Gone Fishing'
+- ap: 6285
+  img:  'http://lh3.googleusercontent.com/FMrsRGg4e1AuMu6m4uCIpM5nawtelx8reIfMtog4nuxXU9C7--UKQnUEAm9s4Vc7OfMjfIDX5loNOw4Agz2HAw'
+  lat: 40.118715
+  level: 6
+  lon: -88.242373
+  name:  'Richard D James Mural'
 - ap: 6285
   img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
   lat: 40.098688
@@ -118,30 +130,24 @@
   level: 7
   lon: -88.251676
   name:  'Ruth and Fred Steigmann Plaque'
-- ap: 5535
+- ap: 5722
   img:  'http://lh3.googleusercontent.com/U_-4hKnh83ZT50dnywqzC7jR6ialVAMHwoWLMsG5km5adHpOU2FNmfe58sV_IDOBaVBAJbKZafokPWLzKLGgTQ'
   lat: 40.111268
   level: 2
   lon: -88.223809
   name:  'Goodwin Avenue Bridge'
+- ap: 5535
+  img:  'http://lh5.ggpht.com/KadNuhjGK6FUXezGHW1W1kfPOQV5l7gJP594EQm5nPZFLTgcTsjl4ixa-j7XitgtyJyou3q0pTfMr4i2E_avIA'
+  lat: 40.118013
+  level: 4
+  lon: -88.243445
+  name:  'Clock at Neil and Main'
 - ap: 5348
   img: http://i.imgur.com/5j1qaiT.png
   lat: 40.00737
   level: '?'
   lon: -88.643258
   name:  'edb4899e3e4b4e2480be59f92e5f2c92.11'
-- ap: 5348
-  img:  'http://lh3.googleusercontent.com/FMrsRGg4e1AuMu6m4uCIpM5nawtelx8reIfMtog4nuxXU9C7--UKQnUEAm9s4Vc7OfMjfIDX5loNOw4Agz2HAw'
-  lat: 40.118715
-  level: 6
-  lon: -88.242373
-  name:  'Richard D James Mural'
-- ap: 5348
-  img:  'http://lh3.ggpht.com/bltQwmnzp2vSKYhLpzNLqB4iddy6ie0kWk9G7Wce4U9qmW3CABxbXAhF7v0oG9QLFD2q57UZuVqZCMgN3MHZfA'
-  lat: 40.118335
-  level: 6
-  lon: -88.243408
-  name:  'Downtown Fountain'
 - ap: 5348
   img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
   lat: 40.099737
@@ -179,12 +185,6 @@
   lon: -88.631406
   name:  'c0fdf9c3dd934ce19f6a543572f6831e.16'
 - ap: 4598
-  img:  'http://lh5.ggpht.com/KadNuhjGK6FUXezGHW1W1kfPOQV5l7gJP594EQm5nPZFLTgcTsjl4ixa-j7XitgtyJyou3q0pTfMr4i2E_avIA'
-  lat: 40.118013
-  level: 4
-  lon: -88.243445
-  name:  'Clock at Neil and Main'
-- ap: 4598
   img:  'http://lh3.googleusercontent.com/v44Gf5oEZGcwkQcA2wWz-uAeDFESHj7sEloxdCJd316RPH3w_ln8_9mBEMbAqGyI_2Y2qaYp525PnRip9Rg'
   lat: 40.105315
   level: 2
@@ -203,11 +203,29 @@
   lon: -88.269694
   name:  'abe975a0621e484493d088242128d168.16'
 - ap: 4411
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.435453
+  level: '?'
+  lon: -88.24253
+  name:  '8b3047f63ddd41c1b1eb2dedb053228a.16'
+- ap: 4411
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.582966
+  level: '?'
+  lon: -88.40884
+  name:  '8f4c202f9fbd4967ab3f144a2ea656ad.16'
+- ap: 4411
   img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
   lat: 40.117107
   level: 7
   lon: -88.242467
   name:  'Radio Maria'
+- ap: 4411
+  img:  'http://lh5.ggpht.com/nirQKdy3s9r8TSV7cB7_B0l-0EsFXBkg1aitH05R0ttPhOEewGxlq1GRnlDvYFT2V8Z91hWnB9YD3WjxBvyZ'
+  lat: 40.11868
+  level: 5
+  lon: -88.243426
+  name:  '"Pointless"'
 - ap: 4411
   img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
   lat: 40.101327
@@ -281,12 +299,6 @@
   lon: -88.741511
   name:  '90f5943b8759439cab93e4bba72bc4a4.16'
 - ap: 3474
-  img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
-  lat: 40.11784
-  level: 7
-  lon: -88.24286
-  name:  'Kaufman Memorial'
-- ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.5054
   level: '?'
@@ -294,16 +306,16 @@
   name:  '554ea769847546d689a9123f08e0295c.12'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.435453
+  lat: 42.505259
   level: '?'
-  lon: -88.24253
-  name:  '8b3047f63ddd41c1b1eb2dedb053228a.16'
+  lon: -88.986085
+  name:  'ea8c1ba92b8e4053a3ef53386bc3e75e.16'
 - ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.582966
-  level: '?'
-  lon: -88.40884
-  name:  '8f4c202f9fbd4967ab3f144a2ea656ad.16'
+  img:  'http://lh4.ggpht.com/tLO2wjyCgyune3KDOlQMV_oiDRxVsHqO1gAG_0xs9TvKOiuWRVmJcO29WI7jELxoxncaXpy91kMa89Uj65JVNw'
+  lat: 40.11784
+  level: 7
+  lon: -88.24286
+  name:  'Kaufman Memorial'
 - ap: 3474
   img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
   lat: 40.106706

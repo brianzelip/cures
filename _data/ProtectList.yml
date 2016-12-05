@@ -194,6 +194,13 @@
   lon: -88.244069
   mus: 1584
   name:  'Hazel Park Playground Dedication Plaque'
+- fields: 2
+  img:  'http://lh4.ggpht.com/vbIH-PkUCBuwDTIRXA4p5jtGQ86SqYlc1e-g3Y9Ef2zaSb0ozkDD41Iq51orLhtPyShj4UzC6CPn0Unt8SY'
+  lat: 40.145108
+  level: 4
+  lon: -88.260083
+  mus: 1550
+  name:  'Historic Interpretive Map of Champaign'
 - fields: 7
   img:  'http://lh4.ggpht.com/xMwEuzjKH4LukFYgVHCFzoHtcIDwSHLCurfqG9DRuRCZOyw6nN6x8-Qngw5rUbT5kSPl7zjxG_mCoyJNHc0N'
   lat: 40.080645
@@ -229,6 +236,13 @@
   lon: -88.259842
   mus: 1296
   name:  'Indian Acres Swim Club'
+- fields: 7
+  img:  'http://lh4.ggpht.com/JHX_SjLotbx-SvlPdUyqqVRu9l-KTQ6UmgkW6CA8_Dd-BOjXrziu5dAUaFeNFGUU_Ys9eW8urHjAlxr2aw'
+  lat: 40.132314
+  level: 7
+  lon: -88.262892
+  mus: 1295
+  name:  'New Life of Champaign United Pentecostal Church'
 - fields: 5
   img:  'http://lh5.ggpht.com/RNrZiv9IbaVmf1T3BDIBtJlPClW0V2KZaJqQ9dT9zn3G2jdsIbcsYaOUXtL9xQVsWUjtbJ4EdcJVIFPGUih1'
   lat: 40.085167
@@ -264,6 +278,13 @@
   lon: -88.309106
   mus: 1176
   name:  'Turnberry Ridge Park'
+- fields: 3
+  img:  'http://lh6.ggpht.com/y9bxecO9Wm4VrE6p2LRWA8XIIUlHlYWbTSZJ6GrJrTpeVtxB7wI7cWjdLkM6gjq_eOk7n-nJOlSJ9WzGjgfG'
+  lat: 40.137123
+  level: 6
+  lon: -88.277784
+  mus: 1146
+  name:  'US Post Office'
 - fields: 5
   img:  'http://lh4.ggpht.com/x4szinl46UCjQ4FiOKdsQrr5OuNhuiDz-N7Hudes1XwubFw49qnWwOghJQ2JU1MSNUX_GD0u0pzbSP3sHwM4yw'
   lat: 40.082475
@@ -355,13 +376,6 @@
   lon: -88.273478
   mus: 742
   name:  'Westgate Bear'
-- fields: 1
-  img:  'http://lh4.ggpht.com/vbIH-PkUCBuwDTIRXA4p5jtGQ86SqYlc1e-g3Y9Ef2zaSb0ozkDD41Iq51orLhtPyShj4UzC6CPn0Unt8SY'
-  lat: 40.145108
-  level: 4
-  lon: -88.260083
-  mus: 727
-  name:  'Historic Interpretive Map of Champaign'
 - fields: 5
   img:  'http://lh3.ggpht.com/1yyUr0xGwID_g1F_OYHLjASRJrvJLD7e8r6IER_B6CliwGRrCH6cDWRVgtfWqJ0wHhNyjId_FX6mEVecAviV'
   lat: 40.11946
@@ -544,13 +558,6 @@
   lon: -88.262082
   mus: 491
   name:  'Everette Rock Garden'
-- fields: 6
-  img:  'http://lh4.ggpht.com/JHX_SjLotbx-SvlPdUyqqVRu9l-KTQ6UmgkW6CA8_Dd-BOjXrziu5dAUaFeNFGUU_Ys9eW8urHjAlxr2aw'
-  lat: 40.132314
-  level: 7
-  lon: -88.262892
-  mus: 472
-  name:  'New Life of Champaign United Pentecostal Church'
 - fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.036515
@@ -754,13 +761,6 @@
   lon: -88.268125
   mus: 331
   name:  'Gazebo At Washington Retention Park'
-- fields: 2
-  img:  'http://lh6.ggpht.com/y9bxecO9Wm4VrE6p2LRWA8XIIUlHlYWbTSZJ6GrJrTpeVtxB7wI7cWjdLkM6gjq_eOk7n-nJOlSJ9WzGjgfG'
-  lat: 40.137123
-  level: 6
-  lon: -88.277784
-  mus: 323
-  name:  'US Post Office'
 - fields: 5
   img:  'http://lh6.ggpht.com/wucaQM-REDZu6ZBHVOIE5T1apjBrc_Fk_qdbyLPPCmXafFHKlIC0w--Wrd507L8Jh2CgIKpFz9loqhrmmVzG'
   lat: 40.117429
@@ -2248,7 +2248,7 @@
 - fields: 3
   img:  'http://lh4.ggpht.com/lHmHpXRMH_OkQ_ZaCBKOe_1H4uKjbGtrlIrp1IWJE3ziHuH5jCVNEfDGTtuhBxGehg_MsT9WcAUXhpI692Y6_Q'
   lat: 40.103269
-  level: 4
+  level: 1
   lon: -88.231487
   mus: 9
   name:  'Culture on the Prairie'
@@ -2644,6 +2644,27 @@
   lon: -88.24954
   mus: 3
   name:  'John Patrick Sherlock Memorial Plaque'
+- fields: 1
+  img:  'http://lh6.ggpht.com/yE7aPklOUj6Y4vlNLUrqm7uJbj0TAVjhl_vSEgy7CHGlkTo5yyJGeTCUnRsHYe2UAZq2h_Y3AD_m3y3i2B8'
+  lat: 40.106876
+  level: 6
+  lon: -88.228565
+  mus: 2
+  name:  'Lincoln Hall Sigil'
+- fields: 1
+  img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
+  lat: 40.107753
+  level: 7
+  lon: -88.228913
+  mus: 2
+  name:  'Zipcar-Wright Street & Daniel Street'
+- fields: 1
+  img:  'http://lh4.ggpht.com/1LUozaukItxu6cHk_7wORzYYNvskCHi_wUxbNOAcIXNbgLuYn7VElFG0tzY02e6pY-AEL8nNHAL6ewLCaLMH'
+  lat: 40.10567
+  level: 7
+  lon: -88.228634
+  mus: 2
+  name:  'Public Broadcasting Plaque'
 - fields: 2
   img:  'http://lh6.ggpht.com/YdeB0EKlsopL39a9YXWj4JBZgXNNLWHgfe4PQzdpWCNWc0fR1YTj8WjARDHnmrusvKWTqKLcGg8U9frhtsw'
   lat: 40.09821
@@ -2661,7 +2682,7 @@
 - fields: 1
   img:  'http://lh5.ggpht.com/1fPvqpqXG5PDCkmegoWb9Tv9N5_MZh9XjmZpbyNEs5yPDsCscbrPB1cO_Pf8GT35HYrTF01FZ6s5VPIpjJ_20A'
   lat: 40.107098
-  level: 6
+  level: 7
   lon: -88.228984
   mus: 2
   name:  'Saint Andrew''s Church'
