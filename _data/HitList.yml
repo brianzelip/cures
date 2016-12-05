@@ -1,3 +1,10 @@
+- fields: 7
+  img:  'http://lh5.ggpht.com/KQ7QYG8rWnVxSme_uq3cOu8IreZRbztWWKHTNPBy_6GvCqP3ywy-HEoSUxqloLDeUggEVV0UhKLy8Ja0v0yPdQ'
+  lat: 40.110844
+  level: 4
+  lon: -88.224091
+  mus: 29
+  name:  'Institute of Aviation'
 - fields: 4
   img:  'http://lh3.googleusercontent.com/FMrsRGg4e1AuMu6m4uCIpM5nawtelx8reIfMtog4nuxXU9C7--UKQnUEAm9s4Vc7OfMjfIDX5loNOw4Agz2HAw'
   lat: 40.118715
@@ -5,13 +12,6 @@
   lon: -88.242373
   mus: 25
   name:  'Richard D James Mural'
-- fields: 6
-  img:  'http://lh6.ggpht.com/LxVyXEFJmvSZ271mlFfYmCwyb05Kz8cIRxzMt24ZVhRzsH09nxErJw4gKErktjKpCARWfVl4Mla70NoODK2bng'
-  lat: 40.11187
-  level: 5
-  lon: -88.220692
-  mus: 24
-  name:  'Atmospheric Sciences Building'
 - fields: 3
   img:  'http://lh4.ggpht.com/mHAXKPtOyg_DWRs5A_0yhGeDsfU4f4o3xJvzziri7o3ksPPKtMAHUkUBOb0JJ78gArdP5Q6O-UiXNDG3RHaIYQ'
   lat: 40.109339
@@ -26,6 +26,13 @@
   lon: -88.251419
   mus: 15
   name:  'Lyman Larson Memorial'
+- fields: 2
+  img:  'http://lh3.googleusercontent.com/DJEd6b3-MwXXA5oX_rKCuAtk2dlQ1yS2p9nG8oDmc86DmbzFvhKsP-KR9nKAzn84UUf_K5LjjTMgrt7AjCoU'
+  lat: 40.110853
+  level: 6
+  lon: -88.238339
+  mus: 11
+  name:  'Boneyard Greenway'
 - fields: 5
   img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
   lat: 40.100286
@@ -33,6 +40,13 @@
   lon: -88.251747
   mus: 7
   name:  'Tennis Anyone'
+- fields: 3
+  img:  'http://lh6.ggpht.com/LxVyXEFJmvSZ271mlFfYmCwyb05Kz8cIRxzMt24ZVhRzsH09nxErJw4gKErktjKpCARWfVl4Mla70NoODK2bng'
+  lat: 40.11187
+  level: 5
+  lon: -88.220692
+  mus: 5
+  name:  'Atmospheric Sciences Building'
 - fields: 4
   img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
   lat: 40.100941
@@ -47,13 +61,6 @@
   lon: -88.251676
   mus: 3
   name:  'Ruth and Fred Steigmann Plaque'
-- fields: 4
-  img:  'http://lh4.ggpht.com/_jAAuDi8SO5uupi8JlB3HZaFG40S15izNv_3vqOt7ro2rRHuXrfdEKfEFvRESdAjCEz3RVDpyrxJGSIrju5d'
-  lat: 40.117916
-  level: 6
-  lon: -88.243087
-  mus: 3
-  name:  'Sholem Building'
 - fields: 3
   img:  'http://lh5.ggpht.com/J4IbsPUjPF6cIlktTr1tOGHi61krS9o1eXeuAlPRBrSYUQrwdyShfNzuzxD0epa_cBMPF1xJ9YhoBA5VOQtYRw'
   lat: 40.105467
@@ -75,13 +82,6 @@
   lon: -88.251826
   mus: 2
   name:  'Irina P. Stewart Memorial Plaque'
-- fields: 2
-  img:  'http://lh5.ggpht.com/KQ7QYG8rWnVxSme_uq3cOu8IreZRbztWWKHTNPBy_6GvCqP3ywy-HEoSUxqloLDeUggEVV0UhKLy8Ja0v0yPdQ'
-  lat: 40.110844
-  level: 4
-  lon: -88.224091
-  mus: 1
-  name:  'Institute of Aviation'
 - fields: 1
   img:  'http://lh6.ggpht.com/yjfa0jJLjsfLRf9Zn9iafMp3MuIhgCi0WiOCF8GqTGiGvzEnsPGrFa0H1n-uzWhVehLbt44ShthsA32VzHd5iQ'
   lat: 40.099737
@@ -89,6 +89,20 @@
   lon: -88.251157
   mus: 1
   name:  'Tyler Van Atkins Memorial'
+- fields: 2
+  img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
+  lat: 40.116989
+  level: 7
+  lon: -88.242255
+  mus: 1
+  name:  'Blind Pig'
+- fields: 2
+  img:  'http://lh6.ggpht.com/1El0oK6CWDh7rAQeFmPEW_dA252pdq7piTtjtuQCkZvwRa689NLjEafLqQ35TI5qCW3Lmhja9PLQqKxFs9Ha'
+  lat: 40.110627
+  level: 1
+  lon: -88.227584
+  mus: 1
+  name:  'Tau Beta Pi Statue'
 - fields: 1
   img:  'http://lh4.ggpht.com/OFVPvdgB3GVpaQknHdnt2okgP3xcQksAH3wvOGYVuP85MMlxo3bQ2SRpBb0hzNfjQoC_5LlRqaE6jLB-h9Gr'
   lat: 40.108092
@@ -96,10 +110,3 @@
   lon: -88.234589
   mus: 1
   name:  'Koinonia Plaque'
-- fields: 1
-  img:  'http://lh5.ggpht.com/KadNuhjGK6FUXezGHW1W1kfPOQV5l7gJP594EQm5nPZFLTgcTsjl4ixa-j7XitgtyJyou3q0pTfMr4i2E_avIA'
-  lat: 40.118013
-  level: 4
-  lon: -88.243445
-  mus: 1
-  name:  'Clock at Neil and Main'
