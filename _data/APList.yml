@@ -35,12 +35,6 @@
   lon: -88.224097
   name:  'Nuclear Radiation Laboratory'
 - ap: 7035
-  img:  'http://lh4.ggpht.com/B_I1b0Jy3vW41RX8jjCNPP68AULplU0Pf8ddolyKmpEWCfBVShQkmjF1HfTPzDjmBBQGgOs0jHW-rUR0mv8BkA'
-  lat: 40.098789
-  level: 7
-  lon: -88.251685
-  name:  'Curtis William McKinney Memorial'
-- ap: 7035
   img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
   lat: 40.100691
   level: 6
@@ -58,6 +52,12 @@
   level: 7
   lon: -88.251826
   name:  'Irina P. Stewart Memorial Plaque'
+- ap: 7035
+  img:  'http://lh4.ggpht.com/B_I1b0Jy3vW41RX8jjCNPP68AULplU0Pf8ddolyKmpEWCfBVShQkmjF1HfTPzDjmBBQGgOs0jHW-rUR0mv8BkA'
+  lat: 40.098789
+  level: 7
+  lon: -88.251685
+  name:  'Curtis William McKinney Memorial'
 - ap: 6846
   img:  'http://lh5.ggpht.com/5WZPQL7oa-VYm5x9viEwKiCeApkaxUNXa-mHYU-9S9_fOCFAqFLktoU4hnu-RM6tx8X0tMs2PHUyDnkS6fqI'
   lat: 40.111391
@@ -65,17 +65,29 @@
   lon: -88.224416
   name:  'Gone Fishing'
 - ap: 6285
-  img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
-  lat: 40.098688
-  level: 7
-  lon: -88.25063
-  name:  '"New Holland Yellow Dinosaurs" at Hessel Park'
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.438571
+  level: '?'
+  lon: -88.244207
+  name:  '81106037016947c5ba1b57bb13c14ae5.12'
+- ap: 6285
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.582966
+  level: '?'
+  lon: -88.40884
+  name:  '8f4c202f9fbd4967ab3f144a2ea656ad.16'
 - ap: 6285
   img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
   lat: 40.100936
   level: 6
   lon: -88.250855
   name:  'Donald F. Bresnan Memorial'
+- ap: 6285
+  img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
+  lat: 40.098688
+  level: 7
+  lon: -88.25063
+  name:  '"New Holland Yellow Dinosaurs" at Hessel Park'
 - ap: 6285
   img:  'http://lh5.ggpht.com/tfAfnmo6mSMc6U0P533NMFJRGwn6lasmx-MLR2JJg1QOizMKkghFU8E7hb2zgYgdQEbgnCJUlvZIMdrrJe4'
   lat: 40.100822
@@ -154,18 +166,6 @@
   level: 2
   lon: -88.226125
   name:  'U of I Observatory'
-- ap: 4448
-  img:  'http://lh4.ggpht.com/RF7EbCh1YRbFHfis_PEc88NF1v4Ndhj-Rm7rrlY7F8s-Mrv1EMEFnajFbYiNffZ_3kMNL80Zv-_jtaMYMtLA'
-  lat: 40.110655
-  level: 1
-  lon: -88.22725
-  name:  'Gothic Brass'
-- ap: 4598
-  img:  'http://lh5.ggpht.com/LPlCgoOAlClRaVCl_B1sHDkn38OgDbXat-l5Q1bDZLP7mOUMfU8pK-o3N8BEqh0vHJcZBHo3iz2AMQKAhot7Tw'
-  lat: 40.110833
-  level: 1
-  lon: -88.227425
-  name:  'Engineering Class of 1975 Monument'
 - ap: 4411
   img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
   lat: 40.101327
@@ -208,6 +208,30 @@
   level: 5
   lon: -88.234245
   name:  'Stratford House'
+- ap: 3661
+  img:  'http://lh5.ggpht.com/LPlCgoOAlClRaVCl_B1sHDkn38OgDbXat-l5Q1bDZLP7mOUMfU8pK-o3N8BEqh0vHJcZBHo3iz2AMQKAhot7Tw'
+  lat: 40.110833
+  level: 1
+  lon: -88.227425
+  name:  'Engineering Class of 1975 Monument'
+- ap: 3511
+  img:  'http://lh4.ggpht.com/RF7EbCh1YRbFHfis_PEc88NF1v4Ndhj-Rm7rrlY7F8s-Mrv1EMEFnajFbYiNffZ_3kMNL80Zv-_jtaMYMtLA'
+  lat: 40.110655
+  level: 1
+  lon: -88.22725
+  name:  'Gothic Brass'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.444507
+  level: '?'
+  lon: -89.195605
+  name:  '5793754ce9b6470daf2409442dfc0990.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.436879
+  level: '?'
+  lon: -89.331921
+  name:  'a8d695f0cddd4ff0bcff59104e29abf4.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 39.799714
@@ -246,16 +270,10 @@
   name:  'c0fdf9c3dd934ce19f6a543572f6831e.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.438571
+  lat: 42.436636
   level: '?'
-  lon: -88.244207
-  name:  '81106037016947c5ba1b57bb13c14ae5.12'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.582966
-  level: '?'
-  lon: -88.40884
-  name:  '8f4c202f9fbd4967ab3f144a2ea656ad.16'
+  lon: -89.340513
+  name:  'bc95e712453743f8b5b048b6f9ff2c02.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.447374
@@ -274,12 +292,6 @@
   level: 5
   lon: -88.232116
   name:  'Illini Tower'
-- ap: 3099
-  img:  'http://lh6.ggpht.com/1El0oK6CWDh7rAQeFmPEW_dA252pdq7piTtjtuQCkZvwRa689NLjEafLqQ35TI5qCW3Lmhja9PLQqKxFs9Ha'
-  lat: 40.110627
-  level: 1
-  lon: -88.227584
-  name:  'Tau Beta Pi Statue'
 - ap: 3474
   img:  'http://lh4.ggpht.com/j8nn4oxG37YIXPvQKVP6CBbVkveyhoHNg8O8QFxZKgbKVegaP5OdjJl8L8HTjzdBoVKPJIFHmwN26NfE9n4'
   lat: 40.111897
@@ -340,6 +352,18 @@
   level: '?'
   lon: -88.384378
   name:  'St Boniface Cemetary'
+- ap: 2537
+  img:  'http://lh3.googleusercontent.com/vJ_iyOb44eFzOJUNpRouOPDI8rKgOESn7TWw9U9BR3OcWsb6Oak-SSfVH4iPPmtXJdk30rqet1D0KxVohiBC'
+  lat: 40.114712
+  level: 6
+  lon: -88.238392
+  name:  'Mexico Mural'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/0m1i3CJSj3bKhLj5BgXi8SFpgoihNsBoN6fpccgDU2tjtPcA5BqB1IxvR0yAX9FWkgt3_Q8gbAyGfdJDliGP'
+  lat: 40.115142
+  level: 5
+  lon: -88.238658
+  name:  'First Street Antiques'
 - ap: 2537
   img:  'http://lh6.ggpht.com/1i7JFIfvKI3IMOAekdomh9jm9HrAhBBdNIOyX81Nkq1Bh49sBqKg37sMm99MYm8yJjHsG4dBdnRg1X5Aq-c'
   lat: 40.104796
