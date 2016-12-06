@@ -161,6 +161,12 @@
   lon: -88.251412
   name:  'Zeus Memorial'
 - ap: 4411
+  img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
+  lat: 40.099353
+  level: 7
+  lon: -88.251876
+  name:  'Raymond B. Cattell Memorial'
+- ap: 4411
   img:  'http://lh3.ggpht.com/G1CvGhpethi5UmprDWxZN9rTblHa3anSsQz1UPgJtkREkfN7lDFoxFObst0609Cg5mofuZxJKr0ddNKhY4VL'
   lat: 40.098464
   level: 6
@@ -172,12 +178,6 @@
   level: 7
   lon: -88.251724
   name:  'Blessings from Devon Elaine Cattell'
-- ap: 4411
-  img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
-  lat: 40.099353
-  level: 7
-  lon: -88.251876
-  name:  'Raymond B. Cattell Memorial'
 - ap: 4411
   img:  'http://lh3.ggpht.com/whmQSPmix2tEoKcWwrVrV0H0JzNf1tzyuohI3ykSa-Qx4rUcLTf4686WcnJjygsMY2QPUWhvVVzlmMMHof94'
   lat: 40.105907
@@ -300,6 +300,12 @@
   name:  'Busey Woods Gateway Trail'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.444507
+  level: '?'
+  lon: -89.195605
+  name:  '5793754ce9b6470daf2409442dfc0990.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.418736
   level: '?'
   lon: -91.127225
@@ -312,16 +318,16 @@
   name:  'a0f8dd4972b0415491199e1c28cae401.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.424023
-  level: '?'
-  lon: -89.420689
-  name:  'ec285793e4964e4191b656903f8b55c7.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.436636
   level: '?'
   lon: -89.340513
   name:  'bc95e712453743f8b5b048b6f9ff2c02.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.424023
+  level: '?'
+  lon: -89.420689
+  name:  'ec285793e4964e4191b656903f8b55c7.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.447374
@@ -334,12 +340,6 @@
   level: '?'
   lon: -89.331921
   name:  'a8d695f0cddd4ff0bcff59104e29abf4.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 42.444507
-  level: '?'
-  lon: -89.195605
-  name:  '5793754ce9b6470daf2409442dfc0990.16'
 - ap: 2537
   img:  'http://lh3.ggpht.com/-mMz5f80ITpPoby5jxbF9QtmyShskFPdt3J1DYxUUOJnPDobi-B33A_7DJQ8N-kfYBjPJR09_PYzGhzSHm0'
   lat: 40.064501
@@ -373,7 +373,7 @@
 - ap: 2537
   img:  'http://lh5.ggpht.com/0m1i3CJSj3bKhLj5BgXi8SFpgoihNsBoN6fpccgDU2tjtPcA5BqB1IxvR0yAX9FWkgt3_Q8gbAyGfdJDliGP'
   lat: 40.115142
-  level: 5
+  level: 6
   lon: -88.238658
   name:  'First Street Antiques'
 - ap: 2537
