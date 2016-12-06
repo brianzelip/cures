@@ -17,29 +17,35 @@
   lon: -88.250683
   name:  'Brian Clark Memorial Plaque'
 - ap: 7035
-  img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
-  lat: 40.100286
-  level: 7
-  lon: -88.251747
-  name:  'Tennis Anyone'
-- ap: 7035
-  img:  'http://lh4.ggpht.com/B_I1b0Jy3vW41RX8jjCNPP68AULplU0Pf8ddolyKmpEWCfBVShQkmjF1HfTPzDjmBBQGgOs0jHW-rUR0mv8BkA'
-  lat: 40.098789
-  level: 7
-  lon: -88.251685
-  name:  'Curtis William McKinney Memorial'
-- ap: 7035
   img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
   lat: 40.100691
   level: 6
   lon: -88.251337
   name:  'In Loving Memory of Zeus'
 - ap: 7035
+  img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
+  lat: 40.100286
+  level: 7
+  lon: -88.251747
+  name:  'Tennis Anyone'
+- ap: 7035
   img:  'http://lh4.ggpht.com/4LxsGZZMk3DnpJXUvqzrL54CHSP5TDXjUnDJyHmCCTtCJIjGEI7kxT9g4uxfSPh0X6yGLgQo1jfqbu7B8VEr'
   lat: 40.099084
   level: 7
   lon: -88.251826
   name:  'Irina P. Stewart Memorial Plaque'
+- ap: 7035
+  img:  'http://lh4.ggpht.com/B_I1b0Jy3vW41RX8jjCNPP68AULplU0Pf8ddolyKmpEWCfBVShQkmjF1HfTPzDjmBBQGgOs0jHW-rUR0mv8BkA'
+  lat: 40.098789
+  level: 7
+  lon: -88.251685
+  name:  'Curtis William McKinney Memorial'
+- ap: 6285
+  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
+  lat: 40.100936
+  level: 6
+  lon: -88.250855
+  name:  'Donald F. Bresnan Memorial'
 - ap: 6285
   img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
   lat: 40.098688
@@ -53,29 +59,23 @@
   lon: -88.25193
   name:  'Seeds of Kindness Bench'
 - ap: 6285
-  img:  'http://lh5.ggpht.com/HhVreJipNvxPRVFpmsh2BPo9PcpPO2Q2l3jCpDjIKgfKGycoTNPXR4DKiYccBXW4X-4dJf_vV0ESsWAWHcChsg'
-  lat: 40.100936
-  level: 6
-  lon: -88.250855
-  name:  'Donald F. Bresnan Memorial'
-- ap: 6285
   img:  'http://lh3.ggpht.com/rUgM7jkTqL0VHxvsSW0yWuNJF5UrU62ITflghfn4PfKjn6L4WGz0ALkv98fc_q9dmK9SSpU1PXIawGvcRwE'
   lat: 40.098246
   level: 7
   lon: -88.251974
   name:  'Hessel Park'
 - ap: 6098
-  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
-  lat: 40.100941
-  level: 6
-  lon: -88.251314
-  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
-- ap: 6098
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
   level: 6
   lon: -88.250864
   name:  'Gabriel Patrick Maxeiner Memorial'
+- ap: 6098
+  img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
+  lat: 40.100941
+  level: 6
+  lon: -88.251314
+  name:  'Gabriel Patrick Maxeiner Memorial Plaque'
 - ap: 6098
   img:  'http://lh3.ggpht.com/VrbXGwlUosNLEkVdshWUFoVa3KtlJQoEU4yLYygvftYbPCmxo644Uvar_v8Kb9RS53hB0tXgvV44GotrxZyu'
   lat: 40.098592
@@ -106,6 +106,18 @@
   level: 5
   lon: -88.233688
   name:  'University Baptist Church'
+- ap: 4785
+  img:  'http://lh3.ggpht.com/qWqDj3Ws5ffRyIXG8XxFM41dBDTOBhjCkDgKebjiDFo-5Fyj_ssgLQ_wLM82uWwB2jVkNIYN4nc5U2E3wZoBNQ'
+  lat: 40.111037
+  level: 5
+  lon: -88.245813
+  name:  'Champaign Public Library'
+- ap: 4785
+  img:  'http://lh6.ggpht.com/Jltxi7PZ9OVi8hBCUxdt9oxXQk9zmbrtHpM_jru2WhVYyY0UkNZ8h5SU3CdwMRNzZ1ZKabPR8hDCPz7p3Ms'
+  lat: 40.114439
+  level: 5
+  lon: -88.245013
+  name:  'New Covenant Fellowship'
 - ap: 4411
   img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
   lat: 40.101327
@@ -142,12 +154,24 @@
   level: 5
   lon: -88.226053
   name:  'BCS Superconductivity Theory Plaque'
-- ap: 3848
+- ap: 4035
   img:  'http://lh6.ggpht.com/C7ThuP5fwrDTu5cMDpoeGmRjotNh6eUnPf3ksvSsUj5NkHZ0yKbIUnF8cSikhX-I_7O42CTwqjhLq9z3jkIL'
   lat: 40.111844
   level: 2
   lon: -88.228609
   name:  'Talbot Labs '
+- ap: 3848
+  img:  'http://lh4.ggpht.com/9jXAzAxn0JZrLkU9VK9p-mNzjw3x_6QqwMAn4CAEBAHp_lo2iDZeV_y-hoUzP5CYwm8kOMyrTToZQOWJBRnw'
+  lat: 40.115095
+  level: 3
+  lon: -88.249052
+  name:  'Bayne & Schumacher Fountain'
+- ap: 3848
+  img:  'http://lh4.ggpht.com/IAi2A1ukQunZaoCY1OUJnvZC_MAEjnYzlg7vcsIuPQyLIB710_5ueVQ3El8Pok0aNvlB18-Tdo1euhYbaf0'
+  lat: 40.115224
+  level: 3
+  lon: -88.24957
+  name:  'Linda M. Wesolowski Memorial Sign'
 - ap: 3848
   img:  'http://lh5.ggpht.com/BKHQBYKq1WHplCUxjyl6ZyElMZVN9SFIPmdKwffI6avqoyvbXRxFSFwn-RrmpqLRdSu6LntKwTDnQvCc1n0x'
   lat: 40.110358
@@ -251,18 +275,6 @@
   lon: -88.238392
   name:  'Mexico Mural'
 - ap: 2537
-  img:  'http://lh6.ggpht.com/Jltxi7PZ9OVi8hBCUxdt9oxXQk9zmbrtHpM_jru2WhVYyY0UkNZ8h5SU3CdwMRNzZ1ZKabPR8hDCPz7p3Ms'
-  lat: 40.114439
-  level: 5
-  lon: -88.245013
-  name:  'New Covenant Fellowship'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/qWqDj3Ws5ffRyIXG8XxFM41dBDTOBhjCkDgKebjiDFo-5Fyj_ssgLQ_wLM82uWwB2jVkNIYN4nc5U2E3wZoBNQ'
-  lat: 40.111037
-  level: 5
-  lon: -88.245813
-  name:  'Champaign Public Library'
-- ap: 2537
   img:  'http://lh4.ggpht.com/QK-MghSPteFj84zczypfRI354OtF0Ptf0u9QhOj1inCSQluqoDym0gzN3kOOvcmZUZ2CTxbjRprUJ0SB3lpC'
   lat: 40.107975
   level: 5
@@ -292,6 +304,12 @@
   level: 5
   lon: -88.226793
   name:  'Bardeen Quad Structure'
+- ap: 2537
+  img:  'http://lh3.ggpht.com/aHqOXq4BX_XXhSNRFJn0768z_1bjWEniMumNJ4FMy9Nv5j3AefPsZDiAGCehCguZ1HFOBMBXxRI4mOXd077e'
+  lat: 40.112957
+  level: 5
+  lon: -88.227127
+  name:  'Early Computers Plaque'
 - ap: 2537
   img:  'http://lh3.googleusercontent.com/eTQ9CkXix_kovUmX48krAoSy9iHiLPqf47J3f7AZN6Rk3GFlkf4DJKkCp51iJvzi5Vt3M3wjjMcwOc_4scYq'
   lat: 40.127246
