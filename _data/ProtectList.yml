@@ -1889,6 +1889,13 @@
   mus: 29
   name:  'McKinley Fountain'
 - fields: 8
+  img:  'http://lh3.ggpht.com/5LauQ0fBXP1B19qO58sJB9VHwcGam3p1zZ8-GNTq2upSQO5r3w_I99N4XONxBuFaDcmb-LACk1RonkPGJKUx6_zeun6bCqEKIgtjgoInoPAgA-Bo'
+  lat: 40.104719
+  level: 6
+  lon: -88.225076
+  mus: 29
+  name:  'Darwin''s Playground'
+- fields: 8
   img:  'http://lh3.ggpht.com/nYd-393_D14GP4fiHeIzBxBwiribibe3KkVkqwo0A2KaBz3imkWBgyq_wiisXL0-RLbEESu9vTa02HbR5KcMQw'
   lat: 40.092652
   level: 5
@@ -1916,13 +1923,6 @@
   lon: -88.312376
   mus: 28
   name:  'Pony League Field'
-- fields: 7
-  img:  'http://lh3.ggpht.com/5LauQ0fBXP1B19qO58sJB9VHwcGam3p1zZ8-GNTq2upSQO5r3w_I99N4XONxBuFaDcmb-LACk1RonkPGJKUx6_zeun6bCqEKIgtjgoInoPAgA-Bo'
-  lat: 40.104719
-  level: 6
-  lon: -88.225076
-  mus: 27
-  name:  'Darwin''s Playground'
 - fields: 1
   img:  'http://lh6.ggpht.com/BUOz_9K6aZgOtyRb54zlioQbwPYQWrkeajX_5CubckGvYT-40T53nOZ5XVVrgNBMugNEjPHA0GgfWv5csos'
   lat: 40.08433
@@ -2157,7 +2157,7 @@
 - fields: 1
   img:  'http://lh4.ggpht.com/HEEvU2OlgWiV5huAu3cvNKaI-C8YKYTO3qB8WMTO7EbsjTO84KS6jLjbGCq7THZq6l63UiUKCSEqY2IADYns'
   lat: 40.091766
-  level: 4
+  level: 2
   lon: -88.250003
   mus: 14
   name:  '"The Cranes" at Fox Corporate Center'
@@ -2294,6 +2294,13 @@
   lon: -88.224625
   mus: 11
   name:  'Asian American Culture Center'
+- fields: 5
+  img:  'http://lh3.googleusercontent.com/v44Gf5oEZGcwkQcA2wWz-uAeDFESHj7sEloxdCJd316RPH3w_ln8_9mBEMbAqGyI_2Y2qaYp525PnRip9Rg'
+  lat: 40.105315
+  level: 3
+  lon: -88.226125
+  mus: 11
+  name:  'U of I Observatory'
 - fields: 4
   img:  'http://lh5.ggpht.com/pnMcOl0FAs-A861T6mvs4EQGCm08ZQGxUcMdclhxsgyUThD6KymilbixZqTcT464ZFRUnjMoFee37DuNXxcm'
   lat: 40.10719
@@ -2322,13 +2329,6 @@
   lon: -88.224932
   mus: 11
   name:  'National Center for Supercomputing Applications'
-- fields: 2
-  img:  'http://lh6.ggpht.com/Pnd8JOVl_Lm-LFi5TL9dblCUNbrwX2rh4_oKgOC5Ynga-E_Y207oGsL4Uz931FTapBrs35H98qxJU4Cm_Gk'
-  lat: 40.113024
-  level: 7
-  lon: -88.229095
-  mus: 11
-  name:  'University Place Christian Church'
 - fields: 1
   img:  'http://lh6.ggpht.com/tenpgw5pr4OCsrdIgmmHP_sx4RHH2ywHdbNxw556d5JpHC4u64HFYqCdRSeAJgfTN_7BcUv11v8NtBdlaUV8'
   lat: 40.100717
@@ -2353,7 +2353,7 @@
 - fields: 2
   img:  'http://lh3.googleusercontent.com/EvLov_3eYLGHotkWec9w3T1VCPQri5SR8JLZjbJUaxRsyGPLS4YQNXf90xlPoKjxGYlml9N8IDYKwpNvVIWlVA'
   lat: 40.114563
-  level: 4
+  level: 2
   lon: -88.228735
   mus: 10
   name:  'End Caps Sculpture at ECE'
@@ -2399,13 +2399,6 @@
   lon: -88.251826
   mus: 9
   name:  'Irina P. Stewart Memorial Plaque'
-- fields: 4
-  img:  'http://lh3.googleusercontent.com/v44Gf5oEZGcwkQcA2wWz-uAeDFESHj7sEloxdCJd316RPH3w_ln8_9mBEMbAqGyI_2Y2qaYp525PnRip9Rg'
-  lat: 40.105315
-  level: 3
-  lon: -88.226125
-  mus: 9
-  name:  'U of I Observatory'
 - fields: 2
   img:  'http://lh5.ggpht.com/qq3QmeyCYxWnJF_DzzI5wVvHF4foNyr_bF3_j5eVPHJ1omSbD2INOifPJEO3pjz4X1l4_wMGD4uOT1_w6Tid'
   lat: 40.086713
@@ -2455,6 +2448,13 @@
   lon: -88.283763
   mus: 9
   name:  'Centennial Park'
+- fields: 1
+  img:  'http://lh6.ggpht.com/Pnd8JOVl_Lm-LFi5TL9dblCUNbrwX2rh4_oKgOC5Ynga-E_Y207oGsL4Uz931FTapBrs35H98qxJU4Cm_Gk'
+  lat: 40.113024
+  level: 7
+  lon: -88.229095
+  mus: 9
+  name:  'University Place Christian Church'
 - fields: 2
   img:  'http://lh5.ggpht.com/hyt1tgr8r9kkFsN0rOP1Hs4-eQkadvsRFAGCd7uSKtvgbFc9ThHgjAfizSArYfLvgYhYFD7nh-_Qm-TqcmBE'
   lat: 40.11894
@@ -2701,6 +2701,13 @@
   mus: 4
   name:  'Water Survey Research Center L'
 - fields: 3
+  img:  'http://lh5.ggpht.com/J4IbsPUjPF6cIlktTr1tOGHi61krS9o1eXeuAlPRBrSYUQrwdyShfNzuzxD0epa_cBMPF1xJ9YhoBA5VOQtYRw'
+  lat: 40.105467
+  level: 5
+  lon: -88.225644
+  mus: 4
+  name:  'Smith Music Hall'
+- fields: 3
   img:  'http://lh4.ggpht.com/B_I1b0Jy3vW41RX8jjCNPP68AULplU0Pf8ddolyKmpEWCfBVShQkmjF1HfTPzDjmBBQGgOs0jHW-rUR0mv8BkA'
   lat: 40.098789
   level: 7
@@ -2791,20 +2798,6 @@
   lon: -88.228565
   mus: 2
   name:  'Lincoln Hall Sigil'
-- fields: 1
-  img:  'http://lh6.ggpht.com/C7ThuP5fwrDTu5cMDpoeGmRjotNh6eUnPf3ksvSsUj5NkHZ0yKbIUnF8cSikhX-I_7O42CTwqjhLq9z3jkIL'
-  lat: 40.111844
-  level: 6
-  lon: -88.228609
-  mus: 2
-  name:  'Talbot Labs '
-- fields: 1
-  img:  'http://lh5.ggpht.com/Z2EWM4D6YQHuqnLwtuPBawyQBZxTzVe9E17MKc8jOZkO0ZzkuD5zSQslY2iuXkkUnztPteUeOSHrSTz3voHC'
-  lat: 40.111166
-  level: 6
-  lon: -88.228747
-  mus: 2
-  name:  'Boneyard Creek Mural'
 - fields: 2
   img:  'http://lh4.ggpht.com/wyM69v5COeXPWWt_LnfNM6UlZe8vhGenr3i6cKAsnyELc0kC82jEE4kljcMgjf5IByJFesORVLdjdKjLoAON'
   lat: 40.068553
@@ -2875,13 +2868,6 @@
   lon: -88.228451
   mus: 2
   name:  'Electrical and Computer Engineering Building'
-- fields: 2
-  img:  'http://lh5.ggpht.com/J4IbsPUjPF6cIlktTr1tOGHi61krS9o1eXeuAlPRBrSYUQrwdyShfNzuzxD0epa_cBMPF1xJ9YhoBA5VOQtYRw'
-  lat: 40.105467
-  level: 5
-  lon: -88.225644
-  mus: 2
-  name:  'Smith Music Hall'
 - fields: 3
   img:  'http://lh3.ggpht.com/xx2cD47rj0xUKO7q4YpTX_BdojpMt5E_TmbeJ4zRwvw3dwaQwY4I6B54OreMj0zqdsGgI15rgM3br0h_e5B4'
   lat: 40.09265
