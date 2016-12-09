@@ -61,13 +61,27 @@
   lon: -88.190771
   mus: 7100
   name:  'Kingdom Hall of Jehovah''s Witnesses'
-- fields: 9
+- fields: 10
   img:  'http://lh4.ggpht.com/bt261V8sct8HMdZl4ckTcRY_H_hIF2eSIbeM-IkO-Tfx3NrbIUqQeoZs5tlk3Gzb5tXZ1toPUA3-iWayISuOdQ'
   lat: 40.075588
   level: 7
   lon: -88.191486
-  mus: 6827
+  mus: 6952
   name:  'First Baptist Church'
+- fields: 7+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.110982
+  level: '?'
+  lon: -88.163907
+  mus: 5873
+  name:  'Urbana Post Office'
+- fields: 8
+  img:  'http://lh5.ggpht.com/AEDNEBV89C8eZnLPzK5JIchcLMwZ3Ya2btWhSUFX2GmTXPf3AyqQBs9FYNVMDe-dGi4xbfJNjr2XMQaMo03_'
+  lat: 40.079618
+  level: 6
+  lon: -88.185131
+  mus: 5374
+  name:  'South Ridge Park'
 - fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.193832
@@ -103,13 +117,6 @@
   lon: -88.247404
   mus: 4482
   name:  'Larry Kanfer Gallery'
-- fields: 6+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.110982
-  level: '?'
-  lon: -88.163907
-  mus: 4338
-  name:  'Urbana Post Office'
 - fields: 8
   img:  'http://lh3.googleusercontent.com/eGP4sxnePximEFk88kdcqNxeClf1LjUbwiPTwKmCfStyP9CAq9qGtzAsbEcVWEaS0KyG8LQn7SgS3X07OU4f'
   lat: 40.122643
@@ -117,13 +124,6 @@
   lon: -88.300552
   mus: 3987
   name:  'Powell Park'
-- fields: 6
-  img:  'http://lh5.ggpht.com/AEDNEBV89C8eZnLPzK5JIchcLMwZ3Ya2btWhSUFX2GmTXPf3AyqQBs9FYNVMDe-dGi4xbfJNjr2XMQaMo03_'
-  lat: 40.079618
-  level: 6
-  lon: -88.185131
-  mus: 3714
-  name:  'South Ridge Park'
 - fields: 7
   img:  'http://lh4.ggpht.com/-P9_K1M8m41FpGEgfyih0JNuexcc1mtm7Hq3LOuozksba15MIQWefDgfBs20Uuf61Txiy9-ALeKCMVWuBi4'
   lat: 40.083514
@@ -306,6 +306,13 @@
   lon: -88.178712
   mus: 1743
   name:  'Weaver Park'
+- fields: 2+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.084522
+  level: '?'
+  lon: -88.169688
+  mus: 1661
+  name:  '9b5959945a1d4c84be40982a99b0e943.16'
 - fields: 8
   img:  'http://lh3.ggpht.com/my_h4qixFMd6jwP9asxucVH5iZ3ZW1oV4DbCKeys_8MAAp1-KYNV0YFzZtZTEd9L0ZaMl1OqucHJTPdwROI'
   lat: 40.127447
@@ -1552,13 +1559,6 @@
   lon: -88.25174
   mus: 74
   name:  'Savoy Post Office'
-- fields: 4
-  img:  'http://lh4.ggpht.com/4pxL0jEBlvHiFP3fcYdIWIAHRpyhg2RaH6Ikze3DLOSsA509375IHgRzptCjWZryzLqpuDEYLZTFDbwSKmE'
-  lat: 40.117343
-  level: 6
-  lon: -88.207767
-  mus: 71
-  name:  'Crystal Lake Park'
 - fields: 9
   img:  'http://lh4.ggpht.com/vLN74xdc8Mdgab4UjP1QUbyX42bkPBXnIqzYzkmRDi4naHiBk2kM1wUA7Mx3Pxl1dpPoMBAg9pV956MqTDk'
   lat: 40.068391
@@ -1566,6 +1566,13 @@
   lon: -88.242282
   mus: 70
   name:  'Dohme Park Flags & Mural'
+- fields: 3
+  img:  'http://lh4.ggpht.com/4pxL0jEBlvHiFP3fcYdIWIAHRpyhg2RaH6Ikze3DLOSsA509375IHgRzptCjWZryzLqpuDEYLZTFDbwSKmE'
+  lat: 40.117343
+  level: 6
+  lon: -88.207767
+  mus: 69
+  name:  'Crystal Lake Park'
 - fields: 2
   img:  'http://lh6.ggpht.com/ZSVCsC7hXcoC2GI20Sq8deYNu_RXKDePVyLUpFRUSNdceVY9OBExZbgX-tuJK4pHEVYXT9YbN7DF9kicgt25'
   lat: 40.088197
@@ -2875,20 +2882,6 @@
   lon: -88.251412
   mus: 2
   name:  'Zeus Memorial'
-- fields: 1
-  img:  'http://lh3.ggpht.com/fly4_k-hAL6P3jBmh9Bjpyde3bA0j2nkFteyQKoxTVtVahQhnhkAkLokFJPorZXmicL5B_SfFQIi-AXR0fc'
-  lat: 40.11654
-  level: 7
-  lon: -88.205347
-  mus: 2
-  name:  'Astroterra'
-- fields: 1
-  img:  'http://lh4.ggpht.com/28G0r_p-w3q04AH2p4_fR4O-CYSuWHPoKP2-xgfex5AyW9dAdobtwfB9d3kYf2bIn_izORpEbJsHQn7ExHQ_xg'
-  lat: 40.116647
-  level: 7
-  lon: -88.205155
-  mus: 2
-  name:  'Unified Sculpture'
 - fields: 2
   img:  'http://lh5.ggpht.com/yK94cjys6dDm62pDsBwEKJP8ioxZEFbb2oelmT5ZMmaNZPkqAXW00NHP3_7fvtyG796u2ZhKGfbY7To9Sdtz'
   lat: 40.088063
