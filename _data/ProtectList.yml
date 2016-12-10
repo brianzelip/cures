@@ -1378,13 +1378,6 @@
   mus: 123
   name:  'The Presidents'' Walk'
 - fields: 4
-  img:  'http://lh3.ggpht.com/X30u-Y3JoCurNlH3pvt-DlJeV7obUlOeBDbH-tkN6QcPEHvknjSz3nYF8EGtXWani_tyNgcyl2naDFhje8E'
-  lat: 40.083706
-  level: 6
-  lon: -88.251419
-  mus: 123
-  name:  'Harlan E. Moore Park'
-- fields: 4
   img:  'http://lh4.ggpht.com/bLuibWEcmeUmu61mSq5nuycU5SqWJ2L9WYTDkbGx3BPNZR7xlyJvPLg4XbJ70eIdsey-aj5_dlff9NWuId0'
   lat: 40.095956
   level: 6
@@ -1405,6 +1398,13 @@
   lon: -88.221178
   mus: 118
   name:  'Allen Residence Hall Unit One'
+- fields: 3
+  img:  'http://lh3.ggpht.com/X30u-Y3JoCurNlH3pvt-DlJeV7obUlOeBDbH-tkN6QcPEHvknjSz3nYF8EGtXWani_tyNgcyl2naDFhje8E'
+  lat: 40.083706
+  level: 6
+  lon: -88.251419
+  mus: 117
+  name:  'Harlan E. Moore Park'
 - fields: 5
   img:  'http://lh5.ggpht.com/elsd6ooriUWTBveymrnVDL6BjgxT0xg3MOrB5fAsDvIHFw-XyeBdnKWomXqK-FdNdo46Y-5KF0-wHCN6Wcux0w'
   lat: 40.123341
@@ -1426,6 +1426,13 @@
   lon: -88.252978
   mus: 108
   name:  'Skateland'
+- fields: 6
+  img:  'http://lh6.ggpht.com/PXNfY-rn4cS8Fcr7CkJnEI5-vb_hCYxTX_9VV9jNB78yHB-EjmmsP8_EiqK-icwqTxu2iRtDoSbBRCLanerX'
+  lat: 40.110685
+  level: 7
+  lon: -88.206243
+  mus: 104
+  name:  'Lincoln Square Fountain'
 - fields: 6
   img:  'http://lh4.ggpht.com/vdGNLZFnObxuCivCqYJZTZij0viFyuNB9iTlybZbb50b4Pqt_d-phv7dphv2G5JgU8Y7mc1RIokgw6SVPo-B'
   lat: 40.093415
@@ -1475,13 +1482,6 @@
   lon: -88.226962
   mus: 88
   name:  'Mount Hope'
-- fields: 5
-  img:  'http://lh6.ggpht.com/PXNfY-rn4cS8Fcr7CkJnEI5-vb_hCYxTX_9VV9jNB78yHB-EjmmsP8_EiqK-icwqTxu2iRtDoSbBRCLanerX'
-  lat: 40.110685
-  level: 7
-  lon: -88.206243
-  mus: 88
-  name:  'Lincoln Square Fountain'
 - fields: 2
   img:  'http://lh6.ggpht.com/tOF7Ft9RlLtyZFsF5nnPXT-iYLimviXLPuiXL8F6KbEzsFuJAOd95jsFivR8L_bnMpbJ6W-tXEZmSYXHE_Ix'
   lat: 40.104008
@@ -1636,6 +1636,13 @@
   lon: -88.213308
   mus: 50
   name:  'First Church of Christ Scientist'
+- fields: 4
+  img:  'http://lh3.ggpht.com/Fy0nzLr1Q8bRnwu-jzHctS6qpGCOG01KiNnG1-Dpea_zukqvudRLdbZjtk1ECbtWLHSMqCNMzPz49KPgJkGK5QtTRyyUgUwPVUe5DNtWeIt2AluLBw'
+  lat: 40.111292
+  level: 6
+  lon: -88.205182
+  mus: 50
+  name:  'Champaign County Courthouse'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.036745
@@ -1846,13 +1853,6 @@
   lon: -88.229005
   mus: 31
   name:  'The Chapel of St. John the Divine'
-- fields: 2
-  img:  'http://lh3.ggpht.com/Fy0nzLr1Q8bRnwu-jzHctS6qpGCOG01KiNnG1-Dpea_zukqvudRLdbZjtk1ECbtWLHSMqCNMzPz49KPgJkGK5QtTRyyUgUwPVUe5DNtWeIt2AluLBw'
-  lat: 40.111292
-  level: 6
-  lon: -88.205182
-  mus: 30
-  name:  'Champaign County Courthouse'
 - fields: 4
   img:  'http://lh5.ggpht.com/EKJxNTFOuD40jrzyfaaZo27LcnbJVBBxKH8MoiDi1tC4TahCXMGYOMqy4lUVaR-z2Z4Guhp4berNdA0t0x0'
   lat: 40.117598
@@ -1910,13 +1910,6 @@
   mus: 28
   name:  'Buffalo Billiam'
 - fields: 2
-  img:  'http://lh3.ggpht.com/NSxjcLPhxtGCmwD2w7NdudcJR60RYpLfLXjEWjqyD0dFnd8Xv9gqmuHrOFvrnMf8UvmDTUOqCMMpGYYKCyYK'
-  lat: 40.084118
-  level: 6
-  lon: -88.252891
-  mus: 28
-  name:  'The Church of Latter Day Saints'
-- fields: 2
   img:  'http://lh6.ggpht.com/uJ6kk4uQVfzQ22nbmRS5caadkRcM8fSpAlbvgM8KacYRDBYZtQTBKIHX7ju9ejvrdRG_oIr5QDELOwvb7L0'
   lat: 40.121759
   level: 6
@@ -1972,6 +1965,13 @@
   lon: -88.202986
   mus: 24
   name:  'First Wesleyan Church'
+- fields: 1
+  img:  'http://lh3.ggpht.com/NSxjcLPhxtGCmwD2w7NdudcJR60RYpLfLXjEWjqyD0dFnd8Xv9gqmuHrOFvrnMf8UvmDTUOqCMMpGYYKCyYK'
+  lat: 40.084118
+  level: 6
+  lon: -88.252891
+  mus: 22
+  name:  'The Church of Latter Day Saints'
 - fields: 2
   img:  'http://lh5.ggpht.com/2zEYZdL0tuQhUP5HHcOYFsPQfjx-nNDHhi8DMJEzzkjbEA9hODz2iDCcmj4S9NEGBsHW4nYYR010lA_6kyhk'
   lat: 40.10038
@@ -2000,6 +2000,13 @@
   lon: -88.22877
   mus: 20
   name:  'Greater Holy Temple Church'
+- fields: 2
+  img:  'http://lh6.ggpht.com/do_DYaj2kuC0reA8E9rCQLDp9K62ZQd4qfV0SBSo8iPPupN2U8_deQ7GHA4zS42XaiZnPqoObG_y_dRCUwNa'
+  lat: 40.11283
+  level: 7
+  lon: -88.209282
+  mus: 20
+  name:  'Cycling Mural'
 - fields: 5
   img:  'http://lh6.ggpht.com/u5RIUNNvwmfVVArV3aMq1pfZJL1wQGlrpTVT3RVePYtS4tBgEWn6bO4_vXXd-PLfnv4OMHGt9iMRSOvNt7dr'
   lat: 40.103116
@@ -2504,13 +2511,6 @@
   lon: -88.226507
   mus: 6
   name:  'Mt. Hope Mausoleum'
-- fields: 1
-  img:  'http://lh6.ggpht.com/2NvBiEF5E3wBXJ0JKc8NUUbuZm1PhUhLId32Sc_hNjaonDtojWnGWZRYwJgz-UJwMgucV2NHBfCK_51gIyU'
-  lat: 40.084725
-  level: 5
-  lon: -88.251794
-  mus: 6
-  name:  'Masonic Temple of Champaign'
 - fields: 4
   img:  'http://lh3.ggpht.com/MhImfPRi7WC74Qg-w4TCrNnC1hTih4TLCipNyUswQRp6HDkM5XS2cJqL0vrBH5sb7VdgzafkvLVAVEk3R-W6'
   lat: 40.105511
@@ -2672,6 +2672,13 @@
   lon: -88.251685
   mus: 4
   name:  'Curtis William McKinney Memorial'
+- fields: 1
+  img:  'http://lh4.ggpht.com/QGRtYb5gsWsiyn9EznIJ0ApB7yWv-SWBAH6CKgO9JRg3PCgn-s8yQMtXPkMDht8dNjPchkCRleUIBT-DnYXh'
+  lat: 40.112928
+  level: 5
+  lon: -88.209039
+  mus: 4
+  name:  'Courier Cafe'
 - fields: 3
   img:  'http://lh3.ggpht.com/VrbXGwlUosNLEkVdshWUFoVa3KtlJQoEU4yLYygvftYbPCmxo644Uvar_v8Kb9RS53hB0tXgvV44GotrxZyu'
   lat: 40.098592
