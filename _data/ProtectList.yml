@@ -145,12 +145,12 @@
   lon: -88.257672
   mus: 2585
   name:  'Friendship Crossing'
-- fields: 6
+- fields: 5
   img:  'http://lh4.ggpht.com/Ww9lgcscjGtB0ieiqyf2qK2ZzV0y3mZVpoi5ZZdPpArkbOa2B5aNli_k7t86GjD7eAeEFOw8W0oZvfr61S6Kxg'
   lat: 40.139196
   level: 7
   lon: -88.257755
-  mus: 2549
+  mus: 2534
   name:  'Market View Fountain'
 - fields: 10
   img:  'http://lh6.ggpht.com/amW2e5ycP7FvjZ3krW-9lGBG3opwCMW_jITPOqV2E_woJYL5_s2UUaxHMN9PYWWD0p7-2CKYtMsk141rldj_'
@@ -775,12 +775,12 @@
   lon: -88.223867
   mus: 378
   name:  'Dairy Experimental Plaque'
-- fields: 4
+- fields: 3
   img:  'http://lh4.ggpht.com/JHX_SjLotbx-SvlPdUyqqVRu9l-KTQ6UmgkW6CA8_Dd-BOjXrziu5dAUaFeNFGUU_Ys9eW8urHjAlxr2aw'
   lat: 40.132314
   level: 7
   lon: -88.262892
-  mus: 375
+  mus: 360
   name:  'New Life of Champaign United Pentecostal Church'
 - fields: 5
   img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
@@ -1016,7 +1016,7 @@
 - fields: 5
   img:  'http://lh4.ggpht.com/zZ2YpVpDiI1KdIQ9iI7mGJD_VtwFztJ4ZF1vRehD9OSnQ2K3433SIg22svwcqDJVfeO2fjE3fdT4eHAJWGpi'
   lat: 40.104339
-  level: 7
+  level: 3
   lon: -88.234788
   mus: 194
   name:  'Pi Kappa Phi Fraternity'
@@ -1426,20 +1426,6 @@
   lon: -88.226745
   mus: 55
   name:  'Crisis Nursery'
-- fields: 3
-  img:  'http://lh6.ggpht.com/_DubhrfG2JJ4z9B5xy_S0mtF3LC4osW9qwaXsS4wqoaNZzp1ITsiE-QTDmbe10QQdrYCW067qj-0-FfrLCAg'
-  lat: 40.113193
-  level: 7
-  lon: -88.198787
-  mus: 55
-  name:  'The Rock of Deliverance Church'
-- fields: 3
-  img:  'http://lh6.ggpht.com/Wwa41Q8FmECY78LQqYl0HhY_s03rOfYhUUaAkVLg7XnYaTMpUXddcxzmX4BDfUaLBp-kIIt-Y_PDKUBEApV7'
-  lat: 40.112734
-  level: 6
-  lon: -88.178499
-  mus: 55
-  name:  'Commissioners Grove Memorial'
 - fields: 1
   img:  'http://lh3.ggpht.com/pYhzsdnsrgDuN3LdAiJYrUWqAbZHhF2jEnBDmKvHwMl6qZL8nVL0L1K5vQCZtbH7G3vWuLY0_VaMSEc1Jjo'
   lat: 40.089056
@@ -1545,13 +1531,6 @@
   lon: -88.212935
   mus: 33
   name:  'Francis and Hermenia Kruidenier Memorial'
-- fields: 1
-  img:  'http://lh3.ggpht.com/PT4NTR04lFCXxqN8xnrhEQppaXrkIbW4n-WkUVikx4zfcqksHUun6eOqFNMG6c0UA_X97iSLI4EJTN5aHkf-aE-PnsYLjAgXkSjZEtL8BvQtGyg'
-  lat: 40.112752
-  level: 7
-  lon: -88.196586
-  mus: 33
-  name:  'Victory Park'
 - fields: 5
   img:  'http://lh3.ggpht.com/0-BDoSYQzYfR7AHH26pmRGbZ4VmB4kdhLKm3x_AV4WOsaSFFLgJwMVN-bWTz9oopIx6IJQMxGvtl5C3svl0C'
   lat: 40.104061
@@ -1713,6 +1692,20 @@
   lon: -88.227127
   mus: 23
   name:  'Early Computers Plaque'
+- fields: 2
+  img:  'http://lh6.ggpht.com/Wwa41Q8FmECY78LQqYl0HhY_s03rOfYhUUaAkVLg7XnYaTMpUXddcxzmX4BDfUaLBp-kIIt-Y_PDKUBEApV7'
+  lat: 40.112734
+  level: 6
+  lon: -88.178499
+  mus: 23
+  name:  'Commissioners Grove Memorial'
+- fields: 2
+  img:  'http://lh6.ggpht.com/_DubhrfG2JJ4z9B5xy_S0mtF3LC4osW9qwaXsS4wqoaNZzp1ITsiE-QTDmbe10QQdrYCW067qj-0-FfrLCAg'
+  lat: 40.113193
+  level: 7
+  lon: -88.198787
+  mus: 23
+  name:  'The Rock of Deliverance Church'
 - fields: 1
   img:  'http://lh3.ggpht.com/NSxjcLPhxtGCmwD2w7NdudcJR60RYpLfLXjEWjqyD0dFnd8Xv9gqmuHrOFvrnMf8UvmDTUOqCMMpGYYKCyYK'
   lat: 40.084118
@@ -1818,13 +1811,6 @@
   lon: -88.25297
   mus: 16
   name:  'Spalding Park'
-- fields: 1
-  img:  'http://lh4.ggpht.com/T-65fHAmnGmht8xdcXCF8weDy3uDecS4uOASIFtQBn7v84jrUpS3m9_rbJ1MNz5Syzjr8g_zO6YPklMYjlZQ'
-  lat: 40.13695
-  level: 7
-  lon: -88.259966
-  mus: 15
-  name:  'Goodwill Donation Center'
 - fields: 3
   img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
   lat: 40.101943
@@ -2500,7 +2486,7 @@
 - fields: 1
   img:  'http://lh5.ggpht.com/1fPvqpqXG5PDCkmegoWb9Tv9N5_MZh9XjmZpbyNEs5yPDsCscbrPB1cO_Pf8GT35HYrTF01FZ6s5VPIpjJ_20A'
   lat: 40.107098
-  level: 5
+  level: 6
   lon: -88.228984
   mus: 1
   name:  'Saint Andrew''s Church'
