@@ -40,18 +40,18 @@
   level: 6
   lon: -88.24286
   name:  'Kaufman Memorial'
+- ap: 7031
+  img:  'http://lh6.ggpht.com/j712bbvDknzGlAU87nZA1Bx45Ng-0MGA9Uvuv-3WzIKA3W51mXOZpJ-TzVSbuU3uE2AsJ5wcO7_B6WDpdRr0'
+  lat: 40.110684
+  level: 7
+  lon: -88.226053
+  name:  'BCS Superconductivity Theory Plaque'
 - ap: 6848
   img:  'http://lh6.ggpht.com/rGhR45ZFbHtxmrZSSy9V19eFoyHIDB42c6MK188isPJFWpUsW9ywNHayKt3acNvKNC8DAV6mDkUloj3aiS4'
   lat: 40.118422
   level: 6
   lon: -88.24346
   name:  'Entrance'
-- ap: 6844
-  img:  'http://lh6.ggpht.com/j712bbvDknzGlAU87nZA1Bx45Ng-0MGA9Uvuv-3WzIKA3W51mXOZpJ-TzVSbuU3uE2AsJ5wcO7_B6WDpdRr0'
-  lat: 40.110684
-  level: 7
-  lon: -88.226053
-  name:  'BCS Superconductivity Theory Plaque'
 - ap: 6659
   img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
   lat: 40.116989
@@ -292,10 +292,10 @@
   level: 3
   lon: -88.209948
   name:  'Busey Woods Gateway Trail'
-- ap: 2724
+- ap: 2574
   img:  'http://lh3.googleusercontent.com/eTQ9CkXix_kovUmX48krAoSy9iHiLPqf47J3f7AZN6Rk3GFlkf4DJKkCp51iJvzi5Vt3M3wjjMcwOc_4scYq'
   lat: 40.127246
-  level: 4
+  level: 3
   lon: -88.210084
   name:  'Gateway Trail Information Kiosk'
 - ap: 2537
@@ -318,18 +318,6 @@
   name:  '69517e12a5f64fdbaee60509ef49a60c.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.037337
-  level: '?'
-  lon: -91.064599
-  name:  'ba3bee96260a4fceb8db8899c5f24f51.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.146383
-  level: '?'
-  lon: -89.362966
-  name:  'c93c20e0546c42df83982de710d894cf.12'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 42.773767
   level: '?'
   lon: -86.210255
@@ -340,6 +328,18 @@
   level: '?'
   lon: -87.610071
   name:  'ac0239c3ac404385984dd819cebf734a.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.037337
+  level: '?'
+  lon: -91.064599
+  name:  'ba3bee96260a4fceb8db8899c5f24f51.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.146383
+  level: '?'
+  lon: -89.362966
+  name:  'c93c20e0546c42df83982de710d894cf.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.049794
@@ -436,7 +436,13 @@
   level: 6
   lon: -88.23549
   name:  'Red Lion'
-- ap: 2462
+- ap: 2537
+  img:  'http://lh3.ggpht.com/2wN9MWxEFPbMzRPAzNmaAiCOQJj_EFr94Y1YkQP_wMlyajkajmcw00gqW-EluMvpQmvnGgcQ-WdPxjcYTmr2'
+  lat: 40.106519
+  level: 6
+  lon: -88.223748
+  name:  'Thunderbird Theatre Mosaic'
+- ap: 2387
   img:  'http://lh5.ggpht.com/Z2EWM4D6YQHuqnLwtuPBawyQBZxTzVe9E17MKc8jOZkO0ZzkuD5zSQslY2iuXkkUnztPteUeOSHrSTz3voHC'
   lat: 40.111166
   level: 3
@@ -455,17 +461,17 @@
   lon: -88.234149
   name:  'Alpha Delta Phi Fraternity House'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/n-WJVk4VFfgCVfLuyItrEjDCHgOd5YN1Z1ts6qT6-RmXvFyDeNKYarXwzwHKyd5B9tGmezRoEzKX4EFKmaY'
-  lat: 40.124947
-  level: 3
-  lon: -88.210509
-  name:  'Trail Marker in Busey Woods'
-- ap: 2537
   img:  'http://lh5.ggpht.com/sF7lKjQa6S3nhaNE0eY9h2BozLXUrtnucsZvqAKKD_ZrLPFTVf8thR2l28H7-R4sxheNrwB3hEujhIk1_4E'
   lat: 40.126699
   level: 3
   lon: -88.209995
   name:  'Fly Fishing Sculpture'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/n-WJVk4VFfgCVfLuyItrEjDCHgOd5YN1Z1ts6qT6-RmXvFyDeNKYarXwzwHKyd5B9tGmezRoEzKX4EFKmaY'
+  lat: 40.124947
+  level: 3
+  lon: -88.210509
+  name:  'Trail Marker in Busey Woods'
 - ap: 2162
   img:  'http://lh3.googleusercontent.com/IjFn38FDtBJH-mPUV2G-iLjG9eOxcQ0m6Go6BOImGLXhu03Bd5Vs8EtAzPrfKH7uQFYlI_S8eQCZkaZp7kTO'
   lat: 40.125757
