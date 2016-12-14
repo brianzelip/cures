@@ -547,7 +547,7 @@
 - fields: 5
   img:  'http://lh3.ggpht.com/lSr_gDGX9o1BHZX9FUPCKAO2VVQjZ_NwTBaSNhNgjVyJ2p6BnLDByC_vIkhu637-W5nKMW2SShi0gXOlXNqY7A'
   lat: 40.097979
-  level: 7
+  level: 1
   lon: -88.247785
   mus: 530
   name:  'Jarling''s Custard Cup'
@@ -1678,20 +1678,6 @@
   lon: -88.251406
   mus: 6
   name:  'Amdocs Shelter'
-- fields: 2
-  img:  'http://lh3.ggpht.com/UcqV7o_Yw8_GGaaDMgHbyjMkowFd6fLEvVZpZ-gK4c0MfVLeIyMGz3v8JvS0D0W9p0eGJpr66nn-6KdP6iQV'
-  lat: 40.100335
-  level: 6
-  lon: -88.226507
-  mus: 6
-  name:  'Mt. Hope Mausoleum'
-- fields: 2
-  img:  'http://lh3.ggpht.com/uRfzF4ZYfUywrpeKAijCtI65UgwHP_5pgc37VOhSqnsL7lIfH4aAM3DK7HCnaTKSr2Zn24ZXjvW7xGDh-U8'
-  lat: 40.100481
-  level: 7
-  lon: -88.226962
-  mus: 6
-  name:  'Mount Hope'
 - fields: 4
   img:  'http://lh3.ggpht.com/MhImfPRi7WC74Qg-w4TCrNnC1hTih4TLCipNyUswQRp6HDkM5XS2cJqL0vrBH5sb7VdgzafkvLVAVEk3R-W6'
   lat: 40.105511
@@ -1699,13 +1685,6 @@
   lon: -88.227195
   mus: 5
   name:  'Bruce Perona Memorial Plaque'
-- fields: 1
-  img:  'http://lh3.ggpht.com/7qvblF8IJPE_GlNC-0H-3-uvbw-LO0WvGTcs3eGsfxl9qIfPSHIoEP0WVScW5akBfIuNtHggyR43gyD6aQw'
-  lat: 40.099867
-  level: 7
-  lon: -88.233082
-  mus: 5
-  name:  'Stevick Family Memorial'
 - fields: 3
   img:  'http://lh4.ggpht.com/DJiaqGgwCaKSjYczELIcjQOeBtoEqd--7TZYBJWO9_Nd16vjKwlco9tKatJTdAKT1CPoO7Cj39_rZvp8p0Ch'
   lat: 40.087241
@@ -1910,12 +1889,26 @@
   mus: 1
   name:  'Flower Island'
 - fields: 1
+  img:  'http://lh3.ggpht.com/UcqV7o_Yw8_GGaaDMgHbyjMkowFd6fLEvVZpZ-gK4c0MfVLeIyMGz3v8JvS0D0W9p0eGJpr66nn-6KdP6iQV'
+  lat: 40.100335
+  level: 6
+  lon: -88.226507
+  mus: 1
+  name:  'Mt. Hope Mausoleum'
+- fields: 1
   img:  'http://lh5.ggpht.com/2zEYZdL0tuQhUP5HHcOYFsPQfjx-nNDHhi8DMJEzzkjbEA9hODz2iDCcmj4S9NEGBsHW4nYYR010lA_6kyhk'
   lat: 40.10038
   level: 6
   lon: -88.225191
   mus: 1
   name:  'Eleanor Hammers Boner'
+- fields: 1
+  img:  'http://lh3.ggpht.com/uRfzF4ZYfUywrpeKAijCtI65UgwHP_5pgc37VOhSqnsL7lIfH4aAM3DK7HCnaTKSr2Zn24ZXjvW7xGDh-U8'
+  lat: 40.100481
+  level: 7
+  lon: -88.226962
+  mus: 1
+  name:  'Mount Hope'
 - fields: 1
   img:  'http://lh5.ggpht.com/ZDv0mHiZcEfLxGVibvfnMCu7reJceCVnxa4GeBjK2DO4Y4a0x-M7C2M0rEam-_bPlr2e2476RXe15pRY48s'
   lat: 40.114351
