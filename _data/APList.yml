@@ -173,12 +173,6 @@
   lon: -88.243468
   name:  'Dog Heart'
 - ap: 4411
-  img:  'http://lh6.ggpht.com/mKnh6CvhOm_8Kn26lJTmk71nbwSMS-i9VJ45CR83Z8wB6Qn-9JAiyt1GEfrWKkv51a_y-lbN8pO6R1L5EZWfzw'
-  lat: 40.117349
-  level: 5
-  lon: -88.244537
-  name:  'Flower Island'
-- ap: 4411
   img:  'http://lh3.ggpht.com/NfRR7PyM2-UNoQGKgRsf6sUZdUTMp0sWqha9caVs49hYb0AnT9OznQX0dQGxKJNP6KiHWJ0WRUMSQh1m4-rwvg'
   lat: 40.117976
   level: 5
@@ -190,6 +184,12 @@
   level: 5
   lon: -88.242268
   name:  'Esquire Lounge'
+- ap: 4411
+  img:  'http://lh6.ggpht.com/mKnh6CvhOm_8Kn26lJTmk71nbwSMS-i9VJ45CR83Z8wB6Qn-9JAiyt1GEfrWKkv51a_y-lbN8pO6R1L5EZWfzw'
+  lat: 40.117349
+  level: 5
+  lon: -88.244537
+  name:  'Flower Island'
 - ap: 4411
   img:  'http://lh6.ggpht.com/Qfyp6BK43B93Oo5kazv7b-62q_5cx5GKxXPyw6Juss-A6AgPx81B0lyWhzW7Ava9ztLzedt07gEh3ia2PPFDwQ'
   lat: 40.113636
@@ -761,23 +761,17 @@
   lon: -88.244588
   name:  'Mural on Art Theatre'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/3gTAX6rKgNjLmBOYvAVTgSPQej5yRF_38uRllp9H4n5N6pvwWo5kDMDwlIkFVPPl30BXPSGAlZ9pO9B4DMk'
-  lat: 40.116218
-  level: 2
-  lon: -88.242141
-  name:  'Live Action Games'
+  img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
+  lat: 40.115838
+  level: 7
+  lon: -88.241338
+  name:  'Illinois Terminal'
 - ap: 2537
   img:  'http://lh5.ggpht.com/arF148UpHKIzlt5NezBSpFkItJk3gWq__xkPolNCeVTwHNpQNm1rzIwSdA2oAJBPtaLhpTHcVdAFFdHAXm8k'
   lat: 40.118383
   level: 5
   lon: -88.247003
   name:  'T E Berger Memorial Plaque'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
-  lat: 40.116164
-  level: 1
-  lon: -88.241661
-  name:  'Zipcar-45 E. University Avenue'
 - ap: 2537
   img:  'http://lh6.ggpht.com/uyv64Hvc1y5cxlCwT2wsWkD3sPpcam6VXjBGrZ5qOpqIyyynSqXKCeBXqdW39vyyoAaOpvm-gIHYaE_bit8'
   lat: 40.120632
@@ -791,6 +785,12 @@
   lon: -88.240991
   name:  'Old News Gazette Offices'
 - ap: 2537
+  img:  'http://lh4.ggpht.com/3gTAX6rKgNjLmBOYvAVTgSPQej5yRF_38uRllp9H4n5N6pvwWo5kDMDwlIkFVPPl30BXPSGAlZ9pO9B4DMk'
+  lat: 40.116218
+  level: 2
+  lon: -88.242141
+  name:  'Live Action Games'
+- ap: 2537
   img:  'http://lh5.ggpht.com/J6mcCWpzY1HtqSgO5x_y5aVz-YFsC8M7QP6HkXPiD48zj2LwljZvVXDN2m_K8oMn6mei5g6B8PphiUGrXGDG6g'
   lat: 40.119305
   level: 2
@@ -803,11 +803,11 @@
   lon: -88.242535
   name:  'Inman Building Historic Plaque'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
-  lat: 40.115838
-  level: 7
-  lon: -88.241338
-  name:  'Illinois Terminal'
+  img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
+  lat: 40.116164
+  level: 1
+  lon: -88.241661
+  name:  'Zipcar-45 E. University Avenue'
 - ap: 2537
   img:  'http://lh5.ggpht.com/N1cFx79JwZqPlYPDW3HkNwRX8N4Auriii45qzYkAx9l-cKeK81qgZ6nuBpTBEIOyLzy4aIIhQKt2E7ZiysSjkg'
   lat: 40.10036
