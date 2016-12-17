@@ -216,12 +216,6 @@
   name:  '672de14a599b4fc8bbb8d8c175d70e77.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 41.766488
-  level: '?'
-  lon: -88.874945
-  name:  '1109d98226ff4c80937d8a18a1be2e14.11'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.688705
   level: '?'
   lon: -88.980077
@@ -232,6 +226,12 @@
   level: '?'
   lon: -88.873177
   name:  'eb44c48b8bb843198763f175e6928136.12'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 41.766488
+  level: '?'
+  lon: -88.874945
+  name:  '1109d98226ff4c80937d8a18a1be2e14.11'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.76355
@@ -341,18 +341,6 @@
   lon: -88.966203
   name:  '796a553c523f4f67905570d0bc7552ea.16'
 - ap: 2537
-  img:  'http://lh4.ggpht.com/53avgB1jGEftJ9eyV5l3nee16yHgYDAXkZoonzyXO3mwPLijOgz1uOtcxfKdCaRzaBqW-BQ4ft-Od3uZnja8'
-  lat: 40.118436
-  level: 5
-  lon: -88.26383
-  name:  'Davidson Park'
-- ap: 2537
-  img:  'http://lh3.googleusercontent.com/ehDcIFPGimXzEpSpqydgEInzS_LCx7xdxdANoVH3o2WnEnCyvgjWqV1F-DbvHnpuMsAkbUqetYiu0sPiWwE'
-  lat: 40.12025
-  level: 5
-  lon: -88.268125
-  name:  'Gazebo At Washington Retention Park'
-- ap: 2537
   img:  'http://lh4.ggpht.com/9Rg84EpxbL2Yg5gK7imF1lg4LpVcRz8fS4QGQe_hQfaeN-crjjc8p1MnWvQtnHIJ9c2N-tOiI2lgFMkIfP-V'
   lat: 40.127139
   level: 7
@@ -443,14 +431,14 @@
   lon: -88.236858
   name:  'Illinois Conference Center'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/n-WJVk4VFfgCVfLuyItrEjDCHgOd5YN1Z1ts6qT6-RmXvFyDeNKYarXwzwHKyd5B9tGmezRoEzKX4EFKmaY'
-  lat: 40.124947
-  level: 3
-  lon: -88.210509
-  name:  'Trail Marker in Busey Woods'
-- ap: 2537
   img:  'http://lh5.ggpht.com/sF7lKjQa6S3nhaNE0eY9h2BozLXUrtnucsZvqAKKD_ZrLPFTVf8thR2l28H7-R4sxheNrwB3hEujhIk1_4E'
   lat: 40.126699
   level: 3
   lon: -88.209995
   name:  'Fly Fishing Sculpture'
+- ap: 2537
+  img:  'http://lh5.ggpht.com/n-WJVk4VFfgCVfLuyItrEjDCHgOd5YN1Z1ts6qT6-RmXvFyDeNKYarXwzwHKyd5B9tGmezRoEzKX4EFKmaY'
+  lat: 40.124947
+  level: 3
+  lon: -88.210509
+  name:  'Trail Marker in Busey Woods'
