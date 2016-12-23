@@ -5,18 +5,6 @@
   lon: -88.249603
   name:  'Chef Ra Memorial Plaque'
 - ap: 4598
-  img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
-  lat: 40.115838
-  level: 7
-  lon: -88.241338
-  name:  'Illinois Terminal'
-- ap: 4598
-  img:  'http://lh6.ggpht.com/ea6HxAw7m0OhhPqJJkZR9u60pR1sab_JdxaOyEltqmQd-63FFJzPY72jEnu08g9Gcjjj5cf3jyyS_M1E7OIbfg'
-  lat: 40.11616
-  level: 7
-  lon: -88.241422
-  name:  'It''s A Mistree'
-- ap: 4598
   img:  'http://lh6.ggpht.com/YVbqGVTjJuDMDdj71CP2mWvnUIdgO25PgoDdJwEGnEE_M9I1aDgKyjSr9JOZVU6UQTZQtfUo9RAWyz92n3jtCQ'
   lat: 40.098475
   level: 5
@@ -34,12 +22,6 @@
   level: 8
   lon: -88.250389
   name:  'Dennis Robert Costello Memorial'
-- ap: 4222
-  img:  'http://lh5.ggpht.com/fGRHfMAqdWrUnPE8GStKSdMkgQmu9qvuxAC4VzcU1v2KyxQu2BeuJKhvhefSeFNTkgFh6YdR-F4P6plMbh0'
-  lat: 40.110194
-  level: 6
-  lon: -88.231488
-  name:  'Fighting Illini Memorial'
 - ap: 3848
   img:  'http://lh4.ggpht.com/FOqmWFqpxmpdNn358B7Xko5DVp_H3_qI49Lw-6NI8lusw3iqZM-wuMsxRn82L8WFxV7TKpxjxwwzvqLHR0QF'
   lat: 40.087474
@@ -52,12 +34,6 @@
   level: 5
   lon: -88.321301
   name:  'Mullikin Park'
-- ap: 3848
-  img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
-  lat: 40.098959
-  level: 6
-  lon: -88.250141
-  name:  'Bob and Wilma Tinkham'
 - ap: 3661
   img:  'http://lh3.ggpht.com/CraZJCGkYMojxUhZiRGhjSMt9Ggq_EWkUgzsVChRJRy806N-iFxcUt910vs-j4ap6ycfrLl-faXk8cbXM2n3'
   lat: 40.105644
@@ -94,6 +70,18 @@
   level: 4
   lon: -88.284367
   name:  'Dodds Park Softball Complex'
+- ap: 3474
+  img:  'http://lh4.ggpht.com/W2chhQwPqSJEkl57NVoIL-OE4KFvJfp7Bsrrxza1apCYltcT3npz95LJxqHxvT9ZZu7wxF2gQy-5bpKal2p2'
+  lat: 40.115838
+  level: 7
+  lon: -88.241338
+  name:  'Illinois Terminal'
+- ap: 3474
+  img:  'http://lh6.ggpht.com/ea6HxAw7m0OhhPqJJkZR9u60pR1sab_JdxaOyEltqmQd-63FFJzPY72jEnu08g9Gcjjj5cf3jyyS_M1E7OIbfg'
+  lat: 40.11616
+  level: 7
+  lon: -88.241422
+  name:  'It''s A Mistree'
 - ap: 3324
   img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
   lat: 40.116164
@@ -106,12 +94,18 @@
   level: 5
   lon: -88.248681
   name:  'Siti Sculpture'
-- ap: 3474
+- ap: 3324
   img:  'http://lh3.googleusercontent.com/Tixp17uCaP682s77UzvCwWCOE6vg7iB2qEFLjACq7xtVJdHE0K3yKYsl3_SwKbiUfQWwgTQRbvfka3U0NvNc'
   lat: 40.098819
-  level: 5
+  level: 4
   lon: -88.249214
   name:  'Bette McKown Honorary'
+- ap: 3474
+  img:  'http://lh5.ggpht.com/q-mJ2EvrjGn2PfbBh3Pl3XIGUyzTqxGjZmTMhn3k9_2Qi0S2hs3k2ZvpKb4kvt60AXHiyQdxqft5ZecPcg7x'
+  lat: 40.098959
+  level: 6
+  lon: -88.250141
+  name:  'Bob and Wilma Tinkham'
 - ap: 3474
   img:  'http://lh6.ggpht.com/eVUed3229Zh9saFzaZQcI6LXsyDB0IJxc9v-Aa9Oa0AhjQLXBIVSuu1qUQwJVXWgmXYPY9sqTzK73Le4BuU'
   lat: 40.11122
@@ -131,11 +125,23 @@
   lon: -88.243468
   name:  'Dog Heart'
 - ap: 2724
-  img:  'http://lh6.ggpht.com/SboHv2_AWJ6ll559fK1A5a1UIAKf04oIHrgidra_E6L8gDK_mQ-DaM7hKYkv7MT6ZAA8pzgPxv_Vy-eNN7g'
-  lat: 40.110608
+  img:  'http://lh3.googleusercontent.com/ZEt3dzGoBmn_BW1MwPTE7MY4Jcoj66UkwEA7wA7H40hbb-SwJheC1V67Dh89eAbpG6H_SeWDV3E0X5lRAkQ'
+  lat: 40.111342
+  level: 5
+  lon: -88.23557
+  name:  'Boneyard Greenway'
+- ap: 2724
+  img:  'http://lh3.googleusercontent.com/erdNDM4HaNMn_EeFz0IoM_0LQWykLGJ1Y7-URXSvEithPHs8Rnwf7oWZyxVKu7qOpPdKjeeCy3dkywZ7n6KrsA'
+  lat: 40.111615
+  level: 5
+  lon: -88.235593
+  name:  'Fred B Lamb Trail'
+- ap: 2724
+  img:  'http://lh3.ggpht.com/KxQsev6i7POmNh1IadCWwWQSMdCuLIYpPwIdenSlVtzum523D1R-1kfeTbuOGTkt_jDwn4jswCu1edkumm2-'
+  lat: 40.110037
   level: 6
-  lon: -88.231957
-  name:  '217 Tattoo Co.'
+  lon: -88.23549
+  name:  'Red Lion'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.730158
@@ -173,54 +179,18 @@
   lon: -88.226237
   name:  'Triplets'
 - ap: 2537
-  img:  'http://lh5.ggpht.com/3t7XZHqwxLZ8Lc9YomR8FInm74U2PAA-DBk8kmdxXIrcXbKa1CoBDTlgdDJeO-_yVT3qNKRnNLzbdil1eH41iA'
-  lat: 40.09935
-  level: 5
-  lon: -88.249766
-  name:  'Jim Bickel Honorary Plaque'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/8zq5tMevCiipZK8N9-8SZw3vdsA2HwH0E02ormQshGxHVZrB2WPK7OPC8zt6pjLlgpXVuEYHVA_08_Q8fPw-'
-  lat: 40.099647
-  level: 5
-  lon: -88.249648
-  name:  'Max Overmyer Memorial Playground'
-- ap: 2537
   img:  'http://lh3.ggpht.com/2wN9MWxEFPbMzRPAzNmaAiCOQJj_EFr94Y1YkQP_wMlyajkajmcw00gqW-EluMvpQmvnGgcQ-WdPxjcYTmr2'
   lat: 40.106519
   level: 6
   lon: -88.223748
   name:  'Thunderbird Theatre Mosaic'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/KxQsev6i7POmNh1IadCWwWQSMdCuLIYpPwIdenSlVtzum523D1R-1kfeTbuOGTkt_jDwn4jswCu1edkumm2-'
-  lat: 40.110037
-  level: 6
-  lon: -88.23549
-  name:  'Red Lion'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/Tn5ARN-X6VTc2q6atZ2WYq3c2g3gbSGXu6_vXf1MDwHfLpdTtnQ-CilBAVGvL6R-SHhq3fJ4WZI-yiJKmIId'
-  lat: 40.110398
-  level: 5
-  lon: -88.235143
-  name:  'US Post Office, E Green St, Champaign'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/AmsS7GEfFX-_Icem2DP6mjQahV1jeut1CGdeqLqfpyzx0m5SqhVY4eoAohizF0xsevPQufmLRMoVj2rW7Fe8'
-  lat: 40.111689
-  level: 4
-  lon: -88.231193
-  name:  'Koi Building Art'
-- ap: 2537
-  img:  'http://lh3.googleusercontent.com/ZEt3dzGoBmn_BW1MwPTE7MY4Jcoj66UkwEA7wA7H40hbb-SwJheC1V67Dh89eAbpG6H_SeWDV3E0X5lRAkQ'
-  lat: 40.111342
-  level: 5
-  lon: -88.23557
-  name:  'Boneyard Greenway'
-- ap: 2462
+- ap: 2312
   img:  'http://lh3.googleusercontent.com/vw4Js8jf11Ok889K1stO5ujNjIO9Ah9DEbsg1xBTrVbaeyBetcG75B8YS8CkQA0KVC8NA5Z02n220SI1UzdB'
   lat: 40.10985
-  level: 4
+  level: 2
   lon: -88.227236
   name:  'Illini Union'
-- ap: 2237
+- ap: 2162
   img:  'http://lh4.ggpht.com/IZUCSooIdo5qUAG278Al-JEKCRv842M0uDMusE78yaL4p-QCYu2A4UXE6X2jTFemr_w8ZfD6g_lQqjwbdg'
   lat: 40.109702
   level: 1
