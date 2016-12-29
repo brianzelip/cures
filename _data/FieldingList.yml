@@ -26,20 +26,6 @@
   name2:  'e0c779c9088f48cf976e6afd9582c7f8.16'
   resos1: '?'
   resos2: '?'
-- img1:  'http://lh4.ggpht.com/MnvRIwYBCscNCKIRmPyogxsZdt_OF6dC0mIsI1_2fddZFlc88Sg9wNyU9Ne9q-cY0RUa5VFafv4C5f5-pxVpWg'
-  img2:  'http://lh4.ggpht.com/xMwEuzjKH4LukFYgVHCFzoHtcIDwSHLCurfqG9DRuRCZOyw6nN6x8-Qngw5rUbT5kSPl7zjxG_mCoyJNHc0N'
-  intel: https://www.ingress.com/intel?ll=40.0730693333,-88.282532&z=14&pls=40.069376,-88.257672,40.080645,-88.294589
-  lat1: 40.069376
-  lat2: 40.080645
-  level1: 8
-  level2: 5
-  lon1: -88.257672
-  lon2: -88.294589
-  mus: 2989
-  name1:  'Friendship Crossing'
-  name2:  'Hallbeck Park Shelter'
-  resos1: 8
-  resos2: 8
 - img1:  'http://lh4.ggpht.com/-P9_K1M8m41FpGEgfyih0JNuexcc1mtm7Hq3LOuozksba15MIQWefDgfBs20Uuf61Txiy9-ALeKCMVWuBi4'
   img2:  'http://lh4.ggpht.com/N6E1iW7R1Dt6SCyd1q4Ym_HeSnFZ2mHHlXE-jkX1_YLy9BgSRPcDZK8ri2PWx6-sV1IEsClFGgMgpdI2Bgg'
   intel: https://www.ingress.com/intel?ll=40.077782,-88.2888343333&z=14&pls=40.083514,-88.276579,40.069187,-88.295335
@@ -52,6 +38,20 @@
   mus: 2989
   name1:  'Christie Clinic Hospital '
   name2:  'Friendship Lutheran Church of Joy'
+  resos1: 8
+  resos2: 8
+- img1:  'http://lh4.ggpht.com/MnvRIwYBCscNCKIRmPyogxsZdt_OF6dC0mIsI1_2fddZFlc88Sg9wNyU9Ne9q-cY0RUa5VFafv4C5f5-pxVpWg'
+  img2:  'http://lh4.ggpht.com/xMwEuzjKH4LukFYgVHCFzoHtcIDwSHLCurfqG9DRuRCZOyw6nN6x8-Qngw5rUbT5kSPl7zjxG_mCoyJNHc0N'
+  intel: https://www.ingress.com/intel?ll=40.077845,-88.27628&z=14&pls=40.069376,-88.257672,40.080645,-88.294589
+  lat1: 40.069376
+  lat2: 40.080645
+  level1: 8
+  level2: 5
+  lon1: -88.257672
+  lon2: -88.294589
+  mus: 2989
+  name1:  'Friendship Crossing'
+  name2:  'Hallbeck Park Shelter'
   resos1: 8
   resos2: 8
 - img1:  'http://lh4.ggpht.com/bt261V8sct8HMdZl4ckTcRY_H_hIF2eSIbeM-IkO-Tfx3NrbIUqQeoZs5tlk3Gzb5tXZ1toPUA3-iWayISuOdQ'
@@ -630,7 +630,7 @@
   resos2: 8
 - img1:  'http://lh4.ggpht.com/0UzQDuaKLiiPhEgEmKghfkzvXj6lROhxPIDJuI4nWLJFvdxJwGNcJZ1va0K_9cy4L2u0Zyeqv_qlIAwch5o'
   img2:  'http://lh5.ggpht.com/S_72RqBcpwyaqDotOOM3zyRvzzZXNgZUSEfOLLDYY9tEvWcEksixMnIL7N-7FO1EpE-CXGydpsChqEkBjX_I'
-  intel: https://www.ingress.com/intel?ll=40.1321556667,-88.29254&z=14&pls=40.133475,-88.293988,40.131279,-88.290872
+  intel: https://www.ingress.com/intel?ll=40.1255933333,-88.2933956667&z=14&pls=40.133475,-88.293988,40.131279,-88.290872
   lat1: 40.133475
   lat2: 40.131279
   level1: 6
@@ -2226,7 +2226,7 @@
   resos2: 8
 - img1:  'http://lh3.ggpht.com/3rw0YLp6-Ui3LAecadtTtTgoMRU7Q6vPRiNiSCod3Qb-bGjOJxf34EEnZP89KvnrTILkQM3PIE9-CIdmasz-'
   img2:  'http://lh6.ggpht.com/pxaCt7clhIXc1RVGMMJZsmnbEWNWjFYJiUrQMev_SeOmXBothvOzmfnirQ5_W8CMa7hpigqydQhKMa4XFCAi'
-  intel: https://www.ingress.com/intel?ll=40.109727,-88.226502&z=14&pls=40.112897,-88.219672,40.108173,-88.230209
+  intel: https://www.ingress.com/intel?ll=40.109712,-88.226856&z=14&pls=40.112897,-88.219672,40.108173,-88.230209
   lat1: 40.112897
   lat2: 40.108173
   level1: 7
@@ -2576,7 +2576,7 @@
   resos2: 8
 - img1:  'http://lh4.ggpht.com/YkAjLbUQwdId1pIn7-0sv7p3fU5sUakSrInODEYBL40IL2O6a6iP0KdmXupzcZMPqJ3arf7sss9irQ7NDzzF'
   img2:  'http://lh5.ggpht.com/ucFkWovrZBr6wFMicSGD78p44tqzcyfJCvQuAocYo0do3ODoHsOeAMphZZferoOLkGfuJPQVlILRzKG1vAPg'
-  intel: https://www.ingress.com/intel?ll=40.1102206667,-88.2314153333&z=14&pls=40.110882,-88.231138,40.109172,-88.231151
+  intel: https://www.ingress.com/intel?ll=40.1093733333,-88.230992&z=14&pls=40.110882,-88.231138,40.109172,-88.231151
   lat1: 40.110882
   lat2: 40.109172
   level1: 7
@@ -2814,7 +2814,7 @@
   resos2: 8
 - img1:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
   img2:  'http://lh4.ggpht.com/PmGpygZ2fBs43twk2Y44XZbgGcHWv0YimAq7Fp3vlIRRqUyLpSmDmFwcn1ucfmJarcQrAAXJjYAXAhNyxSrz'
-  intel: https://www.ingress.com/intel?ll=40.1083453333,-88.2309333333&z=14&pls=40.108066,-88.230687,40.110049,-88.231968
+  intel: https://www.ingress.com/intel?ll=40.1090956667,-88.2312686667&z=14&pls=40.108066,-88.230687,40.110049,-88.231968
   lat1: 40.108066
   lat2: 40.110049
   level1: 6
