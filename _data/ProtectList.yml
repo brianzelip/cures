@@ -775,13 +775,6 @@
   lon: -88.242344
   mus: 198
   name:  'Campus Information Booth '
-- fields: 6
-  img:  'http://lh6.ggpht.com/VOmNYAji11ksGzTqPwZrEZPKMlq4BXQNbDtJSSM2CsgATlg3X5djVVLQGMHixKe3TA2tg1ILm0QZDfIJio_A'
-  lat: 40.104257
-  level: 7
-  lon: -88.211344
-  mus: 196
-  name:  'Cucumber Magnolia Treewalk Plaque'
 - fields: 2
   img:  'http://lh5.ggpht.com/YrrWNVDbF2PvWks7XHMzdNnH29Fm_9w3w-XsfCu_aNeRWe3yogvbKL0L2xuhUlUcT_FrvGouyLbPNDe37GVk'
   lat: 40.132123
@@ -789,6 +782,13 @@
   lon: -88.277273
   mus: 191
   name:  'American Revolution Bicentennial Plaque'
+- fields: 4
+  img:  'http://lh6.ggpht.com/VOmNYAji11ksGzTqPwZrEZPKMlq4BXQNbDtJSSM2CsgATlg3X5djVVLQGMHixKe3TA2tg1ILm0QZDfIJio_A'
+  lat: 40.104257
+  level: 7
+  lon: -88.211344
+  mus: 188
+  name:  'Cucumber Magnolia Treewalk Plaque'
 - fields: 5
   img:  'http://lh3.ggpht.com/tJEdUFuZjuvDQMKmF82moyYXhNNpP9vo91McBHAmagbT79dxAHYnQAb4avZfpWPOqcQVi3pCqBL7cvETGYo'
   lat: 40.094333
@@ -950,13 +950,6 @@
   lon: -88.208554
   mus: 98
   name:  'Error Records'
-- fields: 4
-  img:  'http://lh4.ggpht.com/cvJBfMiBGWYi9swdpVUOV9IzBnEVzKadh4Y9H7K7E-qh4smI830ZT03zcjPHck5NiBBuZQ1VWDgC4KjeXek'
-  lat: 40.107347
-  level: 5
-  lon: -88.213308
-  mus: 97
-  name:  'First Church of Christ Scientist'
 - fields: 3
   img:  'http://lh5.ggpht.com/jro9CwZhnrQeIG1U5FFQiyWx5FXuXAVEZWNnEZT1JcpDh0V4B9uRUbAgrEUbr-ZFp9wWgNALG-uKlJUOi2AHwA'
   lat: 40.122838
@@ -1014,6 +1007,13 @@
   mus: 85
   name:  'Illinois Conference Center'
 - fields: 2
+  img:  'http://lh4.ggpht.com/cvJBfMiBGWYi9swdpVUOV9IzBnEVzKadh4Y9H7K7E-qh4smI830ZT03zcjPHck5NiBBuZQ1VWDgC4KjeXek'
+  lat: 40.107347
+  level: 5
+  lon: -88.213308
+  mus: 84
+  name:  'First Church of Christ Scientist'
+- fields: 2
   img:  'http://lh4.ggpht.com/XlTZ26_29c4-74t23p1lgghqNfLI7aS3_kradmcl7vVQzV9jJRu78D1HdzJf-sWibnak644kxCBJDnA594PVaw'
   lat: 40.092849
   level: 5
@@ -1027,27 +1027,6 @@
   lon: -88.250039
   mus: 83
   name:  'Harris Park'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.036444
-  level: '?'
-  lon: -88.263618
-  mus: 81
-  name:  '0f72a589db22479aae37dd070d542d4f.16'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.036266
-  level: '?'
-  lon: -88.263549
-  mus: 81
-  name:  'The Art of Science'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.084522
-  level: '?'
-  lon: -88.169688
-  mus: 81
-  name:  '9b5959945a1d4c84be40982a99b0e943.16'
 - fields: 7
   img:  'http://lh6.ggpht.com/ONc6NEwX34IJR8FuaTy8phi9yEoEDMyOn9GRlqJJlv2fU-ky1s4L6OflOmO5pORHew3EOrF0ehzlIv5HFMff'
   lat: 40.118344
@@ -1216,13 +1195,6 @@
   lon: -88.251235
   mus: 42
   name:  'William C Fox Honorary Plaque'
-- fields: 4
-  img:  'http://lh3.ggpht.com/UCJEg0nnZFNSfAC4NfT2gp9OudEjLUlBiuDJTG4gHlqqHWj8gXAlFIR92jIPXQa3I6VnEMYSwenr5PMJylrt'
-  lat: 40.104077
-  level: 7
-  lon: -88.212367
-  mus: 40
-  name:  'Stalking Panther'
 - fields: 3
   img:  'http://lh4.ggpht.com/Gyz7BDhWdUinBQfD8duByX5-aBgPmB9oSesH20dH8uGJnTiaIHkeRJARtH6YQUUD5A5X2IjPTlT989AfutNc'
   lat: 40.092773
@@ -1265,6 +1237,13 @@
   lon: -88.232345
   mus: 33
   name:  'St. Luke C.M.E. Church'
+- fields: 2
+  img:  'http://lh3.ggpht.com/UCJEg0nnZFNSfAC4NfT2gp9OudEjLUlBiuDJTG4gHlqqHWj8gXAlFIR92jIPXQa3I6VnEMYSwenr5PMJylrt'
+  lat: 40.104077
+  level: 7
+  lon: -88.212367
+  mus: 32
+  name:  'Stalking Panther'
 - fields: 3
   img:  'http://lh3.googleusercontent.com/m68rgxfyTHzijj23L6S0_kQ0XZ1wS3c0dUjsa4tLjqLJ8eSQ1CuHgWaxDSYthuek2areSlSTRw5Hn_zpJ3cD'
   lat: 40.09428
@@ -1552,13 +1531,6 @@
   lon: -88.239353
   mus: 15
   name:  'U.S. Representative Memorial'
-- fields: 3
-  img:  'http://lh4.ggpht.com/sz_e7469a1MnmlNIKBE9ABOh9Z5c-TMUKTj_dlubknMbwU0IKI_4hZ8QQtHWwjgbnkA_Plk1yb2bT4XQ3UjA'
-  lat: 40.104561
-  level: 6
-  lon: -88.21207
-  mus: 15
-  name:  'Carle Park'
 - fields: 3
   img:  'http://lh6.ggpht.com/a7U3RDd7velreml5bufqdV_G7UTGp85wW8w5LWXCJNvNYvu-iW5nUdDbsA6y0gODhhOWdwxltnQQgvTSRFA'
   lat: 40.093084
