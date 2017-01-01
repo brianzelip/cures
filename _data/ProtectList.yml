@@ -61,13 +61,6 @@
   lon: -88.211741
   mus: 16773
   name:  'Great Neighborhoods Dedication'
-- fields: 8+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.110982
-  level: '?'
-  lon: -88.163907
-  mus: 12554
-  name:  'Urbana Post Office'
 - fields: 6
   img:  'http://lh4.ggpht.com/0UzQDuaKLiiPhEgEmKghfkzvXj6lROhxPIDJuI4nWLJFvdxJwGNcJZ1va0K_9cy4L2u0Zyeqv_qlIAwch5o'
   lat: 40.133475
@@ -89,6 +82,13 @@
   lon: -88.277784
   mus: 10986
   name:  'US Post Office'
+- fields: 6+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.110982
+  level: '?'
+  lon: -88.163907
+  mus: 10612
+  name:  'Urbana Post Office'
 - fields: 3
   img:  'http://lh4.ggpht.com/yi9OPnLGsLTvtOMNuOUfed6edO9tB6h0QmSHJaKKaiMyEXC8Aj2hz9hIvgh8C2DY76mVgNHw4S0gsYpkPpkt'
   lat: 40.148692
@@ -103,13 +103,6 @@
   lon: -88.203382
   mus: 6596
   name:  'Yikes'
-- fields: 3
-  img:  'http://lh6.ggpht.com/P5Q3TM1HY9mqPQbQNDUn_h5cdo4MVdphUfMLaEb25EJWIN2xAqYTkLQUtPy4sY-0hHFESUrH5Nn0KYogzjM'
-  lat: 40.104921
-  level: 7
-  lon: -88.192636
-  mus: 6154
-  name:  'Boomerangs Bar And Grill '
 - fields: 10
   img:  'http://lh3.ggpht.com/ZKYFxa4_Jj-OpytEiNkFmQOVv42zvLK_5wEHxLncanKrdr7RjjSoG_UYFDX0CmCUupuU2d0MGQ3l1pbl0zF1'
   lat: 40.083873
@@ -138,6 +131,13 @@
   lon: -88.295013
   mus: 5279
   name:  'Meadowbrook Community Church'
+- fields: 2
+  img:  'http://lh6.ggpht.com/P5Q3TM1HY9mqPQbQNDUn_h5cdo4MVdphUfMLaEb25EJWIN2xAqYTkLQUtPy4sY-0hHFESUrH5Nn0KYogzjM'
+  lat: 40.104921
+  level: 7
+  lon: -88.192636
+  mus: 4937
+  name:  'Boomerangs Bar And Grill '
 - fields: 4
   img:  'http://lh6.ggpht.com/vqiOPPON1phvYOdOmbFDrxhN6cbYjeLHVgH42EV0XsJjVNd81EM1DKY_aRVM-rwJ9Il5tLc3QsL_gOS4qAkF'
   lat: 40.139891
@@ -244,26 +244,12 @@
   mus: 1965
   name:  'Triptych Brewing'
 - fields: 4
-  img:  'http://lh3.ggpht.com/ZrkQ9I09rQynLgNHgTWMc8sm29XEvwj5QcSQhhgTtN7hDh1pSZHSTI63mz6wWj1jkhlz1qYkKyHD0SJWPNMY'
-  lat: 40.094863
-  level: 3
-  lon: -88.190535
-  mus: 1962
-  name:  'Splintering Continuity'
-- fields: 4
   img:  'http://lh5.ggpht.com/S_72RqBcpwyaqDotOOM3zyRvzzZXNgZUSEfOLLDYY9tEvWcEksixMnIL7N-7FO1EpE-CXGydpsChqEkBjX_I'
   lat: 40.131279
   level: 7
   lon: -88.290872
   mus: 1610
   name:  'Stone Hand Sculptures'
-- fields: 5
-  img:  'http://lh6.ggpht.com/ZSVCsC7hXcoC2GI20Sq8deYNu_RXKDePVyLUpFRUSNdceVY9OBExZbgX-tuJK4pHEVYXT9YbN7DF9kicgt25'
-  lat: 40.088197
-  level: 7
-  lon: -88.190413
-  mus: 1591
-  name:  'St Matthew Lutheran Church'
 - fields: 3
   img:  'http://lh3.ggpht.com/NfT2lF-sDianTwLMh0ZBNPZJd2GwFyVqBX9dYM60Ql-AgN58IA8dbfX2J1dT72YJPSDbyqB16mie75kI--nG'
   lat: 40.094327
@@ -383,6 +369,13 @@
   lon: -88.295589
   mus: 901
   name:  'First Church of God'
+- fields: 2
+  img:  'http://lh6.ggpht.com/ZSVCsC7hXcoC2GI20Sq8deYNu_RXKDePVyLUpFRUSNdceVY9OBExZbgX-tuJK4pHEVYXT9YbN7DF9kicgt25'
+  lat: 40.088197
+  level: 7
+  lon: -88.190413
+  mus: 847
+  name:  'St Matthew Lutheran Church'
 - fields: 1
   img:  'http://lh6.ggpht.com/u50xnbCiTMjKR5vu2fts6K0B7fFRkf_BgNZeZvqYNgLuF92RwApjI9Hl7UO5bZQK_fN7UjNb6ZzQlDv9BDJe'
   lat: 40.083744
@@ -439,12 +432,12 @@
   lon: -88.265186
   mus: 588
   name:  'Shield of Chichen Itza'
-- fields: 2
+- fields: 1
   img:  'http://lh5.ggpht.com/uPtnzuRe-ecQ96RCGZIDNQeF-9zi0Swrhof7CKDIXF0ly7DZpq9S2Qb5UVhycFhF4hJVahRXq0WKbg9EndVE'
   lat: 40.093444
   level: 3
   lon: -88.190356
-  mus: 561
+  mus: 557
   name:  'Grace United Methodist Church'
 - fields: 7
   img:  'http://lh6.ggpht.com/WVVbmiu2GGTnPTszcnYYILHKlkZDoxB-QY6Yv7YPoUfdVn92jYnKjpVKNkfWdFrPjq-BaFeKGJWLZlE-bbA'
@@ -1461,13 +1454,6 @@
   lon: -88.249766
   mus: 16
   name:  'Jim Bickel Honorary Plaque'
-- fields: 1
-  img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
-  lat: 40.095068
-  level: 4
-  lon: -88.191114
-  mus: 16
-  name:  'Circle K 1821 S Philo Road'
 - fields: 2
   img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
   lat: 40.107751
