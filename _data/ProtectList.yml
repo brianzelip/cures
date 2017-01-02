@@ -1,3 +1,10 @@
+- fields: 5+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.202899
+  level: '?'
+  lon: -88.426556
+  mus: 442601
+  name:  'Church of the Nazarene'
 - fields: 8+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.312242
@@ -12,13 +19,6 @@
   lon: -88.31285
   mus: 201579
   name:  'Sunset Ridge Park Dedication'
-- fields: 4+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.202899
-  level: '?'
-  lon: -88.426556
-  mus: 168741
-  name:  'Church of the Nazarene'
 - fields: 3+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.287854
@@ -82,12 +82,12 @@
   lon: -88.293988
   mus: 29199
   name:  'Parkhill Applied Technology Center'
-- fields: 9
+- fields: 10
   img:  'http://lh4.ggpht.com/bt261V8sct8HMdZl4ckTcRY_H_hIF2eSIbeM-IkO-Tfx3NrbIUqQeoZs5tlk3Gzb5tXZ1toPUA3-iWayISuOdQ'
   lat: 40.075588
   level: 7
   lon: -88.191486
-  mus: 21201
+  mus: 22809
   name:  'First Baptist Church'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
@@ -278,6 +278,20 @@
   lon: -88.256779
   mus: 1784
   name:  'Framer''s Market'
+- fields: 2
+  img:  'http://lh5.ggpht.com/5n6ialkb-Y9eoGArdLzCAPCffrXVqL23DwAgk5_9lpKiUhDCIPnFMEDPXDx_cgawzU3afGhZK8hNkijTeoOiAw'
+  lat: 40.054801
+  level: 5
+  lon: -88.239184
+  mus: 1741
+  name:  'Cornerstone Baptist Church'
+- fields: 2
+  img:  'http://lh6.ggpht.com/dzudBxNyxUB12jQt8DMYPfm1nc94wO0GiD8fhqGETiQF94uDlJ4UMhnW4DCCbA6TzoEEe--vXNP-DAskM3_W'
+  lat: 40.057678
+  level: 7
+  lon: -88.25174
+  mus: 1741
+  name:  'Savoy Post Office'
 - fields: 8
   img:  'http://lh3.ggpht.com/xN5qaZ1d4qIQE8TID35MPTmzahhM09EYDVLbu2aeCpRJz9XntEf7R0XswEdQDOmdMpZxIEyNyqsC5qll3vfv'
   lat: 40.082343
@@ -876,7 +890,7 @@
 - fields: 3
   img:  'http://lh6.ggpht.com/B4G90nKtVQc7jPOxaA1XcAIKA2UJlU15MIPZLitQmNBNAtfIc9qCPpe75YFHYaZN3YUpU6b4CNMOPsBrg1Q'
   lat: 40.100489
-  level: 6
+  level: 5
   lon: -88.218903
   mus: 246
   name:  'Farmhouse Illinois Chapter'
@@ -1048,6 +1062,13 @@
   lon: -88.199119
   mus: 134
   name:  'Perkins Historical Site'
+- fields: 1
+  img:  'http://lh5.ggpht.com/KeE2mCastNpakZHF9Jh4QCUf9dxQOnMiQb2Rfki_4r4R_ry-Zyk4IfCIo0jybb89O-BG6bVz71u25L85nJ55'
+  lat: 40.054264
+  level: 5
+  lon: -88.248287
+  mus: 133
+  name:  'Colbert Park'
 - fields: 2
   img:  'http://lh3.ggpht.com/Eeot2xjiHI3jS56J2sySBOH0hRVa-VNNF9JZx7nFzgh1-Y6lhbMuognHS-CcMuIuAHyJzWmLBtkQv49sUO2KOg'
   lat: 40.098321
@@ -1471,14 +1492,14 @@
 - fields: 8
   img:  'http://lh4.ggpht.com/vLN74xdc8Mdgab4UjP1QUbyX42bkPBXnIqzYzkmRDi4naHiBk2kM1wUA7Mx3Pxl1dpPoMBAg9pV956MqTDk'
   lat: 40.068391
-  level: 6
+  level: 7
   lon: -88.242282
   mus: 23
   name:  'Dohme Park Flags & Mural'
 - fields: 3
   img:  'http://lh5.ggpht.com/EKJxNTFOuD40jrzyfaaZo27LcnbJVBBxKH8MoiDi1tC4TahCXMGYOMqy4lUVaR-z2Z4Guhp4berNdA0t0x0'
   lat: 40.117598
-  level: 5
+  level: 4
   lon: -88.212604
   mus: 23
   name:  'Urbana Crystal Lake SW Marker'
@@ -1580,20 +1601,6 @@
   lon: -88.251299
   mus: 16
   name:  'Amdocs Shelter'
-- fields: 2
-  img:  'http://lh4.ggpht.com/S734i_6SihPtJW8WdegLb3gEuKeNx8e1qDm6CXjREzYHohw7XqL82m4EF2K5nS2TixHweLn3EuJ4YoQnrsw'
-  lat: 40.107751
-  level: 6
-  lon: -88.231532
-  mus: 16
-  name:  'Graduate School of Library and Information Science'
-- fields: 2
-  img:  'http://lh6.ggpht.com/BzDhCANV_iNTHhKFBGLuaUqOvChRZtPWnJ2Xk4h7NsKJHmTGgCWtFHWv2PpDA2fCsHHKSCRTrUNK8AKrLRnS'
-  lat: 40.108066
-  level: 7
-  lon: -88.230687
-  mus: 16
-  name:  'Community United Church of Christ'
 - fields: 4
   img:  'http://lh4.ggpht.com/aQomBYYXuWBUbnpgDH92zk4VBmLMOuf5n6WXkMHGTzf1DUlyXL-u4a9ulFUrqE5AO82s_LFM126E-B0HqONp'
   lat: 40.088127
@@ -1657,13 +1664,6 @@
   lon: -88.214035
   mus: 13
   name:  'Crystal Lake Labyrinth'
-- fields: 1
-  img:  'http://lh3.googleusercontent.com/pihlKyQsrDy4--S-APpj9Hj1GUcsPGxa1ZK_GdhdRcEazcO1s6-IF_pAbEVNKK9dpdnr8KeiIDtg20T3PtI'
-  lat: 40.111959
-  level: 3
-  lon: -88.230174
-  mus: 13
-  name:  '508 S Sixth Street'
 - fields: 8
   img:  'http://lh5.ggpht.com/C6wRSaEWO1NYGY5luyYZKHG3Z3aib4aflaPdV7B9G6N6adE890g3QuPRSvCUhsdFHqjoVUjo27mfz9WsjXyuhQ'
   lat: 40.100521
@@ -2024,7 +2024,7 @@
 - fields: 6
   img:  'http://lh5.ggpht.com/6iSvulYqf18jvvkjbKbtokZ1zczL5ZsEsgNJtpDT61eVwi5FIfifwQk2brM7UkcTtJNOdADLVtXIO7HCrlQ'
   lat: 40.068731
-  level: 5
+  level: 6
   lon: -88.242233
   mus: 5
   name:  'Dohme Park'
@@ -2161,13 +2161,6 @@
   lon: -88.223748
   mus: 3
   name:  'Thunderbird Theatre Mosaic'
-- fields: 1
-  img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
-  lat: 40.106706
-  level: 5
-  lon: -88.232116
-  mus: 3
-  name:  'Illini Tower'
 - fields: 3
   img:  'http://lh3.ggpht.com/nGhmCwJD6bTZSD4fk-6vnaRZfPq8CI7zLMEDuUZFl7no1ZUFie42aJKdxr5r-212vPk5feGwGFfkMrb_IBc'
   lat: 40.195177
@@ -2185,7 +2178,7 @@
 - fields: 5
   img:  'http://lh4.ggpht.com/qWLIT-3GsQkC5f1iLdtWdxCs7cZzyMqqwXBViIYnN7Hvp6UFp3JqYe_qFKGGCSM1cWWbZZZh2X2uS3fS2lE'
   lat: 40.068474
-  level: 5
+  level: 6
   lon: -88.241437
   mus: 3
   name:  'Dohme Park Shelter'
@@ -2248,7 +2241,7 @@
 - fields: 3
   img:  'http://lh5.ggpht.com/mRJ1JU9RyuNozcaCkQ-Egy63KbWTVpSomrieglFdzh1c9eDAoQQCHmWw065GGIQoOFIorPObgHXhGyNjVb6u'
   lat: 40.068762
-  level: 6
+  level: 7
   lon: -88.243336
   mus: 2
   name:  'Rotary Club Dedication Plaque'
@@ -2353,7 +2346,7 @@
 - fields: 3
   img:  'http://lh3.ggpht.com/dlNcqhZvSXijpkfvwOrcW3aTD-ILaZMONMnmaEZv35uhdz7QbonCx9poCoucdHPTAu4q8P67w-GccKI-V7n2'
   lat: 40.068578
-  level: 5
+  level: 6
   lon: -88.241988
   mus: 2
   name:  'Ernest R & Marian Adair'
@@ -2367,7 +2360,7 @@
 - fields: 2
   img:  'http://lh3.ggpht.com/sMx0P-GO5ovW4D9GxUctotNYCfxZGhdOEhiL1DmdIK6HMtm6Q2YB4GNKL53HBW60hQRizKWO_neyW1gOFt4'
   lat: 40.068464
-  level: 6
+  level: 7
   lon: -88.243473
   mus: 2
   name:  'Savoy Rotary Club Dedication'
