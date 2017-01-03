@@ -100,12 +100,6 @@
   level: 6
   lon: -88.24263
   name:  'Cafe Kopi'
-- ap: 5722
-  img:  'http://lh6.ggpht.com/0IsQORyEW-bPA7sEbGspygtoI7ixEshm_2fUw5oeh9AeXg6JN5w0ypYIshpuKm-C0nG4Vm2XmpLvtWTZzWzd'
-  lat: 40.111607
-  level: 4
-  lon: -88.233753
-  name:  'Chabad Menorah'
 - ap: 5535
   img:  'http://lh5.ggpht.com/BUGNnLReyCBJJj9_zpqgwv5_CAyiW8fWBpyVs0ip1hT5NEE6YKCYzlc8ahldKzk_xv-4uckNJNb6NrJd6r33qg'
   lat: 40.116989
@@ -118,6 +112,12 @@
   level: 2
   lon: -88.242149
   name:  'Read All About It'
+- ap: 5348
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.781053
+  level: '?'
+  lon: -87.757742
+  name:  '9a047756efef4b0b809bdb07c058c4b5.16'
 - ap: 5348
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.710477
@@ -148,12 +148,6 @@
   level: 6
   lon: -88.242671
   name:  'Marketplace Mall Fountain'
-- ap: 4972
-  img:  'http://lh4.ggpht.com/PmGpygZ2fBs43twk2Y44XZbgGcHWv0YimAq7Fp3vlIRRqUyLpSmDmFwcn1ucfmJarcQrAAXJjYAXAhNyxSrz'
-  lat: 40.110049
-  level: 5
-  lon: -88.231968
-  name:  'Potbelly Mural'
 - ap: 4785
   img:  'http://lh6.ggpht.com/aHhLEb8O6JqkElC1drnlJBmq8qeC2WzA4W48qkRQwuE9B6opSfHVKARNHu-uAZN-jvPRznVdmobggqRbw9E'
   lat: 40.100674
@@ -166,12 +160,6 @@
   level: 5
   lon: -88.228735
   name:  'End Caps Sculpture at ECE'
-- ap: 4785
-  img:  'http://lh5.ggpht.com/fGRHfMAqdWrUnPE8GStKSdMkgQmu9qvuxAC4VzcU1v2KyxQu2BeuJKhvhefSeFNTkgFh6YdR-F4P6plMbh0'
-  lat: 40.110194
-  level: 6
-  lon: -88.231488
-  name:  'Fighting Illini Memorial'
 - ap: 4598
   img:  'http://lh3.ggpht.com/07XrBN-er6Ecleor0n9RJ4DfGO6B2yn-ZxjI-Uy8Ba46Jtb6cXNVmATPiPiGyk-1jZ4wxa7-EeIWbWUqArCG'
   lat: 40.142554
@@ -203,6 +191,18 @@
   lon: -89.331936
   name:  'e4ea31093fd34c1eb80ea546c0b632fd.12'
 - ap: 4411
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.057067
+  level: '?'
+  lon: -87.670202
+  name:  '25fdeba00a774909912bc900e245a6a5.16'
+- ap: 4411
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.052212
+  level: '?'
+  lon: -87.669411
+  name:  '104d9a0bac384f00b3dfa667adecb86a.16'
+- ap: 4411
   img:  'http://lh4.ggpht.com/Tpl5ga1h9vBjG88A6xRDnvBxx7F1epdVZYUY-FNnoOS6H_0OkWXC-RqCtNsk5WSZcOBwMvdY56QCHo0hvoE'
   lat: 40.102744
   level: 5
@@ -232,12 +232,6 @@
   level: 6
   lon: -88.241338
   name:  'Illinois Terminal'
-- ap: 3848
-  img:  'http://lh5.ggpht.com/AmsS7GEfFX-_Icem2DP6mjQahV1jeut1CGdeqLqfpyzx0m5SqhVY4eoAohizF0xsevPQufmLRMoVj2rW7Fe8'
-  lat: 40.111689
-  level: 5
-  lon: -88.231193
-  name:  'Koi Building Art'
 - ap: 3661
   img:  'http://lh6.ggpht.com/ukIJOts1W6BPpII4XC4_Q5Wh8Gz8aCNeGUuAtaLknm7OKhNYvlDd71ZN8hcxCRcJDhDjV0qBZgFRyYMGNeS6'
   lat: 40.100203
@@ -268,12 +262,6 @@
   level: 1
   lon: -88.249558
   name:  'Gerald Guest Memorial Tree'
-- ap: 3661
-  img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
-  lat: 40.109923
-  level: 6
-  lon: -88.239141
-  name:  'Circle K 59 E. Green'
 - ap: 3661
   img:  'http://lh4.ggpht.com/lmmAipLLlemZCx_GvFWKPFhu7DSZrKSc3OxReeZJ15aabG51w3_L9IdcpKrku-QUoKanND7aZEBZIToeu8ha'
   lat: 40.120805
@@ -312,6 +300,12 @@
   name:  'bc74b2c5551a4ef8ba6918a67d396416.12'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.058869
+  level: '?'
+  lon: -87.670779
+  name:  '906955eb184f41c38b6a9615828f203f.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.294018
   level: '?'
   lon: -89.062653
@@ -334,6 +328,12 @@
   level: '?'
   lon: -89.227868
   name:  '2f1a9e500a544845abb21954a8684910.12'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 42.059171
+  level: '?'
+  lon: -87.673638
+  name:  'b74c35e93068412baf6f0cacd762b36f.16'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.297992
@@ -413,6 +413,12 @@
   lon: -88.24954
   name:  'John Patrick Sherlock Memorial Plaque'
 - ap: 2724
+  img:  'http://lh6.ggpht.com/0IsQORyEW-bPA7sEbGspygtoI7ixEshm_2fUw5oeh9AeXg6JN5w0ypYIshpuKm-C0nG4Vm2XmpLvtWTZzWzd'
+  lat: 40.111607
+  level: 4
+  lon: -88.233753
+  name:  'Chabad Menorah'
+- ap: 2724
   img:  'http://lh3.ggpht.com/WDQ55kRMYCIrw9Pm69IuV6cBTI2nx7Z1gU9yxX2oE2oH9EdPnO1ltxSROAjUmHmBu84SEtHmLKregkDqlLYzUg'
   lat: 40.117126
   level: 2
@@ -485,21 +491,33 @@
   lon: -88.24286
   name:  'Kaufman Memorial'
 - ap: 2537
+  img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
+  lat: 40.109923
+  level: 6
+  lon: -88.239141
+  name:  'Circle K 59 E. Green'
+- ap: 2537
   img:  'http://lh6.ggpht.com/BANSBFfuZ3_0ya-JodV7jEB1a-DwSOyegBwPKAODSUFHLmvI7b8zwSiLUAvvqIAYjpU6S_Lm8XRBJ30KDGCIEg'
   lat: 40.116917
   level: 2
   lon: -88.24078
   name:  'North Star Sculpture'
 - ap: 2537
+  img:  'http://lh5.ggpht.com/AmsS7GEfFX-_Icem2DP6mjQahV1jeut1CGdeqLqfpyzx0m5SqhVY4eoAohizF0xsevPQufmLRMoVj2rW7Fe8'
+  lat: 40.111689
+  level: 5
+  lon: -88.231193
+  name:  'Koi Building Art'
+- ap: 2162
   img:  'http://lh5.ggpht.com/BKHQBYKq1WHplCUxjyl6ZyElMZVN9SFIPmdKwffI6avqoyvbXRxFSFwn-RrmpqLRdSu6LntKwTDnQvCc1n0x'
   lat: 40.110358
-  level: 5
+  level: 2
   lon: -88.230181
   name:  'Murphy''s Pub '
-- ap: 2537
+- ap: 2237
   img:  'http://lh3.ggpht.com/1Z3mCRroEUysinW4hlDhAFNnfog3gwBM_aM8wYT6tQPiXMMmaRE9CrO5XM6QMe3UPHzMQSoxFmvWlkwOTRAv'
   lat: 40.111111
-  level: 4
+  level: 2
   lon: -88.230176
   name:  'U of I Mural'
 - ap: 2537
