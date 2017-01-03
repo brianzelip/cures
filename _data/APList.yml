@@ -88,12 +88,6 @@
   level: 6
   lon: -88.228757
   name:  'The Presidents'' Walk'
-- ap: 5909
-  img:  'http://lh4.ggpht.com/lpJC8CMq12VKjzn5jKxDzhuO6-wy48dUIJ1qAD7jiTQom4qZYFUDgxd3-1wexag_aT8akZC3P7VTqei0H48YKQ'
-  lat: 40.100482
-  level: 3
-  lon: -88.281627
-  name:  'Henry Bradbury Memorial'
 - ap: 5722
   img:  'http://lh3.googleusercontent.com/xo3k3XO7tBJe91QAyjpFM6Hf4-lz36JNDF9bA9GpCbvobxWKkUZtf-RYl9CynmW3YuV0JGQht2y6D_5zsfHz'
   lat: 40.117571
@@ -143,11 +137,11 @@
   lon: -88.242671
   name:  'Marketplace Mall Fountain'
 - ap: 4785
-  img:  'http://lh6.ggpht.com/aHhLEb8O6JqkElC1drnlJBmq8qeC2WzA4W48qkRQwuE9B6opSfHVKARNHu-uAZN-jvPRznVdmobggqRbw9E'
-  lat: 40.100674
-  level: 4
-  lon: -88.281589
-  name:  'Catherine Josephine Feinen Memorial'
+  img:  'http://lh4.ggpht.com/lpJC8CMq12VKjzn5jKxDzhuO6-wy48dUIJ1qAD7jiTQom4qZYFUDgxd3-1wexag_aT8akZC3P7VTqei0H48YKQ'
+  lat: 40.100482
+  level: 3
+  lon: -88.281627
+  name:  'Henry Bradbury Memorial'
 - ap: 4785
   img:  'http://lh3.googleusercontent.com/EvLov_3eYLGHotkWec9w3T1VCPQri5SR8JLZjbJUaxRsyGPLS4YQNXf90xlPoKjxGYlml9N8IDYKwpNvVIWlVA'
   lat: 40.114563
@@ -220,6 +214,12 @@
   level: 6
   lon: -88.241338
   name:  'Illinois Terminal'
+- ap: 3661
+  img:  'http://lh6.ggpht.com/aHhLEb8O6JqkElC1drnlJBmq8qeC2WzA4W48qkRQwuE9B6opSfHVKARNHu-uAZN-jvPRznVdmobggqRbw9E'
+  lat: 40.100674
+  level: 4
+  lon: -88.281589
+  name:  'Catherine Josephine Feinen Memorial'
 - ap: 3661
   img:  'http://lh6.ggpht.com/ukIJOts1W6BPpII4XC4_Q5Wh8Gz8aCNeGUuAtaLknm7OKhNYvlDd71ZN8hcxCRcJDhDjV0qBZgFRyYMGNeS6'
   lat: 40.100203
@@ -323,12 +323,6 @@
   lon: -89.062417
   name:  'f027ea030eb549afb6aeea6502a75ce3.16'
 - ap: 3474
-  img:  'http://lh3.ggpht.com/ehNwLdaa71H3Bylm063pawn4caIGz2rCdmmdBhAFWIuEt2kPjT8nWHDkSuoOidckWiM82FWpDSNGQqQMHiQ'
-  lat: 40.098209
-  level: 5
-  lon: -88.28689
-  name:  'First Church of the Nazarene'
-- ap: 3474
   img:  'http://lh3.ggpht.com/K-b9T4FjMxrtkS2Awkze3fELfwY2Va92gMQloHtHf4bfeKPPRzOUJxaSYYi6-OHHQbpDVY3ONWwPgIa78fBX'
   lat: 40.118332
   level: 2
@@ -426,16 +420,16 @@
   name:  'd4bd15de84eb48f5983ff1ef09eb8246.12'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 39.91497
-  level: '?'
-  lon: -88.273264
-  name:  '5d2d71d0f909459c9004cd99890c964c.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 39.912869
   level: '?'
   lon: -88.271225
   name:  '7ae31819d59a42a286e4aba7926a74ac.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 39.91497
+  level: '?'
+  lon: -88.273264
+  name:  '5d2d71d0f909459c9004cd99890c964c.16'
 - ap: 2537
   img:  'http://lh3.ggpht.com/I2Up882o0nHzQof3uWaDFK7KQHkYOu1XgKoXUgQotITYJDh--80GzLnOSI8TxKF3RxsF32zcsYmRF8Fiugpt'
   lat: 40.116413
