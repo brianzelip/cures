@@ -236,20 +236,6 @@
   lon: -88.253037
   mus: 4133
   name:  'Fagen Truck Accessories'
-- fields: 7
-  img:  'http://lh4.ggpht.com/-P9_K1M8m41FpGEgfyih0JNuexcc1mtm7Hq3LOuozksba15MIQWefDgfBs20Uuf61Txiy9-ALeKCMVWuBi4'
-  lat: 40.083514
-  level: 8
-  lon: -88.276579
-  mus: 4131
-  name:  'Christie Clinic Hospital '
-- fields: 10
-  img:  'http://lh3.ggpht.com/ZKYFxa4_Jj-OpytEiNkFmQOVv42zvLK_5wEHxLncanKrdr7RjjSoG_UYFDX0CmCUupuU2d0MGQ3l1pbl0zF1'
-  lat: 40.083873
-  level: 7
-  lon: -88.265912
-  mus: 4117
-  name:  'Dan Morrissey Park'
 - fields: 5
   img:  'http://lh5.ggpht.com/jwu_GyddG2hU2-J2NqQUB_w5s034VhQHXb2PcHvvH0bLBmy8uhFA-n8IkB2sfkZRVuQ_rj8s4Sg-inu8uiEr'
   lat: 40.108986
@@ -292,13 +278,20 @@
   lon: -88.248689
   mus: 3615
   name:  'Town Center Park Champaign Park District'
-- fields: 9
-  img:  'http://lh4.ggpht.com/MnvRIwYBCscNCKIRmPyogxsZdt_OF6dC0mIsI1_2fddZFlc88Sg9wNyU9Ne9q-cY0RUa5VFafv4C5f5-pxVpWg'
-  lat: 40.069376
+- fields: 8
+  img:  'http://lh3.ggpht.com/ZKYFxa4_Jj-OpytEiNkFmQOVv42zvLK_5wEHxLncanKrdr7RjjSoG_UYFDX0CmCUupuU2d0MGQ3l1pbl0zF1'
+  lat: 40.083873
+  level: 7
+  lon: -88.265912
+  mus: 3413
+  name:  'Dan Morrissey Park'
+- fields: 5
+  img:  'http://lh4.ggpht.com/-P9_K1M8m41FpGEgfyih0JNuexcc1mtm7Hq3LOuozksba15MIQWefDgfBs20Uuf61Txiy9-ALeKCMVWuBi4'
+  lat: 40.083514
   level: 8
-  lon: -88.257672
-  mus: 3245
-  name:  'Friendship Crossing'
+  lon: -88.276579
+  mus: 3249
+  name:  'Christie Clinic Hospital '
 - fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.037391
@@ -327,6 +320,13 @@
   lon: -88.238373
   mus: 2682
   name:  'John "Skip" Pickering Dedication'
+- fields: 7
+  img:  'http://lh4.ggpht.com/MnvRIwYBCscNCKIRmPyogxsZdt_OF6dC0mIsI1_2fddZFlc88Sg9wNyU9Ne9q-cY0RUa5VFafv4C5f5-pxVpWg'
+  lat: 40.069376
+  level: 8
+  lon: -88.257672
+  mus: 2567
+  name:  'Friendship Crossing'
 - fields: 13
   img:  'http://lh3.ggpht.com/7sJlWdBFFcLCXWnnfB6SVTzCCDM0Q7KyV5jALfrWG3ICtkw7HXrjzaRrnzSiv19wIswpZoTxKYudzYiZnT9Shg'
   lat: 40.112536
@@ -334,13 +334,6 @@
   lon: -88.256779
   mus: 2231
   name:  'Framer''s Market'
-- fields: 8
-  img:  'http://lh5.ggpht.com/e6wN_SlFuF59rOEwuU8BCPeT0WsXneW_OcsXpZ75pgQd0PQSfnKhmLyrK5PDkisRwjV2DfAfVp7T3ryHoGKX4A'
-  lat: 40.076779
-  level: 7
-  lon: -88.249144
-  mus: 2047
-  name:  'Triptych Brewing'
 - fields: 12
   img:  'http://lh3.ggpht.com/UQuHsiMeCPMbwNsd_6oQD7ZvYbGu8RJFkxo5LW4ixmtiaJZlrMJg7RTE7vmvbQxhHx8hTXzj4HiOfkiA8VGn'
   lat: 40.121364
@@ -425,6 +418,13 @@
   lon: -88.205103
   mus: 1612
   name:  'J C Blair Monument '
+- fields: 6
+  img:  'http://lh5.ggpht.com/e6wN_SlFuF59rOEwuU8BCPeT0WsXneW_OcsXpZ75pgQd0PQSfnKhmLyrK5PDkisRwjV2DfAfVp7T3ryHoGKX4A'
+  lat: 40.076779
+  level: 7
+  lon: -88.249144
+  mus: 1548
+  name:  'Triptych Brewing'
 - fields: 8
   img:  'http://lh4.ggpht.com/9Rg84EpxbL2Yg5gK7imF1lg4LpVcRz8fS4QGQe_hQfaeN-crjjc8p1MnWvQtnHIJ9c2N-tOiI2lgFMkIfP-V'
   lat: 40.127139
@@ -432,13 +432,6 @@
   lon: -88.23398
   mus: 1537
   name:  'Church of the Living God'
-- fields: 4
-  img:  'http://lh5.ggpht.com/ol0RXlyBNe6HMdo476xfY8RSKSHpownpuvzXzt79iXCP5m5YSzxfK5L7hdm7bLVjLavR90KL_lSCQnAXcrQ'
-  lat: 40.075288
-  level: 5
-  lon: -88.256822
-  mus: 1382
-  name:  'First Baptist Church of Savoy'
 - fields: 11
   img:  'http://lh3.ggpht.com/1-JS8sV0YQTNKZcOYkhHUpeLbSapI7w9Nksu7UJhMKpIgoGwe-FKIo9ALf7fXUm4mHlsQxcyMdJyQbI5tCmc'
   lat: 40.116494
@@ -2150,7 +2143,7 @@
 - fields: 4
   img:  'http://lh4.ggpht.com/HPJCnjDX7RNIKo1Nb9pEeLm37UaylaBupc0bWDexHxCLAmBV-4-tYBf1Jof3ssNpFCmoyw3MrokNv4_zt20'
   lat: 40.108274
-  level: 2
+  level: 1
   lon: -88.219925
   mus: 4
   name:  'Memory Squares'
@@ -2507,7 +2500,7 @@
 - fields: 1
   img:  'http://lh6.ggpht.com/Is1X0lUzkQNvQqf1DAuDubUUhrDHx3xEFhrX9GLs_uixSyDzNSCw1vS235EszYc_itiZUU2FsfItRg21Lj_OlA'
   lat: 40.111689
-  level: 5
+  level: 4
   lon: -88.21914
   mus: 1
   name:  'CIMIC'
