@@ -1,3 +1,10 @@
+- fields: 2
+  img:  'http://lh6.ggpht.com/t9_eydZD2uZIBwEmrNcPR2FWXjyVKK06CTbNoZQ682AuvHAsWKBewlbzTqH7yqOjuPMBBkqOGwETeqt6hoU'
+  lat: 40.194618
+  level: 6
+  lon: -88.401509
+  mus: 707594
+  name:  'Mahomet Area Community Center'
 - fields: 4+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.202899
@@ -5,6 +12,13 @@
   lon: -88.426556
   mus: 705282
   name:  'Church of the Nazarene'
+- fields: 1+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.193355
+  level: '?'
+  lon: -87.973298
+  mus: 686414
+  name:  'c9065f26244248e2929ae2f2c3428d31.12'
 - fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.062819
@@ -19,13 +33,6 @@
   lon: -88.426639
   mus: 52879
   name:  'Seymour United Methodist Church'
-- fields: 7
-  img:  'http://lh4.ggpht.com/A15Qc2ImqJFORKlDItFStr3pkJ1pX5dRyG8VO6RoziKIqMOMMTQdJa-fUInsxL4o7Yxg1XNHfexBZuNAyLG0yw'
-  lat: 40.132021
-  level: 5
-  lon: -88.31285
-  mus: 35243
-  name:  'Sunset Ridge Park Dedication'
 - fields: 8
   img:  'http://lh5.ggpht.com/-NsKnESr9uZb4z_j68xVZ0wUqdmw2w55j8GyLVxett1cBDOwLzwVF7FZY3yZZyTPCZeRYEynakch-pYO6GhZ'
   lat: 40.084056
@@ -33,13 +40,13 @@
   lon: -88.328738
   mus: 34312
   name:  'Champaign Bark District'
-- fields: 2
-  img:  'http://lh6.ggpht.com/t9_eydZD2uZIBwEmrNcPR2FWXjyVKK06CTbNoZQ682AuvHAsWKBewlbzTqH7yqOjuPMBBkqOGwETeqt6hoU'
-  lat: 40.194618
-  level: 6
-  lon: -88.401509
-  mus: 21181
-  name:  'Mahomet Area Community Center'
+- fields: 6
+  img:  'http://lh4.ggpht.com/A15Qc2ImqJFORKlDItFStr3pkJ1pX5dRyG8VO6RoziKIqMOMMTQdJa-fUInsxL4o7Yxg1XNHfexBZuNAyLG0yw'
+  lat: 40.132021
+  level: 5
+  lon: -88.31285
+  mus: 29313
+  name:  'Sunset Ridge Park Dedication'
 - fields: 7
   img:  'http://lh5.ggpht.com/-fll1h_4LwvAASQFuSFCPXineRQ-GTGggs2P9L5-qR50oQ1wGjy6dzP_D3SGA7esReq2lemp9JsZqg6uDO8P'
   lat: 40.071293
@@ -68,13 +75,6 @@
   lon: -88.295335
   mus: 11851
   name:  'Friendship Lutheran Church of Joy'
-- fields: 9
-  img:  'http://lh4.ggpht.com/0UzQDuaKLiiPhEgEmKghfkzvXj6lROhxPIDJuI4nWLJFvdxJwGNcJZ1va0K_9cy4L2u0Zyeqv_qlIAwch5o'
-  lat: 40.133475
-  level: 6
-  lon: -88.293988
-  mus: 10416
-  name:  'Parkhill Applied Technology Center'
 - fields: 8
   img:  'http://lh3.ggpht.com/W8FBEELyDwLQMeanXFx-Fgunxvd31WdpPq5IhpOEXVv-NygLJqO5o8a74hVaiQzxEGWm3XPPu4IWJEUcJQzN'
   lat: 40.055019
@@ -96,13 +96,6 @@
   lon: -88.203382
   mus: 6596
   name:  'Yikes'
-- fields: 1+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.203562
-  level: '?'
-  lon: -88.395264
-  mus: 5931
-  name:  'Blue Star Memorial By-Way'
 - fields: 3
   img:  'http://lh5.ggpht.com/5n6ialkb-Y9eoGArdLzCAPCffrXVqL23DwAgk5_9lpKiUhDCIPnFMEDPXDx_cgawzU3afGhZK8hNkijTeoOiAw'
   lat: 40.054801
@@ -138,6 +131,13 @@
   lon: -88.295051
   mus: 4488
   name:  'Midwest Believers Church'
+- fields: 8
+  img:  'http://lh4.ggpht.com/0UzQDuaKLiiPhEgEmKghfkzvXj6lROhxPIDJuI4nWLJFvdxJwGNcJZ1va0K_9cy4L2u0Zyeqv_qlIAwch5o'
+  lat: 40.133475
+  level: 6
+  lon: -88.293988
+  mus: 4485
+  name:  'Parkhill Applied Technology Center'
 - fields: 6
   img:  'http://lh5.ggpht.com/jwu_GyddG2hU2-J2NqQUB_w5s034VhQHXb2PcHvvH0bLBmy8uhFA-n8IkB2sfkZRVuQ_rj8s4Sg-inu8uiEr'
   lat: 40.108986
@@ -1916,13 +1916,6 @@
   lon: -88.250515
   mus: 4
   name:  'Mark Foutch Pavilion'
-- fields: 4
-  img:  'http://lh3.ggpht.com/nGhmCwJD6bTZSD4fk-6vnaRZfPq8CI7zLMEDuUZFl7no1ZUFie42aJKdxr5r-212vPk5feGwGFfkMrb_IBc'
-  lat: 40.195177
-  level: 7
-  lon: -88.401915
-  mus: 4
-  name:  'Fire Fighters Pavilion'
 - fields: 1
   img:  'http://lh6.ggpht.com/rraU1rTd14rCyJXSoh2e6C2u94YDda9-bQvNx5QNAyqzNwDF1MB6ZmCYgnUrC1--QxP8_xEw0oI9iqEy1gto'
   lat: 40.108
@@ -1973,26 +1966,12 @@
   mus: 3
   name:  'Charles P. Wolff Memorial and Tree'
 - fields: 4
-  img:  'http://lh6.ggpht.com/jzcknzJD--LvlqQqPBMjG5p5MOsy0bVOqavN3G5IS_o5-rYQyZDSv-dIiYpewV2Odmjeq9dpcCnS9xfpo4aRxQ'
-  lat: 40.194684
-  level: 7
-  lon: -88.401764
-  mus: 3
-  name:  'Mahomet Community Pavillion'
-- fields: 4
   img:  'http://lh3.ggpht.com/8FqlniFErK7cq59awiT84u8KyV4FIRd5krZzfYa58zJToFps7whdBnriPqvO_kFKeLUE3SWbJhCOPuvUQzaGFA'
   lat: 40.100691
   level: 5
   lon: -88.251337
   mus: 3
   name:  'In Loving Memory of Zeus'
-- fields: 3+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.194685
-  level: '?'
-  lon: -88.402516
-  mus: 3
-  name:  '03e9d880973d4109bae4ce69f524fa1a.16'
 - fields: 4
   img:  'http://lh5.ggpht.com/T0WLAJf0s4nu2Phxax31eu6pO6zNoA4JpvHMLyfMKttzJALEWB8EAWOziQwgjdWE3YjBbG1XjGYsgihqCSX9'
   lat: 40.100414
@@ -2077,13 +2056,6 @@
   lon: -88.249214
   mus: 2
   name:  'Bette McKown Honorary'
-- fields: 3
-  img:  'http://lh5.ggpht.com/PnX0W4nb5AYgeh3aSV1f6L1M6SXT5EDNNj-HZLlIrqeFoeMlVOlqnsY-fMyXYgvKn-Ac3RDPKf_iJCtYRmek'
-  lat: 40.194805
-  level: 7
-  lon: -88.401996
-  mus: 2
-  name:  'Leland Dollahan Memorial'
 - fields: 1
   img:  'http://lh6.ggpht.com/ip01yZFDdi_w_oQ9qKF40m0xZBcj62odRMMEkBoiO6Pu_WUGqItkR8Dx-sJEgGpNxbTl9zxdS3cKZsDNJl4'
   lat: 40.118411
