@@ -1303,7 +1303,7 @@
 - fields: 1
   img:  'http://lh6.ggpht.com/bVah4kWjWmyX3pJo6Wm113MfLITgNjQ1c4_n3VyikOfFhFyfe_ThgjbzN3rwaiI5fnN_pS87hFb9PEAdBsZaBQ'
   lat: 40.107945
-  level: 6
+  level: 5
   lon: -88.188527
   mus: 34
   name:  'Brookens Administrative Center'
@@ -1496,6 +1496,13 @@
   lon: -88.209207
   mus: 13
   name:  'Urbana Free Library'
+- fields: 3
+  img:  'http://lh5.ggpht.com/39qvivJbsTr57F8HWz9_3WhqwtI6kCbL9qeIckApwB7s51qHqm4RS4qZLPkY2GUv6A2wi2wrlNxhnIN6xGKS'
+  lat: 40.113427
+  level: 5
+  lon: -88.229089
+  mus: 13
+  name:  'Lee Williamson Memorial'
 - fields: 7
   img:  'http://lh3.googleusercontent.com/vRH1cgHOuzbgU69F49MdsOQye4VG9lH8rjDcYQWGq9_8VcBu010oHhoinNmA_Dn9JZGLmS7ehSQJ9h1uDMGBaw'
   lat: 40.107087
@@ -1552,13 +1559,6 @@
   lon: -88.227461
   mus: 11
   name:  'Undergraduate Library at UIUC'
-- fields: 2
-  img:  'http://lh5.ggpht.com/39qvivJbsTr57F8HWz9_3WhqwtI6kCbL9qeIckApwB7s51qHqm4RS4qZLPkY2GUv6A2wi2wrlNxhnIN6xGKS'
-  lat: 40.113427
-  level: 5
-  lon: -88.229089
-  mus: 11
-  name:  'Lee Williamson Memorial'
 - fields: 4
   img:  'http://lh5.ggpht.com/QIB27P8JrbHvcI2jjqXw1iJb1eAsho-lDFm2y_3Q_DEoS5b0toaYJuhD2F_qzMm2aOiNxEX-imTK4O_fRR2L'
   lat: 40.093464
@@ -1783,6 +1783,13 @@
   lon: -88.24958
   mus: 6
   name:  'Edward A. Cousins Plaque'
+- fields: 3
+  img:  'http://lh6.ggpht.com/POBAhJlStu1uLv82RPSkd8lKQyojPByrKqAwgiZPyXTHQcNTCN7rkJM376YcVpMmZZVMgiXz9J1BXanexyA643e-FR9M70tksLdb1akPUe2Ra_xCyw'
+  lat: 40.112411
+  level: 2
+  lon: -88.226875
+  mus: 6
+  name:  'Grainger Engineering Library - William W. Grainger Medallion'
 - fields: 4
   img:  'http://lh3.googleusercontent.com/Wl3skouUyBxfjEnI0bhQnpjCvS0wgeIHDtu5lfvMUD04A4Cab7aBCOp2HPOU0TWRGkZMpzRrG-bB0BK08NVWGw'
   lat: 40.099593
@@ -1910,6 +1917,13 @@
   mus: 4
   name:  'Beckman Institute - Upwells Fountain'
 - fields: 2
+  img:  'http://lh5.ggpht.com/WZc539Zuz4CnOeahoDxnw7bXfoXbAW8PlbPdBvZNK5s1q7hQoFcVebhZRoTQV6uPovHywWaXUsleNvoQP2wE'
+  lat: 40.113647
+  level: 5
+  lon: -88.227628
+  mus: 4
+  name:  'Micro and Nanotechnology Laboratory'
+- fields: 2
   img:  'http://lh4.ggpht.com/1LUozaukItxu6cHk_7wORzYYNvskCHi_wUxbNOAcIXNbgLuYn7VElFG0tzY02e6pY-AEL8nNHAL6ewLCaLMH'
   lat: 40.10567
   level: 6
@@ -1951,13 +1965,6 @@
   lon: -88.226279
   mus: 4
   name:  'Nuclear Magnetic Resonance II Plaque'
-- fields: 2
-  img:  'http://lh6.ggpht.com/POBAhJlStu1uLv82RPSkd8lKQyojPByrKqAwgiZPyXTHQcNTCN7rkJM376YcVpMmZZVMgiXz9J1BXanexyA643e-FR9M70tksLdb1akPUe2Ra_xCyw'
-  lat: 40.112411
-  level: 2
-  lon: -88.226875
-  mus: 4
-  name:  'Grainger Engineering Library - William W. Grainger Medallion'
 - fields: 4
   img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
   lat: 40.100286
@@ -2028,6 +2035,20 @@
   lon: -88.251337
   mus: 3
   name:  'In Loving Memory of Zeus'
+- fields: 2
+  img:  'http://lh3.ggpht.com/aHqOXq4BX_XXhSNRFJn0768z_1bjWEniMumNJ4FMy9Nv5j3AefPsZDiAGCehCguZ1HFOBMBXxRI4mOXd077e'
+  lat: 40.112957
+  level: 6
+  lon: -88.227127
+  mus: 3
+  name:  'Early Computers Plaque'
+- fields: 2
+  img:  'http://lh4.ggpht.com/ezHSw_hRdts3U3bzkEEn46LneS1miDpbSGoxg0v1TqG_W82bvfR2uSTZeDFfhG0kmPJAkOblWP_ZilA6TP8'
+  lat: 40.112523
+  level: 3
+  lon: -88.227765
+  mus: 3
+  name:  'Bardeen Quadrangle - North Side'
 - fields: 4
   img:  'http://lh5.ggpht.com/T0WLAJf0s4nu2Phxax31eu6pO6zNoA4JpvHMLyfMKttzJALEWB8EAWOziQwgjdWE3YjBbG1XjGYsgihqCSX9'
   lat: 40.100414
@@ -2049,6 +2070,13 @@
   lon: -88.226388
   mus: 3
   name:  'Illinois State Water Survey Plaque'
+- fields: 1
+  img:  'http://lh6.ggpht.com/Pnd8JOVl_Lm-LFi5TL9dblCUNbrwX2rh4_oKgOC5Ynga-E_Y207oGsL4Uz931FTapBrs35H98qxJU4Cm_Gk'
+  lat: 40.113024
+  level: 4
+  lon: -88.229095
+  mus: 3
+  name:  'University Place Christian Church'
 - fields: 3
   img:  'http://lh5.ggpht.com/gkIcCbfmQWyJ7s9ryhzfOOn1K-oa8huqzZN80X2psVjx_6Iur5egjGncbUIAMLiAJAf9qG1Ac8lX2MomHYY'
   lat: 40.108185
@@ -2161,13 +2189,6 @@
   lon: -88.228609
   mus: 2
   name:  'Talbot Labs '
-- fields: 1
-  img:  'http://lh5.ggpht.com/WZc539Zuz4CnOeahoDxnw7bXfoXbAW8PlbPdBvZNK5s1q7hQoFcVebhZRoTQV6uPovHywWaXUsleNvoQP2wE'
-  lat: 40.113647
-  level: 5
-  lon: -88.227628
-  mus: 2
-  name:  'Micro and Nanotechnology Laboratory'
 - fields: 1
   img:  'http://lh4.ggpht.com/nCIRPoMhADi7TL4q2u4MuBiXC1akVoL07As3dRfJNrhBjk7TMQ6R08CVcjyVIhHKHcOuAFQpwqld8JgdcgIB'
   lat: 40.113961
@@ -2316,26 +2337,12 @@
   mus: 1
   name:  'Hays Recreation Center'
 - fields: 1
-  img:  'http://lh3.ggpht.com/aHqOXq4BX_XXhSNRFJn0768z_1bjWEniMumNJ4FMy9Nv5j3AefPsZDiAGCehCguZ1HFOBMBXxRI4mOXd077e'
-  lat: 40.112957
-  level: 6
-  lon: -88.227127
-  mus: 1
-  name:  'Early Computers Plaque'
-- fields: 1
   img:  'http://lh4.ggpht.com/6WTMH3liIIuH6pEvRGZOkUNNR84nR8frjFch6yn_4mbGIokY-MajBCG6jZHWU37a8TBI97rYTBlX-ks8m5XJTw'
   lat: 40.112843
   level: 2
   lon: -88.227657
   mus: 1
   name:  'Class of 1904 Flagpole'
-- fields: 1
-  img:  'http://lh4.ggpht.com/ezHSw_hRdts3U3bzkEEn46LneS1miDpbSGoxg0v1TqG_W82bvfR2uSTZeDFfhG0kmPJAkOblWP_ZilA6TP8'
-  lat: 40.112523
-  level: 3
-  lon: -88.227765
-  mus: 1
-  name:  'Bardeen Quadrangle - North Side'
 - fields: 1
   img:  'http://lh6.ggpht.com/SCYK-XeMmOyfRrTt1-aQNoDA-2Sib4m5Ch26mTwo6XNdVeVnfi7W74Ik6IRLAPSoKzSS97pgwt50Jl9oSgGfP029USxZzQWKNJo3rbs-6YHBPBif'
   lat: 40.116792
