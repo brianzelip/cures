@@ -439,20 +439,6 @@
   lon: -88.231914
   mus: 728
   name:  'Salem Baptist Church'
-- fields: 2
-  img:  'http://lh4.ggpht.com/7Nqa47hr7fGsLlGODwM5wZ-HxHiGAz1aCc5kf53Tl_9yWg_eH1xf1s8KyDn3SMg5pFQuLaSb_ZYR_5ejO-Y'
-  lat: 40.100824
-  level: 7
-  lon: -88.270121
-  mus: 728
-  name:  'Mayfair Park'
-- fields: 4
-  img:  'http://lh4.ggpht.com/dIZMnnUykBHkwUGA_tGi7tq4m0qCooVejZqueoqq9NjBXvZgz1QUEqS-vJhsYu3v7pW_0xejLfH9QeziW28I'
-  lat: 40.097472
-  level: 7
-  lon: -88.259842
-  mus: 720
-  name:  'Indian Acres Swim Club'
 - fields: 1
   img:  'http://lh5.ggpht.com/AEDNEBV89C8eZnLPzK5JIchcLMwZ3Ya2btWhSUFX2GmTXPf3AyqQBs9FYNVMDe-dGi4xbfJNjr2XMQaMo03_'
   lat: 40.079618
@@ -477,7 +463,7 @@
 - fields: 3
   img:  'http://lh6.ggpht.com/cspFto0a9XfDVdl-Fqidc8Tfmq6jiYzEy-EH3_4t9noc0VwvurrqO2f0LBQ7OnHhVmZ4xvw0gRZBYmgSTFKK'
   lat: 40.08388
-  level: 3
+  level: 6
   lon: -88.265186
   mus: 692
   name:  'Shield of Chichen Itza'
@@ -551,6 +537,13 @@
   lon: -88.273762
   mus: 526
   name:  'Pias Sports Bar and Grill'
+- fields: 1
+  img:  'http://lh4.ggpht.com/7Nqa47hr7fGsLlGODwM5wZ-HxHiGAz1aCc5kf53Tl_9yWg_eH1xf1s8KyDn3SMg5pFQuLaSb_ZYR_5ejO-Y'
+  lat: 40.100824
+  level: 7
+  lon: -88.270121
+  mus: 495
+  name:  'Mayfair Park'
 - fields: 2
   img:  'http://lh4.ggpht.com/vbIH-PkUCBuwDTIRXA4p5jtGQ86SqYlc1e-g3Y9Ef2zaSb0ozkDD41Iq51orLhtPyShj4UzC6CPn0Unt8SY'
   lat: 40.145108
@@ -614,6 +607,13 @@
   lon: -88.242844
   mus: 423
   name:  'Lake Park Gardens'
+- fields: 2
+  img:  'http://lh4.ggpht.com/dIZMnnUykBHkwUGA_tGi7tq4m0qCooVejZqueoqq9NjBXvZgz1QUEqS-vJhsYu3v7pW_0xejLfH9QeziW28I'
+  lat: 40.097472
+  level: 7
+  lon: -88.259842
+  mus: 419
+  name:  'Indian Acres Swim Club'
 - fields: 3
   img:  'http://lh6.ggpht.com/yoGdHEqpRRqOE5pA5wHdi_ismU_TrB-kTiqVV63EO630KsU608TIfjLijcqJ38At7MyyrE2urWFMPY1Sops'
   lat: 40.118121
@@ -628,13 +628,6 @@
   lon: -88.257055
   mus: 386
   name:  'Harold E. Ruppel Memorial Bikepath'
-- fields: 5
-  img:  'http://lh3.ggpht.com/ahylfFHnKd7tl8EDQopVPlqhdiJblx_p3TWsELUFACXM_9qS9N8agb-ypr7EOOemNFMUrRGaUQ23LY6F1ssb'
-  lat: 40.095094
-  level: 7
-  lon: -88.257764
-  mus: 379
-  name:  'Faith United Methodist Church'
 - fields: 5
   img:  'http://lh3.googleusercontent.com/NfuReRkyOBC6TpPTQQuLpJGD0EXaLbvSJP45Seaf0Vqc8oZ93XZFHQiMEcbBC8vAZxWX_WA3_WBC2zxcvIs'
   lat: 40.065881
@@ -684,13 +677,6 @@
   lon: -88.253451
   mus: 361
   name:  'Champaign Fire Department'
-- fields: 3
-  img:  'http://lh4.ggpht.com/T04oZ0k13H90w4QZ7f_QTFH-yrHJNyKsJ-hRWmNk2YnqBSy8KwGZrO0fb-YN5RhCi3vg_903yE64_J-JZu4Z'
-  lat: 40.092883
-  level: 6
-  lon: -88.26295
-  mus: 358
-  name:  'Temple Baptist Church'
 - fields: 4
   img:  'http://lh6.ggpht.com/WVVbmiu2GGTnPTszcnYYILHKlkZDoxB-QY6Yv7YPoUfdVn92jYnKjpVKNkfWdFrPjq-BaFeKGJWLZlE-bbA'
   lat: 40.120467
@@ -782,13 +768,13 @@
   lon: -88.272375
   mus: 257
   name:  'Jericho Missionary Baptist Church'
-- fields: 12
-  img:  'http://lh6.ggpht.com/fmwXS4vSqefbmXDWmZSLjVARfYE8HU3kSTuyc8sUvk2m8luvvHf1LHjv6Yu0UjOPHYh_eGbaBrHgiAXfHo0'
-  lat: 40.10503
-  level: 6
-  lon: -88.228342
-  mus: 253
-  name:  'Classics Library'
+- fields: 4
+  img:  'http://lh3.ggpht.com/ahylfFHnKd7tl8EDQopVPlqhdiJblx_p3TWsELUFACXM_9qS9N8agb-ypr7EOOemNFMUrRGaUQ23LY6F1ssb'
+  lat: 40.095094
+  level: 7
+  lon: -88.257764
+  mus: 255
+  name:  'Faith United Methodist Church'
 - fields: 5
   img:  'http://lh3.googleusercontent.com/zjmctc4mmgtJyGd4P22h-pDkPcOT1caYXx00Qz9rn9Qly9ddCiToX2o5rVVwkq3udrnNq6UMraWUeIaP3AI'
   lat: 40.090708
@@ -915,13 +901,6 @@
   lon: -88.297963
   mus: 172
   name:  'Mount Sinai Temple'
-- fields: 3
-  img:  'http://lh5.ggpht.com/BiCieN-kLaA8XtzYGa1FowWTlW2QzWtnxSCf1y1ChY9WXw1kN0r1Co49FI5D_xcWRrgO-_wOvqfduWQ2o337'
-  lat: 40.092411
-  level: 8
-  lon: -88.257688
-  mus: 158
-  name:  'Champaign Fire Department'
 - fields: 9
   img:  'http://lh6.ggpht.com/Nv0tMktEkkuoGtg1QEPS1N2nTcBPg8ipu31i72XPDTGQ4HQI5oL58Ig8kofXUH_aCC2aaJ-NylWKPkC3hIBS'
   lat: 40.116218
@@ -937,13 +916,6 @@
   mus: 154
   name:  'Huber''s Antique Street'
 - fields: 2
-  img:  'http://lh6.ggpht.com/yQPHFh4brRKGyXx9PtGN3hQza65T2PIyjArUf9NgW5fqFvx9m22oY2acMcEwFcVRNh0MTfGqc0WfMJFOt1io'
-  lat: 40.10725
-  level: 7
-  lon: -88.244219
-  mus: 145
-  name:  'Titan Games'
-- fields: 2
   img:  'http://lh4.ggpht.com/6JXSHiCDi2iar6h4bJwjAP3in4t5pCFNFkUI2jkc-IKAowBmm9GOwU1vcyf4YI1MjU5eWO4OJVGd682NECK6'
   lat: 40.122334
   level: 6
@@ -957,13 +929,6 @@
   lon: -88.224039
   mus: 139
   name:  'South Gate of the Greenhouse'
-- fields: 1
-  img:  'http://lh5.ggpht.com/oCw3ZC6UKF3aiK6dkbz72dhzUsJNhOmfVjVsXJET_YP5e1p53pLTa8Dep24gLqeY9FghWE0kaAB64vvn7nq0'
-  lat: 40.105008
-  level: 6
-  lon: -88.243265
-  mus: 136
-  name:  'McCollum Park Peacock'
 - fields: 1
   img:  'http://lh5.ggpht.com/n-WJVk4VFfgCVfLuyItrEjDCHgOd5YN1Z1ts6qT6-RmXvFyDeNKYarXwzwHKyd5B9tGmezRoEzKX4EFKmaY'
   lat: 40.124947
@@ -985,6 +950,13 @@
   lon: -88.23191
   mus: 119
   name:  'Clinton Craig Atkins Memorial'
+- fields: 11
+  img:  'http://lh6.ggpht.com/fmwXS4vSqefbmXDWmZSLjVARfYE8HU3kSTuyc8sUvk2m8luvvHf1LHjv6Yu0UjOPHYh_eGbaBrHgiAXfHo0'
+  lat: 40.10503
+  level: 6
+  lon: -88.228342
+  mus: 118
+  name:  'Classics Library'
 - fields: 9
   img:  'http://lh5.ggpht.com/xcqe13f85fuXohGUUBZkNrUU1PunkcZ6xMNmHpAp0GJBtydVqCCGj5MqP3Uax4M7Qq4JzDFGqICFrFb6PNEXRw'
   lat: 40.08932
@@ -992,12 +964,12 @@
   lon: -88.251883
   mus: 117
   name:  'Boulware Trail'
-- fields: 3
+- fields: 4
   img:  'http://lh4.ggpht.com/vUhKhmK0pteJi8_0n25xIa4EpgpVSS432OxXv1UQBDLjju5SEGcm_2WWl99OUPtDyNLlXirJu--KDbCoYjM'
   lat: 40.08956
   level: 8
   lon: -88.257733
-  mus: 113
+  mus: 114
   name:  'Good Shepherd Lutheran Church'
 - fields: 2
   img:  'http://lh3.googleusercontent.com/klY7LlKB5LBTfRC8P4oBlzzOKMP_YM_h2twKQVnFocg0IyQsM140Vz0T7KED59pIwOKy1Xze-Q7u8w9cvqug'
@@ -1027,6 +999,13 @@
   lon: -88.256779
   mus: 103
   name:  'Framer''s Market'
+- fields: 3
+  img:  'http://lh5.ggpht.com/BiCieN-kLaA8XtzYGa1FowWTlW2QzWtnxSCf1y1ChY9WXw1kN0r1Co49FI5D_xcWRrgO-_wOvqfduWQ2o337'
+  lat: 40.092411
+  level: 8
+  lon: -88.257688
+  mus: 103
+  name:  'Champaign Fire Department'
 - fields: 2
   img:  'http://lh4.ggpht.com/UsWzXzHhg7iWYqgGNNqj1XXLWp2Oj6pNxp7R0PwHI8tzNVuJwD2K0KgVwc0BR_9MEu4QalqL6x1cBnT_vz89'
   lat: 40.108739
@@ -1314,13 +1293,6 @@
   lon: -88.227461
   mus: 41
   name:  'Undergraduate Library at UIUC'
-- fields: 2
-  img:  'http://lh5.ggpht.com/hjAc940kWyt9QT4G_BJyJKaTef3jL_Njnm8ubUtQD7u6qVsD9_7TiJbgZpKeqAv60kNw8FYspVxkn-Bt1cxYBw'
-  lat: 40.109959
-  level: 8
-  lon: -88.24318
-  mus: 41
-  name:  'Mini Park II Sculpture'
 - fields: 1
   img:  'http://lh6.ggpht.com/B4G90nKtVQc7jPOxaA1XcAIKA2UJlU15MIPZLitQmNBNAtfIc9qCPpe75YFHYaZN3YUpU6b4CNMOPsBrg1Q'
   lat: 40.100489
@@ -1447,6 +1419,13 @@
   lon: -88.200602
   mus: 35
   name:  'Pennsylvania Avenue Baptist Church'
+- fields: 1
+  img:  'http://lh5.ggpht.com/hjAc940kWyt9QT4G_BJyJKaTef3jL_Njnm8ubUtQD7u6qVsD9_7TiJbgZpKeqAv60kNw8FYspVxkn-Bt1cxYBw'
+  lat: 40.109959
+  level: 8
+  lon: -88.24318
+  mus: 32
+  name:  'Mini Park II Sculpture'
 - fields: 5
   img:  'http://lh6.ggpht.com/ONc6NEwX34IJR8FuaTy8phi9yEoEDMyOn9GRlqJJlv2fU-ky1s4L6OflOmO5pORHew3EOrF0ehzlIv5HFMff'
   lat: 40.118344
@@ -1881,13 +1860,6 @@
   lon: -88.243478
   mus: 10
   name:  'McCollum Park'
-- fields: 1
-  img:  'http://lh5.ggpht.com/H88EzgVTAsWrhBcyG4PwdAbPDu4BLlyXkVIBnJ6gtmNusC2MU2vLumSrYGbl_7GmGJ7f5kE-6ebyy_VokU0L'
-  lat: 40.107512
-  level: 6
-  lon: -88.244964
-  mus: 10
-  name:  'Fellowship Circle'
 - fields: 8
   img:  'http://lh5.ggpht.com/28al1CSkHNCrM9Sb57TYmawr1uFh6r5raWMJKD4QjLCj6N5YHEYIIizONs_hHF3pHuIppLjqxbTFcvrI9Dq9'
   lat: 40.111205
