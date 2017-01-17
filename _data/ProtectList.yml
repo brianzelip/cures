@@ -1,3 +1,10 @@
+- fields: 7+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.202899
+  level: '?'
+  lon: -88.426556
+  mus: 1972914
+  name:  'Church of the Nazarene'
 - fields: 3+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.10605
@@ -5,13 +12,6 @@
   lon: -88.426639
   mus: 1618829
   name:  'Seymour United Methodist Church'
-- fields: 5+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.202899
-  level: '?'
-  lon: -88.426556
-  mus: 324762
-  name:  'Church of the Nazarene'
 - fields: 2+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.113259
@@ -369,13 +369,6 @@
   lon: -88.257966
   mus: 1233
   name:  'Grace Lutheran Church'
-- fields: 10
-  img:  'http://lh4.ggpht.com/vUhKhmK0pteJi8_0n25xIa4EpgpVSS432OxXv1UQBDLjju5SEGcm_2WWl99OUPtDyNLlXirJu--KDbCoYjM'
-  lat: 40.08956
-  level: 8
-  lon: -88.257733
-  mus: 1161
-  name:  'Good Shepherd Lutheran Church'
 - fields: 7
   img:  'http://lh3.ggpht.com/1yyUr0xGwID_g1F_OYHLjASRJrvJLD7e8r6IER_B6CliwGRrCH6cDWRVgtfWqJ0wHhNyjId_FX6mEVecAviV'
   lat: 40.11946
@@ -425,6 +418,13 @@
   lon: -88.276537
   mus: 1027
   name:  'The New Fellowship Corner'
+- fields: 8
+  img:  'http://lh4.ggpht.com/vUhKhmK0pteJi8_0n25xIa4EpgpVSS432OxXv1UQBDLjju5SEGcm_2WWl99OUPtDyNLlXirJu--KDbCoYjM'
+  lat: 40.08956
+  level: 8
+  lon: -88.257733
+  mus: 990
+  name:  'Good Shepherd Lutheran Church'
 - fields: 4
   img:  'http://lh3.ggpht.com/2iJE4vODI8uMoLDF4vnp-sjX-vDP5uH3090xuEvjLaKt3qU4jVzeR0PsRSTJzlePjMAZ1vuapWM_E2QNwyTy'
   lat: 40.078133
@@ -446,13 +446,6 @@
   lon: -88.273
   mus: 979
   name:  'Wisegarver Park'
-- fields: 4
-  img:  'http://lh6.ggpht.com/nRwew4OU3JNWRI1-xCyuN1xwDabajLFDuSlOZ-_M8BwJELli4V8o30JI0UyF6Kpc4gfDGdh10kJ6mD6ggMo'
-  lat: 40.108561
-  level: 7
-  lon: -88.250039
-  mus: 911
-  name:  'Harris Park'
 - fields: 6
   img:  'http://lh5.ggpht.com/THzk1iE4eBFdHkEgW_OGBWS54BbJw46faUZQS1Ad_IROHGgmVaXrphXJuL1O8N9k4G8_jaDT4P9tmLxMNi0W'
   lat: 40.131713
@@ -516,20 +509,6 @@
   lon: -88.189313
   mus: 712
   name:  'Sitting Bear at the Pines'
-- fields: 4
-  img:  'http://lh3.ggpht.com/7sJlWdBFFcLCXWnnfB6SVTzCCDM0Q7KyV5jALfrWG3ICtkw7HXrjzaRrnzSiv19wIswpZoTxKYudzYiZnT9Shg'
-  lat: 40.112536
-  level: 6
-  lon: -88.256779
-  mus: 707
-  name:  'Framer''s Market'
-- fields: 4
-  img:  'http://lh5.ggpht.com/BiCieN-kLaA8XtzYGa1FowWTlW2QzWtnxSCf1y1ChY9WXw1kN0r1Co49FI5D_xcWRrgO-_wOvqfduWQ2o337'
-  lat: 40.092411
-  level: 8
-  lon: -88.257688
-  mus: 665
-  name:  'Champaign Fire Department'
 - fields: 4
   img:  'http://lh5.ggpht.com/pSVHjk6puyYdv3ztHlpJGnbkZyGsGsirMnxkDhlt8UMko4AhtTQbrzwInBCu5lK4Ttf7furE5pNW2AZh8HuSZQ'
   lat: 40.138109
@@ -803,13 +782,6 @@
   lon: -88.244047
   mus: 265
   name:  'Saint Mary''s Cemetery'
-- fields: 2
-  img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
-  lat: 40.102188
-  level: 7
-  lon: -88.251507
-  mus: 264
-  name:  'Little Free Library Charter 5753'
 - fields: 3
   img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
   lat: 40.11251
@@ -986,13 +958,6 @@
   mus: 180
   name:  'New Foundation Missionary Baptist Church'
 - fields: 1
-  img:  'http://lh4.ggpht.com/uAYfykn0e2h2UqP-anbYfkJNa38P0L1WY8FpF-CwRCPklg5wL1xYFkpGOCMt7SJ37qO8PGVE42nYX9Ba_-jG'
-  lat: 40.105025
-  level: 7
-  lon: -88.243919
-  mus: 179
-  name:  'Mural on Good Fellas'
-- fields: 1
   img:  'http://lh4.ggpht.com/_DdMD5B3oAmaUEJqlPNFfAWQrMTK0WD5vOIgHVghvtpeVkopnRr7-vjxpi9E9T1LgqRmxZQBleJuat7SCMNc'
   lat: 40.134378
   level: 7
@@ -1027,6 +992,13 @@
   lon: -88.259842
   mus: 151
   name:  'Indian Acres Swim Club'
+- fields: 3
+  img:  'http://lh3.ggpht.com/7sJlWdBFFcLCXWnnfB6SVTzCCDM0Q7KyV5jALfrWG3ICtkw7HXrjzaRrnzSiv19wIswpZoTxKYudzYiZnT9Shg'
+  lat: 40.112536
+  level: 6
+  lon: -88.256779
+  mus: 145
+  name:  'Framer''s Market'
 - fields: 2
   img:  'http://lh4.ggpht.com/8P--9BInbKIFscFZs2s_o1E9ucKlZlX9qxMu7aBxNJVOQDrVE0q27OE7h1idojQv2vaHjxT6h5F6Nvi7I-A'
   lat: 40.1016
@@ -1454,14 +1426,14 @@
   lon: -88.215485
   mus: 28
   name:  'Champaign County Fairgrounds'
-- fields: 7
+- fields: 8
   img:  'http://lh6.ggpht.com/WtqWBwqpYTSw3g9ru5NwcFn5iK5STxWgy2kv4OUTWqwtzx76-9Msz0eqoiw0qpEYE1U4zdt9rzzNZMDNagNg'
   lat: 40.107943
-  level: 2
+  level: 3
   lon: -88.226751
-  mus: 27
+  mus: 28
   name:  'Class Of 1917 Plaque'
-- fields: 8
+- fields: 9
   img:  'http://lh5.ggpht.com/1fPvqpqXG5PDCkmegoWb9Tv9N5_MZh9XjmZpbyNEs5yPDsCscbrPB1cO_Pf8GT35HYrTF01FZ6s5VPIpjJ_20A'
   lat: 40.107098
   level: 5
@@ -1650,6 +1622,13 @@
   lon: -88.224492
   mus: 18
   name:  'Siebel Courtyard Structure'
+- fields: 2
+  img:  'http://lh5.ggpht.com/BiCieN-kLaA8XtzYGa1FowWTlW2QzWtnxSCf1y1ChY9WXw1kN0r1Co49FI5D_xcWRrgO-_wOvqfduWQ2o337'
+  lat: 40.092411
+  level: 8
+  lon: -88.257688
+  mus: 18
+  name:  'Champaign Fire Department'
 - fields: 5
   img:  'http://lh4.ggpht.com/aQomBYYXuWBUbnpgDH92zk4VBmLMOuf5n6WXkMHGTzf1DUlyXL-u4a9ulFUrqE5AO82s_LFM126E-B0HqONp'
   lat: 40.088127
@@ -1671,20 +1650,6 @@
   lon: -88.238623
   mus: 17
   name:  'Champaign County Historical Museum'
-- fields: 3
-  img:  'http://lh5.ggpht.com/v26lJtVx6k_bS8UIv0cuwFV2H-bR_kPwjkydaZjqk7BOG1VyLpoQFvuFB7ZmKZpWB_uCHi70HLzZoI4xZgo1'
-  lat: 40.116491
-  level: 5
-  lon: -88.246701
-  mus: 17
-  name:  'Emmanuel Memorial Episcopal Church'
-- fields: 2
-  img:  'http://lh3.ggpht.com/9aQBG-poFARclK9XL7iFIvWePkawZwWhv4Sh0zQhQ0Sy9gdDD508d4gCtpcUP9UNoYM6uztea0aQ05RPd9rZLg'
-  lat: 40.115412
-  level: 6
-  lon: -88.245046
-  mus: 17
-  name:  'Eddie Thorpe''s Memorial Rock And Tree'
 - fields: 1
   img:  'http://lh3.ggpht.com/A0WZkyUT-umVVZJsxEXS-SYdMZ0G0RF4TraCu_fOJ4BxVs12X09x-2RBi0x9sVH_hvyUyh9hwIXjijhobik'
   lat: 40.117582
@@ -1811,13 +1776,6 @@
   lon: -88.228634
   mus: 13
   name:  'Public Broadcasting Plaque'
-- fields: 1
-  img:  'http://lh6.ggpht.com/oTEawnC2cPnZ7T10vs9tiueaLsN0ILM7tgPLWVfa0njwvTDrUvS-w8x5SK4iMDd0tuHYP2w5a-H0AQ4NaAyU'
-  lat: 40.116388
-  level: 6
-  lon: -88.243702
-  mus: 13
-  name:  'Cycles of Love'
 - fields: 7
   img:  'http://lh3.ggpht.com/mtgiI5TKcuExETpmdSqIFabkYgVZTaXXLJnaIyzxeHPIunWoj_Fj8BqqwZG4nVQwSnngv15YxD-c_m9CHkr3'
   lat: 40.111202
@@ -2196,13 +2154,6 @@
   lon: -88.292578
   mus: 7
   name:  'Campus Solar System - Venus'
-- fields: 5
-  img:  'http://lh4.ggpht.com/4rZUtsKLzttseF-bliT_X7wEGP_joarKKLt8DNtp99fViYcqD4TAWTfZ_Ur6oEdBJdT-1JeZl4tnk_sTtgN0'
-  lat: 40.116361
-  level: 3
-  lon: -88.247369
-  mus: 7
-  name:  'Gerry Schriefer Plaque'
 - fields: 7
   img:  'http://lh6.ggpht.com/5NJ7qgqdGdq2TNgKDadFhTo4SudsgsHoSbhrgyc2axnUeV_4VOo4bzyr40gIwc1T_AvyH47lClwrz_V8Mtg'
   lat: 40.117008
@@ -2528,7 +2479,7 @@
 - fields: 3
   img:  'http://lh6.ggpht.com/MzDfG6eMMwVr56zIpVxRJKU2aoUq-95CLeBhoiEQQKzpC2zulq5jFDLv1IK0JcRy5Q0PhRAreZ1p2ElsdnNu'
   lat: 40.108048
-  level: 3
+  level: 4
   lon: -88.226279
   mus: 4
   name:  'Nuclear Magnetic Resonance II Plaque'
@@ -2665,6 +2616,13 @@
   lon: -88.23557
   mus: 3
   name:  'Park Avenue Seventh Day Adventist Church'
+- fields: 4
+  img:  'http://lh4.ggpht.com/4rZUtsKLzttseF-bliT_X7wEGP_joarKKLt8DNtp99fViYcqD4TAWTfZ_Ur6oEdBJdT-1JeZl4tnk_sTtgN0'
+  lat: 40.116361
+  level: 3
+  lon: -88.247369
+  mus: 3
+  name:  'Gerry Schriefer Plaque'
 - fields: 5
   img:  'http://lh6.ggpht.com/qSCp5fQMlyCQ-GOAgiSFy5gaHJei705Pa3eOlJiYO5wGjZTYtjA8q7QWWfAWcLKjxZSaFiMfXOPR8SO7rWU'
   lat: 40.099353
@@ -3060,10 +3018,17 @@
 - fields: 1
   img:  'http://lh3.ggpht.com/1JgqaWx4DIU04ms-XmufSumQ5BDP07SB97-kBjzxDePlLQR9HagCTfqdviW9ErxCqpvXgynqeosQhERhCat6'
   lat: 40.108781
-  level: 2
+  level: 1
   lon: -88.226388
   mus: 1
   name:  'Illinois State Water Survey Plaque'
+- fields: 1
+  img:  'http://lh5.ggpht.com/jQxBvX2jWXZCQP5ap9HmKaDDgG40pdH5nPpBNcYppZdxce6GWdxMRTYyqKrLxnk_TsmMAd7G6gRwJ6YI7S-v'
+  lat: 40.107574
+  level: 2
+  lon: -88.227843
+  mus: 1
+  name:  'Iconic Pillars'
 - fields: 1
   img:  'http://lh3.ggpht.com/dlNcqhZvSXijpkfvwOrcW3aTD-ILaZMONMnmaEZv35uhdz7QbonCx9poCoucdHPTAu4q8P67w-GccKI-V7n2'
   lat: 40.068578
@@ -3106,6 +3071,13 @@
   lon: -88.223103
   mus: 1
   name:  'Taft House'
+- fields: 1
+  img:  'http://lh5.ggpht.com/v26lJtVx6k_bS8UIv0cuwFV2H-bR_kPwjkydaZjqk7BOG1VyLpoQFvuFB7ZmKZpWB_uCHi70HLzZoI4xZgo1'
+  lat: 40.116491
+  level: 5
+  lon: -88.246701
+  mus: 1
+  name:  'Emmanuel Memorial Episcopal Church'
 - fields: 1
   img:  'http://lh5.ggpht.com/yK94cjys6dDm62pDsBwEKJP8ioxZEFbb2oelmT5ZMmaNZPkqAXW00NHP3_7fvtyG796u2ZhKGfbY7To9Sdtz'
   lat: 40.088063
