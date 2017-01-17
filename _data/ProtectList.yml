@@ -1700,13 +1700,6 @@
   mus: 18
   name:  'Siebel Courtyard Structure'
 - fields: 5
-  img:  'http://lh5.ggpht.com/v26lJtVx6k_bS8UIv0cuwFV2H-bR_kPwjkydaZjqk7BOG1VyLpoQFvuFB7ZmKZpWB_uCHi70HLzZoI4xZgo1'
-  lat: 40.116491
-  level: 5
-  lon: -88.246701
-  mus: 18
-  name:  'Emmanuel Memorial Episcopal Church'
-- fields: 5
   img:  'http://lh4.ggpht.com/aQomBYYXuWBUbnpgDH92zk4VBmLMOuf5n6WXkMHGTzf1DUlyXL-u4a9ulFUrqE5AO82s_LFM126E-B0HqONp'
   lat: 40.088127
   level: 6
@@ -1734,6 +1727,13 @@
   lon: -88.238623
   mus: 17
   name:  'Champaign County Historical Museum'
+- fields: 3
+  img:  'http://lh5.ggpht.com/v26lJtVx6k_bS8UIv0cuwFV2H-bR_kPwjkydaZjqk7BOG1VyLpoQFvuFB7ZmKZpWB_uCHi70HLzZoI4xZgo1'
+  lat: 40.116491
+  level: 5
+  lon: -88.246701
+  mus: 17
+  name:  'Emmanuel Memorial Episcopal Church'
 - fields: 1
   img:  'http://lh3.ggpht.com/A0WZkyUT-umVVZJsxEXS-SYdMZ0G0RF4TraCu_fOJ4BxVs12X09x-2RBi0x9sVH_hvyUyh9hwIXjijhobik'
   lat: 40.117582
@@ -2161,13 +2161,6 @@
   lon: -88.225353
   mus: 8
   name:  'Transportation Building - University Of Illinois'
-- fields: 11
-  img:  'http://lh4.ggpht.com/ULEhKlvERD4aidwSKPhLFujl0N0mZWcHPxtcJ7hNJkyDjYek9yrB4UD_G8bU-O9-12L1LYpDkM068BiYmpm9weZeGJsz-K5whCvUYTfmDqaIp1Fp'
-  lat: 40.117
-  level: 4
-  lon: -88.247111
-  mus: 8
-  name:  'Wesley Robert Weedman Memorial'
 - fields: 7
   img:  'http://lh6.ggpht.com/3o0ObAARFV_8mBVCC_QD0iLOPVzNkakXybhLnSVEuXIJfDLKMxeYj-EkWIw9NPoZIVRf5Dkrid2yf_NEQ-iE'
   lat: 40.100347
@@ -2175,13 +2168,6 @@
   lon: -88.249385
   mus: 8
   name:  'Travis Marmion Memorial'
-- fields: 7
-  img:  'http://lh3.ggpht.com/8Nxm7sw1mIfTkxKb-GsE_e5DuPgup8SmX1SJRLGZmvopdsQsPx8E9eDzuISKXBjwveamwn6H26EmIJZzVwkr'
-  lat: 40.117449
-  level: 4
-  lon: -88.246902
-  mus: 7
-  name:  'Champaign Park District Flower Island'
 - fields: 3
   img:  'http://lh4.ggpht.com/BakPypxJUdTOMFo4cSzlewsmPlHw3DyQp4kVY2zAFfJvhvj9CnaQm6cqvB22BqjknBbUYxEb_eYnIZ2skgfO'
   lat: 40.11586
@@ -2231,6 +2217,13 @@
   lon: -88.239616
   mus: 7
   name:  'Praying Mantis'
+- fields: 9
+  img:  'http://lh4.ggpht.com/ULEhKlvERD4aidwSKPhLFujl0N0mZWcHPxtcJ7hNJkyDjYek9yrB4UD_G8bU-O9-12L1LYpDkM068BiYmpm9weZeGJsz-K5whCvUYTfmDqaIp1Fp'
+  lat: 40.117
+  level: 4
+  lon: -88.247111
+  mus: 7
+  name:  'Wesley Robert Weedman Memorial'
 - fields: 4
   img:  'http://lh6.ggpht.com/I-l0KMezFAwrNcsN5-RPQCQbH4VnCa-C2GtwAQwrtAOcyFmOp_PxGmTwtTHCrR-O1hokLKIrtjyzuTsdP1E'
   lat: 40.112048
@@ -2287,6 +2280,13 @@
   lon: -88.247796
   mus: 6
   name:  'Feathergill Honorary Plaque'
+- fields: 5
+  img:  'http://lh3.ggpht.com/8Nxm7sw1mIfTkxKb-GsE_e5DuPgup8SmX1SJRLGZmvopdsQsPx8E9eDzuISKXBjwveamwn6H26EmIJZzVwkr'
+  lat: 40.117449
+  level: 4
+  lon: -88.246902
+  mus: 6
+  name:  'Champaign Park District Flower Island'
 - fields: 4
   img:  'http://lh4.ggpht.com/vKgqIecJshMQxrhO-ZhMjcIyARuJdyU63wKfzAG0wouZex6LVzO46Qi5zM1N3Jx8xyantDFk9sQGsSEBhb-y'
   lat: 40.101327
@@ -2500,7 +2500,7 @@
 - fields: 5
   img:  'http://lh6.ggpht.com/tEtHQ3gjXHp940OLn9txVBSOCdT8UfYUs3C29Cgx6HiCLrS3KBboU3Wms2rEVMQWEf7lf67xfK7MIUmimDw'
   lat: 40.116631
-  level: 4
+  level: 3
   lon: -88.247334
   mus: 4
   name:  'Jack C. Richmond Lion''s Club Bench'
@@ -2784,13 +2784,6 @@
   lon: -88.250539
   mus: 3
   name:  'Hessel Park'
-- fields: 4
-  img:  'http://lh6.ggpht.com/cnBQN3RYcZFSdxYB52bvMYRD2aTSlDG0_cqBQ8coo0ueKTtGxldE0xGjNPF6xlYJtnba8oUyEKwBeYbO8CY5'
-  lat: 40.116631
-  level: 2
-  lon: -88.246951
-  mus: 2
-  name:  'Lyle Blue Memorial'
 - fields: 6
   img:  'http://lh5.ggpht.com/LPlCgoOAlClRaVCl_B1sHDkn38OgDbXat-l5Q1bDZLP7mOUMfU8pK-o3N8BEqh0vHJcZBHo3iz2AMQKAhot7Tw'
   lat: 40.110833
@@ -2904,13 +2897,6 @@
   mus: 2
   name:  'Bicentennial Tree'
 - fields: 5
-  img:  'http://lh3.ggpht.com/hBux3yLZOMWBK1dtc47OrhISfV3SPojGgtZOxqqf7-yoc82f280WMG1r2mi43iZQsqfwzmN53VJHHHEFVs0'
-  lat: 40.116458
-  level: 2
-  lon: -88.247065
-  mus: 2
-  name:  'West Side Park Entrance'
-- fields: 5
   img:  'http://lh6.ggpht.com/9IW6Hm5bd65CbdAqPB8OgjAYQoF7CaPE37U44dbXIYzTWE7ulgSEzfxqVTOGVqCglU_0W2iHo9ZjRqRefq27'
   lat: 40.116904
   level: 4
@@ -3001,6 +2987,13 @@
   lon: -88.249887
   mus: 1
   name:  'Silver Cloud Oakley Washburn, Jr.'
+- fields: 3
+  img:  'http://lh3.ggpht.com/hBux3yLZOMWBK1dtc47OrhISfV3SPojGgtZOxqqf7-yoc82f280WMG1r2mi43iZQsqfwzmN53VJHHHEFVs0'
+  lat: 40.116458
+  level: 1
+  lon: -88.247065
+  mus: 1
+  name:  'West Side Park Entrance'
 - fields: 3
   img:  'http://lh3.ggpht.com/VrbXGwlUosNLEkVdshWUFoVa3KtlJQoEU4yLYygvftYbPCmxo644Uvar_v8Kb9RS53hB0tXgvV44GotrxZyu'
   lat: 40.098592
