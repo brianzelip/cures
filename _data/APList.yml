@@ -29,18 +29,6 @@
   lon: -88.217269
   name:  'White Oak'
 - ap: 2911
-  img:  'http://lh6.ggpht.com/mKnh6CvhOm_8Kn26lJTmk71nbwSMS-i9VJ45CR83Z8wB6Qn-9JAiyt1GEfrWKkv51a_y-lbN8pO6R1L5EZWfzw'
-  lat: 40.117349
-  level: 4
-  lon: -88.244537
-  name:  'Flower Island'
-- ap: 2911
-  img:  'http://lh5.ggpht.com/fGRHfMAqdWrUnPE8GStKSdMkgQmu9qvuxAC4VzcU1v2KyxQu2BeuJKhvhefSeFNTkgFh6YdR-F4P6plMbh0'
-  lat: 40.110194
-  level: 4
-  lon: -88.231488
-  name:  'Fighting Illini Memorial'
-- ap: 2911
   img:  'http://lh6.ggpht.com/s0NjKuARUySFKyN76g9Vr1UymiO5a-Ev822C0UEiLqAFzFggW39lRKoYierDtj89xVWRDioyodaQ1Ve0SGBBXA'
   lat: 40.121861
   level: 4
@@ -53,17 +41,23 @@
   lon: -88.24366
   name:  'King''s Assembly Church'
 - ap: 2724
-  img:  'http://lh3.ggpht.com/IKYzmqr6aeIX2d99jn1dQHjjq0-h7glRdyPEPoTdQnggoAgc8uutzh3X4OYjcCllXVp5r9rYyYnVPwNALI8B'
-  lat: 40.115178
-  level: 5
-  lon: -88.246191
-  name:  'Clark Bar'
+  img:  'http://lh6.ggpht.com/mKnh6CvhOm_8Kn26lJTmk71nbwSMS-i9VJ45CR83Z8wB6Qn-9JAiyt1GEfrWKkv51a_y-lbN8pO6R1L5EZWfzw'
+  lat: 40.117349
+  level: 4
+  lon: -88.244537
+  name:  'Flower Island'
 - ap: 2724
-  img:  'http://lh3.ggpht.com/9aQBG-poFARclK9XL7iFIvWePkawZwWhv4Sh0zQhQ0Sy9gdDD508d4gCtpcUP9UNoYM6uztea0aQ05RPd9rZLg'
-  lat: 40.115412
-  level: 6
-  lon: -88.245046
-  name:  'Eddie Thorpe''s Memorial Rock And Tree'
+  img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
+  lat: 40.121394
+  level: 5
+  lon: -88.243908
+  name:  'Circle K 601 N Neil St'
+- ap: 2724
+  img:  'http://lh5.ggpht.com/fGRHfMAqdWrUnPE8GStKSdMkgQmu9qvuxAC4VzcU1v2KyxQu2BeuJKhvhefSeFNTkgFh6YdR-F4P6plMbh0'
+  lat: 40.110194
+  level: 4
+  lon: -88.231488
+  name:  'Fighting Illini Memorial'
 - ap: 2724
   img:  'http://lh4.ggpht.com/vKiU-Z9PbuWMTBST_ry96h11Nf1d5ooex1Fl5imVUtCPpaeGwy3JDVmhziEnAAySe8NXWHfT5stQGA2BQg9J1g'
   lat: 40.122111
@@ -83,17 +77,23 @@
   lon: -88.245551
   name:  'The Virginia Theater'
 - ap: 2537
+  img:  'http://lh3.ggpht.com/IKYzmqr6aeIX2d99jn1dQHjjq0-h7glRdyPEPoTdQnggoAgc8uutzh3X4OYjcCllXVp5r9rYyYnVPwNALI8B'
+  lat: 40.115178
+  level: 5
+  lon: -88.246191
+  name:  'Clark Bar'
+- ap: 2537
   img:  'http://lh6.ggpht.com/ZQaguxPyiC-6DeFDFa2niVKJz3ySxwxYaFCv8PRdNuoMYUfP-Xtirg-8pXCTdBCyH1BruprOVmqf3D1kdp7o'
   lat: 40.115225
   level: 5
   lon: -88.248866
   name:  'Holy Cross Catholic Church'
 - ap: 2537
-  img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
-  lat: 40.121394
+  img:  'http://lh5.ggpht.com/QY3-GLhJdz61itX17DuQSrIrTixLDL5l-k33n2ZriKEspP8A7RooZfj3ocL-d6IC1S-Q81PABhuYHEkorzQ'
+  lat: 40.121262
   level: 5
-  lon: -88.243908
-  name:  'Circle K 601 N Neil St'
+  lon: -88.244556
+  name:  'Citizens Honor Tom Dodsworth'
 - ap: 2462
   img:  'http://lh4.ggpht.com/1viU2QjcAXgQcuyp6MBKY1751-1JGn5AfSHPcgvBGNOyXrKvvAXsCUrrW9_0w9LjaeyscKqh8v2rrMp3Gxoaeg'
   lat: 40.117134
@@ -124,10 +124,10 @@
   level: 2
   lon: -88.223135
   name:  'String Project Plaque'
-- ap: 2537
+- ap: 2162
   img:  'http://lh5.ggpht.com/Tn5ARN-X6VTc2q6atZ2WYq3c2g3gbSGXu6_vXf1MDwHfLpdTtnQ-CilBAVGvL6R-SHhq3fJ4WZI-yiJKmIId'
   lat: 40.110398
-  level: 3
+  level: 2
   lon: -88.235143
   name:  'US Post Office, E Green St, Champaign'
 - ap: 2537
@@ -136,12 +136,6 @@
   level: 5
   lon: -88.231968
   name:  'Potbelly Mural'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/BKHQBYKq1WHplCUxjyl6ZyElMZVN9SFIPmdKwffI6avqoyvbXRxFSFwn-RrmpqLRdSu6LntKwTDnQvCc1n0x'
-  lat: 40.110358
-  level: 5
-  lon: -88.230181
-  name:  'Murphy''s Pub '
 - ap: 2537
   img:  'http://lh4.ggpht.com/hJDi8J7CZU-933hT0Culp2nhslv6p8rDRPdTFz6FwNaAjB5CmfkaQzj9sM--E-QBvI8yvIJn1F2jxy7ZKWlh'
   lat: 40.10816
