@@ -46,12 +46,6 @@
   level: 5
   lon: -88.217269
   name:  'White Oak'
-- ap: 3472
-  img:  'http://lh6.ggpht.com/BsXdEO7HLxNLSdztPo_4GNNcbxZCxswiDT4pmmcfDQ8YO2SFVW-VnwyEZBvkuhf1rxKAtoKNLvV4rDJ-YVCYUK1qiX-dId_R8P-JskyFYAK9ruM-'
-  lat: 40.110234
-  level: 5
-  lon: -88.224055
-  name:  'The Etc'
 - ap: 3285
   img: http://i.imgur.com/5j1qaiT.png
   lat: 39.289356
@@ -78,6 +72,12 @@
   name:  'Siebel Courtyard Structure'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.009969
+  level: '?'
+  lon: -89.850482
+  name:  '0a080cf683854673b637717c6c7bbdc4.16'
+- ap: 2537
+  img: http://i.imgur.com/5j1qaiT.png
   lat: 41.835853
   level: '?'
   lon: -89.480623
@@ -100,12 +100,6 @@
   level: '?'
   lon: -89.84896
   name:  '55ce703460e343bb9d513d85b8175120.16'
-- ap: 2537
-  img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.009969
-  level: '?'
-  lon: -89.850482
-  name:  '0a080cf683854673b637717c6c7bbdc4.16'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 39.912869
@@ -142,42 +136,18 @@
   level: '?'
   lon: -89.797635
   name:  '4c524c84bbb547f59b1ea35096b4e9ae.16'
-- ap: 2237
-  img:  'http://lh5.ggpht.com/4eagHlnlpVbtFi_knZN73PIs2A--Ipj6SOlkQADePlfnzfOnJn-cAv0IoNNv4qR8WrbUFImUKHBknyaoAewO'
-  lat: 40.111383
-  level: 3
-  lon: -88.225675
-  name:  'Only Rain Down The Drain'
 - ap: 2537
   img:  'http://lh5.ggpht.com/_CP_-V0UvlMpMCqxcu9H9suYfz6p6k40F5AIKnuJ3QbMbi14OTTsoYC38b4Z2dg8FjHGQZJI7Vj7ClyH_eQ7'
   lat: 40.108108
   level: 5
   lon: -88.219576
   name:  'Lincoln Sitting on Bench '
-- ap: 2462
-  img:  'http://lh5.ggpht.com/szWXjFVU67N6nJHeZbrcsC2b8J7kXF7nBh_RooZZ5-ezcJsxWUvA7NZrGjJxfwTzVkc2HYMYLwh19UaYEbm3-Vmu4ZAG8959ZOG44cpeeyoUHtkD'
-  lat: 40.108422
-  level: 4
-  lon: -88.227811
-  name:  'Henry Administration Building'
 - ap: 2537
   img:  'http://lh3.ggpht.com/oSQ_YOHo2mfYjOa8bPK9ellznKK29UluW-SeXoGYra9VFg8dJp6YQRdHbHHaTExqXs1qUMBNmpI2hUPcC4GI'
   lat: 40.106789
   level: 5
   lon: -88.222992
   name:  'Beginnings of Computer Music Plaque'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/KQ7QYG8rWnVxSme_uq3cOu8IreZRbztWWKHTNPBy_6GvCqP3ywy-HEoSUxqloLDeUggEVV0UhKLy8Ja0v0yPdQ'
-  lat: 40.110844
-  level: 2
-  lon: -88.224091
-  name:  'Institute of Aviation'
-- ap: 2537
-  img:  'http://lh5.ggpht.com/Z2EWM4D6YQHuqnLwtuPBawyQBZxTzVe9E17MKc8jOZkO0ZzkuD5zSQslY2iuXkkUnztPteUeOSHrSTz3voHC'
-  lat: 40.111166
-  level: 5
-  lon: -88.228747
-  name:  'Boneyard Creek Mural'
 - ap: 2537
   img:  'http://lh4.ggpht.com/hJDi8J7CZU-933hT0Culp2nhslv6p8rDRPdTFz6FwNaAjB5CmfkaQzj9sM--E-QBvI8yvIJn1F2jxy7ZKWlh'
   lat: 40.10816
@@ -190,18 +160,6 @@
   level: 5
   lon: -88.234589
   name:  'Koinonia Plaque'
-- ap: 2537
-  img:  'http://lh3.ggpht.com/F-cwL1kpN8KTxTiRAdaaAFictKYDbMRhPltdDuO0_6jhG8_6fxg1_yHzy1kBs1WXPRZ8UQDrxqY1fCdmHXFU'
-  lat: 40.108042
-  level: 5
-  lon: -88.22808
-  name:  'Earl W Porter Memorial Tree'
-- ap: 2537
-  img:  'http://lh4.ggpht.com/H1kV6JSczzSbcCblAHg5ZOgITW1mBAz0_oLbqbzxBlijGTBn7TP6KwA6UI0AAGrCN4VF0DAF79Vcj6_2R4dsB8LRTq6tud6v'
-  lat: 40.107753
-  level: 4
-  lon: -88.228913
-  name:  'Zipcar-Wright Street & Daniel Street'
 - ap: 2537
   img:  'http://lh5.ggpht.com/w9vRSV8NBR1gsi8ndeSUNJN2X-ftwCCQ7Jd3dcLVhPw6r1w0x1QE4hNgpCJBKimUeq-HToz_yq9S3rYkzC5bjw'
   lat: 40.114687
