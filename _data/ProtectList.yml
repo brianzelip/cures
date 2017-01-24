@@ -180,12 +180,12 @@
   lon: -88.328738
   mus: 2484
   name:  'Champaign Bark District'
-- fields: 12
+- fields: 13
   img:  'http://lh4.ggpht.com/vUhKhmK0pteJi8_0n25xIa4EpgpVSS432OxXv1UQBDLjju5SEGcm_2WWl99OUPtDyNLlXirJu--KDbCoYjM'
   lat: 40.08956
   level: 8
   lon: -88.257733
-  mus: 2347
+  mus: 2408
   name:  'Good Shepherd Lutheran Church'
 - fields: 8
   img:  'http://lh3.ggpht.com/UQuHsiMeCPMbwNsd_6oQD7ZvYbGu8RJFkxo5LW4ixmtiaJZlrMJg7RTE7vmvbQxhHx8hTXzj4HiOfkiA8VGn'
@@ -488,6 +488,13 @@
   lon: -88.280893
   mus: 586
   name:  'Greenbelt Bikeway'
+- fields: 4
+  img:  'http://lh5.ggpht.com/e6wN_SlFuF59rOEwuU8BCPeT0WsXneW_OcsXpZ75pgQd0PQSfnKhmLyrK5PDkisRwjV2DfAfVp7T3ryHoGKX4A'
+  lat: 40.076779
+  level: 5
+  lon: -88.249144
+  mus: 584
+  name:  'Triptych Brewing'
 - fields: 13
   img:  'http://lh3.ggpht.com/wkPcdDupubV3THJo6r2OpMtshziiIkqBISPTCPe8boa-8nH33u83Mznkr1yYWNR_l60RCy8HO_obqrdNGUI'
   lat: 40.093633
@@ -516,13 +523,6 @@
   lon: -88.270158
   mus: 524
   name:  'Glory Center International Church'
-- fields: 2
-  img:  'http://lh5.ggpht.com/e6wN_SlFuF59rOEwuU8BCPeT0WsXneW_OcsXpZ75pgQd0PQSfnKhmLyrK5PDkisRwjV2DfAfVp7T3ryHoGKX4A'
-  lat: 40.076779
-  level: 5
-  lon: -88.249144
-  mus: 485
-  name:  'Triptych Brewing'
 - fields: 4
   img:  'http://lh5.ggpht.com/YrrWNVDbF2PvWks7XHMzdNnH29Fm_9w3w-XsfCu_aNeRWe3yogvbKL0L2xuhUlUcT_FrvGouyLbPNDe37GVk'
   lat: 40.132123
@@ -915,12 +915,12 @@
   lon: -88.243473
   mus: 149
   name:  'Savoy Rotary Club Dedication'
-- fields: 9
+- fields: 5
   img:  'http://lh3.ggpht.com/I2Up882o0nHzQof3uWaDFK7KQHkYOu1XgKoXUgQotITYJDh--80GzLnOSI8TxKF3RxsF32zcsYmRF8Fiugpt'
   lat: 40.116413
   level: 7
   lon: -88.249814
-  mus: 148
+  mus: 146
   name:  'West Side Park'
 - fields: 1
   img:  'http://lh5.ggpht.com/QruW49d2dc1uhQlK1BaZIeo6ruDNkqQfmvZz83eQ-1aC9ytGUcpFaHnKRTnXRc70F2EZ0-pVKGr9Slo0_9RfxA'
@@ -950,20 +950,6 @@
   lon: -88.23191
   mus: 119
   name:  'Clinton Craig Atkins Memorial'
-- fields: 4
-  img:  'http://lh3.ggpht.com/WWhYcmz7SmE72z0SL44DRgW7htbIekUCuGiMB3k2U4oqOpii2n2vl1T7LX91Izu4VR89_uvBjK0HYR2KBM8'
-  lat: 40.100276
-  level: 6
-  lon: -88.223103
-  mus: 118
-  name:  'Taft House'
-- fields: 6
-  img:  'http://lh6.ggpht.com/Sz4BABPqyoIyZVGpSBEM1QNIxPngQLl7hopqjyVJi_fak1xgpFAX_X7TbK6tICEaYnLrvC1hV2jv-AwPofQX'
-  lat: 40.090038
-  level: 6
-  lon: -88.249379
-  mus: 117
-  name:  'Three Hierarchs Orthodox Church'
 - fields: 3
   img:  'http://lh5.ggpht.com/TuurdPruJDIWIyKi1waxpMqv7i_ja0MxHI7a5qPFMEXIzfQM34f3qyOAbkcCbxDZfi2xr8lWDeSR0u8Tmw'
   lat: 40.102754
@@ -971,6 +957,13 @@
   lon: -88.222848
   mus: 116
   name:  'Plant Science Lab'
+- fields: 5
+  img:  'http://lh6.ggpht.com/Sz4BABPqyoIyZVGpSBEM1QNIxPngQLl7hopqjyVJi_fak1xgpFAX_X7TbK6tICEaYnLrvC1hV2jv-AwPofQX'
+  lat: 40.090038
+  level: 6
+  lon: -88.249379
+  mus: 111
+  name:  'Three Hierarchs Orthodox Church'
 - fields: 6
   img:  'http://lh5.ggpht.com/jz0XvZSSYKqKSa4lJDK-rludOns_o36jZ8ZTzfEr42piZamiTjSASTLdII6pkxgjZgnCwKirjhEouS77BPB8Dg'
   lat: 40.094288
@@ -1000,12 +993,26 @@
   mus: 106
   name:  'Hessel Park Christian Reformed Church'
 - fields: 3
+  img:  'http://lh3.ggpht.com/NSxjcLPhxtGCmwD2w7NdudcJR60RYpLfLXjEWjqyD0dFnd8Xv9gqmuHrOFvrnMf8UvmDTUOqCMMpGYYKCyYK'
+  lat: 40.084118
+  level: 5
+  lon: -88.252891
+  mus: 104
+  name:  'The Church of Latter Day Saints'
+- fields: 3
   img:  'http://lh6.ggpht.com/tenpgw5pr4OCsrdIgmmHP_sx4RHH2ywHdbNxw556d5JpHC4u64HFYqCdRSeAJgfTN_7BcUv11v8NtBdlaUV8'
   lat: 40.100717
   level: 7
   lon: -88.243989
   mus: 104
   name:  'Rainbow Garden'
+- fields: 3
+  img:  'http://lh3.ggpht.com/WWhYcmz7SmE72z0SL44DRgW7htbIekUCuGiMB3k2U4oqOpii2n2vl1T7LX91Izu4VR89_uvBjK0HYR2KBM8'
+  lat: 40.100276
+  level: 6
+  lon: -88.223103
+  mus: 103
+  name:  'Taft House'
 - fields: 2
   img:  'http://lh4.ggpht.com/z_Fp4CjBJYtN4kSA8B6McrcZLVB4_KD9Hti35M_32PXV6LsudmzxIitDELx-nbrk2VMgnhYGZ-Zc89L0OAR7'
   lat: 40.086676
@@ -1048,12 +1055,12 @@
   lon: -88.380815
   mus: 91
   name:  'e3f5b5440cee404493661424c7ba263c.16'
-- fields: 8
+- fields: 9
   img:  'http://lh3.ggpht.com/ch_nluYT5gzNuJG1bx-wUfhv1JWNmo-DYdwq2rPOJaUrvUFpsWPH07BUuDj9xUKqsN0oIl8bX3iWOys5TuNV1Q'
   lat: 40.084517
   level: 6
   lon: -88.249848
-  mus: 81
+  mus: 89
   name:  'Boulware Trail'
 - fields: 11
   img:  'http://lh5.ggpht.com/xcqe13f85fuXohGUUBZkNrUU1PunkcZ6xMNmHpAp0GJBtydVqCCGj5MqP3Uax4M7Qq4JzDFGqICFrFb6PNEXRw'
@@ -1167,13 +1174,6 @@
   lon: -88.240199
   mus: 60
   name:  'EnterpriseWorks'
-- fields: 4
-  img:  'http://lh4.ggpht.com/HEEvU2OlgWiV5huAu3cvNKaI-C8YKYTO3qB8WMTO7EbsjTO84KS6jLjbGCq7THZq6l63UiUKCSEqY2IADYns'
-  lat: 40.091766
-  level: 5
-  lon: -88.250003
-  mus: 60
-  name:  '"The Cranes" at Fox Corporate Center'
 - fields: 4+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.199138
@@ -1230,6 +1230,20 @@
   lon: -88.236368
   mus: 52
   name:  'Zuppkeisms Plaque'
+- fields: 3
+  img:  'http://lh3.ggpht.com/X30u-Y3JoCurNlH3pvt-DlJeV7obUlOeBDbH-tkN6QcPEHvknjSz3nYF8EGtXWani_tyNgcyl2naDFhje8E'
+  lat: 40.083706
+  level: 6
+  lon: -88.251419
+  mus: 51
+  name:  'Harlan E. Moore Park'
+- fields: 2
+  img:  'http://lh4.ggpht.com/HEEvU2OlgWiV5huAu3cvNKaI-C8YKYTO3qB8WMTO7EbsjTO84KS6jLjbGCq7THZq6l63UiUKCSEqY2IADYns'
+  lat: 40.091766
+  level: 5
+  lon: -88.250003
+  mus: 50
+  name:  '"The Cranes" at Fox Corporate Center'
 - fields: 1
   img:  'http://lh5.ggpht.com/BK5TjuMzuJgDVPz4C8HRjfZKeaoISnPJ-H7VaYeMNUYmxvvUY7RzIIlR13FjW9HHF_i5-znqs3O6nMxKPfcj'
   lat: 40.102188
@@ -1251,13 +1265,6 @@
   lon: -88.239356
   mus: 49
   name:  'Jill M. Zimmerman Memorial'
-- fields: 5
-  img:  'http://lh4.ggpht.com/Gyz7BDhWdUinBQfD8duByX5-aBgPmB9oSesH20dH8uGJnTiaIHkeRJARtH6YQUUD5A5X2IjPTlT989AfutNc'
-  lat: 40.092773
-  level: 5
-  lon: -88.250951
-  mus: 48
-  name:  'William C. Fox Waterway'
 - fields: 6
   img:  'http://lh6.ggpht.com/Nv0tMktEkkuoGtg1QEPS1N2nTcBPg8ipu31i72XPDTGQ4HQI5oL58Ig8kofXUH_aCC2aaJ-NylWKPkC3hIBS'
   lat: 40.116218
@@ -1280,19 +1287,19 @@
   mus: 46
   name:  'Greater Holy Temple Church'
 - fields: 3
-  img:  'http://lh4.ggpht.com/XlTZ26_29c4-74t23p1lgghqNfLI7aS3_kradmcl7vVQzV9jJRu78D1HdzJf-sWibnak644kxCBJDnA594PVaw'
-  lat: 40.092849
-  level: 5
-  lon: -88.251586
-  mus: 46
-  name:  'Boulware Trail'
-- fields: 3
   img:  'http://lh4.ggpht.com/8AjeZD8uLKBGqzwnDcp2t-wWRFmqZ03RVBIV2jccyPae0uVMwvjHgEmRfdS_lvnxJTIwosCM3Xlfpw-vIwZOdw'
   lat: 40.118549
   level: 4
   lon: -88.212935
   mus: 44
   name:  'Francis and Hermenia Kruidenier Memorial'
+- fields: 2
+  img:  'http://lh4.ggpht.com/XlTZ26_29c4-74t23p1lgghqNfLI7aS3_kradmcl7vVQzV9jJRu78D1HdzJf-sWibnak644kxCBJDnA594PVaw'
+  lat: 40.092849
+  level: 5
+  lon: -88.251586
+  mus: 44
+  name:  'Boulware Trail'
 - fields: 1
   img:  'http://lh4.ggpht.com/5ynLlTjFUZPA4tqDHUz3K5Z_qK_7tRFWDgrRLMf2kayg0eY_JBD0PWceTxL89wf73y6FOIRmzBMA0rBnJt4'
   lat: 40.110385
@@ -1307,6 +1314,13 @@
   lon: -88.210027
   mus: 43
   name:  'Darius E Phebus Administration Building'
+- fields: 3
+  img:  'http://lh4.ggpht.com/Gyz7BDhWdUinBQfD8duByX5-aBgPmB9oSesH20dH8uGJnTiaIHkeRJARtH6YQUUD5A5X2IjPTlT989AfutNc'
+  lat: 40.092773
+  level: 5
+  lon: -88.250951
+  mus: 42
+  name:  'William C. Fox Waterway'
 - fields: 1
   img:  'http://lh4.ggpht.com/LWx9allOmK1FEcRGJ5f21Q0YeGcyn36PiCKycLBJv_cjivIVX6KkaEvmEgB4ZFIT1EA01aCEiAkPFWPg1z4'
   lat: 40.085226
@@ -1384,12 +1398,12 @@
   lon: -88.253489
   mus: 36
   name:  'In Loving Memory of Robert and Elizabeth Grubb'
-- fields: 5
+- fields: 3
   img:  'http://lh5.ggpht.com/2jocF-ooKfacyT7HSwrwNcZTSN02yFkcmXBkPx777CYuD5O6sHPHwyUabblNOl_37YOxba1Gjid-TOwLVBlJ8g'
   lat: 40.116448
   level: 7
   lon: -88.248459
-  mus: 34
+  mus: 32
   name:  'Uppercutted Sculpture'
 - fields: 3
   img:  'http://lh3.ggpht.com/swF7asGHDD1L9hslewSBg2z-tocpd_HXkIYuOmz739SWxCj8KBqf-kcOPOFPoE8pLXKDxR6Z8jAJ8Kx7Fbnc'
@@ -1398,13 +1412,6 @@
   lon: -88.253652
   mus: 31
   name:  'Mattis Park'
-- fields: 3
-  img:  'http://lh6.ggpht.com/tOF7Ft9RlLtyZFsF5nnPXT-iYLimviXLPuiXL8F6KbEzsFuJAOd95jsFivR8L_bnMpbJ6W-tXEZmSYXHE_Ix'
-  lat: 40.104008
-  level: 4
-  lon: -88.209927
-  mus: 30
-  name:  'Lincoln the Lawyer'
 - fields: 7
   img:  'http://lh4.ggpht.com/vLN74xdc8Mdgab4UjP1QUbyX42bkPBXnIqzYzkmRDi4naHiBk2kM1wUA7Mx3Pxl1dpPoMBAg9pV956MqTDk'
   lat: 40.068391
@@ -1440,6 +1447,13 @@
   lon: -88.251308
   mus: 28
   name:  'Life Lessons from Kimberly Kueffler'
+- fields: 1
+  img:  'http://lh6.ggpht.com/tOF7Ft9RlLtyZFsF5nnPXT-iYLimviXLPuiXL8F6KbEzsFuJAOd95jsFivR8L_bnMpbJ6W-tXEZmSYXHE_Ix'
+  lat: 40.104008
+  level: 4
+  lon: -88.209927
+  mus: 26
+  name:  'Lincoln the Lawyer'
 - fields: 1
   img:  'http://lh3.ggpht.com/KnNYiTjbSfT8lzl-5r3OkJW1ptOP-d5JkDibk9pg1eydNzpy_IgdiC-kCRNUSoBP9nFsblvWr7t9IC4qMU0'
   lat: 40.109369
@@ -1525,13 +1539,6 @@
   mus: 20
   name:  'St. Mary''s Catholic Church'
 - fields: 4
-  img:  'http://lh3.ggpht.com/nHykU-r6nAcUQliLD4vcs6UTayaoX6Aay87D-bgyrRjGaqMQQYuxIbHuVKSTH0vbqNO9g2sBdp_ZBWLM3LDYeQ'
-  lat: 40.103044
-  level: 5
-  lon: -88.211741
-  mus: 20
-  name:  'Great Neighborhoods Dedication'
-- fields: 4
   img:  'http://lh4.ggpht.com/EsyXMnqVMX7wQ4YmoCFRiNljaJqaXrQvzyzzooqx2fPxCSkJMkdEssTbf618D8Qp9hh3E4Ud3hL1M3v-TsbO'
   lat: 40.104688
   level: 6
@@ -1587,13 +1594,6 @@
   lon: -88.384057
   mus: 17
   name:  '0f17ebe8121f44b0b5d0d796c3e11838.16'
-- fields: 2
-  img:  'http://lh6.ggpht.com/PJNZOMCQPAWy2UMMUz7FvQhEb9zSo2mg1ImzZDYViGOn1FI2EqJX2AwZe_uOwiAKSL2QYkbPfTaRsdL2VvmG'
-  lat: 40.103204
-  level: 5
-  lon: -88.212443
-  mus: 17
-  name:  'Serviceberry'
 - fields: 1
   img:  'http://lh3.ggpht.com/A0WZkyUT-umVVZJsxEXS-SYdMZ0G0RF4TraCu_fOJ4BxVs12X09x-2RBi0x9sVH_hvyUyh9hwIXjijhobik'
   lat: 40.117582
@@ -1678,13 +1678,6 @@
   lon: -88.382509
   mus: 14
   name:  'baa170273cd749acb5338139770e8f70.16'
-- fields: 4
-  img:  'http://lh4.ggpht.com/aXG2XQNJXyPDBz0o8tyfv07VIfskZuFMOWW2ylZpZKkWMnFjoiBmBiWg2VedsjdIorpfX5mtUGnwVLFb7Ga6'
-  lat: 40.091438
-  level: 6
-  lon: -88.25077
-  mus: 14
-  name:  'Fox Development Corporation'
 - fields: 7
   img:  'http://lh4.ggpht.com/PHV-1ZpFzCAl_ViCKwBY_x2pIDbVyaT7wJH1sTvFJCxrSdRrO1x7NaXq9OdRGwz_Mls4iwk6wuGHMBArfV54'
   lat: 40.098688
@@ -1699,6 +1692,13 @@
   lon: -88.251369
   mus: 14
   name:  'Mattis Park'
+- fields: 2
+  img:  'http://lh6.ggpht.com/2NvBiEF5E3wBXJ0JKc8NUUbuZm1PhUhLId32Sc_hNjaonDtojWnGWZRYwJgz-UJwMgucV2NHBfCK_51gIyU'
+  lat: 40.084725
+  level: 5
+  lon: -88.251794
+  mus: 14
+  name:  'Masonic Temple of Champaign'
 - fields: 6
   img:  'http://lh6.ggpht.com/PrKWQe_StHjP7QQeyxlKiMSxAelIQlmbHzFMejewhMdVT0J-uvMpZCUGvQy_dZfrqfDnkmrIZYWkZORSGrnp'
   lat: 40.088449
@@ -1853,13 +1853,6 @@
   lon: -88.249603
   mus: 9
   name:  'Chef Ra Memorial Plaque'
-- fields: 4
-  img:  'http://lh3.ggpht.com/ugJXpaIWZ-wI1vpderJmQjM8r0T5_Li2j4hvvsu4fRM9k3MeBpETqj2LFNd1pEkcfH0I9bgZh--5g1AEJKkq'
-  lat: 40.092745
-  level: 5
-  lon: -88.251235
-  mus: 8
-  name:  'William C Fox Honorary Plaque'
 - fields: 2
   img:  'http://lh3.googleusercontent.com/kEDhpvpXXif85zIT7hcV3C_lUI8ZWcVV-Ay-g07SeMFQ-ApOjYVQvlNx34sR2ycmbQkw81AqyjiwkLkT-Pu1'
   lat: 40.121964
@@ -1951,6 +1944,20 @@
   lon: -88.228913
   mus: 7
   name:  'Zipcar-Wright Street & Daniel Street'
+- fields: 2
+  img:  'http://lh4.ggpht.com/l4w3T1e27S5zPAMN3Mr-LqJ51cbm26ThR-ubvfUFHpl28dkeRb_CQThuhJ_HSNhdYt_dX9NTAN9hKFsDeWJQ'
+  lat: 40.108295
+  level: 6
+  lon: -88.224083
+  mus: 7
+  name:  'The Landing'
+- fields: 2
+  img:  'http://lh3.googleusercontent.com/EwXPPCiuVPRkECPKlJtyqReSySoJKEdwrx1MkNVUy6EM9xWU_fet1Z-sLfx_P2_c54DeJcApxdl-hKg9vGVEtw'
+  lat: 40.108224
+  level: 5
+  lon: -88.223549
+  mus: 7
+  name:  'Colwell Playhouse'
 - fields: 4
   img:  'http://lh3.ggpht.com/AHDNUFdh3BZdz0fTM2i6-q3ZAorThodRdyejOf02yBX0HQU19eKUNzJ5uunPZ8u40fNYCqYBKPxVRjGB4m5C'
   lat: 40.09287
@@ -1958,6 +1965,13 @@
   lon: -88.239616
   mus: 7
   name:  'Praying Mantis'
+- fields: 2
+  img:  'http://lh4.ggpht.com/6x6YWyLyFdOTmCy0et8JbuSjZ8RxOPY-97_QeaHjaR6waOf9rUQI-F0pplNydCXGp6NpHDNRXLvgoyoHb2eV'
+  lat: 40.110912
+  level: 5
+  lon: -88.223059
+  mus: 7
+  name:  'UIUC Cyclotron "D''s" '
 - fields: 4
   img:  'http://lh6.ggpht.com/Ka3_jVwGHc3wyrranDgkb0UqVN7M7Nbduod4wPmrn2Z51l0LRk5C3Pqg-Ml443gh9dYYglolVJmLLA8ZZcF90CPY5mu8fVkZyRifcuECtQnRhlBCGA'
   lat: 40.111685
@@ -2021,13 +2035,6 @@
   lon: -88.24958
   mus: 6
   name:  'Edward A. Cousins Plaque'
-- fields: 5
-  img:  'http://lh6.ggpht.com/BtOK_UA_7UyJErE7xLTTwmLcG19nlTBIVAdTbfQVzDhL8s25D3rQ9JZNHM5m0liZck_hsO0vA_4ZVd5jeGI8cg'
-  lat: 40.103643
-  level: 6
-  lon: -88.211298
-  mus: 6
-  name:  'Quercus Robur'
 - fields: 4
   img:  'http://lh4.ggpht.com/1LUozaukItxu6cHk_7wORzYYNvskCHi_wUxbNOAcIXNbgLuYn7VElFG0tzY02e6pY-AEL8nNHAL6ewLCaLMH'
   lat: 40.10567
@@ -2070,6 +2077,13 @@
   lon: -88.231454
   mus: 5
   name:  'Champaign Public Library - Douglass Branch'
+- fields: 2
+  img:  'http://lh3.ggpht.com/ugJXpaIWZ-wI1vpderJmQjM8r0T5_Li2j4hvvsu4fRM9k3MeBpETqj2LFNd1pEkcfH0I9bgZh--5g1AEJKkq'
+  lat: 40.092745
+  level: 5
+  lon: -88.251235
+  mus: 5
+  name:  'William C Fox Honorary Plaque'
 - fields: 2
   img:  'http://lh5.ggpht.com/FeahTnHcc-Tb0sWOd6cQiYz5QrczzT5-Behz0KlyeiGyzYhvAlNlhPI72BVkREal1tU_4g4r2UklF7lcQgKr'
   lat: 40.087292
@@ -2161,13 +2175,6 @@
   lon: -88.251667
   mus: 4
   name:  'French L. Fraker Memorial'
-- fields: 4
-  img:  'http://lh6.ggpht.com/uAhsK1gCBrCPvIEZ8lZRhDGbO9Q75uu9su3qhSkktViExCuvIvXGCLwZXT-_riPd4rI3tTvsLqqn6XO3msF4'
-  lat: 40.116558
-  level: 6
-  lon: -88.249136
-  mus: 4
-  name:  'Babe and Gene Wilder Memorial Plaque'
 - fields: 3
   img:  'http://lh5.ggpht.com/EaT0PxhOud4vjm0kHYMit1zq4b2aTjV4M2olWNI-rM0oUVFeEI4kgeWGcrbk_EvcGBz6hwrN_wYLDLK3CUBi'
   lat: 40.088861
@@ -2196,13 +2203,6 @@
   lon: -88.251747
   mus: 4
   name:  'Tennis Anyone'
-- fields: 4
-  img:  'http://lh5.ggpht.com/I3HJjY6jOYl6ivwUaejRmReBjka9NyCW1ufaILf7cfo4VGwjX6kNB9J6PlIZCBIuTfI1jb9arxjssMTa_hisxr2ObqDCJ55lCxXFccxme5erNEY2_g'
-  lat: 40.116859
-  level: 5
-  lon: -88.249043
-  mus: 4
-  name:  'Bilbrey Bandstand'
 - fields: 5
   img:  'http://lh5.ggpht.com/N1cFx79JwZqPlYPDW3HkNwRX8N4Auriii45qzYkAx9l-cKeK81qgZ6nuBpTBEIOyLzy4aIIhQKt2E7ZiysSjkg'
   lat: 40.10036
@@ -2232,13 +2232,6 @@
   mus: 3
   name:  'Goodwin Avenue Bridge'
 - fields: 4
-  img:  'http://lh4.ggpht.com/DXAAQEV-pW-laeGTPphalYn5MoUFYMOyKbjs7rL1bBgkOlCxtaEH7bLcuvNbiQTWzFZK1ZPcNbwuEjw20-od'
-  lat: 40.116869
-  level: 6
-  lon: -88.249849
-  mus: 3
-  name:  'Don and Ruth Dobbins Memorial'
-- fields: 4
   img:  'http://lh6.ggpht.com/S7Utf4_59vQkAP5JhC3mdbzVLKBTt-0zoJ2UjfxUnN10VBbixO-_VwvssWd1LbFSx_yafaijd_U0wTGo870'
   lat: 40.100941
   level: 8
@@ -2266,13 +2259,6 @@
   lon: -88.251337
   mus: 3
   name:  'In Loving Memory of Zeus'
-- fields: 3
-  img:  'http://lh4.ggpht.com/kZm6lbk07IpQebQBqqCODikSi-pOMHQhQ7-c0xNGM6vqUskWUftXV4L3ymEbT0T5IELGgfJ2vrxTZvmgP9D_'
-  lat: 40.117118
-  level: 6
-  lon: -88.248618
-  mus: 3
-  name:  'Lieut. E.G. Stillwell Memorial Tree'
 - fields: 1
   img:  'http://lh3.ggpht.com/pVUYGCf7vsAndVd4vhK_pC9p6e9OvGa4ZiWuZg0ELOFDWptBba4H2N4PNZPjQdHXnV1GQyLTpCXQWDMKDUqn'
   lat: 40.108875
@@ -2336,13 +2322,6 @@
   lon: -88.251876
   mus: 3
   name:  'Raymond B. Cattell Memorial'
-- fields: 3
-  img:  'http://lh5.ggpht.com/H6c2QR_sGnIrBNnlkreE_k9AGNNj03EgBFOn2L-D_occ8syrKvx4f0LJ3s-YNtw6SyGGI9htmM5uD6aWWbRQ'
-  lat: 40.103403
-  level: 5
-  lon: -88.211706
-  mus: 3
-  name:  'Brian L. Larson Memorial'
 - fields: 4
   img:  'http://lh5.ggpht.com/8zq5tMevCiipZK8N9-8SZw3vdsA2HwH0E02ormQshGxHVZrB2WPK7OPC8zt6pjLlgpXVuEYHVA_08_Q8fPw-'
   lat: 40.099647
@@ -2441,13 +2420,6 @@
   lon: -88.24957
   mus: 2
   name:  'Linda M. Wesolowski Memorial Sign'
-- fields: 2
-  img:  'http://lh4.ggpht.com/J4angdYTKCPYybB0GhGqQPugzEy-7X48yLh6UFakxJsUTJY156aWvDAIxyqAbX9wGOUddPZcWQMvmhS10vVL'
-  lat: 40.10391
-  level: 5
-  lon: -88.21116
-  mus: 2
-  name:  'Carle Park Pavilion'
 - fields: 3
   img:  'http://lh3.googleusercontent.com/Tixp17uCaP682s77UzvCwWCOE6vg7iB2qEFLjACq7xtVJdHE0K3yKYsl3_SwKbiUfQWwgTQRbvfka3U0NvNc'
   lat: 40.098819
@@ -2498,13 +2470,6 @@
   mus: 2
   name:  'Centennial Court'
 - fields: 2
-  img:  'http://lh4.ggpht.com/EN7YTfA2hkKHBgucyx2FudbTwod0dGUfuekb2VFLAjuj-emNpWEKKgAPi1SN_vsdkbJblYOm5aYiA7MF8CA13A'
-  lat: 40.116655
-  level: 5
-  lon: -88.24954
-  mus: 2
-  name:  'John Patrick Sherlock Memorial Plaque'
-- fields: 2
   img:  'http://lh6.ggpht.com/_wokSDHEvYXLFDe4QysimxK0wSeVmyKpCQrh_xMUi7qX74lQQgzD3K_2GWrgvEh6mYh2rS2m8A0OiWtJUos'
   lat: 40.09305
   level: 6
@@ -2553,13 +2518,6 @@
   lon: -88.251676
   mus: 1
   name:  'Ruth and Fred Steigmann Plaque'
-- fields: 2
-  img:  'http://lh3.ggpht.com/gJYGj7_wDDnnkZAlCFgChMLxPptIEvTDKzPJQqVLWhygPTnHHPEe9YrX22kkUU6oScgCqoGv_Sb_cKdY6V32'
-  lat: 40.10395
-  level: 5
-  lon: -88.211413
-  mus: 1
-  name:  'Carle Park Fountain'
 - fields: 3
   img:  'http://lh6.ggpht.com/35D1iNCRAADuyy_GrWImGD5u1E_gkdUiJI83zQVCutDNjvgnUMGoJSO5VofyLxsFNKiseGy32YeDyRTB6lqi0Q'
   lat: 40.112333
@@ -2589,26 +2547,12 @@
   mus: 1
   name:  'Megan''s Garden'
 - fields: 1
-  img:  'http://lh4.ggpht.com/l4w3T1e27S5zPAMN3Mr-LqJ51cbm26ThR-ubvfUFHpl28dkeRb_CQThuhJ_HSNhdYt_dX9NTAN9hKFsDeWJQ'
-  lat: 40.108295
-  level: 6
-  lon: -88.224083
-  mus: 1
-  name:  'The Landing'
-- fields: 1
   img:  'http://lh6.ggpht.com/c2I39IJvSBKmCLonmhP_RN1vLEpYY1recBXFm8xpGHxES4bAN2kvAcda8ZzvT75uq0yWQCv7N_dzP6ce5-Tu'
   lat: 40.108043
   level: 5
   lon: -88.22469
   mus: 1
   name:  'Building of Molecular and Cellular Biology Sculpture'
-- fields: 1
-  img:  'http://lh3.googleusercontent.com/EwXPPCiuVPRkECPKlJtyqReSySoJKEdwrx1MkNVUy6EM9xWU_fet1Z-sLfx_P2_c54DeJcApxdl-hKg9vGVEtw'
-  lat: 40.108224
-  level: 5
-  lon: -88.223549
-  mus: 1
-  name:  'Colwell Playhouse'
 - fields: 2
   img:  'http://lh5.ggpht.com/uP38yDCg4dPRI1F0r0ALGArEc8Q9eoRuaxkfxZTafZZr9tMcbLUZek1hZRbLUxHJVGPcLSf_JKbotbTBeR7nfA'
   lat: 40.107226
@@ -2616,6 +2560,13 @@
   lon: -88.22858
   mus: 1
   name:  'Class of 1897 Tree'
+- fields: 1
+  img:  'http://lh6.ggpht.com/uAhsK1gCBrCPvIEZ8lZRhDGbO9Q75uu9su3qhSkktViExCuvIvXGCLwZXT-_riPd4rI3tTvsLqqn6XO3msF4'
+  lat: 40.116558
+  level: 6
+  lon: -88.249136
+  mus: 1
+  name:  'Babe and Gene Wilder Memorial Plaque'
 - fields: 1
   img:  'http://lh6.ggpht.com/rbEeQxbZyvrUu5nCQma0PzHtlA4cmaa9jItLke0b5KBmVlYP0q0d9OYg0_jrSi-8RiYOSdJklSevnYpoyjBWgA'
   lat: 40.118265
@@ -2694,6 +2645,20 @@
   mus: 1
   name:  '35d2540a6dab4d509460962b545bd2bf.16'
 - fields: 1
+  img:  'http://lh4.ggpht.com/vv-0g62EZ8ryJBOYgynNZeHVhnllOTH6Fw8BrvTexs05uFs36rXKpZSCWeaC20VpLm_Zo-ED-zIhjAO36RuG'
+  lat: 40.111097
+  level: 5
+  lon: -88.223019
+  mus: 1
+  name:  'Original 24 MeV Betatron'
+- fields: 1
+  img:  'http://lh3.googleusercontent.com/XQb7KWjSJlhbfrYsW2727_AeRoEQ5BbG0fRTTY5js_4zRdArbiRhCRkXunVa81rQpk9yX4RB6x1dV97DnYN7'
+  lat: 40.104722
+  level: 6
+  lon: -88.223683
+  mus: 1
+  name:  'Louise Freer Hall'
+- fields: 1
   img:  'http://lh4.ggpht.com/wyM69v5COeXPWWt_LnfNM6UlZe8vhGenr3i6cKAsnyELc0kC82jEE4kljcMgjf5IByJFesORVLdjdKjLoAON'
   lat: 40.068553
   level: 5
@@ -2707,13 +2672,6 @@
   lon: -88.402935
   mus: 1
   name:  'c87d5b6cf7ea4bae962a48d438be958c.16'
-- fields: 1
-  img:  'http://lh4.ggpht.com/Iz-O9-kJLlEdRO9osaqkCvLRsSNF24c95jHG0lhtE95b99-cC2bKuCEiznIs1-ytpoCITEwQ7s5VuyURgrpM'
-  lat: 40.117288
-  level: 2
-  lon: -88.248506
-  mus: 1
-  name:  'Prayer for Rain  Fountain'
 - fields: 1
   img:  'http://lh3.ggpht.com/mtgiI5TKcuExETpmdSqIFabkYgVZTaXXLJnaIyzxeHPIunWoj_Fj8BqqwZG4nVQwSnngv15YxD-c_m9CHkr3'
   lat: 40.111202
@@ -2756,13 +2714,6 @@
   lon: -88.236627
   mus: 1
   name:  'Don Moyer Boys and Girls Club'
-- fields: 1
-  img:  'http://lh3.ggpht.com/l6drxc16dn91XarTz8Tkkeerjhu28Hf3x7nh-pHe05BLyOA6fuV75A5gB8UdUNt3cRN_eXIHmTE8c5Ypvcw'
-  lat: 40.117248
-  level: 5
-  lon: -88.249929
-  mus: 1
-  name:  '"Tootsie" at West Side Park'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.195251
