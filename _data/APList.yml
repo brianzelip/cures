@@ -36,12 +36,6 @@
   name:  '1981 Iota Chapter White Anchor'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
-  lat: 40.057003
-  level: '?'
-  lon: -86.914317
-  name:  '073d598444474ce6b93dbdfc64d552c0.12'
-- ap: 3474
-  img: http://i.imgur.com/5j1qaiT.png
   lat: 40.116547
   level: '?'
   lon: -87.505045
@@ -52,6 +46,12 @@
   level: '?'
   lon: -87.638867
   name:  '8bb866f3c7b14c6086dcf2cf7a8c038d.16'
+- ap: 3474
+  img: http://i.imgur.com/5j1qaiT.png
+  lat: 40.057574
+  level: '?'
+  lon: -86.911455
+  name:  'a7e6dd7a938f40d28ef6105abe0dc296.16'
 - ap: 3474
   img:  'http://lh3.googleusercontent.com/v44Gf5oEZGcwkQcA2wWz-uAeDFESHj7sEloxdCJd316RPH3w_ln8_9mBEMbAqGyI_2Y2qaYp525PnRip9Rg'
   lat: 40.105315
@@ -83,11 +83,11 @@
   lon: -88.223784
   name:  'Anthony Leggett Superfluidity Nobel Prize Memorial Plaque'
 - ap: 2724
-  img:  'http://lh4.ggpht.com/wbrbzDCo3C4qFJyHTWOST5o8B7kwZSWePUWOboIlYrdvxjrhWLqVQ1MqUF5-Hy4nt26x_oHQq9f8EbfdEjVK'
-  lat: 40.117382
-  level: 6
-  lon: -88.243748
-  name:  'Days of Venus'
+  img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
+  lat: 40.117107
+  level: 7
+  lon: -88.242467
+  name:  'Radio Maria'
 - ap: 2424
   img:  'http://lh3.googleusercontent.com/tWUxy7KQ-q_qBBIgLzTjjezrBpWPSJ_z3FWnvbB8Y5wIiYZW1I5ioL0Tzq60VyalCaIwOk4UI3agM8tFaykY'
   lat: 40.117427
@@ -95,11 +95,11 @@
   lon: -88.243235
   name:  'Cowboy Monkey'
 - ap: 2724
-  img:  'http://lh4.ggpht.com/ryDcZUJK2aQ_fI0-hY850_t4ZmG2hNmtCx7cxbX83w3cnUWdI-ywpTuQrUVQNxGl3_DcxxNr6bupfDTsagRa'
-  lat: 40.117107
-  level: 7
-  lon: -88.242467
-  name:  'Radio Maria'
+  img:  'http://lh4.ggpht.com/wbrbzDCo3C4qFJyHTWOST5o8B7kwZSWePUWOboIlYrdvxjrhWLqVQ1MqUF5-Hy4nt26x_oHQq9f8EbfdEjVK'
+  lat: 40.117382
+  level: 6
+  lon: -88.243748
+  name:  'Days of Venus'
 - ap: 2724
   img:  'http://lh6.ggpht.com/0IsQORyEW-bPA7sEbGspygtoI7ixEshm_2fUw5oeh9AeXg6JN5w0ypYIshpuKm-C0nG4Vm2XmpLvtWTZzWzd'
   lat: 40.111607
@@ -112,12 +112,6 @@
   level: 5
   lon: -88.224091
   name:  'Institute of Aviation'
-- ap: 2724
-  img:  'http://lh6.ggpht.com/D4r1KWBUGF8ZJDUXBHVcNVeP66FVliNQrEX0n-jZkYyFnWUfZ_vfBIAt4padKNgvgmextrkL2-kxkv6JbS3u'
-  lat: 40.110394
-  level: 5
-  lon: -88.219509
-  name:  'University Of Illinois'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.835853
@@ -233,14 +227,14 @@
   lon: -88.234589
   name:  'Koinonia Plaque'
 - ap: 2537
-  img:  'http://lh3.ggpht.com/oSQ_YOHo2mfYjOa8bPK9ellznKK29UluW-SeXoGYra9VFg8dJp6YQRdHbHHaTExqXs1qUMBNmpI2hUPcC4GI'
-  lat: 40.106789
-  level: 4
-  lon: -88.222992
-  name:  'Beginnings of Computer Music Plaque'
-- ap: 2537
   img:  'http://lh6.ggpht.com/LxVyXEFJmvSZ271mlFfYmCwyb05Kz8cIRxzMt24ZVhRzsH09nxErJw4gKErktjKpCARWfVl4Mla70NoODK2bng'
   lat: 40.11187
   level: 5
   lon: -88.220692
   name:  'Atmospheric Sciences Building'
+- ap: 2537
+  img:  'http://lh6.ggpht.com/D4r1KWBUGF8ZJDUXBHVcNVeP66FVliNQrEX0n-jZkYyFnWUfZ_vfBIAt4padKNgvgmextrkL2-kxkv6JbS3u'
+  lat: 40.110394
+  level: 5
+  lon: -88.219509
+  name:  'University Of Illinois'
