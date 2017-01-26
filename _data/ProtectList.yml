@@ -5,12 +5,12 @@
   lon: -88.277784
   mus: 14514
   name:  'US Post Office'
-- fields: 4+
+- fields: 3+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.172593
   level: '?'
   lon: -88.239993
-  mus: 13431
+  mus: 11103
   name:  'Faith Baptist Church'
 - fields: 2+
   img: http://i.imgur.com/LujBo5P.png
@@ -26,13 +26,6 @@
   lon: -88.265912
   mus: 5709
   name:  'Dan Morrissey Park'
-- fields: 8
-  img:  'http://lh3.ggpht.com/4NvHbplhArQJrKIkJMw4Ia0q_OtktXP-jC6FtPlgn6V49hv8LJbu0RC2ff0eTy3bF3ihXL12v5CPGwvlRNBF'
-  lat: 40.127538
-  level: 7
-  lon: -88.199119
-  mus: 5284
-  name:  'Perkins Historical Site'
 - fields: 14
   img:  'http://lh4.ggpht.com/0UzQDuaKLiiPhEgEmKghfkzvXj6lROhxPIDJuI4nWLJFvdxJwGNcJZ1va0K_9cy4L2u0Zyeqv_qlIAwch5o'
   lat: 40.133475
@@ -54,13 +47,13 @@
   lon: -88.256693
   mus: 4398
   name:  'Captain Morgan Statue'
-- fields: 4
-  img:  'http://lh3.googleusercontent.com/3nkY0B9PDqzlWJ_EKh5GnTZ8z0U6X9-2dI5dapKA5Q3F4iKrE99AJZoy6NSvh2nU1WTG2hL70276yJjJ0G8'
-  lat: 40.141598
+- fields: 6
+  img:  'http://lh3.ggpht.com/4NvHbplhArQJrKIkJMw4Ia0q_OtktXP-jC6FtPlgn6V49hv8LJbu0RC2ff0eTy3bF3ihXL12v5CPGwvlRNBF'
+  lat: 40.127538
   level: 7
-  lon: -88.238817
-  mus: 4130
-  name:  'Red Shield Center'
+  lon: -88.199119
+  mus: 3903
+  name:  'Perkins Historical Site'
 - fields: 7
   img:  'http://lh3.ggpht.com/NfT2lF-sDianTwLMh0ZBNPZJd2GwFyVqBX9dYM60Ql-AgN58IA8dbfX2J1dT72YJPSDbyqB16mie75kI--nG'
   lat: 40.094327
@@ -75,20 +68,6 @@
   lon: -88.31285
   mus: 3760
   name:  'Sunset Ridge Park Dedication'
-- fields: 6
-  img:  'http://lh6.ggpht.com/vqiOPPON1phvYOdOmbFDrxhN6cbYjeLHVgH42EV0XsJjVNd81EM1DKY_aRVM-rwJ9Il5tLc3QsL_gOS4qAkF'
-  lat: 40.139891
-  level: 7
-  lon: -88.257367
-  mus: 3601
-  name:  'Market View Baby Fountain'
-- fields: 4
-  img:  'http://lh3.ggpht.com/tWkX3XHLpAuapetLdnd8UYjpBeSYbR89poy4fpll1Rfdn2Tp-7KMqHHkFtvKl8rlcd3bngVxc9wc3K0Cnlvd'
-  lat: 40.136033
-  level: 7
-  lon: -88.238373
-  mus: 3365
-  name:  'John "Skip" Pickering Dedication'
 - fields: 8
   img:  'http://lh5.ggpht.com/jwu_GyddG2hU2-J2NqQUB_w5s034VhQHXb2PcHvvH0bLBmy8uhFA-n8IkB2sfkZRVuQ_rj8s4Sg-inu8uiEr'
   lat: 40.108986
@@ -159,6 +138,13 @@
   lon: -88.227323
   mus: 2083
   name:  'Dublin Street Church of Christ'
+- fields: 2
+  img:  'http://lh3.ggpht.com/tWkX3XHLpAuapetLdnd8UYjpBeSYbR89poy4fpll1Rfdn2Tp-7KMqHHkFtvKl8rlcd3bngVxc9wc3K0Cnlvd'
+  lat: 40.136033
+  level: 7
+  lon: -88.238373
+  mus: 2078
+  name:  'John "Skip" Pickering Dedication'
 - fields: 14
   img:  'http://lh3.ggpht.com/BTOxkIG5jV6VaSJtyt1Kge-WlIsvddZuz7YzzqkQhAMWxgfE71ab2wqWdKY20M9-6zbGlVq43XMJ2CrZDqU'
   lat: 40.127246
@@ -327,6 +313,13 @@
   lon: -88.241532
   mus: 861
   name:  'National Petascale Computing Facility'
+- fields: 4
+  img:  'http://lh6.ggpht.com/vqiOPPON1phvYOdOmbFDrxhN6cbYjeLHVgH42EV0XsJjVNd81EM1DKY_aRVM-rwJ9Il5tLc3QsL_gOS4qAkF'
+  lat: 40.139891
+  level: 7
+  lon: -88.257367
+  mus: 852
+  name:  'Market View Baby Fountain'
 - fields: 3
   img:  'http://lh3.ggpht.com/2iJE4vODI8uMoLDF4vnp-sjX-vDP5uH3090xuEvjLaKt3qU4jVzeR0PsRSTJzlePjMAZ1vuapWM_E2QNwyTy'
   lat: 40.078133
@@ -460,13 +453,6 @@
   lon: -88.270158
   mus: 524
   name:  'Glory Center International Church'
-- fields: 1
-  img:  'http://lh3.ggpht.com/nyMlzJGmc3oOWHxnwtb2MCi8kQtbe6k4aopwZNTdddDfAJ7X3VjPFR67k77bfDgL7hxNThJ1uE_0rjJjPFsfrA'
-  lat: 40.127323
-  level: 5
-  lon: -88.189447
-  mus: 515
-  name:  'Urbana Dog Park'
 - fields: 4
   img:  'http://lh5.ggpht.com/RsXj0S9rbD_i4VFZmhxJtNtmwEeJOoYsmM8wyu90kB6srZMfUskP6iqrTY9eqFNQhhQrU50k92lCH4JEQ2w'
   lat: 40.127358
@@ -649,13 +635,6 @@
   lon: -88.229415
   mus: 304
   name:  'The Pioneers'
-- fields: 3
-  img:  'http://lh5.ggpht.com/PnX0W4nb5AYgeh3aSV1f6L1M6SXT5EDNNj-HZLlIrqeFoeMlVOlqnsY-fMyXYgvKn-Ac3RDPKf_iJCtYRmek'
-  lat: 40.194805
-  level: 6
-  lon: -88.401996
-  mus: 296
-  name:  'Leland Dollahan Memorial'
 - fields: 2
   img:  'http://lh3.googleusercontent.com/M_qK64GKnnRqEI0mDBCxmdDqvQtr6sboADts_687xYboCfdeE-9gJwAPNC_Gt99-mA2X_3p-8RfH8-x7LMW5'
   lat: 40.132777
@@ -768,6 +747,13 @@
   lon: -88.401764
   mus: 209
   name:  'Mahomet Community Pavillion'
+- fields: 2
+  img:  'http://lh5.ggpht.com/PnX0W4nb5AYgeh3aSV1f6L1M6SXT5EDNNj-HZLlIrqeFoeMlVOlqnsY-fMyXYgvKn-Ac3RDPKf_iJCtYRmek'
+  lat: 40.194805
+  level: 6
+  lon: -88.401996
+  mus: 209
+  name:  'Leland Dollahan Memorial'
 - fields: 6
   img:  'http://lh6.ggpht.com/mjad8ywd9f_7yhVlFU1BlrOX-7B6bVnPzpN6bu0-3buisRy8BfTdN5K6uATZ5z8dO-Y9u-XSwI8GT_PhO6YS'
   lat: 40.101338
@@ -971,13 +957,6 @@
   lon: -88.242132
   mus: 108
   name:  'Nuclear Physics Lab'
-- fields: 3+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.197114
-  level: '?'
-  lon: -88.38528
-  mus: 106
-  name:  'Elks Lake Pavilion'
 - fields: 3
   img:  'http://lh3.ggpht.com/NSxjcLPhxtGCmwD2w7NdudcJR60RYpLfLXjEWjqyD0dFnd8Xv9gqmuHrOFvrnMf8UvmDTUOqCMMpGYYKCyYK'
   lat: 40.084118
@@ -1041,13 +1020,6 @@
   lon: -88.290872
   mus: 91
   name:  'Stone Hand Sculptures'
-- fields: 2+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.196436
-  level: '?'
-  lon: -88.380815
-  mus: 91
-  name:  'e3f5b5440cee404493661424c7ba263c.16'
 - fields: 4
   img:  'http://lh3.ggpht.com/fALAYK0M4imvlOA0vpJd8uOXpb0SvXft0NJmoF1vWieQ3g-Ps3CF7wgfjFiy1v81v26SbN5Rquo5697dHPPT'
   lat: 40.083666
@@ -1072,7 +1044,7 @@
 - fields: 3
   img:  'http://lh4.ggpht.com/lQtf71rwzXt5zHafbKPm8Czz3n2KwBWlEaNUh3-2JKrXTDueZ_JerHOPeSecqLaxLBWC09dTlPizrDMTafpT'
   lat: 40.105618
-  level: 5
+  level: 4
   lon: -88.230986
   mus: 82
   name:  'Alpha Phi Sorority'
@@ -1629,13 +1601,6 @@
   lon: -88.225998
   mus: 21
   name:  'Lifesaving Antibiotic Plaque'
-- fields: 3+
-  img: http://i.imgur.com/LujBo5P.png
-  lat: 40.197007
-  level: '?'
-  lon: -88.383416
-  mus: 21
-  name:  'ed2d77f368f348b59f97b7440fdeffcb.16'
 - fields: 7
   img:  'http://lh6.ggpht.com/fmwXS4vSqefbmXDWmZSLjVARfYE8HU3kSTuyc8sUvk2m8luvvHf1LHjv6Yu0UjOPHYh_eGbaBrHgiAXfHo0'
   lat: 40.10503
@@ -1706,6 +1671,13 @@
   lon: -88.239353
   mus: 19
   name:  'U.S. Representative Memorial'
+- fields: 2+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.197007
+  level: '?'
+  lon: -88.383416
+  mus: 18
+  name:  'ed2d77f368f348b59f97b7440fdeffcb.16'
 - fields: 1+
   img: http://i.imgur.com/LujBo5P.png
   lat: 40.202
@@ -1748,6 +1720,13 @@
   lon: -88.241045
   mus: 16
   name:  'In Memory of E. Lynn Meisenfelter'
+- fields: 1+
+  img: http://i.imgur.com/LujBo5P.png
+  lat: 40.197114
+  level: '?'
+  lon: -88.38528
+  mus: 16
+  name:  'Elks Lake Pavilion'
 - fields: 11
   img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
   lat: 40.100286
