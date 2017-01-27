@@ -20,19 +20,19 @@
   mus: 10962
   name:  'Grandview Memorial Gardens'
 - fields: 11
+  img:  'http://lh3.ggpht.com/ZKYFxa4_Jj-OpytEiNkFmQOVv42zvLK_5wEHxLncanKrdr7RjjSoG_UYFDX0CmCUupuU2d0MGQ3l1pbl0zF1'
+  lat: 40.083873
+  level: 7
+  lon: -88.265912
+  mus: 6225
+  name:  'Dan Morrissey Park'
+- fields: 11
   img:  'http://lh5.ggpht.com/jwu_GyddG2hU2-J2NqQUB_w5s034VhQHXb2PcHvvH0bLBmy8uhFA-n8IkB2sfkZRVuQ_rj8s4Sg-inu8uiEr'
   lat: 40.108986
   level: 6
   lon: -88.295589
   mus: 6178
   name:  'First Church of God'
-- fields: 10
-  img:  'http://lh3.ggpht.com/ZKYFxa4_Jj-OpytEiNkFmQOVv42zvLK_5wEHxLncanKrdr7RjjSoG_UYFDX0CmCUupuU2d0MGQ3l1pbl0zF1'
-  lat: 40.083873
-  level: 7
-  lon: -88.265912
-  mus: 5709
-  name:  'Dan Morrissey Park'
 - fields: 14
   img:  'http://lh4.ggpht.com/0UzQDuaKLiiPhEgEmKghfkzvXj6lROhxPIDJuI4nWLJFvdxJwGNcJZ1va0K_9cy4L2u0Zyeqv_qlIAwch5o'
   lat: 40.133475
@@ -54,6 +54,13 @@
   lon: -88.256693
   mus: 4398
   name:  'Captain Morgan Statue'
+- fields: 4
+  img:  'http://lh5.ggpht.com/85ocsFOsYnsbHN6oArmm1YbxgxazeWF3emIoJ0iPpi_H3TV7Vm4-_M2sEEiyfmFp6Z3hSQP8mfxrU190YlU'
+  lat: 40.097001
+  level: 8
+  lon: -88.276242
+  mus: 4261
+  name:  'Robert P. Simon Trail'
 - fields: 9
   img:  'http://lh3.googleusercontent.com/Bt3IS0wHTEIBXewdfdsA7Pg1GqaUcaidDmsRZoqzNtoliVB9SYnGVPSNB9OvFv_edjQhPesp7YV0GKSKZgk'
   lat: 40.083988
@@ -75,13 +82,6 @@
   lon: -88.31285
   mus: 3760
   name:  'Sunset Ridge Park Dedication'
-- fields: 3
-  img:  'http://lh5.ggpht.com/85ocsFOsYnsbHN6oArmm1YbxgxazeWF3emIoJ0iPpi_H3TV7Vm4-_M2sEEiyfmFp6Z3hSQP8mfxrU190YlU'
-  lat: 40.097001
-  level: 8
-  lon: -88.276242
-  mus: 3745
-  name:  'Robert P. Simon Trail'
 - fields: 6
   img:  'http://lh3.googleusercontent.com/eGP4sxnePximEFk88kdcqNxeClf1LjUbwiPTwKmCfStyP9CAq9qGtzAsbEcVWEaS0KyG8LQn7SgS3X07OU4f'
   lat: 40.122643
@@ -145,6 +145,13 @@
   lon: -88.276738
   mus: 1951
   name:  'Kraft Giant Macaroni'
+- fields: 4
+  img:  'http://lh5.ggpht.com/tZ1lEGRzdFJ7k1jwj0PTGd3tWVTGqCHIb1LcRdjc2pF5IJjsuYFFPQgwEWSBaPapa89oOEPXO_g2XWQxQl2h'
+  lat: 40.110212
+  level: 8
+  lon: -88.276899
+  mus: 1759
+  name:  'St John Lutheran Church'
 - fields: 6
   img:  'http://lh4.ggpht.com/-P9_K1M8m41FpGEgfyih0JNuexcc1mtm7Hq3LOuozksba15MIQWefDgfBs20Uuf61Txiy9-ALeKCMVWuBi4'
   lat: 40.083514
@@ -229,13 +236,6 @@
   lon: -88.276537
   mus: 1252
   name:  'The New Fellowship Corner'
-- fields: 3
-  img:  'http://lh5.ggpht.com/tZ1lEGRzdFJ7k1jwj0PTGd3tWVTGqCHIb1LcRdjc2pF5IJjsuYFFPQgwEWSBaPapa89oOEPXO_g2XWQxQl2h'
-  lat: 40.110212
-  level: 8
-  lon: -88.276899
-  mus: 1243
-  name:  'St John Lutheran Church'
 - fields: 7
   img:  'http://lh3.ggpht.com/1yyUr0xGwID_g1F_OYHLjASRJrvJLD7e8r6IER_B6CliwGRrCH6cDWRVgtfWqJ0wHhNyjId_FX6mEVecAviV'
   lat: 40.11946
@@ -1891,7 +1891,7 @@
 - fields: 8
   img:  'http://lh5.ggpht.com/LPlCgoOAlClRaVCl_B1sHDkn38OgDbXat-l5Q1bDZLP7mOUMfU8pK-o3N8BEqh0vHJcZBHo3iz2AMQKAhot7Tw'
   lat: 40.110833
-  level: 5
+  level: 4
   lon: -88.227425
   mus: 13
   name:  'Engineering Class of 1975 Monument'
