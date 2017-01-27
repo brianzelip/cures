@@ -16,18 +16,6 @@
   level: '?'
   lon: -87.632502
   name:  '367908f1dbf04c84bf3cb27575c4359e.16'
-- ap: 5159
-  img:  'http://lh6.ggpht.com/0IsQORyEW-bPA7sEbGspygtoI7ixEshm_2fUw5oeh9AeXg6JN5w0ypYIshpuKm-C0nG4Vm2XmpLvtWTZzWzd'
-  lat: 40.111607
-  level: 5
-  lon: -88.233753
-  name:  'Chabad Menorah'
-- ap: 4972
-  img:  'http://lh4.ggpht.com/PmGpygZ2fBs43twk2Y44XZbgGcHWv0YimAq7Fp3vlIRRqUyLpSmDmFwcn1ucfmJarcQrAAXJjYAXAhNyxSrz'
-  lat: 40.110049
-  level: 5
-  lon: -88.231968
-  name:  'Potbelly Mural'
 - ap: 4598
   img:  'http://lh3.ggpht.com/bVNaflT1bCgFsUDizKeHZFExlTyUFdVVpjEqrpacNh843YeRnU98IEQb8a02eE36XmEJXAkBC-FG1_3ezYP7'
   lat: 40.095365
@@ -58,24 +46,6 @@
   level: 3
   lon: -88.216986
   name:  'Leroy Hubble Honorary Bench'
-- ap: 3848
-  img:  'http://lh3.googleusercontent.com/vw4Js8jf11Ok889K1stO5ujNjIO9Ah9DEbsg1xBTrVbaeyBetcG75B8YS8CkQA0KVC8NA5Z02n220SI1UzdB'
-  lat: 40.10985
-  level: 6
-  lon: -88.227236
-  name:  'Illini Union'
-- ap: 3661
-  img:  'http://lh5.ggpht.com/fGRHfMAqdWrUnPE8GStKSdMkgQmu9qvuxAC4VzcU1v2KyxQu2BeuJKhvhefSeFNTkgFh6YdR-F4P6plMbh0'
-  lat: 40.110194
-  level: 5
-  lon: -88.231488
-  name:  'Fighting Illini Memorial'
-- ap: 3661
-  img:  'http://lh4.ggpht.com/HMXgPSuj_Qc06z-u_ElF6pgeWVoxqEAZoT0woVULj2jB8M-G8a4In71YBTnsPrCaJTLx0DFoqB8lQ2847L9M'
-  lat: 40.112187
-  level: 5
-  lon: -88.235913
-  name:  'Scott Park Pavilion'
 - ap: 3474
   img: http://i.imgur.com/5j1qaiT.png
   lat: 42.772529
@@ -88,18 +58,6 @@
   level: '?'
   lon: -87.632747
   name:  '009d44eea192424f8eb810b69311f40a.16'
-- ap: 3474
-  img:  'http://lh4.ggpht.com/2tHD_AHYQu0kWuwLX2HMYWBG4txVkuWsBEfzWLL39npWp8kMSHiUKxSJM1E7yhimuMVUJ-RIlSSKsgjETvtr'
-  lat: 40.110524
-  level: 4
-  lon: -88.228706
-  name:  'Leo Roy Tehon Memorial'
-- ap: 3474
-  img:  'http://lh5.ggpht.com/Z2EWM4D6YQHuqnLwtuPBawyQBZxTzVe9E17MKc8jOZkO0ZzkuD5zSQslY2iuXkkUnztPteUeOSHrSTz3voHC'
-  lat: 40.111166
-  level: 6
-  lon: -88.228747
-  name:  'Boneyard Creek Mural'
 - ap: 3099
   img:  'http://lh5.ggpht.com/W2upB0MQ9l_1Z1JYjKFslTSSU-oi3b_kOidwTlG4pOCZRHWiD52CzcX2WMquuVEnMpxhtSRQOuAdLgDn8rs'
   lat: 40.096671
@@ -119,11 +77,23 @@
   lon: -88.23253
   name:  'Skyward Railway'
 - ap: 2911
+  img:  'http://lh6.ggpht.com/0IsQORyEW-bPA7sEbGspygtoI7ixEshm_2fUw5oeh9AeXg6JN5w0ypYIshpuKm-C0nG4Vm2XmpLvtWTZzWzd'
+  lat: 40.111607
+  level: 5
+  lon: -88.233753
+  name:  'Chabad Menorah'
+- ap: 2724
   img:  'http://lh6.ggpht.com/I-l0KMezFAwrNcsN5-RPQCQbH4VnCa-C2GtwAQwrtAOcyFmOp_PxGmTwtTHCrR-O1hokLKIrtjyzuTsdP1E'
   lat: 40.112048
   level: 5
   lon: -88.236887
   name:  'Scott Park Rain Garden'
+- ap: 2724
+  img:  'http://lh3.googleusercontent.com/vw4Js8jf11Ok889K1stO5ujNjIO9Ah9DEbsg1xBTrVbaeyBetcG75B8YS8CkQA0KVC8NA5Z02n220SI1UzdB'
+  lat: 40.10985
+  level: 6
+  lon: -88.227236
+  name:  'Illini Union'
 - ap: 2537
   img: http://i.imgur.com/5j1qaiT.png
   lat: 41.835853
@@ -202,6 +172,12 @@
   level: 4
   lon: -88.23557
   name:  'Boneyard Greenway'
+- ap: 2537
+  img:  'http://lh4.ggpht.com/HMXgPSuj_Qc06z-u_ElF6pgeWVoxqEAZoT0woVULj2jB8M-G8a4In71YBTnsPrCaJTLx0DFoqB8lQ2847L9M'
+  lat: 40.112187
+  level: 5
+  lon: -88.235913
+  name:  'Scott Park Pavilion'
 - ap: 2537
   img:  'http://lh5.ggpht.com/f710C9AvOEB7ieCI4f382wWUP4OgDxiqPzbxqxct6Ugf2PWBfyXyDpG_JcRQ6PaZ_jS0jpXXBhNSt_u9rFA'
   lat: 40.113864
