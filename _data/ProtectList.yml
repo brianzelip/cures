@@ -1471,7 +1471,7 @@
 - fields: 7
   img:  'http://lh5.ggpht.com/w9vRSV8NBR1gsi8ndeSUNJN2X-ftwCCQ7Jd3dcLVhPw6r1w0x1QE4hNgpCJBKimUeq-HToz_yq9S3rYkzC5bjw'
   lat: 40.114687
-  level: 5
+  level: 6
   lon: -88.22473
   mus: 33
   name:  'Web Browser Plaque'
@@ -1636,13 +1636,6 @@
   lon: -88.229005
   mus: 23
   name:  'The Chapel of St. John the Divine'
-- fields: 6
-  img:  'http://lh6.ggpht.com/C7ThuP5fwrDTu5cMDpoeGmRjotNh6eUnPf3ksvSsUj5NkHZ0yKbIUnF8cSikhX-I_7O42CTwqjhLq9z3jkIL'
-  lat: 40.111844
-  level: 7
-  lon: -88.228609
-  mus: 23
-  name:  'Talbot Labs '
 - fields: 5
   img:  'http://lh6.ggpht.com/a7U3RDd7velreml5bufqdV_G7UTGp85wW8w5LWXCJNvNYvu-iW5nUdDbsA6y0gODhhOWdwxltnQQgvTSRFA'
   lat: 40.093084
@@ -1671,13 +1664,6 @@
   lon: -88.236748
   mus: 22
   name:  '"Springville Portal" at Research Park'
-- fields: 5
-  img:  'http://lh6.ggpht.com/Pnd8JOVl_Lm-LFi5TL9dblCUNbrwX2rh4_oKgOC5Ynga-E_Y207oGsL4Uz931FTapBrs35H98qxJU4Cm_Gk'
-  lat: 40.113024
-  level: 7
-  lon: -88.229095
-  mus: 21
-  name:  'University Place Christian Church'
 - fields: 3
   img:  'http://lh4.ggpht.com/7U0YXCB_DIhnqPJyjyLpNn6kg4lU8HvKL87ddBKWq1sptvVLvCEiCuNEnghQtqDGSN2OBNcOUK9nZcYjY4Vr'
   lat: 40.107887
@@ -1786,7 +1772,7 @@
 - fields: 9
   img:  'http://lh5.ggpht.com/LPlCgoOAlClRaVCl_B1sHDkn38OgDbXat-l5Q1bDZLP7mOUMfU8pK-o3N8BEqh0vHJcZBHo3iz2AMQKAhot7Tw'
   lat: 40.110833
-  level: 4
+  level: 3
   lon: -88.227425
   mus: 18
   name:  'Engineering Class of 1975 Monument'
@@ -1839,13 +1825,13 @@
   lon: -88.224982
   mus: 17
   name:  'John J. Morris Jr. Memorial'
-- fields: 3
-  img:  'http://lh3.ggpht.com/aHqOXq4BX_XXhSNRFJn0768z_1bjWEniMumNJ4FMy9Nv5j3AefPsZDiAGCehCguZ1HFOBMBXxRI4mOXd077e'
-  lat: 40.112957
+- fields: 4
+  img:  'http://lh6.ggpht.com/C7ThuP5fwrDTu5cMDpoeGmRjotNh6eUnPf3ksvSsUj5NkHZ0yKbIUnF8cSikhX-I_7O42CTwqjhLq9z3jkIL'
+  lat: 40.111844
   level: 7
-  lon: -88.227127
+  lon: -88.228609
   mus: 17
-  name:  'Early Computers Plaque'
+  name:  'Talbot Labs '
 - fields: 1
   img:  'http://lh3.ggpht.com/A0WZkyUT-umVVZJsxEXS-SYdMZ0G0RF4TraCu_fOJ4BxVs12X09x-2RBi0x9sVH_hvyUyh9hwIXjijhobik'
   lat: 40.117582
@@ -1860,6 +1846,13 @@
   lon: -88.207259
   mus: 16
   name:  'US Post Office'
+- fields: 2
+  img:  'http://lh3.ggpht.com/aHqOXq4BX_XXhSNRFJn0768z_1bjWEniMumNJ4FMy9Nv5j3AefPsZDiAGCehCguZ1HFOBMBXxRI4mOXd077e'
+  lat: 40.112957
+  level: 7
+  lon: -88.227127
+  mus: 16
+  name:  'Early Computers Plaque'
 - fields: 5
   img:  'http://lh5.ggpht.com/2zEYZdL0tuQhUP5HHcOYFsPQfjx-nNDHhi8DMJEzzkjbEA9hODz2iDCcmj4S9NEGBsHW4nYYR010lA_6kyhk'
   lat: 40.10038
@@ -1874,6 +1867,13 @@
   lon: -88.38528
   mus: 16
   name:  'Elks Lake Pavilion'
+- fields: 3
+  img:  'http://lh6.ggpht.com/Pnd8JOVl_Lm-LFi5TL9dblCUNbrwX2rh4_oKgOC5Ynga-E_Y207oGsL4Uz931FTapBrs35H98qxJU4Cm_Gk'
+  lat: 40.113024
+  level: 5
+  lon: -88.229095
+  mus: 15
+  name:  'University Place Christian Church'
 - fields: 11
   img:  'http://lh5.ggpht.com/-UWK84I78Sftf7yg-E2pg6xEAWTvyiThgJBJlxbqOZPYKNmzQ8uGgEEMetzplrG1HpXG5kQqNItUeXKxOHDsGA'
   lat: 40.100286
@@ -2112,13 +2112,6 @@
   lon: -88.231487
   mus: 9
   name:  'Culture on the Prairie'
-- fields: 5
-  img:  'http://lh4.ggpht.com/ezHSw_hRdts3U3bzkEEn46LneS1miDpbSGoxg0v1TqG_W82bvfR2uSTZeDFfhG0kmPJAkOblWP_ZilA6TP8'
-  lat: 40.112523
-  level: 5
-  lon: -88.227765
-  mus: 9
-  name:  'Bardeen Quadrangle - North Side'
 - fields: 2
   img:  'http://lh6.ggpht.com/fBCIw-ohQqPYmU_DWfwbcZnXqbmVh6zOWlUta8mx1F53zxG1Wxr08J9-fOCaz1B9i_8Nb3Il_kqdxzdyRyc'
   lat: 40.109043
@@ -2126,13 +2119,6 @@
   lon: -88.224397
   mus: 9
   name:  'Archaea Plaque'
-- fields: 4
-  img:  'http://lh3.ggpht.com/I8Cra-oBAq7td_84j0G8l8DIMXhxPP-O8A8xPb1WZb8O2s9DBapV_osKefRuzzDGDhcPRA9WT7yaPBvkGE4g'
-  lat: 40.112836
-  level: 6
-  lon: -88.22802
-  mus: 9
-  name:  '1909 Senior Memorial'
 - fields: 8
   img:  'http://lh3.googleusercontent.com/qiCzk44kbJr1T0epQjDTIa6YFH1inC0xyPQblqRhSmRcgE4SKEEL6VSPLefcs5myDM3psr50I2E4lQRne_wL'
   lat: 40.09991
@@ -2238,6 +2224,13 @@
   lon: -88.210122
   mus: 7
   name:  'Arborist Society Plaque'
+- fields: 3
+  img:  'http://lh4.ggpht.com/ezHSw_hRdts3U3bzkEEn46LneS1miDpbSGoxg0v1TqG_W82bvfR2uSTZeDFfhG0kmPJAkOblWP_ZilA6TP8'
+  lat: 40.112523
+  level: 5
+  lon: -88.227765
+  mus: 7
+  name:  'Bardeen Quadrangle - North Side'
 - fields: 3
   img:  'http://lh5.ggpht.com/_Tp5JJFIIlt0iHHyC_A_gnEm1sxUEKDHmQr0oby74HL0rnFZ5JrnuvOTPk6_vulsU_GJue_7RAAX2Y7I2Wxw4A'
   lat: 40.132354
@@ -2437,7 +2430,7 @@
 - fields: 2
   img:  'http://lh3.ggpht.com/pVUYGCf7vsAndVd4vhK_pC9p6e9OvGa4ZiWuZg0ELOFDWptBba4H2N4PNZPjQdHXnV1GQyLTpCXQWDMKDUqn'
   lat: 40.108875
-  level: 6
+  level: 5
   lon: -88.227835
   mus: 4
   name:  'Lion''s Head Planter'
@@ -2840,17 +2833,10 @@
   lon: -88.219838
   mus: 1
   name:  'Hallene Gateway'
-- fields: 1
-  img:  'http://lh4.ggpht.com/6WTMH3liIIuH6pEvRGZOkUNNR84nR8frjFch6yn_4mbGIokY-MajBCG6jZHWU37a8TBI97rYTBlX-ks8m5XJTw'
-  lat: 40.112843
-  level: 4
-  lon: -88.227657
-  mus: 1
-  name:  'Class of 1904 Flagpole'
 - fields: 2
   img:  'http://lh6.ggpht.com/RW34ntixvJkg7fD71TPYo_4KIsBzA0-a-6yXO0jKPbpGxX5gIGC7kBI-pXEF9OHhuolcAGW2fxyK3Pt42Iev'
   lat: 40.110489
-  level: 5
+  level: 4
   lon: -88.227412
   mus: 1
   name:  'Bus Stop - Illini Union, Westbound'
