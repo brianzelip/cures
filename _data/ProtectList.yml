@@ -1461,12 +1461,12 @@
   lon: -88.228342
   mus: 43
   name:  'Classics Library'
-- fields: 5
+- fields: 4
   img:  'http://lh6.ggpht.com/x11pEsOWqn4mqQ-dluGwqiNNwEbwDqcHukghtr3T9OW6zJ-huJiQzN28bQTAJutX0Cf8c-9nJICDcxGXa73y6w'
   lat: 40.109364
   level: 5
   lon: -88.227697
-  mus: 42
+  mus: 41
   name:  'The Diana Fountain'
 - fields: 6
   img:  'http://lh6.ggpht.com/eAkVY7nObat2j0fYj0bd8HEZQMvUrmB-_Qi9KABaDu_pHUpP1sEJ1Fw_PQ4GbKLqqOeQM2-ljV0wUXUwj6tmHw'
@@ -1702,7 +1702,7 @@
 - fields: 1
   img:  'http://lh3.ggpht.com/Fy0nzLr1Q8bRnwu-jzHctS6qpGCOG01KiNnG1-Dpea_zukqvudRLdbZjtk1ECbtWLHSMqCNMzPz49KPgJkGK5QtTRyyUgUwPVUe5DNtWeIt2AluLBw'
   lat: 40.111292
-  level: 4
+  level: 3
   lon: -88.205182
   mus: 23
   name:  'Champaign County Courthouse'
@@ -1933,7 +1933,7 @@
 - fields: 1
   img:  'http://lh3.ggpht.com/K5qZj-uO-zpcijGhj0zvMY32JVIupEaJXb2Q3V5NfXp4U-m0R9s-VuvATprE-DzGSfGEFEv3dmELuHHIKmDB'
   lat: 40.111623
-  level: 5
+  level: 3
   lon: -88.211451
   mus: 13
   name:  'Saint Nicholas Antiochian Orthodox Church'
@@ -2232,13 +2232,6 @@
   mus: 7
   name:  'Plotner Memorial'
 - fields: 2
-  img:  'http://lh3.ggpht.com/fxsMa6MK6sWcY8fyTRPmRixomHagKag2YrMZjovxjujmavVawLdmU0Mi0HpNq5kH7UUoXfELEoBOFTkzeRwV2hp9PknjajWlvhX6jYIyUSrrH76k'
-  lat: 40.10952
-  level: 6
-  lon: -88.228288
-  mus: 7
-  name:  'Altgeld Hall'
-- fields: 2
   img:  'http://lh5.ggpht.com/ucFkWovrZBr6wFMicSGD78p44tqzcyfJCvQuAocYo0do3ODoHsOeAMphZZferoOLkGfuJPQVlILRzKG1vAPg'
   lat: 40.109172
   level: 5
@@ -2287,6 +2280,13 @@
   lon: -88.210122
   mus: 7
   name:  'Arborist Society Plaque'
+- fields: 1
+  img:  'http://lh3.ggpht.com/fxsMa6MK6sWcY8fyTRPmRixomHagKag2YrMZjovxjujmavVawLdmU0Mi0HpNq5kH7UUoXfELEoBOFTkzeRwV2hp9PknjajWlvhX6jYIyUSrrH76k'
+  lat: 40.10952
+  level: 6
+  lon: -88.228288
+  mus: 7
+  name:  'Altgeld Hall'
 - fields: 7
   img:  'http://lh6.ggpht.com/YVbqGVTjJuDMDdj71CP2mWvnUIdgO25PgoDdJwEGnEE_M9I1aDgKyjSr9JOZVU6UQTZQtfUo9RAWyz92n3jtCQ'
   lat: 40.098475
@@ -2609,6 +2609,13 @@
   lon: -88.208835
   mus: 3
   name:  'Bennet Building'
+- fields: 4
+  img:  'http://lh4.ggpht.com/vv-0g62EZ8ryJBOYgynNZeHVhnllOTH6Fw8BrvTexs05uFs36rXKpZSCWeaC20VpLm_Zo-ED-zIhjAO36RuG'
+  lat: 40.111097
+  level: 6
+  lon: -88.223019
+  mus: 3
+  name:  'Original 24 MeV Betatron'
 - fields: 3
   img:  'http://lh3.ggpht.com/QojKE403MRnnZzAFv5nrdKuk2XXU66Kfs19GkcL4nkbHLg_d66NUZ1EXcLa0A03PC8L29E78H9svhm7UYD7M'
   lat: 40.087494
@@ -2763,13 +2770,27 @@
   lon: -88.249887
   mus: 1
   name:  'Silver Cloud Oakley Washburn, Jr.'
-- fields: 2
-  img:  'http://lh4.ggpht.com/vv-0g62EZ8ryJBOYgynNZeHVhnllOTH6Fw8BrvTexs05uFs36rXKpZSCWeaC20VpLm_Zo-ED-zIhjAO36RuG'
-  lat: 40.111097
-  level: 6
-  lon: -88.223019
+- fields: 1
+  img:  'http://lh6.ggpht.com/jhMQ5IGo-EB8MiVSEIUKmHbHwagHnJzv5RKZvsbHLes_88gz9Kesj98eZWV29mufV0LSUVjs53V5hMFQOG2Q'
+  lat: 40.11067
+  level: 7
+  lon: -88.220974
   mus: 1
-  name:  'Original 24 MeV Betatron'
+  name:  'Astronomy Building'
+- fields: 1
+  img:  'http://lh5.ggpht.com/sNSUXW7rqg-Qb6dc2gyeAXcXM3VjBpmyYlgK8btL73fYOjsS67hh6b6LfmCRE6_ItufIvb_4YKG10bc3E1am'
+  lat: 40.110969
+  level: 6
+  lon: -88.221953
+  mus: 1
+  name:  'Arthur Hill Daniels Memorial'
+- fields: 2
+  img:  'http://lh3.ggpht.com/WZ2x7xVM-rICLElKme5elfnFzWATxKyhh2ur0_-2QrpcSIc-HAYOqlwsp3cewAHAN0W751RblRvG3TzjraCj'
+  lat: 40.110991
+  level: 4
+  lon: -88.223333
+  mus: 1
+  name:  'Loomis Laboratory Jacob''s Ladder Device'
 - fields: 1
   img:  'http://lh3.ggpht.com/0IkSOblVdAgYOJ2Bk2QqvqWjdstWNQgp7g9oSz1Sq70jG6cLusjwYW76irF9h-c7cafatMcyGsjw85xwYgPQyw'
   lat: 40.118353
@@ -2813,12 +2834,12 @@
   mus: 1
   name:  'Dohme Park Dedication Plaque'
 - fields: 1
-  img:  'http://lh4.ggpht.com/CuRKYla63wCvLaTdKqGMMAd1Mr0_HK3v2iQjltrJwmsOownFtry6TsHMkAeHmOP6ULUYA53u4MUP61rgLzs6'
-  lat: 40.1097
-  level: 4
-  lon: -88.228059
+  img:  'http://lh3.googleusercontent.com/U_-4hKnh83ZT50dnywqzC7jR6ialVAMHwoWLMsG5km5adHpOU2FNmfe58sV_IDOBaVBAJbKZafokPWLzKLGgTQ'
+  lat: 40.111268
+  level: 6
+  lon: -88.223809
   mus: 1
-  name:  'Liza Kotz Memorial Plaque'
+  name:  'Goodwin Avenue Bridge'
 - fields: 1
   img:  'http://lh3.ggpht.com/VrbXGwlUosNLEkVdshWUFoVa3KtlJQoEU4yLYygvftYbPCmxo644Uvar_v8Kb9RS53hB0tXgvV44GotrxZyu'
   lat: 40.098592
@@ -2896,13 +2917,6 @@
   lon: -88.237181
   mus: 1
   name:  'Illinois National Guard Armory'
-- fields: 1
-  img:  'http://lh3.ggpht.com/WZ2x7xVM-rICLElKme5elfnFzWATxKyhh2ur0_-2QrpcSIc-HAYOqlwsp3cewAHAN0W751RblRvG3TzjraCj'
-  lat: 40.110991
-  level: 6
-  lon: -88.223333
-  mus: 1
-  name:  'Loomis Laboratory Jacob''s Ladder Device'
 - fields: 1
   img:  'http://lh6.ggpht.com/ukIJOts1W6BPpII4XC4_Q5Wh8Gz8aCNeGUuAtaLknm7OKhNYvlDd71ZN8hcxCRcJDhDjV0qBZgFRyYMGNeS6'
   lat: 40.100203
