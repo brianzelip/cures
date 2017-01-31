@@ -481,13 +481,6 @@
   lon: -88.277273
   mus: 477
   name:  'American Revolution Bicentennial Plaque'
-- fields: 3
-  img:  'http://lh5.ggpht.com/oCw3ZC6UKF3aiK6dkbz72dhzUsJNhOmfVjVsXJET_YP5e1p53pLTa8Dep24gLqeY9FghWE0kaAB64vvn7nq0'
-  lat: 40.105008
-  level: 7
-  lon: -88.243265
-  mus: 476
-  name:  'McCollum Park Peacock'
 - fields: 5
   img:  'http://lh4.ggpht.com/xMwEuzjKH4LukFYgVHCFzoHtcIDwSHLCurfqG9DRuRCZOyw6nN6x8-Qngw5rUbT5kSPl7zjxG_mCoyJNHc0N'
   lat: 40.080645
@@ -495,20 +488,6 @@
   lon: -88.294589
   mus: 469
   name:  'Hallbeck Park Shelter'
-- fields: 3
-  img:  'http://lh4.ggpht.com/u_MtizNv_keIXM4ITgtjqC8nr5JvB8UpDBg_5_08uQDTsQr44mwr6ZlkhTp0iKbvcV9xCJqXDeN66xYWaI0'
-  lat: 40.116227
-  level: 7
-  lon: -88.233833
-  mus: 467
-  name:  'Haley-Walker-Ginza Building'
-- fields: 3
-  img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
-  lat: 40.106706
-  level: 6
-  lon: -88.232116
-  mus: 455
-  name:  'Illini Tower'
 - fields: 6
   img:  'http://lh3.ggpht.com/m6U-TO88Q5GMQfUN_VkhxMau1rCnKRk4Cq4wo4AL6VjfkLQYyM81LdKWD18uetEmGbgMRpaIUgSu68ybtTVr5Q'
   lat: 40.124442
@@ -1069,13 +1048,6 @@
   lon: -88.248914
   mus: 110
   name:  'Boulware Trail'
-- fields: 4
-  img:  'http://lh3.ggpht.com/wcy4aX5svNHFpb_YQMEKlxqgq90G8mGhzcKlCtJWVVbTPwMhUz0Wfe3JNklLegEQOFEEA6dednkDNrEiiZ0h'
-  lat: 40.117003
-  level: 6
-  lon: -88.233513
-  mus: 110
-  name:  'Bethel African Methodist Episcopal Church'
 - fields: 6
   img:  'http://lh4.ggpht.com/4pxL0jEBlvHiFP3fcYdIWIAHRpyhg2RaH6Ikze3DLOSsA509375IHgRzptCjWZryzLqpuDEYLZTFDbwSKmE'
   lat: 40.117343
@@ -1168,13 +1140,6 @@
   mus: 89
   name:  'Circle K 507 W. University'
 - fields: 4
-  img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
-  lat: 40.116071
-  level: 6
-  lon: -88.229243
-  mus: 87
-  name:  'Circle K 609 E University'
-- fields: 4
   img:  'http://lh5.ggpht.com/S_72RqBcpwyaqDotOOM3zyRvzzZXNgZUSEfOLLDYY9tEvWcEksixMnIL7N-7FO1EpE-CXGydpsChqEkBjX_I'
   lat: 40.131279
   level: 6
@@ -1188,6 +1153,13 @@
   lon: -88.243036
   mus: 87
   name:  'The Art Party Studio'
+- fields: 2
+  img:  'http://lh3.ggpht.com/wcy4aX5svNHFpb_YQMEKlxqgq90G8mGhzcKlCtJWVVbTPwMhUz0Wfe3JNklLegEQOFEEA6dednkDNrEiiZ0h'
+  lat: 40.117003
+  level: 2
+  lon: -88.233513
+  mus: 83
+  name:  'Bethel African Methodist Episcopal Church'
 - fields: 6
   img:  'http://lh3.ggpht.com/uRfzF4ZYfUywrpeKAijCtI65UgwHP_5pgc37VOhSqnsL7lIfH4aAM3DK7HCnaTKSr2Zn24ZXjvW7xGDh-U8'
   lat: 40.100481
@@ -1216,6 +1188,13 @@
   lon: -88.236627
   mus: 73
   name:  'Don Moyer Boys and Girls Club'
+- fields: 3
+  img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
+  lat: 40.116071
+  level: 6
+  lon: -88.229243
+  mus: 73
+  name:  'Circle K 609 E University'
 - fields: 1
   img:  'http://lh5.ggpht.com/85ocsFOsYnsbHN6oArmm1YbxgxazeWF3emIoJ0iPpi_H3TV7Vm4-_M2sEEiyfmFp6Z3hSQP8mfxrU190YlU'
   lat: 40.097001
@@ -1532,6 +1511,13 @@
   mus: 37
   name:  'Zipcar-Wright Street & Daniel Street'
 - fields: 2
+  img:  'http://lh5.ggpht.com/oCw3ZC6UKF3aiK6dkbz72dhzUsJNhOmfVjVsXJET_YP5e1p53pLTa8Dep24gLqeY9FghWE0kaAB64vvn7nq0'
+  lat: 40.105008
+  level: 7
+  lon: -88.243265
+  mus: 35
+  name:  'McCollum Park Peacock'
+- fields: 2
   img:  'http://lh3.googleusercontent.com/ryRMzj5c3ls-s5Gocd2-IM_oonInNzjPIbCGJVps6JmZxYcG165NabHKNZW7wAepNc8rtLf3A3E0U1mbq-I'
   lat: 40.11251
   level: 8
@@ -1653,7 +1639,7 @@
 - fields: 11
   img:  'http://lh5.ggpht.com/4DJAFPeZ_w65Km7VDnsbOqouQaeBuPuxA0KHPQToT_B6o1hBxzdu3kn89UhHgv22Ygj52Fx9QqcbzOytuw'
   lat: 40.100078
-  level: 6
+  level: 7
   lon: -88.250683
   mus: 25
   name:  'Brian Clark Memorial Plaque'
@@ -1853,6 +1839,13 @@
   lon: -88.240451
   mus: 15
   name:  'Bruce D. Nesbit African American Cultural Center'
+- fields: 2
+  img:  'http://lh5.ggpht.com/k_9eqZVvGcr3ZNyeeSNDM1-Y7od35KmnQQptB9usrdpTdpGW2c_5-12rYy9hGazdx7qhlYrEXxaJ_ZIVFywlcA'
+  lat: 40.106706
+  level: 6
+  lon: -88.232116
+  mus: 15
+  name:  'Illini Tower'
 - fields: 3
   img:  'http://lh4.ggpht.com/vLN74xdc8Mdgab4UjP1QUbyX42bkPBXnIqzYzkmRDi4naHiBk2kM1wUA7Mx3Pxl1dpPoMBAg9pV956MqTDk'
   lat: 40.068391
@@ -1959,13 +1952,6 @@
   mus: 12
   name:  'Randy William Auteberry Memorial'
 - fields: 1
-  img:  'http://lh3.ggpht.com/AflEYleLSbb1ODQvIdBOrTrq1Zkk-rgHU4WaHjaZ6Md2zDSaqq8cERAJWcwG1QFkrzGf6gp3oC-DZuLOCDb4'
-  lat: 40.112779
-  level: 7
-  lon: -88.239045
-  mus: 12
-  name:  'Layalina Mediterranean Grill'
-- fields: 1
   img:  'http://lh6.ggpht.com/LlpW022wV7lzYKZ3vPdegSJ5yfDa992j4CfqoWqSCvuvGoH_oQgMdheMd5Ug4DZabZO-WsZ8FO_bbsKKFp4'
   lat: 40.100992
   level: 6
@@ -2052,7 +2038,7 @@
 - fields: 10
   img:  'http://lh5.ggpht.com/3t7XZHqwxLZ8Lc9YomR8FInm74U2PAA-DBk8kmdxXIrcXbKa1CoBDTlgdDJeO-_yVT3qNKRnNLzbdil1eH41iA'
   lat: 40.09935
-  level: 6
+  level: 7
   lon: -88.249766
   mus: 10
   name:  'Jim Bickel Honorary Plaque'
@@ -2479,7 +2465,7 @@
 - fields: 1
   img:  'http://lh4.ggpht.com/VZT9NM5dfGAaJAZj9cFhDmCgknQCF0UI4Hv3AwcaZedRlXhGb2wfVLTFOWjtoSJRG7MEsjv784wAB1XZgQqpBA'
   lat: 40.126642
-  level: 4
+  level: 6
   lon: -88.198163
   mus: 4
   name:  'Armored Gopher Games'
@@ -2591,7 +2577,7 @@
 - fields: 3
   img:  'http://lh5.ggpht.com/8zq5tMevCiipZK8N9-8SZw3vdsA2HwH0E02ormQshGxHVZrB2WPK7OPC8zt6pjLlgpXVuEYHVA_08_Q8fPw-'
   lat: 40.099647
-  level: 6
+  level: 7
   lon: -88.249648
   mus: 2
   name:  'Max Overmyer Memorial Playground'
@@ -2752,7 +2738,7 @@
 - fields: 2
   img:  'http://lh3.ggpht.com/WZ2x7xVM-rICLElKme5elfnFzWATxKyhh2ur0_-2QrpcSIc-HAYOqlwsp3cewAHAN0W751RblRvG3TzjraCj'
   lat: 40.110991
-  level: 4
+  level: 6
   lon: -88.223333
   mus: 1
   name:  'Loomis Laboratory Jacob''s Ladder Device'
