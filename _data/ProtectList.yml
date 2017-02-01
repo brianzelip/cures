@@ -1,9 +1,9 @@
-- fields: 8
+- fields: 9
   img:  'http://lh5.ggpht.com/e6wN_SlFuF59rOEwuU8BCPeT0WsXneW_OcsXpZ75pgQd0PQSfnKhmLyrK5PDkisRwjV2DfAfVp7T3ryHoGKX4A'
   lat: 40.076779
   level: 7
   lon: -88.249144
-  mus: 11381
+  mus: 11482
   name:  'Triptych Brewing'
 - fields: 6
   img:  'http://lh5.ggpht.com/NV7qwJUoztAVld_2ohxeFi790MJW_YB_4wO5YfsQW08MmR00yciAjfep2xtLeKFLE8QDlUFSiwbp3Rw2jjag'
@@ -215,6 +215,13 @@
   lon: -88.265191
   mus: 1141
   name:  'Thompson Park'
+- fields: 6
+  img:  'http://lh4.ggpht.com/vUhKhmK0pteJi8_0n25xIa4EpgpVSS432OxXv1UQBDLjju5SEGcm_2WWl99OUPtDyNLlXirJu--KDbCoYjM'
+  lat: 40.08956
+  level: 7
+  lon: -88.257733
+  mus: 1132
+  name:  'Good Shepherd Lutheran Church'
 - fields: 9
   img:  'http://lh4.ggpht.com/BDVsIEWOaH0zZsTgU8IbvmVNJTrl3EljfhNXeVt4C2BILNtXm5hpAq_6mLrTl66aJcUyYv4hFJKhxedLkKo'
   lat: 40.11679
@@ -236,13 +243,6 @@
   lon: -88.277984
   mus: 1040
   name:  'Champaign Water Tower Mattis'
-- fields: 5
-  img:  'http://lh4.ggpht.com/vUhKhmK0pteJi8_0n25xIa4EpgpVSS432OxXv1UQBDLjju5SEGcm_2WWl99OUPtDyNLlXirJu--KDbCoYjM'
-  lat: 40.08956
-  level: 7
-  lon: -88.257733
-  mus: 1031
-  name:  'Good Shepherd Lutheran Church'
 - fields: 7
   img:  'http://lh5.ggpht.com/_eMBd3V1rEFztJvtBkssKVH7eM-jiU3l9VJJ-kj6SxGZMx_7Qo6G4yjfsws8T1FhIEFwk7yvoicm8XTVERh4'
   lat: 40.084405
@@ -1014,6 +1014,13 @@
   mus: 129
   name:  'Dairy Experimental Plaque'
 - fields: 4
+  img:  'http://lh5.ggpht.com/BiCieN-kLaA8XtzYGa1FowWTlW2QzWtnxSCf1y1ChY9WXw1kN0r1Co49FI5D_xcWRrgO-_wOvqfduWQ2o337'
+  lat: 40.092411
+  level: 8
+  lon: -88.257688
+  mus: 129
+  name:  'Champaign Fire Department'
+- fields: 4
   img:  'http://lh3.ggpht.com/Eeot2xjiHI3jS56J2sySBOH0hRVa-VNNF9JZx7nFzgh1-Y6lhbMuognHS-CcMuIuAHyJzWmLBtkQv49sUO2KOg'
   lat: 40.098321
   level: 8
@@ -1531,13 +1538,6 @@
   lon: -88.215485
   mus: 28
   name:  'Champaign County Fairgrounds'
-- fields: 3
-  img:  'http://lh5.ggpht.com/BiCieN-kLaA8XtzYGa1FowWTlW2QzWtnxSCf1y1ChY9WXw1kN0r1Co49FI5D_xcWRrgO-_wOvqfduWQ2o337'
-  lat: 40.092411
-  level: 8
-  lon: -88.257688
-  mus: 27
-  name:  'Champaign Fire Department'
 - fields: 3
   img:  'http://lh6.ggpht.com/fyGq_et8CMSgV7DC-8ojjd4BvSmo7hPghtkd4Mn0dZS5eLOW8xkBuuEKcy2udoGdbodjc61c6IAeb0g3DrQ'
   lat: 40.110498
@@ -2812,27 +2812,6 @@
   lon: -88.237181
   mus: 1
   name:  'Illinois National Guard Armory'
-- fields: 1
-  img:  'http://lh3.ggpht.com/yeYI3q7rDQLA5xBcWfH-Caw2Uh740ZPRQjjyvOrZz7ZyLI-gxBpi8yqxqDrlOBzG9YHs6YlxdgX0obTpXlQ'
-  lat: 40.117681
-  level: 5
-  lon: -88.241405
-  mus: 1
-  name:  'Jupiter''s Downtown'
-- fields: 1
-  img:  'http://lh6.ggpht.com/OWQz-aJYDevguvgr_HtCYk7ccylYLM1bFU42TK9OJxuZWDA87pAsmcMf1amsxh5EagspcAj7Gf4_ZFeTJSf2'
-  lat: 40.117754
-  level: 5
-  lon: -88.241676
-  mus: 1
-  name:  'Jos. Kuhn and Co. Building'
-- fields: 1
-  img:  'http://lh6.ggpht.com/eeOtj4-6PU8Dt6QXk_TJjgkoEGRW9L8YzUqZE8QV5ZMCHnqA5CzoQoxKpnjCvXwaIflUUvPJmO_S7BdvMhcuzw'
-  lat: 40.117588
-  level: 2
-  lon: -88.241787
-  mus: 1
-  name:  'Adam & Eve Mourning Over the Soul of Abel'
 - fields: 1
   img:  'http://lh6.ggpht.com/ukIJOts1W6BPpII4XC4_Q5Wh8Gz8aCNeGUuAtaLknm7OKhNYvlDd71ZN8hcxCRcJDhDjV0qBZgFRyYMGNeS6'
   lat: 40.100203
