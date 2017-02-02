@@ -929,6 +929,13 @@
   lon: -88.243851
   mus: 195
   name:  'Stanchion'
+- fields: 9
+  img:  'http://lh6.ggpht.com/1i7JFIfvKI3IMOAekdomh9jm9HrAhBBdNIOyX81Nkq1Bh49sBqKg37sMm99MYm8yJjHsG4dBdnRg1X5Aq-c'
+  lat: 40.104796
+  level: 7
+  lon: -88.227461
+  mus: 192
+  name:  'Undergraduate Library at UIUC'
 - fields: 2
   img:  'http://lh3.ggpht.com/qWqDj3Ws5ffRyIXG8XxFM41dBDTOBhjCkDgKebjiDFo-5Fyj_ssgLQ_wLM82uWwB2jVkNIYN4nc5U2E3wZoBNQ'
   lat: 40.111037
@@ -936,13 +943,6 @@
   lon: -88.245813
   mus: 190
   name:  'Champaign Public Library'
-- fields: 7
-  img:  'http://lh6.ggpht.com/1i7JFIfvKI3IMOAekdomh9jm9HrAhBBdNIOyX81Nkq1Bh49sBqKg37sMm99MYm8yJjHsG4dBdnRg1X5Aq-c'
-  lat: 40.104796
-  level: 7
-  lon: -88.227461
-  mus: 190
-  name:  'Undergraduate Library at UIUC'
 - fields: 8
   img:  'http://lh3.ggpht.com/M_7h0Ki3Lg0amDbE4TUpTotyGkAdYk7xDRIr6-eTAXwOJQJatUpTrB0j-kizii5hEZFuD8unaxcEhdVKRJs'
   lat: 40.122955
@@ -1461,12 +1461,12 @@
   lon: -88.207738
   mus: 37
   name:  'Urbana''s Bell'
-- fields: 2
+- fields: 3
   img:  'http://lh4.ggpht.com/l4w3T1e27S5zPAMN3Mr-LqJ51cbm26ThR-ubvfUFHpl28dkeRb_CQThuhJ_HSNhdYt_dX9NTAN9hKFsDeWJQ'
   lat: 40.108295
   level: 6
   lon: -88.224083
-  mus: 35
+  mus: 36
   name:  'The Landing'
 - fields: 5
   img:  'http://lh4.ggpht.com/mlUN5QXAR7rKFvUg7yhxcae3udkR7zCJVaWt5sq_YA47piV6tRi42RNN9fEtT_FafT7lhqg26WM1VETbz5E'
@@ -1643,6 +1643,13 @@
   lon: -88.227835
   mus: 23
   name:  'Lion''s Head Planter'
+- fields: 5
+  img:  'http://lh4.ggpht.com/DTGKMEvXrKSLJVBZP6bN7EF-DMHt5l_x3o-C-Ln0FjrGCQcTdcLNaZDI2_OCwEzuqgh8HyyqJwyQkc4-0H8g'
+  lat: 40.106037
+  level: 7
+  lon: -88.226237
+  mus: 23
+  name:  'Triplets'
 - fields: 7
   img:  'http://lh3.ggpht.com/I2Up882o0nHzQof3uWaDFK7KQHkYOu1XgKoXUgQotITYJDh--80GzLnOSI8TxKF3RxsF32zcsYmRF8Fiugpt'
   lat: 40.116413
@@ -1699,13 +1706,6 @@
   lon: -88.248459
   mus: 21
   name:  'Uppercutted Sculpture'
-- fields: 3
-  img:  'http://lh4.ggpht.com/DTGKMEvXrKSLJVBZP6bN7EF-DMHt5l_x3o-C-Ln0FjrGCQcTdcLNaZDI2_OCwEzuqgh8HyyqJwyQkc4-0H8g'
-  lat: 40.106037
-  level: 7
-  lon: -88.226237
-  mus: 21
-  name:  'Triplets'
 - fields: 5
   img:  'http://lh3.googleusercontent.com/m68rgxfyTHzijj23L6S0_kQ0XZ1wS3c0dUjsa4tLjqLJ8eSQ1CuHgWaxDSYthuek2areSlSTRw5Hn_zpJ3cD'
   lat: 40.09428
@@ -2596,6 +2596,13 @@
   mus: 3
   name:  'Church of Christ '
 - fields: 3
+  img:  'http://lh4.ggpht.com/fYq8Qzd7VmDjN_GIWRjblwSGoKKIaUFJTgmMNsJrfWO6c5cZu8xnJc4kDm35ITLO2ePeYakXEDKubdwi0x1K'
+  lat: 40.105179
+  level: 5
+  lon: -88.226931
+  mus: 3
+  name:  'Astronomy Department Sundial'
+- fields: 3
   img:  'http://lh3.ggpht.com/VLipBehsKPCp8ewQnBV1ZCz7uE75zcY46iGDyFfFHgX1o55t3DONb3wcBcL5RMYSqABRK0TgIW3DluNy8y6WaA'
   lat: 40.101131
   level: 8
@@ -2640,7 +2647,7 @@
 - fields: 2
   img:  'http://lh3.ggpht.com/wOZOXhKOnhbKEPMQke-zGIG_vheDkHM8q19B1n_is5H7t1whBcQxBIGZI6VIPNw8mdCNXG6EUZeSjd1YLdngdg'
   lat: 40.108965
-  level: 4
+  level: 1
   lon: -88.227184
   mus: 3
   name:  'U of I Mother''s Association Plaque'
@@ -2861,6 +2868,13 @@
   lon: -88.249845
   mus: 2
   name:  'Thomas R. Sandrock'
+- fields: 1
+  img:  'http://lh3.googleusercontent.com/v44Gf5oEZGcwkQcA2wWz-uAeDFESHj7sEloxdCJd316RPH3w_ln8_9mBEMbAqGyI_2Y2qaYp525PnRip9Rg'
+  lat: 40.105315
+  level: 5
+  lon: -88.226125
+  mus: 1
+  name:  'U of I Observatory'
 - fields: 1
   img:  'http://lh6.ggpht.com/jhMQ5IGo-EB8MiVSEIUKmHbHwagHnJzv5RKZvsbHLes_88gz9Kesj98eZWV29mufV0LSUVjs53V5hMFQOG2Q'
   lat: 40.11067
